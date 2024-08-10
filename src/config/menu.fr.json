@@ -1,24 +1,23 @@
 {
   "main": [
     { "name": "Accueil", "url": "/" },
-    { "name": "À propos", "url": "/about" },
-    { "name": "Éléments", "url": "/elements" },
+    { "name": "FAQs", "url": "/faqs" },
+    { "name": "Discours", "url": "/speeches" },
+    { "name": "Koans", "url": "/koans" },
+    { "name": "Gourous", "url": "/gurus" },
     {
-      "name": "Pages",
+      "name": "Autres",
       "url": "",
       "hasChildren": true,
       "children": [
-        { "name": "Contact", "url": "/contact" },
         { "name": "Blog", "url": "/blog" },
         { "name": "Auteurs", "url": "/authors" },
         { "name": "Catégories", "url": "/categories" },
-        { "name": "Étiquettes", "url": "/tags" },
-        { "name": "Page 404", "url": "/404" }
+        { "name": "Étiquettes", "url": "/tags" }
       ]
     }
   ],
   "footer": [
-    { "name": "Éléments", "url": "/elements" },
-    { "name": "Politique de confidentialité", "url": "/privacy-policy" }
+
   ]
 }

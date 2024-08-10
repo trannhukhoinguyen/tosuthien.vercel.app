@@ -1,24 +1,24 @@
 {
   "main": [
     { "name": "Home", "url": "/" },
-    { "name": "About", "url": "/about" },
-    { "name": "Elements", "url": "/elements" },
+    { "name": "FAQs", "url": "/faqs" },
+    { "name": "Speeches", "url": "/speeches" },
+    { "name": "Koans", "url": "/koans" },
+    { "name": "Gurus", "url": "/gurus" },
     {
-      "name": "Pages",
+      "name": "Others",
       "url": "",
       "hasChildren": true,
       "children": [
-        { "name": "Contact", "url": "/contact" },
         { "name": "Blog", "url": "/blog" },
         { "name": "Authors", "url": "/authors" },
         { "name": "Categories", "url": "/categories" },
-        { "name": "Tags", "url": "/tags" },
-        { "name": "404 Page", "url": "/404" }
+        { "name": "Tags", "url": "/tags" }
       ]
     }
   ],
   "footer": [
-    { "name": "Elements", "url": "/elements" },
-    { "name": "Privacy Policy", "url": "/privacy-policy" }
+    { "name": "100 cubit pole", "url": "/100-cubit-pole" },
+    { "name": "step off 100 cubit pole", "url": "/100-cubit-pole-step-off" }
   ]
 }

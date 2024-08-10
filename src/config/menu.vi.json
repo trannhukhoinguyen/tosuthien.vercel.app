@@ -1,0 +1,23 @@
+{
+  "main": [
+    { "name": "Trang chủ", "url": "/" },
+    { "name": "Hỏi đáp", "url": "/faqs" },
+    { "name": "Ngữ lục", "url": "/speeches" },
+    { "name": "Công án", "url": "/koans" },
+    { "name": "Thiền sư", "url": "/gurus" },
+    {
+      "name": "Khác",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        { "name": "Blog", "url": "/blog" },
+        { "name": "Authors", "url": "/authors" },
+        { "name": "Categories", "url": "/categories" },
+        { "name": "Tags", "url": "/tags" }
+      ]
+    }
+  ],
+  "footer": [
+
+  ]
+}

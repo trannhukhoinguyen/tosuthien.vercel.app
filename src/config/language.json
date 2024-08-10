@@ -2,13 +2,19 @@
   {
     "languageName": "En",
     "languageCode": "en",
-    "contentDir": "english",
+    "contentDir": "en",
     "weight": 1
   },
   {
     "languageName": "Fr",
     "languageCode": "fr",
-    "contentDir": "french",
+    "contentDir": "fr",
     "weight": 2
+  },
+  {
+    "languageName": "Vi",
+    "languageCode": "vi",
+    "contentDir": "vi",
+    "weight": 3
   }
 ]
