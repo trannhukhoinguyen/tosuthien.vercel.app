@@ -1,12 +1,12 @@
 ---
-title: "Comment créer une application avec des technologies modernes"
+title: "4"
 meta_title: ""
 description: "Ceci est une méta-description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Software"]
+categories: ["Architecture"]
 author: "John Doe"
-tags: ["software", "tailwind"]
+tags: ["silicon", "technology"]
 draft: false
 ---
 

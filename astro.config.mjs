@@ -32,7 +32,9 @@ export default defineConfig({
   },
   integrations: [
     react(),
-    sitemap(),
+    sitemap({
+      changefreq: 'daily',
+    }),
     tailwind({
       config: {
         applyBaseStyles: false,

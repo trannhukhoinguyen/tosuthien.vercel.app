@@ -2,16 +2,16 @@
   "main": [
     { "name": "Accueil", "url": "/" },
     { "name": "FAQs", "url": "/faqs" },
-    { "name": "Discours", "url": "/speeches" },
-    { "name": "Koans", "url": "/koans" },
-    { "name": "Gourous", "url": "/gurus" },
+    { "name": "Discours", "url": "/cautions" },
+
     {
       "name": "Autres",
-      "url": "",
+      "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "Blog", "url": "/blog" },
-        { "name": "Auteurs", "url": "/authors" },
+        { "name": "Koans", "url": "/koans" },
+        { "name": "Gourous", "url": "/gurus" },
+        { "name": "Livres", "url": "/books" },
         { "name": "Catégories", "url": "/categories" },
         { "name": "Étiquettes", "url": "/tags" }
       ]

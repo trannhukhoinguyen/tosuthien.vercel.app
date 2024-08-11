@@ -2,16 +2,16 @@
   "main": [
     { "name": "Trang chủ", "url": "/" },
     { "name": "Hỏi đáp", "url": "/faqs" },
-    { "name": "Ngữ lục", "url": "/speeches" },
-    { "name": "Công án", "url": "/koans" },
-    { "name": "Thiền sư", "url": "/gurus" },
+    { "name": "Cảnh ngữ", "url": "/cautions" },
+
     {
       "name": "Khác",
-      "url": "",
+      "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "Blog", "url": "/blog" },
-        { "name": "Authors", "url": "/authors" },
+        { "name": "Công án", "url": "/koans" },
+        { "name": "Thiền sư", "url": "/gurus" },
+        { "name": "Sách", "url": "/books" },
         { "name": "Categories", "url": "/categories" },
         { "name": "Tags", "url": "/tags" }
       ]
