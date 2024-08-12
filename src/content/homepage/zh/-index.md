@@ -6,14 +6,14 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started"
-    link: "/zen"
+    label: "WHO ARE YOU?"
+    link: "/"
 
 # Features
 features:
   - title: "What's Included in Astroplate"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "WHO ARE YOU?"
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
@@ -23,8 +23,8 @@ features:
       - "**Open-source and free** for personal and commercial use"
     button:
       enable: false
-      label: "Get Started"
-      link: "/zen"
+      label: "WHO ARE YOU?"
+      link: "/"
 
   - title: "Discover the Key Features Of Astro"
     image: "/images/service-2.png"
@@ -35,8 +35,8 @@ features:
       - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     button:
       enable: true
-      label: "Get Started"
-      link: "/zen"
+      label: "WHO ARE YOU?"
+      link: "/
 
   - title: "The Top Reasons to Choose Astro for Your Next Project"
     image: "/images/service-3.png"

@@ -32,8 +32,8 @@
 
   "navigation_button": {
     "enable": false,
-    "label": "Get Started",
-    "link": "/zen"
+    "label": "WHO ARE YOU?",
+    "link": "/"
   },
 
   "disqus": {

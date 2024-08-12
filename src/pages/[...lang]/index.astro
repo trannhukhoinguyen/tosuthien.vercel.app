@@ -9,6 +9,7 @@ import HuaTou from "../../layouts/partials/Huatou.astro";
 import type { Feature } from "@/types";
 import type { ContentEntryMap } from "astro:content";
 import { FaCheck } from "react-icons/fa";
+import TourComp from "../../layouts/helpers/Tour";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -74,6 +75,7 @@ const call_to_action = await getSinglePage(
           )
         }
       </div>
+      <TourComp title="WHO ARE YOU" client:load />
     </div>
   </section>
   <!-- /Banner -->
