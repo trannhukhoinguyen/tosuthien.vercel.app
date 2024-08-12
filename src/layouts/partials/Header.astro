@@ -11,6 +11,7 @@ import {
 } from "@/lib/utils/languageParser";
 import type { ContentEntryMap } from "astro:content";
 import { IoSearch } from "react-icons/io5";
+import TourComp from "../helpers/Tour";
 
 let lang = getLangFromUrl(Astro.url);
 const menu = await getTranslations(lang as keyof ContentEntryMap);
@@ -32,6 +33,7 @@ if (disabledLanguages.includes(lang)) {
     <div class="order-0">
       <Logo />
     </div>
+    <TourComp title="WHO ARE YOU" client:load style="margin-left: 50%"/>
     {/* navbar toggler */}
     <input id="nav-toggle" type="checkbox" class="hidden" />
     <label

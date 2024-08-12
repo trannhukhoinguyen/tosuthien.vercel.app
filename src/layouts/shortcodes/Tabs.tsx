@@ -60,7 +60,7 @@ const Tabs = ({ children }: { children: React.ReactElement }) => {
           className={active === i ? "tab-content block px-5" : "hidden"}
           key={i}
           dangerouslySetInnerHTML={{
-            __html: marked.parse(item.children),
+            __html: marked.parse(item.children ? item.children : ''),
           }}
         />
       ))}
