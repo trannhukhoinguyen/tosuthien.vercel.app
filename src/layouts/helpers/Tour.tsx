@@ -30,7 +30,7 @@ const TourComp: React.FC<{ title:string }> = ({ title}) => {
   return (
     <>
       <Button type="primary" onClick={() => setOpen(true)} ref={ref}>
-        Begin Tour
+        { title }
       </Button>
 
       <Tour open={open} onClose={() => setOpen(false)} steps={steps} />
