@@ -5,7 +5,7 @@ import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import { markdownify } from "@/lib/utils/textConverter";
 import CallToAction from "@/partials/CallToAction.astro";
-import Testimonial from "@/partials/Testimonial.astro";
+import HuaTou from "../../layouts/partials/Huatou.astro";
 import type { Feature } from "@/types";
 import type { ContentEntryMap } from "astro:content";
 import { FaCheck } from "react-icons/fa";
@@ -21,10 +21,10 @@ const { lang } = Astro.params;
 const homepage = await getListPage("homepage", lang as keyof ContentEntryMap);
 const { banner, features } = homepage[0].data;
 
-const testimonial = await getSinglePage(
+const huatou = await getSinglePage(
   "sections",
   lang as keyof ContentEntryMap,
-  "testimonial"
+  "huatou"
 );
 
 const call_to_action = await getSinglePage(
@@ -119,6 +119,6 @@ const call_to_action = await getSinglePage(
   }
   <!-- /Features -->
 
-  <Testimonial testimonial={testimonial[0]} />
+  <HuaTou huatous={huatou[0]} />
   <CallToAction call_to_action={call_to_action[0]} />
 </Base>

@@ -12,9 +12,27 @@
     "weight": 2
   },
   {
+    "languageName": "Zh",
+    "languageCode": "zh",
+    "contentDir": "zh",
+    "weight": 3
+  },
+  {
+    "languageName": "Ko",
+    "languageCode": "ko",
+    "contentDir": "ko",
+    "weight": 4
+  },
+  {
+    "languageName": "Ja",
+    "languageCode": "ja",
+    "contentDir": "ja",
+    "weight": 5
+  },
+  {
     "languageName": "Vi",
     "languageCode": "vi",
     "contentDir": "vi",
-    "weight": 3
+    "weight": 6
   }
 ]

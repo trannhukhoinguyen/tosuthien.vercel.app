@@ -107,16 +107,16 @@ const contentCollection = defineCollection({
   schema: contentSchema,
 });
 
-// Testimonial schema
-const testimonialSchema = z.object({
+// huatou schema
+const huatouSchema = z.object({
   name: z.string(),
   designation: z.string(),
   avatar: z.string(),
   content: z.string(),
 });
 
-// Testimonials schema
-const testimonialsSchema = z.array(testimonialSchema);
+// huatous schema
+const huatousSchema = z.array(huatouSchema);
 
 // Call to Action schema
 const callToActionSchema = z.object({
@@ -139,6 +139,6 @@ export const collections = {
   contact: contactCollection,
   about: aboutCollection,
   content: contentCollection,
-  testimonials: testimonialsSchema,
+  huatous: huatousSchema,
   callToAction: callToActionSchema,
 };

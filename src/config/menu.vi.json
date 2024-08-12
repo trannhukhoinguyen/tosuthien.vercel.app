@@ -12,8 +12,7 @@
         { "name": "Công án", "url": "/koans" },
         { "name": "Thiền sư", "url": "/gurus" },
         { "name": "Sách", "url": "/books" },
-        { "name": "Categories", "url": "/categories" },
-        { "name": "Tags", "url": "/tags" }
+        { "name": "Categories", "url": "/categories" }
       ]
     }
   ],

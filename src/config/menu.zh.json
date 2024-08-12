@@ -1,0 +1,23 @@
+{
+  "main": [
+    { "name": "Home", "url": "/" },
+    { "name": "FAQs", "url": "/faqs" },
+    { "name": "Cautions", "url": "/cautions" },
+    {
+      "name": "Others",
+      "url": "/others",
+      "hasChildren": true,
+      "children": [
+        { "name": "Koans", "url": "/koans" },
+        { "name": "Gurus", "url": "/gurus" },
+        { "name": "Books", "url": "/books" },
+        { "name": "Categories", "url": "/categories" },
+        { "name": "Tags", "url": "/tags" }
+      ]
+    }
+  ],
+  "footer": [
+    { "name": "100 cubit pole", "url": "/100-cubit-pole" },
+    { "name": "step off 100 cubit pole", "url": "/100-cubit-pole-step-off" }
+  ]
+}

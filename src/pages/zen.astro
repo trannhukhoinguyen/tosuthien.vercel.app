@@ -1,0 +1,28 @@
+---
+import TourComp from "../layouts/helpers/Tour";
+import Base from "@/layouts/Base.astro";
+import { getListPage } from "@/lib/contentParser.astro";
+import type { ContentEntryMap } from "astro:content";
+
+const { lang } = Astro.params;
+const about = await getListPage("about", lang as keyof ContentEntryMap);
+const { title, description, meta_title, image } = about[0].data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="text-center md:col-10 lg:col-7">
+        <TourComp title="Zen" client:load />
+      </div>
+    </div>
+  </div>
+</section>
+</Base>
+
