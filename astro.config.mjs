@@ -32,6 +32,7 @@ export default defineConfig({
     service: squooshImageService(),
   },
   integrations: [
+    antd(),
     react(),
     sitemap({
       changefreq: 'daily',
