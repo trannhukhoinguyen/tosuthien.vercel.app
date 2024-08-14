@@ -4,9 +4,9 @@ meta_title: ""
 description: "Ceci est une méta-description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["french","Application", "Data"]
+categories: ["Buddhist teachings", "Zen Buddhism", "Cause and Effect", "Monastic Life", "Layman Life"]
 guru: "John Doe"
-tags: ["nextjs", "tailwind", "react"]
+tags: ["Resolve doubts", "Correct mistakes"]
 draft: false
 ---
 

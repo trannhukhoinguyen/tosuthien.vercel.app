@@ -5,8 +5,7 @@ description: "HT. Thích Duy Lực Giải nghi & Chỉnh sửa"
 date: 2022-08-13T23:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Hỏi đáp", "Ngữ lục"]
-author: "HT. Thích Duy Lực"
-tags: ["Phật Pháp", "Thiền", "Nhân Quả", "Giải Nghi", "Chỉnh Sửa"]
+tags: ["Resolve doubts", "Correct mistakes"]
 draft: false
 ---
 

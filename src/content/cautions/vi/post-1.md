@@ -4,9 +4,9 @@ meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Hỏi đáp", "Ngữ lục"]
+categories: ["Buddhist teachings", "Zen Buddhism", "Cause and Effect", "Monastic Life", "Layman Life"]
 author: "HT. Thích Duy Lực"
-tags: ["Phật Pháp", "Thiền", "Nhân Quả", "Giải Nghi", "Chỉnh Sửa"]
+tags: ["Resolve doubts", "Correct mistakes"]
 draft: false
 ---
 
