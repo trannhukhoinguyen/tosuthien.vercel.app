@@ -41,7 +41,7 @@ const indexOfFirstPost = indexOfLastPost - config.settings.pagination;
 const currentPosts = sortedPosts.slice(indexOfFirstPost, indexOfLastPost);
 
 export async function getStaticPaths() {
-  const BLOG_FOLDER = "blog";
+  const BLOG_FOLDER = "cautions";
 
   const paths = await Promise.all(
     supportedLang.map(async (lang) => {

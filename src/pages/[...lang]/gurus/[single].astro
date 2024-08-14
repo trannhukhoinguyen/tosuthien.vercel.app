@@ -19,13 +19,13 @@ export async function getStaticPaths() {
         lang as keyof ContentEntryMap
       );
 
-      return gurus.map((author) => ({
+      return gurus.map((guru) => ({
         params: {
           lang: lang || undefined,
-          single: author.slug.split("/").pop(),
+          single: guru.slug.split("/").pop(),
         },
         props: {
-          author,
+          guru,
           lang,
         },
       }));
@@ -34,15 +34,15 @@ export async function getStaticPaths() {
   return paths.flat();
 }
 
-const { author, lang } = Astro.props;
-const { title, social, meta_title, description, image } = author.data;
-const { Content } = await author.render();
+const { guru, lang } = Astro.props;
+const { title, social, meta_title, description, image } = guru.data;
+const { Content } = await guru.render();
 
-// get all posts by author
+// get all posts by guru
 const BLOG_FOLDER = "blog";
 const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
-const postFilterByAuthor = posts.filter(
-  (post) => slugify(post.data.author) === slugify(title)
+const postFilterByGuru = posts.filter(
+  (post) => slugify(post.data.guru) === slugify(title)
 );
 ---
 
@@ -80,7 +80,7 @@ const postFilterByAuthor = posts.filter(
 
       <div class="row justify-center pb-16 pt-14">
         {
-          postFilterByAuthor.map((post) => (
+          postFilterByGuru.map((post) => (
             <div class="mb-12 md:col-6 lg:col-4">
               <BlogCard data={post} />
             </div>

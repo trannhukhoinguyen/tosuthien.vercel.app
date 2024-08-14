@@ -2,7 +2,7 @@
   "name": "astroplate",
   "version": "4.0.0",
   "description": "Astro and Tailwindcss boilerplate",
-  "author": "zeon.studio",
+  "guru": "zeon.studio",
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {

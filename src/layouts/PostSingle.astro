@@ -27,7 +27,7 @@ const posts = await getSinglePage(
 );
 const similarPosts = similarItems(post, posts);
 const { Content } = await post.render();
-const { title, description, author, categories, image, date, tags } = post.data;
+const { title, description, guru, categories, image, date, tags } = post.data;
 ---
 
 <section class="section pt-7">
@@ -51,9 +51,9 @@ const { title, description, author, categories, image, date, tags } = post.data;
         <h1 set:html={markdownify(title)} class="h2 mb-4" />
         <ul class="mb-4">
           <li class="mr-4 inline-block">
-            <a href={slugSelector(`/authors/${slugify(author)}`, lang)}>
+            <a href={slugSelector(`/gurus/${slugify(guru)}`, lang)}>
               <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
-              {humanize(author)}
+              {humanize(guru)}
             </a>
           </li>
           <li class="mr-4 inline-block">

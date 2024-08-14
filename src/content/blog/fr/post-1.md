@@ -5,7 +5,7 @@ description: "Ceci est une méta-description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["french","Application", "Data"]
-author: "John Doe"
+guru: "John Doe"
 tags: ["nextjs", "tailwind", "react"]
 draft: false
 ---

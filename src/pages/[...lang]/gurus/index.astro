@@ -1,5 +1,5 @@
 ---
-import AuthorCard from "@/components/AuthorCard.astro";
+import GuruCard from "../../../layouts/components/GuruCard.astro";
 import Base from "@/layouts/Base.astro";
 import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
@@ -16,7 +16,7 @@ export function getStaticPaths() {
 }
 
 const { lang } = Astro.params;
-const authorIndex = await getListPage(
+const guruIndex = await getListPage(
   COLLECTION_FOLDER,
   lang as keyof ContentEntryMap
 );
@@ -26,15 +26,15 @@ const gurus = await getSinglePage(
 );
 ---
 
-<Base title={authorIndex[0].data.title}>
-  <PageHeader title={authorIndex[0].data.title} />
+<Base title={guruIndex[0].data.title}>
+  <PageHeader title={guruIndex[0].data.title} />
   <section class="section-sm pb-0">
     <div class="container">
       <div class="row justify-center">
         {
-          gurus.map((author) => (
+          gurus.map((guru) => (
             <div class="mb-14 md:col-6 lg:col-4">
-              <AuthorCard data={author} />
+              <GuruCard data={guru} />
             </div>
           ))
         }

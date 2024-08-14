@@ -8,19 +8,70 @@ const blogCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    author: z.string().default("Admin"),
+    guru: z.string().default("Admin"),
+    categories: z.array(z.string()).default(["others"]),
+    tags: z.array(z.string()).default(["others"]),
+    draft: z.boolean().optional(),
+  }),
+});
+const faqsCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    guru: z.string().default("Admin"),
+    categories: z.array(z.string()).default(["others"]),
+    tags: z.array(z.string()).default(["others"]),
+    draft: z.boolean().optional(),
+  }),
+});
+const koansCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    guru: z.string().default("Admin"),
+    categories: z.array(z.string()).default(["others"]),
+    tags: z.array(z.string()).default(["others"]),
+    draft: z.boolean().optional(),
+  }),
+});
+const cautionsCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    guru: z.string().default("Admin"),
+    categories: z.array(z.string()).default(["others"]),
+    tags: z.array(z.string()).default(["others"]),
+    draft: z.boolean().optional(),
+  }),
+});
+const booksCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    guru: z.string().default("Admin"),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
   }),
 });
 
-// Author collection schema
-const authorsCollection = defineCollection({
+// Guru collection schema
+const gurusCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     meta_title: z.string().optional(),
-    email: z.string().optional(),
     image: z.string().optional(),
     description: z.string().optional(),
     social: z
@@ -62,6 +113,42 @@ const contactCollection = defineCollection({
 
 // About collection schema
 const aboutCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    image: z.string(),
+    draft: z.boolean().optional(),
+  }),
+});
+const dharmaRealmCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    image: z.string(),
+    draft: z.boolean().optional(),
+  }),
+});
+const initialPassCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    image: z.string(),
+    draft: z.boolean().optional(),
+  }),
+});
+const nextPassCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    image: z.string(),
+    draft: z.boolean().optional(),
+  }),
+});
+const lastPassCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     meta_title: z.string().optional(),
@@ -134,10 +221,18 @@ const callToActionSchema = z.object({
 // Export collections
 export const collections = {
   blog: blogCollection,
-  authors: authorsCollection,
+  faqs: faqsCollection,
+  koans: koansCollection,
+  cautions: cautionsCollection,
+  books: booksCollection,
+  gurus: gurusCollection,
   pages: pagesCollection,
   contact: contactCollection,
   about: aboutCollection,
+  dharmaRealm: dharmaRealmCollection,
+  initialPass: initialPassCollection,
+  nextPass: nextPassCollection,
+  lastPass: lastPassCollection,
   content: contentCollection,
   huatous: huatousSchema,
   callToAction: callToActionSchema,
