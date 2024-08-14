@@ -6,7 +6,7 @@ date: 2022-08-13T23:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Buddhist teachings", "Zen Buddhism", "Cause and Effect", "Monastic Life", "Layman Life"]
 author: "HT. Thích Duy Lực"
-tags: ["Resolve doubts", "Correct mistakes"]
+tags: ["Resolve doubts", "Correct mistakes", "FAQs"]
 draft: false
 ---
 

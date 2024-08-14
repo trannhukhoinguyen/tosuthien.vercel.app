@@ -4,8 +4,8 @@ meta_title: ""
 description: "HT. Thích Duy Lực Giải nghi & Chỉnh sửa"
 date: 2022-08-13T23:44:00Z
 image: "/images/image-placeholder.png"
-categories: ["Hỏi đáp", "Ngữ lục"]
-tags: ["Resolve doubts", "Correct mistakes"]
+categories: ["Buddhist teachings", "Zen Buddhism", "Cause and Effect", "Monastic Life", "Layman Life"]
+tags: ["Resolve doubts", "Correct mistakes", "FAQs"]
 draft: false
 ---
 

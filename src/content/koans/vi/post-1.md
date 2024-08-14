@@ -4,9 +4,9 @@ meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Buddhist teachings", "Zen Buddhism", "Cause and Effect", "Monastic Life", "Layman Life"]
+categories: ["Zen Buddhism"]
 author: "John Doe"
-tags: ["Resolve doubts", "Correct mistakes"]
+tags: ["Resolve doubts", "Correct mistakes", "Koan"]
 draft: false
 ---
 
