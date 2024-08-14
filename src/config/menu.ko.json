@@ -1,23 +1,25 @@
 {
   "main": [
-    { "name": "Home", "url": "/" },
-    { "name": "FAQs", "url": "/faqs" },
-    { "name": "Cautions", "url": "/cautions" },
+    { "name": "집", "url": "/" },
+    { "name": "자주 묻는 질문", "url": "/faqs" },
+    { "name": "주의사항", "url": "/cautions" },
+    { "name": "법계", "url": "/dharma-realm" },
     {
-      "name": "Others",
+      "name": "기타",
       "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "Koans", "url": "/koans" },
-        { "name": "Gurus", "url": "/gurus" },
-        { "name": "Books", "url": "/books" },
-        { "name": "Categories", "url": "/categories" },
-        { "name": "Tags", "url": "/tags" }
+        { "name": "화두", "url": "/koans" },
+        { "name": "전문가", "url": "/gurus" },
+        { "name": "서적", "url": "/books" },
+        { "name": "카테고리", "url": "/categories" },
+        { "name": "태그", "url": "/tags" }
       ]
     }
   ],
   "footer": [
-    { "name": "100 cubit pole", "url": "/100-cubit-pole" },
-    { "name": "step off 100 cubit pole", "url": "/100-cubit-pole-step-off" }
+    { "name": "초기 패스", "url": "/initial-pass" },
+    { "name": "다음 패스", "url": "/next-pass" },
+    { "name": "마지막 패스", "url": "/last-pass" }
   ]
 }

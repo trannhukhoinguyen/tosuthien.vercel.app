@@ -1,23 +1,25 @@
 {
   "main": [
-    { "name": "Home", "url": "/" },
-    { "name": "FAQs", "url": "/faqs" },
-    { "name": "Cautions", "url": "/cautions" },
+    { "name": "家", "url": "/" },
+    { "name": "よくある質問", "url": "/faqs" },
+    { "name": "注意事項", "url": "/cautions" },
+    { "name": "法界", "url": "/dharma-realm" },
     {
-      "name": "Others",
+      "name": "その他",
       "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "Koans", "url": "/koans" },
-        { "name": "Gurus", "url": "/gurus" },
-        { "name": "Books", "url": "/books" },
-        { "name": "Categories", "url": "/categories" },
-        { "name": "Tags", "url": "/tags" }
+        { "name": "公案", "url": "/koans" },
+        { "name": "達人", "url": "/gurus" },
+        { "name": "本", "url": "/books" },
+        { "name": "カテゴリー", "url": "/categories" },
+        { "name": "タグ", "url": "/tags" }
       ]
     }
   ],
   "footer": [
-    { "name": "100 cubit pole", "url": "/100-cubit-pole" },
-    { "name": "step off 100 cubit pole", "url": "/100-cubit-pole-step-off" }
+    { "name": "初期パス", "url": "/initial-pass" },
+    { "name": "次のパス", "url": "/next-pass" },
+    { "name": "ラストパス", "url": "/last-pass" }
   ]
 }

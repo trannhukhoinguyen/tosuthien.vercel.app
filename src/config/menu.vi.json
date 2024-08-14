@@ -3,6 +3,7 @@
     { "name": "Trang chủ", "url": "/" },
     { "name": "Hỏi đáp", "url": "/faqs" },
     { "name": "Cảnh ngữ", "url": "/cautions" },
+    { "name": "Pháp giới", "url": "/dharma-realm" },
 
     {
       "name": "Khác",
@@ -12,11 +13,14 @@
         { "name": "Công án", "url": "/koans" },
         { "name": "Thiền sư", "url": "/gurus" },
         { "name": "Sách", "url": "/books" },
-        { "name": "Categories", "url": "/categories" }
+        { "name": "Categories", "url": "/categories" },
+        { "name": "Tags", "url": "/tags" }
       ]
     }
   ],
   "footer": [
-
+    { "name": "Sơ quan", "url": "/initial-pass" },
+    { "name": "Trùng quan", "url": "/next-pass" },
+    { "name": "Mạt hậu lao quan", "url": "/last-pass" }
   ]
 }

@@ -4,9 +4,7 @@ title: "Hua Tou"
 description: "point beyond which speech exhausts itself"
 
 # Huatous
-huatous:
-  
-
+huatous: 
   - name: ""
     designation: ""
     avatar: ""

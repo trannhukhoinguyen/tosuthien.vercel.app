@@ -11,5 +11,25 @@
   "anything_else": "Anything else?",
   "page_not_found_content": "The page you are looking for may have been removed, renamed, or is temporarily unavailable.",
   "back_to_home": "Back to Home",
-  "get_started": "WHO ARE YOU?"
+  "get_started": "WHO ARE YOU?",
+
+  "about": "About",
+  "back": "Back",
+  "cancel": "Cancel",
+  "clear": "lear",
+  "copy": "Copy",
+  "cut": "Cut",
+  "delete": "Delete",
+  "edit": "Edit",
+  "forward": "Forward",
+  "folder": "New folder",
+  "file": "New file",
+  "full_screen": "Full screen",
+  "grid": "Grid",
+  "paste": "Paste",
+  "refresh": "Refresh",
+  "table": "Table",
+  "upload": "Upload",
+  "upload_select": "Select files",
+  "hidden": "Hidden files"
 }

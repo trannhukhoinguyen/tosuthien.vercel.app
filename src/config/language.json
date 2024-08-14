@@ -12,12 +12,6 @@
     "weight": 2
   },
   {
-    "languageName": "Zh",
-    "languageCode": "zh",
-    "contentDir": "zh",
-    "weight": 3
-  },
-  {
     "languageName": "Ko",
     "languageCode": "ko",
     "contentDir": "ko",
@@ -34,5 +28,23 @@
     "languageCode": "vi",
     "contentDir": "vi",
     "weight": 6
+  },
+  {
+    "languageName": "Ru",
+    "languageCode": "ru",
+    "contentDir": "ru",
+    "weight": 7
+  },
+  {
+    "languageName": "Zh-Cn",
+    "languageCode": "zh-cn",
+    "contentDir": "zh-cn",
+    "weight": 8
+  },
+  {
+    "languageName": "Zh-Tw",
+    "languageCode": "zh-tw",
+    "contentDir": "zh-tw",
+    "weight": 9
   }
 ]

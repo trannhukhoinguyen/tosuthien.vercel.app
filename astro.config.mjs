@@ -8,7 +8,6 @@ import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
 import languagesJSON from "./src/config/language.json";
-import antd from "antd";
 const { default_language } = config.settings;
 
 const supportedLang = [...languagesJSON.map((lang) => lang.languageCode)];
@@ -19,7 +18,6 @@ const filteredSupportedLang = supportedLang.filter(
   (lang) => !disabledLanguages.includes(lang),
 );
 
-// https://astro.build/config
 export default defineConfig({
   site: config.site.base_url ? config.site.base_url : "https://patriarchalzen.quest",
   base: config.site.base_path ? config.site.base_path : "/",
@@ -32,7 +30,6 @@ export default defineConfig({
     service: squooshImageService(),
   },
   integrations: [
-    antd(),
     react(),
     sitemap({
       changefreq: 'daily',

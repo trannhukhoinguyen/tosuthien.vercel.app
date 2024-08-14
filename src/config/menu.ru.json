@@ -1,0 +1,25 @@
+{
+  "main": [
+    { "name": "Главная", "url": "/" },
+    { "name": "Часто задаваемые вопросы", "url": "/faqs" },
+    { "name": "Речь", "url": "/cautions" },
+    { "name": "Царство Дхармы", "url": "/dharma-realm" },
+    {
+      "name": "Другие",
+      "url": "/others",
+      "hasChildren": true,
+      "children": [
+        { "name": "Коаны", "url": "/koans" },
+        { "name": "Гуру", "url": "/gurus" },
+        { "name": "Книги", "url": "/books" },
+        { "name": "Категории", "url": "/categories" },
+        { "name": "Теги", "url": "/tags" }
+      ]
+    }
+  ],
+  "footer": [
+    { "name": "Начальный проход", "url": "/initial-pass" },
+    { "name": "Следующий проход", "url": "/next-pass" },
+    { "name": "Последний проход", "url": "/last-pass" }
+  ]
+}

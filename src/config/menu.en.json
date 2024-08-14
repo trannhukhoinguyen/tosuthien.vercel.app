@@ -3,6 +3,7 @@
     { "name": "Home", "url": "/" },
     { "name": "FAQs", "url": "/faqs" },
     { "name": "Cautions", "url": "/cautions" },
+    { "name": "Dharma realm", "url": "/dharma-realm" },
     {
       "name": "Others",
       "url": "/others",
@@ -17,7 +18,8 @@
     }
   ],
   "footer": [
-    { "name": "100 cubit pole", "url": "/100-cubit-pole" },
-    { "name": "step off 100 cubit pole", "url": "/100-cubit-pole-step-off" }
+    { "name": "Initial Pass", "url": "/initial-pass" },
+    { "name": "Next Pass", "url": "/next-pass" },
+    { "name": "Last Pass", "url": "/last-pass" }
   ]
 }
