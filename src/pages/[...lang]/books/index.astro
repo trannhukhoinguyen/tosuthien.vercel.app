@@ -21,8 +21,8 @@ if (!lang) {
 }
 
 const langCollection: keyof ContentEntryMap = lang as keyof ContentEntryMap;
-const categories = await getTaxonomy(langCollection, "categories");
-const allCategories = await getAllTaxonomy(langCollection, "categories");
+const categories = await getTaxonomy(langCollection, "books_categories");
+const allCategories = await getAllTaxonomy(langCollection, "books_categories");
 ---
 
 <Base title={"Books"}>

@@ -27,11 +27,11 @@ const postIndex: any = await getListPage(
 const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
 const allCategories = await getAllTaxonomy(
   lang as keyof ContentEntryMap,
-  "categories"
+  "faqs_categories"
 );
 const categories = await getTaxonomy(
   lang as keyof ContentEntryMap,
-  "categories"
+  "faqs_categories"
 );
 const tags = await getTaxonomy(lang as keyof ContentEntryMap, "tags");
 const sortedPosts = sortByDate(posts);
@@ -87,7 +87,7 @@ export async function getStaticPaths() {
             {
               currentPosts.map((post) => (
                 <div class="mb-14 md:col-6">
-                  <BlogCard data={post} />
+                  <BlogCard data={post} slugDefault="faqs" />
                 </div>
               ))
             }

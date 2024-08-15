@@ -1,20 +1,7 @@
 ---
-title: Bồ Đề Đạt Ma
-email: 
+title: Bodhidharma
 image: "/images/avatar.png"
-description: Bồ-đề-đạt-ma (zh. 菩提達磨, sa. bodhidharma, ja. bodai daruma), dịch nghĩa là Giác Pháp (zh. 覺法), người Ấn Độ, (~470 - 543). Ông được coi là người truyền bá và sáng lập ra Thiền học và Võ thuật tới Trung Quốc. Theo truyền thuyết Trung Quốc, ông đã truyền thụ phương pháp rèn luyện thân thể cho các nhà sư Thiếu Lâm và dẫn đến việc hình thành môn võ Thiếu Lâm. Ông cũng là cha đẻ của Thiền tông Trung Quốc.
-social:
-  - name: github
-    icon: FaGithub
-    link: https://github.com
-
-  - name: twitter
-    icon: FaTwitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: FaLinkedin
-    link: https://linkedin.com
+description: Bodhidharma was a semi-legendary Buddhist monk who lived during the 5th or 6th century CE. He is traditionally credited as the transmitter of Chan Buddhism to China, and is regarded as its first Chinese patriarch. According to a 17th-century apocryphal story found in a manual called Yijin Jing, he began the physical training of the monks of Shaolin Monastery that led to the creation of Shaolin kungfu. He is known as Dámó in China and as Daruma in Japan. His name means "dharma of awakening (bodhi)" in Sanskrit.
 ---
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.

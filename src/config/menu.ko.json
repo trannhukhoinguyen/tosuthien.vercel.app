@@ -18,8 +18,6 @@
     }
   ],
   "footer": [
-    { "name": "초기 패스", "url": "/initial-pass" },
-    { "name": "다음 패스", "url": "/next-pass" },
-    { "name": "마지막 패스", "url": "/last-pass" }
+
   ]
 }

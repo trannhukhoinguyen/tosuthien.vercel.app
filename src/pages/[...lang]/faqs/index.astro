@@ -40,6 +40,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
   description={postIndex[0].data.description}
 >
 <PageHeader title={postIndex[0].data.title} />
+
 <section class="section">
   <div class="container">
     <div class="row gx-5">
@@ -49,7 +50,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
           {
             currentPosts.map((post) => (
               <div class="mb-14 md:col-6">
-                <BlogCard data={post} />
+                <BlogCard data={post} slugDefault="faqs" />
               </div>
             ))
           }
@@ -60,7 +61,6 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
           totalPages={totalPages}
         />
       </div>
-
       <!-- sidebar -->
       <PostSidebar
         categories={categories}

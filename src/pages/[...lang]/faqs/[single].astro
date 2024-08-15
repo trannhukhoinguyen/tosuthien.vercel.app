@@ -4,6 +4,7 @@ import PostSingle from "@/layouts/PostSingle.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import type { ContentEntryMap } from "astro:content";
+import BlogCard from "../../../layouts/components/BlogCard.astro";
 
 export async function getStaticPaths() {
   const BLOG_FOLDER = "faqs";
@@ -39,5 +40,5 @@ const { title, meta_title, description, image } = post.data;
   description={description}
   image={image}
 >
-  <PostSingle post={post} />
+  <PostSingle post={post} slugDefault="faqs" />
 </Base>

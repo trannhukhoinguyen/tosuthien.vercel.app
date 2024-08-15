@@ -1,0 +1,23 @@
+{
+  "main": [
+    { "name": "家", "url": "/" },
+    { "name": "常见问题解答", "url": "/faqs" },
+    { "name": "注意事项", "url": "/cautions" },
+    { "name": "法界", "url": "/dharma-realm" },
+    {
+      "name": "其他的",
+      "url": "/others",
+      "hasChildren": true,
+      "children": [
+        { "name": "公案", "url": "/koans" },
+        { "name": "大师", "url": "/gurus" },
+        { "name": "图书", "url": "/books" },
+        { "name": "类别", "url": "/categories" },
+        { "name": "标签", "url": "/tags" }
+      ]
+    }
+  ],
+  "footer": [
+
+  ]
+}

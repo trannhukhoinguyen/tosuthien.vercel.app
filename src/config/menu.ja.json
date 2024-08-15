@@ -18,8 +18,6 @@
     }
   ],
   "footer": [
-    { "name": "初期パス", "url": "/initial-pass" },
-    { "name": "次のパス", "url": "/next-pass" },
-    { "name": "ラストパス", "url": "/last-pass" }
+
   ]
 }

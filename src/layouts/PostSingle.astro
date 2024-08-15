@@ -14,7 +14,7 @@ import ImageMod from "./components/ImageMod.astro";
 const { default_language } = config.settings;
 
 const COLLECTION_FOLDER = "blog";
-const { post } = Astro.props;
+const { post, slugDefault } = Astro.props;
 let { lang } = Astro.params;
 
 if (!lang) {
@@ -59,7 +59,7 @@ const { title, description, guru, categories, image, date, tags } = post.data;
           <li class="mr-4 inline-block">
             <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
             {
-              categories.map((category: string, index: number) => (
+              categories?.map((category: string, index: number) => (
                 <a
                   href={slugSelector(`/categories/${slugify(category)}`, lang)}
                 >
@@ -116,7 +116,7 @@ const { title, description, guru, categories, image, date, tags } = post.data;
         {
           similarPosts.map((post) => (
             <div class="lg:col-4 md:col-6 mb-14">
-              <BlogCard data={post} />
+              <BlogCard data={post} slugDefault={slugDefault} />
             </div>
           ))
         }

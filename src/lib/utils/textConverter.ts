@@ -8,11 +8,18 @@ export const slugify = (content: string) => {
 
 // markdownify
 export const markdownify = (content: string, div?: boolean) => {
-  return div ? marked.parse(content ? content : '') : marked.parseInline(content ? content : '');
+  if (typeof content !== 'string' || !content.trim()) {
+    return '';
+  }
+  return div ? marked.parse(content) : marked.parseInline(content);
 };
 
 // humanize
 export const humanize = (content: string) => {
+  if (typeof content !== 'string' || !content.trim()) {
+    return '';
+  }
+
   return content
     .replace(/^[\s_]+|[\s_]+$/g, "")
     .replace(/[_\s]+/g, " ")
@@ -33,7 +40,10 @@ export const titleify = (content: string) => {
 
 // plainify
 export const plainify = (content: string) => {
-  const parseMarkdown: any = marked.parse(content ? content : '');
+  if (typeof content !== 'string' || !content.trim()) {
+    return '';
+  }
+  const parseMarkdown: any = marked.parse(content);
   const filterBrackets = parseMarkdown.replace(/<\/?[^>]+(>|$)/gm, "");
   const filterSpaces = filterBrackets.replace(/[\r\n]\s*[\r\n]/gm, "");
   const stripHTML = htmlEntityDecoder(filterSpaces);

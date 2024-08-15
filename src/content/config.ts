@@ -8,7 +8,7 @@ const blogCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    guru: z.string().default("Admin"),
+    guru: z.array(z.string()).default(["Buddha Nature"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
@@ -21,7 +21,7 @@ const faqsCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    guru: z.string().default("Admin"),
+    guru: z.array(z.string()).default(["Buddha Nature"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
@@ -34,7 +34,7 @@ const koansCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    guru: z.string().default("Admin"),
+    guru: z.array(z.string()).default(["Buddha Nature"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
@@ -47,7 +47,7 @@ const cautionsCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    guru: z.string().default("Admin"),
+    guru: z.array(z.string()).default(["Buddha Nature"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
@@ -60,7 +60,7 @@ const booksCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    guru: z.string().default("Admin"),
+    guru: z.array(z.string()).default(["Buddha Nature"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
@@ -74,17 +74,6 @@ const gurusCollection = defineCollection({
     meta_title: z.string().optional(),
     image: z.string().optional(),
     description: z.string().optional(),
-    social: z
-      .array(
-        z
-          .object({
-            name: z.string().optional(),
-            icon: z.string().optional(),
-            link: z.string().optional(),
-          })
-          .optional(),
-      )
-      .optional(),
     draft: z.boolean().optional(),
   }),
 });
@@ -121,41 +110,35 @@ const aboutCollection = defineCollection({
     draft: z.boolean().optional(),
   }),
 });
-const dharmaRealmCollection = defineCollection({
-  schema: z.object({
-    title: z.string(),
-    meta_title: z.string().optional(),
-    description: z.string().optional(),
-    image: z.string(),
-    draft: z.boolean().optional(),
-  }),
+
+// Schema
+const dharmaRealm = z.object({
+  title: z.string(),
+  meta_title: z.string().optional(),
+  description: z.string().optional(),
+  image: z.string(),
+  draft: z.boolean().optional(),
 });
-const initialPassCollection = defineCollection({
-  schema: z.object({
-    title: z.string(),
-    meta_title: z.string().optional(),
-    description: z.string().optional(),
-    image: z.string(),
-    draft: z.boolean().optional(),
-  }),
+const initialPass = z.object({
+  title: z.string(),
+  meta_title: z.string().optional(),
+  description: z.string().optional(),
+  image: z.string(),
+  draft: z.boolean().optional(),
 });
-const nextPassCollection = defineCollection({
-  schema: z.object({
-    title: z.string(),
-    meta_title: z.string().optional(),
-    description: z.string().optional(),
-    image: z.string(),
-    draft: z.boolean().optional(),
-  }),
+const nextPass = z.object({
+  title: z.string(),
+  meta_title: z.string().optional(),
+  description: z.string().optional(),
+  image: z.string(),
+  draft: z.boolean().optional(),
 });
-const lastPassCollection = defineCollection({
-  schema: z.object({
-    title: z.string(),
-    meta_title: z.string().optional(),
-    description: z.string().optional(),
-    image: z.string(),
-    draft: z.boolean().optional(),
-  }),
+const lastPass = z.object({
+  title: z.string(),
+  meta_title: z.string().optional(),
+  description: z.string().optional(),
+  image: z.string(),
+  draft: z.boolean().optional(),
 });
 
 // Banner schema
@@ -229,10 +212,10 @@ export const collections = {
   pages: pagesCollection,
   contact: contactCollection,
   about: aboutCollection,
-  dharmaRealm: dharmaRealmCollection,
-  initialPass: initialPassCollection,
-  nextPass: nextPassCollection,
-  lastPass: lastPassCollection,
+  dharmaRealm: dharmaRealm,
+  initialPass: initialPass,
+  nextPass: nextPass,
+  lastPass: lastPass,
   content: contentCollection,
   huatous: huatousSchema,
   callToAction: callToActionSchema,

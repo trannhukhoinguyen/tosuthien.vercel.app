@@ -18,7 +18,7 @@ export async function getStaticPaths() {
     supportedLang.map(async (lang) => {
       const categories = await getTaxonomy(
         lang as keyof ContentEntryMap,
-        "categories"
+        "books_categories"
       );
 
       return categories.map((category) => ({
@@ -36,7 +36,7 @@ export async function getStaticPaths() {
   // Handle default path (no lang)
   const defaultCategories = await getTaxonomy(
     default_language as keyof ContentEntryMap,
-    "categories"
+    "books_categories"
   );
   const defaultPaths = defaultCategories.map((category) => ({
     params: {
@@ -54,9 +54,9 @@ export async function getStaticPaths() {
 const { category, lang } = Astro.params;
 
 // get posts by category
-const BLOG_FOLDER = "blog";
+const BLOG_FOLDER = "books";
 const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
-const filterByCategories = taxonomyFilter(posts, "categories", category!);
+const filterByCategories = taxonomyFilter(posts, "books_categories", category!);
 const sortedPosts = sortByDate(filterByCategories);
 ---
 
@@ -68,7 +68,7 @@ const sortedPosts = sortByDate(filterByCategories);
         {
           sortedPosts.map((post) => (
             <div class="mb-14 md:col-6 lg:col-4">
-              <BlogCard data={post} />
+              <BlogCard data={post} slugDefault="books" />
             </div>
           ))
         }

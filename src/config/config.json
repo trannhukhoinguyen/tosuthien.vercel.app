@@ -20,6 +20,11 @@
     "pagination": 2,
     "summary_length": 200,
     "blog_folder": "blog",
+    "blog_folder_books": "books",
+    "blog_folder_faqs": "faqs",
+    "blog_folder_koans": "koans",
+    "blog_folder_cautions": "cautions",
+    "blog_folder_gurus": "gurus",
     "default_language": "vi",
     "disable_languages": [],
     "default_language_in_subdir": false

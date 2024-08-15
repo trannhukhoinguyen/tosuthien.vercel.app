@@ -86,7 +86,7 @@ export async function getStaticPaths() {
             {
               currentPosts.map((post) => (
                 <div class="mb-14 md:col-6">
-                  <BlogCard data={post} />
+                  <BlogCard data={post} slugDefault="cautions" />
                 </div>
               ))
             }

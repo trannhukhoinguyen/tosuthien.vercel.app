@@ -2,10 +2,10 @@
 title: "DUY LỰC NGỮ LỤC"
 meta_title: ""
 description: "HT. Thích Duy Lực Giải nghi & Chỉnh sửa"
-date: 2022-08-13T23:44:00Z
+date: 2022-08-15
 image: "/images/image-placeholder.png"
-categories: ["Buddhist teachings", "Zen Buddhism", "Cause and Effect", "Monastic Life", "Layman Life"]
-author: "HT. Thích Duy Lực"
+faqs_categories: ["Buddhist teachings", "Zen Buddhism", "Cause and Effect", "Monastic Life", "Layman Life"]
+guru: ["HT. Thích Duy Lực"]
 tags: ["Resolve doubts", "Correct mistakes", "FAQs"]
 draft: false
 ---

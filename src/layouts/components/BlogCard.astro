@@ -13,14 +13,14 @@ import ImageMod from "./ImageMod.astro";
 
 const { summary_length }: { summary_length: number; blog_folder: string } =
   config.settings;
-const { data } = Astro.props;
+const { data, slugDefault } = Astro.props;
 const { title, image, date, guru, categories } = data.data;
 
 const lang = getLangFromUrl(Astro.url);
 const { read_more } = await getTranslations(lang as keyof ContentEntryMap);
 
 const slugParts = data.slug.split("/");
-slugParts[0] = "blog";
+slugParts[0] = slugDefault || "blog";
 const modifiedSlug = slugParts.join("/");
 data.slug = modifiedSlug;
 ---
@@ -50,25 +50,12 @@ data.slug = modifiedSlug;
         {humanize(guru)}
       </a>
     </li>
-
-    <li class="mr-4 inline-block">
-      <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
-      {
-        categories.map((category: string, index: number) => (
-          <a href={slugSelector(`/categories/${slugify(category)}`, lang)}>
-            {humanize(category)}
-            {index !== categories.length - 1 && ","}
-          </a>
-        ))
-      }
-    </li>
-    {date && <li class="inline-block">{dateFormat(date)}</li>}
+    <a
+      class="btn btn-outline-primary btn-sm inline-block float-right"
+      href={slugSelector(`/${data.slug}`, lang)}
+    >
+      {read_more}
+    </a>
   </ul>
-  <p class="mb-6">{plainify(data.body?.slice(0, Number(summary_length)))}</p>
-  <a
-    class="btn btn-outline-primary btn-sm"
-    href={slugSelector(`/${data.slug}`, lang)}
-  >
-    {read_more}
-  </a>
+  {date && dateFormat(date)}
 </div>

@@ -1,7 +1,6 @@
 ---
 import BlogCard from "@/components/BlogCard.astro";
 import ImageMod from "@/components/ImageMod.astro";
-import Social from "@/components/Social.astro";
 import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
@@ -35,7 +34,7 @@ export async function getStaticPaths() {
 }
 
 const { guru, lang } = Astro.props;
-const { title, social, meta_title, description, image } = guru.data;
+const { title, meta_title, description, image } = guru.data;
 const { Content } = await guru.render();
 
 // get all posts by guru
@@ -74,7 +73,6 @@ const postFilterByGuru = posts.filter(
           <div class="content">
             <Content />
           </div>
-          <Social source={social} className="social-icons" />
         </div>
       </div>
 

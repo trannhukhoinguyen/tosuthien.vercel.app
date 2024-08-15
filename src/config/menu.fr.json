@@ -18,8 +18,6 @@
     }
   ],
   "footer": [
-    { "name": "Initiale passe", "url": "/initial-pass" },
-    { "name": "Prochain passe", "url": "/next-pass" },
-    { "name": "Dernier passe", "url": "/last-pass" }
+
   ]
 }

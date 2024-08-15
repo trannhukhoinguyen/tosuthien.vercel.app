@@ -19,8 +19,6 @@
     }
   ],
   "footer": [
-    { "name": "Sơ quan", "url": "/initial-pass" },
-    { "name": "Trùng quan", "url": "/next-pass" },
-    { "name": "Mạt hậu lao quan", "url": "/last-pass" }
+
   ]
 }
