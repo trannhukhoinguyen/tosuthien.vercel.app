@@ -38,7 +38,7 @@ const { title, meta_title, description, image } = guru.data;
 const { Content } = await guru.render();
 
 // get all posts by guru
-const BLOG_FOLDER = "blog";
+const BLOG_FOLDER = "gurus";
 const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
 const postFilterByGuru = posts.filter(
   (post) => slugify(post.data.guru) === slugify(title)

@@ -6,7 +6,7 @@ const languages = require("../src/config/language.json");
 const JSON_FOLDER = "./.json";
 const CONTENT_ROOT = "src/content";
 const CONTENT_DEPTH = 3;
-const BLOG_FOLDER = "blog" || "faqs" || "books" || "cautions" || "koans";
+const BLOG_FOLDER = "faqs" || "books" || "cautions" || "koans";
 
 // get data from markdown
 const getData = (folder, groupDepth, langIndex = 0) => {
@@ -46,7 +46,7 @@ const getData = (folder, groupDepth, langIndex = 0) => {
               slug = `${BLOG_FOLDER}/${slug.split("/").slice(1).join("/")}`;
             }
             data.slug = slug;
-            const group = "blog" || "faqs" || "books" || "cautions" || "koans";
+            const group = "faqs" || "books" || "cautions" || "koans";
 
             return {
               lang: languages[index].languageCode, // Set the correct language code dynamically

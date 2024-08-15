@@ -19,7 +19,6 @@
     "default_theme": "system",
     "pagination": 2,
     "summary_length": 200,
-    "blog_folder": "blog",
     "blog_folder_books": "books",
     "blog_folder_faqs": "faqs",
     "blog_folder_koans": "koans",
