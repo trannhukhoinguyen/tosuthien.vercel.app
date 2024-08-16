@@ -1,14 +1,9 @@
 ---
-import ImageMod from "@/components/ImageMod.astro";
 import Base from "@/layouts/Base.astro";
 import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
-import { markdownify } from "@/lib/utils/textConverter";
-import CallToAction from "@/partials/CallToAction.astro";
-import HuaTou from "../../layouts/partials/Huatou.astro";
-import type { Feature } from "@/types";
+import HuaTou from "@/layouts/partials/Huatou.astro";
 import type { ContentEntryMap } from "astro:content";
-import { FaCheck } from "react-icons/fa";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -18,19 +13,10 @@ export function getStaticPaths() {
 }
 
 const { lang } = Astro.params;
-const homepage = await getListPage("homepage", lang as keyof ContentEntryMap);
-const { banner, features } = homepage[0].data;
-
 const huatou = await getSinglePage(
   "sections",
   lang as keyof ContentEntryMap,
   "huatou"
-);
-
-const call_to_action = await getSinglePage(
-  "sections",
-  lang as keyof ContentEntryMap,
-  "call-to-action"
 );
 ---
 

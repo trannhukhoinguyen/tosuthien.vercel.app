@@ -2,7 +2,6 @@
 import BlogCard from "@/components/BlogCard.astro";
 import Share from "@/components/Share.astro";
 import config from "@/config/config.json";
-import Disqus from "@/helpers/Disqus";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import { slugSelector } from "@/lib/utils/languageParser";
@@ -27,7 +26,7 @@ const posts = await getSinglePage(
 );
 const similarPosts = similarItems(post, posts);
 const { Content } = await post.render();
-const { title, description, guru, categories, image, date, tags } = post.data;
+const { title, description, masters, categories, image, date, tags } = post.data;
 ---
 
 <section class="section pt-7">
@@ -51,10 +50,14 @@ const { title, description, guru, categories, image, date, tags } = post.data;
         <h1 set:html={markdownify(title)} class="h2 mb-4" />
         <ul class="mb-4">
           <li class="mr-4 inline-block">
-            <a href={slugSelector(`/gurus/${slugify(guru)}`, lang)}>
-              <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
-              {humanize(guru)}
-            </a>
+            {
+              masters.map((master: string, index: number) => (
+                <a href={slugSelector(`/zen-masters/${slugify(master)}`, lang)}>
+                  <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
+                  {humanize(master)}
+                </a>
+              ))
+            }
           </li>
           <li class="mr-4 inline-block">
             <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
@@ -105,7 +108,6 @@ const { title, description, guru, categories, image, date, tags } = post.data;
             />
           </div>
         </div>
-        <Disqus className="mt-20" client:load />
       </article>
     </div>
 

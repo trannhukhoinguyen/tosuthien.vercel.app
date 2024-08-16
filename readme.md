@@ -25,7 +25,7 @@
 
 ## 📌 Key Features
 
-- 👥 Multi-Gurus
+- 👥 Multi-WHO?
 - 🌐 Multilingual
 - 🎯 Similar Posts Suggestion
 - 🔍 Search Functionality
@@ -43,8 +43,8 @@
 - 🏠 Homepage
 - 👤 About
 - 📞 Contact
-- 👥 Gurus
-- 👤 Guru Single
+- 👥 WHO WHO WHO?
+- 👤 WHO?
 - 📝 Blog
 - 📝 Blog Single
 - 🚫 Custom 404

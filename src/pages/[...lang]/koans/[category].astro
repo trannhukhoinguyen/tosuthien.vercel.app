@@ -18,7 +18,7 @@ export async function getStaticPaths() {
     supportedLang.map(async (lang) => {
       const categories = await getTaxonomy(
         lang as keyof ContentEntryMap,
-        "categories"
+        "koans_categories"
       );
 
       return categories.map((category) => ({
@@ -36,7 +36,7 @@ export async function getStaticPaths() {
   // Handle default path (no lang)
   const defaultCategories = await getTaxonomy(
     default_language as keyof ContentEntryMap,
-    "categories"
+    "koans_categories"
   );
   const defaultPaths = defaultCategories.map((category) => ({
     params: {
@@ -56,7 +56,7 @@ const { category, lang } = Astro.params;
 // get posts by category
 const BLOG_FOLDER = "koans";
 const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
-const filterByCategories = taxonomyFilter(posts, "categories", category!);
+const filterByCategories = taxonomyFilter(posts, "koans_categories", category!);
 const sortedPosts = sortByDate(filterByCategories);
 ---
 

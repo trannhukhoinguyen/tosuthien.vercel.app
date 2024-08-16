@@ -1,19 +1,19 @@
 {
   "main": [
-    { "name": "Home", "url": "/" },
-    { "name": "FAQs", "url": "/faqs" },
-    { "name": "Cautions", "url": "/cautions" },
-    { "name": "Dharma realm", "url": "/dharma-realm" },
+    { "name": "الصفحة الرئيسية", "url": "/" },
+    { "name": "الأسئلة الشائعة", "url": "/faqs" },
+    { "name": "خطبة تحذيرية", "url": "/cautions" },
+    { "name": "عالم دارما", "url": "/dharma-realm" },
     {
-      "name": "Others",
+      "name": "معلومات أخرى",
       "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "Koans", "url": "/koans" },
-        { "name": "Gurus", "url": "/gurus" },
-        { "name": "Books", "url": "/books" },
-        { "name": "Categories", "url": "/categories" },
-        { "name": "Tags", "url": "/tags" }
+        { "name": "زين كوان", "url": "/koans" },
+        { "name": "سادة الزن", "url": "/zen-masters" },
+        { "name": "الكتب", "url": "/books" },
+        { "name": "الفئات", "url": "/categories" },
+        { "name": "العلامات", "url": "/tags" }
       ]
     }
   ],

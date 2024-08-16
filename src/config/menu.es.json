@@ -1,19 +1,19 @@
 {
   "main": [
-    { "name": "Home", "url": "/" },
-    { "name": "FAQs", "url": "/faqs" },
-    { "name": "Cautions", "url": "/cautions" },
-    { "name": "Dharma realm", "url": "/dharma-realm" },
+    { "name": "Inicio", "url": "/" },
+    { "name": "Preguntas frecuentes", "url": "/faqs" },
+    { "name": "Precauciones", "url": "/cautions" },
+    { "name": "Reino del dharma", "url": "/dharma-realm" },
     {
-      "name": "Others",
+      "name": "Otros",
       "url": "/others",
       "hasChildren": true,
       "children": [
         { "name": "Koans", "url": "/koans" },
-        { "name": "Gurus", "url": "/gurus" },
-        { "name": "Books", "url": "/books" },
-        { "name": "Categories", "url": "/categories" },
-        { "name": "Tags", "url": "/tags" }
+        { "name": "Maestros zen", "url": "/zen-masters" },
+        { "name": "Libros", "url": "/books" },
+        { "name": "Categorías", "url": "/categories" },
+        { "name": "Etiquetas", "url": "/tags" }
       ]
     }
   ],

@@ -10,7 +10,7 @@
       "hasChildren": true,
       "children": [
         { "name": "Коаны", "url": "/koans" },
-        { "name": "Гуру", "url": "/gurus" },
+        { "name": "Мастера Дзен", "url": "/zen-masters" },
         { "name": "Книги", "url": "/books" },
         { "name": "Категории", "url": "/categories" },
         { "name": "Теги", "url": "/tags" }

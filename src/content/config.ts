@@ -8,7 +8,7 @@ const faqsCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    guru: z.array(z.string()).default(["Buddha Nature"]),
+    masters: z.array(z.string()).default(["Buddha Nature"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
@@ -21,7 +21,7 @@ const koansCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    guru: z.array(z.string()).default(["Buddha Nature"]),
+    masters: z.array(z.string()).default(["Buddha Nature"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
@@ -34,7 +34,7 @@ const cautionsCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    guru: z.array(z.string()).default(["Buddha Nature"]),
+    masters: z.array(z.string()).default(["Buddha Nature"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
@@ -47,15 +47,15 @@ const booksCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    guru: z.array(z.string()).default(["Buddha Nature"]),
+    masters: z.array(z.string()).default(["Buddha Nature"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
     draft: z.boolean().optional(),
   }),
 });
 
-// Guru collection schema
-const gurusCollection = defineCollection({
+// Collection schema
+const mastersCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     meta_title: z.string().optional(),
@@ -100,27 +100,6 @@ const aboutCollection = defineCollection({
 
 // Schema
 const dharmaRealm = z.object({
-  title: z.string(),
-  meta_title: z.string().optional(),
-  description: z.string().optional(),
-  image: z.string(),
-  draft: z.boolean().optional(),
-});
-const initialPass = z.object({
-  title: z.string(),
-  meta_title: z.string().optional(),
-  description: z.string().optional(),
-  image: z.string(),
-  draft: z.boolean().optional(),
-});
-const nextPass = z.object({
-  title: z.string(),
-  meta_title: z.string().optional(),
-  description: z.string().optional(),
-  image: z.string(),
-  draft: z.boolean().optional(),
-});
-const lastPass = z.object({
   title: z.string(),
   meta_title: z.string().optional(),
   description: z.string().optional(),
@@ -194,14 +173,11 @@ export const collections = {
   koans: koansCollection,
   cautions: cautionsCollection,
   books: booksCollection,
-  gurus: gurusCollection,
+  masters: mastersCollection,
   pages: pagesCollection,
   contact: contactCollection,
   about: aboutCollection,
   dharmaRealm: dharmaRealm,
-  initialPass: initialPass,
-  nextPass: nextPass,
-  lastPass: lastPass,
   content: contentCollection,
   huatous: huatousSchema,
   callToAction: callToActionSchema,

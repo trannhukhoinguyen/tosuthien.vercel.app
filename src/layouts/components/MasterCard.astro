@@ -1,0 +1,45 @@
+---
+import { getLangFromUrl } from "@/lib/utils/languageParser";
+import { plainify } from "@/lib/utils/textConverter";
+import ImageMod from "./ImageMod.astro";
+import {
+  getLangFromUrl,
+  getTranslations,
+  slugSelector,
+  } from "@/lib/utils/languageParser";
+import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
+
+const lang = getLangFromUrl(Astro.url);
+const { data, slugDefault } = Astro.props;
+const { title, image, date, masters, categories } = data.data;
+
+const slugParts = data.slug.split("/");
+slugParts[0] = slugDefault;
+const modifiedSlug = slugParts.join("/");
+data.slug = modifiedSlug;
+---
+
+<div
+  class="rounded bg-theme-light p-8 text-center dark:bg-darkmode-theme-light"
+>
+  {
+    image && (
+      <ImageMod
+        class="mx-auto mb-6 rounded"
+        src={image}
+        alt={title}
+        width={120}
+        height={120}
+        format="webp"
+      />
+    )
+  }
+  <h4 class="mb-3">
+    <a href={slugSelector(`/${data.slug}`, lang)}>
+      {title}
+    </a>
+  </h4>
+  <p class="mb-4">
+    {plainify(data.body?.slice(0, 100))}
+  </p>
+</div>

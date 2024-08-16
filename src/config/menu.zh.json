@@ -10,7 +10,7 @@
       "hasChildren": true,
       "children": [
         { "name": "公案", "url": "/koans" },
-        { "name": "大师", "url": "/gurus" },
+        { "name": "禅师", "url": "/zen-masters" },
         { "name": "图书", "url": "/books" },
         { "name": "类别", "url": "/categories" },
         { "name": "标签", "url": "/tags" }

@@ -23,7 +23,7 @@
     "blog_folder_faqs": "faqs",
     "blog_folder_koans": "koans",
     "blog_folder_cautions": "cautions",
-    "blog_folder_gurus": "gurus",
+    "blog_folder_masters": "masters",
     "default_language": "vi",
     "disable_languages": [],
     "default_language_in_subdir": false
@@ -31,23 +31,17 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Patriarchal Zen"
+    "copyright": "WHO?"
   },
 
   "navigation_button": {
     "enable": false,
-    "label": "WHO ARE YOU?",
+    "label": "WHO?",
     "link": "/"
   },
 
-  "disqus": {
-    "enable": true,
-    "shortname": "themefisher-template",
-    "settings": {}
-  },
-
   "metadata": {
-    "meta_guru": "patriarches",
+    "meta_author": "patriarches",
     "meta_image": "/images/og-image.png",
     "meta_description": "patriarchal zen"
   }

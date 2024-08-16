@@ -94,6 +94,9 @@ export const slugSelector = (url: string, lang: string) => {
   if (lang === default_language && default_language_in_subdir) {
     constructedUrl = `/${lang}${constructedUrl}`;
   }
+  if (!lang) {
+    constructedUrl = `/${constructedUrl}`;
+  }
 
   // Adjust for trailing slash
   if (trailing_slash) {
