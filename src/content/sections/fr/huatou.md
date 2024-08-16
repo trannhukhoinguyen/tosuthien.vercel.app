@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Hua Tou"
-description: "point au-delà duquel la parole s'épuise"
+description: "La méditation accorde une grande attention au doute appelé doute émotionnel. Si vous voulez soulever des doutes, vous devez vous appuyer sur le PREMIER DIALOGUE, appelé premier dialogue. Qu'est-ce que le phonetou ? Selon l'explication de M. Hu Van, lorsque vous voulez dire un dialogue, vous devez commencer à réfléchir avant de pouvoir le dire. Lorsque vous n'avez pas l'idée de vouloir parler, cela s'appelle dialoguer. de vouloir parler, même si on ne l'a pas encore dit, ça s'appelle quand même déjà dialoguer. En ce moment, quand je commence à méditer, je n'ai pas encore atteint Hua Tou, mais je ne suis pas non plus à Hua Tou. Je déménage de Hua Tou à Hua Tou En marchant au milieu de la route, un jour j'atteindrai Hua. Toi. A ce moment-là, la ligne a disparu..."
 
 # Huatous
 huatous:

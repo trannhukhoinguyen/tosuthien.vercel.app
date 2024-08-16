@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Thoại Đầu"
-description: "vượt quá điểm mà lời nói cạn kiệt"
+description: "Tham thiền rất chú trọng cái nghi gọi là nghi tình. Muốn khởi lên cái nghi tình phải nhờ câu THOẠI ĐẦU, gọi là tham thoại đầu. Thế nào là thoại đầu? Theo Ngài Hư Vân giải thích rằng khi muốn nói một câu thoại thì phải khởi niệm rồi mới nói được, lúc chưa khởi niệm muốn nói gọi là thoại đầu, nếu đã khởi niệm muốn nói, mặc dù chưa nói ra cũng đã là thoại vĩ rồi. Hiện nay bắt đầu tham thiền thì chưa đến thoại đầu nhưng cũng không phải ở thoại vĩ, là từ thoại vĩ tiến đến thoại đầu, đang đi ở giữa đường một ngày kia sẽ tiến tới thoại đầu. Lúc ấy câu thoại tự mất..."
 
 # Huatous
 huatous:

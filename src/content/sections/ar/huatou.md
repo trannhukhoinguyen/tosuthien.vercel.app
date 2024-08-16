@@ -1,42 +1,42 @@
 ---
 enable: true
-title: "Hua Tou"
-description: "point beyond which speech exhausts itself"
+title: "الاقتباسات الأولى"
+description: "يولي التأمل اهتمامًا كبيرًا للشك الذي يسمى الشك العاطفي. إذا أردت إثارة الشكوك عليك أن تعتمد على الحوار الأول، ويسمى بالحوار الأول. ما هو الهاتف؟ وفقًا لشرح السيد هو فان، عندما تريد أن تقول سطرًا من الحوار، يجب أن يكون لديك فكرة أولاً قبل أن تتمكن من التحدث. عندما لا تكون لديك فكرة الرغبة في التحدث، فإن ذلك يسمى حوارًا لقد فكرت بالفعل في التحدث، حتى لو لم تكن قد قلت ذلك بعد، فلا يزال هناك حوار بالفعل. الآن، عندما أبدأ بالتأمل، لم أصل إلى مرحلة التأمل بعد، لكنها لم تصل بعد إلى مرحلة المحادثة، إنها من مرحلة التأمل إلى مرحلة المحادثة. يومًا ما سأصل إلى مرحلة المحادثة. وفي تلك اللحظة اختفى الخط.."
 
 # Huatous
 huatous: 
   - name: ""
     designation: ""
     avatar: ""
-    content: "WHERE IS THE ULTIMATE OWNER OF THIS SELF-CONSCIOUSNESS?"
+    content: "أين المالك النهائي لهذا الوعي الذاتي؟"
 
   - name: ""
     designation: ""
     avatar: ""
-    content: "WHEN THERE IS NO HEAVEN AND EARTH, WHAT ARE WE?"
+    content: "عندما لا تكون هناك سماء وأرض، ماذا سنكون؟"
 
   - name: ""
     designation: ""
     avatar: ""
-    content: "BEFORE MY PARENTS GAVE BIRTH TO ME, WHAT WAS MY ORIGINAL FACE LIKE?"
+    content: "قبل أن يولد أبائنا، كيف كانت وجوهنا في البداية؟"
 
   - name: ""
     designation: ""
     avatar: ""
-    content: "WHERE DO WE COME FROM, WHERE DO WE GO WHEN WE DIE?"
+    content: "من أين أتينا، وأين سنذهب عندما نموت؟"
 
   - name: ""
     designation: ""
     avatar: ""
-    content: "IT'S NOT MIND, IT'S NOT BUDDHA, IT'S NOT A THING, WHAT IS IT?"
+    content: "ليس العقل، ليس بوذا، ليس بوذا، ما هو؟"
 
   - name: ""
     designation: ""
     avatar: ""
-    content: "ALL DHARMAS RETURN TO ONE DHARMA, WHERE DOES THIS DHARMA RETURN?"
+    content: "كل الدارما تعود إلى دارما واحدة، إلى أين تعود هذه الدارما؟"
 
   - name: ""
     designation: ""
     avatar: ""
-    content: "WHO ACCOMPANIED HIM TO DRAG THE CORPSE?"
+    content: "من يذهب معي لسحب الجثة؟"
 ---

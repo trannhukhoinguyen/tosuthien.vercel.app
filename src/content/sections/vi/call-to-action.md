@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
+title: "HÃY THAM ĐI!"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "HÃY THAM ĐI!"
 button:
   enable: true
-  label: "WHO?"
-  link: "/"
+  label: "HÃY THAM ĐI!"
+  link: "/let-choose-a-hua-tou-and-see-it"
 ---

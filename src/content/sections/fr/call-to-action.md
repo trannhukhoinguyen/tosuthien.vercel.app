@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Prêt à construire votre prochain projet avec Astro ?"
+title: "Voyons-le !"
 image: "/images/call-to-action.png"
-description: "Expérimente le futur du développement web avec Astroplate et Astro. Créez des sites statiques à charge rapide et personnalisables en toute facilité."
+description: "Voyons-le !"
 button:
   enable: true
-  label: "WHO?"
-  link: "/"
+  label: "Voyons-le !"
+  link: "/let-choose-a-hua-tou-and-see-it"
 ---

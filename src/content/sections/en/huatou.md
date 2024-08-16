@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Hua Tou"
-description: "point beyond which speech exhausts itself"
+description: "Practicing Zen focuses on the doubt called doubt sentiment. To arouse doubt sentiment, one must rely on the HEAD OF THE DIALOGUE, called the head of the dialogue. What is the head of the dialogue? According to Master Hsu Yun's explanation, when one wants to say a dialogue, one must have a thought before one can say it. The moment when one has not yet arisen the thought of wanting to say it is called the head of the dialogue. If one has already arisen the thought of wanting to say it, even though one has not yet spoken it is already the end of the dialogue. Now, when one begins to practice Zen, one has not yet reached the head of the dialogue, but one is not at the end of the dialogue either. One is from the end of the dialogue to the head of the dialogue. One day, while walking in the middle of the path, one will reach the head of the dialogue. At that time, the dialogue will disappear by itself..."
 
 # Huatous
 huatous: 
@@ -38,5 +38,5 @@ huatous:
   - name: ""
     designation: ""
     avatar: ""
-    content: "WHO ACCOMPANIED HIM TO DRAG THE CORPSE?"
+    content: "WHO ACCOMPANIED ME TO DRAG THIS CORPSE?"
 ---
