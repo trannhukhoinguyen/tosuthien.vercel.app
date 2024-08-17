@@ -51,7 +51,7 @@ const { title, description, masters, categories, image, date, tags } = post.data
         <ul class="mb-4">
           <li class="mr-4 inline-block">
             {
-              masters.map((master: string, index: number) => (
+              masters?.map((master: string, index: number) => (
                 <a href={slugSelector(`/zen-masters/${slugify(master)}`, lang)}>
                   <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
                   {humanize(master)}

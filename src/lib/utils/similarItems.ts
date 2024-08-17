@@ -4,18 +4,18 @@ const similarItems = (currentItem: any, allItems: any[]) => {
   let tags: string[] = [];
 
   // set categories
-  if (currentItem?.data.categories.length > 0) {
-    categories = currentItem?.data.categories;
+  if (currentItem?.data?.categories?.length > 0) {
+    categories = currentItem?.data?.categories;
   }
 
   // set tags
-  if (currentItem?.data.tags.length > 0) {
-    tags = currentItem?.data.tags;
+  if (currentItem?.data?.tags?.length > 0) {
+    tags = currentItem?.data?.tags;
   }
 
   // filter by categories
   const filterByCategories = allItems.filter((item: any) =>
-    categories.find((category) => item?.data.categories.includes(category)),
+    categories.find((category) => item?.data?.categories?.includes(category)),
   );
 
   // filter by tags
