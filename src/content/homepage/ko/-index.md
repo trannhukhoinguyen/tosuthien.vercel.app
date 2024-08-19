@@ -1,5 +1,5 @@
 ---
 # Banner
 banner:
-  title: "WHO ARE YOU?"
+  title: "그것을 보자!"
 ---

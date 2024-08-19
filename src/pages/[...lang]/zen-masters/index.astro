@@ -20,7 +20,7 @@ export function getStaticPaths() {
   return paths;
 }
 const { lang } = Astro.params;
-const BLOG_FOLDER = "masters";
+const BLOG_FOLDER = "zen-masters";
 const postIndex = await getListPage(
   BLOG_FOLDER,
   lang as keyof ContentEntryMap
@@ -42,7 +42,7 @@ const tags = await getTaxonomy(langCollection, "tags");
   <PageHeader title={postIndex[0].data.title} />
   <section class="section">
     <div class="container">
-      <Table data={masterDb} lang={lang ? lang : 'vi'}/>
+      <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
     </div>
   </section>
 </Base>

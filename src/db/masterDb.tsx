@@ -46,7 +46,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    dimage: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg'
   },
   {
     id: 4,
@@ -62,7 +63,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg'
   },
   {
     id: 5,
@@ -78,7 +80,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
   {
     id: 6,
@@ -94,7 +97,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
   {
     id: 7,
@@ -110,7 +114,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
   {
     id: 8,
@@ -126,7 +131,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
   {
     id: 9,
@@ -142,7 +148,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
   {
     id: 10,
@@ -158,7 +165,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
   {
     id: 11,
@@ -174,7 +182,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
   {
     id: 12,
@@ -190,7 +199,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
   {
     id: 13,
@@ -206,7 +216,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
   {
     id: 14,
@@ -222,7 +233,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
   {
     id: 15,
@@ -238,7 +250,8 @@ const masterDb = [
     name_ar: 'Peter 1',
     country: 'China',
     teacher: 'Peter 0',
-    disciples: ['John 2, Peter 2']
+    disciples: ['John 2, Peter 2'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
   },
 ]
 export default masterDb;

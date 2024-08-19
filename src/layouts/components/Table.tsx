@@ -28,10 +28,12 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
   const handleSearch = (event: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(event.target.value.toLowerCase());
     setCurrentPage(1);
+    console.log('handleSearchhandleSearch')
   };
 
   const handlePageChange = (pageNumber: number) => {
     setCurrentPage(pageNumber);
+    console.log('handlePageChangehandlePageChange')
   };
 
   const filteredData = data.filter(
@@ -48,7 +50,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
       || item.name_ar.toLowerCase().includes(searchTerm)
       || item.country.toLowerCase().includes(searchTerm)
       || item.teacher.toLowerCase().includes(searchTerm)
-      || item.disciples.toLowerCase().includes(searchTerm)
+      || item.disciples.some(disciple => disciple.toLowerCase().includes(searchTerm))
   );
 
   const indexOfLastItem = currentPage * itemsPerPage;
@@ -60,7 +62,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
     <div>
       <input
         type="text"
-        placeholder="Search by name or city..."
+        placeholder="Search by name..."
         value={searchTerm}
         onChange={handleSearch}
         className="search-input"
