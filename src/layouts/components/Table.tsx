@@ -14,7 +14,9 @@ interface TableProps {
     name_ko: string
     name_ar: string
     country: string
+    place: string
     teacher: string
+    successor: string
     disciples: string[]
   }[];
   lang: string;
@@ -49,7 +51,9 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
       || item.name_ko.toLowerCase().includes(searchTerm)
       || item.name_ar.toLowerCase().includes(searchTerm)
       || item.country.toLowerCase().includes(searchTerm)
+|| item.place.toLowerCase().includes(searchTerm)
       || item.teacher.toLowerCase().includes(searchTerm)
+|| item.successor.toLowerCase().includes(searchTerm)
       || item.disciples.some(disciple => disciple.toLowerCase().includes(searchTerm))
   );
 
@@ -83,7 +87,9 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
           {lang === 'ko' && <th>Korean Name</th>}
           {lang === 'ar' && <th>Arabic Name</th>}
           <th>Country</th>
+<th>Plave</th>
           <th>Teacher</th>
+<th>Successor</th>
           <th>Disciples</th>
         </tr>
         </thead>
@@ -102,7 +108,9 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
             {lang === 'ko' && <td>{item.name_ko}</td>}
             {lang === 'ar' && <td>{item.name_ar}</td>}
             <td>{item.country}</td>
+<td>{item.place}</td>
             <td>{item.teacher}</td>
+<td>{item.successor}</td>
             <td>{item.disciples}</td>
           </tr>
         ))}
