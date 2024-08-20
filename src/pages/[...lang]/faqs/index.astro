@@ -20,10 +20,9 @@ if (!lang) {
   lang = default_language;
 }
 
-const categories = "categories";
 const langCollection: keyof ContentEntryMap = lang as keyof ContentEntryMap;
-const categories = await getTaxonomy(langCollection, categories);
-const allCategories = await getAllTaxonomy(langCollection, categories);
+const categories = await getTaxonomy(langCollection, "categories");
+const allCategories = await getAllTaxonomy(langCollection, "categories");
 ---
 
 <Base title={"FAQs"}>
