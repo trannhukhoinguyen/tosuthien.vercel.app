@@ -6,7 +6,7 @@
     { "name": "Reino del dharma", "url": "/dharma-realm" },
     {
       "name": "Otros",
-      "url": "/others",
+      "url": "/100-cubit-pole",
       "hasChildren": true,
       "children": [
         { "name": "Koans", "url": "/koans" },

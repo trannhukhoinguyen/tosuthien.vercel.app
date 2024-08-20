@@ -7,7 +7,7 @@
 
     {
       "name": "Khác",
-      "url": "/others",
+      "url": "/100-cubit-pole",
       "hasChildren": true,
       "children": [
         { "name": "Công án", "url": "/koans" },

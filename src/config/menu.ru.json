@@ -6,7 +6,7 @@
     { "name": "Царство Дхармы", "url": "/dharma-realm" },
     {
       "name": "Другие",
-      "url": "/others",
+      "url": "/100-cubit-pole",
       "hasChildren": true,
       "children": [
         { "name": "Коаны", "url": "/koans" },

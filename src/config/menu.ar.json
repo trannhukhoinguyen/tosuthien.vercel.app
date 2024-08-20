@@ -6,7 +6,7 @@
     { "name": "عالم دارما", "url": "/dharma-realm" },
     {
       "name": "معلومات أخرى",
-      "url": "/others",
+      "url": "/100-cubit-pole",
       "hasChildren": true,
       "children": [
         { "name": "زين كوان", "url": "/koans" },

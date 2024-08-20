@@ -6,7 +6,7 @@
     { "name": "법계", "url": "/dharma-realm" },
     {
       "name": "기타",
-      "url": "/others",
+      "url": "/100-cubit-pole",
       "hasChildren": true,
       "children": [
         { "name": "화두", "url": "/koans" },
