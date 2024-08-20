@@ -21,8 +21,8 @@ if (!lang) {
 }
 
 const langCollection: keyof ContentEntryMap = lang as keyof ContentEntryMap;
-const categories = await getTaxonomy(langCollection, "koans_categories");
-const allCategories = await getAllTaxonomy(langCollection, "koans_categories");
+const types = await getTaxonomy(langCollection, "types");
+const allTypes = await getAllTaxonomy(langCollection, "types");
 ---
 
 <Base title={"Koans"}>
@@ -31,15 +31,15 @@ const allCategories = await getAllTaxonomy(langCollection, "koans_categories");
     <div class="container text-center">
       <ul>
         {
-          categories.map((category: string) => {
-            const count = allCategories.filter((c) => c === category).length;
+          types.map((type: string) => {
+            const count = allTypes.filter((c) => c === type).length;
             return (
               <li class="m-3 inline-block">
                 <a
-                  href={slugSelector(`/koans/${category}`, lang)}
+                  href={slugSelector(`/koans/${type}`, lang)}
                   class="block rounded bg-theme-light px-4 py-2 text-xl text-dark dark:bg-darkmode-theme-light dark:text-darkmode-dark"
                 >
-                  {humanize(category)}{" "}
+                  {humanize(type)}{" "}
                   <span class="ml-2 rounded bg-body px-2 dark:bg-darkmode-body">
                     {count}
                   </span>

@@ -24,7 +24,7 @@ export const getTaxonomy = async (collection: string, name: string) => {
   }
 
   const singlePages = await getCollection(
-    name.slice(0, name.indexOf('_')) || "faqs" as keyof ContentEntryMap,
+    name as keyof ContentEntryMap,
     ({ id }: any) => {
       return id.startsWith(actualCollection) && !id.endsWith("-index.md") && !id.endsWith("-index.mdx");
     }
@@ -60,7 +60,7 @@ export const getAllTaxonomy = async (collection: string, name: string) => {
   }
 
   const singlePages = await getCollection(
-    name.slice(0, name.indexOf('_')) || "faqs" as keyof ContentEntryMap,
+    name as keyof ContentEntryMap,
     ({ id }: any) => {
       return id.startsWith(actualCollection) && !id.endsWith("-index.md") && !id.endsWith("-index.mdx");
     }

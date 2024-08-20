@@ -13,8 +13,8 @@ const lang = getLangFromUrl(Astro.url);
     <div class="rounded bg-theme-light p-8 dark:bg-darkmode-theme-light">
       <ul class="space-y-4">
         {
-          categories.map((category: any) => {
-            const count = allCategories.filter(
+          categories && categories?.map((category: any) => {
+            const count = allCategories && allCategories?.filter(
               (c: any) => c === category
             ).length;
             return (

@@ -4,8 +4,8 @@ meta_title: ""
 description: "this is meta description"
 date: 2022-08-15
 image: "/images/image-placeholder.png"
-koans_categories: ["Koan 1"]
-masters: []
+types: ["Koan 1"]
+master: ""
 tags: ["Koan"]
 draft: false
 ---

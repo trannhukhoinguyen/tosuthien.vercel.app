@@ -11,8 +11,6 @@
       "children": [
         { "name": "زين كوان", "url": "/koans" },
         { "name": "سادة الزن", "url": "/zen-masters" },
-        { "name": "الكتب", "url": "/books" },
-        { "name": "الفئات", "url": "/categories" },
         { "name": "العلامات", "url": "/tags" }
       ]
     }

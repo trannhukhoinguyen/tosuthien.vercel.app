@@ -26,8 +26,6 @@ const postIndex = await getListPage(
 const langCollection: keyof ContentEntryMap = lang as keyof ContentEntryMap;
 const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
 
-const allCategories = await getAllTaxonomy(langCollection, "cautions_categories");
-const categories = await getTaxonomy(langCollection, "cautions_categories");
 const tags = await getTaxonomy(langCollection, "tags");
 const sortedPosts = sortByDate(posts);
 const totalPages: number = Math.ceil(posts.length / config.settings.pagination);
@@ -64,9 +62,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 
         <!-- sidebar -->
         <PostSidebar
-          categories={categories}
           tags={tags}
-          allCategories={allCategories}
         />
       </div>
     </div>

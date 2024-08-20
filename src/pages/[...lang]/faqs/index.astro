@@ -20,17 +20,17 @@ if (!lang) {
   lang = default_language;
 }
 
-const faqsCategories = "faqs_categories";
+const categories = "categories";
 const langCollection: keyof ContentEntryMap = lang as keyof ContentEntryMap;
-const categories = await getTaxonomy(langCollection, faqsCategories);
-const allCategories = await getAllTaxonomy(langCollection, faqsCategories);
+const categories = await getTaxonomy(langCollection, categories);
+const allCategories = await getAllTaxonomy(langCollection, categories);
 ---
 
 <Base title={"FAQs"}>
 <PageHeader title={"FAQs"} />
 <section class="section">
   <div class="container text-center">
-    {getAllTaxonomy(langCollection, faqsCategories)}
+    {getAllTaxonomy(langCollection, categories)}
     <ul>
       {
         categories.map((category: string) => {

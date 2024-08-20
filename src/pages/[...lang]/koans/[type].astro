@@ -10,65 +10,65 @@ import taxonomyFilter from "@/lib/utils/taxonomyFilter";
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
 
-// get all static paths for categories
+// get all static paths for types
 export async function getStaticPaths() {
   const { default_language } = config.settings;
 
   const paths = await Promise.all(
     supportedLang.map(async (lang) => {
-      const categories = await getTaxonomy(
+      const types = await getTaxonomy(
         lang as keyof ContentEntryMap,
-        "books_categories"
+        "types"
       );
 
-      return categories.map((category) => ({
+      return types.map((type) => ({
         params: {
           lang: lang || undefined,
-          category: category,
+          type: type,
         },
         props: {
-          category,
+          type,
         },
       }));
     })
   );
 
   // Handle default path (no lang)
-  const defaultCategories = await getTaxonomy(
+  const defaultTypes = await getTaxonomy(
     default_language as keyof ContentEntryMap,
-    "books_categories"
+    "types"
   );
-  const defaultPaths = defaultCategories.map((category) => ({
+  const defaultPaths = defaultTypes.map((type) => ({
     params: {
       lang: undefined,
-      category: category,
+      type: type,
     },
     props: {
-      category,
+      type,
     },
   }));
 
   return [...paths.flat(), ...defaultPaths];
 }
 
-const { category, lang } = Astro.params;
+const { type, lang } = Astro.params;
 
-// get posts by category
-const BLOG_FOLDER = "books";
+// get posts by type
+const BLOG_FOLDER = "koans";
 const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
-const filterByCategories = taxonomyFilter(posts, "books_categories", category!);
-const sortedPosts = sortByDate(filterByCategories);
+const filterByTypes = taxonomyFilter(posts, "types", type!);
+const sortedPosts = sortByDate(filterByTypes);
 ---
 
-<Base title={category}>
-  <PageHeader title={category} />
+<Base title={type}>
+  <PageHeader title={type} />
   <div class="section-sm pb-0">
     <div class="container">
       <div class="row">
         {
           sortedPosts.map((post) => (
             <div class="mb-14 md:col-6 lg:col-4">
-              <BlogCard data={post} slugDefault="books" />
+              <BlogCard data={post} slugDefault="koans" />
             </div>
           ))
         }

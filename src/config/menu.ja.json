@@ -11,8 +11,6 @@
       "children": [
         { "name": "公案", "url": "/koans" },
         { "name": "禅の達人", "url": "/zen-masters" },
-        { "name": "本", "url": "/books" },
-        { "name": "カテゴリー", "url": "/categories" },
         { "name": "タグ", "url": "/tags" }
       ]
     }

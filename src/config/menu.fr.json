@@ -11,8 +11,6 @@
       "children": [
         { "name": "Koans", "url": "/koans" },
         { "name": "Maîtres Zen", "url": "/zen-masters" },
-        { "name": "Livres", "url": "/books" },
-        { "name": "Catégories", "url": "/categories" },
         { "name": "Étiquettes", "url": "/tags" }
       ]
     }

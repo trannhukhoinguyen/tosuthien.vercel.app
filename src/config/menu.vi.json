@@ -12,8 +12,6 @@
       "children": [
         { "name": "Công án", "url": "/koans" },
         { "name": "Thiền sư", "url": "/zen-masters" },
-        { "name": "Sách", "url": "/books" },
-        { "name": "Categories", "url": "/categories" },
         { "name": "Tags", "url": "/tags" }
       ]
     }
