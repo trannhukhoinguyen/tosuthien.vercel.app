@@ -1,4 +1,4 @@
-const generalRealms = [
+export const generalRealms = [
   'Buddha',
   'Bodhisattva',
   'Pratyekabuddha',
@@ -10,7 +10,7 @@ const generalRealms = [
   'Petavisaya',
   'Niraya',
 ];
-const allRealms = [
+export const allRealms = [
   {
     'Cõi_Dục_giới': {
       '4 đọa xứ': [

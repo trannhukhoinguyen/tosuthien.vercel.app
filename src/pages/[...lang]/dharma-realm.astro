@@ -26,24 +26,7 @@ const { title, description, meta_title, image } = about[0].data;
   console.log('Dharma Realm');
 </script>
 <Base>
-  <div style="position: relative; z-index: 2000">
-    {
-      generalRealms?.map((realm: string, index: number) => (
-        <ol>
-          <li>
-            <a
-              href={slugSelector(`/dharma-realm/${slugify(realm)}`, lang)}
-            >
-              {realm}
-            </a>
-          </li>
-        </ol>
-      ))
-    }
-  </div>
-  <div>
-    <MultiWorld />
-  </div>
+  <MultiWorld />
 </Base>
 
 
