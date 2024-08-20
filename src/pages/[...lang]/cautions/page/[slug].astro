@@ -26,11 +26,11 @@ const postIndex: any = await getListPage(
 const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
 const allCategories = await getAllTaxonomy(
   lang as keyof ContentEntryMap,
-  "categories"
+  "cautions_categories"
 );
 const categories = await getTaxonomy(
   lang as keyof ContentEntryMap,
-  "categories"
+  "cautions_categories"
 );
 const tags = await getTaxonomy(lang as keyof ContentEntryMap, "tags");
 const sortedPosts = sortByDate(posts);
