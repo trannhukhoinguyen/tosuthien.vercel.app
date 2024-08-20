@@ -26,7 +26,7 @@ const posts = await getSinglePage(
 );
 const similarPosts = similarItems(post, posts);
 const { Content } = await post.render();
-const { title, description, masters, categories, image, date, tags } = post.data;
+const { title, description, masters, categories, types, image, date, tags } = post.data;
 ---
 
 <section class="section pt-7">

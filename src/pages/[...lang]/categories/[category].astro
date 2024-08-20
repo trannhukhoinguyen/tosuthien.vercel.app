@@ -11,7 +11,6 @@ import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
 
 // get all static paths for categories
-const BLOG_FOLDER: string = 'categories';
 export async function getStaticPaths() {
   const { default_language } = config.settings;
 
@@ -19,7 +18,7 @@ export async function getStaticPaths() {
     supportedLang.map(async (lang) => {
       const categories = await getTaxonomy(
         lang as keyof ContentEntryMap,
-        BLOG_FOLDER
+        'categories'
       );
 
       return categories.map((category) => ({
@@ -37,7 +36,7 @@ export async function getStaticPaths() {
   // Handle default path (no lang)
   const defaultCategories = await getTaxonomy(
     default_language as keyof ContentEntryMap,
-    BLOG_FOLDER
+    'categories'
   );
   const defaultPaths = defaultCategories.map((category) => ({
     params: {
@@ -56,8 +55,8 @@ const { category, lang } = Astro.params;
 
 // get posts by category
 
-const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
-const filterByCategories = taxonomyFilter(posts, BLOG_FOLDER, category!);
+const posts = await getSinglePage('categories', lang as keyof ContentEntryMap);
+const filterByCategories = taxonomyFilter(posts, 'categories', category!);
 const sortedPosts = sortByDate(filterByCategories);
 ---
 

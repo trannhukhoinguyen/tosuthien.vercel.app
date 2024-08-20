@@ -51,25 +51,25 @@ export async function getStaticPaths() {
 const { tag, lang } = Astro.params;
 
 // get posts by tag
-const BLOG_FOLDER = "tags";
+const BLOG_FOLDER = "blog";
 const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
 const filterByTags = taxonomyFilter(posts, "tags", tag!);
 const sortedPosts = sortByDate(filterByTags);
 ---
 
 <Base title={tag}>
-  <PageHeader title={tag} />
-  <div class="section-sm pb-0">
-    <div class="container">
-      <div class="row">
-        {
-          sortedPosts.map((post) => (
-            <div class="mb-14 md:col-6 lg:col-4">
-              <BlogCard data={post} />
-            </div>
-          ))
-        }
-      </div>
+<PageHeader title={tag} />
+<div class="section-sm pb-0">
+  <div class="container">
+    <div class="row">
+      {
+        sortedPosts.map((post) => (
+          <div class="mb-14 md:col-6 lg:col-4">
+            <BlogCard data={post} />
+          </div>
+        ))
+      }
     </div>
   </div>
+</div>
 </Base>

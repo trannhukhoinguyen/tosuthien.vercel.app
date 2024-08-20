@@ -56,6 +56,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   position: absolute;
   left: 50%;
   top: 50%;
+  list-style: none;
 }
 .proxz-nav__orbit {
   z-index: 10;
@@ -66,11 +67,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* **************************************************
-step1 starts here
+Formless Realm Heaven
 ************************************************** */
-.proxz-nav__orbit:nth-child(1) {
-  width: 200px;
-  height: 200px;
+.proxz-nav__orbit:nth-child(1), .formless_realm_orbit {
+  width: 150px;
+  height: 150px;
   z-index: 100;
   transform: translate(-50%, -50%) translateY(-140px) rotateX(65deg);
 }
@@ -81,23 +82,23 @@ step1 starts here
   animation-duration: 38s;
 }
 .proxz-nav__orbit:nth-child(1) .proxz-nav__satellite:before {
-  background-color: #70ffdb;
+  background-color: #37eed2;
 }
 .proxz-nav__orbit:nth-child(1) .proxz-nav__label {
-  color: #70ffdb;
+  color: #26e3af;
 }
 .proxz-nav__orbit:nth-child(1) .proxz-nav__label:before {
-  content: "01";
-  color: rgba(254, 254, 254, 0.75);
+  content: "";
+  color: rgba(24, 27, 155, 0.75);
   padding-right: 8px;
 }
 
 /* **************************************************
-step2 starts here
+Form Realm Heaven
 ************************************************** */
-.proxz-nav__orbit:nth-child(2) {
-  width: 300px;
-  height: 300px;
+.proxz-nav__orbit:nth-child(2), .form_realm_orbit {
+  width: 200px;
+  height: 200px;
   z-index: 99;
   transform: translate(-50%, -50%) translateY(-110px) rotateX(65deg);
 }
@@ -114,17 +115,17 @@ step2 starts here
   color: #70ffa0;
 }
 .proxz-nav__orbit:nth-child(2) .proxz-nav__label:before {
-  content: "02";
+  content: "";
   color: rgba(254, 254, 254, 0.75);
   padding-right: 8px;
 }
 
 /* **************************************************
-step3 starts here
+Desire Realm Heaven
 ************************************************** */
-.proxz-nav__orbit:nth-child(3) {
-  width: 400px;
-  height: 400px;
+.proxz-nav__orbit:nth-child(3), .desire_realm_orbit {
+  width: 250px;
+  height: 250px;
   z-index: 98;
   transform: translate(-50%, -50%) translateY(-80px) rotateX(65deg);
 }
@@ -141,17 +142,17 @@ step3 starts here
   color: #7cff70;
 }
 .proxz-nav__orbit:nth-child(3) .proxz-nav__label:before {
-  content: "03";
+  content: "";
   color: rgba(254, 254, 254, 0.75);
   padding-right: 8px;
 }
 
 /* **************************************************
-step4 starts here
+Mankind
 ************************************************** */
-.proxz-nav__orbit:nth-child(4) {
-  width: 700px;
-  height: 700px;
+.proxz-nav__orbit:nth-child(4), .mankind-orbit {
+  width: 300px;
+  height: 300px;
   z-index: 97;
   transform: translate(-50%, -50%) translateY(50px) rotateX(65deg);
 }
@@ -168,17 +169,17 @@ step4 starts here
   color: #b8ff70;
 }
 .proxz-nav__orbit:nth-child(4) .proxz-nav__label:before {
-  content: "04";
+  content: "";
   color: rgba(254, 254, 254, 0.75);
   padding-right: 8px;
 }
 
 /* **************************************************
-step5 starts here
+Asura
 ************************************************** */
-.proxz-nav__orbit:nth-child(5) {
-  width: 400px;
-  height: 400px;
+.proxz-nav__orbit:nth-child(5), .asura_orbit {
+  width: 350px;
+  height: 350px;
   z-index: 96;
   transform: translate(-50%, -50%) translateY(0px) rotateX(65deg);
 }
@@ -195,17 +196,17 @@ step5 starts here
   color: #f3ff70;
 }
 .proxz-nav__orbit:nth-child(5) .proxz-nav__label:before {
-  content: "05";
-  color: rgba(254, 254, 254, 0.75);
+  content: "";
+  color: rgba(248, 1, 1, 0.75);
   padding-right: 8px;
 }
 
 /* **************************************************
-step6 starts here
+Hungry Ghost
 ************************************************** */
-.proxz-nav__orbit:nth-child(6) {
-  width: 300px;
-  height: 300px;
+.proxz-nav__orbit:nth-child(6), .hungry_ghost_orbit {
+  width: 400px;
+  height: 400px;
   z-index: 95;
   transform: translate(-50%, -50%) translateY(50px) rotateX(65deg);
 }
@@ -216,23 +217,23 @@ step6 starts here
   animation-duration: 28s;
 }
 .proxz-nav__orbit:nth-child(6) .proxz-nav__satellite:before {
-  background-color: #ffcf70;
+  background-color: #7c7b7b;
 }
 .proxz-nav__orbit:nth-child(6) .proxz-nav__label {
   color: #ffcf70;
 }
 .proxz-nav__orbit:nth-child(6) .proxz-nav__label:before {
-  content: "06";
+  content: "";
   color: rgba(254, 254, 254, 0.75);
   padding-right: .5em;
 }
 
 /* **************************************************
-step7 starts here
+Animal
 ************************************************** */
-.proxz-nav__orbit:nth-child(7) {
-  width: 300px;
-  height: 300px;
+.proxz-nav__orbit:nth-child(7), .animal_orbit {
+  width: 450px;
+  height: 450px;
   z-index: 94;
   transform: translate(-50%, -50%) translateY(80px) rotateX(65deg);
 }
@@ -249,7 +250,34 @@ step7 starts here
   color: #ffcf70;
 }
 .proxz-nav__orbit:nth-child(7) .proxz-nav__label:before {
-  content: "06";
+  content: "";
+  color: rgba(254, 254, 254, 0.75);
+  padding-right: .5em;
+}
+
+/* **************************************************
+Hell
+************************************************** */
+.proxz-nav__orbit:nth-child(8), .hell_orbit {
+  width: 500px;
+  height: 500px;
+  z-index: 93;
+  transform: translate(-50%, -50%) translateY(80px) rotateX(65deg);
+}
+.proxz-nav__orbit:nth-child(8) .proxz-nav__label,
+.proxz-nav__orbit:nth-child(8) .proxz-nav__satellite,
+.proxz-nav__orbit:nth-child(8) .proxz-nav__satellite:before {
+  -webkit-animation-duration: 28s;
+  animation-duration: 28s;
+}
+.proxz-nav__orbit:nth-child(8) .proxz-nav__satellite:before {
+  background-color: #ffcf70;
+}
+.proxz-nav__orbit:nth-child(8) .proxz-nav__label {
+  color: #ffcf70;
+}
+.proxz-nav__orbit:nth-child(8) .proxz-nav__label:before {
+  content: "";
   color: rgba(254, 254, 254, 0.75);
   padding-right: .5em;
 }
@@ -338,7 +366,7 @@ step7 starts here
   z-index: 0;
   left: -25px;
   background-repeat: repeat-x;
-  box-shadow: 0 0.7em 0.25em -0.6em rgba(255, 255, 255, 0.5), 0 0.6em 1em -0.4em #fdfafa, 0 0 1.5em 0 #70e6ff, 0 0 6em 1em rgba(255, 255, 255, 0.5), 0 0 3em 0.5em rgba(112, 230, 255, 0.5);
+  box-shadow: 0 0.7em 0.25em -0.6em rgba(255, 255, 255, 0.5), 0 0.6em 1em -0.4em #f10b0b, 0 0 1.5em 0 #f1c209, 0 0 6em 1em rgba(255, 255, 255, 0.5), 0 0 3em 0.5em rgba(112, 230, 255, 0.5);
   transform-style: preserve-3d;
   .btm-0 {
     bottom: 0;
@@ -347,10 +375,10 @@ step7 starts here
     position: relative;
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
-    border-bottom: 70px solid #ffffff;
+    border-bottom: 70px solid #b3c225;
     &:after {
       content: "NÚI THIẾT VI";
-      color: #ff2828;
+      color: #b47171;
     }
   }
   .triangle-mid-back {
@@ -358,7 +386,7 @@ step7 starts here
     left: -5px;
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
-    border-bottom: 70px solid #ffffff;
+    border-bottom: 70px solid #f1c209;
   }
   .triangle {
     position: absolute;
@@ -402,7 +430,7 @@ step7 starts here
   z-index: º;
   transform-origin: 50% 100%;
   transform: translate(-50%, 0) rotateX(-86.8deg);
-  background-image: radial-gradient(to top, rgba(0, 0, 0, 0) 30%, rgba(112, 230, 255, 0.1) 60%, rgba(0, 0, 0, 0) 70%);
+  background-image: radial-gradient(to top, rgb(131, 122, 88) 30%, rgba(225, 231, 9, 0.1) 60%, rgb(241, 194, 9) 70%);
   opacity: .75;
   -webkit-animation: lightVibration .07s linear infinite;
   animation: lightVibration .07s linear infinite;
