@@ -21,7 +21,7 @@ if (!lang) {
   lang = default_language;
 }
 
-const categoryGroup: string = 'faqs_categories' || 'koans_categories' || 'books_categories' || 'cautions_categories';
+const categoryGroup: string = 'faqs_categories';
 const langCollection: keyof ContentEntryMap = lang as keyof ContentEntryMap;
 const categories = await getTaxonomy(langCollection, categoryGroup);
 const allCategories = await getAllTaxonomy(langCollection, categoryGroup);
