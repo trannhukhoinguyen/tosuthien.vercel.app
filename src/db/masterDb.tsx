@@ -1,6 +1,6 @@
 const masterDb = [
   {
-    id: 100,
+    id: 46,
     name_en: 'Gaofeng Yuanmiao',
     name_es: 'Gaofeng Yuanmiao',
     name_de: 'Gaofeng Yuanmiao',
@@ -19,7 +19,7 @@ place: ' mountain',
     image: 'https://terebess.hu/zen/mesterek/woodcut/55.jpg'
   },
   {
-    id: 101,
+    id: 47,
     name_en: 'Zhongfeng Mingben',
     name_es: 'Zhongfeng Mingben',
     name_de: 'Zhongfeng Mingben',
