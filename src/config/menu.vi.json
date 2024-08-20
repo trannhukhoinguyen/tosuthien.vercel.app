@@ -3,15 +3,15 @@
     { "name": "Trang chủ", "url": "/" },
     { "name": "Hỏi đáp", "url": "/faqs" },
     { "name": "Cảnh ngữ", "url": "/cautions" },
-    { "name": "Pháp giới", "url": "/dharma-realm" },
+    { "name": "Công án", "url": "/koans" },
+    { "name": "Thiền sư", "url": "/zen-masters" },
 
     {
       "name": "Khác",
       "url": "/100-cubit-pole",
       "hasChildren": true,
       "children": [
-        { "name": "Công án", "url": "/koans" },
-        { "name": "Thiền sư", "url": "/zen-masters" },
+        { "name": "Pháp giới", "url": "/dharma-realm" },
         { "name": "Tags", "url": "/tags" }
       ]
     }

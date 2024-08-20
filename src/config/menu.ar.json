@@ -3,14 +3,14 @@
     { "name": "الصفحة الرئيسية", "url": "/" },
     { "name": "الأسئلة الشائعة", "url": "/faqs" },
     { "name": "خطبة تحذيرية", "url": "/cautions" },
-    { "name": "عالم دارما", "url": "/dharma-realm" },
+    { "name": "زين كوان", "url": "/koans" },
+    { "name": "سادة الزن", "url": "/zen-masters" },
     {
       "name": "معلومات أخرى",
       "url": "/100-cubit-pole",
       "hasChildren": true,
       "children": [
-        { "name": "زين كوان", "url": "/koans" },
-        { "name": "سادة الزن", "url": "/zen-masters" },
+        { "name": "عالم دارما", "url": "/dharma-realm" },
         { "name": "العلامات", "url": "/tags" }
       ]
     }

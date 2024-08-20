@@ -87,9 +87,9 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
           {lang === 'ko' && <th>Korean Name</th>}
           {lang === 'ar' && <th>Arabic Name</th>}
           <th>Country</th>
-<th>Plave</th>
+          <th>Place</th>
           <th>Teacher</th>
-<th>Successor</th>
+          <th>Successor</th>
           <th>Disciples</th>
         </tr>
         </thead>

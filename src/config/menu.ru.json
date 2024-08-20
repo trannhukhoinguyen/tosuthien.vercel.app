@@ -3,14 +3,14 @@
     { "name": "Главная", "url": "/" },
     { "name": "Часто задаваемые вопросы", "url": "/faqs" },
     { "name": "Речь", "url": "/cautions" },
-    { "name": "Царство Дхармы", "url": "/dharma-realm" },
+    { "name": "Коаны", "url": "/koans" },
+    { "name": "Мастера Дзен", "url": "/zen-masters" },
     {
       "name": "Другие",
       "url": "/100-cubit-pole",
       "hasChildren": true,
       "children": [
-        { "name": "Коаны", "url": "/koans" },
-        { "name": "Мастера Дзен", "url": "/zen-masters" },
+        { "name": "Царство Дхармы", "url": "/dharma-realm" },
         { "name": "Теги", "url": "/tags" }
       ]
     }

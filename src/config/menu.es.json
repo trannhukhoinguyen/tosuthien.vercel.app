@@ -3,14 +3,14 @@
     { "name": "Inicio", "url": "/" },
     { "name": "Preguntas frecuentes", "url": "/faqs" },
     { "name": "Precauciones", "url": "/cautions" },
-    { "name": "Reino del dharma", "url": "/dharma-realm" },
+    { "name": "Koans", "url": "/koans" },
+    { "name": "Maestros zen", "url": "/zen-masters" },
     {
       "name": "Otros",
       "url": "/100-cubit-pole",
       "hasChildren": true,
       "children": [
-        { "name": "Koans", "url": "/koans" },
-        { "name": "Maestros zen", "url": "/zen-masters" },
+        { "name": "Reino del dharma", "url": "/dharma-realm" },
         { "name": "Etiquetas", "url": "/tags" }
       ]
     }

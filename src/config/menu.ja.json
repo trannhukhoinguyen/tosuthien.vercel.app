@@ -3,14 +3,14 @@
     { "name": "家", "url": "/" },
     { "name": "よくある質問", "url": "/faqs" },
     { "name": "注意事項", "url": "/cautions" },
-    { "name": "法界", "url": "/dharma-realm" },
+    { "name": "公案", "url": "/koans" },
+    { "name": "禅の達人", "url": "/zen-masters" },
     {
       "name": "その他",
       "url": "/100-cubit-pole",
       "hasChildren": true,
       "children": [
-        { "name": "公案", "url": "/koans" },
-        { "name": "禅の達人", "url": "/zen-masters" },
+        { "name": "法界", "url": "/dharma-realm" },
         { "name": "タグ", "url": "/tags" }
       ]
     }
