@@ -7,12 +7,10 @@ import type { ContentEntryMap } from "astro:content";
 import BlogCard from "../../../layouts/components/BlogCard.astro";
 
 export async function getStaticPaths() {
-  const BLOG_FOLDER = "faqs";
-
   const paths = await Promise.all(
     supportedLang.map(async (lang) => {
       const posts = await getSinglePage(
-        BLOG_FOLDER,
+        "faqs",
         lang as keyof ContentEntryMap
       );
 

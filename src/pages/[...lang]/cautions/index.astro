@@ -18,13 +18,12 @@ export function getStaticPaths() {
   return paths;
 }
 const { lang } = Astro.params;
-const BLOG_FOLDER = "cautions";
 const postIndex = await getListPage(
-  BLOG_FOLDER,
+  "cautions",
   lang as keyof ContentEntryMap
 );
 const langCollection: keyof ContentEntryMap = lang as keyof ContentEntryMap;
-const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
+const posts = await getSinglePage("cautions", lang as keyof ContentEntryMap);
 
 const tags = await getTaxonomy(langCollection, "tags");
 const sortedPosts = sortByDate(posts);
@@ -54,7 +53,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
             }
           </div>
           <Pagination
-            section={BLOG_FOLDER}
+            section={"cautions"}
             currentPage={1}
             totalPages={totalPages}
           />

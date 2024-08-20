@@ -18,7 +18,7 @@ export async function getStaticPaths() {
     supportedLang.map(async (lang) => {
       const categories = await getTaxonomy(
         lang as keyof ContentEntryMap,
-        categories
+        "categories"
       );
 
       return categories.map((category) => ({
