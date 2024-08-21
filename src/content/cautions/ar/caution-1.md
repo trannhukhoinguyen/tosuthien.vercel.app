@@ -3,7 +3,7 @@ title: "Caution 1"
 meta_title: ""
 description: "this is meta description"
 date: 2022-08-15
-image: "/images/image-placeholder.png"
+image: "/images/image-placeholder.jpg"
 master: ""
 tags: ["Caution"]
 draft: false

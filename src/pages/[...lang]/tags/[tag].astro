@@ -1,5 +1,4 @@
 ---
-import BlogCard from "@/components/BlogCard.astro";
 import config from "@/config/config.json";
 import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
@@ -9,6 +8,7 @@ import { sortByDate } from "@/lib/utils/sortFunctions";
 import taxonomyFilter from "@/lib/utils/taxonomyFilter";
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
+import KoanPlanet from "../../../layouts/components/KoanPlanet.astro";
 
 // get all static paths for tags
 export async function getStaticPaths() {
@@ -51,7 +51,7 @@ export async function getStaticPaths() {
 const { tag, lang } = Astro.params;
 
 // get posts by tag
-const BLOG_FOLDER = "blog";
+const BLOG_FOLDER = "faqs" || 'cautions' || 'koans';
 const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
 const filterByTags = taxonomyFilter(posts, "tags", tag!);
 const sortedPosts = sortByDate(filterByTags);
@@ -65,7 +65,7 @@ const sortedPosts = sortByDate(filterByTags);
       {
         sortedPosts.map((post) => (
           <div class="mb-14 md:col-6 lg:col-4">
-            <BlogCard data={post} />
+            <KoanPlanet data={post} />
           </div>
         ))
       }
