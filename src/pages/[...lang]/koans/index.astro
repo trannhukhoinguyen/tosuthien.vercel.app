@@ -7,6 +7,7 @@ import { humanize } from "@/lib/utils/textConverter";
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
 const { default_language } = config.settings;
+import MakeupPalettes from "@/components/MakeupPalettes.astro";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -52,3 +53,5 @@ const allTypes = await getAllTaxonomy(langCollection, "types");
     </div>
   </section>
 </Base>
+
+<MakeupPalettes />

@@ -11,7 +11,7 @@
   "anything_else": "Anything else?",
   "page_not_found_content": "The page you are looking for may have been removed, renamed, or is temporarily unavailable.",
   "back_to_home": "Back to Home",
-  "get_started": "WHO ARE YOU?",
+  "get_started": "Get Started",
 
   "about": "About",
   "back": "Back",
@@ -31,5 +31,13 @@
   "table": "Table",
   "upload": "Upload",
   "upload_select": "Select files",
-  "hidden": "Hidden files"
+  "hidden": "Hidden files",
+
+  "lin-ji-zong": "Lin-ji-zong",
+  "cao-dong-zong": "Cao-dong-zong",
+  "yun-men-zong": "Yun-men-zong",
+  "fa-yan-zong": "Fa-yan-zong",
+  "gui-yang-zong": "Gui-yang-zong",
+  "yangqi-pai": "Yangqi-pai",
+  "huang-long-pai": "Huang-long-pai"
 }
