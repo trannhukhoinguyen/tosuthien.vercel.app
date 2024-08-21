@@ -1,0 +1,188 @@
+---
+import "../../styles/additional-animation/MakeupPalettes.scss"
+
+const schools = [
+  {
+    slug: '/lin-ji-zong',
+    name: 'Lâm tế',
+  },  {
+    slug: '/cao-dong-zong',
+    name: 'Tào động',
+  },  {
+    slug: '/fa-yan-zong',
+    name: 'Pháp nhãn',
+  },  {
+    slug: '/gui-yang-zong',
+    name: 'Qui ngưỡng',
+  },  {
+    slug: '/yun-men-zong',
+    name: 'Vân môn',
+  },  {
+    slug: '/huang-long-pai',
+    name: 'Hoàng long',
+  },  {
+    slug: '/yang-qi-pai',
+    name: 'Dương kì',
+  },
+];
+---
+
+<div class="main-content">
+  <div class="palette__wrapper">
+    <div class="palette palette--one">
+      <div class="palette__cover">
+        <div class="palette__cover__border">
+          <span class="title">{schools[0]?.name}</span>
+        </div>
+      </div>
+      <div class="palette__cover__top"></div>
+      <div class="palette__base">
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+
+        <div></div>
+        <div></div>
+        <div><a style="float: right" href={`/zen-schools${schools[0]?.slug}`} title={`Go to ${schools[0]?.name}`}>⏰</a></div>
+      </div>
+    </div>
+  </div>
+  <div class="palette__wrapper">
+    <div class="palette palette--two">
+      <div class="palette__cover">
+        <div class="palette__cover__border">
+          <span class="title">{schools[1]?.name}</span>
+        </div>
+      </div>
+      <div class="palette__cover__top"></div>
+      <div class="palette__base">
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+
+        <div></div>
+        <div></div>
+        <div></div>
+        <div><a style="float: right" href={`/zen-schools${schools[1]?.slug}`} title={`Go to ${schools[1]?.name}`}>⏰</a></div>
+      </div>
+    </div>
+  </div>
+  <div class="palette__wrapper">
+    <div class="palette palette--three">
+      <div class="palette__cover">
+        <div class="palette__cover__border">
+          <span class="title">{schools[2]?.name}</span>
+        </div>
+      </div>
+      <div class="palette__cover__top"></div>
+      <div class="palette__base">
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+
+        <div></div>
+        <div></div>
+        <div></div>
+        <div><a style="float: right" href={`/zen-schools${schools[2]?.slug}`} title={`Go to ${schools[2]?.name}`}>⏰</a></div>
+      </div>
+    </div>
+  </div>
+  <div class="palette__wrapper">
+    <div class="palette palette--four">
+      <div class="palette__cover">
+        <div class="palette__cover__border">
+          <span class="title">{schools[3]?.name}</span>
+        </div>
+      </div>
+      <div class="palette__cover__top"></div>
+      <div class="palette__base">
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+
+        <div></div>
+        <div></div>
+        <div></div>
+        <div><a style="float: right" href={`/zen-schools${schools[3]?.slug}`} title={`Go to ${schools[3]?.name}`}>⏰</a></div>
+      </div>
+    </div>
+  </div>
+  <div class="palette__wrapper">
+    <div class="palette palette--five">
+      <div class="palette__cover">
+        <div class="palette__cover__border">
+          <span class="title">{schools[4]?.name}</span>
+        </div>
+      </div>
+      <div class="palette__cover__top"></div>
+      <div class="palette__base">
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+
+        <div></div>
+        <div></div>
+        <div><a style="float: right" href={`/zen-schools${schools[4]?.slug}`} title={`Go to ${schools[4]?.name}`}>⏰</a></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="palette__wrapper">
+    <div class="palette palette--six">
+      <div class="palette__cover">
+        <div class="palette__cover__border">
+          <span class="title">{schools[5]?.name}</span>
+        </div>
+      </div>
+      <div class="palette__cover__top"></div>
+      <div class="palette__base">
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+
+        <div></div>
+        <div></div>
+        <div><a style="float: right" href={`/zen-schools${schools[5]?.slug}`} title={`Go to ${schools[5]?.name}`}>⏰</a></div>
+      </div>
+    </div>
+  </div>
+  <div class="palette__wrapper">
+    <div class="palette palette--seven">
+      <div class="palette__cover">
+        <div class="palette__cover__border">
+          <span class="title">{schools[6]?.name}</span>
+        </div>
+      </div>
+      <div class="palette__cover__top"></div>
+      <div class="palette__base">
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+        <div class="palette__shade"></div>
+
+        <div></div>
+        <div></div>
+        <div></div>
+        <div><a style="float: right" href={`/zen-schools${schools[6]?.slug}`} title={`Go to ${schools[6]?.name}`}>⏰</a></div>
+      </div>
+    </div>
+  </div>
+</div>
