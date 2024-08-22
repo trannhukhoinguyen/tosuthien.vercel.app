@@ -7,9 +7,10 @@
     { "name": "سادة الزن", "url": "/zen-masters" },
     {
       "name": "معلومات أخرى",
-      "url": "/100-cubit-pole",
+      "url": "/others",
       "hasChildren": true,
       "children": [
+        { "name": "خطوات جاهلة", "url": "/ignorant-steps" },
         { "name": "عالم دارما", "url": "/dharma-realm" },
         { "name": "العلامات", "url": "/tags" }
       ]

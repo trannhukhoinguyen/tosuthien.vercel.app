@@ -7,9 +7,10 @@
     { "name": "Maestros zen", "url": "/zen-masters" },
     {
       "name": "Otros",
-      "url": "/100-cubit-pole",
+      "url": "/others",
       "hasChildren": true,
       "children": [
+        { "name": "Pasos ignorantes", "url": "/ignorant-steps" },
         { "name": "Reino del dharma", "url": "/dharma-realm" },
         { "name": "Etiquetas", "url": "/tags" }
       ]

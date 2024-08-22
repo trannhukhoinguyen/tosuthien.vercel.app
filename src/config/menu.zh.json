@@ -7,9 +7,10 @@
     { "name": "禅师", "url": "/zen-masters" },
     {
       "name": "其他的",
-      "url": "/100-cubit-pole",
+      "url": "/others",
       "hasChildren": true,
       "children": [
+        { "name": "无知的步骤", "url": "/ignorant-steps" },
         { "name": "法界", "url": "/dharma-realm" },
         { "name": "标签", "url": "/tags" }
       ]
