@@ -10,141 +10,23 @@ tags: ["Koan", "Blue Cliff Record"]
 draft: false
 ---
 
-## Case 1: Bodhidharma's "Clear and Void"
-
-Emperor Bu of Ryo [1] asked Great Master Bodhidharma,
-"What is the highest meaning of the holy reality?"
-Bodhidharma replied,
-"Clear and void, no holiness."
-The emperor said,
-"Who are you in front of me?"
-Bodhidharma said,
-"I don't know."
-The emperor did not match him.
-
-Finally, Bodhidharma crossed the Yangtse River and came to the kingdom of Gi.
-Later, the emperor asked Shiko for his view. Shiko said,
-"Does Your Majesty know who this man is?"
-The emperor said,
-"I don't know."
-Shiko said,
-"He is the Mahasattwa Avalokitesvara transmitting the seal of Buddha's Mind."
-The emperor regretted and wanted to send an emissary to invite Bodhidharma
-back. Shiko said,
-"Your Majesty, do not intend to send an emissary to fetch him back. Even if
-all the people in the land were to go after him, he would not return."
-
-[1]: Emperor Bu reigned over the land of Ryo between 502-509
-
-
-## Case 2: Joshu's "Supreme Way"
-
-Joshu, instructing the assembly, said,
-"The supreme Way is not difficult; it simply dislikes choosing [1]. But even
-if a word is uttered, it is already an action of 'choosing' or of adhering
-to 'clarity'. This old monk [2] doesn't dwell in clarity. Do you monks want
-to keep a firm hold on 'clarity' or not?"
-At that time a monk asked,
-"You say you do not dwell in clarity. If so, what is there to keep a firm
-hold on?"
-Joshu said,
-"I don't know, either."
-The monk said,
-"If you, Master, don't know, why do you say that you don't dwell in clarity?"
-Joshu said,
-"You have already asked amply. Bow and withdraw."
-
-[1]: Cf. the beginning of the Shinjinmei (Believing in the Mind; Poem composed
-by the third Patriarch Sosan):
-"The supremet Way is not difficult;
-it simply dislikes choosing.
-Only if there is no love or hatred,
-all is complete clarity."
-
-[2]: "this old monk" i.e. "I"
-
-
-Cas 3: Master Ba Is Ill
-
-Great Master Ba was seriously ill. The chief priest of the temple asked him,
-"Master, how are you feeling these days?"
-Great Master said,
-"Sun-face Buddha, Moon-face Buddha" [1].
-
-[1]: The "Sun-face Buddha" is a buddha, who is said to have a life of
-1800 years, while the "Moon-face Buddha" lives only 24 hours.
-
-
-Case 4: Tokusan with His Bundle
-
-Tokusan arrived at Isan. Carrying his bundle under his arm, he stepped into
-the Dharma hall. He walked across it from east to west and from west to east.
-Looking around he said, "None, none!" and went out.
-(Setcho [1] commented: "Seen through!")
-
-But when he got to the entrance gate, Tokusan said, "Still, I shouldn't be so
-hasty." So, he dressed formally and entered again to meet Isan. As Isan sat at
-his place, Tokusan held up his sitting cloth in a ceremonial manner and said,
-"Master!" Isan was about to take his whisk, when suddenly Tokusan shouted,
-"Kaatz!" Then he flourished his sleeves and went out.
-(Setcho commented: "Seen through!")
-
-Turning his back on the Dharma hall, Tokusan put on his straw sandals and left.
-In the evening, Isan asked the head monk, "Where is the newcomer who was here
-a while ago?" The head monk said, "He soon turned his back on the Dharma hall,
-put on his straw sandals and went away." Isan said, "One day that fellow
-will build a grass hut upon a lonely peak, and scold the buddhas and abuse
-the patriarchs."
-(Setcho commented: "Piling up frost on top of snow.")
-
-[1]: Setcho Zenji is the compiler of the Hekiganroku.
-[2]: In Japanese: hossu i.e. a stick with a flexible whisk on top
 
 
 
-Case 5: Seppo's "Grain of Rice"
-
-Seppo, teaching the assembly, said,
-"When you pick up the whole earth in your fingers, it's the size of a grain
-of rice. I cast it down before you. Like in a black lacquer bucket, you
-don't recognize it any more. Beat the drum, call everyone to look for it!"
 
 
 
-Case 6: Unmon's "Good Day"
-
-Unmon, giving instruction, said,
-"I don't ask you about before the fifteenth day; bring me a phrase about
-after the fifteenth day."
-Unmon himself answered in the monks' stead,
-"Every day is a good day."
 
 
 
-Case 7: Echo Asks about Buddha
-
-A monk asked Hogen, "I, Echo, ask you, Master. What is Buddha?"
-Hogen said, "You are Echo."
 
 
 
-Case 8: Suigan's "Eyebrows"
 
-Towards the end of summer [1], Suigan instructed the assembly, saying,
-"All summer I've preached to you, my brothers. Look here, are Suigan's
-eyebrows still there? [2]"
-Hofuku said,
-"The robber's heart is terrified!"
-Chokei said,
-"They are well grown!"
-Unmon said,
-"Kan!" [3]
 
-[1]: Summer-sesshin for 3 months.
-[2]: According to the popular belief a great criminal should lose his eyebrows
-as a sign of his coming punishment in hell.
-[3]: Literally kan means "barrier" (cf. Mumonkan). In those days this Chinese
-word colloquially meant also, "Watch out!" or "There!"
+
+
+
 
 
 

@@ -23,11 +23,7 @@ to 'clarity'. This old monk **[2]** doesn't dwell in clarity. Do you monks want 
 
 ***
 
-> **[1]**: Cf. the beginning of the Shinjinmei (Believing in the Mind; Poem composed
-by the third Patriarch Sosan):
-"The supremet Way is not difficult;
-it simply dislikes choosing.
-Only if there is no love or hatred,
-all is complete clarity."
+> **[1]**: Cf. the beginning of the Shinjinmei (Believing in the Mind; Poem composed by the third Patriarch Sosan):
+"The supremet Way is not difficult; it simply dislikes choosing. Only if there is no love or hatred, all is complete clarity."
 
 > **[2]**: "this old monk" i.e. "I"
