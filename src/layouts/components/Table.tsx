@@ -13,10 +13,12 @@ interface TableProps {
     name_ja: string
     name_ko: string
     name_ar: string
+    birth_death_time: string
+    sect: string
     country: string
     place: string
-    teacher: string
-    successor: string
+    teachers: string[]
+    successors: string[]
     disciples: string[]
   }[];
   lang: string;
@@ -50,10 +52,12 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
       || item.name_ja.toLowerCase().includes(searchTerm)
       || item.name_ko.toLowerCase().includes(searchTerm)
       || item.name_ar.toLowerCase().includes(searchTerm)
+      || item.birth_death_time.toLowerCase().includes(searchTerm)
+      || item.sect.toLowerCase().includes(searchTerm)
       || item.country.toLowerCase().includes(searchTerm)
-|| item.place.toLowerCase().includes(searchTerm)
-      || item.teacher.toLowerCase().includes(searchTerm)
-|| item.successor.toLowerCase().includes(searchTerm)
+      || item.place.toLowerCase().includes(searchTerm)
+      || item.teachers.some(teacher => teacher.toLowerCase().includes(searchTerm))
+      || item.successors.some(successor => successor.toLowerCase().includes(searchTerm))
       || item.disciples.some(disciple => disciple.toLowerCase().includes(searchTerm))
   );
 
@@ -86,10 +90,12 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
           {lang === 'ja' && <th>Japanese Name</th>}
           {lang === 'ko' && <th>Korean Name</th>}
           {lang === 'ar' && <th>Arabic Name</th>}
+          <th>Birth - Death</th>
+          <th>Sect</th>
           <th>Country</th>
           <th>Place</th>
-          <th>Teacher</th>
-          <th>Successor</th>
+          <th>Teachers</th>
+          <th>Successors</th>
           <th>Disciples</th>
         </tr>
         </thead>
@@ -107,11 +113,13 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
             {lang === 'ja' && <td>{item.name_ja}</td>}
             {lang === 'ko' && <td>{item.name_ko}</td>}
             {lang === 'ar' && <td>{item.name_ar}</td>}
+            <td>{item.birth_death_time}</td>
+            <td>{item.sect}</td>
             <td>{item.country}</td>
-<td>{item.place}</td>
-            <td>{item.teacher}</td>
-<td>{item.successor}</td>
-            <td>{item.disciples}</td>
+            <td>{item.place}</td>
+            <td>{item.teachers.join(', ')}</td>
+            <td>{item.successors.join(', ')}</td>
+            <td>{item.disciples.join(', ')}</td>
           </tr>
         ))}
         </tbody>
