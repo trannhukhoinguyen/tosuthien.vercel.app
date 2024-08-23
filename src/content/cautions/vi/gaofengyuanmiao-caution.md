@@ -1,7 +1,7 @@
 ---
 title: "Ngữ lục Thiền sư Cao Phong Nguyên Diệu"
-meta_title: ""
-description: "this is meta description"
+meta_title: "..."
+description: "..."
 date: 2022-08-15
 image: "/images/image-placeholder.jpg"
 master: "Cao Phong Nguyên Diệu"
