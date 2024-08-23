@@ -5,7 +5,7 @@ description: "Unmon's Good Day"
 date: 2022-08-22
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
-master: "Unmon"
+masters: ["Unmon"]
 tags: ["Koan", "Blue Cliff Record"]
 draft: false
 ---

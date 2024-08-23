@@ -11,7 +11,7 @@ import type { ContentEntryMap } from "astro:content";
 import { FaRegFolder, FaRegUserCircle } from "react-icons/fa";
 import ImageMod from "./ImageMod.astro";
 
-const { summary_length }: { summary_length: number; blog_folder_faqs: string } = config.settings;
+const { summary_length }: { summary_length: number; blog_folder: string } = config.settings;
 const { data, slugDefault } = Astro.props;
 const { title, image, date, masters, categories } = data.data;
 

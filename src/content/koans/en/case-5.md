@@ -5,7 +5,7 @@ description: "Seppo's Grain of Rice"
 date: 2022-08-22
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
-master: "Seppo"
+masters: ["Seppo"]
 tags: ["Koan", "Blue Cliff Record"]
 draft: false
 ---

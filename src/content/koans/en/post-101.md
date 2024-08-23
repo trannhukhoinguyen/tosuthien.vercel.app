@@ -5,52 +5,12 @@ description: "this is meta description"
 date: 2022-08-15
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
-master: ""
+masters: [""]
 tags: ["Koan", "Blue Cliff Record"]
 draft: false
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Case 9: Joshu's Four Gates
-
-A monk asked Joshu,
-"What is Joshu?" [1]
-Joshu said,
-"East gate, west gate, south gate, north gate."
-
-[1]: The name of the Zen Master Joshu is taken from the city "Joshu", near
-which he taught.
-
-
-
-Case 10: Bokushu's "Idiot"
-
-Bokushu asked a monk, "Where have you come from?"
-At once the monk shouted, "Kaatz!"
-Bokushu said, "The old monk has been scolded by you with a 'Kaatz'!"
-The monk shouted again, "Kaatz!"
-Bokushu said, "After three or four shouts of 'Kaatz', then what?"
-The monk was silent.
-Bokushu hit him saying, "You idiot!"
 
 
 

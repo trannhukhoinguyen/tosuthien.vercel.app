@@ -5,13 +5,11 @@
     { "name": "Cảnh ngữ", "url": "/cautions" },
     { "name": "Công án", "url": "/koans" },
     { "name": "Thiền sư", "url": "/zen-masters" },
-
     {
       "name": "Khác",
       "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "Bước chân vô minh", "url": "/ignorant-steps" },
         { "name": "Bước chân vô minh", "url": "/ignorant-steps" },
         { "name": "Pháp giới", "url": "/dharma-realm" },
         { "name": "Tags", "url": "/tags" }

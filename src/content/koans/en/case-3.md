@@ -5,7 +5,7 @@ description: "Master Ba Is Ill"
 date: 2022-08-22
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
-master: "Master Ba"
+masters: ["Master Ba"]
 tags: ["Koan", "Blue Cliff Record"]
 draft: false
 ---

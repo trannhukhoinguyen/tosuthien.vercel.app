@@ -1,16 +1,21 @@
 ---
-title: "Case 6: Unmon's Good Day"
-meta_title: "Unmon's Good Day"
-description: "Unmon's Good Day"
+title: "Case 10: Bokushu's Idiot"
+meta_title: "Bokushu's Idiot"
+description: "Bokushu's Idiot"
 date: 2022-08-22
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
-master: "Unmon"
+masters: ["Bokushu"]
 tags: ["Koan", "Blue Cliff Record"]
 draft: false
 ---
 
-- Unmon, giving instruction, said, _"I don't ask you about before the fifteenth day; bring me a phrase about after the fifteenth day."_
-- Unmon himself answered in the monks' stead, _"Every day is a good day."_
+- Bokushu asked a monk, _"Where have you come from?"_
+- At once the monk shouted, _"Kaatz!"_
+- Bokushu said, _"The old monk has been scolded by you with a 'Kaatz'!"_
+- The monk shouted again, _"Kaatz!"_
+- Bokushu said, _"After three or four shouts of 'Kaatz', then what?"_
+- The monk was silent.
+- Bokushu hit him saying, _"You idiot!"_
 
 ***

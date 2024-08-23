@@ -5,7 +5,7 @@ description: "Bodhidharma's Clear and Void"
 date: 2022-08-22
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
-master: "Bodhidharma"
+masters: ["Bodhidharma"]
 tags: ["Koan", "Blue Cliff Record"]
 draft: false
 ---

@@ -5,7 +5,7 @@ description: "Ceci est une méta-description"
 date: 2022-08-15
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
-master: ""
+masters: [""]
 tags: ["Koan"]
 draft: false
 ---

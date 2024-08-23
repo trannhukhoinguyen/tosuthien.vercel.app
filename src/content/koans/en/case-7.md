@@ -1,18 +1,16 @@
 ---
 title: "Case 7: Echo Asks about Buddha"
-meta_title: "Unmon's Good Day"
-description: "Unmon's Good Day"
+meta_title: "Echo Asks about Buddha"
+description: "Echo Asks about Buddha"
 date: 2022-08-22
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
-master: "Unmon"
+masters: ["Hogen"]
 tags: ["Koan", "Blue Cliff Record"]
 draft: false
 ---
 
-- 
-
-A monk asked Hogen, "I, Echo, ask you, Master. What is Buddha?"
-Hogen said, "You are Echo."
+- A monk asked Hogen, _"I, Echo, ask you, Master. What is Buddha?"_
+- Hogen said, _"You are Echo."_
 
 ***

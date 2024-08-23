@@ -5,7 +5,7 @@ description: "Joshu's Supreme Way"
 date: 2022-08-22
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
-master: "Joshu"
+masters: ["Joshu"]
 tags: ["Koan", "Blue Cliff Record"]
 draft: false
 ---

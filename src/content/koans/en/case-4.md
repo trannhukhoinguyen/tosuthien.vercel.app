@@ -5,7 +5,7 @@ description: "Tokusan with His Bundle"
 date: 2022-08-22
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
-master: "Tokusan"
+masters: ["Tokusan"]
 tags: ["Koan", "Blue Cliff Record"]
 draft: false
 ---
