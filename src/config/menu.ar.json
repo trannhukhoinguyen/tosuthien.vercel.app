@@ -1,7 +1,7 @@
 {
   "main": [
     { "name": "الصفحة الرئيسية", "url": "/" },
-    { "name": "الأسئلة الشائعة", "url": "/faqs" },
+    { "name": "سؤال وجواب", "url": "/faqs" },
     { "name": "خطبة تحذيرية", "url": "/cautions" },
     { "name": "زين كوان", "url": "/koans" },
     { "name": "سادة الزن", "url": "/zen-masters" },

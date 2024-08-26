@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Hua Tou"
-description: "La méditation accorde une grande attention au doute appelé doute émotionnel. Si vous voulez soulever des doutes, vous devez vous appuyer sur le PREMIER DIALOGUE, appelé premier dialogue. Qu'est-ce que le phonetou ? Selon l'explication de M. Hu Van, lorsque vous voulez dire un dialogue, vous devez commencer à réfléchir avant de pouvoir le dire. Lorsque vous n'avez pas l'idée de vouloir parler, cela s'appelle dialoguer. de vouloir parler, même si on ne l'a pas encore dit, ça s'appelle quand même déjà dialoguer. En ce moment, quand je commence à méditer, je n'ai pas encore atteint Hua Tou, mais je ne suis pas non plus à Hua Tou. Je déménage de Hua Tou à Hua Tou En marchant au milieu de la route, un jour j'atteindrai Hua. Toi. A ce moment-là, la ligne a disparu..."
+description: "Or, la personne qui médite doit assister au premier dialogue, également appelé premier dialogue. Regarder signifie regarder, regarder le lieu de l'ignorance sans commencement, l'ignorance signifie être sombre et aveugle, ne pas savoir ce que c'est. En regardant et en demandant, plus vous demandez, plus vous avez l'impression de ne pas savoir. C'est ce qu'on appelle développer des doutes. Désormais, il vous suffit de dormir et de vous réveiller pour vous rafraîchir l’esprit, en vous demandant où est le propriétaire ultime de cette conscience de soi ? Vous ne devriez pas non plus arrêter de penser, vous devriez utiliser votre vue pour regarder directement dans ce gouffre profond et sombre où il n’y a ni existence ni non-existence, en marchant, debout, allongé, assis sans interruption. Sécurisez votre vie, faites le vœu de vous détourner d’une vie d’ignorance et décidez de voir cela clairement."
 
 # Huatous
 huatous:
@@ -13,7 +13,7 @@ huatous:
   - name: ""
     designation: ""
     avatar: ""
-    content: "QUAND IL N'Y A NI CIEL NI TERRE, QUE SOMMES-NOUS ?"
+    content: "QUAND IL N'Y A PLUS DE CIEL NI DE TERRE, QUE SUIS-JE ?"
 
   - name: ""
     designation: ""

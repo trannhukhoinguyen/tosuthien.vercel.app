@@ -1,7 +1,7 @@
 {
   "main": [
     { "name": "家", "url": "/" },
-    { "name": "常见问题解答", "url": "/faqs" },
+    { "name": "問答", "url": "/faqs" },
     { "name": "注意事项", "url": "/cautions" },
     { "name": "公案", "url": "/koans" },
     { "name": "禅师", "url": "/zen-masters" },

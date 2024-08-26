@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Hua Tou"
-description: "La meditación presta gran atención a la duda llamada duda emocional. Si quieres plantear dudas debes apoyarte en el PRIMER DIÁLOGO, llamado primer diálogo. Qué es phonetou? Según la explicación del Sr. Hu Van, cuando quieres decir una línea de diálogo, primero debes tener un pensamiento antes de poder hablar. Cuando aún no has tenido el pensamiento de querer hablar, se llama diálogo. Ya has pensado en hablar, aunque aún no lo hayas dicho, ya es un diálogo. En este momento, cuando empiezo a meditar, todavía no he llegado a la etapa de meditación, pero aún no estoy en la etapa de conversación. Es de la etapa de meditación a la etapa de conversación. Un día llegaré a la etapa de conversación. En ese momento, la línea desapareció..."
+description: "Ahora la persona que medita debe asistir al primer diálogo, también llamado primer diálogo. Mirar significa mirar, mirar el lugar de la ignorancia sin principio, la ignorancia significa estar oscuro y ciego, sin saber qué es. Mientras miras y preguntas, cuanto más preguntas, más sientes que no sabes. Eso se llama desarrollar dudas. A partir de ahora sólo necesitarás dormir y despertarte para refrescar tu mente, preguntándote ¿dónde está el dueño último de esta autoconciencia? Tampoco debes dejar de pensar, debes usar tu vista para mirar directamente a ese profundo y oscuro pozo donde no existe la existencia ni la inexistencia, caminando, de pie, acostado, sentado sin interrupción. Asegure su vida, prometa alejarse de una vida de ignorancia y decida verlo con claridad."
 
 # Huatous
 huatous: 
@@ -13,7 +13,7 @@ huatous:
   - name: ""
     designation: ""
     avatar: ""
-    content: "CUANDO NO HAY CIELO NI TIERRA, ¿QUÉ SOMOS?"
+    content: "CUANDO NO HAY CIELO NI TIERRA, ¿QUÉ SOY YO?"
 
   - name: ""
     designation: ""

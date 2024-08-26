@@ -29,6 +29,7 @@ const posts = await getSinglePage("zen-master", lang as keyof ContentEntryMap);
   <PageHeader title={"Zen Master"} />
   <section class="section">
     <div class="container">
+      <h1></h1>
       <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
     </div>
   </section>

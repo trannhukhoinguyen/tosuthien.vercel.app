@@ -1,7 +1,7 @@
 {
   "main": [
     { "name": "Inicio", "url": "/" },
-    { "name": "Preguntas frecuentes", "url": "/faqs" },
+    { "name": "Preguntas y respuestas", "url": "/faqs" },
     { "name": "Precauciones", "url": "/cautions" },
     { "name": "Koans", "url": "/koans" },
     { "name": "Maestros zen", "url": "/zen-masters" },

@@ -1,7 +1,11 @@
 ---
 enable: true
 title: "Hua Tou"
-description: "Practicing Zen focuses on the doubt called doubt sentiment. To arouse doubt sentiment, one must rely on the HEAD OF THE DIALOGUE, called the head of the dialogue. What is the head of the dialogue? According to Master Hsu Yun's explanation, when one wants to say a dialogue, one must have a thought before one can say it. The moment when one has not yet arisen the thought of wanting to say it is called the head of the dialogue. If one has already arisen the thought of wanting to say it, even though one has not yet spoken it is already the end of the dialogue. Now, when one begins to practice Zen, one has not yet reached the head of the dialogue, but one is not at the end of the dialogue either. One is from the end of the dialogue to the head of the dialogue. One day, while walking in the middle of the path, one will reach the head of the dialogue. At that time, the dialogue will disappear by itself..."
+description: "Now, the practitioner of Zen must contemplate the koan, also called Seeing the Koan. 
+Seeing means to look, to look right at the beginningless ignorance, ignorance means darkness, not knowing what it is. 
+Looking and asking, the more you ask, the more you feel you don't know, that is called developing doubt. 
+From now on, you only need to sleep and wake up to rectify your mind, ask yourself where is the ultimate master of this consciousness? 
+Also, do not stop your wandering thoughts, you should use your eye faculty to look straight into that deep, dark pit that does not abide in existence or non-existence, walking, standing, lying down, sitting without interruption. Set your body and establish your life, vow to change a life of ignorance, determined to see that clearly."
 
 # Huatous
 huatous: 
@@ -13,7 +17,7 @@ huatous:
   - name: ""
     designation: ""
     avatar: ""
-    content: "WHEN THERE IS NO HEAVEN AND EARTH, WHAT ARE WE?"
+    content: "WHEN THERE IS NO HEAVEN AND EARTH, WHAT AM I?"
 
   - name: ""
     designation: ""

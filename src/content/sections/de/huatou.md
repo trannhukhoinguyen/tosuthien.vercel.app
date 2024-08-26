@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "ERSTEN FRAGEN/ZITATE"
-description: "Bei der Meditation wird dem Zweifel, der emotionaler Zweifel genannt wird, große Aufmerksamkeit geschenkt. Wenn Sie Zweifel äußern möchten, müssen Sie sich auf den ERSTEN DIALOG verlassen, der als erster Dialog bezeichnet wird. Was heißt phonetou? Laut der Erklärung von Herrn Hsu Yun/Xuyun muss man erst nachdenken, bevor man ihn sagen kann. Wenn man nicht den Gedanken hat, sprechen zu wollen, nennt man das Dialog Sprechen zu wollen, auch wenn man es noch nicht gesagt hat, nennt man es immer noch. Wenn ich gerade anfange zu meditieren, habe ich Hua Tou noch nicht erreicht, aber ich bewege mich auch nicht von Hua Tou nach Hua Tou. Während ich mitten auf der Straße laufe, werde ich Hua erreichen Tou. In diesem Moment verschwand die Leitung ..."
+description: "Nun muss der Meditierende dem ersten Dialog, auch Erstdialog genannt, beiwohnen. Schauen bedeutet, zu schauen, auf den Ort der anfangslosen Unwissenheit zu blicken. Unwissenheit bedeutet, dunkel und blind zu sein und nicht zu wissen, was es ist. Je mehr man beim Schauen und Fragen fragt, desto mehr hat man das Gefühl, dass man es nicht weiß. Das nennt man Entwicklung von Zweifeln. Von nun an müssen Sie nur noch schlafen und aufwachen, um Ihren Geist zu erfrischen, und fragen sich: Wo ist der eigentliche Besitzer dieses Selbstbewusstseins? Sie sollten auch nicht aufhören zu denken, Sie sollten Ihr Sehvermögen nutzen, um direkt in diese tiefe, dunkle Grube zu blicken, in der es keine Existenz oder Nichtexistenz gibt, und zwar beim Gehen, Stehen, Liegen, Sitzen ohne Unterbrechung. Sichern Sie Ihr Leben, geloben Sie, sich von einem Leben in Unwissenheit abzuwenden, und entscheiden Sie sich, dies klar zu erkennen."
 
 # Huatous
 huatous: 
@@ -13,7 +13,7 @@ huatous:
   - name: ""
     designation: ""
     avatar: ""
-    content: "WENN ES KEINEN HIMMEL UND KEINE ERDE GIBT, WAS SIND WIR DANN?"
+    content: "WENN ES KEINEN HIMMEL UND KEINE ERDE GIBT, WAS BIN ICH DANN?"
 
   - name: ""
     designation: ""

@@ -1,7 +1,12 @@
 ---
 enable: true
 title: "Thoại Đầu"
-description: "Tham thiền rất chú trọng cái nghi gọi là nghi tình. Muốn khởi lên cái nghi tình phải nhờ câu THOẠI ĐẦU, gọi là tham thoại đầu. Thế nào là thoại đầu? Theo Ngài Hư Vân giải thích rằng khi muốn nói một câu thoại thì phải khởi niệm rồi mới nói được, lúc chưa khởi niệm muốn nói gọi là thoại đầu, nếu đã khởi niệm muốn nói, mặc dù chưa nói ra cũng đã là thoại vĩ rồi. Hiện nay bắt đầu tham thiền thì chưa đến thoại đầu nhưng cũng không phải ở thoại vĩ, là từ thoại vĩ tiến đến thoại đầu, đang đi ở giữa đường một ngày kia sẽ tiến tới thoại đầu. Lúc ấy câu thoại tự mất..."
+description: "Nay người tham thiền phải tham thoại đầu, cũng gọi là khán thoại đầu. 
+Khán tức là nhìn, nhìn ngay chỗ vô thỉ vô minh, vô minh tức là mịch mù đen tối, không biết đó là cái gì. 
+Vừa nhìn vừa hỏi, càng hỏi càng cảm thấy không biết, ấy gọi là phát nghi tình. 
+Từ nay ông chỉ cần ngủ vừa thức dậy chấn chỉnh tinh thần, tự hỏi cái ta thức này chủ nhân rốt ráo tại chỗ nào? 
+Cũng chớ nên dứt vọng niệm, nên dùng nhãn căn nhìn thẳng vào chỗ hầm sâu đen tối chẳng trụ hữu vô ấy, đi, đứng, nằm, ngồi chẳng được gián đoạn. 
+An thân lập mạng, tự thệ chuyển một đời ngu si, quyết định phải thấy rõ ràng cái ấy."
 
 # Huatous
 huatous:

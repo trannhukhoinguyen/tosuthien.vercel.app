@@ -1,7 +1,7 @@
 {
   "main": [
     { "name": "Главная", "url": "/" },
-    { "name": "Часто задаваемые вопросы", "url": "/faqs" },
+    { "name": "Вопросы и ответы", "url": "/faqs" },
     { "name": "Речь", "url": "/cautions" },
     { "name": "Коаны", "url": "/koans" },
     { "name": "Мастера Дзен", "url": "/zen-masters" },
