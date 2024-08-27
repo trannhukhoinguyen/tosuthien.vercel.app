@@ -29,7 +29,42 @@ const posts = await getSinglePage("zen-master", lang as keyof ContentEntryMap);
   <PageHeader title={"Zen Master"} />
   <section class="section">
     <div class="container">
-      <h1></h1>
+      <h2>Thiền sư Ấn Độ</h2>
+      <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
+    </div>
+
+    <div class="container">
+      <h2>Thiền sư Trung Hoa từ tổ Bồ Đề Đạt Ma</h2>
+      <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
+    </div>
+
+    <div class="container">
+      <h2>Thiền sư Trung Hoa từ Lục tổ Huệ Năng</h2>
+      <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
+    </div>
+
+    <div class="container">
+      <h2>Thiền sư Trung Hoa Đời thứ 1 sau Lục tổ</h2>
+      <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
+    </div>
+
+    <div class="container">
+      <h2>Thiền sư Trung Hoa Đời thứ 2 sau Lục tổ</h2>
+      <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
+    </div>
+
+    <div class="container">
+      <h2>Thiền sư Trung Hoa Đời thứ 3 sau Lục tổ</h2>
+      <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
+    </div>
+
+    <div class="container">
+      <h2>Thiền sư Trung Hoa Đời thứ 4 sau Lục tổ</h2>
+      <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
+    </div>
+
+    <div class="container">
+      <h2>Thiền sư Trung Hoa Đời thứ 5 sau Lục tổ</h2>
       <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
     </div>
   </section>
