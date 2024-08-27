@@ -1,0 +1,63 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
+import { getAllTaxonomy, getTaxonomy } from "@/lib/taxonomyParser.astro";
+import {
+  getLangFromUrl,
+  getTranslations,
+  supportedLang
+} from "@/lib/utils/languageParser";
+import PageHeader from "@/partials/PageHeader.astro";
+import type { ContentEntryMap } from "astro:content";
+
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+const { lang } = Astro.params || getLangFromUrl(Astro.url);
+
+const postIndex = await getListPage(
+  "zen-comic",
+  lang as keyof ContentEntryMap
+);
+const posts = await getSinglePage("zen-comic", lang as keyof ContentEntryMap);
+const {
+  indian_masters, chinese_masters, level_0, level_1, level_2, level_3, level_4, level_5,
+} = await getTranslations(lang as keyof ContentEntryMap);
+---
+
+<Base>
+  <PageHeader title={"Zen Comic"} />
+  <section class="section">
+    <div class="container">
+      <iframe
+        style='width:900px;height:500px;'
+        src='https://online.pubhtml5.com/jtdtv/bxhj/'
+        seamless='seamless'
+        scrolling='no'
+        frameborder='0'
+        allowtransparency='true'
+        allowfullscreen='true'
+      ></iframe>
+    </div>
+    <div class="container">
+      <iframe
+        style='width:900px;height:500px;display:inline'
+        src='https://online.pubhtml5.com/jtdtv/ezil/'
+        seamless='seamless'
+        scrolling='no'
+        frameborder='0'
+        allowtransparency='true'
+        allowfullscreen='true'
+      ></iframe>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .section {
+    padding-block: 0;
+  }
+</style>

@@ -10,7 +10,8 @@
       "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "Bước chân vô minh", "url": "/ignorant-steps" },
+        { "name": "Không biết", "url": "/ignorant-steps" },
+        { "name": "Truyện tranh Thiền tông", "url": "/zen-comics" },
         { "name": "Pháp giới", "url": "/dharma-realm" },
         { "name": "Tags", "url": "/tags" }
       ]
