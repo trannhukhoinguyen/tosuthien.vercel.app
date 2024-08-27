@@ -13,11 +13,20 @@
   "back_to_home": "Back to Home",
   "get_started": "Get Started",
 
-  "lin-ji-zong": "Lâm Tế tông",
-  "cao-dong-zong": "Tào Động tông",
-  "yun-men-zong": "Vân Môn tông",
-  "fa-yan-zong": "Pháp Nhãn tông",
-  "gui-yang-zong": "Quy Ngưỡng tông",
-  "yangqi-pai": "Dương Kì phái",
-  "huang-long-pai": "Hoàng Long phái"
+  "lin_ji_zong": "Linji zong",
+  "cao_dong_zong": "Caodong zong",
+  "yun_men_zong": "Yunmen zong",
+  "fa_yan_zong": "Fayan zong",
+  "gui_yang_zong": "Guiyang zong",
+  "yang_qi_pai": "Yangqi pai",
+  "huang_long_pai": "Huanglong pai",
+
+  "indian_masters": "Thiền sư Ấn Độ",
+  "chinese_masters": "Thiền sư Trung Hoa",
+  "level_0": "Truớc/cùng thời Lục Tổ",
+  "level_1": "Đời thứ 1 sau Lục Tổ",
+  "level_2": "Đời thứ 2 sau Lục Tổ",
+  "level_3": "Đời thứ 3 sau Lục Tổ",
+  "level_4": "Đời thứ 4 sau Lục Tổ",
+  "level_5": "Đời thứ 5 sau Lục Tổ"
 }

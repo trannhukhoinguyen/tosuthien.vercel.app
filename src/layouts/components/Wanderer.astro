@@ -1,0 +1,65 @@
+---
+import "../../styles/additional-animation/Wanderer.scss"
+---
+<script>
+  document.onkeydown = KeyDown;
+  document.body.classList = "pause";
+
+  function KeyDown(event) {
+    var KeyID = event.which;
+    if (KeyID == 39) {
+      document.body.classList.remove("pause");
+    }
+  }
+  document.onkeyup = KeyUp;
+  function KeyUp(event) {
+    var KeyID = event.which;
+    if (KeyID == 39) {
+      document.body.classList = "pause";
+    }
+  }
+  document.getElementById("autoplay").addEventListener("click", function() {
+    document.body.classList.remove("pause");
+  });
+</script>
+
+<div class="man-world">
+  <div class="man">
+    <div class="arm front">
+      <div class="arm__top">
+        <div class="arm__fore"></div>
+      </div>
+    </div>
+
+    <div class="arm back">
+      <div class="arm__top">
+        <div class="arm__fore"></div>
+      </div>
+    </div>
+
+    <div class="head">
+      <div class="head__hair"></div>
+      <div class="head__ear"></div>
+      <div class="head__nose"></div>
+      <div class="head__eye"></div>
+    </div>
+
+    <div class="body">
+      <div class="body__belly"></div>
+    </div>
+    <div class="pelvis"></div>
+    <div class="leg">
+      <div class="leg__top">
+        <div class="leg__fore"></div>
+      </div>
+    </div>
+    <div class="leg back">
+      <div class="leg__top">
+        <div class="leg__fore"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+

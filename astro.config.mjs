@@ -8,6 +8,7 @@ import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
 import languagesJSON from "./src/config/language.json";
+
 const { default_language } = config.settings;
 
 const supportedLang = [...languagesJSON.map((lang) => lang.languageCode)];

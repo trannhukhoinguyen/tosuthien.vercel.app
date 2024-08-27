@@ -33,11 +33,20 @@
   "upload_select": "Select files",
   "hidden": "Hidden files",
 
-  "lin-ji-zong": "Lin-ji-zong",
-  "cao-dong-zong": "Cao-dong-zong",
-  "yun-men-zong": "Yun-men-zong",
-  "fa-yan-zong": "Fa-yan-zong",
-  "gui-yang-zong": "Gui-yang-zong",
-  "yangqi-pai": "Yangqi-pai",
-  "huang-long-pai": "Huang-long-pai"
+  "lin_ji_zong": "Linji zong",
+  "cao_dong_zong": "Caodong zong",
+  "yun_men_zong": "Yunmen zong",
+  "fa_yan_zong": "Fayan zong",
+  "gui_yang_zong": "Guiyang zong",
+  "yang_qi_pai": "Yangqi pai",
+  "huang_long_pai": "Huanglong pai",
+
+  "indian_masters": "Indian Masters",
+  "chinese_masters": "Chinese Masters",
+  "level_0": "Before/same generation of 6th Patriarch",
+  "level_1": "1st generation after the 6th Patriarch",
+  "level_2": "2nd generation after the 6th Patriarch",
+  "level_3": "3rd generation after the 6th Patriarch",
+  "level_4": "4th generation after the 6th Patriarch",
+  "level_5": "5th generation after the 6th Patriarch"
 }

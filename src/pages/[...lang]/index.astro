@@ -3,6 +3,7 @@ import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import HuaTou from "@/layouts/partials/Huatou.astro";
+import Wanderer from "../../layouts/components/Wanderer.astro";
 import type { ContentEntryMap } from "astro:content";
 
 export function getStaticPaths() {
@@ -21,5 +22,6 @@ const huatou = await getSinglePage(
 ---
 
 <Base>
+  <Wanderer />
   <HuaTou huatous={huatou[0]} />
 </Base>
