@@ -39,11 +39,6 @@ const posts = await getSinglePage("zen-master", lang as keyof ContentEntryMap);
     </div>
 
     <div class="container">
-      <h2>Thiền sư Trung Hoa từ Lục tổ Huệ Năng</h2>
-      <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
-    </div>
-
-    <div class="container">
       <h2>Thiền sư Trung Hoa Đời thứ 1 sau Lục tổ</h2>
       <Table client:load data={masterDb} lang={lang ? lang : 'vi'}/>
     </div>
