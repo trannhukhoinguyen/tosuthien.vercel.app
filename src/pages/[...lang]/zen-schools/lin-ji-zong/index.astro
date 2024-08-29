@@ -1,0 +1,20 @@
+---
+import Base from "../../../../layouts/Base.astro";
+import { supportedLang } from "../../../../lib/utils/languageParser";
+import PeriodicTable from "../../../../layouts/components/PeriodicTable.astro";
+import MakeupPalettes from "../../../../layouts/components/MakeupPalettes.astro";
+
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+const { lang } = Astro.params;
+---
+
+<Base>
+  <MakeupPalettes quantity={2} />
+  <PeriodicTable />
+</Base>
