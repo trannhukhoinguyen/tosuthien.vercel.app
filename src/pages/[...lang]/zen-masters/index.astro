@@ -18,7 +18,6 @@ import {
 } from "@/lib/utils/languageParser";
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
-import MakeupPalettes from "../../../layouts/components/MakeupPalettes.astro";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -41,7 +40,7 @@ const {
 <Base>
   <PageHeader title={"Zen Master"} />
 
-  <MakeupPalettes />
+
 
   <section class="section">
     <div class="container">

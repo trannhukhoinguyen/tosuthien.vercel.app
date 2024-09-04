@@ -13,6 +13,11 @@ huatous:
   - name: ""
     designation: ""
     avatar: ""
+    content: "RẤT MUỐN BIẾT NHƯNG KHÔNG THỂ BIẾT, LÀ CÁI GÌ? KHÔNG BIẾT? GIỮ NGHI TÌNH"
+
+  - name: ""
+    designation: ""
+    avatar: ""
     content: "CÁI TA ĐANG THỨC NÀY - CHỦ NHÂN RỐT RÁO TẠI CHỖ NÀO?"
 
   - name: ""
