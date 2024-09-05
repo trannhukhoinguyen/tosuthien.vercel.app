@@ -1,9 +1,15 @@
 ---
+import Pagination from "@/components/Pagination.astro";
+import config from "@/config/config.json";
 import Base from "@/layouts/Base.astro";
-import { getSinglePage } from "@/lib/contentParser.astro";
+import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
+import { getAllTaxonomy, getTaxonomy } from "@/lib/taxonomyParser.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+import PageHeader from "@/partials/PageHeader.astro";
+import PostSidebar from "@/partials/PostSidebar.astro";
+import PureBook from "../../../layouts/components/Books/PureBook.astro";
 import BookShelf from "../../../layouts/components/Books/BookShelf.astro";
-import BookShelf3d from "../../../layouts/components/Books/BookShelf3d.astro";
 import type { ContentEntryMap } from "astro:content";
 
 export function getStaticPaths() {
@@ -17,5 +23,5 @@ const { lang } = Astro.params;
 ---
 
 <Base>
-<BookShelf3d />
+  <BookShelf />
 </Base>
