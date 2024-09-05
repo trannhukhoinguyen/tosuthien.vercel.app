@@ -1,5 +1,18 @@
 import { defineCollection, z } from "astro:content";
 
+const booksCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    master: z.string().default(""),
+    categories: z.array(z.string()).default([""]),
+    tags: z.array(z.string()).default([""]),
+    draft: z.boolean().optional(),
+  }),
+});
 const faqsCollection = defineCollection({
   schema: z.object({
     title: z.string(),
@@ -123,6 +136,7 @@ const callToActionSchema = z.object({
 
 // Export collections
 export const collections = {
+  books: booksCollection,
   faqs: faqsCollection,
   koans: koansCollection,
   cautions: cautionsCollection,
