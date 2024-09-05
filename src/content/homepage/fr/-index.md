@@ -1,5 +1,5 @@
 ---
 # Banner
 banner:
-  title: "Voyons-le !"
+  title: "ESSAYEZ DE MÉDITER !"
 ---

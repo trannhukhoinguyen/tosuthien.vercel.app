@@ -1,5 +1,5 @@
 ---
 # Banner
 banner:
-  title: "WHO ARE YOU?"
+  title: "VERSUCHEN SIE ZU MEDITIEREN!"
 ---

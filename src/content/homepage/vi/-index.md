@@ -1,5 +1,5 @@
 ---
 # Banner
 banner:
-  title: "HÃY THAM ĐI!"
+  title: "HÃY THAM THIỀN ĐI!"
 ---

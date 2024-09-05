@@ -1,5 +1,5 @@
 ---
-title: "Hỏi đáp"
-meta_title: "Ai đang Hỏi đáp? Hỏi đáp cái gì?"
-description: "Ai đang Hỏi đáp? Hỏi đáp cái gì?"
+title: "Q&A"
+meta_title: "Q&A"
+description: "Q&A"
 ---

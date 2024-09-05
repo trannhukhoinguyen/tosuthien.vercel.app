@@ -1,5 +1,5 @@
 ---
 # Banner
 banner:
-  title: "让我们看看吧！"
+  title: "尝试冥想！"
 ---

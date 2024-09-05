@@ -24,16 +24,16 @@ export const getTaxonomy = async (collection: string, name: string) => {
   }
 
   const singlePages = await getCollection(
-    name as keyof ContentEntryMap,
+    "blog" as keyof ContentEntryMap,
     ({ id }: any) => {
-      return id.startsWith(actualCollection) && !id.endsWith("-index.md") && !id.endsWith("-index.mdx");
+      return id.startsWith(actualCollection) && !id.endsWith("-index.md");
     }
   );
   const taxonomyPages = singlePages.map((page: any) => page.data[name]);
   let taxonomies: string[] = [];
   for (let i = 0; i < taxonomyPages.length; i++) {
     const categoryArray = taxonomyPages[i];
-    for (let j = 0; j < categoryArray?.length; j++) {
+    for (let j = 0; j < categoryArray.length; j++) {
       taxonomies.push(slugify(categoryArray[j]));
     }
   }
@@ -60,16 +60,16 @@ export const getAllTaxonomy = async (collection: string, name: string) => {
   }
 
   const singlePages = await getCollection(
-    name as keyof ContentEntryMap,
+    "blog" as keyof ContentEntryMap,
     ({ id }: any) => {
-      return id.startsWith(actualCollection) && !id.endsWith("-index.md") && !id.endsWith("-index.mdx");
+      return id.startsWith(actualCollection) && !id.endsWith("-index.md");
     }
   );
   const taxonomyPages = singlePages.map((page: any) => page.data[name]);
   let taxonomies: string[] = [];
   for (let i = 0; i < taxonomyPages.length; i++) {
     const categoryArray = taxonomyPages[i];
-    for (let j = 0; j < categoryArray?.length; j++) {
+    for (let j = 0; j < categoryArray.length; j++) {
       taxonomies.push(slugify(categoryArray[j]));
     }
   }

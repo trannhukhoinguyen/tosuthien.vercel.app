@@ -13,7 +13,7 @@ import ImageMod from "./ImageMod.astro";
 
 const { summary_length }: { summary_length: number; blog_folder: string } = config.settings;
 const { data, slugDefault } = Astro.props;
-const { title, image, date, masters, categories } = data.data;
+const { title, image, date, masters, master, categories, tags } = data.data;
 
 const lang = getLangFromUrl(Astro.url);
 const { read_more } = await getTranslations(lang as keyof ContentEntryMap);
@@ -45,12 +45,19 @@ data.slug = modifiedSlug;
   <ul class="mb-4">
     <li class="mr-4 inline-block">
       {
-        masters?.map((master: string, index: number) => (
-          <a href={slugSelector(`/zen-masters/${slugify(master)}`, lang)}>
-            <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
-            {humanize(master)}
-          </a>
-        ))
+        masters
+          ? masters?.map((master: string, index: number) => (
+              <a href={slugSelector(`/zen-masters/${slugify(master)}`, lang)}>
+                <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
+                {humanize(master)}
+              </a>
+            ))
+          : master
+            ? <a href={slugSelector(`/zen-masters/${slugify(master)}`, lang)}>
+                <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
+                {humanize(master)}
+              </a>
+            : ''
       }
     </li>
     <a

@@ -19,7 +19,7 @@
     "default_theme": "system",
     "pagination": 2,
     "summary_length": 200,
-    "blog_folder": "faqs",
+    "blog_folder": "blog",
     "default_language": "vi",
     "disable_languages": [],
     "default_language_in_subdir": false
@@ -27,12 +27,12 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "WHO?"
+    "copyright": "TRY TO MEDITATE!"
   },
 
   "navigation_button": {
     "enable": false,
-    "label": "WHO?",
+    "label": "TRY TO MEDITATE!",
     "link": "/"
   },
 

@@ -1,5 +1,5 @@
 ---
 # Banner
 banner:
-  title: "見てみましょう!"
+  title: "瞑想してみよう！"
 ---

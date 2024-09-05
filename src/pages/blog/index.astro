@@ -18,7 +18,7 @@ export function getStaticPaths() {
   return paths;
 }
 const { lang } = Astro.params;
-const BLOG_FOLDER = "faqs";
+const BLOG_FOLDER = "blog";
 const postIndex = await getListPage(
   BLOG_FOLDER,
   lang as keyof ContentEntryMap
@@ -40,35 +40,35 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
   image={postIndex[0].data.image}
   description={postIndex[0].data.description}
 >
-<PageHeader title={postIndex[0].data.title} />
-<section class="section">
-  <div class="container">
-    <div class="row gx-5">
-      <!-- blog posts -->
-      <div class="lg:col-8">
-        <div class="row">
-          {
-            currentPosts.map((post) => (
-              <div class="mb-14 md:col-6">
-                <BlogCard data={post} />
-              </div>
-            ))
-          }
+  <PageHeader title={postIndex[0].data.title} />
+  <section class="section">
+    <div class="container">
+      <div class="row gx-5">
+        <!-- blog posts -->
+        <div class="lg:col-8">
+          <div class="row">
+            {
+              currentPosts.map((post) => (
+                <div class="mb-14 md:col-6">
+                  <BlogCard data={post} />
+                </div>
+              ))
+            }
+          </div>
+          <Pagination
+            section={BLOG_FOLDER}
+            currentPage={1}
+            totalPages={totalPages}
+          />
         </div>
-        <Pagination
-          section={BLOG_FOLDER}
-          currentPage={1}
-          totalPages={totalPages}
+
+        <!-- sidebar -->
+        <PostSidebar
+          categories={categories}
+          tags={tags}
+          allCategories={allCategories}
         />
       </div>
-
-      <!-- sidebar -->
-      <PostSidebar
-        categories={categories}
-        tags={tags}
-        allCategories={allCategories}
-      />
     </div>
-  </div>
-</section>
+  </section>
 </Base>

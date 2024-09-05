@@ -1,5 +1,5 @@
 ---
 # Banner
 banner:
-  title: "LET'S SEE IT!"
+  title: "TRY TO MEDITATE!"
 ---
