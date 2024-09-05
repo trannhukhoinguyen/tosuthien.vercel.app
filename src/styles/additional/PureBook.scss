@@ -1,0 +1,107 @@
+.book {
+  transition: opacity 0.4s 0.2s;
+  perspective: 250vw;
+
+  .pages {
+    left: 2vw;
+    width: 96vw;
+    height: 90vh;
+    position: relative;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    border-radius: 4px;
+  }
+
+  .page {
+    width: 48vw;
+    height: 90vh;
+    background: left top no-repeat #111;
+    background-size: cover;
+    float: left;
+
+    &:nth-child(even) {
+      clear: both;
+    }
+
+    & {
+      float: none;
+      clear: none;
+      position: absolute;
+      top: 0;
+      margin: 0;
+      transform-origin: 0 0;
+      transition: transform 1.4s;
+      cursor: pointer;
+      background-color: #f0f0f0;
+      user-select: none;
+    }
+
+    &:before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 0, 0, 0);
+      transition: background 0.7s;
+      z-index: 2;
+    }
+
+    &.grabbing {
+      transition: none;
+    }
+
+    &.flipped {
+      &:nth-child(odd) {
+        pointer-events: none;
+        transform: rotateY(-180deg);
+        &:before {
+          background: rgba(0, 0, 0, 0.2);
+        }
+      }
+
+      &:nth-child(even) {
+        pointer-events: all;
+        transform: rotateY(0deg);
+        &:hover {
+          transform: rotateY(15deg);
+          &:before {
+            background: rgba(0, 0, 0, 0.03);
+          }
+        }
+      }
+    }
+
+    &:nth-child(odd) {
+      transform: rotateY(0deg);
+      right: 0;
+      border-radius: 0 4px 4px 0;
+      background-image: linear-gradient(to right, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0) 10%);
+      &:hover {
+        transform: rotateY(-15deg);
+        &:before {
+          background: rgba(0, 0, 0, 0.03);
+        }
+      }
+    }
+
+    &:nth-child(even) {
+      transform: rotateY(180deg);
+      transform-origin: 100% 0;
+      border-radius: 4px 0 0 4px;
+      background-image: linear-gradient(to left, rgba(0, 0, 0, 0.12) 0%, rgba(0, 0, 0, 0) 10%);
+      &:before {
+        background: rgba(0, 0, 0, 0.2);
+      }
+    }
+  }
+}
+
+p {
+  margin-top: 8vw;
+  text-align: center;
+  font-size: 5vw;
+  color: #000;
+}
+
+.page:nth-child(odd) {
+  background-position: right top;
+}
