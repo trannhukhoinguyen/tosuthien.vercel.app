@@ -50,7 +50,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
           {
             currentPosts.map((post) => (
               <div class="mb-14 md:col-6">
-                <BlogCard data={post} />
+                <BlogCard data={post} slugDefault='faqs' />
               </div>
             ))
           }

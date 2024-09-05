@@ -1,38 +1,32 @@
 ---
-import "../../../styles/additional-animation/BookShelf3d.scss";
+import "../../../styles/additional/BookShelf3d.scss";
 
 let currentPage = 1;
-
-function toggleClass(e, toggleClassName) {
+const toggleClass = (e, toggleClassName) => {
   if(e.className.includes(toggleClassName)) {
     e.className = e.className.replace(' ' + toggleClassName, '');
   } else {
     e.className += ' ' + toggleClassName;
   }
 }
-
-function movePage(e, page) {
-  if (page == currentPage) {
+const movePage = (e, page) => {
+  if (page === currentPage) {
     currentPage+=2;
     toggleClass(e, "left-side");
     toggleClass(e.nextElementSibling, "left-side");
 
   }
-  else if (page = currentPage - 1) {
+  else if (page === currentPage - 1) {
     currentPage-=2;
     toggleClass(e, "left-side");
     toggleClass(e.previousElementSibling, "left-side");
   }
-
 }
-
-
 ---
 
-<div>
+<div client:load>
 
-  <div class="instruction">Flip the page</div>
-    <div class="book">
+  <div client:load  class="book">
     <div class="page cover-front" onclick="movePage(this, 1)">
       <h1>Mrs. Dalloway</h1>
       <div class="hat"><i class="fab fa-pied-piper-hat"></i></div>
@@ -41,13 +35,9 @@ function movePage(e, page) {
     <div class="page cover-front" onclick="movePage(this, 2)"></div>
     <div class="page text-page" onclick="movePage(this, 3)">
       <p>Mrs. Dalloway said she would buy the flowers herself.</p>
-      <p>For Lucy had her work cut out for her. The doors would be taken off their hinges; Rumpelmayer's men were coming. And then, thought Clarissa Dalloway, what a morning--fresh as if issued to children on a beach.</p>
-      <p>What a lark! What a plunge! For so it had always seemed to her, when, with a little squeak of the hinges, which she could hear now, she had burst open the French windows and plunged at Bourton into the open air. How fresh, how calm, stiller than this of course, the air was in the early morning; like the flap of a wave; the kiss of a wave; chill and sharp and yet (for a girl of eighteen as she then was) solemn, feeling as she did, standing there at the open window, that something awful was about to happen; looking at the flowers, at the trees with the smoke winding off them and the rooks rising, falling; standing and looking until Peter Walsh said, "Musing among the vegetables?"--was that it?--"I prefer men to cauliflowers"--was that it? He must have said it at breakfast one morning when she had gone out on to the terrace--Peter Walsh. He would be back from India one of these days, June or July, she forgot which, for his letters were awfully dull; it was his sayings one remembered; his eyes, his pocket-knife, his smile, his grumpiness and, when millions of things had utterly</p>
     </div>
     <div class="page text-page" onclick="movePage(this, 4)">
       <p>vanished--how strange it was!--a few sayings like this about cabbages.</p>
-      <p>She stiffened a little on the kerb, waiting for Durtnall's van to pass. A charming woman, Scrope Purvis thought her (knowing her as one does know people who live next door to one in Westminster); a touch of the bird about her, of the jay, blue-green, light, vivacious, though she was over fifty, and grown very white since her illness. There she perched, never seeing him, waiting to cross, very upright.</p>
-      <p>For having lived in Westminster--how many years now? over twenty,--one feels even in the midst of the traffic, or waking at night, Clarissa was positive, a particular hush, or solemnity; an indescribable pause; a suspense (but that might be her heart, affected, they said, by influenza) before Big Ben strikes. There! Out it boomed. First a warning, musical; then the hour, irrevocable. The leaden circles dissolved in the air. Such fools we are, she thought, crossing Victoria Street. For Heaven only knows why one loves it so, how one sees it so, making it up, building it round one, tumbling it, creating it every moment afresh; but the veriest frumps, the most dejected of miseries sitting on doorsteps (drink their downfall) do the same; can't be dealt with, she felt positive, by Acts of Parliament for that very reason: they love life. In people's eyes, in the swing, tramp, and trudge; in the bellow and</p>
     </div>
     <div class="page text-page" onclick="movePage(this, 5)">
       <p> the uproar; the carriages, motor cars, omnibuses, vans, sandwich men shuffling and swinging; brass bands; barrel organs; in the triumph and the jingle and the strange high singing of some aeroplane overhead was what she loved; life; London; this moment of June.</p>
