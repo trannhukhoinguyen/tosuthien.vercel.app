@@ -10,8 +10,7 @@
       "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "無知なステップ", "url": "/ignorant-steps" },
-        { "name": "法界", "url": "/dharma-realm" },
+        { "name": "本", "url": "/books" },
         { "name": "タグ", "url": "/tags" }
       ]
     }

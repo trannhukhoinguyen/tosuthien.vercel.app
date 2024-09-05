@@ -10,8 +10,7 @@
       "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "خطوات جاهلة", "url": "/ignorant-steps" },
-        { "name": "عالم دارما", "url": "/dharma-realm" },
+        { "name": "كتب", "url": "/books" },
         { "name": "العلامات", "url": "/tags" }
       ]
     }

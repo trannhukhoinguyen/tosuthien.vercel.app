@@ -10,8 +10,7 @@
       "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "Pasos ignorantes", "url": "/ignorant-steps" },
-        { "name": "Reino del dharma", "url": "/dharma-realm" },
+        { "name": "Libros", "url": "/books" },
         { "name": "Etiquetas", "url": "/tags" }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "main": [
-    { "name": "Home", "url": "/" },
+    { "name": "Heim", "url": "/" },
     { "name": "Fragen und Antworten", "url": "/faqs" },
     { "name": "Warnhinweise", "url": "/cautions" },
     { "name": "Koans", "url": "/koans" },
@@ -10,9 +10,8 @@
       "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "Unwissende Schritte", "url": "/ignorant-steps" },
-        { "name": "Dharma-Reich", "url": "/dharma-realm" },
-        { "name": "Tags", "url": "/tags" }
+        { "name": "Bücher", "url": "/books" },
+        { "name": "Schlagworte", "url": "/tags" }
       ]
     }
   ],

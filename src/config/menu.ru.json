@@ -10,8 +10,7 @@
       "url": "/others",
       "hasChildren": true,
       "children": [
-        { "name": "Невежественные шаги", "url": "/ignorant-steps" },
-        { "name": "Царство Дхармы", "url": "/dharma-realm" },
+        { "name": "Книги", "url": "/books" },
         { "name": "Теги", "url": "/tags" }
       ]
     }
