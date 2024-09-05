@@ -12,14 +12,28 @@ let h1 = h2 * font_scale;
 let fontPrimaryType, fontSecondaryType;
 if (theme.fonts.font_family.primary) {
   fontPrimaryType = theme.fonts.font_family.primary_type;
+
+  fontPrimary = theme.fonts.font_family.primary
+    .replace(/\+/g, " ")
+    .replace(/:[ital,]*[ital@]*[wght@]*[0-9,;.]+/gi, "");
 }
 if (theme.fonts.font_family.secondary) {
   fontSecondaryType = theme.fonts.font_family.secondary_type;
+
+  fontSecondary = theme.fonts.font_family.secondary
+    .replace(/\+/g, " ")
+    .replace(/:[ital,]*[ital@]*[wght@]*[0-9,;.]+/gi, "");
 }
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
+  content: [
+    "./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}",
+
+    "./src/layouts/**/*.{js,ts,jsx,tsx}",
+    "./src/content/**/*.{md,mdx}",
+    "./src/app/**/*.{js,ts,jsx,tsx}",
+  ],
   safelist: [{ pattern: /^swiper-/ }],
   darkMode: "class",
   theme: {

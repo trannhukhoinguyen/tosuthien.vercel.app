@@ -11,7 +11,19 @@
       "hasChildren": true,
       "children": [
         { "name": "Books", "url": "/books" },
-        { "name": "Tags", "url": "/tags" }
+        { "name": "Tags", "url": "/tags" },
+        {
+          "name": "Products",
+          "url": "/products"
+        },
+        {
+          "name": "About",
+          "url": "/about"
+        },
+        {
+          "name": "Contact",
+          "url": "/contact"
+        }
       ]
     }
   ],

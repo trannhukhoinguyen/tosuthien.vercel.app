@@ -40,5 +40,14 @@
     "meta_author": "patriarches",
     "meta_image": "/images/og-image.png",
     "meta_description": "patriarchal zen"
+  },
+
+  "shopify": {
+    "currencySymbol": "৳",
+    "currencyCode": "BDT",
+    "collections": {
+      "hero_slider": "hidden-homepage-carousel",
+      "featured_products": "featured-products"
+    }
   }
 }
