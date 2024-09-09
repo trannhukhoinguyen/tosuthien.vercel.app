@@ -1,19 +1,19 @@
 {
   "main": [
     { "name": "الصفحة الرئيسية", "url": "/" },
-    { "name": "سؤال وجواب", "url": "/faqs" },
-    { "name": "خطبة تحذيرية", "url": "/cautions" },
-    { "name": "زين كوان", "url": "/koans" },
-    { "name": "سادة الزن", "url": "/zen-masters" },
     {
-      "name": "معلومات أخرى",
-      "url": "/others",
+      "name": "Speeches & Writings",
+      "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
-        { "name": "كتب", "url": "/books" },
-        { "name": "العلامات", "url": "/tags" }
+        { "name": "سؤال وجواب", "url": "/faqs" },
+        { "name": "خطبة تحذيرية", "url": "/cautions" },
+        { "name": "زين كوان", "url": "/koans" },
+        { "name": "كتب", "url": "/books" }
       ]
-    }
+    },
+    { "name": "سادة الزن", "url": "/zen-masters" },
+    { "name": "Download", "url": "/download" }
   ],
   "footer": [
 

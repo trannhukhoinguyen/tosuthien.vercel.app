@@ -1,19 +1,19 @@
 {
   "main": [
     { "name": "Heim", "url": "/" },
-    { "name": "Fragen und Antworten", "url": "/faqs" },
-    { "name": "Warnhinweise", "url": "/cautions" },
-    { "name": "Koans", "url": "/koans" },
-    { "name": "Zen-Meister", "url": "/zen-masters" },
     {
-      "name": "Andere",
-      "url": "/others",
+      "name": "Speeches & Writings",
+      "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
-        { "name": "Bücher", "url": "/books" },
-        { "name": "Schlagworte", "url": "/tags" }
+        { "name": "Fragen und Antworten", "url": "/faqs" },
+        { "name": "Warnhinweise", "url": "/cautions" },
+        { "name": "Koans", "url": "/koans" },
+        { "name": "Bücher", "url": "/books" }
       ]
-    }
+    },
+    { "name": "Zen-Meister", "url": "/zen-masters" },
+    { "name": "Download", "url": "/download" }
   ],
   "footer": [
 

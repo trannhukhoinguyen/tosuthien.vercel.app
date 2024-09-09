@@ -1,19 +1,19 @@
 {
   "main": [
     { "name": "Главная", "url": "/" },
-    { "name": "Вопросы и ответы", "url": "/faqs" },
-    { "name": "Речь", "url": "/cautions" },
-    { "name": "Коаны", "url": "/koans" },
-    { "name": "Мастера Дзен", "url": "/zen-masters" },
     {
-      "name": "Другие",
-      "url": "/others",
+      "name": "Speeches & Writings",
+      "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
-        { "name": "Книги", "url": "/books" },
-        { "name": "Теги", "url": "/tags" }
+        { "name": "Вопросы и ответы", "url": "/faqs" },
+        { "name": "Речь", "url": "/cautions" },
+        { "name": "Коаны", "url": "/koans" },
+        { "name": "Книги", "url": "/books" }
       ]
-    }
+    },
+    { "name": "Мастера Дзен", "url": "/zen-masters" },
+    { "name": "Download", "url": "/download" }
   ],
   "footer": [
 
