@@ -5,6 +5,7 @@ import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import type { ContentEntryMap } from "astro:content";
 import PureBook from "../../../layouts/components/Books/PureBook.astro";
+import ObliqueBook from "../../../layouts/components/Books/ObliqueBook.astro";
 
 export async function getStaticPaths() {
   const paths = await Promise.all(
@@ -38,9 +39,5 @@ const { title, meta_title, description, image, master, categories, tags } = post
   description={description}
   image={image}
 >
-  <PureBook
-    title="The Blue Cliff Record"
-    author="Yuanwu Keqin - Xuedou Chongxian"
-    link="/books"
-  />
+  <ObliqueBook />
 </Base>

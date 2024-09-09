@@ -10,7 +10,7 @@ export async function getStaticPaths() {
   const paths = await Promise.all(
     supportedLang.map(async (lang) => {
       const posts = await getSinglePage(
-        "faqs",
+        "books",
         lang as keyof ContentEntryMap
       );
 
