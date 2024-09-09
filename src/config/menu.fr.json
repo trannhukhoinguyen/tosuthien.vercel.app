@@ -1,19 +1,19 @@
 {
   "main": [
     { "name": "Accueil", "url": "/" },
-    { "name": "Questions et réponses", "url": "/faqs" },
-    { "name": "Discours", "url": "/cautions" },
-    { "name": "Koans", "url": "/koans" },
-    { "name": "Maîtres Zen", "url": "/zen-masters" },
     {
-      "name": "Autres",
-      "url": "/others",
+      "name": "Speeches & Writings",
+      "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
-        { "name": "Livres", "url": "/books" },
-        { "name": "Étiquettes", "url": "/tags" }
+        { "name": "Questions et réponses", "url": "/faqs" },
+        { "name": "Discours", "url": "/cautions" },
+        { "name": "Koans", "url": "/koans" },
+        { "name": "Livres", "url": "/books" }
       ]
-    }
+    },
+    { "name": "Maîtres Zen", "url": "/zen-masters" },
+    { "name": "Download", "url": "/download" }
   ],
   "footer": [
 

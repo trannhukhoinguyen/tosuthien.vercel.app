@@ -1,19 +1,19 @@
 {
   "main": [
     { "name": "집", "url": "/" },
-    { "name": "자주 묻는 질문", "url": "/faqs" },
-    { "name": "주의사항", "url": "/cautions" },
-    { "name": "화두", "url": "/koans" },
-    { "name": "선 마스터", "url": "/zen-masters" },
     {
-      "name": "기타",
-      "url": "/others",
+      "name": "Speeches & Writings",
+      "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
-        { "name": "서적", "url": "/books" },
-        { "name": "태그", "url": "/tags" }
+        { "name": "자주 묻는 질문", "url": "/faqs" },
+        { "name": "주의사항", "url": "/cautions" },
+        { "name": "화두", "url": "/koans" },
+        { "name": "서적", "url": "/books" }
       ]
-    }
+    },
+    { "name": "선 마스터", "url": "/zen-masters" },
+    { "name": "Download", "url": "/download" }
   ],
   "footer": [
 

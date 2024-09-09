@@ -1,14 +1,13 @@
 ---
-import BlogCard from "@/components/BlogCard.astro";
-import Pagination from "@/components/Pagination.astro";
-import config from "@/config/config.json";
 import Base from "@/layouts/Base.astro";
 import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
 import { getAllTaxonomy, getTaxonomy } from "@/lib/taxonomyParser.astro";
-import { supportedLang } from "@/lib/utils/languageParser";
-import { sortByDate } from "@/lib/utils/sortFunctions";
+import {
+  getLangFromUrl,
+  getTranslations,
+  supportedLang
+} from "@/lib/utils/languageParser";
 import PageHeader from "@/partials/PageHeader.astro";
-import PostSidebar from "@/partials/PostSidebar.astro";
 import type { ContentEntryMap } from "astro:content";
 
 export function getStaticPaths() {
@@ -17,58 +16,45 @@ export function getStaticPaths() {
   }));
   return paths;
 }
-const { lang } = Astro.params;
-const BLOG_FOLDER = "books";
+const { lang } = Astro.params || getLangFromUrl(Astro.url);
+
 const postIndex = await getListPage(
-  BLOG_FOLDER,
+  "books",
   lang as keyof ContentEntryMap
 );
-const langCollection: keyof ContentEntryMap = lang as keyof ContentEntryMap;
-const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
-
-const allCategories = await getAllTaxonomy(langCollection, "categories");
-const categories = await getTaxonomy(langCollection, "categories");
-const tags = await getTaxonomy(langCollection, "tags");
-const sortedPosts = sortByDate(posts);
-const totalPages: number = Math.ceil(posts.length / config.settings.pagination);
-const currentPosts = sortedPosts.slice(0, config.settings.pagination);
+const posts = await getSinglePage("books", lang as keyof ContentEntryMap);
+const {
+  indian_masters, chinese_masters, level_0, level_1, level_2, level_3, level_4, level_5,
+} = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
-<Base
-  title={postIndex[0].data.title}
-  meta_title={postIndex[0].data.meta_title}
-  image={postIndex[0].data.image}
-  description={postIndex[0].data.description}
->
-<PageHeader title={postIndex[0].data.title} />
+<Base>
+<PageHeader title={"Books"} />
 <section class="section">
   <div class="container">
-    <div class="row gx-5">
-      <!-- blog posts -->
-      <div class="lg:col-8">
-        <div class="row">
-          {
-            currentPosts.map((post) => (
-              <div class="mb-14 md:col-6">
-                <BlogCard data={post} slugDefault='books' />
-              </div>
-            ))
-          }
-        </div>
-        <Pagination
-          section={BLOG_FOLDER}
-          currentPage={1}
-          totalPages={totalPages}
-        />
+    {
+      !lang || lang === 'vi'
+        ? <iframe
+          style='width:900px;height:500px'
+          src='https://pubhtml5.com/bookcase/cunen//green'
+          seamless='seamless' scrolling='no' frameborder='0'
+          allowtransparency='true'
+          allowfullscreen
+        ></iframe>
+      : <iframe
+      style='width:900px;height:500px'
+      src='https://pubhtml5.com/bookcase/qkqyg//green'
+      seamless='seamless' scrolling='no' frameborder='0'
+      allowtransparency='true'
+      allowfullscreen
+    ></iframe>
+      }
       </div>
+      </section>
+      </Base>
 
-      <!-- sidebar -->
-      <PostSidebar
-        categories={categories}
-        tags={tags}
-        allCategories={allCategories}
-      />
-    </div>
-  </div>
-</section>
-</Base>
+      <style>
+        .section {
+          padding-block: 0;
+        }
+      </style>

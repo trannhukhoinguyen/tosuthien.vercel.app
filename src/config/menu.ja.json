@@ -1,19 +1,19 @@
 {
   "main": [
     { "name": "家", "url": "/" },
-    { "name": "よくある質問", "url": "/faqs" },
-    { "name": "注意事項", "url": "/cautions" },
-    { "name": "公案", "url": "/koans" },
-    { "name": "禅の達人", "url": "/zen-masters" },
     {
-      "name": "その他",
-      "url": "/others",
+      "name": "Speeches & Writings",
+      "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
-        { "name": "本", "url": "/books" },
-        { "name": "タグ", "url": "/tags" }
+        { "name": "よくある質問", "url": "/faqs" },
+        { "name": "注意事項", "url": "/cautions" },
+        { "name": "公案", "url": "/koans" },
+        { "name": "本", "url": "/books" }
       ]
-    }
+    },
+    { "name": "禅の達人", "url": "/zen-masters" },
+    { "name": "Download", "url": "/download" }
   ],
   "footer": [
 

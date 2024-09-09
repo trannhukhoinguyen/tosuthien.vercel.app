@@ -1,19 +1,19 @@
 {
   "main": [
     { "name": "家", "url": "/" },
-    { "name": "問答", "url": "/faqs" },
-    { "name": "注意事项", "url": "/cautions" },
-    { "name": "公案", "url": "/koans" },
-    { "name": "禅师", "url": "/zen-masters" },
     {
-      "name": "其他的",
-      "url": "/others",
+      "name": "Speeches & Writings",
+      "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
-        { "name": "图书", "url": "/books" },
-        { "name": "标签", "url": "/tags" }
+        { "name": "問答", "url": "/faqs" },
+        { "name": "注意事项", "url": "/cautions" },
+        { "name": "公案", "url": "/koans" },
+        { "name": "图书", "url": "/books" }
       ]
-    }
+    },
+    { "name": "禅师", "url": "/zen-masters" },
+    { "name": "Download", "url": "/download" }
   ],
   "footer": [
 
