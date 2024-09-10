@@ -2,7 +2,7 @@
   "main": [
     { "name": "الصفحة الرئيسية", "url": "/" },
     {
-      "name": "Speeches & Writings",
+      "name": "الخطب والكتابات",
       "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
@@ -13,7 +13,7 @@
       ]
     },
     { "name": "سادة الزن", "url": "/zen-masters" },
-    { "name": "Download", "url": "/download" }
+    { "name": "تحميل\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [
 

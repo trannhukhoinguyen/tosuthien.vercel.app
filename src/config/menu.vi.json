@@ -2,7 +2,7 @@
   "main": [
     { "name": "Trang chủ", "url": "/" },
     {
-      "name": "Speeches & Writings",
+      "name": "Ngữ Lục",
       "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
@@ -13,7 +13,7 @@
       ]
     },
     { "name": "Thiền sư", "url": "/zen-masters" },
-    { "name": "Download", "url": "/download" }
+    { "name": "Tải về\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [
 

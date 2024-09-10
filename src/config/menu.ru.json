@@ -2,7 +2,7 @@
   "main": [
     { "name": "Главная", "url": "/" },
     {
-      "name": "Speeches & Writings",
+      "name": "Речи и письма",
       "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
@@ -13,7 +13,7 @@
       ]
     },
     { "name": "Мастера Дзен", "url": "/zen-masters" },
-    { "name": "Download", "url": "/download" }
+    { "name": "Скачать\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [
 

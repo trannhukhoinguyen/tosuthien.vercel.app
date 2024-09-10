@@ -1,10 +1,8 @@
 ---
 import Base from "@/layouts/Base.astro";
-import { getSinglePage } from "@/lib/contentParser.astro";
+import BookList from "@/layouts/components/Books/BookList.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
-import HuaTou from "@/layouts/partials/Huatou.astro";
-import type { ContentEntryMap } from "astro:content";
-
+import { site } from "@/config/config.json";
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
     params: { lang: lang || undefined },
@@ -13,14 +11,8 @@ export function getStaticPaths() {
 }
 
 const { lang } = Astro.params;
-const huatou = await getSinglePage(
-  "sections",
-  lang as keyof ContentEntryMap,
-  "huatou"
-);
-
 ---
-
+<title>{ site.title + ' - Download' }</title>
 <Base>
-  <HuaTou huatous={huatou[0]} />
+  <BookList />
 </Base>
