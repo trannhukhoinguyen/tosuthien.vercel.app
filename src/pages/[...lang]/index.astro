@@ -1,7 +1,7 @@
 ---
 import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
-import { supportedLang } from "@/lib/utils/languageParser";
+import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
 import HuaTou from "@/layouts/partials/Huatou.astro";
 import type { ContentEntryMap } from "astro:content";
 
@@ -18,13 +18,15 @@ const huatou = await getSinglePage(
   lang as keyof ContentEntryMap,
   "huatou"
 );
-
+const { severe_problem, tomorrow_death } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
 <Base>
   <div style="text-align: center">
-    <h1>VIỆC LỚN SINH TỬ</h1>
-    <h4>là quan trọng !!!</h4>
+    <h1>{severe_problem}</h1>
+    <h4>👶💀</h4>
+    <h2>💀{tomorrow_death}💀</h2>
+    <h4>🤯</h4>
   </div>
   <HuaTou huatous={huatou[0]} />
 </Base>
