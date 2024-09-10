@@ -1,0 +1,63 @@
+---
+import "../../../styles/additional/BookList.scss"
+import bookViDb from "@/db/bookViDb";
+import bookEnDb from "@/db/bookEnDb";
+
+const { lang } = Astro.params;
+const books = !lang || lang === 'vi' ? bookViDb : bookEnDb;
+---
+
+<div class="book-list">
+  <div class='container'>
+    <div class='center list flex-column' client:load>
+      {
+        books?.map(book => {
+          const item = <img src={ book.cover } class='book' />
+            <div class='flex-column info'>
+              <div class='title'>{ book.title }</div>
+              <div class='author'>{ book.author }</div>
+              <div class='bottom summary'>{ book.description }</div>
+            </div>
+            <div class='flex-column group'>
+              <div class='members'>
+                <span class='current'>{ book.info }</span>
+              </div>
+              <div class='bottom'>
+                {
+                  book.link
+                    ? <button class='simple'>
+                      <a href={book.link} target="_blank">Read</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.mp3
+                    ? <button class='simple'>
+                        <a href={ book.mp3 } download="">⇩ MP3</a>
+                      </button>
+                    : ''
+                }
+              </div>
+            </div>
+          return book.id === 1
+            ? <div class='card flex-row open'>{ item }</div>
+            : <div class='card flex-row'>{ item }</div>
+        })
+      }
+    </div>
+  </div>
+</div>
+
+<script lang="ts">
+  let old = document.querySelector('.card');
+
+  document.querySelectorAll('.card').forEach(card => {
+    card.addEventListener('click', function() {
+      if (old && old.classList.contains('open')) {
+        old.classList.toggle('open');
+      }
+      this.classList.toggle('open');
+      old = this;
+    });
+  });
+</script>

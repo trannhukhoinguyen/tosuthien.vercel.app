@@ -24,37 +24,31 @@ const postIndex = await getListPage(
 );
 const posts = await getSinglePage("books", lang as keyof ContentEntryMap);
 const {
-  indian_masters, chinese_masters, level_0, level_1, level_2, level_3, level_4, level_5,
+  books,
 } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
 <Base>
-<PageHeader title={"Books"} />
-<section class="section">
-  <div class="container">
-    {
-      !lang || lang === 'vi'
-        ? <iframe
-          style='width:900px;height:500px'
-          src='https://pubhtml5.com/bookcase/cunen//green'
-          seamless='seamless' scrolling='no' frameborder='0'
-          allowtransparency='true'
-          allowfullscreen
-        ></iframe>
-      : <iframe
-      style='width:900px;height:500px'
-      src='https://pubhtml5.com/bookcase/qkqyg//green'
-      seamless='seamless' scrolling='no' frameborder='0'
-      allowtransparency='true'
-      allowfullscreen
-    ></iframe>
-      }
-      </div>
-      </section>
-      </Base>
-
-      <style>
-        .section {
-          padding-block: 0;
+  <PageHeader title={books} />
+  <section class="section">
+    <div class="container">
+      {
+        !lang || lang === 'vi'
+          ? <iframe
+            style='width:900px;height:500px'
+            src='https://pubhtml5.com/bookcase/cunen//green'
+            seamless='seamless' scrolling='no' frameborder='0'
+            allowtransparency='true'
+            allowfullscreen
+          ></iframe>
+        : <iframe
+            style='width:900px;height:500px'
+            src='https://pubhtml5.com/bookcase/qkqyg//green'
+            seamless='seamless' scrolling='no' frameborder='0'
+            allowtransparency='true'
+            allowfullscreen
+          ></iframe>
         }
-      </style>
+      </div>
+    </section>
+</Base>

@@ -2,7 +2,7 @@
   "main": [
     { "name": "Accueil", "url": "/" },
     {
-      "name": "Speeches & Writings",
+      "name": "Discours et écrits",
       "url": "/speeches-and-writings",
       "hasChildren": true,
       "children": [
@@ -13,7 +13,7 @@
       ]
     },
     { "name": "Maîtres Zen", "url": "/zen-masters" },
-    { "name": "Download", "url": "/download" }
+    { "name": "Télécharger\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [
 
