@@ -1,60 +1,60 @@
 [
   {
-    "languageName": "English",
+    "languageName": "\uD83C\uDDFA\uD83C\uDDF8 English",
     "languageCode": "en",
     "contentDir": "en",
     "weight": 1
   },
   {
-    "languageName": "Spanish",
+    "languageName": "\uD83C\uDDEA\uD83C\uDDF8 Spanish",
     "languageCode": "es",
     "contentDir": "es",
     "weight": 2
   },
   {
-    "languageName": "German",
+    "languageName": "\uD83C\uDDE9\uD83C\uDDEA German",
     "languageCode": "de",
     "contentDir": "de",
     "weight": 3
   },
   {
-    "languageName": "Japanese",
+    "languageName": "\uD83C\uDDEF\uD83C\uDDF5 Japanese",
     "languageCode": "ja",
     "contentDir": "ja",
     "weight": 4
   },
   {
-    "languageName": "French",
+    "languageName": "\uD83C\uDDEB\uD83C\uDDF7 French",
     "languageCode": "fr",
     "contentDir": "fr",
     "weight": 5
   },
   {
-    "languageName": "Russian",
+    "languageName": "\uD83C\uDDF7\uD83C\uDDFA Russian",
     "languageCode": "ru",
     "contentDir": "ru",
     "weight": 6
   },
   {
-    "languageName": "Chinese",
+    "languageName": "\uD83C\uDDE8\uD83C\uDDF3 Chinese",
     "languageCode": "zh",
     "contentDir": "zh",
     "weight": 7
   },
   {
-    "languageName": "Vietnamese",
+    "languageName": "\uD83C\uDDFB\uD83C\uDDF3 Vietnamese",
     "languageCode": "vi",
     "contentDir": "vi",
     "weight": 8
   },
   {
-    "languageName": "Korean",
+    "languageName": "\uD83C\uDDF0\uD83C\uDDF7 Korean",
     "languageCode": "ko",
     "contentDir": "ko",
     "weight": 9
   },
   {
-    "languageName": "Arabic",
+    "languageName": "\uD83C\uDDF8\uD83C\uDDE6 Arabic",
     "languageCode": "ar",
     "contentDir": "ar",
     "weight": 10

@@ -1,5 +1,5 @@
 ---
-title: "Articles de"
-meta_title: ""
-description: "Ceci est une méta-description"
+title: "Précautions"
+meta_title: "Précautions zen patriarcales"
+description: "Précautions zen patriarcales"
 ---

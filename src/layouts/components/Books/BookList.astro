@@ -1,7 +1,7 @@
 ---
 import "../../../styles/additional/BookList.scss"
-import bookViDb from "@/db/bookViDb";
-import bookEnDb from "@/db/bookEnDb";
+import bookViDb from "../../../db/books/bookViDb";
+import bookEnDb from "../../../db/books/bookEnDb";
 
 const { lang } = Astro.params;
 const books = !lang || lang === 'vi' ? bookViDb : bookEnDb;

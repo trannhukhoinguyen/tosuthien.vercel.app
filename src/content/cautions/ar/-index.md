@@ -1,5 +1,8 @@
 ---
-title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+title: "تحذيرات"
+meta_title: "تحذيرات الزن البطريركية"
+description: "تحذيرات الزن البطريركية"
 ---
+العنوان: "تحذيرات"
+meta_title: "تحذيرات الزن البطريركية"
+الوصف: "تحذيرات الزن البطريركية"

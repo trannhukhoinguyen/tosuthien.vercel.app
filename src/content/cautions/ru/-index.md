@@ -1,5 +1,5 @@
 ---
-title: "Posts"
-meta_title: ""
-description: "this is meta description"
+title: "Предостережение"
+meta_title: "Патриархальные дзен-предостережения"
+description: "Патриархальные дзен-предостережения"
 ---

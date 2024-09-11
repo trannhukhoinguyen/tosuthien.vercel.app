@@ -1,5 +1,5 @@
 ---
-title: "Cautions"
-meta_title: ""
-description: "this is meta description"
+title: "Cảnh ngữ"
+meta_title: "Tham thiền Cảnh ngữ"
+description: "Tham thiền Cảnh ngữ"
 ---

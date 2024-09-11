@@ -1,5 +1,5 @@
 ---
-title: "Posts"
-meta_title: ""
-description: "this is meta description"
+title: "주의사항"
+meta_title: "가부장적 선 주의사항"
+description: "가부장적 선 주의사항"
 ---
