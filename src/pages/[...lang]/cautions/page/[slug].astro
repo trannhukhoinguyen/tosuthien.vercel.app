@@ -19,18 +19,10 @@ if (!lang) {
 }
 
 const postIndex: any = await getListPage(
-  "koans",
+  "cautions",
   lang as keyof ContentEntryMap
 );
-const posts = await getSinglePage("koans", lang as keyof ContentEntryMap);
-const allTypes = await getAllTaxonomy(
-  lang as keyof ContentEntryMap,
-  "types"
-);
-const types = await getTaxonomy(
-  lang as keyof ContentEntryMap,
-  "types"
-);
+const posts = await getSinglePage("cautions", lang as keyof ContentEntryMap);
 const tags = await getTaxonomy(lang as keyof ContentEntryMap, "tags");
 const sortedPosts = sortByDate(posts);
 const totalPages = Math.ceil(posts.length / config.settings.pagination);
@@ -43,7 +35,7 @@ export async function getStaticPaths() {
   const paths = await Promise.all(
     supportedLang.map(async (lang) => {
       const posts = await getSinglePage(
-        "koans",
+        "cautions",
         lang as keyof ContentEntryMap
       );
       const totalPages = Math.ceil(posts.length / config.settings.pagination);
@@ -83,13 +75,13 @@ export async function getStaticPaths() {
             {
               currentPosts.map((post) => (
                 <div class="mb-14 md:col-6">
-                  <BlogCard data={post} slugDefault="faqs" />
+                  <BlogCard data={post} slugDefault="cautions" />
                 </div>
               ))
             }
           </div>
           <Pagination
-            section={"koans"}
+            section={"cautions"}
             currentPage={currentPage}
             totalPages={totalPages}
           />
