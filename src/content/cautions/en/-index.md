@@ -1,5 +1,5 @@
 ---
-title: "Posts"
-meta_title: ""
-description: "this is meta description"
+title: "Cautions"
+meta_title: "Patriarchal Zen Cautions"
+description: "Patriarchal Zen Cautions"
 ---
