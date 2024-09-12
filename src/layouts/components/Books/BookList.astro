@@ -26,14 +26,49 @@ const books = !lang || lang === 'vi' ? bookViDb : bookEnDb;
                 {
                   book.link
                     ? <button class='simple'>
-                      <a href={book.link} target="_blank">Read</a>
+                      <a href={book.link} target="_blank">PDF</a>
                     </button>
                     : ''
                 }
                 {
-                  book.mp3
+                  book.link1
                     ? <button class='simple'>
-                        <a href={ book.mp3 } download="">⇩ MP3</a>
+                      <a href={book.link1} target="_blank" title="PDF P1">PDF 1</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.link2
+                    ? <button class='simple'>
+                      <a href={book.link2} target="_blank" title="PDF P2">PDF 2</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio
+                    ? <button class='simple'>
+                      <a href={book.linkAudio} target="_blank" title="Audios">📼</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio1
+                    ? <button class='simple'>
+                      <a href={book.linkAudio1} target="_blank" title="Audios P1">📼 1</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio2
+                    ? <button class='simple'>
+                      <a href={book.linkAudio2} target="_blank" title="Audios P2">📼 2</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.saveAudio
+                    ? <button class='simple'>
+                        <a href={ book.saveAudio } download="" title="Download Audio">⇩ Audio</a>
                       </button>
                     : ''
                 }
