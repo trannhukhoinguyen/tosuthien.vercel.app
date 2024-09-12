@@ -4,6 +4,7 @@ import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
 import HuaTou from "@/layouts/partials/Huatou.astro";
 import type { ContentEntryMap } from "astro:content";
+import SevenThingsLeftBehind from "@/layouts/components/SevenThingsLeftBehind.astro"
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -18,7 +19,10 @@ const huatou = await getSinglePage(
   lang as keyof ContentEntryMap,
   "huatou"
 );
-const { severe_problem, tomorrow_death } = await getTranslations(lang as keyof ContentEntryMap);
+const {
+  severe_problem,
+  tomorrow_death,
+} = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
 <Base>
@@ -27,6 +31,7 @@ const { severe_problem, tomorrow_death } = await getTranslations(lang as keyof C
     <h4>👶💀</h4>
     <h2>💀{tomorrow_death}💀</h2>
     <h4>🤯</h4>
+    <SevenThingsLeftBehind />
   </div>
   <HuaTou huatous={huatou[0]} />
 </Base>

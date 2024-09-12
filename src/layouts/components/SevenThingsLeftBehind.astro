@@ -1,0 +1,57 @@
+---
+import {ContentEntryMap} from "astro:content";
+import {getTranslations} from "../../lib/utils/languageParser";
+import Steps from "@/layouts/components/Steps.astro"
+
+const { lang } = Astro.params;
+const {
+  seven_things_left_behind,
+  seven_things_left_behind_1,
+  seven_things_left_behind_2,
+  seven_things_left_behind_3,
+  seven_things_left_behind_4,
+  seven_things_left_behind_5,
+  seven_things_left_behind_6,
+  seven_things_left_behind_7,
+  seven_things_left_behind_label_1,
+  seven_things_left_behind_label_2,
+  seven_things_left_behind_label_3,
+  seven_things_left_behind_label_4,
+  seven_things_left_behind_label_5,
+  seven_things_left_behind_label_6,
+  seven_things_left_behind_label_7,
+  } = await getTranslations(lang as keyof ContentEntryMap);
+
+const stepData = [
+  {
+    label: seven_things_left_behind_label_1,
+    content: seven_things_left_behind_1,
+  },
+  {
+    label: seven_things_left_behind_label_2,
+    content: seven_things_left_behind_2,
+  },
+  {
+    label: seven_things_left_behind_label_3,
+    content: seven_things_left_behind_3,
+  },
+  {
+    label: seven_things_left_behind_label_4,
+    content: seven_things_left_behind_4,
+  },
+  {
+    label: seven_things_left_behind_label_5,
+    content: seven_things_left_behind_5,
+  },
+  {
+    label: seven_things_left_behind_label_6,
+    content: seven_things_left_behind_6,
+  },
+  {
+    label: seven_things_left_behind_label_7,
+    content: seven_things_left_behind_7,
+  },
+];
+---
+
+<Steps title={seven_things_left_behind} stepData={stepData} />

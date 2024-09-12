@@ -9,6 +9,7 @@ import { supportedLang } from "@/lib/utils/languageParser";
 import { sortByDate } from "@/lib/utils/sortFunctions";
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
+import PostSidebar from "../../../../layouts/partials/PostSidebar.astro";
 
 const { default_language } = config.settings;
 
@@ -83,7 +84,7 @@ export async function getStaticPaths() {
             {
               currentPosts.map((post) => (
                 <div class="mb-14 md:col-6">
-                  <BlogCard data={post} slugDefault="faqs" />
+                  <BlogCard data={post} slugDefault="koans" />
                 </div>
               ))
             }
@@ -92,6 +93,13 @@ export async function getStaticPaths() {
             section={"koans"}
             currentPage={currentPage}
             totalPages={totalPages}
+          />
+
+          <!-- sidebar -->
+          <PostSidebar
+            types={types}
+            tags={tags}
+            allTypes={allTypes}
           />
         </div>
       </div>

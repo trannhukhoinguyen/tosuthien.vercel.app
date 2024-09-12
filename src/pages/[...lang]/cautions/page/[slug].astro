@@ -9,6 +9,7 @@ import { supportedLang } from "@/lib/utils/languageParser";
 import { sortByDate } from "@/lib/utils/sortFunctions";
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
+import PostSidebar from "../../../../layouts/partials/PostSidebar.astro";
 
 const { default_language } = config.settings;
 
@@ -84,6 +85,11 @@ export async function getStaticPaths() {
             section={"cautions"}
             currentPage={currentPage}
             totalPages={totalPages}
+          />
+
+          <!-- sidebar -->
+          <PostSidebar
+            tags={tags}
           />
         </div>
       </div>
