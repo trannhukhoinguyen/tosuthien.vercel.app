@@ -1,5 +1,5 @@
 ---
-title: "Case 6: Unmon's Good Day"
+title: "6: Unmon's Good Day"
 meta_title: "Unmon's Good Day"
 description: "Unmon's Good Day"
 date: 2024-08-22

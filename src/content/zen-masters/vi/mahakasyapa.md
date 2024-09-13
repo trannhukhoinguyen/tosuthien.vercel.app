@@ -1,7 +1,11 @@
 ---
 title: "Mahākāśyapa"
-image: "/images/avatar.png"
+meta_title: "Mahākāśyapa",
 description: "Mahākāśyapa"
+date: 2024-09-13,
+image: "/images/avatar.png"
+tags: [],
+draft: false,
 ---
 
 > Mahākāśyapa

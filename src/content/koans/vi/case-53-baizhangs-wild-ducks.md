@@ -31,24 +31,17 @@ Nhìn xem Mã Tổ và Bách Trượng thụ dụng như thế, tuy họ có v�
 
 Hôm sau Mã Tổ thăng đường, chúng hội mới tụ tập, Bách Trượng đã bước ra cuốn chiếu lễ lên. Mã Tổ bèn hạ tòa. Lúc trở về phương trượng bèn hỏi Bách Trượng, “ Vừa rồi tôi thăng đường, chưa kịp thuyết pháp, cớ sao ông lại đi cuốn chiếu lễ lại như thế?” Bách Trượng nói, “ Hôm qua bị hòa thượng béo mũi đau quá.” Mã Tổ nói, “ Hôm qua ông lưu tâm ở đâu vậy?” Bách Trượng nói, “ Hôm qua ông lưu tâm ở đâu vậy?” Bách Trượng nói, “ Hôm nay mũi không còn đau nữa.” Mã Tổ nói, “Ông hiểu biết việc hôm nay rất rõ.” Bách Trượng bèn cúi lạy rồi quay về phòng thị giả, vừa khóc. Có ông thị giả đồng sự hỏi, “ Tại sao thầy lại khóc?” Bách Trượng nói, “Ông cứ lên hỏi hòa thượng đó.” Ông thị giả kia bèn lên hỏi Mã Tổ.Mã Tổ nói, “Ông cứ đi hỏi thầy ta đó.” Ông thị giả kia lại quay về phòng hỏi Bách Trượng, Bách Trượng lại cười ha hả. Ông thị giả kia nói, “ Vừa mới đây ông khóc, bây giờ tại sao lại cười đây?” Bách Trượng nói, “ Vừa rồi tôi khóc, bây giờ tôi cười.” Nhìn xem, sau khi ngộ rồi Bách Trượng mới nhẹ nhõm làm sao, chẳng cách chi mà mắc bẫy, tự nhiên lung linh. Tuyết Đậu tụng rằng:
 
-TỤNG
-
+### TỤNG
+```
 Bầy vịt trời,
-
 Biết về đâu.
-
 Mã Tổ thấy chúng nói với nhau,
-
 Nói về mây núi cùng trăng biển.
-
 Như xưa không hiểu bảo bay đi,
-
 Muốn bay đi,
-
 Lại giữ lại,
-
 Nói, nói!
-
+```
 ### BÌNH TỤNG
 Tuyết Đậu tụng ngay rằng, “ Bầy vịt trời, biết về đâu?” Song thử nói xem có bao nhiêu? Mã Tổ thấy chúng nói với nhau.” Đâu là để tụng Mã Tổ hỏi Bách Trượng “ cái gì vậy” Và Bách Trượng nói, “Vịt trời.” “ Nói về mây núi cùng trăng biển.” Đây là để tụng việc Mã Tổ lại hỏi “bay đi đâu vậy?” Ý chỉ của Mã Đại Sư cho Bách Trượng quá là tự nhiên thoát thể. Bách Trượng vẫn như xưa không hiểu lại nói rằng, “ Bay đi rồi.” Sai gấp đôi.
 

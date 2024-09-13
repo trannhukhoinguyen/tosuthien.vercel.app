@@ -1,5 +1,5 @@
 ---
-title: "Case 1: Bodhidharma's Clear and Void"
+title: "Bodhidharma's Clear and Void"
 meta_title: "Bodhidharma's Clear and Void"
 description: "Bodhidharma's Clear and Void"
 date: 2024-08-22

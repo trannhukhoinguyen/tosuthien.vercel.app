@@ -1,8 +1,8 @@
 ---
-title: "Koan 1"
-meta_title: ""
-description: "this is meta description"
-date: 2024-09-12
+title: "KIM MAO SƯ TỬ CỦA VÂN MÔN"
+meta_title: "KIM MAO SƯ TỬ CỦA VÂN MÔN"
+description: "KIM MAO SƯ TỬ CỦA VÂN MÔN"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]
@@ -10,15 +10,14 @@ tags: ["Koan"]
 draft: false
 ---
 
-TẮC THỨ BA MUƠI CHÍN
+### THÙY 
+Kẻ thụ dụng được trên đường, giống như con cọp trong núi, kẻ trôi lăn trong thế đế[16], giống như con khỉ trong chuồng. Muốn hiểu được ý nghĩa của Phật tính, phải biết quán thời tiết nhân duyên. Muốn nung vàng ròng đã được luyện trăm lần, cần phải có lò rèn của tay chuyên môn. Thử nói xem, lúc đại dụng hiện tiền, phải lấy gì ra để thử đây?
 
-KIM MAO SƯ TỬ CỦA VÂN MÔN
+### CỬ
+Có ông tang hỏi Vân Môn, “ Thế nào là thanh tịnh Pháp Thân?” Vân Môn nói, “ Một dậu hoa.” Ông tăng nói, “ Nếu cư thế thì như thế nào?” Vân Môn nói, “ Kim Mao Sư Tử.”
 
-THÙY Kẻ thụ dụng được trên đường, giống như con cọp trong núi, kẻ trôi lăn trong thế đế[16], giống như con khỉ trong chuồng. Muốn hiểu được ý nghĩa của Phật tính, phải biết quán thời tiết nhân duyên. Muốn nung vàng ròng đã được luyện trăm lần, cần phải có lò rèn của tay chuyên môn. Thử nói xem, lúc đại dụng hiện tiền, phải lấy gì ra để thử đây?
-
-CỬCó ông tang hỏi Vân Môn, “ Thế nào là thanh tịnh Pháp Thân?” Vân Môn nói, “ Một dậu hoa.” Ông tăng nói, “ Nếu cư thế thì như thế nào?” Vân Môn nói, “ Kim Mao Sư Tử.”
-
-BÌNH Các ông có hiểu chỗ hỏi của ông tăng với chỗ trả lời của Vân Môn chăng? Nếu hiểu được, thì hai miệng giống nhau chẳng có một lưỡi. Nếu không hiểu, khó tránh khỏi ( là những kẻ có) đầu óc mít đặc.
+### BÌNH
+Các ông có hiểu chỗ hỏi của ông tăng với chỗ trả lời của Vân Môn chăng? Nếu hiểu được, thì hai miệng giống nhau chẳng có một lưỡi. Nếu không hiểu, khó tránh khỏi ( là những kẻ có) đầu óc mít đặc.
 
 Có ông tăng hỏi Huyền Sa, “ Thế nào là thanh tịnh Pháp Thân?” Huyền Sa nói, “ Mủ chảy từng giọt.” Thầy ta đúng là có mắt kim cương, các ông thử phân biện xem sao. Vân Môn không giống như những người khác, có lúc trấn định như vách đá vạn trượng, không có chỗ để các ông lân la đến gần. Có lúc mở một con đường ra, đồng sinh đồng tử với các ông.
 
@@ -30,21 +29,18 @@ Có ông tăng hỏi Vân Môn, “ Có phải Phật pháp giống như mặt t
 
 Các ông phải biết rằng việc này không thuộc nơi ngôn ngữ văn tự, giống như đá lửa điện chớp, dù cho có nắm được hay không cũng khó tránh khỏi táng thân thất mạng. Tuyết Đậu cũng là người trong ấy cho nên mới tụng ngay rằng:
 
-TỤNG
-
+### TỤNG
+```
 Một dậu hoa,
-
 Đừng ngờ nghệch.
-
 Đầu tại kim hề không tái bản,
-
 Chỉ như thế,
-
 Quá vô lý.
-
 Kim Mao Sư Tử mọi người nhìn.
+```
 
-BÌNH Tuyết Đậu ngồi vào chiếu đánh khúc đàn huyền diệu. Từng câu một phán đoán. Bài tụng này không khác với cách niêm cơ. “ Một dậu hoa” , rồi thầy ta lại nói, “Đừng ngờ nghệch.” Ai cũng bảo rằng Vân Môn trả lời một cách bóng gió, họ đều lấy thiên kiến ra mà hiểu vấn đề. Cho nên Tuyết Đậu mới dùng vốn liếng của mình ra mà nói, “Đừng ngờ nghệch.” Song ý của Vân Môn đâu có ở dậu hoa, cho nên Tuyết Đậu mới nói, “Đậu tại kim kề không tại bàn (cân).” Câu này mới lậu đậu làm sao. Giống như đầu ở kim chứ không ở bàn cân. Cổ nhân đến chỗ này rồi vẫn còn hết sức từ bi, cho nên vẫn phân minh nói với các ông rằng, “ Không phải ở đây, mà ở đàng kia.” Song thử nói xem “ở đằng kia” là ở đâu? Đây là tụng xong câu thứ nhất. Sau đó là tụng lời ông tăng nói rằng, “Đã như thế rồi thì như thế nào?” Tuyết Đậu nói ông tăng này vô lý quá. Thử nói xem, là gặp nơi sáng hay chỗ tối? Nói như thế là vì hiểu hay là vì không hiểu? “ Kim Mao Sư Tử mọi người nhìn.” Có thấy Kim Mao Sư Tử không? Đồ mù!
+### BÌNH TỤNG
+Tuyết Đậu ngồi vào chiếu đánh khúc đàn huyền diệu. Từng câu một phán đoán. Bài tụng này không khác với cách niêm cơ. “ Một dậu hoa” , rồi thầy ta lại nói, “Đừng ngờ nghệch.” Ai cũng bảo rằng Vân Môn trả lời một cách bóng gió, họ đều lấy thiên kiến ra mà hiểu vấn đề. Cho nên Tuyết Đậu mới dùng vốn liếng của mình ra mà nói, “Đừng ngờ nghệch.” Song ý của Vân Môn đâu có ở dậu hoa, cho nên Tuyết Đậu mới nói, “Đậu tại kim kề không tại bàn (cân).” Câu này mới lậu đậu làm sao. Giống như đầu ở kim chứ không ở bàn cân. Cổ nhân đến chỗ này rồi vẫn còn hết sức từ bi, cho nên vẫn phân minh nói với các ông rằng, “ Không phải ở đây, mà ở đàng kia.” Song thử nói xem “ở đằng kia” là ở đâu? Đây là tụng xong câu thứ nhất. Sau đó là tụng lời ông tăng nói rằng, “Đã như thế rồi thì như thế nào?” Tuyết Đậu nói ông tăng này vô lý quá. Thử nói xem, là gặp nơi sáng hay chỗ tối? Nói như thế là vì hiểu hay là vì không hiểu? “ Kim Mao Sư Tử mọi người nhìn.” Có thấy Kim Mao Sư Tử không? Đồ mù!
 
 
 

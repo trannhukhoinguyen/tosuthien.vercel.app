@@ -1,8 +1,8 @@
 ---
-title: "Case 86: Yunmen and the Radiance Within"
-meta_title: "Case 86: Yunmen and the Radiance Within"
-description: "Case 86: Yunmen and the Radiance Within"
-date: 2024-09-12
+title: "Yunmen’s Exposed Pillar"
+meta_title: "Yunmen’s Exposed Pillar"
+description: "Yunmen’s Exposed Pillar"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Type 2"]
 masters: [""]

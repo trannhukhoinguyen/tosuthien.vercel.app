@@ -28,10 +28,10 @@ export function getStaticPaths() {
 const { lang } = Astro.params || getLangFromUrl(Astro.url);
 
 const postIndex = await getListPage(
-  "zen-master",
+  "zen_masters",
   lang as keyof ContentEntryMap
 );
-const posts = await getSinglePage("zen-master", lang as keyof ContentEntryMap);
+const posts = await getSinglePage("zen_masters", lang as keyof ContentEntryMap);
 const {
   indian_masters, chinese_masters, level_0, level_1, level_2, level_3, level_4, level_5,
 } = await getTranslations(lang as keyof ContentEntryMap);

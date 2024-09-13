@@ -2,7 +2,7 @@
 title: "MỘT CÂU NÓI NGƯỢC CỦA VÂN MÔN"
 meta_title: "MỘT CÂU NÓI NGƯỢC CỦA VÂN MÔN"
 description: "MỘT CÂU NÓI NGƯỢC CỦA VÂN MÔN"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

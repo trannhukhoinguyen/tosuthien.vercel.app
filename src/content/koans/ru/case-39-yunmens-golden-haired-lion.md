@@ -1,8 +1,8 @@
 ---
-title: "Case 39: Yunmen’s Golden Haired Lion"
-meta_title: "Case 39: Yunmen’s Golden Haired Lion"
-description: "Case 39: Yunmen’s Golden Haired Lion"
-date: 2024-09-12
+title: "39: Yunmen’s Golden Haired Lion"
+meta_title: "39: Yunmen’s Golden Haired Lion"
+description: "39: Yunmen’s Golden Haired Lion"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

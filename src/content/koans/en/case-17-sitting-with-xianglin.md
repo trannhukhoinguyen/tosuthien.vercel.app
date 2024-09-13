@@ -2,7 +2,7 @@
 title: "Sitting with Xianglin"
 meta_title: "Sitting with Xianglin"
 description: "Sitting with Xianglin"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

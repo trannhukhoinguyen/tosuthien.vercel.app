@@ -1,8 +1,8 @@
 ---
-title: "Case 86: Yunmen and the Radiance Within"
-meta_title: "Case 86: Yunmen and the Radiance Within"
-description: "Case 86: Yunmen and the Radiance Within"
-date: 2024-09-12
+title: "Sixteen Bodhisattvas Enter the Bathhouse"
+meta_title: "Sixteen Bodhisattvas Enter the Bathhouse"
+description: "Sixteen Bodhisattvas Enter the Bathhouse"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Type 2"]
 masters: [""]

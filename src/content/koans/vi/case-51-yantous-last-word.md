@@ -42,25 +42,17 @@ Gần bữa cơm chiều, lão Đức Sơn tự ôm bát đi xuống Pháp đư�
 Từ xưa đến nay công án thiên sai vạn biệt, giống như một rừng gai góc. Nếu như các ông hiểu thấu được, người trong thiên hạ chẳng làm gì được các ông cả, tam thế chư Phật cũng phải đứng ở thế hạ phong. Nếu như các ông không hiểu thấu được, thì hãy ngẫm lời Nham Đầu nói, “ Tuyết Phong tuy sinh trong cùng một dòng với ta song lại không cùng chết trong một dòng với ta.” Chỉ trong một câu này thôi tự nhiên có chỗ xuất thân. Tuyết Đậu tụng rằng:
 
 ### TỤNG
-
+```
 Câu cuối cùng,
-
 Nói cho ông,
-
 Thời tiết của sáng tối song song:
-
 Cùng sinh một dòng cùng biết nhau,
-
 Không chết cùng dòng khác hẳn nhau.
-
 Khác hẳn nhau,
-
 Đầu vàng [1] mắt xanh [2] phải phân biệt.
-
 Nam bắc đông tây quay về đi
-
 Đêm sau cùng ngắm tuyết ngàn đỉnh.
-
+```
 ### BÌNH TỤNG
 “Câu cuối cùng , nói cho ông.” Tuyết Đậu tụng câu cuối cùng này, có ý ngật lực vì người khác. Tụng thật thiết tha, song chỉ tụng một chi tiết nhỏ mà thôi. Nếu như muốn nhìn thấu thì chưa được. Song thầy ta còn dám mở miệng lớn nói rằng, “ Thời tiết của sáng tối song song” để mở ra một con đường cho các ông và cũng để giải quyết một lần cho xong. Cuối cùng lại chú giải thêm cho các ông nữa. Như Chiêu Khánh một hôm hỏi La Sơn rằng, “ Nham Đầu nói, “ Như vầy như vầy, không như vầy không như vầy’ ý chỉ là như thế nào?” La Sơn gọi, “Đại Sư!” Chiêu Khánh đáp “ Vâng”.La Sơn nói, “ Vừa sáng vừa tối.” Chiêu Khánh cúi đầu lạy tạ rồi đi. Ba hôm sau lại hỏi La Sơn, “ Mấy hôm trước đây được hòa thượng từ bi chỉ dạy, song đệ tử vẫn chưa nhìn thấu được.” La Sơn nói, “ Tôi đã tận tình nói cả cho ông rồi mà.” Chiêu Khánh nói, “ Xin hòa thượng cầm đuốc soi đường cho.” La Sơn nói, “ Nếu vậy thì đại sư cứ đem chỗ nghi ra hỏi đi.” Chiêu Khánh nói, “ ‘Vừa sáng vừa tối’ có nghĩa là gì?” La Sơn nói, “Đồng sinh cũng đồng tử.” Chiêu Khánh bèn cúi lạy cảm tạ rồi đi.
 

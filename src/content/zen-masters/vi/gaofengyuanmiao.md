@@ -1,7 +1,11 @@
 ---
 title: "Cao Phong Nguyên Diệu"
-image: "https://terebess.hu/zen/mesterek/woodcut/55.jpg"
+meta_title: "Cao Phong Nguyên Diệu",
 description: "Cao Phong Nguyên Diệu"
+date: 2024-09-13,
+image: "https://terebess.hu/zen/mesterek/woodcut/55.jpg"
+tags: [],
+draft: false,
 ---
 
 > Cao Phong Nguyên Diệu (1238-1295), tên thường gọi là Xu, quê ở Ngô Giang, Tô Châu. 

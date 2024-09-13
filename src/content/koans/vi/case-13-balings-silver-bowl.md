@@ -2,7 +2,7 @@
 title: "CHÉN BẠC CỦA BA LĂNG"
 meta_title: "CHÉN BẠC CỦA BA LĂNG"
 description: "CHÉN BẠC CỦA BA LĂNG"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

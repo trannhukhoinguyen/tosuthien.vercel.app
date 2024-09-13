@@ -1,8 +1,8 @@
 ---
-title: "Case 72: Baizhang is Bereft"
-meta_title: "Case 72: Baizhang is Bereft"
-description: "Case 72: Baizhang is Bereft"
-date: 2024-09-12
+title: "Baizhang is Bereft"
+meta_title: "Baizhang is Bereft"
+description: "Baizhang is Bereft"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Type 1"]
 masters: [""]

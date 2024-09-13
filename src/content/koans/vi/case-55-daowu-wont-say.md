@@ -10,10 +10,10 @@ tags: ["Koan"]
 draft: false
 ---
 
-THÙY
+### THÙY
 Ẩn mật toàn chân, lập tức thủ chứng. Lững thững chuyển vật, trực tiếp đảm đương. Còn việc như đá lửa điện chớp, cắt đứt lầm lạc, nắm đầu cọp đuôi cọp, đứng lừng lững như vách đá vạn trượng, những thứ ấy tạm gác qua một bên. Một con đường còn có chỗ vì người khác không? Thử nêu lên xem.
 
-CỬ
+### CỬ
 Đạo Ngô và Tiệm Nguyên đến một nhà kia để điếu tang. Tiệm Nguyên vỗ vào quan tài hỏi, “ Sống sao chết sao?” Đạo Ngô nói, “ Không bảo là sống mà cũng chẳng bảo là chết.” Tiệm Nguyên nói, “ Tại sao lại không?” Đạo Ngô nói, “ Không nói là không nói.” Lúc trở về đến nữa đường, Tiệm Nguyên nói, “Hòa thượng mau nói cho tôi, nếu không tôi đánh hòa thượng đó.” Đạo Ngô nói, “Đánh thì cứ việc đánh, nhưng mà nói vẫn không nói.” Tiệm Nguyên bèn đánh.
 
 Sau đó Đạo Ngô thiên hóa. Tiệm Nguyên đến gặp Thạch Sương [3] kể lại câu chuyện kia. Thạch Sương nói, “ Không bảo là sống mà cũng chẳng bảo là chết.” Tiệm Nguyên nói, “ Tại sao lại không?” Thạch Sương nói, “ Nhất định không.” Tiệm Nguyên nghe thế bèn tĩnh ngộ.
@@ -24,7 +24,7 @@ Tuyết Đậu phê bình rằng, “ Trời ơi, trời ơi!” Tiệm Nguyên 
 
 Thái Nguyên Phù nói, “ Linh cốt của các bậc tiên sư vẫn còn đó.”
 
-BÌNH
+### BÌNH
 Đạo Ngô và Tiệm Nguyên đến một nhà kia để điếu tang. Tiệm Nguyên vỗ quan tài nói, “ Sống sao chết sao?” Đạo Ngô nói, “ Không bảo là sống mà cũng chẳng bảo là chết.” Nếu như nghe lời này mà hiểu ngay được cẩn ý, thì đó chính là khóa chốt để thoát sinh tử. Nếu chưa như thế được thì thường thường dễ bị lỡ mất.
 
 Nhìn xem các bậc cổ nhân, đi đứng nằm ngồi lúc nào cũng coi việc này là tâm niệm. Ngay khi vừa đến nhà kia để điếu tang, Tiệm Nguyên đã vỗ quan tài hỏi, “Sống sao chết sao?” Đạo Ngô chẳng hề di dịch một tơ hào, nói với Tiệm Nguyên rằng, “Không bảo là sống mà cũng chẳng bảo là chết.” Tiệm Nguyên để lỡ ngay trước mặt, lo đuổi theo ngôn cú của Đạo Ngô. Bèn nói , “ Tại sao lại không?” Đạo Ngô nói, “ Không nói là không nói.” Có thể nói là Đạo Ngô hết lòng hết dạ, lấy sai lầm ra đương đầu với sai lầm.
@@ -39,8 +39,8 @@ Sau đó Tiệm Nguyên đến gặp Thạch Sương , kể lại câu chuyện 
 
 Tiệm Nguyên nói, “ Chính vì thế mà phải nổ lực.” Nhìn xem sau khi ngộ rồi thầy ta mới nói được một cách tự nhiên làm sao. Một miếng xương gãy của Đạo Ngô như thể mầu vàng, lúc đánh vào kêu lên như tiếng đồng. Tuyết Đậu phê bình, “ Trời ơi, trời ơi!” Ý của thầy ta rơi cả hai phía. Thái Nguyên Phù nói, “ Linh cốt của các bậc tiên sư vẫn còn đó.” Tự nhiên nói được một cách ổn thỏa. Song thử nói xem, đâu là chỗ cốt yếu? Phải nỗ lực như thế nào? Há không nghe nói rằng nếu như thấu được một chỗ thì lập tức thấu được ngàn vạn chỗ. Nếu như các ông hiểu thấu được câu “ không bảo là sống mà cũng chẳng bảo là chết” các ông làm líu lưỡi tất cả người trong thiên hạ. Nếu chưa hiểu thấu được thì cũng cần phải tự tham (Thiền) tự giác ngộ. Không thể sống nhàn nhã qua ngày, phải biết tiếc thời gian. Tuyết Đậu tụng rằng:
 
-TỤNG
-
+### TỤNG
+```
 Thỏ ngựa có sừng,
 
 Bò dê không sừng.
@@ -56,7 +56,7 @@ Ba đào tận trời biết để đâu?
 Không cho để,
 
 Chiếc dép về Tây [4] cũng mất rồi.
-
+```
 ### BÌNH TỤNG
 Tuyết Đậu rất khéo biết cách bỏ cước chú.Thầy ta là con cháu trong dòng của Vân Môn, có đủ cả búa kềm trong một câu đủ cả ba câu. Đối với những gì nói không được thầy ta nói rõ cả ra, những gì khai mở không được, thầy ta mở toang ra. Tụng ngay chỗ khẩn yếu ra rằng, “ Thỏ ngựa có sừng, bò dê không sừng.” Thử nói xem tại sao thỏ ngựa có sừng, tại sao bò dê lại không có sừng? Chỉ khi nào hiểu thấu được câu chuyện trên các ông mới thấy được chỗ vì người của Tuyết Đậu.
 

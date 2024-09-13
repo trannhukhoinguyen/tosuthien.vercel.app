@@ -1,8 +1,8 @@
 ---
-title: "Case 35: The Dialogue of Mañjuśrī and Wuzhao"
-meta_title: "Case 35: The Dialogue of Mañjuśrī and Wuzhao"
-description: "Case 35: The Dialogue of Mañjuśrī and Wuzhao"
-date: 2024-09-12
+title: "35: The Dialogue of Mañjuśrī and Wuzhao"
+meta_title: "35: The Dialogue of Mañjuśrī and Wuzhao"
+description: "35: The Dialogue of Mañjuśrī and Wuzhao"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

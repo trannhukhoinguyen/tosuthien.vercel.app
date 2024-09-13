@@ -2,7 +2,7 @@
 title: "VẠN PHÁP QUI NHẤT CỦA TRIỆU CHÂU"
 meta_title: "VẠN PHÁP QUI NHẤT CỦA TRIỆU CHÂU"
 description: "VẠN PHÁP QUI NHẤT CỦA TRIỆU CHÂU"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

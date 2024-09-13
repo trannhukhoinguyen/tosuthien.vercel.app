@@ -2,7 +2,7 @@
 title: "MỘT LỜI ĐÚNG CỦA VÂN MÔN"
 meta_title: "MỘT LỜI ĐÚNG CỦA VÂN MÔN"
 description: "MỘT LỜI ĐÚNG CỦA VÂN MÔN"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

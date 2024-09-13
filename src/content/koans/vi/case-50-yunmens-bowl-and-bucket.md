@@ -2,7 +2,7 @@
 title: "TRẦN TRẦN TAM MUỘI CỦA VÂN MÔN"
 meta_title: "TRẦN TRẦN TAM MUỘI CỦA VÂN MÔN"
 description: "TRẦN TRẦN TAM MUỘI CỦA VÂN MÔN"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Type 1"]
 masters: [""]
@@ -36,7 +36,7 @@ Mở đầu Tuyết Đậu đã nói ngay, “ Cơm trong bát nước trong th�
 “Sóng cao tận trời dâng từ đất.” Hốt nhiên đất bằng nỗi sóng, các ông phải làm gì đây? Nếu như nhìn trong sự vật thì dễ, còn nếu như tìm kiếm nơi ú căn, rốt cuộc rờ rẫm chẳng ra. ( Công án) này cũng giốngnhư thể một thanh sắt, rút ra không được mà ghé miệng vào cũng không được. Nếu như các ông toan so đo, thì muốn hiểu cũng không hiểu được, muốn thôi cũng không thôi được, chỉ để lộ cái tối ám của mình ra. Đây chính là ý nghĩa của câu, “Đều là con trưởng giả không khố.”
 
 Hàn San Thi có bài như sau:
-
+```
 Khắp nơi đều bị khổ,
 Thiên hạ bàn vu vơ,
 Có tài ném trong cỏ,
@@ -45,7 +45,7 @@ Nhật hiện núi vẫn tối,
 Khói tan thung lũng mờ.
 Trong ấy con trưởng giả,
 Kẻ nào cũng không khố. 
-
+```
 ***
 
 [1] Xin xem chú thích số 7 của tắc thứ bốn mươi.

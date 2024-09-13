@@ -1,8 +1,8 @@
 ---
-title: "Koan 1"
-meta_title: ""
-description: "this is meta description"
-date: 2024-09-12
+title: "VĂN THÙ VÀ VÔ TRƯỚC"
+meta_title: "VĂN THÙ VÀ VÔ TRƯỚC"
+description: "VĂN THÙ VÀ VÔ TRƯỚC"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]
@@ -10,16 +10,14 @@ tags: ["Koan"]
 draft: false
 ---
 
+### THÙY 
+Định Rồng rắn, phân ngọc đá, biện tăng tục, quyết do nghi. Nếu như không có mắt trên đỉnh đầu bùa dưới khuỷu tay, thường thường để lỡ mất. Như giờ đây kiến văn không mờ, thanh sắc thuần chân. Thử nói xem là đen hay trắng? Cong hay thẳng? Đến chỗ này, phải phân biện như thế nào?
 
-TẮC THỨ BA MƯƠI LĂM
+### CỬ 
+Vân Thù[8] hỏi Vô Trước, “ Thầy mới từ đâu đến vậy?” Vô Trước[9] nói, “ Từ phương Nam.” Văn Thù nói, “ Phật pháp ở phương Nam như thế nào?” Vô Trước nói, “ Các Tỳ khưu thời mạt pháp[10] ít chịu tuân theo giới luật.” Văn Thù hỏi, “ Chúng hội thường có bao nhiêu người? Vô Trước nói, “ Từ ba đến năm trăm.” Vô Trước lại hỏi Văn Thù, “Ở đây thì Phật pháp trụ trì như thế nào?” Văn Thù nói, “ Thánh phàm đồng cư, rồng rắn hỗn tạp.” Vô Trước nói, “ Chúng hội thường có bao nhiêu người?” Văn Thù nói, “ Tiền tam tam, hậu tam tam.”[11]
 
-VĂN THÙ VÀ VÔ TRƯỚC
-
-THÙY Định Rồng rắn, phân ngọc đá, biện tăng tục, quyết do nghi. Nếu như không có mắt trên đỉnh đầu bùa dưới khuỷu tay, thường thường để lỡ mất. Như giờ đây kiến văn không mờ, thanh sắc thuần chân. Thử nói xem là đen hay trắng? Cong hay thẳng? Đến chỗ này, phải phân biện như thế nào?
-
-CỬ Vân Thù[8] hỏi Vô Trước, “ Thầy mới từ đâu đến vậy?” Vô Trước[9] nói, “ Từ phương Nam.” Văn Thù nói, “ Phật pháp ở phương Nam như thế nào?” Vô Trước nói, “ Các Tỳ khưu thời mạt pháp[10] ít chịu tuân theo giới luật.” Văn Thù hỏi, “ Chúng hội thường có bao nhiêu người? Vô Trước nói, “ Từ ba đến năm trăm.” Vô Trước lại hỏi Văn Thù, “Ở đây thì Phật pháp trụ trì như thế nào?” Văn Thù nói, “ Thánh phàm đồng cư, rồng rắn hỗn tạp.” Vô Trước nói, “ Chúng hội thường có bao nhiêu người?” Văn Thù nói, “ Tiền tam tam, hậu tam tam.”[11]
-
-BÌNHVô Trước viếng Ngũ Đài Sơn, đến một chỗ hoang vu giữa đường. Văn Thù biến ra một ngôi chùa để tiếp thầy ta nghỉ qua đêm. Rồi Văn Thù hỏi, “ Thầy mới từ đâu đến vậy?” Vô Trước nói, “ Từ phương Nam.” Văn Thù nói, “ Phật pháp ở phương Nam trụ trì như thế nào?” Vô Trước nói, “ Các tỳ khưu thời mạt pháp ít chịu giữ giới luật.” Văn Thù hỏi, “ Chúng hội thường có bao nhiêu người?” Vô Trước nói, “ Từ ba đến năm trăm.” Vô Trước lại hỏi Văn Thù, “Ở đây thì Phật pháp trụ trì như thế nào?” Văn Thù nói, “ Thánh phàm đồng cư, rồng rắn hỗn tạp.” Vô Trước nói, “ Chúng hội thường có bao nhiêu người.” Văn Thù nói, “ Tiền tam tam, hậu tam tam.”
+### BÌNH
+Vô Trước viếng Ngũ Đài Sơn, đến một chỗ hoang vu giữa đường. Văn Thù biến ra một ngôi chùa để tiếp thầy ta nghỉ qua đêm. Rồi Văn Thù hỏi, “ Thầy mới từ đâu đến vậy?” Vô Trước nói, “ Từ phương Nam.” Văn Thù nói, “ Phật pháp ở phương Nam trụ trì như thế nào?” Vô Trước nói, “ Các tỳ khưu thời mạt pháp ít chịu giữ giới luật.” Văn Thù hỏi, “ Chúng hội thường có bao nhiêu người?” Vô Trước nói, “ Từ ba đến năm trăm.” Vô Trước lại hỏi Văn Thù, “Ở đây thì Phật pháp trụ trì như thế nào?” Văn Thù nói, “ Thánh phàm đồng cư, rồng rắn hỗn tạp.” Vô Trước nói, “ Chúng hội thường có bao nhiêu người.” Văn Thù nói, “ Tiền tam tam, hậu tam tam.”
 
 Rồi hai người dùng trà. Văn Thù dơ chén pha lê lên nói, “Ở phương Nam có cái này không?” Vô Trước nói, “ Không”. Văn Thù nói, “ Thế thì thường họ dùng cái gì để uống trà?” Vô Trước không nói gì được. Sau đó từ biệt ra đi. Văn Thù sai Quan Đế Đồng Tử tiễn ra cửa. Vô Trước nói, “ Không”. Vân Thù nói, “ Thế thì thường họ dùng cái gì để uống trà?” Vô Trước không nói gì được. Sau đó từ biệt ra đi. Văn Thù sai Quan Đế Đồng Tử tiễn ra cửa. Vô Trước nói, “ Vừa rồi ngài Văn Thù nói Tiền tam tam, hậu tam tam có nghĩa là bao nhiêu vậy?” Đồng Tử gọi, “Đại đức!” Vô Trước nói, “ Vâng” Đồng Tử nói, “ Như thế là bao nhiêu vậy?” Vô Trước lại hỏi, “Đây là chùa gì vậy?” Đồng Tử đưa tay chỉ tượng Kim Cương ở phía sau. Lúc Vô Trước quay đầu nhìn thì cả ngôi chùa và đồng tử đều biến mất, chung quanh chỉ là một thung lũng hoang vu mà thôi. Sau này nơi ấy được gọi là Động Kim Cương.
 
@@ -27,8 +25,8 @@ Sau đó có ông tăng hỏi Phong Huyệt, “ Thế nào là vị chủ ở T
 
 Há không nghe chuyện Chương Châu Địa Tạng hỏi một ông tăng, “ Thầy mới từ đấu đến vậy?” Ông tăng nói, “ Phương Nam”. Địa Tạng nói, “ Phật pháp ở đó như thế nào?” Ông tăng nói, “ Bàn luận hết sức sôi nổi.” Địa Tạng nói, “ Có giống như chúng tôi ởđây làm ruộng có rất nhiều gạo để ăn?” Thử nói xem, câu đáp này giống hay khác với câu đáp của Văn Thù? Có người nói, “ Câu đáp của Vô Trước không đúng. Trong câu đáp của Văn Thù có rồng có rắn có phàm có thánh.” Song nói như thế đâu có gì là đúng. Các ông đã phân biện được tiền tam tam, hậu tam tam chưa? Mũi tên thứ nhất còn nhẹ, mũi tên thứ hai bao giờ cũng sâu hơn. Thử nói xem, đó là bao nhiêu? Nếu như hiểu được chỗ này thì trăm câu vạn câu cũng chỉ là một câu. Nếu như đối với một câu này mà cắt đứt, nắm vững được, thì ngay giây phút sau các ông sẽ đạt đến cảnh giới này.
 
-TỤNG
-
+### TỤNG
+```
 Ngàn đỉnh chập chùng mầu xanh lơ,
 
 Ai bảo Văn Thù cùng đối đàm?
@@ -36,8 +34,10 @@ Ai bảo Văn Thù cùng đối đàm?
 Nực cười Thanh Lương bao nhiêu chúng?
 
 Tiền tam tam với hậu tam tam.
+```
 
-BÌNH “Ngàn đỉnh chập chùng mầu xanh lơ, ai bảo Văn Thù cùng đối đàm?” Có người bảo Tuyết Đậu chỉ nêu lên thêm một lần nữa chứ không hề tụng. Cũng giống như có ông tăng hỏi Pháp Nhãn, “ Thế nào là một giọt nước Tào Khê?” Pháp Nhãn nói, “ Là một giọt nước Tào Khê.” Có ông tăng hỏi Lang Da Giác Hòa Thượng, “ Thanh Tịnh bổn nhiên tại sao hốt nhiên lại sinh sơn hà đại địa?” Giác Hòa Thượng nói, “ Thanh tịnh bổn nhiên tại sao hốt nhiên lại sinh sơn hà đại địa?” Trong cả hai trường hợp trên đều không thể nói rằng chỉ là lặp lại câu hỏi.
+### BÌNH TỤNG
+“Ngàn đỉnh chập chùng mầu xanh lơ, ai bảo Văn Thù cùng đối đàm?” Có người bảo Tuyết Đậu chỉ nêu lên thêm một lần nữa chứ không hề tụng. Cũng giống như có ông tăng hỏi Pháp Nhãn, “ Thế nào là một giọt nước Tào Khê?” Pháp Nhãn nói, “ Là một giọt nước Tào Khê.” Có ông tăng hỏi Lang Da Giác Hòa Thượng, “ Thanh Tịnh bổn nhiên tại sao hốt nhiên lại sinh sơn hà đại địa?” Giác Hòa Thượng nói, “ Thanh tịnh bổn nhiên tại sao hốt nhiên lại sinh sơn hà đại địa?” Trong cả hai trường hợp trên đều không thể nói rằng chỉ là lặp lại câu hỏi.
 
 Minh Chiêu Độc Nhãn Long cũng tụng rằng ý này có cơ bao chum cả trời đất như sau, “ Già làm trải rộng khắp trần sa, Văn Thù đầy mắt đang đõi đàm. Nghe lời không biết mở Phật Nhãn, quay đầu chỉ thấy núi xanh lơ”.
 

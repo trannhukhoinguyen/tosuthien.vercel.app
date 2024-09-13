@@ -1,5 +1,5 @@
 ---
-title: "Case 8: Suigan's Eyebrows"
+title: "8: Suigan's Eyebrows"
 meta_title: "Unmon's Good Day"
 description: "Unmon's Good Day"
 date: 2024-08-22

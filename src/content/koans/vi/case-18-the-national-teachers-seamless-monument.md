@@ -2,7 +2,7 @@
 title: "TÚC TÔNG THỈNH PHÁP"
 meta_title: "TÚC TÔNG THỈNH PHÁP"
 description: "TÚC TÔNG THỈNH PHÁP"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

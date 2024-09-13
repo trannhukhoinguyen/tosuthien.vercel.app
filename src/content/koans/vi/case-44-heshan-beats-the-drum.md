@@ -2,7 +2,7 @@
 title: "HÒA SƠN BIẾT ĐÁNH TRỐNG"
 meta_title: "HÒA SƠN BIẾT ĐÁNH TRỐNG"
 description: "HÒA SƠN BIẾT ĐÁNH TRỐNG"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

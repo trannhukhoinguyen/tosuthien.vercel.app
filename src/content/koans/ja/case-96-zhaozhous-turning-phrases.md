@@ -1,8 +1,8 @@
 ---
-title: "Case 96: Zhaozhou’s Turning Phrases"
-meta_title: "Case 96: Zhaozhou’s Turning Phrases"
-description: "Case 96: Zhaozhou’s Turning Phrases"
-date: 2024-09-12
+title: "96: Zhaozhou’s Turning Phrases"
+meta_title: "96: Zhaozhou’s Turning Phrases"
+description: "96: Zhaozhou’s Turning Phrases"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Type 1"]
 masters: [""]

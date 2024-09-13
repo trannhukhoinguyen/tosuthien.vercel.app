@@ -2,7 +2,7 @@
 title: "TIẾNG MƯA RƠI CỦA KÍNH THANH"
 meta_title: "TIẾNG MƯA RƠI CỦA KÍNH THANH"
 description: "TIẾNG MƯA RƠI CỦA KÍNH THANH"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

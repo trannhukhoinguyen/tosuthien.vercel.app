@@ -2,7 +2,7 @@
 title: "“GIỐNG NHƯ MỘNG” CỦA NAM TUYỀN"
 meta_title: "“GIỐNG NHƯ MỘNG” CỦA NAM TUYỀN"
 description: "“GIỐNG NHƯ MỘNG” CỦA NAM TUYỀN"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]
@@ -32,21 +32,16 @@ Cũng giống như một người nằm mộng, muốn tỉnh mà không tỉnh 
 Đại ý của Nam Tuyền là như thế , Sư có khả năng bắt cọp tê xử rồng rắn. Đến chỗ này rồi, các ông cần phải tự hiểu một mình mới được. Há không nghe nói, “ Một đường hướng thượng, ngàn thánh không truyền, kẻ học mệt nhọc, như khỉ bắt bóng.” Xem Tuyết Đậu tụng rằng:
 
 ### TỤNG
-
+```
 Kiến văn giác tri không phải một,
-
 Núi sông không phải quán trong gương,
-
 Trơi sương trăng rụng đêm gần nửa,
-
 Ai cùng hồ trong soi bóng lạnh.
-
+```
 ### BÌNH TỤNG
 Lời nói mê nhỏ của Nam Tuyền, lời nói mê lớn của Tuyết Đậu, tuy họ nằm mơ, song mơ một giấc mơ thật là đẹp. Thoạt đầu nói về “ một thể” , ở đây thầy ta nói không phải là đồng nhất. “ Kiến văn giác tri không phải một, Núi sông không phải quán trong gương.” Nếu như bảo rằng phải quán trong gương trước rồi sau đó mới hiện rõ, thì chúng đâu có rời chỗ của gương. Sơn hà đại địa, cây cỏ rừng rậm, đừng lấy gương ra mà soi. Nếu như lấy gương ra soi, thì chúng bèn biến thành hai phần. Cứ để cho núi là núi sông là sông, mọi vật trụ nơi vị của mình. Thế gian tướng thường trụ.
 
 “ Núi sông không phải quán trong gương”. Thử nói xem phải quán ở chỗ nào? Các ông có hiểu không? Đến chỗ này rồi, các ông phải hướng về “ trời sương trăngrụng đêm gần nửa.” Phía này đã biện rõ cho các ông cả rồi, phía bên kia các ông phải tự qua một mình. Các ông có biết được là Tuyết Đậu đem việc riêng của mình ra mà giúp người khác chăng? “ Ai cùng hồ trong soi bóng lạnh.” Soi một mình hay là cùng soi với người khác? Phải cắt đứt hết cơ duyên hết hiểu biết thì mới đạt đến cảnh giới này được. Hiện giờ chẳng cần hồ trong mà cũng chẳng phải đợi trời sương trăng rụng. Hiện giờ thì như thế nào?
-
-
 
 ***
 

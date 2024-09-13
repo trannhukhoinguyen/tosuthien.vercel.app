@@ -10,11 +10,6 @@ tags: ["Koan"]
 draft: false
 ---
 
-
-
-
-
-
 ### THÙY
 Bằng vào vô sư trí phát vô tác diệu dụng; bằng vào vô duyên từ[1] làm thiện hữu vô điều kiện. Ở trong một câu, có sát có hoạt; Ở trong một cơ, có buông có nắm. Thử nói xem, có ai từng được như thế. Thử nêu lên xem.
 
@@ -38,17 +33,13 @@ Vân Môn nói, “Nếu như nhất định đi, cố chọn một đường v�
 Tuyết Đậu lại nêu lên nữa, nói rằng, “Bên trong trời đất, ở giữa vũ trụ, có một viên ngọc, ấn trong núi hình. Treo ở trên tường, suốt cả chín năm, chẳng dám nhìn thẳng. Nếu như các nạp tăng bây giờ muốn thấy, ta sẽ đập cho mấy gậy vào lưng sống.”[10] Nhìn xem các bậc tông sư có khả năng, chẳng bao giờ đem thực Pháp ra trói buộc thiên hạ.Huyền Sa nói, “ Bẫy rập không giữ được, kêu gọi chẳng quay đầu. Tuy thế vẫn cứ là con rùa thiêng lê lết cái đuôi.” Tuyết Đậu tụng rằng:
 
 ### TỤNG
-
+```
 Nhìn nhìn!
-
 Bến cũ ai kẻ cầm nhánh câu?
-
 Mây chập chùng,
-
 Nước miên man.
-
 Hoa lau dưới trăng, hãy tự nhìn.
-
+```
 ### BÌNH TỤNG
 Nếu hiểu được lời của Vân Môn, các ông mới thấy được chỗ vì người của Tuyết Đậu. Thầy ta bỏ cước chú cho hai lời dạy cuối của Vân Môn rằng, “ Nhìn nhìn!” Nếu như các ông hiểu lối trợn mắt nhướng mày, thì chẳng có gì là nhằm nhò cả. Cổ nhân nói, “ Linh quang độc chiếu, vượt trên căn trần.[11] Thể lộ chân thường,không nệ văn tự. Tam tính vô nhiểm, vốn tự viên thành. Chỉ lìa vọng duyên, tức như như Phật,” Nếu như cứ ngồi ì ra đó mà trợn mắt nhướng mày, há có thể siêu việt được căn trần sao?
 

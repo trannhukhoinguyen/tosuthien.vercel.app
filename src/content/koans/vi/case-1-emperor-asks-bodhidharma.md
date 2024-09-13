@@ -2,10 +2,10 @@
 title: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA"
 meta_title: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA"
 description: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Type 1"]
-masters: [""]
+masters: ["Bodhidharma"]
 tags: ["Koan"]
 draft: false
 ---

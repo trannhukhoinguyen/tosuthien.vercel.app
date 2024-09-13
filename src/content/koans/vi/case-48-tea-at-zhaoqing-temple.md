@@ -2,7 +2,7 @@
 title: "ƯƠNG THÁI PHÓ NẤU TRÀ"
 meta_title: "ƯƠNG THÁI PHÓ NẤU TRÀ"
 description: "ƯƠNG THÁI PHÓ NẤU TRÀ"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

@@ -1,7 +1,7 @@
 ---
-title: "Koan 1"
-meta_title: ""
-description: "this is meta description"
+title: "MỘT MŨI TÊN PHÁ BA ẢI CỦA KHÂM SƠN"
+meta_title: "MỘT MŨI TÊN PHÁ BA ẢI CỦA KHÂM SƠN"
+description: "MỘT MŨI TÊN PHÁ BA ẢI CỦA KHÂM SƠN"
 date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
@@ -10,16 +10,14 @@ tags: ["Koan"]
 draft: false
 ---
 
+### THÙY 
+Chư Phật chưa từng xuất thế, cũng chẳng có Pháp trao người. Tổ Sư chưa từ Tây[6] đến, chẳng từng lấy tâm truyền thụ. Chỉ vì người đời không hiểu, cho nên mới tìm kiếm ở bên ngoài. Đâu có hay rằng một việc đại sự nhân duyên dưới chân mình, ngày bậc thánh cũng chẳng rờ rẫm ra được. Như giờ đây thấy với không thấy, nghe với không nghe, nói với không nói, biết với không biết, từ ở đâu đến vậy kìa? Nếu như các ông chưa hiểu thấu được, thì xin cố tìm hiểu trong dòng dâu dưa. Thử nêu lên xem.
 
-TẮC THỨ NĂM MƯƠI SÁU
+### CỬ 
+Lãng Thiền Khách hỏi Khâm Sơn, “Lúc một mũi tên phá ba ải thì như thế nào?” Khâm Sơn nói, “đem vị chỉ huy trong ải ra đây xem!”Lãng Thiền Khách noí, “ Như vậy có nghĩa là biết lỗi lầm phải sửa đổi.” Khâm Sơn nói, “ Vậy thì còn đợi đến bao giờ nữa?” Lãng Thiền Khách nói, “ Mũi tên bắn hay chẳng đúng đâu cả.” Rồi bỏ đi ra. Khâm Sơn nói,” Thầy đến đây một chút coi.” Lãng Thiền Khách quay đầu lại, Khâm Sơn nắm lấy thầy ta nói, “ Một mũi tên phá ba ải, tạm gác qua một bên. Ông thử bắn một mũi tên ra cho Khâm Sơn xem coi!” Lãng Thiền Khách định cãi, Khâm Sơn đã đánh cho bảy gậy rồi nói, “ Ta sẵn sang nghe gã này nghi ngờ trong ba mươi năm nữa.”
 
-MỘT MŨI TÊN PHÁ BA ẢI CỦA KHÂM SƠN
-
-THÙY Chư Phật chưa từng xuất thế, cũng chẳng có Pháp trao người. Tổ Sư chưa từ Tây[6] đến, chẳng từng lấy tâm truyền thụ. Chỉ vì người đời không hiểu, cho nên mới tìm kiếm ở bên ngoài. Đâu có hay rằng một việc đại sự nhân duyên dưới chân mình, ngày bậc thánh cũng chẳng rờ rẫm ra được. Như giờ đây thấy với không thấy, nghe với không nghe, nói với không nói, biết với không biết, từ ở đâu đến vậy kìa? Nếu như các ông chưa hiểu thấu được, thì xin cố tìm hiểu trong dòng dâu dưa. Thử nêu lên xem.
-
-CỬ Lãng Thiền Khách hỏi Khâm Sơn, “Lúc một mũi tên phá ba ải thì như thế nào?” Khâm Sơn nói, “đem vị chỉ huy trong ải ra đây xem!”Lãng Thiền Khách noí, “ Như vậy có nghĩa là biết lỗi lầm phải sửa đổi.” Khâm Sơn nói, “ Vậy thì còn đợi đến bao giờ nữa?” Lãng Thiền Khách nói, “ Mũi tên bắn hay chẳng đúng đâu cả.” Rồi bỏ đi ra. Khâm Sơn nói,” Thầy đến đây một chút coi.” Lãng Thiền Khách quay đầu lại, Khâm Sơn nắm lấy thầy ta nói, “ Một mũi tên phá ba ải, tạm gác qua một bên. Ông thử bắn một mũi tên ra cho Khâm Sơn xem coi!” Lãng Thiền Khách định cãi, Khâm Sơn đã đánh cho bảy gậy rồi nói, “ Ta sẵn sang nghe gã này nghi ngờ trong ba mươi năm nữa.”
-
-BÌNH Lãng Thiền Khách quả thật là một tay chiến tướng. Xoay trở trái phải trong tay Khâm Sơn, tránh rồi né vọt. Cuối cùng , đáng tiếc thay, cũng gẫy tên hết. Tuy thế đi nữa, “ Lý tướng quân tuy có tiếng thơm song lại chẳng được phong hầu, cũng vô ích mà thôi.” Công án này có một lối ra một lối vào, một nắm giữ một buông tha. “đối cơ giáp mặt mà nêu lên, đối cơ giáp mặt thật nhanh.” Đều chẳng bị rơi vào hữu vô đắc thất. Đây gọi là “huyền cơ.” Nếu như thiếu chút sức mạnh thế nào cũng bị vấp ngã.
+### BÌNH 
+Lãng Thiền Khách quả thật là một tay chiến tướng. Xoay trở trái phải trong tay Khâm Sơn, tránh rồi né vọt. Cuối cùng , đáng tiếc thay, cũng gẫy tên hết. Tuy thế đi nữa, “ Lý tướng quân tuy có tiếng thơm song lại chẳng được phong hầu, cũng vô ích mà thôi.” Công án này có một lối ra một lối vào, một nắm giữ một buông tha. “đối cơ giáp mặt mà nêu lên, đối cơ giáp mặt thật nhanh.” Đều chẳng bị rơi vào hữu vô đắc thất. Đây gọi là “huyền cơ.” Nếu như thiếu chút sức mạnh thế nào cũng bị vấp ngã.
 
 Ông tăng này cũng là một tay nạp tử[7] thông minh, câu hỏi đặt ra quả thật khiến thiên hạ kinh hồn. Khâm Sơn là tay chuyên gia trong tông môn của chúng ta, cho nên biết ngay cốt yếu câu hỏi của ông ta. “ Khi một mũi tên phá ba ải thì như thế nào?” Câu trả lời của Khâm Sơn ngụ ý, “ Việc ông bắn thấu, hãy tạm gác qua một bên. Đem vị chỉ huy trong ải ra đây coi.” Lãng Thiền Khách nói, “ Như vậy có nghĩa là biết lỗi lầm phải sửa điổ.” Quả thật là kỳ đặc. Khâm Sơn nói, “ Vậy thì còn đợi đến bao giờ nữa?” Nhìn xem cách thầy ta trả lời. Câu hỏi của Khâm Sơn lại chẳng có chỗ sơ hở nào cả.
 
@@ -29,8 +27,8 @@ Người học Thiền ngày nay đều hỏi, “ Tại sao không đánh Lãng
 
 Lúc ấy nếu như ông tăng kia là một tay cừ thật thì hẳn Khâm Sơn cũng lâm nguy rồi.Bởi vì Lãng Thiền Khách không hành lệnh được, không khỏi bị bệnh hành. Song thử nói xem, vị chỉ huy trong ải rốt cuộc là ai? Tuyết Đậu tụng rằng:
 
-TỤNG
-
+### TỤNG
+```
 Đem vị giữ ải ra cho ông,
 
 Những kẻ bắn tên đừng sơ hốt.
@@ -48,8 +46,9 @@ Há không nghe,
 Huyền Sa có lời hề,
 
 “Đại trượng phu tiên thiên làm tâm tổ.”
-
-BÌNH Mấy câu trong bài tụng này là rút từ một bài tụng của Qui Tông . Qui Tông ngày xưa vì làm bài tụng ấy mà có tên là Qui Tông. Trong tông môn của chúng ta, đây gọi là “nơi tông chỉ”. Sau này Đồng An nghe nói tới công án này, nói rằng, “Ông Lãng quả thật là khéo bắn tên,song không biết cách bắn cho trúng đích.” Có ông tăng hỏi, “ Như thế nào thì mới trúng đích được?” Đồng An nói, “ Vị chỉ huy ải là ai?” Sau này có ông tăng thuật lại cho Khâm Sơn, Khâm Sơn nói, “Ông Lãng dù là như thế cũng chưa tránh được miệng của Khâm Sơn. Tuy vậy, Đồng An cũng chẳng có ý tốt.”
+```
+### BÌNH TỤNG
+Mấy câu trong bài tụng này là rút từ một bài tụng của Qui Tông . Qui Tông ngày xưa vì làm bài tụng ấy mà có tên là Qui Tông. Trong tông môn của chúng ta, đây gọi là “nơi tông chỉ”. Sau này Đồng An nghe nói tới công án này, nói rằng, “Ông Lãng quả thật là khéo bắn tên,song không biết cách bắn cho trúng đích.” Có ông tăng hỏi, “ Như thế nào thì mới trúng đích được?” Đồng An nói, “ Vị chỉ huy ải là ai?” Sau này có ông tăng thuật lại cho Khâm Sơn, Khâm Sơn nói, “Ông Lãng dù là như thế cũng chưa tránh được miệng của Khâm Sơn. Tuy vậy, Đồng An cũng chẳng có ý tốt.”
 
 Tuyết Đậu nói, “Đem vị giữ ải ra cho ông.” Mở mắt cũng thấy mà nhắm mắt cũng thấy. Hữu hình hay vô hình, cũng đều bị chặt ra thành ba khúc, “ Những kẻ bắn tên đừng sơ hốt.” Nếu khéo biết bắn tên thì không sơ hốt, nếu không biết khéo bắn tên thì thế nào cũng sơ hốt. Nên biết rằng,” Lấy một mắt hề tai tất điếc, buông một tai hề đôi mắt mù.” Thử nói xem, lấy một mắt thì tại sao tai lại điếc? Buông một tai tại sao đôi mắt lại mù? Phải không có cái tâm thủ xả thì mới hiểu thấu những lời này được. Nếu như có tâm thủ xả, ắt khó thấy vô cùng.
 

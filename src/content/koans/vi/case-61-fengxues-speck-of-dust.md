@@ -10,8 +10,6 @@ tags: ["Koan"]
 draft: false
 ---
 
-
-
 ### THÙY
 Dựng pháp tràng lập công chỉ, là khả năng của tông sư. Định rồng rắn phân trắng đen, phải có tri thức chuyên gia. Trên lưỡi kiếm luận sát hoạt, nơi đầu gậy phân cơ nghi. Điều ấy tạm gác qua một bên. Thử nói một câu mà tất cả sự việc trong vũ trụ dựa trên ấy xem .Thử nêu lên.
 
@@ -30,15 +28,12 @@ Nam Truyền dạy chúng rằng, “ Bảy trăm bậc cao tăng trên núi Ho�
 Tuyết Đậu sau khi đã nêu cả hai, lại dơ gậy lên nói, “ Còn có các nạp tăng đồng sinh đồng tử không?” Nếu như lúc ấy mà có một tay nào bước ra nói được một câu, cùng nhau làm chủ khách, hẳn đã tránh được không bị Tuyết Đậu tự điểm vào ngực mình sau này.
 
 ### TỤNG
-
+```
 Lão quê có thể không nhướng mày,
-
 Mong rằng nhà nước được vững mạnh.
-
 Mưu thần mãnh tướng giờ đâu hết?
-
 Vạn dặm gió mát chỉ tự biết.
-
+```
 ### BÌNH TỤNG
 Vừa rồi nêu lên cả hai, ở đây lại chỉ nêu lên một phía, mà bỏ một phía. Bớt dài thêm ngắn, bỏ nặng theo nhẹ. Cho nên mới nói rằng, “Lão quê có thể không nhướng mày. Mong rằng nhà nước vững mạnh luôn. Mưu thần mãnh tướng giờ đâu hết?” Khi Tuyết Đậu dơ gậy lên nói, “ Có còn các nạp tăng đồng sinh đồng tử không ?” Cũng giống như thể nói rằng, “ Có còn có mưu thần mãnh tướng không?” Một miệng nuốt luôn tất cả mọi người. Cho nên mới nói rằng đất rộng người thưa, kẻ gặp gở ít. Còn có kẻ biết nhau không? Bước ra đây cùng chọn chung một chỗ với nhau luôn. “ Vạn dặm gió mát chỉ tự biết.” Đây chính là chỗ Tuyết Đậu tự điểm vào ngực mình.
 

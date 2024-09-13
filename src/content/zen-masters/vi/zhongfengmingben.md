@@ -1,7 +1,11 @@
 ---
 title: "Trung Phong Minh Bản"
-image: "https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg"
+meta_title: "Trung Phong Minh Bản",
 description: "Trung Phong Minh Bản"
+date: 2024-09-13,
+image: "/images/avatar.png"
+tags: [],
+draft: false,
 ---
 
 > Trung Phong Minh Bản

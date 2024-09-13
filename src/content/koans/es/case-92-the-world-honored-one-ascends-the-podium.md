@@ -1,8 +1,8 @@
 ---
-title: "Case 92: The World Honored One Ascends the Podium"
-meta_title: "Case 92: The World Honored One Ascends the Podium"
-description: "Case 92: The World Honored One Ascends the Podium"
-date: 2024-09-12
+title: "92: The World Honored One Ascends the Podium"
+meta_title: "92: The World Honored One Ascends the Podium"
+description: "92: The World Honored One Ascends the Podium"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Type 1"]
 masters: [""]

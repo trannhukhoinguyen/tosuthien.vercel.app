@@ -2,7 +2,7 @@
 title: "Yunmen’s Golden Wind"
 meta_title: "Yunmen’s Golden Wind"
 description: "Yunmen’s Golden Wind"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

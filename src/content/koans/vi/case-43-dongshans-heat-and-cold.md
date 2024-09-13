@@ -2,7 +2,7 @@
 title: "KHÔNG NÓNG KHÔNG LẠNH CỦA ĐỘNG SƠN"
 meta_title: "KHÔNG NÓNG KHÔNG LẠNH CỦA ĐỘNG SƠN"
 description: "KHÔNG NÓNG KHÔNG LẠNH CỦA ĐỘNG SƠN"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]
@@ -16,7 +16,7 @@ Câu định càn khôn, vạn thế cùng theo. Cơ bắt hổ tê, ngàn thán
 ### CỬ 
 Có ông tăng hỏi Động Sơn, “ Khi lạnh với nóng đến, phải làm sao để tránh đây?” Động Sơn nói, “ Tại sao ông không đến nơi nào không có nóng với lạnh đó.” Ông tăng nói, “Đâu là chỗ không có nóng với lạnh?” Động Sơn nói, “ Lúc lạnh thì lạnh chết thầy, lúc nóng thì nóng chết thầy.”
 
-BÌNH 
+### BÌNH
 Hoàng Long Tân hòa thượng niệm rằng, “Động Sơn để cổ áo lên tay áo, khoét ngực áo dưới nách. Song ông tăng này không chịu thì làm sao bây giờ?” Lúc ấy có ông tăng bước ra hỏi, “ Thử nói xem phải chi trì như thế nào?” Mãi lâu sau Hoàng Long mới nói, “ Thiền định chẳng cần phải sông núi, tâm niệm diệt hết lửa tự lạnh.” Các ông thử nói xem, bẫy rập của Đông Sơn rơi ở chỗ nào? Nếu hiểu rõ được các ông mới biết được phương pháp ngũ vị hồi hỗ, chính thiên tiếp người của tông phái Động Sơn. Đạt đến cảnh giới hướng thượng này các ông mới có thể như vậy mà không cần có sự sắp xếp gì cả. Tự nhiên khế hợp. Cho nên mới có câu nói, “ Chính trung thiên, tam canh đêm đầu trước trăng sáng, đúng là gặp nhau không biết nhau. Vẫn thầm ôm mối hiềm ngày xưa. Thiên trung chính, sáng sớm bà lão gặp kính xưa, thấy rõ mặt mày lại không thật, cho nhận lầm đầu mình trong gương. Chính trung lai, trong không có lối xuất trần ai, chỉ cần dừng phạm húy hiện nay, cũng hơn thời trước đoạt khẩu tài. Thiên trung chí, hai kiếm chạm nhau chẳng cần tranh, hảo thủ cũng tựa sen trong lửa, hiển nhiên tự có khí ngập trời. Kiêm trong đáo, không vướng hữu vô ai dám họa, ai nấy đều muốn vượt thường lưu, rốt cuộc lại về ngồi trong tro.”
 Phú Sơn Lục Viện coi công án này là mẫu mực của ngũ vị. Nếu như hiểu được một, thì những cái kia tự nhiên trở thành dễ hiểu. Nham Đầu nói, “ Giống như trái bầu trên mặt nước, ấn nó là nó xoay tròn mà chẳng cần phải vận dụng chút sức lực.”
 Có ông tăng từng hỏi Động Sơn, “ Lúc Văn Thù và Phổ Hiền đến tham kiến thì như thế nào?” Động Sơn nói, “tôi lừa họ vào giữa đàn trâu.” Ông tăng nói, “ Như thế thì hòa thượng sẽ xuống địa ngục nhanh như tên bắn.” Động Sơn nói, “ Tôi được hết tất cả sức mạnh của họ.” Lúc Động Sơn nói, “ Tại sao ông không đến chỗ nào không có lạnh với nóng.” Đó là thiên trung chính. Khi ông tăng hỏi, “Đâu là chỗ không có lạnh với nóng?” và Động Sơn nói, “ Lúc lạnh thì lạnh chết thầy, lúc nóng thì nóng chết thầy.” Đó là chính trung thiên. Tuy chính mà thiên, tuy thiên mà viên. Những điều này được ghi chép đầy đủ cả trong Tào Đông Lục. Nếu là trong tông môn của Lâm Tế thì không có nhiều sự việc đến thế. Loại công án này phải hiểu ngay lúc nêu lên thì mới được.

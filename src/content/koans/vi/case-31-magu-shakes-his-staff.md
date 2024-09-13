@@ -1,7 +1,7 @@
 ---
-title: "Koan 1"
-meta_title: ""
-description: "this is meta description"
+title: "MA CÓC CHỐNG GẬY"
+meta_title: "MA CÓC CHỐNG GẬY"
+description: "MA CÓC CHỐNG GẬY"
 date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
@@ -10,13 +10,14 @@ tags: ["Koan"]
 draft: false
 ---
 
-MA CÓC CHỐNG GẬY
+### THÙY 
+Động thì ảnh hiện, giác thì băng sinh. Nếu như không động không giác, khó mà khỏi rơi vào hang chồn hoang. Hiểu thấu được, đủ lòng tin, không tơ hào chướng ngại, như rồng gặp nước, như cọp dựa núi. Buông bỏ, gạch ngói tỏa sáng; nắm giữ, vàng ròng mất mầu. Công án của cổ nhân, khó tránh vòng vo. Thử nói xem, họ bình luận việc gì vậy?
 
-THÙY Động thì ảnh hiện, giác thì băng sinh. Nếu như không động không giác, khó mà khỏi rơi vào hang chồn hoang. Hiểu thấu được, đủ lòng tin, không tơ hào chướng ngại, như rồng gặp nước, như cọp dựa núi. Buông bỏ, gạch ngói tỏa sáng; nắm giữ, vàng ròng mất mầu. Công án của cổ nhân, khó tránh vòng vo. Thử nói xem, họ bình luận việc gì vậy?
+### CỬ 
+Ma Cốc chống gậy đến gặp Chương Kính. Đi quanh giường Thiền ba vòng, rồi chống gậy đứng sừng sững đó. Chương Kính nói, “Đúng, đúng.” ( Tuyết Đậu phê bình , “ Sai!”) Ma Cốc lại đến gặp Nam Tuyền.Lại cũng đi quanh giường Thiền ba vòng, rồi chống gậy đứng sừng sững đó. Nam Tuyền nói, “ Không đúng, không đúng.” Nam Tuyền nói, “ Chương Kính thì đúng, ông mới là không đúng. Đây chính là cái bị sức gió chuyển động; cuối cùng thế nào cũng bại hoại.”
 
-CỬ Ma Cốc chống gậy đến gặp Chương Kính. Đi quanh giường Thiền ba vòng, rồi chống gậy đứng sừng sững đó. Chương Kính nói, “Đúng, đúng.” ( Tuyết Đậu phê bình , “ Sai!”) Ma Cốc lại đến gặp Nam Tuyền.Lại cũng đi quanh giường Thiền ba vòng, rồi chống gậy đứng sừng sững đó. Nam Tuyền nói, “ Không đúng, không đúng.” Nam Tuyền nói, “ Chương Kính thì đúng, ông mới là không đúng. Đây chính là cái bị sức gió chuyển động; cuối cùng thế nào cũng bại hoại.”
-
-BÌNH Cổ nhân hành cước khắp chốn tùng lâm, duy có việc này trong tâm niệm: chỉ muốn phân biện xem lão hòa thượng ngồi trên giường khắc kia có mắt hay không? Cổ nhân thường thì nếu trong một lời mà khế hợp thì ở lại, còn nếu không khế hợp thì lại đi. Nhìn xem Ma Cốc đến gặp Chương Kính. Đi quanh giường Thiền ba vòng, rồi chống gập đứng sừng sững đó. Chương Kính nói, “Đúng đúng.” ( Muốn sử dụng được) thứ đao giết người kiếm cứu người này, cần phải là một chuyên gia mới được.
+### BÌNH 
+Cổ nhân hành cước khắp chốn tùng lâm, duy có việc này trong tâm niệm: chỉ muốn phân biện xem lão hòa thượng ngồi trên giường khắc kia có mắt hay không? Cổ nhân thường thì nếu trong một lời mà khế hợp thì ở lại, còn nếu không khế hợp thì lại đi. Nhìn xem Ma Cốc đến gặp Chương Kính. Đi quanh giường Thiền ba vòng, rồi chống gập đứng sừng sững đó. Chương Kính nói, “Đúng đúng.” ( Muốn sử dụng được) thứ đao giết người kiếm cứu người này, cần phải là một chuyên gia mới được.
 
 Tuyết Đậu nói, “ Sai!” Như thế là rơi vào cả hai bên, song nếu các ông dựa vào hai bên mà hiểu, các ông không thấy được ý của Tuyết Đậu. Ma Cốc đứng sừng sững đó. Thử nói xem, thầy ta làm gì vậy? Tại sao Tuyết Đậu lại nói, “ Sai!” Ma Cốc sai ở chỗ nào? Chương Kính nói “Đúng” là đúng ở chỗ nào? Tuyết Đậu như thể ngồi đó mà đọc lời phán xét. Ma Cốc ôm chữ “đúng” này mà đến gặp Nam Tuyền. Cũng y như trước đi quanh giường Thiền ba vòng, rồi chống gậy đứng sững đó. Nam Tuyền nói, “ Không đúng, không đúng.” ( Muốn sử dụng được) đao giết người kiếm cứu người, phải là bậc thầy trong tông môn mới được. Tuyết Đậu nói, “ Sai!” Chương Kính nói, “Đúng, đúng.” Nam Tuyền nói, “ Không đúng, không đúng”. Như thế là giống hay là khác nhau? Người thứ nhất nói, “Đúng.” Tại sao là sai. Người thứ nhì nói, “ Không đúng.” Tại sao cũng sai luôn? Nếu như tìm chỗ hiểu trong câu nói của Chương Kính, thì tự cứu mình cũng chẳng còn được nữa. Nếu như dựa vào câu nói của Nam Tuyền mà hiểu được thì có thể cùng làm Thầy với Phật và Tổ. Tuy vậy đi nữa, các nạp tăng phải tự mình tầm cứu mới được, chứ đừng dựa vào lời nói của người khác.
 
@@ -32,8 +33,8 @@ Xem lúc Ngưỡng Sơn đến Trung Ấp để cảm tạ Trung Ấp đã truy�
 
 Long Nha dạy chúng rằng, “ Phàm những người tham học, phải thấu qua Tổ Phật thì mới được. Tân Phong Hòa Thượng nói, “ Xem ngôn giáo của Tổ Phật như oan gia, lúc ấy mới có chỗ để tham học.” Nếu như không thấu qua được thì chỉ bị Tổ Phật lừa mà thôi.” Lúc ấy có ông tăng hỏi, “ Tổ Phật mà còn có tâm lừa thiên hạ sao?” Long Nha nói, “Ông thử nói xem sông với hồ có tâm làm trở ngại thiên hạ không?” Rồi lại nói tiếp, “ Tuy rằng sông hồ không có tâm làm trở ngại thiên hạ, chỉ tại vì thiên hạ không qua sông được. Cho nên sông với hồ đâm ra trở thành chướng ngại.Không thể nói rằng sông với hồ không trở ngại thiên hạ. Tổ Phật tuy không có tâm lừa thiên hạ, song chỉ vì thiên hạ không thấu qua được, cho nên Tổ Phật đâm ra thành lừa thiên hạ. Không thể nói là Tổ Phật không lừa thiên hạ. Nếu như thấu qua được Tổ Phật, kẻ ấy vượt qua Tổ Phật. Song cần phải thể hội được ý của Tổ Phật thì mới ngang hàng với những bậc cổ nhân hướng thượng được.Nếu như chưa thấu được, thì dù có học Phật học Tổ đi nữa, vạn kiếp cũng chẳng có khi nào đắc được.” Ông tăng lại hỏi, “ Phải như thế nào thì mới không bị Tổ Phật lừa?” Long Nha nói, “Ông phải tự ngộ lấy mới được.” Đến chỗ này rồi cần phải như thế. Tại sao vậy? Vì người , thì phải vì cho trót; giết người thì phải thấy máu. Nam Tuyền, Tuyết Đậu là những người như thế, cho nên mới dám nêu lên mà chơi.
 
-TỤNG
-
+### TỤNG
+```
 Đây sai kia sai,
 
 Kỵ nhất đừng lấy.
@@ -49,8 +50,10 @@ Mỗi cửa có đường trống sơ xác.
 Không sơ xác,
 
 Chuyên gia phải kiếm thuốc không bệnh.
+```
 
-BÌNH Tụng này giống công án Đức Sơn gặp Qui Sơn. Trước tiên đem công án ra bình thêm hai chuyển ngữ rồi xâu thành một chuỗi , sau đó mới tụng ra. “Đây sai kia sai, kỵ nhất đừng lấy.” Ý Tuyết Đậu là : ở đây một cái sai, ở kia một cái sai, kỵ nhất là đừng lấy nó đi. Lấy đi là sai. Phải đặt hai cái sai như vậy thì mới thấy được rằng, “ Bốn bề sóng yêu, trăm sông triều xuống.” Gió mới trong trăng mới sáng làm sao! Nếu như các ông hiểu được hai cái “sai” này, thì chẳng còn có sự việc gì nữa: núi là núi sông là sông, cái dài tự dài, cái ngắn tự ngắn, năm ngày một trận gió, mười ngày một cơn mưa. Cho nên mới có câu nói, “ Bốn bề sóng yên, trăm sông triều xuống.”
+### BÌNH TỤNG
+Tụng này giống công án Đức Sơn gặp Qui Sơn. Trước tiên đem công án ra bình thêm hai chuyển ngữ rồi xâu thành một chuỗi , sau đó mới tụng ra. “Đây sai kia sai, kỵ nhất đừng lấy.” Ý Tuyết Đậu là : ở đây một cái sai, ở kia một cái sai, kỵ nhất là đừng lấy nó đi. Lấy đi là sai. Phải đặt hai cái sai như vậy thì mới thấy được rằng, “ Bốn bề sóng yêu, trăm sông triều xuống.” Gió mới trong trăng mới sáng làm sao! Nếu như các ông hiểu được hai cái “sai” này, thì chẳng còn có sự việc gì nữa: núi là núi sông là sông, cái dài tự dài, cái ngắn tự ngắn, năm ngày một trận gió, mười ngày một cơn mưa. Cho nên mới có câu nói, “ Bốn bề sóng yên, trăm sông triều xuống.”
 
 Đoạn cuối tụng Ma Cốc chống gậy rằng, “ Cổ sách phong cao thập nhị môn.” Cổ nhân dùng roi làm gậy, các nạp tăng thì dùng tích trượng làm gậy. Trên Dao Trì của Tây Vương Mẫu có mười hai cửa đỏ. “ Cổ sách” có nghĩa là vậy. Gió trên đầu gậy cao hơn mười cửa đỏ. Nơi các thiên tử và Đế Thích ở mỗi chỗ cũng đều có mười hai cửa đỏ. Nếu như các ông hiểu được hai cái “sai” này, thì đầu gậy phát ra ánh sang, ngay cả cổ sách cũng không làm gì được. Cổ nhân nói, “ Nếu hiểu được cây gậy, cả đời tham học của ông kể như xong.” Lại cũng nói, “ Không phải chỉ là bầy vẽ bề ngoài vô sự, mà nó giống như dấu vết cây bảo trượng của Như Lai.” Nó cũng thuộc về loại đó. Đến chỗ này rồi, thất điên bát đảo, trong mỗi lúc đạt được đại tự tại.
 

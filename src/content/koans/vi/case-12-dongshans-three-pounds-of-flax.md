@@ -2,7 +2,7 @@
 title: "BA CÂN GAI CỦA ĐỘNG SƠN"
 meta_title: "BA CÂN GAI CỦA ĐỘNG SƠN"
 description: "BA CÂN GAI CỦA ĐỘNG SƠN"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

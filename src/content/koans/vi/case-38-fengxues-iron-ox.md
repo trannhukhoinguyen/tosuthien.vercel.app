@@ -1,8 +1,8 @@
 ---
-title: "Koan 1"
-meta_title: ""
-description: "this is meta description"
-date: 2024-09-12
+title: "TRÂU SẮT CỦA PHONG HUYỆT"
+meta_title: "TRÂU SẮT CỦA PHONG HUYỆT"
+description: "TRÂU SẮT CỦA PHONG HUYỆT"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]
@@ -10,20 +10,18 @@ tags: ["Koan"]
 draft: false
 ---
 
+### THÙY 
+Nếu luận về tiệm, tức đi ngược lại cái thường hợp với đạo. Xoay trở lung tung trong chốn chợ ồn ào. Nếu luận về đốn, thì không để lại dấu vết, ngàn thánh cũng không biết đâu mà rờ. Thảng hoặc không lập đốn tiệm thì như thế nào? Người nhanh trí chỉ cần một lời, ngựa chạy nhanh chỉ cần một roi. Đúng vào lúc ấy, ai là người chủ động? Thử nêu lên xem.
 
-TẮC THỨ BA MƯƠI TÁM
-
-TRÂU SẮT CỦA PHONG HUYỆT
-
-THÙY Nếu luận về tiệm, tức đi ngược lại cái thường hợp với đạo. Xoay trở lung tung trong chốn chợ ồn ào. Nếu luận về đốn, thì không để lại dấu vết, ngàn thánh cũng không biết đâu mà rờ. Thảng hoặc không lập đốn tiệm thì như thế nào? Người nhanh trí chỉ cần một lời, ngựa chạy nhanh chỉ cần một roi. Đúng vào lúc ấy, ai là người chủ động? Thử nêu lên xem.
-
-CỬ Trong nha môn ở Đinh Châu, Phong Huyệt thượng đường nói, “ Tâm ấn của Tổ Sư giống như cái máy trong con trâu sắt,lấy đi thì ấn còn, trụ lại thì ấn phá. Còn như nếu không khử không trừ, thì ấn là đúng hay không ấn là đúng?
+### CỬ 
+Trong nha môn ở Đinh Châu, Phong Huyệt thượng đường nói, “ Tâm ấn của Tổ Sư giống như cái máy trong con trâu sắt,lấy đi thì ấn còn, trụ lại thì ấn phá. Còn như nếu không khử không trừ, thì ấn là đúng hay không ấn là đúng?
 
 Lúc ấy có Trưởng Lão Lư Pha bước ra hỏi, “ Kẻ hèn này có cái máy của trâu sắt, xin thầy đừng đóng ấn.” Phong Huyệt nói, “ Quen câu kình ngư khuấy biển lớn, lại gặp nhái bén lội trong bìn.” Lư Pha đứng đó suy nghĩ. Phong Huyệt hét, “Trưởng Lão, sao không nói tiếp đi?” Lư Pha vừa toan biện bạch, Phong Huyệt đã lấy phất trần đánh cho một cái. Phong Huyệt nói, “ Còn nhớ thoại đầu không? Thử nêu lên xem?” Lư Pha vừa định mở miệng, Phong Huyệt lại dùng phất trần đánh nữa.
 
 Mục chủ nói, “ Phật pháp là một với vương pháp.” Phong Huyệt nói, “ Ngài thấy được đạo lý gì vậy?” Mục chủ nói, “ Không đoạn cái phải đoạn, lại chỉ gây rối loạn.” Phong Huyệt bèn bước xuống khỏi tòa.
 
-BÌNH Phong Huyệt là bậc tôn túc trong giòng của Lâm Tế. Thuở ban đầu Lâm Tế cũng ở trong chúng hội của Hoàng Bá. (Một hôm) lúc Lâm Tế đang trồng cây tùng, Hoàng Bá nói, “ Trong chốn thâm sơn như vầy trồng nhiều tùng như thế để làm gì?” Lâm Tế nói, “ Thứ nhất là để làm cảnh cho tự viện, thứ hai là để làm bảng hiệu cho người đời sau.” Nói xong bèn lấy xuổng bới đất. Hoàng Bá nói,” Tuy sự thật là thế, song ông cũng đã ăn hai chục gậy rồi.” Lâm Tế lại bới đất một lần nữa rồi thở hổn hển. Hoàng Bá nói, “ Tông môn của chúng ta đến ông là có thể hưng thịnh trong đời vậy.”
+### BÌNH 
+Phong Huyệt là bậc tôn túc trong giòng của Lâm Tế. Thuở ban đầu Lâm Tế cũng ở trong chúng hội của Hoàng Bá. (Một hôm) lúc Lâm Tế đang trồng cây tùng, Hoàng Bá nói, “ Trong chốn thâm sơn như vầy trồng nhiều tùng như thế để làm gì?” Lâm Tế nói, “ Thứ nhất là để làm cảnh cho tự viện, thứ hai là để làm bảng hiệu cho người đời sau.” Nói xong bèn lấy xuổng bới đất. Hoàng Bá nói,” Tuy sự thật là thế, song ông cũng đã ăn hai chục gậy rồi.” Lâm Tế lại bới đất một lần nữa rồi thở hổn hển. Hoàng Bá nói, “ Tông môn của chúng ta đến ông là có thể hưng thịnh trong đời vậy.”
 
 Quí Sơn Triết nói, “Lâm Tế giống như thể trên đất bằng gây sóng, tuy là như thế, nhưng mà chỉ khi nào người ta có thể bình tĩnh lúc lâm nguy mới đáng được gọi là bậc đại trượng phu chân chính.” Hoàng bá nói, “ Tông môn của chúng ta đến ông là có thể hưng thinh trong đời vậy.” Tựa như thể thương con mà không biết xấu. sau đó Qui Sơn hỏi Ngưỡng Sơn, “ Lúc ấy Hoàng Bá chỉ truyền cho một mình Lâm Tế hay còn có ai khác nữa?” Ngưỡng Sơn nói, “ Có chứ, có điều thời đại xa xưa quá rồi cho nên đệ tử không muốn nói cho hòa thượng làm gì.” Qui Sơn nói, “ Tuy là thế, song ta vẫn muốn biết, ông thử nói xem sao.” Ngưỡng Sơn nói, “ Một người chỉ về phương nam, mệnh lệnh được thi hành ở Ngô Việt, gặp gió lớn mới hưng.” Đây chính là lời tiên tri về Phong Huyệt vậy.
 
@@ -51,17 +49,15 @@ Kỳ thực Lư Pha toan tìm ra những lời hay đẹp để đáp lại Phon
 
 Vị châu mục cũng học Thiền với Phong Huyệt rất lâu, ông ta biết nói, “ Phật pháp với Vương pháp là một.” Phong Huyệt nói, “Ông thấy được cái gì?” Châu mục nói, “Không đoán định được những cái phải đoán định rốt cuộc chỉ gây loạn.” Phong Huyệt là cả một khối tâm linh giống như thể một hồ lô trên mặt nước, ấn nó xuống thì nó quay vòng, đè nó xuống thì nó động. Phong Huyệt biết tùy cơ thuyết Pháp, nếu như không hợp với cơ thì rốt cuộc chỉ là những lời loạn ngữ mà thôi. Phong Huyệt bèn xuống khỏi tòa.
 
-TỤNG
-
+### TỤNG
+```
 Bắt được Lư Pha cưỡi trâu sắt,
-
 Thương giáp tam huyền khó chống cứ.
-
 Bên thành vua Sở nước triều lên,
-
 Hét lên làm nước chảy ngược chiều.
-
-BÌNH Tuyết Đậu biết Phong Huyệt có tông phong như thế cho nên mới tụng rằng, “ Bắt được Lư Pha cỡi trâu sắt, thương giáp tam huyền khó chống cự.” Trong tông phái của Lâm Tế có tam huyền tam yếu. Trong một câu phải có đủ cả tam huyền, trong một huyền phải có đủ cả tam yếu. Có ông tăng hỏi Lâm Tế, “ Thế nào là câu thứ nhất?” Lâm Tế nói, “ An tấm ấn mở điểm son hẹp, không để so đo chủ khách phân.” Thế nào là câu thứ nhì?” Lâm Tế nói, “ Diệu biện há không dùng câu hỏi, phương tiện không phụ cơ cắt dòng.” Thế nào là câu thứ ba?”Lâm Tế nói, “ Cứ nhìn người nộm trên sân khấu, kéo giựt đều nơi kẻ ở trong.”
+```
+### BÌNH TỤNG
+Tuyết Đậu biết Phong Huyệt có tông phong như thế cho nên mới tụng rằng, “ Bắt được Lư Pha cỡi trâu sắt, thương giáp tam huyền khó chống cự.” Trong tông phái của Lâm Tế có tam huyền tam yếu. Trong một câu phải có đủ cả tam huyền, trong một huyền phải có đủ cả tam yếu. Có ông tăng hỏi Lâm Tế, “ Thế nào là câu thứ nhất?” Lâm Tế nói, “ An tấm ấn mở điểm son hẹp, không để so đo chủ khách phân.” Thế nào là câu thứ nhì?” Lâm Tế nói, “ Diệu biện há không dùng câu hỏi, phương tiện không phụ cơ cắt dòng.” Thế nào là câu thứ ba?”Lâm Tế nói, “ Cứ nhìn người nộm trên sân khấu, kéo giựt đều nơi kẻ ở trong.”
 
 Trong một câu của Phong Huyệt đã có đầy đủ cả thương giáp của tam huyền, thật sự tùy thân cho nên không dễ gì ai chống cự được. Nếu như Sư không như thế thì làm gì được Lư Pha? Sau cùng Tuyết Đậu muốn nêu ra cái cơ phong của Lâm Tế, đừng có nói là Lư Pha,cho dù là bên thành của Sơ vương, sóng cả chập chùng, ba đào lồng lộng, tất cả đều quay về nguồn. Chỉ cần một tiếng hét thôi cũng đủ khiến chúng chảy ngược lại.
 

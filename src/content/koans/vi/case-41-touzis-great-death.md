@@ -2,7 +2,7 @@
 title: "NGƯỜI CHẾT LỚN CỦA TRIỆU CHÂU"
 meta_title: "NGƯỜI CHẾT LỚN CỦA TRIỆU CHÂU"
 description: "NGƯỜI CHẾT LỚN CỦA TRIỆU CHÂU"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

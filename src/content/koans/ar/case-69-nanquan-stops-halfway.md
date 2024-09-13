@@ -1,8 +1,8 @@
 ---
-title: "Case 69: Nanquan Stops Halfway"
-meta_title: "Case 69: Nanquan Stops Halfway"
-description: "Case 69: Nanquan Stops Halfway"
-date: 2024-09-12
+title: "Nanquan Stops Halfway"
+meta_title: "Nanquan Stops Halfway"
+description: "Nanquan Stops Halfway"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Type 1"]
 masters: [""]

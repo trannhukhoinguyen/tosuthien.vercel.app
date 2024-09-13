@@ -1,8 +1,8 @@
 ---
-title: "Case 15: Yunmen’s Upside Down Statement"
-meta_title: "Case 15: Yunmen’s Upside Down Statement"
-description: "Case 15: Yunmen’s Upside Down Statement"
-date: 2024-09-12
+title: "15: Yunmen’s Upside Down Statement"
+meta_title: "15: Yunmen’s Upside Down Statement"
+description: "15: Yunmen’s Upside Down Statement"
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]

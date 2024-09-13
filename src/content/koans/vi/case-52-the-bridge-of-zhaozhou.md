@@ -10,8 +10,6 @@ tags: ["Koan"]
 draft: false
 ---
 
-
-
 ### CỬ
 Có ông tăng hỏi Triệu Châu, “ Lâu nay nghe tiếng cầu đá của Triệu Châu, đến nơi lại chỉ thấy chiếc cầu khỉ.” Triệu Châu nói, “Ông chỉ thấy cầu khỉ, không thấy cầu đá.” Ông tăng nói, “ Thế nào là cầu đá?” Triệu Châu nói, “Để lừa qua để ngựa qua.”
 
@@ -29,15 +27,12 @@ Triệu Châu ưa dùng căn cơ này, thầy ta thường vì người ở nh�
 
 
 ### TỤNG
-
+```
 Không lập xa vời đạo mới cao,
-
 Xuống biển còn phải câu rùa lớn.
-
 Nực cười lão Quán Khê cùng thời,
-
 Biết nói”phóng tên” nhọc công thôi.
-
+```
 ### BÌNH TỤNG
 “Không lập xa vời đạo mới cao.” 
 Tuyết Đậu chỗ bình thường vì người của Triệu Châu. 
