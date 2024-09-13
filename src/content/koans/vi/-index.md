@@ -1,5 +1,5 @@
 ---
-title: "Công án"
-meta_title: ""
-description: "this is meta description"
+title: "Công án Thiền Tông"
+meta_title: "Công án Thiền Tông"
+description: "Công án Thiền Tông"
 ---

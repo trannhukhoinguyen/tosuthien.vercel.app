@@ -1,5 +1,5 @@
 ---
 title: "Koans"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Koans"
+description: "Koans"
 ---
