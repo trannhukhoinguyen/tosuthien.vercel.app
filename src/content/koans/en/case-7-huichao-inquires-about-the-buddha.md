@@ -1,5 +1,5 @@
 ---
-title: "Case 7: Echo Asks about Buddha"
+title: "Echo Asks about Buddha"
 meta_title: "Echo Asks about Buddha"
 description: "Echo Asks about Buddha"
 date: 2024-08-22

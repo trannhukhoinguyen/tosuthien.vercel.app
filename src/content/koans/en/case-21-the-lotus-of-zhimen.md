@@ -1,7 +1,7 @@
 ---
-title: "Case 21: The Lotus of Zhimen"
-meta_title: "Case 21: The Lotus of Zhimen"
-description: "Case 21: The Lotus of Zhimen"
+title: "The Lotus of Zhimen"
+meta_title: "The Lotus of Zhimen"
+description: "The Lotus of Zhimen"
 date: 2024-09-12
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]

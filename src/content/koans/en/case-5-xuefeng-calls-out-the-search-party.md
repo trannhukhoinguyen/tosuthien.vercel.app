@@ -1,5 +1,5 @@
 ---
-title: "Case 5: Seppo's Grain of Rice"
+title: "Seppo's Grain of Rice"
 meta_title: "Seppo's Grain of Rice"
 description: "Seppo's Grain of Rice"
 date: 2024-08-22

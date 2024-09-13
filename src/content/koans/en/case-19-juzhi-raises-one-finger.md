@@ -1,7 +1,7 @@
 ---
-title: "Case 19: Juzhi Raises One Finger"
-meta_title: "Case 19: Juzhi Raises One Finger"
-description: "Case 19: Juzhi Raises One Finger"
+title: "Juzhi Raises One Finger"
+meta_title: "Juzhi Raises One Finger"
+description: "Juzhi Raises One Finger"
 date: 2024-09-12
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]

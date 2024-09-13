@@ -1,0 +1,12 @@
+---
+title: "Case 53: Baizhang’s Wild Ducks"
+meta_title: "Case 53: Baizhang’s Wild Ducks"
+description: "Case 53: Baizhang’s Wild Ducks"
+date: 2024-09-12
+image: "/images/image-placeholder.jpg"
+types: ["Type 1"]
+masters: [""]
+tags: ["Koan"]
+draft: false
+---
+

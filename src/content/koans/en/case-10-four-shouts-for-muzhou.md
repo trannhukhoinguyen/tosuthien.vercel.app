@@ -1,5 +1,5 @@
 ---
-title: "Case 10: Bokushu's Idiot"
+title: "Bokushu's Idiot"
 meta_title: "Bokushu's Idiot"
 description: "Bokushu's Idiot"
 date: 2024-08-22

@@ -1,5 +1,5 @@
 ---
-title: "Case 9: Joshu's Four Gates"
+title: "Joshu's Four Gates"
 meta_title: "Joshu's Four Gates"
 description: "Joshu's Four Gates"
 date: 2024-08-22

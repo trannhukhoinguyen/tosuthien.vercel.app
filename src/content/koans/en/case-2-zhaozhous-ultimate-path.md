@@ -1,5 +1,5 @@
 ---
-title: "Case 2: Joshu's Supreme Way"
+title: "Joshu's Supreme Way"
 meta_title: "Joshu's Supreme Way"
 description: "Joshu's Supreme Way"
 date: 2024-08-22

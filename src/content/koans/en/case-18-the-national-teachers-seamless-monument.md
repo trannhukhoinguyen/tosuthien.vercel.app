@@ -1,7 +1,7 @@
 ---
-title: "Case 18: The National Teacher’s Seamless Monument"
-meta_title: "Case 18: The National Teacher’s Seamless Monument"
-description: "Case 18: The National Teacher’s Seamless Monument"
+title: "The National Teacher’s Seamless Monument"
+meta_title: "The National Teacher’s Seamless Monument"
+description: "The National Teacher’s Seamless Monument"
 date: 2024-09-12
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]

@@ -1,7 +1,7 @@
 ---
-title: "Case 100: Baling’s Blown Feather Sword"
-meta_title: "Case 100: Baling’s Blown Feather Sword"
-description: "Case 100: Baling’s Blown Feather Sword"
+title: "Baling’s Blown Feather Sword"
+meta_title: "Baling’s Blown Feather Sword"
+description: "Baling’s Blown Feather Sword"
 date: 2024-09-12
 image: "/images/image-placeholder.jpg"
 types: ["Type 1"]

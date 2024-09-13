@@ -2,7 +2,7 @@
 title: "MỘT NGÀY ĐẸP CỦA VÂN MÔN"
 meta_title: "MỘT NGÀY ĐẸP CỦA VÂN MÔN"
 description: "MỘT NGÀY ĐẸP CỦA VÂN MÔN"
-date: 2024-09-12
+date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
 masters: [""]
@@ -10,10 +10,10 @@ tags: ["Koan"]
 draft: false
 ---
 
-CỬ: 
+### CỬ 
 Vân Môn Đại Sư nói, “ Không hỏi ông về trước ngày mười lăm, sau ngày mười lăm thử nói một câu xem?” Rồi tự trả lời, “ Ngày nào cũng là một ngày đẹp.”
 
-BÌNH: 
+### BÌNH 
 Vân Môn Đại Sư thoạt đầu đến tham kiến Mục Châu. Lối dạy của mục Châu tựa như máy quay điện cuốn, thật khó mà bám víu. Bình thường cách đón tiếp người khác của Mục Châu là hễ bất cứ ai vừa bước vào là Mục Châu đã nắm lấy rồi nói, “ Nói, nói” Người kia vừa suy nghĩ, Mục Châu đã đẩy ra ngoài nói. “ Cái dùi xoáy thời nhà Tần!” Lúc Vân Môn đến gặp Mục Châu, lần thứ ba mới dám gõ cửa. Mục Châu hỏi “ Ai” Vân Môn nói, “Văn Yển”.Mục Châu vừa hé cửa, Vân Môn đã nhào vào. Mục Châu giữ lại nói, “Nói, nói!” Vân Môn vừa suy nghĩ, bèn bị Mục Châu đẩy ra. Một chân của Vân Môn vẫn còn kẹt trong then cửa, Mục Châu đóng sầm cửa lại, làm gẫy mất chân Vân Môn. Vân Môn đau quá hét lên, song lập tức đại ngộ. Sau này những lời Vân Môn nói ra đều giống với Mục Châu. Sau đó Vân Môn còn ở trong nhà của Thượng Thư Trần Tháo ba năm.
 Mục Châu dạy Vân Môn đến Tuyết Phong . Lúc đến nơi, Vân Môn bước ra khỏi tăng chúng hỏi, “ Phật là gì?” Tuyết Phong nói, “Đừng có nói mơ nữa .”Vân Môn bèn cúi lạy. Rồi ở đó ba năm. Một hôm Tuyết Phong hỏi, “Chỗ thấy của ông như thế nào?” Vân Môn nói , “Chỗ thấy của tôi chẳng khác chút nào với chỗ thấy của các bậc thánh thời xưa.”
 Hòa Thượng Linh Thụ suốt hai mươi năm không bao giờ bổ nhậm một vị thủ toà nào. Thường nói, “Thủ tòa của tôi mới sinh,” và “ Thủ tòa của tôi đang chăn trâu.” Lại cũng nói, “ Thủ tòa của tôi đang hành cước.”Bỗng nhiên một hôm ra lệnh cho đánh chuông để tiếp vị thủ tòa ngoài cửa. Tăng chúng đều kinh ngạc, song quả nhiên Vân Môn đến thật. Linh Thụ bèn mời Vân Môn vào ở trong phòng dành cho thủ tòa. Thiên hạ gọi Linh Thụ là Tri Thánh Thiền Sư bởi vì thầy ta biết trước các việc trong quá khứ cũng như vị lai.
@@ -25,7 +25,7 @@ Sau đó dưới trướng của Vân Môn xuất hiện bốn bậc minh triế
 Vân Môn đưa ra một vấn đề để dạy chúng, “Không hỏi ông về trước ngày mười lăm, sau ngày mười lăm thử nói một câu xem?” Sư cắt đoạn hết các sai biệt chi li chẳng thông phàm thánh. Rồi lại tự trả lời, “ Ngày nào cũng là một ngày đẹp.” Trước ngày mười lăm,” lời này cũng cắt đứt hết các sai biệt chi li. Có điều Vân Môn không nói rằng sau ngày mười lăm là ngày mười sáu. Người đời sau cứ tha hồ giải thích, song có gì là nhằm nhò? Vân Môn lập tông phong, đương nhiên phải có chỗ vì người. Vừa dạy xong, lại tự đáp cho mọi người, “Ngày nào cũng là một ngày đẹp.” Lời này thông quá kim cổ, từ trước đến sau trong một lúc đoán định cả.
 Sư núi tôi nói năng như vậy, cũng là dựa theo ngôn ngữ mà hiểu. Giết người không bằng tự giết mình. Vừa mới lập nên nguyên tắc là đã rơi vào hố sâu. Trong một câu của Vân Môn đã gom đủ cả ba câu. Đó chính là tông chỉ gia phong của sư. Bất cứ một lời dạy nào của Vân Môn cũng phải được truy về nguồn. Nếu không như thế thì chỉ võ đoán mà thôi. Việc này không cần đến nhiều luận thuyết như thế. Nếu như hiểu thấu đương nhiên lạp tức thấy ngay ý chỉ của cổ nhân. Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
-TỤNG:
+### TỤNG
 ```
 Bỏ đi một,
 Nêu lên bẩy.
@@ -40,7 +40,7 @@ Búng thay, thương thay “ thuấn nhã đa.”[17]
 Động đậy ta cho ba chục gậy!
 ```
 
-BÌNH: 
+### BÌNH TỤNG
 Tuyết Đậu tụng cổ bao giờ cũng được như vậy.Trước tiên bao giờ cũng lấy Kim Cương Bảo Kiếm múa một hồi, sau đó mới để lộ một chút phong qui. Tuy như vậy, song rốt cuộc không thể hiểu theo lối nhị nguyên được.
 “Bỏ đi một, nêu lên bảy.” Người ta thường hay hiểu đạo theo con số, nói rằng, “ Bỏ đi một là việc của trước ngày mười lăm.” Tuyết Đậu đột nhiên hạ bút viết hai câu đã ấn phá tất cả, song lại để lộ một chút cho người ta thấy. “ Bỏ đi một, nêu lên bảy”. Điều kỵ nhất là đừng dựa vào ngôn ngữ mà so đo. Tại sao vậy? Bánh khô làm sao có chút nước? Thiên hà phần nhiều rơi vào ý thức. Cần phải hiểu ý nghĩa của vấn đề trước khi ngôn ngữ được thốt ra. Lúc ấy đại dụng hiện tiền tự nhiên là mình sẽ thấy được.
 Đó chính là lý do mà Thích Ca Mâu Ni sau khi thành đạo ở nước Ma Kiệt Đà đã bỏ ra hăm mốt ngày để tư duy về vấn đề này. “ Các pháp tịch diệt tướng, không đạt bằng ngôn ngữ. Ta không nên thuyết pháp, mau nhập đạt bằng ngôn ngữ. Ta không nên thuyết pháp, mau nhập Niết Bàn ngay.” Đến chỗ đó rồi thì ngay cả Đức Thích Ca cũng không có chỗ để mở miệng. Song nhờ ở phương tiện thiện xảo, sau khi thuyết pháp cho năm vị tỳ kheo xong, ngài đã đến ba trăm sáu mươi chúng hội, giải thích giáo lý cho người thời ấy. Tất cả những điều này chỉ là phương tiện, cho nên ngài mới cởi bỏ y phục rách rưới của người hành giả. Bất đắc dĩ mới phải noi theo ý nghĩa công ước của chỗ thiển cận để mà dẫn dụ các ông. Nếu như bảo ngay một lúc nói lên sự thật, hẳn là đã chẳng có đến một người, hay thậm chí nửa người, hiểu nổi.

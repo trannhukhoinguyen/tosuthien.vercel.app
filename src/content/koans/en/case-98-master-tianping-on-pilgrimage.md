@@ -1,7 +1,7 @@
 ---
-title: "Case 98: Master Tianping on Pilgrimage"
-meta_title: "Case 98: Master Tianping on Pilgrimage"
-description: "Case 98: Master Tianping on Pilgrimage"
+title: "Master Tianping on Pilgrimage"
+meta_title: "Master Tianping on Pilgrimage"
+description: "Master Tianping on Pilgrimage"
 date: 2024-09-12
 image: "/images/image-placeholder.jpg"
 types: ["Type 1"]

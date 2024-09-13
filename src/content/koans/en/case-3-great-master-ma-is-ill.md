@@ -1,5 +1,5 @@
 ---
-title: "Case 3: Master Ba Is Ill"
+title: "Master Ba Is Ill"
 meta_title: "Master Ba Is Ill"
 description: "Master Ba Is Ill"
 date: 2024-08-22

@@ -1,5 +1,5 @@
 ---
-title: "Case 4: Tokusan with His Bundle"
+title: "Tokusan with His Bundle"
 meta_title: "Tokusan with His Bundle"
 description: "Tokusan with His Bundle"
 date: 2024-08-22
