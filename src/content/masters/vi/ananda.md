@@ -2,7 +2,7 @@
 title: "A Nan Đà"
 meta_title: "A Nan Đà"
 description: "A Nan Đà"
-date: 2024-09-13
+date: 2024-09-14
 image: "https://blog.phapthihoi.org/uploads/2021/02/02-A-Nan.jpg"
 tags: ['India']
 draft: false

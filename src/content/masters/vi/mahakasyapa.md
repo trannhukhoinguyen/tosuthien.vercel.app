@@ -2,7 +2,7 @@
 title: "Mahākāśyapa"
 meta_title: "Mahākāśyapa"
 description: "Mahākāśyapa"
-date: 2024-09-13
+date: 2024-09-14
 image: "https://blog.phapthihoi.org/uploads/2021/02/01-Ma-Ha-Ca-Diep.jpg"
 tags: ['India']
 draft: false

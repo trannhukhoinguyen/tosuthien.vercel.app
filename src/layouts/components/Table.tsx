@@ -104,16 +104,19 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
         {currentData.map((item) => (
           <tr key={item.id}>
             <td>{item.id}</td>
-                              <td><a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}>{item.name_en}</a></td>
-            {lang === 'es' && <td><a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}>{item.name_es}</a></td>}
-            {lang === 'de' && <td><a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}>{item.name_de}</a></td>}
-            {lang === 'fr' && <td><a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}>{item.name_fr}</a></td>}
-            {lang === 'vi' && <td><a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}>{item.name_vi}</a></td>}
-            {lang === 'ru' && <td><a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}>{item.name_ru}</a></td>}
-            {lang === 'zh' && <td><a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}>{item.name_zh}</a></td>}
-            {lang === 'ja' && <td><a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}>{item.name_ja}</a></td>}
-            {lang === 'ko' && <td><a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}>{item.name_ko}</a></td>}
-            {lang === 'ar' && <td><a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}>{item.name_ar}</a></td>}
+                              <td>
+                                <a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))} title="read more">📖</a>
+                                {item.name_en}
+                              </td>
+            {lang === 'es' && <td>{item.name_es}</td>}
+            {lang === 'de' && <td>{item.name_de}</td>}
+            {lang === 'fr' && <td>{item.name_fr}</td>}
+            {lang === 'vi' && <td>{item.name_vi}</td>}
+            {lang === 'ru' && <td>{item.name_ru}</td>}
+            {lang === 'zh' && <td>{item.name_zh}</td>}
+            {lang === 'ja' && <td>{item.name_ja}</td>}
+            {lang === 'ko' && <td>{item.name_ko}</td>}
+            {lang === 'ar' && <td>{item.name_ar}</td>}
             <td>{item.birth_death_time}</td>
             <td>{item.sect}</td>
             <td>{item.country}</td>
