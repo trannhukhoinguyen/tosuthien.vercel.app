@@ -2,7 +2,7 @@
 title: "Parsvika"
 meta_title: "Parsvika"
 description: "Parsvika"
-date: 2024-09-13
+date: 2024-09-14
 image: "https://blog.phapthihoi.org/uploads/2021/02/10-Hiep-Ton-Gia.jpg"
 tags: ['India']
 draft: false

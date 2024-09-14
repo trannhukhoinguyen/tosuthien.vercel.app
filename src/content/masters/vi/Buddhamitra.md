@@ -2,7 +2,7 @@
 title: "Buddhamitra"
 meta_title: "Buddhamitra"
 description: "Buddhamitra"
-date: 2024-09-13
+date: 2024-09-14
 image: "https://blog.phapthihoi.org/uploads/2021/02/09-Phuc-Da-Mat-Da.jpg"
 tags: ['India']
 draft: false

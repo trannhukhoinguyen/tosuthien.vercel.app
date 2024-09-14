@@ -2,7 +2,7 @@
 title: "Punyayasas"
 meta_title: "Punyayasas"
 description: "Punyayasas"
-date: 2024-09-13
+date: 2024-09-14
 image: "https://blog.phapthihoi.org/uploads/2021/02/11-Phu-Na-Da-Xa.jpg"
 tags: ['India']
 draft: false

@@ -2,7 +2,7 @@
 title: "Upagupta"
 meta_title: "Upagupta"
 description: "Upagupta"
-date: 2024-09-13
+date: 2024-09-14
 image: "https://blog.phapthihoi.org/uploads/2021/02/04-Uu-Ba-Cuc-Da.jpg"
 tags: ['India']
 draft: false

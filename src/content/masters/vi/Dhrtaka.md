@@ -2,7 +2,7 @@
 title: "Dhrtaka"
 meta_title: "Dhrtaka"
 description: "Dhrtaka"
-date: 2024-09-13
+date: 2024-09-14
 image: "https://blog.phapthihoi.org/uploads/2021/02/05-De-Da-Ca.jpg"
 tags: ['India']
 draft: false

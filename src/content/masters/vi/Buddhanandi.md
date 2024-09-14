@@ -2,7 +2,7 @@
 title: "Buddhanandi"
 meta_title: "Buddhanandi"
 description: "Buddhanandi"
-date: 2024-09-13
+date: 2024-09-14
 image: "https://blog.phapthihoi.org/uploads/2021/02/08-Phat-Da-Nan-De.jpg"
 tags: ['India']
 draft: false
