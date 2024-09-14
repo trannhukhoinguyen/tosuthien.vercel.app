@@ -11,6 +11,7 @@ import PageHeader from "@/partials/PageHeader.astro";
 import PostSidebar from "@/partials/PostSidebar.astro";
 import type { ContentEntryMap } from "astro:content";
 
+const BLOG_FOLDER = "faqs";
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
     params: { lang: lang || undefined },
@@ -18,7 +19,6 @@ export function getStaticPaths() {
   return paths;
 }
 const { lang } = Astro.params;
-const BLOG_FOLDER = "faqs";
 const postIndex = await getListPage(
   BLOG_FOLDER,
   lang as keyof ContentEntryMap
@@ -50,7 +50,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
           {
             currentPosts.map((post) => (
               <div class="mb-14 md:col-6">
-                <BlogCard data={post} slugDefault='faqs' />
+                <BlogCard data={post} slugDefault={BLOG_FOLDER} />
               </div>
             ))
           }

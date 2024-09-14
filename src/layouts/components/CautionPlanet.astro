@@ -46,7 +46,7 @@ data.slug = modifiedSlug;
     <li class="mr-4 inline-block">
       {
         masters?.map((master: string, index: number) => (
-          <a href={slugSelector(`/zen-masters/${slugify(master)}`, lang)}>
+          <a href={slugSelector(`/masters/${slugify(master)}`, lang)}>
             <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
             {humanize(master)}
           </a>

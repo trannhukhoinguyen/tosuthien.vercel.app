@@ -12,7 +12,7 @@
         { "name": "서적", "url": "/books" }
       ]
     },
-    { "name": "선 마스터", "url": "/zen-masters" },
+    { "name": "선 마스터", "url": "/masters" },
     { "name": "다운로드\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [

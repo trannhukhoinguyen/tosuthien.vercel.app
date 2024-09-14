@@ -56,8 +56,10 @@ const mastersCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     meta_title: z.string().optional(),
-    image: z.string().optional(),
     description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    tags: z.array(z.string()).default([""]),
     draft: z.boolean().optional(),
   }),
 });
@@ -139,7 +141,7 @@ export const collections = {
   faqs: faqsCollection,
   koans: koansCollection,
   cautions: cautionsCollection,
-  zen_masters: mastersCollection,
+  masters: mastersCollection,
   pages: pagesCollection,
   content: contentCollection,
   huatous: huatousSchema,

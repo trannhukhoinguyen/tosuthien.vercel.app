@@ -54,8 +54,8 @@ export async function getStaticPaths() {
 const { category, lang } = Astro.params;
 
 // get posts by category
-const BLOG_FOLDER = "blog";
-const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
+const BLOG_FOLDER = "faqs";
+const posts = await getSinglePage("faqs", lang as keyof ContentEntryMap);
 const filterByCategories = taxonomyFilter(posts, "categories", category!);
 const sortedPosts = sortByDate(filterByCategories);
 ---
@@ -68,7 +68,7 @@ const sortedPosts = sortByDate(filterByCategories);
         {
           sortedPosts.map((post) => (
             <div class="mb-14 md:col-6 lg:col-4">
-              <BlogCard data={post} />
+              <BlogCard data={post}/>
             </div>
           ))
         }

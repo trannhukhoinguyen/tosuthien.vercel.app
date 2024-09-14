@@ -9,7 +9,7 @@ export async function getStaticPaths() {
   const paths = await Promise.all(
     supportedLang.map(async (lang) => {
       const posts = await getSinglePage(
-        "koans",
+        'koans',
         lang as keyof ContentEntryMap
       );
 
@@ -37,5 +37,5 @@ const { title, meta_title, description, image } = post.data;
   description={description}
   image={image}
 >
-  <PostSingle post={post} slugDefault="koans" />
+  <PostSingle post={post} slugDefault='koans' />
 </Base>

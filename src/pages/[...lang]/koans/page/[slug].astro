@@ -11,6 +11,7 @@ import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
 import PostSidebar from "../../../../layouts/partials/PostSidebar.astro";
 
+const BLOG_FOLDER = 'koans';
 const { default_language } = config.settings;
 
 let { slug, lang } = Astro.params;
@@ -20,10 +21,10 @@ if (!lang) {
 }
 
 const postIndex: any = await getListPage(
-  "koans",
+  'koans',
   lang as keyof ContentEntryMap
 );
-const posts = await getSinglePage("koans", lang as keyof ContentEntryMap);
+const posts = await getSinglePage(BLOG_FOLDER, lang as keyof ContentEntryMap);
 const allTypes = await getAllTaxonomy(
   lang as keyof ContentEntryMap,
   "types"
@@ -44,7 +45,7 @@ export async function getStaticPaths() {
   const paths = await Promise.all(
     supportedLang.map(async (lang) => {
       const posts = await getSinglePage(
-        "koans",
+        BLOG_FOLDER,
         lang as keyof ContentEntryMap
       );
       const totalPages = Math.ceil(posts.length / config.settings.pagination);
@@ -84,13 +85,13 @@ export async function getStaticPaths() {
             {
               currentPosts.map((post) => (
                 <div class="mb-14 md:col-6">
-                  <BlogCard data={post} slugDefault="koans" />
+                  <BlogCard data={post} slugDefault={BLOG_FOLDER} />
                 </div>
               ))
             }
           </div>
           <Pagination
-            section={"koans"}
+            section={BLOG_FOLDER}
             currentPage={currentPage}
             totalPages={totalPages}
           />

@@ -12,7 +12,7 @@
         { "name": "Книги", "url": "/books" }
       ]
     },
-    { "name": "Мастера Дзен", "url": "/zen-masters" },
+    { "name": "Мастера Дзен", "url": "/masters" },
     { "name": "Скачать\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [

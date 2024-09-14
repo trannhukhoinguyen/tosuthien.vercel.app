@@ -12,7 +12,7 @@
         { "name": "Livres", "url": "/books" }
       ]
     },
-    { "name": "Maîtres Zen", "url": "/zen-masters" },
+    { "name": "Maîtres Zen", "url": "/masters" },
     { "name": "Télécharger\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [

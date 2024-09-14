@@ -12,7 +12,7 @@
         { "name": "Sách", "url": "/books" }
       ]
     },
-    { "name": "Thiền sư", "url": "/zen-masters" },
+    { "name": "Thiền sư", "url": "/masters" },
     { "name": "Tải về\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [

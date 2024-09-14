@@ -1,11 +1,11 @@
 ---
 title: "Trung Phong Minh Bản"
-meta_title: "Trung Phong Minh Bản",
+meta_title: "Trung Phong Minh Bản"
 description: "Trung Phong Minh Bản"
-date: 2024-09-13,
+date: 2024-09-13
 image: "/images/avatar.png"
-tags: [],
-draft: false,
+tags: ['China']
+draft: false
 ---
 
 > Trung Phong Minh Bản

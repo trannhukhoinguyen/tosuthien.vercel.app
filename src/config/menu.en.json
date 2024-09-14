@@ -12,7 +12,7 @@
         { "name": "Books", "url": "/books" }
       ]
     },
-    { "name": "Zen Masters", "url": "/zen-masters" },
+    { "name": "Zen Masters", "url": "/masters" },
     { "name": "Download\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [

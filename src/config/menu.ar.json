@@ -12,7 +12,7 @@
         { "name": "كتب", "url": "/books" }
       ]
     },
-    { "name": "سادة الزن", "url": "/zen-masters" },
+    { "name": "سادة الزن", "url": "/masters" },
     { "name": "تحميل\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [

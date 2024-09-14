@@ -4,8 +4,8 @@ import PostSingle from "@/layouts/PostSingle.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import type { ContentEntryMap } from "astro:content";
-import BlogCard from "../../../layouts/components/BlogCard.astro";
 
+const BLOG_FOLDER = "faqs";
 export async function getStaticPaths() {
   const paths = await Promise.all(
     supportedLang.map(async (lang) => {
@@ -38,5 +38,5 @@ const { title, meta_title, description, image, master, categories, tags } = post
   description={description}
   image={image}
 >
-  <PostSingle post={post} slugDefault="faqs" />
+  <PostSingle post={post} slugDefault={BLOG_FOLDER} />
 </Base>
