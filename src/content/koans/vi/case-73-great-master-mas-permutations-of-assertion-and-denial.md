@@ -1,7 +1,7 @@
 ---
-title: "Koan 1"
-meta_title: ""
-description: "this is meta description"
+title: "TỨ CÚ BÁCH PHI CỦA MÃ ĐẠI SƯ"
+meta_title: "TỨ CÚ BÁCH PHI CỦA MÃ ĐẠI SƯ"
+description: "TỨ CÚ BÁCH PHI CỦA MÃ ĐẠI SƯ"
 date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
@@ -9,12 +9,6 @@ masters: [""]
 tags: ["Koan"]
 draft: false
 ---
-
-
-
-TẮC THỨ BẢY MƯƠI BA
-
-TỨ CÚ BÁCH PHI CỦA MÃ ĐẠI SƯ
 
 ### THÙY
 Phàm việc thuyết Pháp, vô thuyết vô thí; còn người nghe Pháp, cũng chẳng nghe chẳng đắc. Thuyết (Pháp) đã là vô thuyết vô thí, chi bằng đừng thuyết? Nghe đã chẳng nghe chẳng đắc, chi bằng đừng nghe? Vậy thì vô thuyết với vô thính vẫn còn là hơn. Còn như giờ đây các ông nghe sư núi tôi giảng thuyết, làm thế nào để tránh lỗi lầm ấy đây? Thử nêu lên cho những người có mắt nhìn thấu được quan kiện xem.
@@ -35,7 +29,7 @@ Người thời buổi này chỉ lo bám vào ngôn ngữ mà sống. Họ bả
 Há không nghe cổ nhân nói, “Đồ thùng đen!” hay “Đồ Chồn hoang!” hay “Đồ mù!” Thử nói xem là khác hay giống với một đường gây một tiếng hét. Nếu như các ông biết rằng thiên sai vạn biệt chỉ là một loại, thì tự nhiên là các ông có thể tám hướng thụ địch được. Các ông muốn hiểu “ Tạng đầu trắng, Hải đầu đen? Không? Ngũ Tổ nói, “ Phong hầu tiên sinh.”
 
 ### TỤNG
-
+```
 Tạng đầu trắng Hải đầu đen,
 
 Nạp tăng mắt sáng hiểu không được.
@@ -47,7 +41,7 @@ Lâm Tế chưa phải quân cướp ngày.
 Ly tứ cú tuyệt bách phi,
 
 Thiên thượng nhân gian chỉ ta biết.
-
+```
 ### BÌNH TỤNG
 Tạng đầu trắng, Hải đầu đen.” Thử nói xem có nghĩa là gì? Chỉ chút này thôi mà nạp tăng trong thiên hạ không nhảy ra khỏi được. Nhìn xem khúc cuối Tuyết Đậu kết luận mới khéo. Thầy ta nói rằng dù các ông có là các nạp tăng mắt sáng đi nữa các ông vẫn không hiểu nỗi. Cái này gọi là bí quyết thần tiên, không trao truyền từ cha cho con. Thích Ca Mâu Ni thuyết pháp một đời, cuối cùng lại đơn truyền tâm ấn, gọi là Kim Cương Vương Bảo Kiếm, gọi là Chính Vị. Những việc dây dưa này là những cái không thể tránh được. Cổ nhân để lộ chút sắc bén của mình. Nếu như các ông là những người thấu qua được, thì tha hồ mà dùi đục để đạt được đại tự tại. Nếu như các ông không thấu qua được, thì cũng vẫn như trước không có chỗ để ngộ nhập. Càng nói càng xa đi.
 

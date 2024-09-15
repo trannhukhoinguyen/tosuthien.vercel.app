@@ -1,7 +1,7 @@
 ---
-title: "BA TIẾNG HÉT CỦA MỤC CHÂU"
-meta_title: "BA TIẾNG HÉT CỦA MỤC CHÂU"
-description: "BA TIẾNG HÉT CỦA MỤC CHÂU"
+title: "BA, BỐN TIẾNG HÉT CỦA MỤC CHÂU"
+meta_title: "BA, BỐN TIẾNG HÉT CỦA MỤC CHÂU"
+description: "BA, BỐN TIẾNG HÉT CỦA MỤC CHÂU"
 date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
@@ -23,16 +23,15 @@ Thử nêu ra xem.
 ### CỬ 
 Mục Châu hỏi ông tăng, “Ông mới từ đâu đến vậy?” Ông tăng bèn hét. 
 Mục Châu nói, “ Lão tang bị ông hét một lần.” Ông tăng lại hét nữa. 
-Mục Châu nói, “Ba bốn tiếng hét, sau đó thì sao?” Ông tăng không nói gì được. 
+Mục Châu nói, “Ba, bốn tiếng hét, sau đó thì sao?” Ông tăng không nói gì được. 
 Mục Châu bèn đánh rồi nói, “Cái gã vô tích sự này.”
 
 ### BÌNH 
 Bất cứ ai muốn chống giữ tông môn của chúng ta đều cần phải có đôi mắt của bậc tông sư cũng như khả năng của bậc tông sư. 
 Mục Châu linh hoạt sắc bén, như thể điện chớp, thích thử mấy vị tòa chủ. 
-
 Thường thì một lời hay nửa câu mà thầy ta thốt ra , đều giống như các bụi gai góc, không thể nào mà dẫm chân sờ tay vào được. 
 
-Mỗi khi có ông tăng nào đến liền nói, “ Công án đã thành , tha cho ông ba chục gậy.’ 
+Mỗi khi có ông tăng nào đến liền nói, “ Công án đã thành , tha cho ông 30 gậy.’ 
 Hoặc thấy có ông tăng nào đến, Mục Châu liền gọi, “Thượng tọa!” Ông tăng vừa quay lại, Mục Châu lại nói, “Đồ khiêng gỗ”. 
 
 Mỗi lúc dạy chúng lại thường nói, “ Chưa có chỗ vào, cần phải tìm chỗ ra chỗ vào. Đã có chỗ vào rồi, không được phụ lòng lão tăng.” Mục Châu vì người khác thường là như vậy cả.
@@ -62,61 +61,6 @@ Có lắm kẻ nói, “cần phải bận tâm đến việc Mục Châu nói b
 Tuyết Đậu nói nếu như thế thì “ cả hai thành ra mù.” Tuyết Đậu giống như thanh ỷThiên trường kiếm, uy phong lẫm lẫm. Nếu như hiểu được ý của Tuyết Đậu tự nhiên hiểu được ngàn điều vạn điều cùng một lúc. Lúc ấy sẽ thấy rằng phần cuối tụng của Tuyết Đậu chỉ là cước chú mà thôi. Lại nói, “ Ai mù đâu?” Chủ mù hay là khách mù? Chứ không phải là chủ khách đều cùng mù sao? Tôi xin nêu ra để người trong thiên hạ cùng thấy.” Đây chính là chỗ sống động, Tuyết Đậu một lúc tụng ra luôn. Nhưng mà tại sao Tuyết Đậu lại nói, “ Nêu lên cho cả thiên hạ xem?” Thử nói coi, các ông xem như thế nào? Nhắm mắt cũng được, mở mắt cũng được, song còn có ai tránh được chăng?
 
 ***
-
-> **[1]** “Thánh đế đệ nhất nghĩa”: Triết học Phật giáo phân biệt hai sự thật (satyadvaya,nhị đế), (a) paramàrtha (chân đế, hay đệ nhất nghĩa đế) tức là sự thật cứu cánh, thuộc phạm vi (gocàra) của trí giác ngộ, (b) samvrtisatya (tục đế) hay sự thật công ước, thuộc phạm vi của tri thức thường tình. Chữ Phạn Satya trong trường hợp này có thể dịch là “thực tại” (reality).
-
-> **[2]** Ở đây chúng tôi theo bản của Ito Yuten. Bản của Cổ Phương Thiền Sư không có chữ “Phật”.
-
-> **[3]** Nhị Tổ tức Huệ Khả hay Thần Quang. Về tiểu sử của Huệ Khả xin xem Cảnh Đức Truyền Đăng Lục, cùng một dịch giả sẽ xuất bản.
-
-> **[4]** Kinh Phóng Quang Bát Nhã (Pancavimsatisahàsrikàpraj-nàparàmità), một trong những bản kinh quan trọng của Bát Nhã Bộ. xem Taishò 221.
-
-> **[5]** “Tất dũng”: cái thùng đen. Chữ trong Thiền học ám chỉ sự vô minh.
-
-> **[6]** Bản của Cổ Phương Thiền Sư không có đoạn này.
-
-> **[7]** Bản của Cổ Phương Thiền Sư: “ toại bất phục cứu” có vẻ đúng hơn.
-
-> **[8]** Ở đây chúng tôi theo bản của Cổ Phương Thiền Sư
-
-> **[9]** Tam Tổ tức Tăng Xán .Về tiểu sử xin xem Cảnh Đức Truyền Đăng Lục cùng một dịch giả, sẽ xuất bản.
-
-> **[10]** Nguyên văn “đả thành nhất phiến”, ngụ ý không còn phân biệt giữa tâm và cảnh, nhân và ngã.
-
-> **[11]** Tức Mã Tổ Đạo Nhất, về tiểu sử xin xem Cảnh Đức Truyền Đăng Lục, cùng một dịch giả, sẽ xuất bản.
-
-> **[12]** Theo Phật danh Kinh thì trong một ngàn vị Phật thuộc hiền kiếp vị Phật thứ hai trăm lẻ hai tên là Nguyệt Diện Phật, còn vị Phật thứ tám trăm năm mươi tám tên là Nhật Diện Phật.
-
-> **[13]** Kinh Kim Cương (Vajracchedikàprajnàpàramità Sùtra) cũng là một kinh quan trọng thuộc Bát Nhã Hệ.
-
-> **[14]** Tâm là chủ của vạn pháp” có thể so sánh với kệ số 1 trong Dhammapada: Manopubbángamà dhammà manosetthà manomayà, manasà ce padutthena bahàsati va karoti và tatonam dukkham anveti cakkam va vahato padam.(xem V,Fausboll. The Dhammapada. London: Luzac & Co.1900 trang 3).
-
-> **[15]** Tào Khê là nơi Lục Tổ Huệ Năng cư ngụ, cho nên trong truyền thống Thiền chữ Tào Khê thường được dùng để chỉ Lục Tổ.
-
-> **[16]** Không Sinh tức là ngài Tu Bồ Đề (Subhuti).
-
-> **[17]** Thuấn-nhã-đa tức là dịch âm của chữ Phạn “sùyatà”có nghĩa là không.
-
-> **[18]** Có nghĩa là câu hỏi và câu trả lời trực tiếp chạm nhau như thể hai đầu mũi tên.
-
-> **[19]** Pháp môn của phái Thiền Tào Động.
-
-> **[20]** Pháp môn của phái Thiền Lâm Tế. Xin xem thêm trong Lâm Tế Lục, cùng một dịch giả, sắp xuất bản.
-
-> **[21]** Hai đoạn này không có trong bản của Cổ Phương Thiền Sư.
-
-> **[22]** “minh”.Bản của Ito Yeten: “viên” (viên mãn).
-
-> **[23]** Thỉnh ích, có nghĩa là tham khảo thêm với bậc thầy.
-
-> **[24]** Phần Dương Thiện Chiểu (947-1024) thuộc dòng Lâm Tế, có công trong việc tổng hợp các giáo lý của nhiều tông phái Thiền khác nhau..
-
-> **[25]** “Trần” có nghĩa là đối tượng của cảm quan.
-
-> **[26]** Bản của Cổ Phương Thiền Sư không có câu này.
-
-> **[27]** Thược-ca la phiên âm của chữ Phạn “súkla” có nghĩa là trong sạch.
-
-> **[28]** Theo bản của Ito Yuten: “ Phật đưa nắm tay lên hỏi, “mở hay đóng?”
-
-> **[29]** Lời nói từ Kinh Dịch
+```
+[29] Lời nói từ Kinh Dịch
+```

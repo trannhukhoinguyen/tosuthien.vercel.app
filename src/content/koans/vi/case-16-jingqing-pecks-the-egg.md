@@ -137,14 +137,39 @@ Thiên hạ nạp tăng mõ vô ích.
 ```
 
 ### BÌNH TỤNG
-*“Cổ Phật có gia phong”*, chỉ một câu đó thôi Tuyết Đậu đã tụng hết “công án” này rồi. Những kẻ thò mặt ra chẳng thể nào đến gần được. Nếu như đến gần được thì sẽ bị rơi từ đỉnhcao vạn trượng. Ngay khi các ông vừa thò đầu ra , là các ông đã rơi vào cỏ. Dù cho các ông có tung hoành được đinữa, cũng chẳng đáng để ra sức. Tuyết Đậu nói, “ Cổ Phật có gia phong.” Không phải bây giờ mới như thế.Lúc đức Thích Ca mới sinh ra, một tay chỉ trời, một tay chỉ đất, mắt nhìn bốn phương nói, “ Thiên thượng thiên hạ duy ngã độc tôn.” Vân Môn nói, “ Nếu như lúc đó ta mà thấy ông ta, ta sẽ đập cho một gậy chết tốt rồi ném cho chó ăn, để mong cho thiên hạ được thái bình.” Chỉ như vậy người ta mới trả lời thích đáng được. Cho nên các phương tiện cắn mổ đều là gia phong của cổ Phật.
-Nếu như các ông đạt được đạo này, các ông có thể một quyền đấm đổ Hoàng Hạc Lâu, một cước đá loạn Anh Vũ Châu[25].Giống như thể một khối lửa, ai đến gần sẽ bị cháy mặt. Giống như Thái A Kiếm, ai đùa rỡn với nó sẽ tang thân mất mạng. Việc này chỉ có những ai đã thấu thoát, đã được giải thoát mới có thể như thế được. Còn nếu như mê mờ căn nguồn vướng mắc ngôn ngữ thì không cách chi mà nắm bắt được cách nói chuyện này.
+*“Cổ Phật có gia phong”*, chỉ một câu đó thôi Tuyết Đậu đã tụng hết “công án” này rồi. Những kẻ thò mặt ra chẳng thể nào đến gần được. 
+Nếu như đến gần được thì sẽ bị rơi từ đỉnhcao vạn trượng. Ngay khi các ông vừa thò đầu ra , là các ông đã rơi vào cỏ. 
+Dù cho các ông có tung hoành được đinữa, cũng chẳng đáng để ra sức. Tuyết Đậu nói, “Cổ Phật có gia phong.” 
+Không phải bây giờ mới như thế.
+Lúc đức Thích Ca mới sinh ra, một tay chỉ trời, một tay chỉ đất, mắt nhìn bốn phương nói, “Thiên thượng thiên hạ duy ngã độc tôn.” 
+Vân Môn nói, “Nếu như lúc đó ta mà thấy ông ta, ta sẽ đập cho một gậy chết tốt rồi ném cho chó ăn, để mong cho thiên hạ được thái bình.” 
+Chỉ như vậy người ta mới trả lời thích đáng được. Cho nên các phương tiện cắn mổ đều là gia phong của cổ Phật.
+Nếu như các ông đạt được đạo này, các ông có thể một quyền đấm đổ Hoàng Hạc Lâu, một cước đá loạn Anh Vũ Châu [25].
+Giống như thể một khối lửa, ai đến gần sẽ bị cháy mặt. Giống như Thái A Kiếm, ai đùa rỡn với nó sẽ tang thân mất mạng. 
+Việc này chỉ có những ai đã thấu thoát, đã được giải thoát mới có thể như thế được. 
+Còn nếu như mê mờ căn nguồn vướng mắc ngôn ngữ thì không cách chi mà nắm bắt được cách nói chuyện này.
 *“Đối đáp bị dè bỉu”*. 
 
-Đây chính là một chủ một khách một vấn một đáp. Ngay trong vấn đáp đã có dè bỉu. Đó gọi là “đối đáp bị dè bỉu”. Tuyết Đậu thâm hiểu việc này, cho nên chỉ tụng tất cả trong hai câu.
-Cuối cùng Tuyết Đậu đi vào bãi cỏ để giải thích thấu triệt cho các ông. “Mẹ con không biết nhau, hỏi ai cũng cắn mổ?’ Tuy gà mẹ cắn, song cũng không thể khiến gà con mổ ra. Tuy gà con mổ ra, song cũng không thể khiến gà mẹ cắn. Gà mẹ gà con không biết nhau, vào lúc cắn mổ, ai đồng thời cắn mổ? Nếu hiểu như vậy cũng chưa thể thoát ra khỏi câu cuối cùng của Tuyết Đậu được. 
+Đây chính là một chủ một khách một vấn một đáp. Ngay trong vấn đáp đã có dè bỉu. Đó gọi là “đối đáp bị dè bỉu”. 
+Tuyết Đậu thâm hiểu việc này, cho nên chỉ tụng tất cả trong hai câu.
+Cuối cùng Tuyết Đậu đi vào bãi cỏ để giải thích thấu triệt cho các ông. “Mẹ con không biết nhau, hỏi ai cũng cắn mổ?’ 
+Tuy gà mẹ cắn, song cũng không thể khiến gà con mổ ra. Tuy gà con mổ ra, song cũng không thể khiến gà mẹ cắn. 
+Gà mẹ gà con không biết nhau, vào lúc cắn mổ, ai đồng thời cắn mổ? 
+Nếu hiểu như vậy cũng chưa thể thoát ra khỏi câu cuối cùng của Tuyết Đậu được. 
 
-Tại sao? Há không nghe Hương Nghiêm nói, “ Con được. Tại sao? Há không nghe Hương NGhiêm nói, “ Con mổ mẹ cắn, con tỉnh không vỡ. Mẹ con đều quên, ứng duyên không sai. Cùng đường xướng họa, huyền diệu độc hành.” Tuyết Đậu đúng là lạc vào bãi cỏ gây rắc rối nói rằng, “ Cắn” .Một chữ này tụng câu trả lời của Kính Thanh rằng, “ còn sống được không?” “Tỉnh” là để tụng câu trả lời của ông tăng rằng, “ Nếu không sống được thế nào cũng bị người ta chê cười.” Tại sao Tuyết Đậu lại nói, “ Còn trong vỏ”? Tuyết Đậu phân biệt được trắng đen trong ánh đá lửa, biện rõ được đầu mối của sự vật vớitâm cơ như điện chớp.
+Tại sao? Há không nghe Hương NGhiêm nói, “Con mổ mẹ cắn, con tỉnh không vỡ. Mẹ con đều quên, ứng duyên không sai. 
+Cùng đường xướng họa, huyền diệu độc hành.” 
+Tuyết Đậu đúng là lạc vào bãi cỏ gây rắc rối nói rằng, “ Cắn”.
+Một chữ này tụng câu trả lời của Kính Thanh rằng, “còn sống được không?” 
+“Tỉnh” là để tụng câu trả lời của ông tăng rằng, “Nếu không sống được thế nào cũng bị người ta chê cười.” 
+
+Tại sao Tuyết Đậu lại nói, “Còn trong vỏ”? Tuyết Đậu phân biệt được trắng đen trong ánh đá lửa, biện rõ được đầu mối của sự vật với tâm cơ như điện chớp.
+
 Kính Thanh nói, “Ông cũng là người trong cỏ” 
-Tuyết Đậu nói, *“Bị đánh thêm”* Chỗ này có hơi khó Kính Thanh nói, “Ông cũng là người trong cỏ”. Có thể bảo là Kính Thanh móc mắt ông tăng kia đi được chăng? Câu này phải chăng nói rằng ông ta vẫn còn trong vỏ? Nhưng mà những điều này chẳng có gì là đúng cả. Tại sao lại thế? Nếu như hiểu được, người ta có thể đi hành cước khắp nơi mà vẫn báo ơn (cho thầy) được.
-Lúc sư núi tôi nói như thế, thì cũng hóa ra người trong cỏ rồi. *“Thiên hạ nạp tăng mồ vô ích”*. Ai là kẻ không đặt tên và mô tả? Đến chổ này Tuyết Đậu không đặt tên hay mô tả được, song lại làm lụy người khác, các nạp tăng trong thiên hạ. Thử nói xem, đâu là chỗ Kính Thanh vì ông tăng kia? Các nạp tăng trong thiên hạ không ai nhảy ra khỏi được cả.
+
+Tuyết Đậu nói, *“Bị đánh thêm”* Chỗ này có hơi khó Kính Thanh nói, “Ông cũng là người trong cỏ”. 
+Có thể bảo là Kính Thanh móc mắt ông tăng kia đi được chăng? Câu này phải chăng nói rằng ông ta vẫn còn trong vỏ? 
+Nhưng mà những điều này chẳng có gì là đúng cả. Tại sao lại thế? Nếu như hiểu được, người ta có thể đi hành cước khắp nơi mà vẫn báo ơn (cho thầy) được.
+Lúc sư núi tôi nói như thế, thì cũng hóa ra người trong cỏ rồi. *“Thiên hạ nạp tăng mồ vô ích”*. 
+Ai là kẻ không đặt tên và mô tả? Đến chổ này Tuyết Đậu không đặt tên hay mô tả được, song lại làm lụy người khác, các nạp tăng trong thiên hạ. 
+Thử nói xem, đâu là chỗ Kính Thanh vì ông tăng kia? Các nạp tăng trong thiên hạ không ai nhảy ra khỏi được cả.

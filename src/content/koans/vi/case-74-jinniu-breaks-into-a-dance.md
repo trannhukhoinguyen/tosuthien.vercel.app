@@ -36,7 +36,7 @@ Tuyết Đậu nói, “ Tuy là thế, song chẳng phải là Kim Ngưu có h�
 Sau đó lúc Trường Khánh thương đường, có ông tăng hỏi, “ Lúc cổ nhân nói, ‘Các Bồ Tát mau ra ăn cơm’, chẳng hay ý chỉ là như thế nào?” Trường Khánh nói, “ cũng giống như thể nhân thụ trai mà tán than vậy.” Các bậc tôn túc từ bi hết sức, lậu đậu không phải là ít. Đúng là “ nhân thụ trai mà tán than. Song các ông thử nói xem, tán than cái gì vậy? Tuyết Đậu tụng rằng:
 
 ### TỤNG
-
+```
 Trong bóng mây trắng cười ha ha,
 
 Hai tay cầm đến trao người ta.
@@ -44,7 +44,7 @@ Hai tay cầm đến trao người ta.
 Nếu là dòng dõi sư tử vàng,
 
 Ngoài ba ngàn dặm vẫn nhìn ra.
-
+```
 ### BÌNH TỤNG
 “Trong bóng mây trắng cười ha ha”. Trường Khánh nói, “ Nhân thụ trai mà tán than.” Tuyết Đậu nói, “ Hai tay cầm đến trao người ta.” Thử nói xem, phải chăng thầy ta chỉ đem cơm đến cho người ta ăn hay là còn có cái gì kỳ đặc hơn nữa? Nếu như các ông có thể hiểu được ngọn ngành của vấn đề này thì các ông đúng là dòng dõi của sư tử lông vàng. Nếu như họ là dòng dõi của sư tử lông vàng, thì Kim Ngưu hẳn đã không cần phải ôm nồi cơm ra trước tăng đường múa rồi cười ha hả, từ xa ngoài ba ngàn dặm họ hẳn đã thấy ra được chỗ sai lầm của thấy ta rồi.
 

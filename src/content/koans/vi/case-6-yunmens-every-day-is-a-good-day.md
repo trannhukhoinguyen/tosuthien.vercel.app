@@ -34,8 +34,8 @@ Lững thững đạp dứt tiếng nước trong.
 Thoáng nhìn thấy rõ vết chim bay,
 Cỏ rậm rạp,
 Khói bồng bềnh.
-Trên vách Không Sinh[16] hoa tơi tả,
-Búng thay, thương thay “ thuấn nhã đa.”[17]
+Trên vách Không Sinh [16] hoa tơi tả,
+Búng thay, thương thay “ thuấn nhã đa.” [17]
 Đừng động đậy,
 Động đậy ta cho ba chục gậy!
 ```
@@ -47,3 +47,10 @@ Tuyết Đậu tụng cổ bao giờ cũng được như vậy.Trước tiên ba
 Thử nói xem thế nào là câu cứu cánh? Đến đây Tuyết Đậu để lộ ra một chút ý nghĩa cho người khác thấy. Các ông chỉ cần ở trên đừng thấy có chư Phật, ở dưới đừng thấy có chúng sinh, bên ngoài chẳng thấy có sơn hà đại địa, bên trong chẳng thấy có kiến văn giác tri, lúc ấy ông sẽ giống như người chết đi sống lại. Với tốt xấu sẽ chẳng còn thấy chúng là khác nhau nữa. Sau đó các ông tha hồ ung dung mà không mất quân bằng.Lúc ấy mới hiểu được lời của Tuyết Đậu rằng, “ Bỏ đi một, nêu lên bẩy. Bốn phương trên dưới chẳng gì bằng.” Nếu như hiểu thấu được câu tụng này, thì quả thật là bốn phương trên dưới chẳng có gì so nổi. Sâm la vạn tượng, cây cỏ thú người, mọi vật đều phản ảnh gia phong của mình mà thôi. Cho nên mới có lời nói, “Ở trong vạn tượng riêng lộ thân, chỉ kẻ tự tin mới là gan. Năm xưa lầm lẫn lang thang kiếm, ngày nay nhìn thấy lửa trong băng.” Thiên thượng thiên hạ duy ngã độc tôn.” Đa số người ta chỉ theo đuổi ngọn mà quên mất gốc. Phải đạt được cái mốc một cách chính đáng, lúc ấy tự nhiên gió thổi cỏ rạp, nước tới sông dâng. “ Lững thững đạp dứt tiếng nước trong.” Lúc ấy dù đi lững thững cũng có thể đạp dứt tiếng nước cả. “ Thoáng nhìn thấy rõ vết chim bay.” Đưa mắt thoáng nhìn, dù cho đó là vết chim bay, cũng thấy rõ ràng như thể có vẽ ra. Đến mức độ này rồi thì “ thổi tắt ngọn lửa dưới vạc dầu, rừng kiếm núi đao đều gãy tan,” chẳng có gì là khó.
 Đến chỗ này rồi, Tuyết Đậu vì lòng từ bi, sợ thiên hạ lại vướng vào cái vòng dững dưng, cho nên lại nói tiếp, “ Cỏ rậm rạp, khói bồng bềnh. Thử nói xem đây là cảnh giới của ai? Có thể gọi là ngày nào cũng là một ngày đẹp đưọc không? May thay mà điều này chẳng có gì là nhằm nhò. Đến lúc “ lững thững đạp dứt tiếng nước trong” cũng không phải, mà “ thoáng nhìn thấy rõ vết chim bay” cũng không phải, mà “ thoáng nhìn thấy rõ vết chim bay” cũng không phải; “ cỏ rậm rạp” cũng không phải, “khói bồng bềnh” cũng không phải. Chẳng có cái gì là phải cả. Lúc ấy chính là “ trên vách không sinh hoa tơi tả” Song cũng còn cần phải qua phía bên kia mới được. Như Tư Bồ Đề tránh nơi ồn ào tìm chốn yên tĩnh, vào trong hang tĩnh tọa, chu thiên rải hoa xuống tán thán. Tu Bồ Đề hỏi, “Ai vậy?” Một trong chư thiên nói, “ Tôi là trời Đế Thích.” Tu Bồ Đề Hỏi, “ Ngài tán thán cái gì vậy?” Đế Thích nói, “ Tôi trọng tôn giả khéo giảng Bát Nhã Ba La Mật.” Tu Bồ Đề nói, “ Tôi chưa từng nói một chữ nào về Bát Nhã, tại sao ngài tán thán?” Đế Thích nói, “ Tôn giả không có nói, tôi không có nghe. Không nói không nghe, đó chính là Bát Nhã chân thật. Rồi lại làm mặt đất rung chuyển, rải hoa xuống nữa.
 Tuyết Đậu cũng có một bài tụng để nói về vấn đề này, “Mưa tạnh mây tan trời nửa sáng, mấy đỉnh chót vót như bích họa. Không Sinh chẳng biết ngồi trông hốc,khiến cho đất động hoa trời rơi.” Đế Thích đã làm cho mặt đất rung chuyển và hoa trời rơi xuống. đến mức đó rồi biết ẩn trốn ở đâu đây? Tuyết Đậu lại nói, “ Ta sợ có trốn cũng không được, cõi ngoài trời đất đầy ăm ắp. Mơ mơ hồ hồ bao giờ dứt, tám phương gió mát mơn tà áo.” Dù cho ông có sách sẽ trơn tru, không một chút lỗi lầm âu lo, cũng vẫn chưa phải là chỗ cùng cực. Rốt cuộc thì thế nào mới là cùng cực. “ Búng tay thương thay thuấn nhã đa.” “ Thuấn nhã đa” là chữ Phạn có nghĩa là tinh thần của hư không, lấy hư không làm thể, không có thân thể hữu hình để xúc chạm. Lúc Phật quang chiếu mới hiện rõ thân hữu hình. Lúc nào ông đạt được “ thuấn nhã đa” RỒI, Tuyết Đậu sẽ búng tay mà thở than. Tuyết Đậu lại nói, “Đừng động đậy!” Động đậy thì như thế nào? Giống như giữa thanh thiên bạch nhật, mở mắt mà ngủ.
+
+***
+```
+[16] Không Sinh tức là ngài Tu Bồ Đề (Subhuti).
+
+[17] Thuấn-nhã-đa tức là dịch âm của chữ Phạn “sùyatà”có nghĩa là không.
+```

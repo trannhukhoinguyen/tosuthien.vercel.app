@@ -36,7 +36,7 @@ Các bậc tông sư giúp người, đôi khi đánh bẫy họ không để h�
 Chân Như nêu lên rằng, “ Các cổ nhân một người làm đầu một người làm đuôi. Chắc chắn thế.” Tuyết Đậu tụng rằng:
 
 TỤNG
-
+```
 Sau nạn Hoàng Sào từng thu kiếm,
 
 Cười lớn phải cần chuyên gia hiểu
@@ -44,8 +44,8 @@ Cười lớn phải cần chuyên gia hiểu
 Ba mươi gậy núi kể còn nhẹ,
 
 Được tiện nghi là mất tiện nghi.
-
-BÌNH 
+```
+### BÌNH TỤNG
 “Sau nạn Hoàng Sào từng thu kiếm, cười lớn phải cần chuyên gia hiểu.” Tuyết Đậu lập tức tụng việc ông tăng kia và Nham Đầu cười lớn. Chỉ chút này thôi mà chẳng ai trong thiên hạ rờ rẫm ra được cả. Thử nói xem, thầy ta cười cái gì? Phải là bậc chuyên gia mới biết được. Trong tiếng cười này có quyền có thực, có chiếu có dụng, có sát có hoạt.
 
 “Ba mươi gậy núi kể còn nhẹ,” là để tụng việc ông tăng kia đến trước mặt Tuyết Phong. Ông tăng này vẫn sơ hốt, cho nên Tuyết Phong mới theo lệnh đánh cho ba mươi gậy và đuổi ra. Thử nói xem, tại sao lại như thế? Các ông muốn tận tình hiểu câu chuyện này sao? “Được tiện nghi là mất tiện nghi.”

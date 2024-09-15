@@ -1,7 +1,7 @@
 ---
-title: "Koan 1"
-meta_title: ""
-description: "this is meta description"
+title: "Ô CỮU HỎI PHÁP ĐẠO"
+meta_title: "Ô CỮU HỎI PHÁP ĐẠO"
+description: "Ô CỮU HỎI PHÁP ĐẠO"
 date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
@@ -9,12 +9,6 @@ masters: [""]
 tags: ["Koan"]
 draft: false
 ---
-
-
-
-TẮC THỨ BẢY MƯƠI LĂM
-
-Ô CỮU HỎI PHÁP ĐẠO
 
 ### THÙY
 Linh Phong bảo kiếm, thường lộ hiện tiền. Có thể giết người, có thể cứu người. Tại đó tại đây, cùng đắc cùng thất. Nếu muốn cầm lên, cứ việc cầm lên. Nếu muốn khai triển, cứ việc khai triển. Thử nói xem,lúc không rơi vào tân chủ, không vướng vào hồi hỗ thì như thế nào/ Thử nêu lên xem.
@@ -38,7 +32,7 @@ Rồi ông tăng cúi lậy. Cái lậy ấy rất là độc, chẳng phải l�
 Nhìn xem các chuyên gia gặp nhau, thủy chung lúc nào cũng chủ khách phân minh. Dù đoạn hố vẫn có thể tiếp tục. Kỳ thực đây cũng chỉ là cái gọi là “ hỗ hoán chi cơ”. Song đến chỗ này rồi họ lại cũng chẳng nói là có chỗ nào để mà hỗ hoán. Bởi vì các bậc cổ nhân này vượt trên tình trần ý tưởng, cho nên chẳng người nào trong họ đề cập đến đắc thất cả. Tuy chỉ là một cuộc đối thoại, song cả hai người họ mới sống động làm sao, cả hai đều có kim chỉ của huyết mạch ( Thiền). Nếu như các ông có thể nhờ công án này mà thấy được, thì các ông có thể suốt ngày đêm lúc nào cũng sáng tỏ cả. Lúc ông tăng bước ra, là lúc cả hai đều buông bỏ. Sau đó là lúc cả hai đều thu vào. Đó gọi là “ hỗ hoán.” Tuyết Đậu tụng như vầy đây:
 
 ### TỤNG
-
+```
 Gọi thì dễ,
 
 Đuổi mới khó.
@@ -54,7 +48,7 @@ Lão Ô Cữu lão Ô Cữu.
 Bao nhiêu loại?
 
 Trao cán cho người quá vô đoan.
-
+```
 ### BÌNH TỤNG
 ”Gọi thì dễ, đuổi mới khó.” Đều là rơi vào cỏ. Tuyết Đậu từ bi rất mức thường nói, “ Gọi rắn dễ, đuổi rắn khó.” Bây giờ nếu dùng một trái bầu rỗng thổi vào đó mà gọi rắn thì dễ, song lúc muốn đuổi rắn đi mới là khó. Cũng giống như trao gậy cho người khác thì dễ, song muốn đoạt lại rồi đuổi người ta đi thì lại khó. Cần phải có khả năng đặc biệt mới có thể đuổi người ta đi được.
 

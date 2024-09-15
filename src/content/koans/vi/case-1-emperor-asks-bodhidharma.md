@@ -54,7 +54,7 @@ Vũ Đế đừng mong ngỏ lời mời.
 Lại nói, “ Ai muốn mời Đạt Ma trở lại cơ?”
 ```
 
-Vũ Đế không hiểu, Đạt Ma bỏ nước Lương mà đi, lão hán này chỉ còn biết lúng túng. Đạt Ma bèn qua sông đến nước Ngụy. Sau này có truyền kỳ nói lại rằng Đạt Ma đạp trên một cọng lau mà qua sông. Điều này không được rõ lắm, có thể là những lời tán tụng mà thôi.[6] 
+Vũ Đế không hiểu, Đạt Ma bỏ nước Lương mà đi, lão hán này chỉ còn biết lúng túng. Đạt Ma bèn qua sông đến nước Ngụy. Sau này có truyền kỳ nói lại rằng Đạt Ma đạp trên một cọng lau mà qua sông. Điều này không được rõ lắm, có thể là những lời tán tụng mà thôi. [6] 
 Lúc ấy Ngụy Minh Đế đang trị vì. Minh Đế vốn thuộc về một chủng tộc phương bắc, gọi là Thác Bạt (Toba) sau này mới tự nhận là người Trung Quốc. Đạt Ma đến đó không đi gặp ai nữa mà lên thẳng núi Thiếu Lâm, ngồi thiền quay mặt vào tường suốt chín năm. Sau đó mới gặp Nhị Tổ. Người ở vùng đó gọi Đạt Ma là “ Bích Quán Bà La Môn”.
 Vũ Đế sau đó hỏi Chí Công, Chí Công nói, “Thế bệ hạ đã biết người ấy là ai chưa?” Vũ Đế nói, “Không biết”. Thử nói xem cái “ không biết” này là một hay khác với cái “không biết” của Đạt Ma. Giống thì có giống, nhưng mà không phải là một. Thiên hạ hay hiểu lầm mà bảo rằng, “ Trước đó, lúc Đạt Ma nói “ không biết” là đang trả lời về Thiền, sau đó lúc Vũ Đế trả lời Chí Công, câu trả lời ấy chỉ nằm ở bình diện tri thức công ước.” May thay điều này chẳng có gì nhằm nhò với ý chỉ của Đạt Ma. Lúc ấy Chí Công hỏi như thế, thử hỏi xem, Vũ Đế phải trả lời như thế nào? Tại sao không một gậy đập chết Chí Công đi cho rồi để khỏi phải lộ vẻ hồ đồ? Vũ Đế lại thành thực mà khẩn khoản đáp là “ không biết”. Chí Công thấy cơ hội, bèn chụp lấy mà nói, “Đó chính là Bồ Tát Quan Âm đến để truyền tâm ấn của Phật.” Vũ Đế bèn ân hận mà sai sứ đuổi theo để mời Đạt Ma trở lại. Ngây ngô thật! Phải chi lúc Chí Công nói, “Đó chính là Bồ Tát Quán âm đến để truyền tâm ấn của Phật,” mà Vũ Đế tống cổ ông ta ra khỏi nước thì hẳn đã còn có gì hay ho hơn.
 
@@ -103,3 +103,20 @@ Tuyết Đậu nói, “Các ông tăng trong thiên hạ, các ông phân biệ
 Sau đó vì lòng từ bi, Tuyết Đậu mới tụng sự tích nhân duyên rằng, “ Do đó lén qua sông, há không sinh gai góc?” Đạt Ma đến xứ này vốn để giải thoát thiên hạ khỏi chỗ dính dấp ràng buộc, nhổ đinh bạt chốt, cắt dọn gai góc. Tại sao Tuyết Đậu lại đi nói rằng Đạt Ma làm gai góc sinh? Cũng không phải chỉ vào buổi ấy, mà ngày nay dưới chân mọi người gai góc cũng đã thâm đến mấy trượng. “Cả nước đuổi theo cũng chẳng về, ngàn xưa ngàn sau nhớ mông suông”, đúng là không phải trượng phu. Thử nói xem, Đạt Ma ở đâu? Nếu thấy được Dạt Ma thì sẽ thấy được chỗ vì người của Tuyết Đậu.
 Tuyết Đậu lại sợ thiên hạ mải đuổi theo kiến thức thường tình, cho nên mở tung khóa chốt, để lộ chỗ thấy của mình mà nói rằng, “Đừng nhớ mong! Gió thổi mặt đất bao giờ ngưng.” Nếu đã không nhớ mong, thì các chuyện dưới chân mình làm sao mà nảy sinh? Tuyết Đậu nói, hiện giờ ở đây, gió trong thổi mặt đất, trên trời dưới đất, có chỗ nào là cùng cực? Tuyết Đậu đem tất cả các việc từ thiên cổ vạn cổ ném ngay ra trước mặt. Không phải chỉ với một mình Tuyết Đậu, mà ngay hiện giờ có chỗ nào là cùng cực? Ngay cả nơi con người các ông,có chỗ nào là cùng cực?
 Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này, cho nên lại mượn vào phương tiện, lớn tiếng nói, “Nơi này còn có Tổ Sư chăng?” Rồi tự trả lời, “Có”. Ở đây Tuyết Đậu chẳng còn ngần ngại bộc lộ lòng dạ của mình cho thiên hạ. Lại tự nói, “Đến đây rửa chân cho lão tăng”.Quả tình là hạ thấp quang huy của người ta một cách quá đáng, song lúc ấy Tuyết Đậu cũng đã cung hiến cả tay chân mình. Thử nói xem, ý của Tuyết Đậu nằm ở chổ nào? Đến chổ này rồi thì có gọi là lừa cũng được, có gọi là ngựa cũng được, mà có gọi là Tổ Sư cũng được. Song làm sao có thể gọi tên hay mô tả được? Ý kiến thông thường rằng Tuyết Đậu chỉ lợi dụng Tổ Sư, may thay chẳng có gì nhằm nhò với việc này cả. Nhưng mà thử nói xem, rốt cuộc là chuyện gì đây? “Chỉ cho lão hồ biết, không cho lão hồ hiểu”.
+
+***
+```
+[1] “Thánh đế đệ nhất nghĩa”: Triết học Phật giáo phân biệt hai sự thật (satyadvaya,nhị đế), (a) paramàrtha (chân đế, hay đệ nhất nghĩa đế) tức là sự thật cứu cánh, thuộc phạm vi (gocàra) của trí giác ngộ, (b) samvrtisatya (tục đế) hay sự thật công ước, thuộc phạm vi của tri thức thường tình. Chữ Phạn Satya trong trường hợp này có thể dịch là “thực tại” (reality).
+
+[2] Ở đây chúng tôi theo bản của Ito Yuten. Bản của Cổ Phương Thiền Sư không có chữ “Phật”.
+
+[3] Nhị Tổ tức Huệ Khả hay Thần Quang. Về tiểu sử của Huệ Khả xin xem Cảnh Đức Truyền Đăng Lục, cùng một dịch giả sẽ xuất bản.
+
+[4] Kinh Phóng Quang Bát Nhã (Pancavimsatisahàsrikàpraj-nàparàmità), một trong những bản kinh quan trọng của Bát Nhã Bộ. xem Taishò 221.
+
+[5] “Tất dũng”: cái thùng đen. Chữ trong Thiền học ám chỉ sự vô minh.
+
+[6] Bản của Cổ Phương Thiền Sư không có đoạn này.
+
+[7] Bản của Cổ Phương Thiền Sư: “ toại bất phục cứu” có vẻ đúng hơn.
+```

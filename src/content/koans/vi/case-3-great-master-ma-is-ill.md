@@ -64,3 +64,10 @@ Hiểu như thế, chỉ là tình kiến. Đây là trích từ bài “ Công 
 Tuyết Đậu nói, “Cái mệt nhọc này đáng nói lại, nạp tăng mắt sáng chớ coi thường.” 
 Có bao nhiêu người sinh sống trong hang rồng? 
 Dù cho ông có là ông tăng mắt sáng có mắt trên trán và đạo bùa dưới nách, chiếu sáng khắp tứ phương thiên hạ, đến chỗ này cũng không thể khinh hốt, mà phải cẩn trọng mới được.
+
+***
+```
+[11] Tức Mã Tổ Đạo Nhất, về tiểu sử xin xem Cảnh Đức Truyền Đăng Lục, cùng một dịch giả, sẽ xuất bản.
+
+[12] Theo Phật danh Kinh thì trong một ngàn vị Phật thuộc hiền kiếp vị Phật thứ hai trăm lẻ hai tên là Nguyệt Diện Phật, còn vị Phật thứ tám trăm năm mươi tám tên là Nhật Diện Phật.
+```

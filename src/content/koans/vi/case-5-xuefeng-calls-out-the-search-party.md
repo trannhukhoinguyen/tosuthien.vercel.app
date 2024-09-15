@@ -35,7 +35,7 @@ Gom cả trời đất lại chỉ lớn bằng hạt gạo.” Thử nói xem, 
 ```
 Đầu trâu mất
 Đầu ngựa hiện
-Trong kính Tào khê[15] dứt bụi trần
+Trong kính Tào khê [15] dứt bụi trần
 Đánh trống nhìn xem Ngài chẳng thấy,
 Trăm hoa xuân đến nở vì ai?
 ```
@@ -44,3 +44,10 @@ Trăm hoa xuân đến nở vì ai?
 Tuyết Đậu đương nhiên thấy cổ nhân kia. Chỉ cần bắt mạch ông ta rồi tụng “đầu trâu mất, đầu ngựa hiện.” Thử nói xem Tuyết Đậu nói cái gì vậy? Nếu như thấy được, thì nó cũng chỉ tầm thường như việc ăn cháo sáng sớm ăn cơm buổi trưa.Tuyết Đậu từ bi,trước tiên một búa đập tan tành hết, rồi đoán định tất cả bằng một câu. Thầy ta đơn độc lừng lững, như đá lửa như điện chớp, không để lộ cái sắc bén của mình, đâu có chổ nào để các ông bám víu. Thử nói xem, các ông có dùng ý căn mà tìm tòi được chăng? Hai câu này một lúc đã nói lên tất cả.
 
 Ở câu thứ ba, Tuyết Đậu khai thông một đường mới, để lộ chút qui củ, kể như đã rơi vào bụi. Nếu như ông trên lời đặt thêm lời, trên câu đặt thêm câu, trên ý đặt thêm ý, rồi theo đó mà giải thích, thì không những chỉ làm lão tăng hệ lụy mà còn phụ lòng Tuyết Đậu nữa. Câu của cổ nhân tuy như thế. Song ý lại không như vậy. Tuyết đậu không bao giờ bày vẽ ra nguyên tắc để trói buộc người ta cả. “ Trong kính Tào Khê dứt bụi trần.” Biết bao nhiêu người so đo nói rằng tĩnh tâm tức là kính. May thay những lời ấy chẳng có gì nhằm nhò với vấn đề cả. Nếu các ông chỉ lo phân biện so đo, biết đến bao giờ mới dứt đây? Đó chỉ là những lời căn bản, sư núi tôi đâu dám không dựa theo căn bản. “Đầu trâu mất, đầu ngựa hiện?” Tuyết Đậu đã nói quá rõ ràng. Chỉ tại người ta không tự hiểu mà thôi. Tuyết Đậu luộm thuộm như thế lại tụng tiếp, “Đánh trống nhìn xem ngài chẳng thấy.” Những kẻ mê mờ còn thấy chăng? Tuyết Đậu lại nói với cái ông, “ Trăm hoa xuân đến nở vì ai?” Có thể nói là thầy ta mở rộng cửa nẻo, vạch rõ ra cho các ông. Khi mùa xuân đến, nơi thung lũng thâm u bên khe suối hoang vu, ở một nơi không người lui tới, trăm hoa đua nở. Thử nói xem, rốt cuộc nở vì ai?
+
+***
+```
+[14] Tâm là chủ của vạn pháp” có thể so sánh với kệ số 1 trong Dhammapada: Manopubbángamà dhammà manosetthà manomayà, manasà ce padutthena bahàsati va karoti và tatonam dukkham anveti cakkam va vahato padam.(xem V,Fausboll. The Dhammapada. London: Luzac & Co.1900 trang 3).
+
+[15] Tào Khê là nơi Lục Tổ Huệ Năng cư ngụ, cho nên trong truyền thống Thiền chữ Tào Khê thường được dùng để chỉ Lục Tổ.
+```

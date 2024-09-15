@@ -81,3 +81,8 @@ Còn Đức Sơn thì như thế nào? Giống như Phi ky Tướng Quân vào t
 Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; quả thật là anh hùng. Phải có cái tài giết người không chớp mắt thì mới có thể lập tức thành Phật được. Chỉ có người lập tức thành Phật, giết người không chớp mắt mới có phần tự do tự tại. Như người bây giờ bị hỏi, mới đấu thì còn có vẻ khí khái của tăng sĩ, song chỉ hỏi dồn một chút, là lập tức bụng mềm chân nhuyễn, lúng ta lúng túng, thiếu hẳn sự liên tục. Cho nên cổ nhân nói,”Tương tục là vấn đề rất khó”. Hãy nhìn Đức Sơn Qui Sơn Hành xử, phải chăng kiến giải của họ luộm thuộm vụng về?Còn được an toàn có mấy kẻ? Vội đi qua” Đức Sơn hét bỏ đi, giống như Lý Quảng bày kế đoạt cung sau khi bị bắt, bắn chết tên lính gác người Phiên, mà trốn thoát khỏi trại giặc. Tuyết Đậu tụng chỗ này quả là có công phu.
 
 Đức Sơn quay lưng về Pháp đường, mang dép cỏ vào rồi bỏ đi. Có người nào bảo thầy ta thắng thế, đâu có biết rằng lão hán ( Qui Sơn) này vẫn như trước đâu có chịu buông tha thầy ta? Tuyết Đậu nói. “ Không buông thá”. Tối đến Qui Sơn hỏi vị thủ tòa, “ Người vừa rồi mới đến đâu rồi?”Thủ tòa nói, “ Lúc ấy ông ta quay lưng về Pháp đường, mang dép cỏ vào rồi bỏ đi.” Qui sơn nói. Người ấy sau này thế nào cũng lên đỉnh cao tự xây am cỏ mà tiếp tục bài Phật bang Tổ.” Qui Sơn chịu buông tha Đức Sơn bao giờ? Dù sao Đức Sơn cũng kỳ đặc hết sức. Đến chỗ này tại sao Tuyết Đậu lại nói, “ Trên đỉnh cô đơn ngồi trong cỏ?” Xong rồi lại hét? Thử nói xem , ý của thầy ta là ở chổ nào? Tham Thiền thêm ba mươi năm nữa đi.
+
+***
+```
+[13] Kinh Kim Cương (Vajracchedikàprajnàpàramità Sùtra) cũng là một kinh quan trọng thuộc Bát Nhã Hệ.
+```

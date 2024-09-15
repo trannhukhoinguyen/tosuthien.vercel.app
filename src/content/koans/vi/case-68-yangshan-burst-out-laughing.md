@@ -32,7 +32,7 @@ Nhìn xem các cổ nhân niệm Đạo như thế. Dùng hết tinh thần củ
 Ngưỡng Sơn cười ầm lên “ Ha ha!” Vừa có quyền vừa có thực, vừa có chiếu vừa có dụng. Bởi vì thầy ta tám hướng lung linh, cho nên chỗ đứng của thầy ta mới được đại tự tại như thế. Tiếng cười này không giống với tiếng cười của Nham Đầu; trong tiếng cười của Nham Đầu có độc dược, song trong tiếng cườinày thì thiên cổ vẫn có gió thổi lạnh căm. Tuyết Đậu tụng rằng:
 
 TỤNG
-
+```
 Vừa thu vừa buông tông chỉ đâu?
 
 Cưỡi cọp cần phải có tuyệt kỹ
@@ -40,8 +40,9 @@ Cưỡi cọp cần phải có tuyệt kỹ
 Cười rồi chẳng biết đi về đâu,
 
 Chỉ là thiên cổ động bi phong.
-
-BÌNH “ Vừa thu vừa buông tông chỉ đâu?” Buông bỏ thay phiên đóng vai chủ và khách. Ngưỡng Sơn hỏi, “ Thầy tên gì?” Tam Thánh nói, “ Tên tôi là Huệ Tịch.” Đó là đều buông bỏ, Ngưỡng Sơn nói, “ Huệ Tịch là tôi.” Tam Thánh nói,” Tôi tên là Huệ Nhiên.” Đây là đều thu vào. Kỳ thực , đây là cái gọi là “ hô hoán chi cơ.” Thu vào thì mọi người đều thu vào, buông bỏ thì mọi người đều buông bỏ. Tuyết Đậu trong một lúc tụng hết cả. Ý thầy ta muốn nói rằng nếu không buông không thu không hổ tương với nhau thì ông là ông tôi là tôi.
+```
+### BÌNH TỤNG
+“Vừa thu vừa buông tông chỉ đâu?” Buông bỏ thay phiên đóng vai chủ và khách. Ngưỡng Sơn hỏi, “ Thầy tên gì?” Tam Thánh nói, “ Tên tôi là Huệ Tịch.” Đó là đều buông bỏ, Ngưỡng Sơn nói, “ Huệ Tịch là tôi.” Tam Thánh nói,” Tôi tên là Huệ Nhiên.” Đây là đều thu vào. Kỳ thực , đây là cái gọi là “ hô hoán chi cơ.” Thu vào thì mọi người đều thu vào, buông bỏ thì mọi người đều buông bỏ. Tuyết Đậu trong một lúc tụng hết cả. Ý thầy ta muốn nói rằng nếu không buông không thu không hổ tương với nhau thì ông là ông tôi là tôi.
 
 Tất cả chỉ nằm trong bốn chữ, tại sao lại có chìm hiện cuống trải như thế? Cổ nhân nói, “ Nếu như ông đứng thì tôi ngồi, nếu như ông ngồi thì tôi đứng. Nếu như chúng mình cùng ngồi cùng đứng, thì chúng mình đều là những kẻ mù.” Đây là đều thu vào đều buông bỏ, có thể coi là tông chỉ.’ Cưỡi cọp cần phải có tuyệt kỹ.” Nếu như các ông có cao phong như vậy cơ biến tối thượng như vậy, thì các ông muốn cưỡi là cưỡi, muốn xuống là xuống. Muốn ngồi trên đầu cọp cũng được mà muốn ngồi trên đuôi cọp cũng được. Cả Tam Thánh lẫn Ngưỡng Sơn đều có cái phong cách này.
 

@@ -28,7 +28,7 @@ Qui Sơn nói, “ Xin để hòa thượng nói vậy?” Thử nói xem ý c�
 Tuyết Đậu thích ngữ khí của Qui Sơn, có cái uyển chuyển tự tại song vẫn có đầu mối vững vàng, cho nên mới tụng rằng:
 
 TỤNG
-
+```
 Xin để hoà thượng nói,
 
 Đầu cọp mọc sừng chốn cỏ hoang.
@@ -36,15 +36,16 @@ Xin để hoà thượng nói,
 Mười châu xuân tàn hoa rơi rụng,
 
 Mặt trời rực rỡ rừng san hô.
-
-BÌNHBa người này cách trả lời của mọi người đều khác nhau. Người thì như vách núi vạn trượng, người thì có chiếu dụng đồng thời, kẻ thì tự cứu không được. “ Xin để hòa thượng nói.” Ngay trong câu này Tuyết Đậu đã trình hiện tâm cơ của mình rồi. Lại khẽ tiến tới để cho người khác dễ thấy khi thầy ta nói thêm rằng, “Đầu cọp mọc sừng chốn cỏ hoang.” Câu trả lời của Qui Sơn giống như thể cắm sừng lên đầu cọp, có cách nào để đến gần được chăng?
+```
+### BÌNH TỤNG
+Ba người này cách trả lời của mọi người đều khác nhau. Người thì như vách núi vạn trượng, người thì có chiếu dụng đồng thời, kẻ thì tự cứu không được. “ Xin để hòa thượng nói.” Ngay trong câu này Tuyết Đậu đã trình hiện tâm cơ của mình rồi. Lại khẽ tiến tới để cho người khác dễ thấy khi thầy ta nói thêm rằng, “Đầu cọp mọc sừng chốn cỏ hoang.” Câu trả lời của Qui Sơn giống như thể cắm sừng lên đầu cọp, có cách nào để đến gần được chăng?
 
 Há không nghe có ông tăng hỏi La Sơn, “Đồng sinh mà không đồng tử thì như thế nào?” La Sơn nói, “ Giống như con trâu không có sừng.” Ông tăng hỏi, “ Thế còn đồng sinh đồng tử thì như thế nào?” La Sơn nói, “ Giống như con cọp mọc sừng.”
 
 Tuyết Đậu chỉ cần một câu là tụng xong cả. Thầy ta có thừa tài để mà chuyển biến, cho nên bèn nói, “ mười châu xuân tàn hoa rọi rụng. Trên biển có ba núi, mười châu lấy trăm năm làm một mùa xuân. Lời của Tuyết Đậu uyển chuyển bàng bạc. Lúc mùa xuân, trăm ngàn vạn cây hoa đồng thời rơi rụng, chỉ có rừng san hô là không điêu linh mà thôi, cũng phản chiếu ánh sáng với vầng tháo dương. Đúng vào lúc ấy, quả thật là kỳ đặc biết mấy! Tuyết Đậu dùng hình ảnh này để minh giải lời của Qui Sơn rằng, “ Xin để hòa thượng nói vậy.”
 
 ***
-
+```
 [1] “Vô duyên từ” là thứ từ bi cao cả nhất mà chỉ có bậc Bồ Tát mới thực hành được. Đó là một thứ từ bi “ vô điều kiện,” chỉ có được sau khi Bồ Tát đã chứng ngộ được “tính không”, không còn thấy bất cứ một dị biệt nào giữa mình và tất cả các chúng sinh. Trong Đại Thừa Phật Giáo (Duy Thức Tông) gọi đó là sự chứng ngộ được “ Bình Đẳng Tính Trí”(samatà-jnàna)
 
 [2] “Hình” có nghĩa là “ hình tướng.”
@@ -68,3 +69,4 @@ Tuyết Đậu chỉ cần một câu là tụng xong cả. Thầy ta có thừa
 [11] Căn tức là ngũ căn: mắt, tai, mũi,lưỡi và thân. Trần tức là đối tượng của ngũ căn này.
 
 [12] Kinh Vệ Đà(veda) là bộ kinh chính yếu của Ấn Độ Giáo . Bốn bộ Veda gồm có: Rig-Veda,Atharva-Veda, Yajur-Veda và Sama-Veda.
+```

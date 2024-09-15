@@ -26,7 +26,7 @@ Nhiều người hiểu lầm nói rằng Triệu Châu tạm lấy giày cỏ l
 Cha con họ ăn khớp với nhau, cơ phong hợp với nhau. Khi Nam Tuyền nêu đầu Triệu Châu lập tức hiểu đuôi. Người học bây giờ không biết chỗ xoay chuyển của người xưa, mà chỉ phù phiếm noi theo con đường của ý thức mà suy đoán. Nếu như các ông muốn thấy, thì cứ nhìn vào chỗ xoay chuyển của Nam Tuyền và Triệu Châu là thấy rõ ngay.
 
 TỤNG
-
+```
 Công án viên mãn hỏi Triệu Châu,
 
 Trong thành Trường An cứ nhàn du.
@@ -34,8 +34,8 @@ Trong thành Trường An cứ nhàn du.
 Giầy cỏ đội đầu không ai hiểu,
 
 Về đến núi nhà bèn nghỉ ngơi.
-
-BÌNH
+```
+### BÌNH TỤNG
 “Công án viên mãn hỏi Triệu Châu.” Khánh Tàng Chủ nói, “ Giống như thể một người quyết định công án, tám gậy là tám gậy, mười ba gậy là mười ba gậy. (Nam Tuyền) kể như đã phán đoán xong xuôi rồi. Song lại vẫn nêu lên hỏi Triệu Châu.”
 
 Triệu Châu là người trong nhà của Nam Tuyền cho nên hiểu ý chỉ của Nam Tuyền. Thầy ta vốn là một người triệt để; bị khích là lập tức phản ứng và xoay chuyển. Thầy ta có mắt và óc của một bậc chuyên gia. Vừa nghe nêu lên đã lập tức vươn vai hành động. Tuyết Đậu nói, “ Trong thành Trường An cứ nhàn du.” Lậu đậu không phải ít. Cổ nhân nói, “ Trường An tuy vui song không phải là nơi để ở lâu dài.” Lại cũng nói, “ Trường An náo nhiệt quá, xứ của tôi yên tĩnh.” Song các ông cần phải hiểu cơ nghi, phân biệt được lỗi phải thì mới được.

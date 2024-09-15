@@ -50,3 +50,12 @@ Tuyết Đậu có thừa tài, cho nên mới mở túi ra cho chúng ta một 
 “Trong đầu ý cạn sao còn vui, cây khô điệu sáo vẫn chưa dứt”. Đây chính là chổ phối hợp, các công án hỏi về Đạo của người xưa, Tuyết Đậu rút tỉa ra, xâu vào một chuỗi, rồi dùng mà tụng “đạo lớn không khó, miễn đừng so đo.” Người bây giờ không hiểu ý cổ nhân, chỉ cắn chữ nhai câu, đến bao giờ mới hết đây? Phải là một người thông thạo lắm mới hiểu được lối nói chuyện này.
 Chẳng lẽ chưa nghe có ông tăng hỏi Hương Nghiêm, “Thế nào là đạo?” Hương Nghiêm đáp, “Điệu sáo trong rừng cây khô.” Ông tăng hỏi, “Thế nào là người trong đạo?” Hương Nghiêm đáp, “Đôi mắt trong đầu lâu”. Sau đó ông tăng hỏi Thạch Sương, “ Thế nào là điệu sáo trong rừng cây khô?” Thạch Sương nói, “Vẫn còn thấy vui.” Ông tăng nói, “Thế nào là đôi mắt trong đầu lâu?” Thạch Sương nói, “ Vẫn còn vướng vào trong trí thức”. Ông tăng thuật lại cho Tào Sơn. Tào Sơn nói, “Huyết mạch chưa đoạn”. Ông tăng hỏi,” Thế nào là đôi mắt trong đầu lâu?” Tào Sơn nói, “Chưa khô hết”. Ông tăng hỏi, “Ai là người nghe thấy?” Tào sơn nói, “Không trời đất là không có người nào không nghe.” Ông tăng hỏi,” Không hiểu cái câu “điệu sáo’ kia trích dẫn từ đâu?” Tào Sơn nói, “Không hiểu là trích dẫn từ đâu, song những ai nghe thấy đều chết cả.” Rồi tụng rằng, “ Cây khô điệu sáo thật thấy đạo, đầu lâu không thức mắt mới sáng. Hỉ thức diệt hết mọi sự dứt, sao phân biệt được trong với đục?” Tuyết Đậu có thể nói là có kỹ sảo lớn, một lúc mà co thể tóm lược bài tụng cho các ông. Tuy như vậy, chẳng hề vướng vào nhị nguyên.
 Chỗ cuối bài tụng, Tuyết Đậu có ý vì người, mới nói, “Khó thay, khó thay!” Chính cái “ khó thay, khó thay , khó thay” này mà các ông phải tham cho thấu thì mới có thể hiểu được. Tại sao lại như thế? Há không nghe Bách Trượng nói, “Tất cả ngôn ngữ, sơn hà đại địa, mỗi cái tự trở về với chính mình.” Phàm những cái Tuyết Đậu nêu ra hay lấy đi cuối cùng đều tự trở về chính nó. Thử nói xem chỗ nào là chỗ Tuyết Đậu vì thiên hạ? So đo, minh bạch, tự ông nhìn lấy? Đã bày vẽ dây dưa, tại sao lại còn nói, ông tự nhìn lấy.” Thử nói xem ý của thầy ta ở chỗ nào? Đừng có nói là người khác không hiểu nổi, ví dù sư núi này đến chỗ đó, cũng chẳng thể nào hiểu nổi.
+
+***
+```
+[8] Ở đây chúng tôi theo bản của Cổ Phương Thiền Sư
+
+[9] Tam Tổ tức Tăng Xán .Về tiểu sử xin xem Cảnh Đức Truyền Đăng Lục cùng một dịch giả, sẽ xuất bản.
+
+[10] Nguyên văn “đả thành nhất phiến”, ngụ ý không còn phân biệt giữa tâm và cảnh, nhân và ngã.
+```

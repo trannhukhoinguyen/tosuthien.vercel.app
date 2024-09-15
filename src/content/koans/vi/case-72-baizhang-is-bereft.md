@@ -28,7 +28,7 @@ Trong Tào Động tông đây gọi là “ xúc phá”. Cho nên mới nói r
 Tuyết Đậu tụng rằng:
 
 ### TỤNG
-
+```
 Hòa thượng có cách chưa?
 
 Kim mao sư tử không ngồi xổm.
@@ -36,7 +36,7 @@ Kim mao sư tử không ngồi xổm.
 Hai hai ba ba trên đường cũ,
 
 Dưới núi Đại Hùng búng tay không.
-
+```
 ### BÌNH TỤNG
 “Hòa thượng có cách chưa? Kim mao sư tử không ngồi xổm.” Tuyết Đậu dựa vào các dữ kiện mà kết thúc công án. Đúng thì đúng, song có điều kim mao sư tử vẫn cứ không ngồi xổm trên mặt đất. Lúc sư tử bắt mồi, nó giấu răng ẩn móng, rồi ngồi xổm trên mặt đất để mà chồm tới. Bất chấp con mồi to hay nhỏ, bao giờ sư tử cũng sử dụng toàn uy, muốn làm tròn công việc của mình.
 

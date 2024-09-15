@@ -21,7 +21,7 @@ Qui Sơn nắm vững bờ cõi, Ngũ Phong cắt đứt các dòng (tư tưởn
 Câu trả lời của Ngũ Phong thẳng thừng trực tiếp, quả thật là lanh lợi. Bách Trượng nói, “Ở chỗ không người tôi lấy tay che trên mắt mà nhìn ông.” Song thử nói xem, như vầy là chấp nhận hay không chấp nhận.Ngũ Phong? Là sát hay là hoạt? Thấy Ngũ Phong xoay chuyển một cách trơn tru như thế, Bách Trượng chỉ còn biết điểm nhận. Tuyết Đậu tụng rằng:
 
 ### TỤNG
-
+```
 Hòa thượng cũng im đi,
 
 Trên trận rồng rắn xem mưu lược.
@@ -29,7 +29,7 @@ Trên trận rồng rắn xem mưu lược.
 Khiến người nhớ mãi Lý Tướng Quân.
 
 Bên trời vạn dặm cánh Ngạc bay.
-
+```
 ### BÌNH TỤNG
 ”Hòa thượng cũng im đi.” 
 Trong một câu Tuyết Đậu dồn các ông nói rằng, “trên trận rồng rắn xem mưu lược.” 

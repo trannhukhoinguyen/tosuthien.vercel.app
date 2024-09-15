@@ -1,7 +1,7 @@
 ---
-title: "Koan 1"
-meta_title: ""
-description: "this is meta description"
+title: "CÂY GẬY CỦA VÂN MÔN"
+meta_title: "CÂY GẬY CỦA VÂN MÔN"
+description: "CÂY GẬY CỦA VÂN MÔN"
 date: 2024-09-13
 image: "/images/image-placeholder.jpg"
 types: ["Koan 1"]
@@ -11,17 +11,13 @@ draft: false
 ---
 
 
-TẮC THỨ SÁU MƯƠI
-
-CÂY GẬY CỦA VÂN MÔN
-
-THÙY 
+### THÙY 
 Chư Phật chúng sinh vốn chẳng dị biệt, núi sông và mình há có sai khác? Tại sao lại có sự phân chia thành hai như thế? Dù cho các ông có thể xoay chuyển thoại đầu, cắt đứt câu nói, chỉ buông tha thôi cũng không đủ. Nếu như các ông không buông bỏ, cả trời đất này cũng chẳng đáng để nắm giữ. Song thế nào là chỗ để xoay chuyển thoại đầu? Thử nêu lên xem.
 
-CỬ 
+### CỬ 
 Vân Môn đưa gậy ra dạy chúng rằng, “ Cây gậy đã hóa thành rồng, nuốt trọn cả trời đất rồi. Sơn hà đại địa., còn đâu mà có nữa?”
 
-BÌNH
+### BÌNH
 Như câu nói của Vân Môn rằng “ cây gậy đã hóa thành rồng, nuốt trọn cả trời đất rồi. Sơn hà đại địa còn đâu mà có nữa?” Nếu như các ông bảo là có thì các ông mù, nếu như các ông bảo là không thì các ông chết. Các ông có thấy chỗ vì người của Vân Môn chăng? Trả lại cây gậy cho tôi đi. Người bây giờ không hiểu được chỗ độc lộ của Vân Môn. Lại đi bảo rằng Vân Môn dựa vào sắc mà minh giải tâm, nương vào vật mà xiển minh lý. Thích Ca Mâu Ni thuyết Pháp bốn mươi chín năm, không thể không biết lối nghị luận này. Tại sao lại còn cần phải niêm hoa để Ca Diếp mỉm cười? Lão hán này lại gây lúng túng đi nói rằng, “ Ta có chính pháp nhãn tạng, niết bàn diệu tâm, nay trao lại cho Ma Ha Ca Diếp.” Tại sao lại phải đơn truyền tâm ấn? Các ông đã là khách trong môn hạ của Tổ sư, song có hiểu được việc đơn truyền tâm ấn này không?
 
 Nếu như trong lòng các ông mà có một vật, lập tức sơn hà đại địa hiển hiện, còn nếu trong lòng không chấp một vật gì thì bên ngoài chẳng có tơ hào gì cả. Còn gì mà phải nói đến nào lý với trí đối tượng rõ ràng cùng sự hiểu biết thần diệu. Tại sao vậy? Bởi vì hiểu một là hiểu tất cả, rõ một là rõ tất cả. Trường Sa nói, “ Những người học đạo không biết cái Thật, chỉ cứ lo đi nhận cái thần thức, cái gốc sinh tử vô lượng kiếp, kẻ mê gọi là bổn lai nhân.” Nếu như các ông hốt nhiên đả phá được ấm giới, thân tâm nhất như, ngoài thân không có gì cả, các ông vẫn chưa đạt được nữa kia. Nói gì đến việc dựa vào sắc để minh giải tâm, nương vào vật để xiển minh lý?
@@ -32,7 +28,7 @@ Ba Tiêu dạy chúng rằng, “Lỗ mũi của nạp tăng ở cả trên cây
 
 Tổ sư nói, “Đầu gậy chứng đắc, dưới hét đảm đương.” Song thử nói xem. Đảm đương cái gì cơ? Hốt nhiên có người hỏi, “ Thế nào là gậy?” Các ông sẽ lộn nhào sao? Sẽ vỗ tay sao? Tất cả những thứ này chỉ là trò ma quỉ, may mà chẳng có gì là nhằm nhò cả. Tuyết Đậu tụng rằng:
 
-TỤNG
+### TỤNG
 ```
 Cây gậy nuốt trọn trời đất,
 Nói mãi hoa đào trên sóng.
@@ -58,7 +54,7 @@ Tuyết Đậu kể như đã tụng xong rồi, lại vẫn dơ gậy lên mà 
 
 
 ***
-
+```
 [1] “Đầu vàng” ngụ ý chỉ đức Phật.
 
 [2] “Mắt xanh” (bích nhan) ngụ ý chỉ ngài Bồ Đề Đạt Ma.
@@ -72,3 +68,4 @@ Tuyết Đậu kể như đã tụng xong rồi, lại vẫn dơ gậy lên mà 
 [6] Ý nói Tổ Bồ Đề Đạt Ma từ Tây Trúc qua.
 
 [7] Nạp tử có nghĩa là tăng.
+```

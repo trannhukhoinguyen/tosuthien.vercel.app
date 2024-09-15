@@ -30,7 +30,7 @@ Lúc Phó Đại Sĩ sắp vào thành Kim Lăng để bán cá, Vũ Đế mời
 Thử nói xem, đã không là giảng kinh, thì rốt cuộc gọi là gì? Tụng rằng:
 
 TỤNG
-
+```
 Không dựa thân này nơi song lâm,
 
 Lại vướng trần ai nơi đất Lương.
@@ -38,8 +38,9 @@ Lại vướng trần ai nơi đất Lương.
 Lúc ấy nếu không vì Chí Công,
 
 Đã phải vội vàng bỏ nước đi.
-
-BÌNH “ Không dựa thân này nơi song lâm, lại vướng trần ai nơi đất Lương.” Phó Đại Sĩ và lão răng hở (Đạt Ma) kia gặp Vũ Đế trong một hoàn cảnh tương tự nhau. Đạt Ma thuở mới đến Kim Lăng gặp Vũ Đế, Vũ Đế hỏi, “ Thế nào là thánh đế đệ nhất nghĩa?” Bồ Đề Đạt Ma nói, “ Trống không chẳng có gì linh thánh.” Vũ Đế nói, “ Thế ai đang đối diện với trẫm vậy?” Bồ Đề Đạt Ma nói, “ Tôi không biết.” Vũ Đế không khế hội, cho nên Bồ Đề Đạt Ma bèn qua sông sang đất Ngụy. Vũ Đế thuật lại câu chuyện cho Chí Công, Chí Công hỏi, “ Thế bệ hạ đã biết người ấy là ai chưa?” Vũ Đế nói, “ Không biết.” Chí Công nói, “Đó là Quan Âm Đãi Sĩ trao truyền Phật tâm ấn.” Vũ Đế lấy làm ân hận bèn sai sứ đuổi theo. Chí Công nói, “Đừng có nói là bệ hạ chỉ sai sứ đuổi theo, dù cho có cả nước đuổi theo đi nữa, người ấy cũng không trở lại đâu.” Cho nên Tuyết Đậu mới nói, “ Lúc âý nếu không vì Chí Công , đã phải vội vàng bỏ nước đi.” Lúc ấy nếu như không nhờ Chí Công ra sức cho Phó Đại Sĩ cũng đã lại phải bỏ nước mà đi rồi. Chí Công lắm miệng như thế, cho nên Vũ Đế cũng bị thầy ta lừa cho một trận.
+```
+### BÌNH TỤNG
+“Không dựa thân này nơi song lâm, lại vướng trần ai nơi đất Lương.” Phó Đại Sĩ và lão răng hở (Đạt Ma) kia gặp Vũ Đế trong một hoàn cảnh tương tự nhau. Đạt Ma thuở mới đến Kim Lăng gặp Vũ Đế, Vũ Đế hỏi, “ Thế nào là thánh đế đệ nhất nghĩa?” Bồ Đề Đạt Ma nói, “ Trống không chẳng có gì linh thánh.” Vũ Đế nói, “ Thế ai đang đối diện với trẫm vậy?” Bồ Đề Đạt Ma nói, “ Tôi không biết.” Vũ Đế không khế hội, cho nên Bồ Đề Đạt Ma bèn qua sông sang đất Ngụy. Vũ Đế thuật lại câu chuyện cho Chí Công, Chí Công hỏi, “ Thế bệ hạ đã biết người ấy là ai chưa?” Vũ Đế nói, “ Không biết.” Chí Công nói, “Đó là Quan Âm Đãi Sĩ trao truyền Phật tâm ấn.” Vũ Đế lấy làm ân hận bèn sai sứ đuổi theo. Chí Công nói, “Đừng có nói là bệ hạ chỉ sai sứ đuổi theo, dù cho có cả nước đuổi theo đi nữa, người ấy cũng không trở lại đâu.” Cho nên Tuyết Đậu mới nói, “ Lúc âý nếu không vì Chí Công , đã phải vội vàng bỏ nước đi.” Lúc ấy nếu như không nhờ Chí Công ra sức cho Phó Đại Sĩ cũng đã lại phải bỏ nước mà đi rồi. Chí Công lắm miệng như thế, cho nên Vũ Đế cũng bị thầy ta lừa cho một trận.
 
 Ý Tuyết Đậu muốn nói là Phó Đại Sĩ chẳng cần phải đến đất Lương để giảng kinh với lay bàn để làm gì. Cho nên thầy ra mới nói, “ Tại sao không dựa thân nơi song lâm kia, ăn cháo ăn cơm, qua ngày một cách an phận, mà lại phải tới xứ Lương này để mà giảng giải với lại lay bàn một trận rồi bước khỏi tòa như thế?” Đây chính là chỗ thầy ta bị vướng trần ai.
 
