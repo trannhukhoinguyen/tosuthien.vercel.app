@@ -13,8 +13,7 @@
       ]
     },
     { "name": "Maîtres Zen", "url": "/masters" },
-    { "name": "Télécharger\uD83D\uDCE5", "url": "/download" },
-    { "name": "Zen Monasteries", "url": "/monasteries" }
+    { "name": "Télécharger\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [
 

@@ -13,8 +13,7 @@
       ]
     },
     { "name": "Мастера Дзен", "url": "/masters" },
-    { "name": "Скачать\uD83D\uDCE5", "url": "/download" },
-    { "name": "Zen Monasteries", "url": "/monasteries" }
+    { "name": "Скачать\uD83D\uDCE5", "url": "/download" }
   ],
   "footer": [
 
