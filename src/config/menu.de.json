@@ -13,7 +13,8 @@
       ]
     },
     { "name": "Zen-Meister", "url": "/masters" },
-    { "name": "Herunterladen\uD83D\uDCE5", "url": "/download" }
+    { "name": "Herunterladen\uD83D\uDCE5", "url": "/download" },
+    { "name": "Zen Monasteries", "url": "/monasteries" }
   ],
   "footer": [
 

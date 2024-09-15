@@ -13,7 +13,8 @@
       ]
     },
     { "name": "선 마스터", "url": "/masters" },
-    { "name": "다운로드\uD83D\uDCE5", "url": "/download" }
+    { "name": "다운로드\uD83D\uDCE5", "url": "/download" },
+    { "name": "Zen Monasteries", "url": "/monasteries" }
   ],
   "footer": [
 

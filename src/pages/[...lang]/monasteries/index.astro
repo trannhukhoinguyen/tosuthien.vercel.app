@@ -1,0 +1,46 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
+import { getAllTaxonomy, getTaxonomy } from "@/lib/taxonomyParser.astro";
+import { supportedLang } from "@/lib/utils/languageParser";
+import PageHeader from "@/partials/PageHeader.astro";
+import type { ContentEntryMap } from "astro:content";
+
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+const { lang } = Astro.params;
+const postIndex = await getListPage(
+  "monasteries",
+  lang as keyof ContentEntryMap
+);
+const posts = await getSinglePage("monasteries", lang as keyof ContentEntryMap);
+---
+
+<Base
+  title={postIndex[0].data.title}
+  meta_title={postIndex[0].data.meta_title}
+  image={postIndex[0].data.image}
+  description={postIndex[0].data.description}
+>
+  <PageHeader title={postIndex[0].data.title} />
+  <section class="section">
+    <div class="container">
+      <h1>GOOGLE MAP VIEW - 2 COLUMNS - 3-7 </h1>
+      <div style="display: flex; justify-content: space-between;">
+
+        <div style="flex: 1; padding-right: 10px;">
+          <img decoding="async" src="https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg" />
+        </div>
+
+        <div style="flex: 3; padding-left: 10px;">
+          <img decoding="async" src="https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg" />
+        </div>
+
+      </div>
+    </div>
+  </section>
+</Base>
