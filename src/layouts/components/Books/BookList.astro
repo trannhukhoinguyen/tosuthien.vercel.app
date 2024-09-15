@@ -4,7 +4,7 @@ import bookViDb from "../../../db/books/bookViDb";
 import bookEnDb from "../../../db/books/bookEnDb";
 
 const { lang } = Astro.params;
-const books = !lang || lang === 'vi' ? bookViDb : bookEnDb;
+const books: string = !lang || lang === 'vi' ? bookViDb : bookEnDb;
 const booksSpeech = books?.filter(book => book.type === 'Speech');
 const booksAaq = books?.filter(book => book.type === 'Q&A');
 const booksOther = books?.filter(book => !book.type);
