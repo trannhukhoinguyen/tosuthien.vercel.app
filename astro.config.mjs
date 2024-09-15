@@ -44,7 +44,6 @@ export default defineConfig({
       imports: [
         "@/shortcodes/Accordion",
         "@/shortcodes/Button",
-        "@/shortcodes/Indent",
         "@/shortcodes/Notice",
         "@/shortcodes/Tab",
         "@/shortcodes/Tabs",
