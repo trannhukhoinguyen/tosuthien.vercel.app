@@ -105,8 +105,8 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
           <tr key={item.id}>
             <td>{item.id}</td>
                               <td>
-                                <a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))} title="read more">📖</a>
                                 {item.name_en}
+                                <a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))} title="read more">📖</a>
                               </td>
             {lang === 'es' && <td>{item.name_es}</td>}
             {lang === 'de' && <td>{item.name_de}</td>}

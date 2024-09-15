@@ -14,7 +14,7 @@
     },
     { "name": "Zen Masters", "url": "/masters" },
     { "name": "Download\uD83D\uDCE5", "url": "/download" },
-  { "name": "Zen Monasteries", "url": "/monasteries" }
+    { "name": "Zen Monasteries", "url": "/monasteries" }
   ],
   "footer": [
 

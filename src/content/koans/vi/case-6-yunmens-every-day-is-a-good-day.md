@@ -49,6 +49,7 @@ Thử nói xem thế nào là câu cứu cánh? Đến đây Tuyết Đậu đ�
 Tuyết Đậu cũng có một bài tụng để nói về vấn đề này, “Mưa tạnh mây tan trời nửa sáng, mấy đỉnh chót vót như bích họa. Không Sinh chẳng biết ngồi trông hốc,khiến cho đất động hoa trời rơi.” Đế Thích đã làm cho mặt đất rung chuyển và hoa trời rơi xuống. đến mức đó rồi biết ẩn trốn ở đâu đây? Tuyết Đậu lại nói, “ Ta sợ có trốn cũng không được, cõi ngoài trời đất đầy ăm ắp. Mơ mơ hồ hồ bao giờ dứt, tám phương gió mát mơn tà áo.” Dù cho ông có sách sẽ trơn tru, không một chút lỗi lầm âu lo, cũng vẫn chưa phải là chỗ cùng cực. Rốt cuộc thì thế nào mới là cùng cực. “ Búng tay thương thay thuấn nhã đa.” “ Thuấn nhã đa” là chữ Phạn có nghĩa là tinh thần của hư không, lấy hư không làm thể, không có thân thể hữu hình để xúc chạm. Lúc Phật quang chiếu mới hiện rõ thân hữu hình. Lúc nào ông đạt được “ thuấn nhã đa” RỒI, Tuyết Đậu sẽ búng tay mà thở than. Tuyết Đậu lại nói, “Đừng động đậy!” Động đậy thì như thế nào? Giống như giữa thanh thiên bạch nhật, mở mắt mà ngủ.
 
 ***
+
 ```
 [16] Không Sinh tức là ngài Tu Bồ Đề (Subhuti).
 

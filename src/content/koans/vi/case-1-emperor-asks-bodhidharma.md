@@ -105,6 +105,7 @@ Tuyết Đậu lại sợ thiên hạ mải đuổi theo kiến thức thường
 Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này, cho nên lại mượn vào phương tiện, lớn tiếng nói, “Nơi này còn có Tổ Sư chăng?” Rồi tự trả lời, “Có”. Ở đây Tuyết Đậu chẳng còn ngần ngại bộc lộ lòng dạ của mình cho thiên hạ. Lại tự nói, “Đến đây rửa chân cho lão tăng”.Quả tình là hạ thấp quang huy của người ta một cách quá đáng, song lúc ấy Tuyết Đậu cũng đã cung hiến cả tay chân mình. Thử nói xem, ý của Tuyết Đậu nằm ở chổ nào? Đến chổ này rồi thì có gọi là lừa cũng được, có gọi là ngựa cũng được, mà có gọi là Tổ Sư cũng được. Song làm sao có thể gọi tên hay mô tả được? Ý kiến thông thường rằng Tuyết Đậu chỉ lợi dụng Tổ Sư, may thay chẳng có gì nhằm nhò với việc này cả. Nhưng mà thử nói xem, rốt cuộc là chuyện gì đây? “Chỉ cho lão hồ biết, không cho lão hồ hiểu”.
 
 ***
+
 ```
 [1] “Thánh đế đệ nhất nghĩa”: Triết học Phật giáo phân biệt hai sự thật (satyadvaya,nhị đế), (a) paramàrtha (chân đế, hay đệ nhất nghĩa đế) tức là sự thật cứu cánh, thuộc phạm vi (gocàra) của trí giác ngộ, (b) samvrtisatya (tục đế) hay sự thật công ước, thuộc phạm vi của tri thức thường tình. Chữ Phạn Satya trong trường hợp này có thể dịch là “thực tại” (reality).
 

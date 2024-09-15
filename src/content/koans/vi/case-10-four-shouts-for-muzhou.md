@@ -61,6 +61,7 @@ Có lắm kẻ nói, “cần phải bận tâm đến việc Mục Châu nói b
 Tuyết Đậu nói nếu như thế thì “ cả hai thành ra mù.” Tuyết Đậu giống như thanh ỷThiên trường kiếm, uy phong lẫm lẫm. Nếu như hiểu được ý của Tuyết Đậu tự nhiên hiểu được ngàn điều vạn điều cùng một lúc. Lúc ấy sẽ thấy rằng phần cuối tụng của Tuyết Đậu chỉ là cước chú mà thôi. Lại nói, “ Ai mù đâu?” Chủ mù hay là khách mù? Chứ không phải là chủ khách đều cùng mù sao? Tôi xin nêu ra để người trong thiên hạ cùng thấy.” Đây chính là chỗ sống động, Tuyết Đậu một lúc tụng ra luôn. Nhưng mà tại sao Tuyết Đậu lại nói, “ Nêu lên cho cả thiên hạ xem?” Thử nói coi, các ông xem như thế nào? Nhắm mắt cũng được, mở mắt cũng được, song còn có ai tránh được chăng?
 
 ***
+
 ```
 [29] Lời nói từ Kinh Dịch
 ```

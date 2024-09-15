@@ -52,6 +52,7 @@ Chẳng lẽ chưa nghe có ông tăng hỏi Hương Nghiêm, “Thế nào là 
 Chỗ cuối bài tụng, Tuyết Đậu có ý vì người, mới nói, “Khó thay, khó thay!” Chính cái “ khó thay, khó thay , khó thay” này mà các ông phải tham cho thấu thì mới có thể hiểu được. Tại sao lại như thế? Há không nghe Bách Trượng nói, “Tất cả ngôn ngữ, sơn hà đại địa, mỗi cái tự trở về với chính mình.” Phàm những cái Tuyết Đậu nêu ra hay lấy đi cuối cùng đều tự trở về chính nó. Thử nói xem chỗ nào là chỗ Tuyết Đậu vì thiên hạ? So đo, minh bạch, tự ông nhìn lấy? Đã bày vẽ dây dưa, tại sao lại còn nói, ông tự nhìn lấy.” Thử nói xem ý của thầy ta ở chỗ nào? Đừng có nói là người khác không hiểu nổi, ví dù sư núi này đến chỗ đó, cũng chẳng thể nào hiểu nổi.
 
 ***
+
 ```
 [8] Ở đây chúng tôi theo bản của Cổ Phương Thiền Sư
 
