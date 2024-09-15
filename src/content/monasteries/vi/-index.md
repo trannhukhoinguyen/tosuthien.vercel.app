@@ -1,3 +1,3 @@
 ---
-title: "Monasteries"
+title: "Thiền viện"
 ---
