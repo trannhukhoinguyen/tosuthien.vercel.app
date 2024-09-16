@@ -272,5 +272,17 @@ const bookViDb = [
     youtube: '',
     saveAudio: '',
   },
+  {
+    id: 23,
+    cover: 'https://thuvienhoasen.org/images/file/kRjVkZtG0QgBAN1a/thientongchinam-bia.jpg',
+    title: 'THIỀN TÔNG CHỈ NAM',
+    type: 'Speech',
+    author: 'Nguyên tác Anh ngữ: Thiền sư Sùng Sơn',
+    description: 'Thích Giác Nguyên Việt dịch',
+    info: '',
+    link: 'https://hoavouu.com/images/file/igcK92Ax0QgQALN0/thien-tong-chi-nam.pdf',
+    youtube: '',
+    saveAudio: '',
+  },
 ]
 export default bookViDb;

@@ -65,5 +65,16 @@ const bookEnDb = [
     youtube: '',
     mp3: '',
   },
+  {
+    id: 7,
+    cover: 'https://m.media-amazon.com/images/I/81psp3gYfqL._SY466_.jpg',
+    title: 'THE COMPASS OF ZEN',
+    author: 'Zen Master Seung Sahn',
+    description: '',
+    info: '',
+    link: 'https://terebess.hu/zen/mesterek/Compass.pdf',
+    youtube: '',
+    mp3: '',
+  },
 ]
 export default bookEnDb;
