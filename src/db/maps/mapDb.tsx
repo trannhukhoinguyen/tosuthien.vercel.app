@@ -16,10 +16,21 @@ const mapDb = [
     cover: 'https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg',
     titleEn: 'TU AN ZEN TEMPLE',
     titleVi: 'TỪ ÂN THIỀN ĐƯỜNG ',
-    mapCenter: [33.74861, -117.92682],
+    mapCenter: 
     markerPosition: [33.74861, -117.92682],
     zoomLevel: 15,
     address: '4310 W 5th St, Santa Ana, California, California, US',
+  },
+  {
+    id: 3,
+    key: 'duy-phap',
+    cover: 'https://tosuthien.com/wp-content/uploads/2021/11/cua-chua-1-768x576.jpg',
+    titleEn: 'DUY PHAP ZEN TEMPLE',
+    titleVi: 'DUY PHÁP THIỀN ĐƯỜNG ',
+    mapCenter: [33.74676, -117.9834],
+    markerPosition: [33.74676, -117.9834],
+    zoomLevel: 15,
+    address: '14851 Wilson St, Midway City, California, US',
   },
 ]
 export default mapDb;
