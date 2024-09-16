@@ -16,7 +16,7 @@ const booksOther = books?.filter(book => !book.type);
       {
         !lang || lang === 'vi'
           ? <h2>NGỮ LỤC</h2>
-          : ''
+          : <div></div>
       }
       {
         booksSpeech?.map(book => {
@@ -91,7 +91,7 @@ const booksOther = books?.filter(book => !book.type);
       {
         !lang || lang === 'vi'
           ? <h2>HỎI & ĐÁP</h2>
-          ''
+          : <div></div>
       }
       {
         booksAaq?.map(book => {
@@ -166,7 +166,7 @@ const booksOther = books?.filter(book => !book.type);
       {
         !lang || lang === 'vi'
           ? <h2>KHÁC</h2>
-          : ''
+          : <div></div>
       }
       {
         booksOther?.map(book => {
