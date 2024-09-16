@@ -14,7 +14,9 @@ const booksOther = books?.filter(book => !book.type);
   <div class='container'>
     <div class='center list flex-column' client:load>
       {
-        <h2>NGỮ LỤC</h2>
+        !lang || lang === 'vi'
+          ? <h2>NGỮ LỤC</h2>
+          : ''
       }
       {
         booksSpeech?.map(book => {
@@ -87,7 +89,9 @@ const booksOther = books?.filter(book => !book.type);
       }
 
       {
-        <h2>HỎI & ĐÁP</h2>
+        !lang || lang === 'vi'
+          ? <h2>HỎI & ĐÁP</h2>
+          ''
       }
       {
         booksAaq?.map(book => {
@@ -160,7 +164,9 @@ const booksOther = books?.filter(book => !book.type);
       }
 
       {
-        <h2>KHÁC</h2>
+        !lang || lang === 'vi'
+          ? <h2>KHÁC</h2>
+          : ''
       }
       {
         booksOther?.map(book => {
