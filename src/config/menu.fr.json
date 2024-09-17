@@ -1,6 +1,7 @@
 {
   "main": [
     { "name": "Accueil", "url": "/" },
+
     {
       "name": "Discours et écrits",
       "url": "/speeches-and-writings",
@@ -12,9 +13,19 @@
         { "name": "Livres", "url": "/books" }
       ]
     },
+
     { "name": "Maîtres Zen", "url": "/masters" },
-    { "name": "Télécharger\uD83D\uDCE5", "url": "/download" },
-    { "name": "Zen Monasteries", "url": "/monasteries" }
+    { "name": "Zen Monasteries", "url": "/monasteries" },
+
+    {
+      "name": "Media",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Télécharger\uD83D\uDCE5", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    }
   ],
   "footer": [
 

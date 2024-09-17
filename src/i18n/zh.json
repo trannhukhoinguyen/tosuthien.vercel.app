@@ -13,6 +13,12 @@
   "back_to_home": "Back to Home",
   "get_started": "Get Started",
 
+  "home": "Trang chủ",
+  "faqs": "FAQs",
+  "cautions": "Cautions",
+  "koans": "Koans",
+  "masters": "Zen Masters",
+  "monasteries": "Zen Monasteries",
   "books": "图书",
   "download": "下载",
   "severe_problem": "生死大问题是最紧急的 ！！！",
@@ -20,6 +26,7 @@
 
   "gao_min": "GAO MIN MONASTERY",
   "tu_an": "TU AN ZEN TEMPLE",
+  "duy_phap": "DUY PHAP ZEN TEMPLE",
 
   "seven_things_left_behind": "7 things left behind by Shishuang Qingzhu",
   "seven_things_left_behind_1": "Stop all actions and movements",

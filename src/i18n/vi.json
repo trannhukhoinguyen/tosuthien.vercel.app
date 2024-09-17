@@ -13,6 +13,12 @@
   "back_to_home": "Back to Home",
   "get_started": "Get Started",
 
+  "home": "Trang chủ",
+  "faqs": "Hỏi đáp",
+  "cautions": "Cảnh ngữ",
+  "koans": "Công án",
+  "masters": "Thiền sư",
+  "monasteries": "Thiền viện",
   "books": "Sách",
   "download": "Tải về",
   "severe_problem": "Việc lớn sanh tử là khẩn thiết nhất !!!",
@@ -20,6 +26,7 @@
 
   "gao_min": "THIỀN VIỆN CAO MÂN",
   "tu_an": "TỪ ÂN THIỀN ĐƯỜNG",
+  "duy_phap": "DUY PHÁP THIỀN ĐƯỜNG",
 
   "seven_things_left_behind": "THẠCH SƯƠNG THẤT KHỨ",
   "seven_things_left_behind_1": "Đình chỉ tất cả mọi hành vi động tác",

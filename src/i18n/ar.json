@@ -33,6 +33,12 @@
   "upload_select": "Select files",
   "hidden": "Hidden files",
 
+  "home": "الصفحة الرئيسية",
+  "faqs": "سؤال وجواب",
+  "cautions": "خطبة تحذيرية",
+  "koans": "زين كوان",
+  "masters": "سادة الزن",
+  "monasteries": "أديرة زن",
   "books": "كتب",
   "download": "تحميل",
   "severe_problem": "مشكلة الحياة والموت الكبرى هي الأكثر إلحاحا!!!",
@@ -40,6 +46,7 @@
 
   "gao_min": "GAO MIN MONASTERY",
   "tu_an": "TU AN ZEN TEMPLE",
+  "duy_phap": "DUY PHAP ZEN TEMPLE",
 
   "seven_things_left_behind": "7 things left behind by Shishuang Qingzhu",
   "seven_things_left_behind_1": "Stop all actions and movements",

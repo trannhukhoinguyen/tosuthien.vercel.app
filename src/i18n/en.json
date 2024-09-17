@@ -33,6 +33,12 @@
   "upload_select": "Select files",
   "hidden": "Hidden files",
 
+  "home": "Trang chủ",
+  "faqs": "FAQs",
+  "cautions": "Cautions",
+  "koans": "Koans",
+  "masters": "Zen Masters",
+  "monasteries": "Zen Monasteries",
   "books": "Books",
   "download": "Download",
   "severe_problem": "The Great Matter of Birth and Death is the most Urgent !!!",
@@ -40,6 +46,7 @@
 
   "gao_min": "GAO MIN MONASTERY",
   "tu_an": "TU AN ZEN TEMPLE",
+  "duy_phap": "DUY PHAP ZEN TEMPLE",
 
   "seven_things_left_behind": "7 things left behind by Shishuang Qingzhu",
   "seven_things_left_behind_1": "Stop all actions and movements",

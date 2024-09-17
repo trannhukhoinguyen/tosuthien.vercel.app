@@ -13,6 +13,12 @@
   "back_to_home": "Вернуться домой",
   "get_started": "Начать использовать",
 
+  "home": "Trang chủ",
+  "faqs": "FAQs",
+  "cautions": "Cautions",
+  "koans": "Koans",
+  "masters": "Zen Masters",
+  "monasteries": "Zen Monasteries",
   "books": "Книги",
   "download": "Скачать",
   "severe_problem": "Большая проблема жизни и смерти является самой актуальной !!!",
@@ -20,6 +26,7 @@
 
   "gao_min": "GAO MIN MONASTERY",
   "tu_an": "TU AN ZEN TEMPLE",
+  "duy_phap": "DUY PHAP ZEN TEMPLE",
 
   "seven_things_left_behind": "7 things left behind by Shishuang Qingzhu",
   "seven_things_left_behind_1": "Stop all actions and movements",

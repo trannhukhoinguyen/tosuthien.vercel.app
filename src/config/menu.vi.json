@@ -1,6 +1,7 @@
 {
   "main": [
     { "name": "Trang chủ", "url": "/" },
+
     {
       "name": "Ngữ Lục",
       "url": "/speeches-and-writings",
@@ -12,9 +13,19 @@
         { "name": "Sách", "url": "/books" }
       ]
     },
+
     { "name": "Thiền sư", "url": "/masters" },
-    { "name": "Tải về\uD83D\uDCE5", "url": "/download" },
-    { "name": "Thiền viện", "url": "/monasteries" }
+    { "name": "Thiền viện", "url": "/monasteries" },
+
+    {
+      "name": "Media",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Tải về\uD83D\uDCE5", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    }
   ],
   "footer": [
 

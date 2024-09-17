@@ -1,6 +1,7 @@
 {
   "main": [
     { "name": "Heim", "url": "/" },
+
     {
       "name": "Reden und Schriften",
       "url": "/speeches-and-writings",
@@ -12,9 +13,19 @@
         { "name": "Bücher", "url": "/books" }
       ]
     },
+
     { "name": "Zen-Meister", "url": "/masters" },
-    { "name": "Herunterladen\uD83D\uDCE5", "url": "/download" },
-    { "name": "Zen Monasteries", "url": "/monasteries" }
+    { "name": "Zen Monasteries", "url": "/monasteries" },
+
+    {
+      "name": "Media",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Herunterladen\uD83D\uDCE5", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    }
   ],
   "footer": [
 

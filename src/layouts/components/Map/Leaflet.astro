@@ -4,7 +4,7 @@ import {ContentEntryMap} from "astro:content";
 import mapDb from "../../../db/maps/mapDb";
 
 const { lang } = Astro.params;
-const { gao_min, tu_an } = await getTranslations(lang as keyof ContentEntryMap);
+const { gao_min, tu_an, duy_phap } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 <html lang="en">
 <head>
@@ -13,7 +13,7 @@ const { gao_min, tu_an } = await getTranslations(lang as keyof ContentEntryMap);
         crossorigin=""/>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
           integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-          crossorigin=""></script>
+          crossorigin="" is:inline></script>
   <style>
     .maps {
       height: 500px;
@@ -23,6 +23,7 @@ const { gao_min, tu_an } = await getTranslations(lang as keyof ContentEntryMap);
 </head>
 
 <body>
+<!-- Cao Mân-->
 <div class="mb-8">
   <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; padding-right: 10px;">
@@ -38,13 +39,21 @@ const { gao_min, tu_an } = await getTranslations(lang as keyof ContentEntryMap);
         </p>
       </a>
     </div>
-    <div style="flex: 3; padding-left: 10px;" client:load>
-      <div id="gao-min" class="maps" client:load></div>
+    <div style="flex: 3; padding-left: 10px;">
+      <button
+        title="Show this map"
+        onclick="window.location.reload()"
+        style="font-size: 24px; cursor: pointer;"
+        client:load
+      >
+        &#128065; <!-- Eye icon HTML entity -->
+        <span style="font-size: small">Show this map</span>
+      </button>
+      <div id="gao-min" class="maps"></div>
     </div>
   </div>
-
-
 </div>
+<!-- Từ Ân-->
 <div class="mb-8">
   <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; padding-right: 10px;">
@@ -60,38 +69,130 @@ const { gao_min, tu_an } = await getTranslations(lang as keyof ContentEntryMap);
         </p>
       </a>
     </div>
-    <div style="flex: 3; padding-left: 10px;" client:load>
-      <div id="tu-an" class="maps" client:load></div>
+    <div style="flex: 3; padding-left: 10px;">
+      <button
+        title="Show this map"
+        onclick="location.reload()"
+        style="font-size: 24px; cursor: pointer;"
+        client:load
+      >
+        &#128065; <!-- Eye icon HTML entity -->
+        <span style="font-size: small">Show this map</span>
+      </button>
+      <div id="tu-an" class="maps"></div>
     </div>
   </div>
-
+</div>
+<!-- Duy Pháp-->
+<div class="mb-8">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; padding-right: 10px;">
+      <a href="/monasteries/duy-phap" target="_blank">
+        <h1>{duy_phap}</h1>
+        <img width="300px" decoding="async" src="https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg" />
+        <p>
+          {
+            !lang || lang === 'vi'
+              ? 'Duy Pháp'
+              : 'Duy Phap'
+          }
+        </p>
+      </a>
+    </div>
+    <div style="flex: 3; padding-left: 10px;">
+      <button
+        title="Show this map"
+        onclick="location.reload()"
+        style="font-size: 24px; cursor: pointer;"
+        client:load
+      >
+        &#128065; <!-- Eye icon HTML entity -->
+        <span style="font-size: small">Show this map</span>
+      </button>
+      <div id="duy-phap" class="maps"></div>
+    </div>
+  </div>
 </div>
 
-
 <script>
+  const mapDb = [
+    {
+      id: 1,
+      key: 'gao-min',
+      cover: 'https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg',
+      titleEn: 'GAO MIN MONASTERY',
+      titleVi: 'THIỀN VIỆN CAO MÂN ',
+      mapCenter: [32.32652, 119.41237],
+      markerPosition: [32.32652, 119.41237],
+      zoomLevel: 14,
+      address: '8CF8+2V7, Gaominsi Rd, Hanjiang District, Yangzhou, Yangzhou, Jiangsu, China, 225127',
+    },
+    {
+      id: 2,
+      key: 'tu-an',
+      cover: 'https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg',
+      titleEn: 'TU AN ZEN TEMPLE',
+      titleVi: 'TỪ ÂN THIỀN ĐƯỜNG ',
+      mapCenter: [33.74861, -117.92682],
+      markerPosition: [33.74861, -117.92682],
+      zoomLevel: 17,
+      address: '4310 W 5th St, Santa Ana, California, California, US',
+    },
+    {
+      id: 3,
+      key: 'duy-phap',
+      cover: 'https://tosuthien.com/wp-content/uploads/2021/11/cua-chua-1-768x576.jpg',
+      titleEn: 'DUY PHAP ZEN TEMPLE',
+      titleVi: 'DUY PHÁP THIỀN ĐƯỜNG ',
+      mapCenter: [33.74676, -117.9834],
+      markerPosition: [33.74676, -117.9834],
+      zoomLevel: 17,
+      address: '14851 Wilson St, Midway City, California, US',
+    },
+  ]
+// Cao Mân
+  const gaoMinDb= mapDb.find(place =>
+    place.key === 'gao-min');
   document.addEventListener("DOMContentLoaded", () => {
-    const gaoMin = L.map('gao-min').setView([32.32652, 119.41237], 16);
+    const gaoMin = L.map(gaoMinDb.key).setView(gaoMinDb.mapCenter, gaoMinDb.zoomLevel);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy;'
     }).addTo(gaoMin);
 
     // Add a marker
-    L.marker([32.32652, 119.41237]).addTo(gaoMin)
-      .bindPopup('GAO MIN MONASTERY')
+    L.marker(gaoMinDb.markerPosition).addTo(gaoMin)
+      .bindPopup(gaoMinDb.titleEn)
       .openPopup();
   });
-
+  // Từ Ân
+  const tuAnDb = mapDb.find(place =>
+    place.key === 'tu-an');
   document.addEventListener("DOMContentLoaded", () => {
-    const tuAn = L.map('tu-an').setView([33.74861, -117.92682], 18);
+    const tuAn = L.map(tuAnDb.key).setView(tuAnDb.mapCenter, tuAnDb.zoomLevel);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy;'
     }).addTo(tuAn);
 
     // Add a marker
-    L.marker([33.74861, -117.92682]).addTo(tuAn)
-      .bindPopup('TU AN ZEN TEMPLE')
+    L.marker(tuAnDb.markerPosition).addTo(tuAn)
+      .bindPopup(tuAnDb.titleEn)
+      .openPopup();
+  });
+// Duy Pháp
+  const duyPhapDb= mapDb.find(place =>
+    place.key === 'duy-phap');
+  document.addEventListener("DOMContentLoaded", () => {
+    const duyPhap = L.map(duyPhapDb.key).setView(duyPhapDb.mapCenter, duyPhapDb.zoomLevel);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy;'
+    }).addTo(duyPhap);
+
+    // Add a marker
+    L.marker(duyPhapDb.markerPosition).addTo(duyPhap)
+      .bindPopup(duyPhapDb.titleEn)
       .openPopup();
   });
 </script>

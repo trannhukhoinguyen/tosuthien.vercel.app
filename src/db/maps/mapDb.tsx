@@ -16,7 +16,7 @@ const mapDb = [
     cover: 'https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg',
     titleEn: 'TU AN ZEN TEMPLE',
     titleVi: 'TỪ ÂN THIỀN ĐƯỜNG ',
-    mapCenter: 
+    mapCenter: [33.74861, -117.92682],
     markerPosition: [33.74861, -117.92682],
     zoomLevel: 15,
     address: '4310 W 5th St, Santa Ana, California, California, US',

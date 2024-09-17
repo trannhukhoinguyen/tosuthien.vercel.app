@@ -50,6 +50,7 @@ export default defineConfig({
         "@/shortcodes/Tabs",
         "@/shortcodes/Video",
         "@/shortcodes/Youtube",
+        "@/shortcodes/YoutubePlaylist",
       ],
     }),
     mdx(),

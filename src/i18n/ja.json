@@ -12,6 +12,12 @@
   "page_not_found_content": "The page you are looking for may have been removed, renamed, or is temporarily unavailable.",
   "get_started": "Get Started",
 
+  "home": "Trang chủ",
+  "faqs": "FAQs",
+  "cautions": "Cautions",
+  "koans": "Koans",
+  "masters": "Zen Masters",
+  "monasteries": "Zen Monasteries",
   "books": "本",
   "download": "ダウンロード",
   "severe_problem": "生死に関わる大問題が最も緊急です !!!",
@@ -19,6 +25,7 @@
 
   "gao_min": "GAO MIN MONASTERY",
   "tu_an": "TU AN ZEN TEMPLE",
+  "duy_phap": "DUY PHAP ZEN TEMPLE",
 
   "seven_things_left_behind": "7 things left behind by Shishuang Qingzhu",
   "seven_things_left_behind_1": "Stop all actions and movements",

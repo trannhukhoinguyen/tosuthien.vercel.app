@@ -1,6 +1,7 @@
 {
   "main": [
     { "name": "الصفحة الرئيسية", "url": "/" },
+
     {
       "name": "الخطب والكتابات",
       "url": "/speeches-and-writings",
@@ -12,9 +13,25 @@
         { "name": "كتب", "url": "/books" }
       ]
     },
+
     { "name": "سادة الزن", "url": "/masters" },
-    { "name": "تحميل\uD83D\uDCE5", "url": "/download" },
-    { "name": "Zen Monasteries", "url": "/monasteries" }
+    { "name": "أديرة زن", "url": "/monasteries" },
+
+    {
+      "name": "Media",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "تحميل\uD83D\uDCE5",
+          "url": "/download"
+        },
+        {
+          "name": "Youtube",
+          "url": "/youtube"
+        }
+      ]
+    }
   ],
   "footer": [
 

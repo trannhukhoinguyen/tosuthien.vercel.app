@@ -13,8 +13,17 @@
       ]
     },
     { "name": "禅师", "url": "/masters" },
-    { "name": "下载\uD83D\uDCE5", "url": "/download" },
-    { "name": "Zen Monasteries", "url": "/monasteries" }
+    { "name": "Zen Monasteries", "url": "/monasteries" },
+
+    {
+      "name": "Media",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "下载\uD83D\uDCE5", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    }
   ],
   "footer": [
 

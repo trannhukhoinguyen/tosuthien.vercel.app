@@ -12,6 +12,12 @@
   "back_to_home": "Retour à l'accueil",
   "get_started": "Commencez à utiliser",
 
+  "home": "Trang chủ",
+  "faqs": "FAQs",
+  "cautions": "Cautions",
+  "koans": "Koans",
+  "masters": "Zen Masters",
+  "monasteries": "Zen Monasteries",
   "books": "Livres",
   "download": "Télécharger",
   "severe_problem": "Le gros problème de la vie ou de la mort est le plus urgent !!!",
@@ -19,6 +25,7 @@
 
   "gao_min": "GAO MIN MONASTERY",
   "tu_an": "TU AN ZEN TEMPLE",
+  "duy_phap": "DUY PHAP ZEN TEMPLE",
 
   "seven_things_left_behind": "7 things left behind by Shishuang Qingzhu",
   "seven_things_left_behind_1": "Stop all actions and movements",

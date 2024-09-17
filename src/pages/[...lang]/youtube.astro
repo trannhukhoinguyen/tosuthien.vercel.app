@@ -1,0 +1,32 @@
+---
+import Base from "@/layouts/Base.astro";
+import BookList from "@/layouts/components/Books/BookList.astro";
+import { supportedLang } from "@/lib/utils/languageParser";
+import { site } from "@/config/config.json";
+import YoutubePlaylist from '../../../src/layouts/shortcodes/YoutubePlaylist';
+import youtubePlaylistDb from "../../../src/db/youtube/youtubePlaylistDb";
+export function getStaticPaths() {
+    const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+const { lang } = Astro.params;
+---
+
+<title>{ site.title + ' - Youtube Playlist' }</title>
+<Base>
+  <div style="display: flex; justify-content: space-between;">
+
+    {
+      youtubePlaylistDb?.map(list =>
+        <div style="flex: 1; padding-inline: 12px;">
+          <YoutubePlaylist playlistId={list.listId} playlistTitle={list.title} />
+        </div>
+      )
+    }
+
+  </div>
+
+</Base>
