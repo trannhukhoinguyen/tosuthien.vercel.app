@@ -22,7 +22,7 @@
       "url": "/media",
       "hasChildren": true,
       "children": [
-        { "name": "Herunterladen\uD83D\uDCE5", "url": "/download" },
+        { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
         { "name": "Youtube", "url": "/youtube" }
       ]
     }
