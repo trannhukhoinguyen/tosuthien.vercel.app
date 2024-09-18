@@ -1,4 +1,4 @@
-const CnLv4MasterDb = [
+const masterDb = [
   {
     id: 53,
     name_en: 'Shitou Xiqian',
@@ -14,8 +14,8 @@ const CnLv4MasterDb = [
     birth_death_time: ['700', '790'],
     sect: '-',
     country: 'China',
-    place: 'Nantai Temple, Nanyue Heng mountain, Hunan',
-    teachers: ['Dajian Huineng, Qingyuan Xingsi'],
+    place: '',
+    teachers: ['Tianhuang Daowu'],
     successors: ['Yaoshan Weiyan'],
     disciples: ['Yaoshan Weiyan'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shitou_Xiqian.jpg/220px-Shitou_Xiqian.jpg',
@@ -378,4 +378,4 @@ const CnLv4MasterDb = [
     image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg'
   },
 ]
-export default CnLv4MasterDb;
+export default masterDb;

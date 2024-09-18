@@ -1,4 +1,4 @@
-const CnLv2MasterDb = [
+const CnLv4MasterDb = [
   {
     id: '35.1',
     name_en: 'Tianhuang Daowu',
@@ -14,14 +14,14 @@ const CnLv2MasterDb = [
     birth_death_time: ['738/748', '807'],
     sect: '-',
     country: 'China',
-    place: '',
-    teachers: ['Shitou Xiqian'],
-    successors: ['Longtan Chongxin'],
-    disciples: ['Longtan Chongxin'],
-    image: '',
+    place: 'Nantai Temple, Nanyue Heng mountain, Hunan',
+    teachers: ['Dajian Huineng, Qingyuan Xingsi'],
+    successors: ['Yaoshan Weiyan'],
+    disciples: ['Yaoshan Weiyan'],
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shitou_Xiqian.jpg/220px-Shitou_Xiqian.jpg',
   },
   {
-    id: 54,
+    id: 35.2,
     name_en: 'Mazu Daoyi',
     name_es: 'Mazu Daoyi',
     name_de: 'Mazu Daoyi',
@@ -378,4 +378,4 @@ const CnLv2MasterDb = [
     image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg'
   },
 ]
-export default CnLv2MasterDb;
+export default CnLv4MasterDb;

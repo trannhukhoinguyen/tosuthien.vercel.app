@@ -1,4 +1,4 @@
-const masterDb = [
+const CnLv2MasterDb = [
   {
     id: '36.1',
     name_en: 'Longtan Chongxin',
@@ -15,10 +15,10 @@ const masterDb = [
     sect: '-',
     country: 'China',
     place: '',
-    teachers: ['Tianhuang Daowu'],
-    successors: ['Yaoshan Weiyan'],
-    disciples: ['Yaoshan Weiyan'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shitou_Xiqian.jpg/220px-Shitou_Xiqian.jpg',
+    teachers: ['Shitou Xiqian'],
+    successors: ['Longtan Chongxin'],
+    disciples: ['Longtan Chongxin'],
+    image: '',
   },
   {
     id: 54,
@@ -378,4 +378,4 @@ const masterDb = [
     image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg'
   },
 ]
-export default masterDb;
+export default CnLv2MasterDb;
