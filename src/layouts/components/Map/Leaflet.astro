@@ -4,7 +4,10 @@ import {ContentEntryMap} from "astro:content";
 import mapDb from "../../../db/maps/mapDb";
 
 const { lang } = Astro.params;
-const { gao_min, tu_an, duy_phap } = await getTranslations(lang as keyof ContentEntryMap);
+const {
+  patriarchal_zen,
+  gao_min, tu_an, duy_phap
+} = await getTranslations(lang as keyof ContentEntryMap);
 ---
 <html lang="en">
 <head>
@@ -24,95 +27,158 @@ const { gao_min, tu_an, duy_phap } = await getTranslations(lang as keyof Content
 
 <body>
 <!-- Cao Mân-->
-<div class="mb-8">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; padding-right: 10px;">
-      <a href="/monasteries/gao-min" target="_blank">
-        <h1>{gao_min}</h1>
-        <img width="300px" decoding="async" src="https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg" />
-        <p>
+<section class="bg-white dark:bg-gray-900">
+  <div class="container px-6 py-10 mx-auto">
+    <a href="/monasteries/tu-an" target="_blank">
+      <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">{gao_min}</h1>
+    </a>
+
+    <div class="mt-8 lg:-mx-6 lg:flex lg:items-center h-auto">
+      <div class="object-cover w-full lg:mx-6 lg:w-1/2 rounded-xl h-auto">
+        <button
+          class="relative inset-y-1/2"
+          title="Show this map"
+          onclick="window.location.reload()"
+          style="font-size: 24px; cursor: pointer;"
+          client:load
+        >
+          &#128065; <!-- Eye icon HTML entity -->
+          <span style="font-size: small">Show this map</span>
+        </button>
+        <div id="gao-min" class="maps"></div>
+      </div>
+
+      <div class="mt-6 lg:w-1/2 lg:mt-0 lg:mx-6 ">
+        <p class="text-sm text-blue-500 uppercase">category</p>
+
+        <a href="/monasteries/gao-min" target="_blank" class="block mt-4 text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
+          <img width="300px" decoding="async" src="https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg" />
+        </a>
+
+        <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
           {
             !lang || lang === 'vi'
               ? 'Vị trí Chùa Cao Mân 高旻寺 : tọa lạc tại thành phố Dương Châu tỉnh Giang Tô, nằm ở nơi giao nhau giữa Cổ Vận Hà (con sông đào có từ thời Nhà Tùy) và sông Nghi Dương.'
               : 'Location of Gao Man Temple 高旻寺: located in Yangzhou city, Jiangsu province, at the intersection of Co Yunhe (a canal dating back to the Sui Dynasty) and Yiyang River.'
           }
         </p>
-      </a>
-    </div>
-    <div style="flex: 3; padding-left: 10px;">
-      <button
-        title="Show this map"
-        onclick="window.location.reload()"
-        style="font-size: 24px; cursor: pointer;"
-        client:load
-      >
-        &#128065; <!-- Eye icon HTML entity -->
-        <span style="font-size: small">Show this map</span>
-      </button>
-      <div id="gao-min" class="maps"></div>
+
+        <a href="#" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
+
+        <div class="flex items-center mt-6">
+          <img class="object-cover object-center w-10 h-10 rounded-full" src="http://tosuthien.com/wp-content/uploads/2022/12/logo-tosuthien.png" alt="">
+
+          <div class="mx-4">
+            <h1 class="text-sm text-gray-700 dark:text-gray-200">{patriarchal_zen}</h1>
+            <p class="text-sm text-gray-500 dark:text-gray-400">Zen Master</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</div>
+</section>
+
 <!-- Từ Ân-->
-<div class="mb-8">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; padding-right: 10px;">
-      <a href="/monasteries/tu-an" target="_blank">
-        <h1>{tu_an}</h1>
-        <img width="300px" decoding="async" src="https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg" />
-        <p>
+<section class="bg-white dark:bg-gray-900">
+  <div class="container px-6 py-10 mx-auto">
+    <a href="/monasteries/tu-an" target="_blank">
+      <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">{tu_an}</h1>
+    </a>
+
+    <div class="mt-8 lg:-mx-6 lg:flex lg:items-center h-auto">
+      <div class="object-cover w-full lg:mx-6 lg:w-1/2 rounded-xl h-auto">
+        <button
+          title="Show this map"
+          onclick="location.reload()"
+          style="font-size: 24px; cursor: pointer;"
+          client:load
+        >
+          &#128065; <!-- Eye icon HTML entity -->
+          <span style="font-size: small">Show this map</span>
+        </button>
+        <div id="tu-an" class="maps"></div>
+      </div>
+
+      <div class="mt-6 lg:w-1/2 lg:mt-0 lg:mx-6 ">
+        <p class="text-sm text-blue-500 uppercase">category</p>
+
+        <a href="/monasteries/tu-an" target="_blank" class="block mt-4 text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
+          <img width="300px" decoding="async" src="https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg" />
+        </a>
+
+        <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
           {
             !lang || lang === 'vi'
               ? 'Từ Ân Thiền Đường là một ngôi chùa nhỏ ở Santa Ana, có những độc đáo riêng, khó tìm được ở nhiều nơi khác. Bạn sẽ không nghe tiếng tụng kinh nơi đây, kể cả những ngày Chủ Nhật.'
               : 'Tu An Zen Temple is a small temple in Santa Ana, with its own unique qualities that are difficult to find in many other places. You will not hear chanting here, even on Sundays.'
           }
         </p>
-      </a>
-    </div>
-    <div style="flex: 3; padding-left: 10px;">
-      <button
-        title="Show this map"
-        onclick="location.reload()"
-        style="font-size: 24px; cursor: pointer;"
-        client:load
-      >
-        &#128065; <!-- Eye icon HTML entity -->
-        <span style="font-size: small">Show this map</span>
-      </button>
-      <div id="tu-an" class="maps"></div>
+
+        <a href="#" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
+
+        <div class="flex items-center mt-6">
+          <img class="object-cover object-center w-10 h-10 rounded-full" src="http://tosuthien.com/wp-content/uploads/2022/12/logo-tosuthien.png" alt="">
+
+          <div class="mx-4">
+            <h1 class="text-sm text-gray-700 dark:text-gray-200">{patriarchal_zen}</h1>
+            <p class="text-sm text-gray-500 dark:text-gray-400">Zen Master</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</div>
+</section>
+
 <!-- Duy Pháp-->
-<div class="mb-8">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; padding-right: 10px;">
-      <a href="/monasteries/duy-phap" target="_blank">
-        <h1>{duy_phap}</h1>
-        <img width="300px" decoding="async" src="https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg" />
-        <p>
+<section class="bg-white dark:bg-gray-900">
+  <div class="container px-6 py-10 mx-auto">
+    <a href="/monasteries/tu-an" target="_blank">
+      <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">{duy_phap}</h1>
+    </a>
+
+    <div class="mt-8 lg:-mx-6 lg:flex lg:items-center h-auto">
+      <div class="object-cover w-full lg:mx-6 lg:w-1/2 rounded-xl h-auto">
+        <button
+          title="Show this map"
+          onclick="location.reload()"
+          style="font-size: 24px; cursor: pointer;"
+          client:load
+        >
+          &#128065; <!-- Eye icon HTML entity -->
+          <span style="font-size: small">Show this map</span>
+        </button>
+        <div id="duy-phap" class="maps"></div>
+      </div>
+
+      <div class="mt-6 lg:w-1/2 lg:mt-0 lg:mx-6 ">
+        <p class="text-sm text-blue-500 uppercase">category</p>
+
+        <a href="/monasteries/tu-an" target="_blank" class="block mt-4 text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
+          <img width="300px" decoding="async" src="https://tosuthien.com/wp-content/uploads/2021/11/cua-chua-1-768x576.jpg" />
+        </a>
+
+        <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
           {
             !lang || lang === 'vi'
-              ? 'Duy Pháp'
-              : 'Duy Phap'
+              ? '...'
+              : '...'
           }
         </p>
-      </a>
-    </div>
-    <div style="flex: 3; padding-left: 10px;">
-      <button
-        title="Show this map"
-        onclick="location.reload()"
-        style="font-size: 24px; cursor: pointer;"
-        client:load
-      >
-        &#128065; <!-- Eye icon HTML entity -->
-        <span style="font-size: small">Show this map</span>
-      </button>
-      <div id="duy-phap" class="maps"></div>
+
+        <a href="#" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
+
+        <div class="flex items-center mt-6">
+          <img class="object-cover object-center w-10 h-10 rounded-full" src="http://tosuthien.com/wp-content/uploads/2022/12/logo-tosuthien.png" alt="">
+
+          <div class="mx-4">
+            <h1 class="text-sm text-gray-700 dark:text-gray-200">{patriarchal_zen}</h1>
+            <p class="text-sm text-gray-500 dark:text-gray-400">Zen Master</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</div>
+</section>
 
 <script>
   const mapDb = [

@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import selectionDb from "../../../src/db/selectionDb.tsx";
+import sectDb from "../../../src/db/sectDb.tsx";
 
 interface TableProps {
   data: {
@@ -13,7 +15,7 @@ interface TableProps {
     name_ja: string
     name_ko: string
     name_ar: string
-    birth_death_time: string
+    birth_death_time: string[]
     sect: string
     country: string
     place: string
@@ -53,7 +55,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
       || item.name_ja.toLowerCase().includes(searchTerm)
       || item.name_ko.toLowerCase().includes(searchTerm)
       || item.name_ar.toLowerCase().includes(searchTerm)
-      || item.birth_death_time.toLowerCase().includes(searchTerm)
+      || item.birth_death_time.some(time => time.toLowerCase().includes(searchTerm))
       || item.sect.toLowerCase().includes(searchTerm)
       || item.country.toLowerCase().includes(searchTerm)
       || item.place.toLowerCase().includes(searchTerm)
@@ -66,16 +68,53 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
   const indexOfFirstItem = indexOfLastItem - itemsPerPage;
   const currentData = filteredData.slice(indexOfFirstItem, indexOfLastItem);
   const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+  const lastPage = filteredData.length % itemsPerPage === 0 ? filteredData.length / itemsPerPage : Math.ceil(filteredData.length / itemsPerPage);
 
   return (
-    <div>
-      <input
-        type="text"
-        placeholder="Search by name..."
-        value={searchTerm}
-        onChange={handleSearch}
-        className="search-input"
-      />
+    <div className="-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 pr-10 lg:px-8">
+
+      <div className="align-middle rounded-tl-lg rounded-tr-lg inline-block w-full py-4 overflow-hidden bg-white shadow-lg px-12">
+        <div className="flex justify-between">
+          <div className="ml-3">
+            <div className="w-full max-w-sm min-w-[200px] relative">
+              <div className="relative">
+                <input
+                  className="bg-white w-full pr-11 h-10 pl-3 py-2 bg-transparent placeholder:text-slate-400 text-slate-700 text-sm border border-slate-200 rounded transition duration-200 ease focus:outline-none focus:border-slate-400 hover:border-slate-400 shadow-sm focus:shadow-md"
+                  type="text"
+                  placeholder="Search by name..."
+                  value={searchTerm}
+                  onChange={handleSearch}
+                />
+                <button
+                  className="absolute h-8 w-8 right-1 top-1 my-auto px-2 flex items-center bg-white rounded "
+                  type="button"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3"
+                       stroke="currentColor" className="w-8 h-8 text-slate-600">
+                    <path stroke-linecap="round" stroke-linejoin="round"
+                          d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"/>
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <div className="px-4 md:px-10">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center text-sm font-medium leading-none cursor-pointer rounded">
+                <p>Sort By:</p>
+                <select aria-label="select" className="focus:text-indigo-600 focus:outline-none bg-transparent ml-1">
+                  {
+                    [] || selectionDb?.map(option =>
+                      <option className="text-sm text-indigo-800">{option.label}</option>
+                    )
+                  }
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <table>
         <thead>
@@ -105,8 +144,14 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
           <tr key={item.id}>
             <td>{item.id}</td>
                               <td>
-                                {item.name_en}
-                                <a target="_blank" href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))} title="read more">📖</a>
+                                <a
+                                  target="_blank"
+                                  href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}
+                                  title="read more"
+                                  className="text-blue-700"
+                                >
+                                  {item.name_en}
+                                </a>
                               </td>
             {lang === 'es' && <td>{item.name_es}</td>}
             {lang === 'de' && <td>{item.name_de}</td>}
@@ -117,8 +162,36 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
             {lang === 'ja' && <td>{item.name_ja}</td>}
             {lang === 'ko' && <td>{item.name_ko}</td>}
             {lang === 'ar' && <td>{item.name_ar}</td>}
-            <td>{item.birth_death_time}</td>
-            <td>{item.sect}</td>
+            <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
+              <div className="flex items-center">
+                <span className="mr-1">{item.birth_death_time[0]}</span>
+                <span className="mr-1">
+                  { item.birth_death_time[0] && item.birth_death_time[1]
+                      ? '⇨'
+                      : ''
+                  }
+                </span>
+                <span className="mr-1">{item.birth_death_time[1]}</span>
+              </div>
+            </td>
+            <td>
+              <span
+                className={`
+                  relative inline-block px-3 py-1 font-semibold
+                  text-${sectDb?.find(s => s.label === item.sect)?.color}-600
+                  leading-tight`
+                }
+              >
+                  <span aria-hidden
+                    className={`
+                      absolute inset-0
+                      bg-${sectDb?.find(s => s.label === item.sect)?.color}-200
+                      opacity-50 rounded-full`
+                    }
+                  ></span>
+									<span className="relative">{item.sect}</span>
+              </span>
+            </td>
             <td>{item.country}</td>
             <td>{item.place}</td>
             <td>{item.teachers.join(', ')}</td>
@@ -129,29 +202,35 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
         </tbody>
       </table>
 
-      <div className="pagination">
-        <button
-          onClick={() => handlePageChange(currentPage - 1)}
-          disabled={currentPage === 1}
-        >
-          Previous
-        </button>
-        {Array.from({ length: totalPages }, (_, index) => (
+      <div className="flex justify-between items-center">
+        <div className="text-sm text-slate-500">
+          Showing <b>{ indexOfFirstItem+1 } - { currentPage === lastPage ? indexOfLastItem : indexOfLastItem }</b> of { filteredData.length }
+        </div>
+        <div className="pagination">
           <button
-            key={index + 1}
-            onClick={() => handlePageChange(index + 1)}
-            className={currentPage === index + 1 ? 'active' : ''}
+            onClick={() => handlePageChange(currentPage - 1)}
+            disabled={currentPage === 1}
           >
-            {index + 1}
+            Previous
           </button>
-        ))}
-        <button
-          onClick={() => handlePageChange(currentPage + 1)}
-          disabled={currentPage === totalPages}
-        >
-          Next
-        </button>
+          {Array.from({ length: totalPages }, (_, index) => (
+            <button
+              key={index + 1}
+              onClick={() => handlePageChange(index + 1)}
+              className={currentPage === index + 1 ? 'active' : ''}
+            >
+              {index + 1}
+            </button>
+          ))}
+          <button
+            onClick={() => handlePageChange(currentPage + 1)}
+            disabled={currentPage === totalPages}
+          >
+            Next
+          </button>
+        </div>
       </div>
+
     </div>
   );
 };
