@@ -29,10 +29,6 @@ const {
 <!-- Cao Mân-->
 <section class="bg-white dark:bg-gray-900">
   <div class="container px-6 py-10 mx-auto">
-    <a href="/monasteries/tu-an" target="_blank">
-      <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">{gao_min}</h1>
-    </a>
-
     <div class="mt-8 lg:-mx-6 lg:flex lg:items-center h-auto">
       <div class="object-cover w-full lg:mx-6 lg:w-1/2 rounded-xl h-auto">
         <button
@@ -48,26 +44,40 @@ const {
         <div id="gao-min" class="maps"></div>
       </div>
 
-      <div class="mt-6 lg:w-1/2 lg:mt-0 lg:mx-6 ">
-        <p class="text-sm text-blue-500 uppercase">category</p>
+      <div class="lg:w-1/2 mt-0 top-0 ">
+        <div class="flex justify-between">
+          <div class="flex-auto">
+            <a href="/monasteries/gao-min" target="_blank">
+              <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">{gao_min}</h1>
+            </a>
+          </div>
+          <div class="flex-auto">
 
-        <a href="/monasteries/gao-min" target="_blank" class="block mt-4 text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
-          <img width="300px" decoding="async" src="https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg" />
-        </a>
+          </div>
+        </div>
+        <div class="flex justify-evenly">
+          <div class="flex-1">
+            <a href="/monasteries/gao-min" target="_blank" class="text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
+              <img width="300px" decoding="async" src="https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg" />
+            </a>
+          </div>
+          <div class="flex-1">
+            <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
+              {
+                !lang || lang === 'vi'
+                  ? 'Vị trí Chùa Cao Mân 高旻寺 : tọa lạc tại thành phố Dương Châu tỉnh Giang Tô, nằm ở nơi giao nhau giữa Cổ Vận Hà (con sông đào có từ thời Nhà Tùy) và sông Nghi Dương.'
+                  : 'Location of Gao Man Temple 高旻寺: located in Yangzhou city, Jiangsu province, at the intersection of Co Yunhe (a canal dating back to the Sui Dynasty) and Yiyang River.'
+              }
+            </p>
 
-        <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
-          {
-            !lang || lang === 'vi'
-              ? 'Vị trí Chùa Cao Mân 高旻寺 : tọa lạc tại thành phố Dương Châu tỉnh Giang Tô, nằm ở nơi giao nhau giữa Cổ Vận Hà (con sông đào có từ thời Nhà Tùy) và sông Nghi Dương.'
-              : 'Location of Gao Man Temple 高旻寺: located in Yangzhou city, Jiangsu province, at the intersection of Co Yunhe (a canal dating back to the Sui Dynasty) and Yiyang River.'
-          }
-        </p>
+            <a href="/monasteries/gao-min" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
 
-        <a href="#" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
+            <img class="flex mt-2 object-cover object-center w-44" src="https://cdn.me-qr.com/qr/126566002.png?v=09192024184706786650" alt="">
+          </div>
+        </div>
 
-        <div class="flex items-center mt-6">
+        <div class="flex items-center mt-4">
           <img class="object-cover object-center w-10 h-10 rounded-full" src="http://tosuthien.com/wp-content/uploads/2022/12/logo-tosuthien.png" alt="">
-
           <div class="mx-4">
             <h1 class="text-sm text-gray-700 dark:text-gray-200">{patriarchal_zen}</h1>
             <p class="text-sm text-gray-500 dark:text-gray-400">Zen Master</p>
@@ -114,7 +124,7 @@ const {
           }
         </p>
 
-        <a href="#" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
+        <a href="/monasteries/tu-an" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
 
         <div class="flex items-center mt-6">
           <img class="object-cover object-center w-10 h-10 rounded-full" src="http://tosuthien.com/wp-content/uploads/2022/12/logo-tosuthien.png" alt="">
@@ -132,7 +142,7 @@ const {
 <!-- Duy Pháp-->
 <section class="bg-white dark:bg-gray-900">
   <div class="container px-6 py-10 mx-auto">
-    <a href="/monasteries/tu-an" target="_blank">
+    <a href="/monasteries/duy_phap" target="_blank">
       <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">{duy_phap}</h1>
     </a>
 
@@ -153,7 +163,7 @@ const {
       <div class="mt-6 lg:w-1/2 lg:mt-0 lg:mx-6 ">
         <p class="text-sm text-blue-500 uppercase">category</p>
 
-        <a href="/monasteries/tu-an" target="_blank" class="block mt-4 text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
+        <a href="/monasteries/duy_phap" target="_blank" class="block mt-4 text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
           <img width="300px" decoding="async" src="https://tosuthien.com/wp-content/uploads/2021/11/cua-chua-1-768x576.jpg" />
         </a>
 
@@ -165,7 +175,7 @@ const {
           }
         </p>
 
-        <a href="#" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
+        <a href="/monasteries/duy_phap" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
 
         <div class="flex items-center mt-6">
           <img class="object-cover object-center w-10 h-10 rounded-full" src="http://tosuthien.com/wp-content/uploads/2022/12/logo-tosuthien.png" alt="">

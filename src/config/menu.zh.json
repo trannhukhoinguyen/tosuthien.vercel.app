@@ -2,13 +2,29 @@
   "main": [
     { "name": "家", "url": "/" },
 
-    { "name": "問答", "url": "/faqs" },
-    { "name": "注意事项", "url": "/cautions" },
-    { "name": "公案", "url": "/koans" },
-    { "name": "图书", "url": "/books" },
-    { "name": "禅师", "url": "/masters" },
-    { "name": "Zen Monasteries", "url": "/monasteries" },
-    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-    { "name": "Youtube", "url": "/youtube" }
+    {
+      "name": "大師與傑作",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "禪宗大師與教義", "url": "/masters" },
+        { "name": "注意事项", "url": "/cautions" },
+        { "name": "問答", "url": "/faqs" },
+        { "name": "公案", "url": "/koans" }
+      ]
+    },
+
+    {
+      "name": "媒體",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "图书", "url": "/books" },
+        { "name": "PDF & MP3", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    },
+
+    { "name": "禪宗寺院", "url": "/monasteries" }
   ]
 }

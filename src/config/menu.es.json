@@ -2,13 +2,29 @@
   "main": [
     { "name": "Inicio", "url": "/" },
 
-    { "name": "Preguntas y respuestas", "url": "/faqs" },
-    { "name": "Precauciones", "url": "/cautions" },
-    { "name": "Koans", "url": "/koans" },
-    { "name": "Libros", "url": "/books" },
-    { "name": "Maestros zen & ", "url": "/masters" },
-    { "name": "Zen Monasteries", "url": "/monasteries" },
-    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-    { "name": "Youtube", "url": "/youtube" }
+    {
+      "name": "Maestros y obras maestras",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Maestros zen y enseñanzas", "url": "/masters" },
+        { "name": "Precauciones", "url": "/cautions" },
+        { "name": "Preguntas y respuestas", "url": "/faqs" },
+        { "name": "Koans", "url": "/koans" }
+      ]
+    },
+
+    {
+      "name": "Medios",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Libros", "url": "/books" },
+        { "name": "PDF & MP3", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    },
+
+    { "name": "Monasterios zen", "url": "/monasteries" }
   ]
 }

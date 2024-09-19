@@ -2,13 +2,29 @@
   "main": [
     { "name": "Trang chủ", "url": "/" },
 
-    { "name": "Hỏi đáp", "url": "/faqs" },
-    { "name": "Cảnh ngữ", "url": "/cautions" },
-    { "name": "Công án", "url": "/koans" },
-    { "name": "Sách", "url": "/books" },
-    { "name": "Thiền sư", "url": "/masters" },
-    { "name": "Thiền viện", "url": "/monasteries" },
-    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-    { "name": "Youtube", "url": "/youtube" }
+    {
+      "name": "Masters & Masterpieces",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Thiền sư & Ngữ lục", "url": "/masters" },
+        { "name": "Cảnh ngữ", "url": "/cautions" },
+        { "name": "Hỏi đáp", "url": "/faqs" },
+        { "name": "Công án", "url": "/koans" }
+      ]
+    },
+
+    {
+      "name": "Media",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Sách", "url": "/books" },
+        { "name": "PDF & MP3", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    },
+
+    { "name": "Thiền viện", "url": "/monasteries" }
   ]
 }

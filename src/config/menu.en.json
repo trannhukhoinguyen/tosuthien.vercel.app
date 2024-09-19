@@ -2,13 +2,29 @@
   "main": [
     { "name": "Home", "url": "/" },
 
-    { "name": "FAQs", "url": "/faqs" },
-    { "name": "Cautions", "url": "/cautions" },
-    { "name": "Koans", "url": "/koans" },
-    { "name": "Books", "url": "/books" },
-    { "name": "Zen Masters & Teaching", "url": "/masters" },
-    { "name": "Zen Monasteries", "url": "/monasteries" },
-    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-    { "name": "Youtube", "url": "/youtube" }
+    {
+      "name": "Masters & Masterpieces",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Zen Masters & Teaching", "url": "/masters" },
+        { "name": "Cautions", "url": "/cautions" },
+        { "name": "FAQs", "url": "/faqs" },
+        { "name": "Koans", "url": "/koans" }
+      ]
+    },
+
+    {
+      "name": "Media",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Books", "url": "/books" },
+        { "name": "PDF & MP3", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    },
+
+    { "name": "Zen Monasteries", "url": "/monasteries" }
   ]
 }

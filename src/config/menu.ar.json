@@ -2,13 +2,29 @@
   "main": [
     { "name": "الصفحة الرئيسية", "url": "/" },
 
-    { "name": "سؤال وجواب", "url": "/faqs" },
-    { "name": "خطبة تحذيرية", "url": "/cautions" },
-    { "name": "زين كوان", "url": "/koans" },
-    { "name": "كتب", "url": "/books" },
-    { "name": "سادة الزن", "url": "/masters" },
-    { "name": "أديرة زن", "url": "/monasteries" },
-    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-    { "name": "Youtube", "url": "/youtube" }
+    {
+      "name": "روائع وتحف فنية",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "أساتذة الزن وتعاليمهم", "url": "/masters" },
+        { "name": "خطبة تحذيرية", "url": "/cautions" },
+        { "name": "سؤال وجواب", "url": "/faqs" },
+        { "name": "زين كوان", "url": "/koans" }
+      ]
+    },
+
+    {
+      "name": "وسائط",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "كتب", "url": "/books" },
+        { "name": "PDF & MP3", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    },
+
+    { "name": "أديرة زن", "url": "/monasteries" }
   ]
 }

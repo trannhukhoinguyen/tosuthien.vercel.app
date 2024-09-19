@@ -1,14 +1,29 @@
 {
   "main": [
     { "name": "家", "url": "/" },
+    {
+      "name": "マスターズと傑作",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "禅の師と教え", "url": "/masters" },
+        { "name": "注意事項", "url": "/cautions" },
+        { "name": "よくある質問", "url": "/faqs" },
+        { "name": "公案", "url": "/koans" }
+      ]
+    },
 
-    { "name": "よくある質問", "url": "/faqs" },
-    { "name": "注意事項", "url": "/cautions" },
-    { "name": "公案", "url": "/koans" },
-    { "name": "本", "url": "/books" },
-    { "name": "禅の達人", "url": "/masters" },
-    { "name": "Zen Monasteries", "url": "/monasteries" },
-    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-    { "name": "Youtube", "url": "/youtube" }
+    {
+      "name": "メディア",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "本", "url": "/books" },
+        { "name": "PDF & MP3", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    },
+
+    { "name": "禅寺", "url": "/monasteries" }
   ]
 }

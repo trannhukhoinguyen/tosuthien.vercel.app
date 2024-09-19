@@ -1,14 +1,29 @@
 {
   "main": [
     { "name": "Главная", "url": "/" },
+    {
+      "name": "Мастера и шедевры",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Мастера дзен и учения", "url": "/masters" },
+        { "name": "Речь", "url": "/cautions" },
+        { "name": "Вопросы и ответы", "url": "/faqs" },
+        { "name": "Коаны", "url": "/koans" }
+      ]
+    },
 
-    { "name": "Вопросы и ответы", "url": "/faqs" },
-    { "name": "Речь", "url": "/cautions" },
-    { "name": "Коаны", "url": "/koans" },
-    { "name": "Книги", "url": "/books" },
-    { "name": "Мастера Дзен", "url": "/masters" },
-    { "name": "Zen Monasteries", "url": "/monasteries" },
-    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-    { "name": "Youtube", "url": "/youtube" }
+    {
+      "name": "Медиа",
+      "url": "/media",
+      "hasChildren": true,
+      "children": [
+        { "name": "Книги", "url": "/books" },
+        { "name": "PDF & MP3", "url": "/download" },
+        { "name": "Youtube", "url": "/youtube" }
+      ]
+    },
+
+    { "name": "Дзенские монастыри", "url": "/monasteries" }
   ]
 }
