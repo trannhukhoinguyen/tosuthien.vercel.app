@@ -2,31 +2,13 @@
   "main": [
     { "name": "Главная", "url": "/" },
 
-    {
-      "name": "Речи и письма",
-      "url": "/speeches-and-writings",
-      "hasChildren": true,
-      "children": [
-        { "name": "Вопросы и ответы", "url": "/faqs" },
-        { "name": "Речь", "url": "/cautions" },
-        { "name": "Коаны", "url": "/koans" },
-        { "name": "Книги", "url": "/books" }
-      ]
-    },
+    { "name": "Вопросы и ответы", "url": "/faqs" },
+    { "name": "Речь", "url": "/cautions" },
+    { "name": "Коаны", "url": "/koans" },
+    { "name": "Книги", "url": "/books" },
     { "name": "Мастера Дзен", "url": "/masters" },
     { "name": "Zen Monasteries", "url": "/monasteries" },
-
-    {
-      "name": "Media",
-      "url": "/media",
-      "hasChildren": true,
-      "children": [
-        { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-        { "name": "Youtube", "url": "/youtube" }
-      ]
-    }
-  ],
-  "footer": [
-
+    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
+    { "name": "Youtube", "url": "/youtube" }
   ]
 }

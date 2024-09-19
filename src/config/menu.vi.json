@@ -2,32 +2,13 @@
   "main": [
     { "name": "Trang chủ", "url": "/" },
 
-    {
-      "name": "Ngữ Lục",
-      "url": "/speeches-and-writings",
-      "hasChildren": true,
-      "children": [
-        { "name": "Hỏi đáp", "url": "/faqs" },
-        { "name": "Cảnh ngữ", "url": "/cautions" },
-        { "name": "Công án", "url": "/koans" },
-        { "name": "Sách", "url": "/books" }
-      ]
-    },
-
+    { "name": "Hỏi đáp", "url": "/faqs" },
+    { "name": "Cảnh ngữ", "url": "/cautions" },
+    { "name": "Công án", "url": "/koans" },
+    { "name": "Sách", "url": "/books" },
     { "name": "Thiền sư", "url": "/masters" },
     { "name": "Thiền viện", "url": "/monasteries" },
-
-    {
-      "name": "Media",
-      "url": "/media",
-      "hasChildren": true,
-      "children": [
-        { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-        { "name": "Youtube", "url": "/youtube" }
-      ]
-    }
-  ],
-  "footer": [
-
+    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
+    { "name": "Youtube", "url": "/youtube" }
   ]
 }

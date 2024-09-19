@@ -2,32 +2,13 @@
   "main": [
     { "name": "Inicio", "url": "/" },
 
-    {
-      "name": "Discursos y escritos",
-      "url": "/speeches-and-writings",
-      "hasChildren": true,
-      "children": [
-        { "name": "Preguntas y respuestas", "url": "/faqs" },
-        { "name": "Precauciones", "url": "/cautions" },
-        { "name": "Koans", "url": "/koans" },
-        { "name": "Libros", "url": "/books" }
-      ]
-    },
-
-    { "name": "Maestros zen", "url": "/masters" },
+    { "name": "Preguntas y respuestas", "url": "/faqs" },
+    { "name": "Precauciones", "url": "/cautions" },
+    { "name": "Koans", "url": "/koans" },
+    { "name": "Libros", "url": "/books" },
+    { "name": "Maestros zen & ", "url": "/masters" },
     { "name": "Zen Monasteries", "url": "/monasteries" },
-
-    {
-      "name": "Media",
-      "url": "/media",
-      "hasChildren": true,
-      "children": [
-        { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-        { "name": "Youtube", "url": "/youtube" }
-      ]
-    }
-  ],
-  "footer": [
-
+    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
+    { "name": "Youtube", "url": "/youtube" }
   ]
 }

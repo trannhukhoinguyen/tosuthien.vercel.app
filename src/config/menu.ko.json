@@ -2,32 +2,13 @@
   "main": [
     { "name": "집", "url": "/" },
 
-    {
-      "name": "연설 및 저서",
-      "url": "/speeches-and-writings",
-      "hasChildren": true,
-      "children": [
-        { "name": "자주 묻는 질문", "url": "/faqs" },
-        { "name": "주의사항", "url": "/cautions" },
-        { "name": "화두", "url": "/koans" },
-        { "name": "서적", "url": "/books" }
-      ]
-    },
-
+    { "name": "자주 묻는 질문", "url": "/faqs" },
+    { "name": "주의사항", "url": "/cautions" },
+    { "name": "화두", "url": "/koans" },
+    { "name": "서적", "url": "/books" },
     { "name": "선 마스터", "url": "/masters" },
     { "name": "Zen Monasteries", "url": "/monasteries" },
-
-    {
-      "name": "Media",
-      "url": "/media",
-      "hasChildren": true,
-      "children": [
-        { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-        { "name": "Youtube", "url": "/youtube" }
-      ]
-    }
-  ],
-  "footer": [
-
+    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
+    { "name": "Youtube", "url": "/youtube" }
   ]
 }

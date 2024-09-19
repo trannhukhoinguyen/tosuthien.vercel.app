@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import selectionDb from "../../../src/db/selectionDb.tsx";
 import sectDb from "../../../src/db/sectDb.tsx";
+import '@/styles/table.css';
 
 interface TableProps {
   data: {

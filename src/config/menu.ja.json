@@ -2,32 +2,13 @@
   "main": [
     { "name": "家", "url": "/" },
 
-    {
-      "name": "スピーチと著作",
-      "url": "/speeches-and-writings",
-      "hasChildren": true,
-      "children": [
-        { "name": "よくある質問", "url": "/faqs" },
-        { "name": "注意事項", "url": "/cautions" },
-        { "name": "公案", "url": "/koans" },
-        { "name": "本", "url": "/books" }
-      ]
-    },
-
+    { "name": "よくある質問", "url": "/faqs" },
+    { "name": "注意事項", "url": "/cautions" },
+    { "name": "公案", "url": "/koans" },
+    { "name": "本", "url": "/books" },
     { "name": "禅の達人", "url": "/masters" },
     { "name": "Zen Monasteries", "url": "/monasteries" },
-
-    {
-      "name": "Media",
-      "url": "/media",
-      "hasChildren": true,
-      "children": [
-        { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-        { "name": "Youtube", "url": "/youtube" }
-      ]
-    }
-  ],
-  "footer": [
-
+    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
+    { "name": "Youtube", "url": "/youtube" }
   ]
 }

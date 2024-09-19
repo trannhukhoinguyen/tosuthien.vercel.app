@@ -1,31 +1,14 @@
 {
   "main": [
     { "name": "家", "url": "/" },
-    {
-      "name": "演讲与著作",
-      "url": "/speeches-and-writings",
-      "hasChildren": true,
-      "children": [
-        { "name": "問答", "url": "/faqs" },
-        { "name": "注意事项", "url": "/cautions" },
-        { "name": "公案", "url": "/koans" },
-        { "name": "图书", "url": "/books" }
-      ]
-    },
+
+    { "name": "問答", "url": "/faqs" },
+    { "name": "注意事项", "url": "/cautions" },
+    { "name": "公案", "url": "/koans" },
+    { "name": "图书", "url": "/books" },
     { "name": "禅师", "url": "/masters" },
     { "name": "Zen Monasteries", "url": "/monasteries" },
-
-    {
-      "name": "Media",
-      "url": "/media",
-      "hasChildren": true,
-      "children": [
-        { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
-        { "name": "Youtube", "url": "/youtube" }
-      ]
-    }
-  ],
-  "footer": [
-
+    { "name": "PDF & MP3\uD83D\uDCE5", "url": "/download" },
+    { "name": "Youtube", "url": "/youtube" }
   ]
 }
