@@ -13,7 +13,6 @@ draft: false
   <div style="flex: 1; padding-right: 12px;">
     <img decoding="async" src="https://blog.phapthihoi.org/uploads/2021/02/02-A-Nan.jpg" />
 
-  <h1>Tổ Thứ 02 - Tôn Giả A Nan</h1>
   <h3>Hành Trạng</h3>
 
   Từ gọi tắt của âm dịch A Nan Đà (阿難陀), ý dịch là Khánh Hỷ (慶喜), Vô Nhiễm (無染)
