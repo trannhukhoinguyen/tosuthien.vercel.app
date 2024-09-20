@@ -12,8 +12,9 @@ draft: false
 
   <div style="flex: 1; padding-right: 12px;">
     <img decoding="async" src="https://blog.phapthihoi.org/uploads/2021/02/02-A-Nan.jpg">
-    <h1>Tổ Thứ 02 - Tôn Giả A Nan</h1>
-    <h3>Hành Trạng</h3>
+
+  <h1>Tổ Thứ 02 - Tôn Giả A Nan</h1>
+  <h3>Hành Trạng</h3>
 
   Từ gọi tắt của âm dịch A Nan Đà (阿難陀), ý dịch là Khánh Hỷ (慶喜), Vô Nhiễm (無染)
 
@@ -43,10 +44,6 @@ Trong đại hội kết tập Kinh điển lần đầu tiên, ngài A Nan đư
     g) Ngài đã không lấy nước uống cho Đức Phật mặc dù ngài đã ba lần đòi uống. Ngài làm như thế vì bấy giờ nước sông đang đục không thể lấy cho Đức Phật uống được
     h) Ngài đã để cho nam và nữ giới thuộc hàng hạ phẩm được xem âm tàng của Đức Phật. Ngài nói sự để lộ âm tàng của Đức Thế Tôn nhằm giải thoát cho những kẻ còn bận tâm về chuyện ái dục.
 
-
-  </div>
-
-  <div style="flex: 1; padding-right: 12px;">
   Lại cứ theo Phó Pháp Tạng Nhân Duyên Truyện quyển 2 chép, thì Đức Phật truyền pháp cho tôn giả Ma Ha Ca Diếp, Ma Ha Ca Diếp truyền pháp cho ngài A Nan, như vậy, A Nan là tổ thứ hai trong Phó Pháp Tạng. Sau Đức Phật nhập diệt khoảng từ hai mươi đến hai mươi lăm năm, ngài A Nan thị tịch tại miền trung du sông Hằng, trước khi nhập tịch, vua A-xà-thế thưa:
   
   - <em>"Nhân giả! Hai vị thầy tôn kính là Như Lai và Ca Diếp đều đã niết bàn mà con vì nhiều việc không được gặp thầy. Thưa nhân giả, khi Ngài bát niết bàn mong rủ lòng báo con biết."</em>
@@ -123,21 +120,7 @@ Trong đại hội kết tập Kinh điển lần đầu tiên, ngài A Nan đư
   A Nan biết hai người này là pháp khí, bảo họ:
   
   - Trước kia Như Lai đem đại pháp nhãn giao cho Đại Ca Diếp, Ca Diếp giao cho ta rồi vào định.
-    Nay ta sắp nhập diệt nên truyền cho hai ông, hai ông nhận ta dạy hãy nghe ta nói kệ:
-  
-  Kệ:
-  
-      Bổn lai phó hữu pháp,
-      Phó liễu ngôn vô pháp.
-      Các các tu tự ngộ,
-      Ngộ liễu vô vô pháp.
-  
-  Dịch:
-  
-      Xưa nay truyền có pháp,
-      Truyền rồi nói không pháp.
-      Mỗi người nên tự ngộ,
-      Ngộ rồi không không pháp.
+    Nay ta sắp nhập diệt nên truyền cho hai ông, hai ông nhận ta dạy hãy nghe ta nói KỆ TRUYỀN PHÁP.
   
   A Nan truyền pháp nhãn tạng xong, thân vọt lên không trung làm 18 phép biến hóa, nhập vào phong phấn tấn tam muội phân thân làm 4 phần:
   
@@ -148,20 +131,27 @@ Trong đại hội kết tập Kinh điển lần đầu tiên, ngài A Nan đư
   
   Ngài sống đến 120 tuổi.
   Phật thọ ký cho ngài sau nầy thành Phật hiệu là Sơn Hải Tự Tại Thông Vương Phật [X. Kinh Tạp A Hàm Q.44; Trung A Hàm Q.33, Kinh Thị Giả; Kinh Tăng Nhất A Hàm Q.4 Phẩm Đệ Tử; Kinh A Nan Đồng Học; Kinh Phật Bản Hạnh Tập Q.11; Luật Ngũ Phần Q.3, Q.29; Luận Đại Trí Độ Q.3; Đại Đường Tây Vực Kí Q.6, Q.7].
-  
+
+  </div>
+
+  <div style="flex: 1; padding-right: 12px;">
+
   <h2>KỆ TRUYỀN PHÁP</h2>
-  
-        Pháp pháp bổn lai pháp,
-        Vô pháp vô phi pháp.
-        Hà ư nhất pháp trung,
-        Hữu pháp hữu phi pháp
-  
-  Dịch:
-  
-        Các pháp, pháp xưa nay,
-        Không pháp, không phi pháp .
-        Tại sao trong một pháp,
-        Có pháp, có phi pháp.
+
+  _Âm:_
+
+      Bổn lai phó hữu pháp,
+      Phó liễu ngôn vô pháp.
+      Các các tu tự ngộ,
+      Ngộ liễu vô vô pháp.
+
+  _Nghĩa:_  
+
+      Xưa nay truyền có pháp,
+      Truyền rồi nói không pháp.
+      Mỗi người nên tự ngộ,
+      Ngộ rồi không không pháp.
+
   </div>
 
 </div>

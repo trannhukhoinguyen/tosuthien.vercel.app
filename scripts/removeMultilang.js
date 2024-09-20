@@ -69,4 +69,3 @@ fs.readdir(i18nDir, (err, files) => {
   });
 });
 
-console.log("Cleanup completed.");
