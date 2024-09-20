@@ -279,10 +279,22 @@ const bookViDb = [
     type: 'Speech',
     author: 'Nguyên tác Anh ngữ: Thiền sư Sùng Sơn',
     description: 'Thích Giác Nguyên Việt dịch',
-    info: '',
+    info: 'Bạn đang làm gì trong thế giới này???',
     link: 'https://hoavouu.com/images/file/igcK92Ax0QgQALN0/thien-tong-chi-nam.pdf',
     youtube: '',
     saveAudio: '',
+  },
+  {
+    id: 24,
+    cover: 'https://i.ytimg.com/vi/xLe6zeO2H-k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDfhIltoRvqBHA0lfSgEr5Zn6bmaQ',
+    title: 'TRUNG PHONG PHÁP NGỮ',
+    type: 'Speech',
+    author: 'Thiên Mục Trung Phong Minh Bản Thiền Sư',
+    description: 'Nguyên Chánh dịch',
+    info: 'Trích trong Chỉ Nguyệt Lục của bộ Tục Tạng Kinh',
+    link: 'https://www.niemphat.vn/downloads/thien-tong/truoc-tac/trung-phong-phap-ngu-nguyen-chanh-dich.pdf',
+    youtube: 'plJmknVMv3c',
+    saveAudio: 'https://ph.tinhtong.vn/ftp2/ZIP%20MP3/MP3/-%20T%20Duy%20Luc/Trung%20Phong%20Ph%C3%A1p%20Ng%E1%BB%AF/Trung%20Phong%20Ph%C3%A1p%20Ng%E1%BB%AF.zip',
   },
 ]
 export default bookViDb;
