@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import selectionDb from "../../../src/db/selectionDb.tsx";
 import sectDb from "../../../src/db/sectDb.tsx";
 import '@/styles/table.css';
+import Modal from "./../helpers/Modal";
 
 interface TableProps {
   data: {
@@ -17,6 +18,7 @@ interface TableProps {
     name_ko: string
     name_ar: string
     birth_death_time: string[]
+    records: string | undefined
     sect: string
     country: string
     place: string
@@ -24,7 +26,7 @@ interface TableProps {
     successors: string[]
     disciples: string[]
   }[];
-  lang: string;
+  lang: string | undefined;
   itemsPerPage?: number;
 }
 const formatUrl = (url: String) => url.replace(/%20| /g, '-');
@@ -36,12 +38,10 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
   const handleSearch = (event: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(event.target.value.toLowerCase());
     setCurrentPage(1);
-    console.log('handleSearchhandleSearch')
   };
 
   const handlePageChange = (pageNumber: number) => {
     setCurrentPage(pageNumber);
-    console.log('handlePageChangehandlePageChange')
   };
 
   const filteredData = data.filter(
@@ -90,9 +90,9 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
                   className="absolute h-8 w-8 right-1 top-1 my-auto px-2 flex items-center bg-white rounded "
                   type="button"
                 >
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3"
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="3"
                        stroke="currentColor" className="w-8 h-8 text-slate-600">
-                    <path stroke-linecap="round" stroke-linejoin="round"
+                    <path strokeLinecap="round" strokeLinejoin="round"
                           d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"/>
                   </svg>
                 </button>
@@ -153,6 +153,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
                                 >
                                   {item.name_en}
                                 </a>
+                                <Modal lang={lang} content={item.records} />
                               </td>
             {lang === 'es' && <td>{item.name_es}</td>}
             {lang === 'de' && <td>{item.name_de}</td>}
@@ -166,32 +167,16 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
             <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
               <div className="flex items-center">
                 <span className="mr-1">{item.birth_death_time[0]}</span>
-                <span className="mr-1">
-                  { item.birth_death_time[0] && item.birth_death_time[1]
-                      ? '⇨'
-                      : ''
-                  }
-                </span>
+                <span className="mr-1">{ item.birth_death_time[0] && item.birth_death_time[1] ? '⇨' : '' }</span>
                 <span className="mr-1">{item.birth_death_time[1]}</span>
               </div>
             </td>
-            <td>
-              <span
-                className={`
-                  relative inline-block px-3 py-1 font-semibold
-                  text-${sectDb?.find(s => s.label === item.sect)?.color}-600
-                  leading-tight`
-                }
-              >
-                  <span aria-hidden
-                    className={`
-                      absolute inset-0
-                      bg-${sectDb?.find(s => s.label === item.sect)?.color}-200
-                      opacity-50 rounded-full`
-                    }
-                  ></span>
-									<span className="relative">{item.sect}</span>
-              </span>
+            <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
+									<span className={`
+									  p-1
+                    text-${sectDb?.find(s => s.label === item.sect)?.color}-600
+                    bg-${sectDb?.find(s => s.label === item.sect)?.color}-200
+									`}>{item.sect}</span>
             </td>
             <td>{item.country}</td>
             <td>{item.place}</td>

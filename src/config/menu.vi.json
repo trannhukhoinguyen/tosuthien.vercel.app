@@ -3,7 +3,7 @@
     { "name": "Trang chủ", "url": "/" },
 
     {
-      "name": "Masters & Masterpieces",
+      "name": "Thiền sư & Tuyệt tác",
       "url": "/media",
       "hasChildren": true,
       "children": [
