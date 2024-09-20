@@ -11,7 +11,7 @@ draft: false
 <div style="display: flex; justify-content: space-between;">
 
   <div style="flex: 1; padding-right: 12px;">
-    <img decoding="async" src="https://blog.phapthihoi.org/uploads/2021/02/02-A-Nan.jpg">
+    <img decoding="async" src="https://blog.phapthihoi.org/uploads/2021/02/02-A-Nan.jpg" />
 
   <h1>Tổ Thứ 02 - Tôn Giả A Nan</h1>
   <h3>Hành Trạng</h3>
@@ -110,7 +110,7 @@ Trong đại hội kết tập Kinh điển lần đầu tiên, ngài A Nan đư
   
   Bấy giờ sơn hà đại địa phát sáu loại rung động, có 500 tiên nhân trong núi Tuyết thấy điềm lành ấy nên bay trong không trung mà đến, lễ dưới chân A Nan quỳ xuống bạch:
   
-  - <em>"Chúng con đến trưởng lão, sẽ chứng Phật pháp, nguyện Ngài rủ lòng đại từ độ thốt chúng con".<em>
+  - <em>"Chúng con đến trưởng lão, sẽ chứng Phật pháp, nguyện Ngài rủ lòng đại từ độ thốt chúng con".</em>
   
   A Nan lặng thinh nhận lời, liền biến hết sông Hằng thành đất vàng và vì tiên chúng đó thuyết đại pháp.
   A Nan lại nghĩ: <em>“Những đệ tử ta độ thốt trước đây cần phải đến có mặt”</em>.

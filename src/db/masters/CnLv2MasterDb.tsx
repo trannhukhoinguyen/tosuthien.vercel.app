@@ -44,7 +44,7 @@ const CnLv4MasterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: 55,
+    id: 35.3,
     name_en: 'Danyuan Yingzhen',
     name_es: 'Danyuan Yingzhen',
     name_de: 'Danyuan Yingzhen',
@@ -63,7 +63,7 @@ const CnLv4MasterDb = [
     teachers: ['Nanyang Huizhong'],
     successors: ['Yangshan Huiji?'],
     disciples: ['Yangshan Huiji?'],
-    image: '/images/avatar.png',
+    image: 'https://thuvienhoasen.org/images/file/1BOkScle1QgBAKRZ/w300/ngoi-thien.jpg',
   },
   {
     id: 56,
