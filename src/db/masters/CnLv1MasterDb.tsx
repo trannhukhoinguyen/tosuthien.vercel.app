@@ -74,7 +74,7 @@ const masterDb = [
     name_vi: 'Hà Trạch Thần Hội',
     name_ru: 'Heze Shenhui',
     name_zh: '荷澤神會',
-    name_ja: "', 'kataku jin'e",
+    name_ja: "Kataku Jinne",
     name_ko: 'Heze Shenhui',
     name_ar: 'Heze Shenhui',
     birth_death_time: ['684', '758'],
