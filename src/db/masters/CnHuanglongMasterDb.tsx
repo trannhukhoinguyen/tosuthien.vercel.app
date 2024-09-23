@@ -1,4 +1,4 @@
-const CnYangqiMasterDb = [
+const CnHuanglongMasterDb = [
   {
     id: 53,
     name_en: 'Yangqi Fanghui',
@@ -24,4 +24,4 @@ const CnYangqiMasterDb = [
   },
 
 ]
-export default CnYangqiMasterDb;
+export default CnHuanglongMasterDb;

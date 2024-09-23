@@ -1,8 +1,16 @@
 ---
 import Table from "../../../layouts/shortcodes/Table.tsx";
+import AllMasterDb from "../../../db/masters/AllMasterDb.tsx";
 import ViMasterDb from "../../../db/masters/ViMasterDb.tsx";
 import InMasterDb from "../../../db/masters/InMasterDb.tsx";
 import CnMasterDb from "../../../db/masters/CnMasterDb.tsx";
+import CnGuiyangMasterDb from "../../../db/masters/CnGuiyangMasterDb.tsx";
+import CnLinjiMasterDb from "../../../db/masters/CnLinjiMasterDb.tsx";
+import CnCaodongMasterDb from "../../../db/masters/CnCaodongMasterDb.tsx";
+import CnFayanMasterDb from "../../../db/masters/CnFayanMasterDb.tsx";
+import CnYunmenMasterDb from "../../../db/masters/CnYunmenMasterDb.tsx";
+import CnYangqiMasterDb from "../../../db/masters/CnYangqiMasterDb.tsx";
+import CnHuanglongMasterDb from "../../../db/masters/CnHuanglongMasterDb.tsx";
 import CnLv1MasterDb from "../../../db/masters/CnLv1MasterDb.tsx";
 import CnLv2MasterDb from "../../../db/masters/CnLv2MasterDb.tsx";
 import CnLv3MasterDb from "../../../db/masters/CnLv3MasterDb.tsx";
@@ -43,6 +51,12 @@ const {
   <PageHeader title={"Zen Master"} />
 
   <section class="section">
+
+    <div class="container">
+      <h2>ALL MASTERS</h2>
+      <Table client:load data={AllMasterDb} lang={lang ? lang : 'vi'} />
+    </div>
+
     <div class="container">
       <h2>{ indian_masters }</h2>
       <Table client:load data={InMasterDb} lang={lang ? lang : 'vi'} />
