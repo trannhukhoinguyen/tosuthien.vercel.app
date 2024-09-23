@@ -71,7 +71,7 @@ const CnLv2MasterDb = [
     name_es: 'Cizhou Faru',
     name_de: 'Cizhou Faru',
     name_fr: 'Cizhou Faru',
-    name_vi: 'Cizhou Faru',
+    name_vi: 'Từ Châu Pháp Như',
     name_ru: 'Cizhou Faru',
     name_zh: '磁州法如',
     name_ja: 'Cizhou Faru',
