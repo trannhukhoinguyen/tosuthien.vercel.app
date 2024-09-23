@@ -44,7 +44,7 @@ const CnMasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sengcan.jpg/220px-Sengcan.jpg',
   },
   {
-    id: '31.1',
+    id: 31.1,
     name_en: 'Dayi Daoxin',
     name_es: 'Dayi Daoxin',
     name_de: 'Dayi Daoxin',
@@ -66,7 +66,7 @@ const CnMasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Daoxin.jpg'
   },
   {
-    id: '31.2',
+    id: 31.2,
     name_en: 'Vinitaruci',
     name_es: 'Vinitaruci',
     name_de: 'Vinitaruci',
@@ -88,7 +88,7 @@ const CnMasterDb = [
     image: '/'
   },
   {
-    id: '32.1',
+    id: 32.1,
     name_en: 'Daman Hongren',
     name_es: 'Daman Hongren',
     name_de: 'Daman Hongren',
@@ -110,7 +110,7 @@ const CnMasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hongren.jpg/220px-Hongren.jpg'
   },
   {
-    id: '32.2',
+    id: 32.2,
     name_en: 'Niu-tou Fa-jung',
     name_es: 'Gozu Hōyū',
     name_de: 'Gozu Hōyū',
@@ -129,32 +129,10 @@ const CnMasterDb = [
     teachers: ['Dayi Daoxin'],
     successors: ['-'],
     disciples: ['-'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hongren.jpg/220px-Hongren.jpg'
+    image: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkU91_ZqrRFlSID55wIXjbUlrgozQfeOM1bN6NR53fUSMNWrwJ'
   },
   {
-    id: '33.2',
-    name_en: 'Chigan',
-    name_es: 'Chigan',
-    name_de: 'Chigan',
-    name_fr: 'Chigan',
-    name_vi: 'Ngưu Đầu Trí Nham',
-    name_ru: 'Chigan',
-    name_zh: '牛頭智巖',
-    name_ja: 'Chigan',
-    name_ko: 'Chigan',
-    name_ar: 'Chigan',
-    birth_death_time: ['577', '654'],
-    records: '',
-    sect: '-',
-    country: 'China',
-    place: '-',
-    teachers: ['Niu-tou Fa-jung'],
-    successors: ['-'],
-    disciples: ['-'],
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hongren.jpg/220px-Hongren.jpg'
-  },
-  {
-    id: '33.1',
+    id: 33.1,
     name_en: 'Dajian Huineng (Liuzu)',
     name_es: 'Dajian Huineng (Sexto Patriarca)',
     name_de: 'Dajian Huineng (Sechster Patriarch)',
@@ -176,7 +154,29 @@ const CnMasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Huineng.jpg/220px-Huineng.jpg',
   },
   {
-    id: '33.3',
+    id: 33.2,
+    name_en: 'Chigan',
+    name_es: 'Chigan',
+    name_de: 'Chigan',
+    name_fr: 'Chigan',
+    name_vi: 'Ngưu Đầu Trí Nham',
+    name_ru: 'Chigan',
+    name_zh: '牛頭智巖',
+    name_ja: 'Chigan',
+    name_ko: 'Chigan',
+    name_ar: 'Chigan',
+    birth_death_time: ['577', '654'],
+    records: '',
+    sect: '-',
+    country: 'China',
+    place: '-',
+    teachers: ['Niu-tou Fa-jung'],
+    successors: ['-'],
+    disciples: ['-'],
+    image: '/images/avatar.png'
+  },
+  {
+    id: 33.3,
     name_en: 'Yuquan Shenxiu',
     name_es: 'Yuquan Shenxiu',
     name_de: 'Yuquan Shenxiu',

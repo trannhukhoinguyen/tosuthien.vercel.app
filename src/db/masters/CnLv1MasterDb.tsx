@@ -1,6 +1,6 @@
 const masterDb = [
   {
-    id: '34.1',
+    id: 34.1,
     name_en: 'Qingyuan Xingsi',
     name_es: 'Qingyuan Xingsi',
     name_de: 'Qingyuan Xingsi',
@@ -22,7 +22,7 @@ const masterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Qingyuan_Xingsi.jpg',
   },
   {
-    id: '34.2',
+    id: 34.2,
     name_en: 'Nanyang Huizhong',
     name_es: 'Nanyang Huizhong',
     name_de: 'Nanyang Huizhong',
@@ -44,7 +44,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
 {
-    id: '34.3',
+    id: 34.3,
     name_en: 'Nanyue Huairang',
     name_es: 'Nanyue Huairang',
     name_de: 'Nanyue Huairang',
@@ -66,7 +66,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.4',
+    id: 34.4,
     name_en: 'Heze Shenhui',
     name_es: 'Heze Shenhui',
     name_de: 'Heze Shenhui',
@@ -85,10 +85,12 @@ const masterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: ['-'],
+    reference: ['https://terebess.hu/zen/shenhui.html', 'https://en.wikipedia.org/wiki/Shenhui'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/48/HezeShenhuiDrawing.jpg',
+    image2: 'https://terebess.hu/zen/Shenhui.jpg',
   },
   {
-    id: '34.5',
+    id: 34.5,
     name_en: 'Thiều Châu Pháp Hải',
     name_es: 'Thiều Châu Pháp Hải',
     name_de: 'Thiều Châu Pháp Hải',
@@ -110,7 +112,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.6',
+    id: 34.6,
     name_en: 'Vĩnh Gia Huyền Giác',
     name_es: 'Vĩnh Gia Huyền Giác',
     name_de: 'Vĩnh Gia Huyền Giác',
@@ -132,7 +134,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.7',
+    id: 34.7,
     name_en: 'Tây Ấn Quật Đa Tam Tạng',
     name_es: 'Tây Ấn Quật Đa Tam Tạng',
     name_de: 'Tây Ấn Quật Đa Tam Tạng',
@@ -154,7 +156,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.8',
+    id: 34.8,
     name_en: 'Cát Châu Chí Thành',
     name_es: 'Cát Châu Chí Thành',
     name_de: 'Cát Châu Chí Thành',
@@ -176,7 +178,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.9',
+    id: 34.9,
     name_en: 'Giang Tây Chí Triệt',
     name_es: 'Giang Tây Chí Triệt',
     name_de: 'Giang Tây Chí Triệt',
@@ -198,7 +200,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.10',
+    id: 34.10,
     name_en: 'Biển Đảm Hiểu Liễu',
     name_es: 'Biển Đảm Hiểu Liễu',
     name_de: 'Biển Đảm Hiểu Liễu',
@@ -220,7 +222,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.11',
+    id: 34.11,
     name_en: 'Hà Bắc Trí Hoàng',
     name_es: 'Hà Bắc Trí Hoàng',
     name_de: 'Hà Bắc Trí Hoàng',
@@ -242,7 +244,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.12',
+    id: 34.12,
     name_en: 'Hồng Châu Pháp Đạt',
     name_es: 'Hồng Châu Pháp Đạt',
     name_de: 'Hồng Châu Pháp Đạt',
@@ -264,7 +266,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.13',
+    id: 34.13,
     name_en: 'Thọ Châu Trí Thông',
     name_es: 'Thọ Châu Trí Thông',
     name_de: 'Thọ Châu Trí Thông',
@@ -286,7 +288,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.14',
+    id: 34.14,
     name_en: 'Tín Châu Trí Thường',
     name_es: 'Tín Châu Trí Thường',
     name_de: 'Tín Châu Trí Thường',
@@ -308,7 +310,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.15',
+    id: 34.15,
     name_en: 'Quảng Châu Chí Đạo',
     name_es: 'Quảng Châu Chí Đạo',
     name_de: 'Quảng Châu Chí Đạo',
@@ -330,7 +332,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.16',
+    id: 34.16,
     name_en: 'Quảng Châu Pháp Tánh Ấn Tông',
     name_es: 'Quảng Châu Pháp Tánh Ấn Tông',
     name_de: 'Quảng Châu Pháp Tánh Ấn Tông',
@@ -352,7 +354,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.17',
+    id: 34.17,
     name_en: 'Vụ Châu Huyền Sách',
     name_es: 'Vụ Châu Huyền Sách',
     name_de: 'Vụ Châu Huyền Sách',
@@ -374,7 +376,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.18',
+    id: 34.18,
     name_en: 'Tào Khê Linh Thao',
     name_es: 'Tào Khê Linh Thao',
     name_de: 'Tào Khê Linh Thao',
@@ -396,7 +398,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.19',
+    id: 34.19,
     name_en: 'Ni Vô Tận Tạng',
     name_es: 'Ni Vô Tận Tạng',
     name_de: 'Ni Vô Tận Tạng',
@@ -418,7 +420,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.20',
+    id: 34.20,
     name_en: 'Kỳ Đà La',
     name_es: 'Kỳ Đà La',
     name_de: 'Kỳ Đà La',
@@ -440,7 +442,7 @@ const masterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Qingyuan_Xingsi.jpg',
   },
   {
-    id: '34.21',
+    id: 34.21,
     name_en: 'Tịnh An',
     name_es: 'Tịnh An',
     name_de: 'Tịnh An',
@@ -462,20 +464,20 @@ const masterDb = [
     image: '/images/avatar.png',
   },
 {
-    id: '34.22',
+    id: 34.22,
     name_en: 'Tâm',
     name_es: 'Tâm',
     name_de: 'Tâm',
     name_fr: 'Tâm',
     name_vi: 'Tâm',
-    name_ru: 'Nanyue Huairang',
-    name_zh: '南嶽懐譲',
-    name_ja: 'Nangaku Ejõ',
-    name_ko: 'Nanyue Huairang',
-    name_ar: 'Nanyue Huairang',
+    name_ru: 'Tâm',
+    name_zh: 'Tâm',
+    name_ja: 'Tâm',
+    name_ko: 'Tâm',
+    name_ar: 'Tâm',
     birth_death_time: ['677', '744'],
-  records: '',
-  sect: '-',
+    records: '',
+    sect: '-',
     country: 'China',
     place: '-',
     teachers: ['Dajian Huineng'],
@@ -484,7 +486,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.23',
+    id: 34.23,
     name_en: 'Định Chơn',
     name_es: 'Định Chơn',
     name_de: 'Định Chơn',
@@ -506,7 +508,7 @@ const masterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/48/HezeShenhuiDrawing.jpg',
   },
   {
-    id: '34.24',
+    id: 34.24,
     name_en: 'Kiên Cố',
     name_es: 'Kiên Cố',
     name_de: 'Kiên Cố',
@@ -528,7 +530,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.25',
+    id: 34.25,
     name_en: 'Đạo Tiến',
     name_es: 'Đạo Tiến',
     name_de: 'Đạo Tiến',
@@ -550,7 +552,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.26',
+    id: 34.26,
     name_en: 'Thiện Khoái',
     name_es: 'Thiện Khoái',
     name_de: 'Thiện Khoái',
@@ -572,7 +574,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.27',
+    id: 34.27,
     name_en: 'Duyên Tố',
     name_es: 'Duyên Tố',
     name_de: 'Duyên Tố',
@@ -594,7 +596,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.28',
+    id: 34.28,
     name_en: 'Tông Nhất',
     name_es: 'Tông Nhất',
     name_de: 'Tông Nhất',
@@ -616,7 +618,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.29',
+    id: 34.29,
     name_en: 'Thiên Hiện',
     name_es: 'Thiên Hiện',
     name_de: 'Thiên Hiện',
@@ -638,7 +640,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.30',
+    id: 34.30,
     name_en: 'Phạm Hạnh',
     name_es: 'Phạm Hạnh',
     name_de: 'Phạm Hạnh',
@@ -660,7 +662,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.31',
+    id: 34.31,
     name_en: 'Tự Tại',
     name_es: 'Tự Tại',
     name_de: 'Tự Tại',
@@ -682,7 +684,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.32',
+    id: 34.32,
     name_en: 'Hàm Thông',
     name_es: 'Hàm Thông',
     name_de: 'Hàm Thônh',
@@ -704,7 +706,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.33',
+    id: 34.33,
     name_en: 'Thái Tường',
     name_es: 'Thái Tường',
     name_de: 'Thái Tường',
@@ -726,7 +728,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.34',
+    id: 34.34,
     name_en: 'Pháp Tịnh',
     name_es: 'Pháp Tịnh',
     name_de: 'Pháp Tịnh',
@@ -748,7 +750,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.35',
+    id: 34.35,
     name_en: 'Biện Tài',
     name_es: 'Biện Tài',
     name_de: 'Biện Tài',
@@ -770,7 +772,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.36',
+    id: 34.36,
     name_en: 'Dạo Dung',
     name_es: 'Dạo Dung',
     name_de: 'Dạo Dung',
@@ -792,7 +794,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.37',
+    id: 34.37,
     name_en: 'Ngô Đầu-đà',
     name_es: 'Ngô Đầu-đà',
     name_de: 'Ngô Đầu-đà',
@@ -814,7 +816,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.38',
+    id: 34.38,
     name_en: 'Đạo Anh',
     name_es: 'Đạo Anh',
     name_de: 'Đạo Anh',
@@ -836,7 +838,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.39',
+    id: 34.39,
     name_en: 'Trí Bổn',
     name_es: 'Trí Bổn',
     name_de: 'Trí Bổn',
@@ -858,7 +860,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.40',
+    id: 34.40,
     name_en: 'Pháp Chơn',
     name_es: 'Pháp Chơn',
     name_de: 'Pháp Chơn',
@@ -880,7 +882,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.41',
+    id: 34.41,
     name_en: 'Huyền Giai',
     name_es: 'Huyền Giai',
     name_de: 'Huyền Giai',
@@ -902,7 +904,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.42',
+    id: 34.42,
     name_en: 'Đàm Thổi',
     name_es: 'Đàm Thổi',
     name_de: 'Đàm Thổi',
@@ -924,7 +926,7 @@ const masterDb = [
     image: '/images/avatar.png',
   },
   {
-    id: '34.43',
+    id: 34.43,
     name_en: 'Thích sử Vi Cừ',
     name_es: 'Thích sử Vi Cừ',
     name_de: 'Thích sử Vi Cừ',
