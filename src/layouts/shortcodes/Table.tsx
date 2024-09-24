@@ -19,12 +19,13 @@ interface TableProps {
     name_ar: string
     birth_death_time: string[]
     records: string | undefined
-    sect: string
+    sect: string[] | []
     country: string
     place: string
     teachers: string[]
     successors: string[]
     disciples: string[]
+    reference: string[]
   }[];
   lang: string | undefined;
   itemsPerPage?: number;
@@ -57,7 +58,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
       || item.name_ko.toLowerCase().includes(searchTerm)
       || item.name_ar.toLowerCase().includes(searchTerm)
       || item.birth_death_time.some(time => time.toLowerCase().includes(searchTerm))
-      || item.sect.toLowerCase().includes(searchTerm)
+      || item.sect.some(s => s.toLowerCase().includes(searchTerm))
       || item.country.toLowerCase().includes(searchTerm)
       || item.place.toLowerCase().includes(searchTerm)
       || item.teachers.some(teacher => teacher.toLowerCase().includes(searchTerm))
@@ -172,10 +173,19 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
               </div>
             </td>
             <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
-									<span className={`
+{/*              {
+                item.sect.map(its =>
+                  <span className={`
 									  p-1
-                    text-${sectDb?.find(s => s.label === item.sect)?.color}-600
-                    bg-${sectDb?.find(s => s.label === item.sect)?.color}-200
+                    text-${sectDb?.find(s => item.sect.includes(s.label))?.color}-600
+                    bg-${sectDb?.find(s => item.sect.includes(s.label))?.color}-200
+									`}>{its}</span>
+                )
+              }*/}
+              <span className={`
+									  p-1
+                    text-${sectDb?.find(s => item.sect.includes(s.label))?.color}-600
+                    bg-${sectDb?.find(s => item.sect.includes(s.label))?.color}-200
 									`}>{item.sect}</span>
             </td>
             <td>{item.country}</td>

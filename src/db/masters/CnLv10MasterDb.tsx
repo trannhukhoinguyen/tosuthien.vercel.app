@@ -1,0 +1,26 @@
+const CnLv10MasterDb = [
+  {
+    id: 42.1,
+    name_en: 'Fenyang Shanzhao',
+    name_es: 'Fenyang Shanzhao',
+    name_de: 'Fenyang Shanzhao',
+    name_fr: 'Fenyang Shanzhao',
+    name_vi: 'Phần Dương Thiện Chiếu (zh: , fényáng shànzhāo, ja: , -',
+    name_ru: 'Fenyang Shanzhao',
+    name_zh: '汾陽善昭',
+    name_ja: 'Hun yo Zen-sho',
+    name_ko: 'Fenyang Shanzhao',
+    name_ar: 'Fenyang Shanzhao',
+    birth_death_time: ['947', '1024'],
+    records: '',
+    sect: '-',
+    country: 'China',
+    place: '-',
+    teachers: ['Shoushan Xingnian'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: ['https://terebess.hu/zen/fenyang.html', 'https://pl.wikipedia.org/wiki/Fenyang_Shanzhao'],
+  },
+]
+export default CnLv10MasterDb;

@@ -54,11 +54,10 @@
   "yang_qi_pai": "Yangqi pai",
   "huang_long_pai": "Huanglong pai",
 
-  "indian_masters": "Indian Masters",
-  "chinese_masters": "Chinese Masters",
-  "level_0": "Before/same generation",
-  "level_1": "1st generation after the 6th Patriarch",
-  "level_2": "2nd generation after the 6th Patriarch",
-  "level_3": "3rd generation after the 6th Patriarch",
-  "level_4": "4th generation after the 6th Patriarch"
+  "in_masters": "Indian Masters",
+  "cn_masters": "Chinese Masters",
+  "vi_masters": "Vietnamese Masters",
+  "jp_masters": "Japanese Masters",
+  "level_": "Inheritance to the Sixth Patriarch",
+  "level__": "Inherited from the Sixth Patriarch - Generation"
 }

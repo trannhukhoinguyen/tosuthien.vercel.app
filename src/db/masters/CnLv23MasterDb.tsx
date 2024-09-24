@@ -1,0 +1,26 @@
+const CnLv23MasterDb = [
+  {
+    id: 55.1,
+    name_en: 'Zhongfeng Mingben',
+    name_es: 'Zhongfeng Mingben',
+    name_de: 'Zhongfeng Mingben',
+    name_fr: 'Zhongfeng Mingben',
+    name_vi: 'Trung Phong Minh Bản',
+    name_ru: 'Zhongfeng Mingben',
+    name_zh: '中峰明本',
+    name_ja: 'Zhongfeng Mingben',
+    name_ko: 'Zhongfeng Mingben',
+    name_ar: 'Zhongfeng Mingben',
+    birth_death_time: ['', ''],
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: 'China',
+    place: '-',
+    teachers: ['Gaofeng Yuanmiao'],
+    successors: ['-'],
+    disciples: ['-'],
+    image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
+    reference: ['http://www.thuongchieu.net/index.php/phapthoai/suphu/4194-tstrungphongban', 'https://vi.wikipedia.org/wiki/Trung_Phong_Minh_B%E1%BA%A3n'],
+  },
+]
+export default CnLv23MasterDb;

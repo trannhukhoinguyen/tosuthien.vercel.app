@@ -1,0 +1,26 @@
+const CnLv21MasterDb = [
+  {
+    id: 53.1,
+    name_en: 'Xueyan Zuqin',
+    name_es: 'Xueyan Zuqin',
+    name_de: 'Xueyan Zuqin',
+    name_fr: 'Xueyan Zuqin',
+    name_vi: 'Tuyết Nham Tổ Khâm (Pháp Khâm)',
+    name_ru: 'Xueyan Zuqin',
+    name_zh: '雪巖祖欽 (法欽, 惠朗)',
+    name_ja: 'Seggan Sokin',
+    name_ko: 'Xueyan Zuqin',
+    name_ar: 'Xueyan Zuqin',
+    birth_death_time: ['1215?', '1287'],
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: 'China',
+    place: '-',
+    teachers: [''],
+    successors: ['Gaofeng Yuanmiao'],
+    disciples: ['Gaofeng Yuanmiao'],
+    image: '/images/avatar.png',
+    reference: ['https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFt_Nham_T%E1%BB%95_Kh%C3%A2m', 'https://terebess.hu/zen/mesterek/XueyanZuqin.html', 'http://www.thuongchieu.net/index.php/phapthoai/suphu/4162-thiensutuyetkham'],
+  },
+]
+export default CnLv21MasterDb;

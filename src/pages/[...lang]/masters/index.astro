@@ -1,22 +1,33 @@
 ---
 import Table from "../../../layouts/shortcodes/Table.tsx";
-import AllMasterDb from "../../../db/masters/AllMasterDb.tsx";
+import {
+  AllMasters,
+  CnMasters,
+
+  CnGuiyangMasters,
+  CnLinjiMasters,
+  CnCaodongMasters,
+  CnFayanMasters,
+  CnYunmenMasters,
+  CnYangqiMasters,
+  CnHuanglongMasters,
+
+  CnLv0Masters,
+  CnLv1Masters,
+  CnLv2Masters,
+  CnLv3Masters,
+  CnLv4Masters,
+  CnLv5Masters,
+  CnLv6Masters,
+
+
+  CnLv21Masters,
+  CnLv22Masters,
+  CnLv23Masters,
+} from "../../../db/masters/AllMasterDb.tsx";
 import ViMasterDb from "../../../db/masters/ViMasterDb.tsx";
 import InMasterDb from "../../../db/masters/InMasterDb.tsx";
-import CnMasterDb from "../../../db/masters/CnMasterDb.tsx";
-import CnGuiyangMasterDb from "../../../db/masters/CnGuiyangMasterDb.tsx";
-import CnLinjiMasterDb from "../../../db/masters/CnLinjiMasterDb.tsx";
-import CnCaodongMasterDb from "../../../db/masters/CnCaodongMasterDb.tsx";
-import CnFayanMasterDb from "../../../db/masters/CnFayanMasterDb.tsx";
-import CnYunmenMasterDb from "../../../db/masters/CnYunmenMasterDb.tsx";
-import CnYangqiMasterDb from "../../../db/masters/CnYangqiMasterDb.tsx";
-import CnHuanglongMasterDb from "../../../db/masters/CnHuanglongMasterDb.tsx";
-import CnLv1MasterDb from "../../../db/masters/CnLv1MasterDb.tsx";
-import CnLv2MasterDb from "../../../db/masters/CnLv2MasterDb.tsx";
-import CnLv3MasterDb from "../../../db/masters/CnLv3MasterDb.tsx";
-import CnLv4MasterDb from "../../../db/masters/CnLv4MasterDb.tsx";
-import CnLv5MasterDb from "../../../db/masters/CnLv5MasterDb.tsx";
-import CnLv6MasterDb from "../../../db/masters/CnLv6MasterDb.tsx";
+
 import '@/styles/table.css';
 import Base from "@/layouts/Base.astro";
 import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
@@ -43,7 +54,7 @@ const postIndex = await getListPage(
 );
 const posts = await getSinglePage("masters", lang as keyof ContentEntryMap);
 const {
-  indian_masters, chinese_masters, level_0, level_1, level_2, level_3, level_4, level_5,
+  in_masters, cn_masters, vi_masters, jp_masters, level_, level__,
 } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
@@ -53,38 +64,43 @@ const {
   <section class="section">
 
     <div class="container">
-      <h2>{ indian_masters }</h2>
+      <h2>{ in_masters }</h2>
       <Table client:load data={InMasterDb} lang={lang ? lang : 'vi'} />
     </div>
 
     <div class="container">
-      <h2>{ chinese_masters } - { level_0 }</h2>
-      <Table client:load data={CnMasterDb} lang={lang ? lang : 'vi'}/>
+      <h2>{ cn_masters } - { level_ }</h2>
+      <Table client:load data={CnLv0Masters} lang={lang ? lang : 'vi'}/>
     </div>
 
     <div class="container">
-      <h2>{ chinese_masters } - { level_1 }</h2>
-      <Table client:load data={CnLv1MasterDb} lang={lang ? lang : 'vi'}/>
+      <h2>{ cn_masters } - { level__ } 1</h2>
+      <Table client:load data={CnLv1Masters} lang={lang ? lang : 'vi'}/>
     </div>
 
     <div class="container">
-      <h2>{ chinese_masters } - { level_2 }</h2>
-      <Table client:load data={CnLv2MasterDb} lang={lang ? lang : 'vi'}/>
+      <h2>{ cn_masters } - { level__ } 2</h2>
+      <Table client:load data={CnLv2Masters} lang={lang ? lang : 'vi'}/>
     </div>
 
     <div class="container">
-      <h2>{ chinese_masters } - { level_3 }</h2>
-      <Table client:load data={CnLv3MasterDb} lang={lang ? lang : 'vi'}/>
+      <h2>{ cn_masters } - { level__ } 3</h2>
+      <Table client:load data={CnLv3Masters} lang={lang ? lang : 'vi'}/>
     </div>
 
     <div class="container">
-      <h2>{ chinese_masters } - { level_4 }</h2>
-      <Table client:load data={CnLv4MasterDb} lang={lang ? lang : 'vi'}/>
+      <h2>{ cn_masters } - { level__ } 4</h2>
+      <Table client:load data={CnLv4Masters} lang={lang ? lang : 'vi'}/>
     </div>
 
     <div class="container">
-      <h2>{ chinese_masters } - { level_5 }</h2>
-      <Table client:load data={CnLv5MasterDb} lang={lang ? lang : 'vi'}/>
+      <h2>{ cn_masters } - { level__ } 5</h2>
+      <Table client:load data={CnLv5Masters} lang={lang ? lang : 'vi'}/>
+    </div>
+
+    <div class="container">
+      <h2>{ cn_masters } - { level__ } 6</h2>
+      <Table client:load data={CnLv6Masters} lang={lang ? lang : 'vi'}/>
     </div>
   </section>
 </Base>

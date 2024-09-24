@@ -1,0 +1,26 @@
+const CnLv7MasterDb = [
+  {
+    id: 40.1,
+    name_en: 'Nanyuan Huiyong',
+    name_es: 'Nanyuan Huiyong',
+    name_de: 'Nanyuan Huiyong',
+    name_fr: 'Nanyuan Huiyong',
+    name_vi: 'Nam Viện Huệ Ngung',
+    name_ru: 'Nanyuan Huiyong',
+    name_zh: '南院慧顒: ',
+    name_ja: 'Nanin Egyō',
+    name_ko: 'Nanyuan Huiyong',
+    name_ar: 'Nanyuan Huiyong',
+    birth_death_time: ['860', '950'],
+    records: '',
+    sect: '-',
+    country: 'China',
+    place: '-',
+    teachers: ['Xinghua Cunjiang'],
+    successors: ['Fengxue Yanzhao'],
+    disciples: ['Fengxue Yanzhao'],
+    image: '/images/avatar.png',
+    reference: ['',],
+  },
+]
+export default CnLv7MasterDb;

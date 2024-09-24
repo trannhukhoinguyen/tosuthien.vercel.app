@@ -1,0 +1,26 @@
+const CnLv8MasterDb = [
+  {
+    id: 41.1,
+    name_en: 'Fengxue Yanzhao',
+    name_es: 'Fengxue Yanzhao',
+    name_de: 'Fengxue Yanzhao',
+    name_fr: 'Fengxue Yanzhao',
+    name_vi: 'Phong Huyệt Diên Chiểu',
+    name_ru: 'Fengxue Yanzhao',
+    name_zh: '風穴延沼',
+    name_ja: 'Fuketsu Enshō',
+    name_ko: 'Fengxue Yanzhao',
+    name_ar: 'Fengxue Yanzhao',
+    birth_death_time: ['896', '973'],
+    records: '',
+    sect: '-',
+    country: 'China',
+    place: '-',
+    teachers: ['Nanyuan Huiyong'],
+    successors: ['Shoushan Xingnian'],
+    disciples: ['Shoushan Xingnian'],
+    image: '/images/avatar.png',
+    reference: ['',],
+  },
+]
+export default CnLv8MasterDb;

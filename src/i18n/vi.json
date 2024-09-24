@@ -55,12 +55,10 @@
   "yang_qi_pai": "Yangqi pai",
   "huang_long_pai": "Huanglong pai",
 
-  "indian_masters": "Thiền sư Ấn Độ",
-  "chinese_masters": "Thiền sư Trung Hoa",
-  "level_0": "Truớc/cùng thời Lục Tổ",
-  "level_1": "Đời thứ 1 sau Lục Tổ",
-  "level_2": "Đời thứ 2 sau Lục Tổ",
-  "level_3": "Đời thứ 3 sau Lục Tổ",
-  "level_4": "Đời thứ 4 sau Lục Tổ",
-  "level_5": "Đời thứ 5 sau Lục Tổ"
+  "in_masters": "Thiền sư Ấn Độ",
+  "cn_masters": "Thiền sư Trung Hoa",
+  "vi_masters": "Thiền sư Việt Nam",
+  "jp_masters": "Thiền sư Nhật Bản",
+  "level_": "Truyền thừa đến Lục Tổ",
+  "level__": "Truyền thừa từ Lục Tổ - Đời thứ"
 }

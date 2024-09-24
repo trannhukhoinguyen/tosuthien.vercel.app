@@ -1,0 +1,26 @@
+const CnLv9MasterDb = [
+  {
+    id: 41.1,
+    name_en: 'Shoushan Xingnian',
+    name_es: 'Shoushan Xingnian',
+    name_de: 'Shoushan Xingnian',
+    name_fr: 'Shoushan Xingnian',
+    name_vi: 'Thủ Sơn Tỉnh Niệm',
+    name_ru: 'Shoushan Xingnian',
+    name_zh: '首山省念',
+    name_ja: 'Kōke Zonshō',
+    name_ko: 'Shoushan Xingnian',
+    name_ar: 'Shoushan Xingnian',
+    birth_death_time: ['926', '993'],
+    records: '',
+    sect: '-',
+    country: 'China',
+    place: '-',
+    teachers: ['Fengxue Yanzhao'],
+    successors: ['Fenyang Shanzhao'],
+    disciples: ['Fenyang Shanzhao'],
+    image: '/images/avatar.png',
+    reference: ['',],
+  },
+]
+export default CnLv9MasterDb;

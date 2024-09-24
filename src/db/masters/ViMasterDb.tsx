@@ -13,7 +13,7 @@ const InMasterDb = [
     name_ar: 'Chúng Thiện Pháp Hiền',
     birth_death_time: ['?', '626'],
     records: '...',
-    sect: '-',
+    sect: ['-'],
     country: 'Vietnam',
     place: '-',
     teachers: ['Vinitaruci'],

@@ -13,7 +13,7 @@ const CnLinjiMasterDb = [
     name_ar: 'Yangqi Fanghui',
     birth_death_time: ['992', '1049'],
     records: '',
-    sect: '-',
+    sect: ['Linji'],
     country: 'China',
     place: '',
     teachers: [''],

@@ -9,7 +9,7 @@ const sectDb = [
       'According to records in "Records of the Authentic Transmission of the Dharma" and other materials, there are about 99 people in the Weiyang Sect whose biographies, quotations and deeds can be verified.',
     relation: '',
     doctrine: '',
-    reference: 'https://zh.wikipedia.org/wiki/%E6%B2%A9%E4%BB%B0%E5%AE%97',
+    reference: ['https://zh.wikipedia.org/wiki/%E6%B2%A9%E4%BB%B0%E5%AE%97'],
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const sectDb = [
     history: 'It branched off from the Hongzhou Sect and started with the master Yixuan of Linji (?-866) in the Tang Dynasty. Yi Xuan studied Dharma with Zen Master Huang Xiyun for 33 years, and then went to Zhenzhou (now Zhengding, Shijiazhuang , Hebei Province ) to build Linji Temple on the bank of the Hutuo River , carrying forward the teachings of "Prajna as the foundation, taking emptiness to capture existence, and emptiness having appearances" advocated by Zen Master Xiyun. The new Zen method of "integration" spread throughout the world, and later generations called it the "Linji Sect", and Linji Temple also became the ancestral hall of the Linji Sect. Because of his relatively strong Zen style, later generations were called "General Linji, Scholar and People of Caodong" compared with the Caodong Sect , which had more detailed theories .',
     relation: '',
     doctrine: '',
-    reference: 'https://zh.wikipedia.org/wiki/%E4%B8%B4%E6%B5%8E%E5%AE%97',
+    reference: ['https://zh.wikipedia.org/wiki/%E4%B8%B4%E6%B5%8E%E5%AE%97'],
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const sectDb = [
     history: 'It branched off from the Shitou school and was founded by Dongshan Liangjie and Caoshan Benji . It was later passed down to the Zen master Hongzhi Zhengjue , who created the silent illumination Zen . Together with the koan Zen advocated by Dahui Zonggao , they became the two major schools of Zen Buddhism in later generations. Because of its detailed doctrine, it was compared with the more radical Linji school in later generations , and was called "Linji General, Caodong Scholar".',
     relation: '',
     doctrine: '',
-    reference: 'https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%B4%9E%E5%AE%97',
+    reference: ['https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%B4%9E%E5%AE%97'],
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const sectDb = [
     history: 'Its founder is Fayan Wenyi. It is the latest of the five schools of Zen Buddhism, and is derived from the lineage of Qingyuan Xingsi, a disciple of the Sixth Patriarch Huineng. The Fayan School was greatly developed during the Southern Tang and Wuyue periods, becoming the most influential school in the late Five Dynasties, with Zhejiang and Fujian as its central dioceses. In the early Song Dynasty, it reached its peak during the reign of Yongming Yanshou . After the middle of the Song Dynasty, the Fayan School gradually declined and its lineage was cut off, but it was still passed down in Goryeo . In modern times, Monk Xuyun revived Zen Buddhism and continued the lineage of the five schools, and the Fayan School was able to resume its inheritance.',
     relation: '',
     doctrine: '',
-    reference: 'https://zh.wikipedia.org/wiki/%E6%B3%95%E7%9C%BC%E5%AE%97',
+    reference: ['https://zh.wikipedia.org/wiki/%E6%B3%95%E7%9C%BC%E5%AE%97'],
   },
   {
     id: 5,
@@ -54,7 +54,7 @@ const sectDb = [
       'The master\'s teachings were admired by Emperor Shizong. They were called the Yunmen School." Another theory is that Yunmen Wenyan came from the Hongzhou Sect , so the Yunmen Sect should be affiliated with the Hongzhou Sect.',
     relation: '',
     doctrine: 'His Zen style is known as the Three Sentences of Yunmen: "Encompassing the heaven and the earth", "Cutting off all streams", and "Go with the flow".',
-    reference: 'https://zh.wikipedia.org/wiki/%E4%BA%91%E9%97%A8%E5%AE%97',
+    reference: ['https://zh.wikipedia.org/wiki/%E4%BA%91%E9%97%A8%E5%AE%97'],
   },
   {
     id: 6,
@@ -74,13 +74,13 @@ const sectDb = [
     history: 'It was founded by Zen Master Huanglong Huinan. In the third year of Song Jingyou (1036), Huanglong Huinan became the first ancestor of the Huanglong School at Chong\'en Temple on Huanglong Mountain in Longxing, Jiangxi (now Huanglong Township, Xiushui County, Jiujiang City, Jiangxi Province).',
     relation: 'It is a branch of the Linji School. The Japanese monk Myoan Eisai brought this sect to Japan, which was the origin of the Japanese Zen sect Rinzai.',
     doctrine: '',
-    reference: 'https://zh.wikipedia.org/wiki/%E9%BB%83%E9%BE%8D%E5%AE%97',
+    reference: ['https://zh.wikipedia.org/wiki/%E9%BB%83%E9%BE%8D%E5%AE%97'],
   },
   {
     id: 100,
     label: 'others',
     color: 'indigo',
-    reference: 'https://zh.wikipedia.org/wiki/%E7%A6%85%E5%AE%97',
+    reference: ['https://zh.wikipedia.org/wiki/%E7%A6%85%E5%AE%97'],
   },
   {
     id: 101,
