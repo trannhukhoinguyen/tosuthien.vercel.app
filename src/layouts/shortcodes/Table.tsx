@@ -75,7 +75,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
   return (
     <div className="-my-2 py-2 overflow-x-auto sm:-mx-6 lg:-mx-8 lg:px-8 w-full">
 
-      <div className="align-middle rounded-tl-lg rounded-tr-lg inline-block w-full py-4 overflow-hidden bg-white shadow-lg px-12">
+      <div className="align-middle rounded-tl-lg rounded-tr-lg inline-flex w-full py-4 overflow-hidden bg-white shadow-lg px-12">
         <div className="flex justify-between">
           <div className="ml-3">
             <div className="w-full max-w-sm min-w-[200px] relative">
