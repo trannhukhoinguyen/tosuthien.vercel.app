@@ -4,12 +4,11 @@ import "../../styles/additional/Steps.scss";
 const { title, stepData } = Astro.props;
 ---
 
-
-<fieldset class="steps-fieldset">
+<fieldset class="steps-fieldset flex flex-col lg:w-1/2 sm:w-3/4 md:my-0 sm:my-0">
   <legend><h4 style="color: #f80640">{title}</h4></legend>
   {
     stepData.map((step, index) =>
-      <div class="fieldset-div" style="text-align: left">
+      <div class="fieldset-div text-left justify-self-start w-full">
         <input type="radio" id={index} name="step" value={step.label} />
         <label for={index}>
           <span class="step-label">{step.label}:</span>
