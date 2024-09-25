@@ -12,7 +12,7 @@
         { "name": "Коаны", "url": "/koans" }
       ]
     },
-
+    { "name": "Masterpieces", "url": "/masterpieces" },
     {
       "name": "Медиа",
       "url": "/media",

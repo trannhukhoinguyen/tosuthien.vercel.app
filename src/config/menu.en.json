@@ -3,8 +3,8 @@
     { "name": "Home", "url": "/" },
 
     {
-      "name": "Masters & Masterpieces",
-      "url": "/media",
+      "name": "Masters",
+      "url": "/masters",
       "hasChildren": true,
       "children": [
         { "name": "Zen Masters & Teaching", "url": "/masters" },
@@ -13,7 +13,7 @@
         { "name": "Koans", "url": "/koans" }
       ]
     },
-
+    { "name": "Masterpieces", "url": "/masterpieces" },
     {
       "name": "Media",
       "url": "/media",

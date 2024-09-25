@@ -12,7 +12,7 @@
         { "name": "公案", "url": "/koans" }
       ]
     },
-
+    { "name": "Masterpieces", "url": "/masterpieces" },
     {
       "name": "メディア",
       "url": "/media",

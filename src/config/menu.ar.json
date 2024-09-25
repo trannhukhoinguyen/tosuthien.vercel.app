@@ -4,7 +4,7 @@
 
     {
       "name": "روائع وتحف فنية",
-      "url": "/media",
+      "url": "/masters",
       "hasChildren": true,
       "children": [
         { "name": "أساتذة الزن وتعاليمهم", "url": "/masters" },
@@ -13,7 +13,7 @@
         { "name": "زين كوان", "url": "/koans" }
       ]
     },
-
+    { "name": "روائع", "url": "/masterpieces" },
     {
       "name": "وسائط",
       "url": "/media",

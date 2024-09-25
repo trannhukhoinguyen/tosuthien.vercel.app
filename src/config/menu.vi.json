@@ -3,8 +3,8 @@
     { "name": "Trang chủ", "url": "/" },
 
     {
-      "name": "Thiền sư & Tuyệt tác",
-      "url": "/media",
+      "name": "Thiền sư",
+      "url": "/masters",
       "hasChildren": true,
       "children": [
         { "name": "Thiền sư & Ngữ lục", "url": "/masters" },
@@ -13,13 +13,13 @@
         { "name": "Công án", "url": "/koans" }
       ]
     },
-
+    { "name": "Tuyệt tác", "url": "/masterpieces" },
     {
       "name": "Media",
       "url": "/media",
       "hasChildren": true,
       "children": [
-        { "name": "Sách", "url": "/books" },
+        { "name": "Tủ Sách", "url": "/books" },
         { "name": "PDF & MP3", "url": "/download" },
         { "name": "Youtube", "url": "/youtube" }
       ]
