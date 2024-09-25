@@ -41,7 +41,7 @@ import CnLv25MasterDb from "../../db/masters/CnLv25MasterDb.tsx";
 export const InMasters = InMasterDb
 export const ViMasters = ViMasterDb
 export const JpMasters = JpMasterDb
-export const KoMasterd = KoMasterDb
+export const KoMasters = KoMasterDb
 export const CnMasters = [
   CnLv0MasterDb,
   CnLv1MasterDb,
