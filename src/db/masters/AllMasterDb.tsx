@@ -1,6 +1,7 @@
 import ViMasterDb from "../../db/masters/ViMasterDb.tsx";
 import InMasterDb from "../../db/masters/InMasterDb.tsx";
 import JpMasterDb from "../../db/masters/JpMasterDb.tsx";
+import KoMasterDb from "../../db/masters/KoMasterDb.tsx";
 
 import CnGuiyangMasterDb from "../../db/masters/CnGuiyangMasterDb.tsx";
 import CnLinjiMasterDb from "../../db/masters/CnLinjiMasterDb.tsx";
@@ -17,15 +18,59 @@ import CnLv3MasterDb from "../../db/masters/CnLv3MasterDb.tsx";
 import CnLv4MasterDb from "../../db/masters/CnLv4MasterDb.tsx";
 import CnLv5MasterDb from "../../db/masters/CnLv5MasterDb.tsx";
 import CnLv6MasterDb from "../../db/masters/CnLv6MasterDb.tsx";
+import CnLv7MasterDb from "../../db/masters/CnLv7MasterDb.tsx";
+import CnLv8MasterDb from "../../db/masters/CnLv8MasterDb.tsx";
+import CnLv9MasterDb from "../../db/masters/CnLv9MasterDb.tsx";
+import CnLv10MasterDb from "../../db/masters/CnLv10MasterDb.tsx";
+import CnLv11MasterDb from "../../db/masters/CnLv11MasterDb.tsx";
+import CnLv12MasterDb from "../../db/masters/CnLv12MasterDb.tsx";
+import CnLv13MasterDb from "../../db/masters/CnLv13MasterDb.tsx";
+import CnLv14MasterDb from "../../db/masters/CnLv14MasterDb.tsx";
+import CnLv15MasterDb from "../../db/masters/CnLv15MasterDb.tsx";
+import CnLv16MasterDb from "../../db/masters/CnLv16MasterDb.tsx";
+import CnLv17MasterDb from "../../db/masters/CnLv17MasterDb.tsx";
+import CnLv18MasterDb from "../../db/masters/CnLv18MasterDb.tsx";
+import CnLv19MasterDb from "../../db/masters/CnLv19MasterDb.tsx";
+import CnLv20MasterDb from "../../db/masters/CnLv20MasterDb.tsx";
 import CnLv21MasterDb from "../../db/masters/CnLv21MasterDb.tsx";
 import CnLv22MasterDb from "../../db/masters/CnLv22MasterDb.tsx";
 import CnLv23MasterDb from "../../db/masters/CnLv23MasterDb.tsx";
 import CnLv24MasterDb from "../../db/masters/CnLv24MasterDb.tsx";
+import CnLv25MasterDb from "../../db/masters/CnLv25MasterDb.tsx";
 
-export const AllMasters = [
-    ...ViMasterDb,
-  ...InMasterDb,
-  ...CnLv0MasterDb,
+export const InMasters = InMasterDb
+export const ViMasters = ViMasterDb
+export const JpMasters = JpMasterDb
+export const KoMasterDb = KoMasterDb
+export const CnMasters = [
+  CnLv0MasterDb,
+  CnLv1MasterDb,
+  CnLv2MasterDb,
+  CnLv3MasterDb,
+  CnLv4MasterDb,
+  CnLv5MasterDb,
+  CnLv6MasterDb,
+  CnLv7MasterDb,
+  CnLv8MasterDb,
+  CnLv9MasterDb,
+  CnLv10MasterDb,
+  CnLv11MasterDb,
+  CnLv12MasterDb,
+  CnLv13MasterDb,
+  CnLv14MasterDb,
+  CnLv15MasterDb,
+  CnLv16MasterDb,
+  CnLv17MasterDb,
+  CnLv18MasterDb,
+  CnLv19MasterDb,
+  CnLv20MasterDb,
+  CnLv21MasterDb,
+  CnLv22MasterDb,
+  CnLv23MasterDb,
+  CnLv24MasterDb,
+  CnLv25MasterDb,
+]
+export const AllSectMasters = [
   ...CnGuiyangMasterDb,
   ...CnLinjiMasterDb,
   ...CnCaodongMasterDb,
@@ -33,29 +78,6 @@ export const AllMasters = [
   ...CnYunmenMasterDb,
   ...CnYangqiMasterDb,
   ...CnHuanglongMasterDb,
-  ...CnLv1MasterDb,
-  ...CnLv2MasterDb,
-  ...CnLv3MasterDb,
-  ...CnLv4MasterDb,
-  ...CnLv5MasterDb,
-  ...CnLv6MasterDb,
-]
-export const InMasters = InMasterDb
-export const ViMasters = ViMasterDb
-export const JpMasters = JpMasterDb
-export const CnMasters = [
-  ...CnLv0MasterDb,
-  ...CnLv1MasterDb,
-  ...CnLv2MasterDb,
-  ...CnLv3MasterDb,
-  ...CnLv4MasterDb,
-  ...CnLv5MasterDb,
-  ...CnLv6MasterDb,
-
-  ...CnLv21MasterDb,
-  ...CnLv22MasterDb,
-  ...CnLv23MasterDb,
-  ...CnLv24MasterDb,
 ]
 export const CnGuiyangMasters = CnGuiyangMasterDb
 export const CnLinjiMasters = CnLinjiMasterDb
@@ -64,30 +86,3 @@ export const CnFayanMasters = CnFayanMasterDb
 export const CnYunmenMasters = CnYunmenMasterDb
 export const CnYangqiMasters = CnYangqiMasterDb
 export const CnHuanglongMasters = CnHuanglongMasterDb
-
-export const CnLv0Masters = CnLv0MasterDb
-export const CnLv1Masters = CnLv1MasterDb
-export const CnLv2Masters = CnLv2MasterDb
-export const CnLv3Masters = CnLv3MasterDb
-export const CnLv4Masters = CnLv4MasterDb
-export const CnLv5Masters = CnLv5MasterDb
-export const CnLv6Masters = CnLv6MasterDb
-export const CnLv7Masters = CnLv6MasterDb
-export const CnLv8Masters = CnLv0MasterDb
-export const CnLv9Masters = CnLv0MasterDb
-export const CnLv10Masters = CnLv0MasterDb
-export const CnLv11Masters = CnLv0MasterDb
-export const CnLv12Masters = CnLv0MasterDb
-export const CnLv13Masters = CnLv0MasterDb
-export const CnLv14Masters = CnLv0MasterDb
-export const CnLv15Masters = CnLv1MasterDb
-export const CnLv16Masters = CnLv2MasterDb
-export const CnLv17Masters = CnLv3MasterDb
-export const CnLv18Masters = CnLv4MasterDb
-export const CnLv19Masters = CnLv5MasterDb
-export const CnLv20Masters = CnLv6MasterDb
-export const CnLv21Masters = CnLv21MasterDb
-export const CnLv22Masters = CnLv22MasterDb
-export const CnLv23Masters = CnLv23MasterDb
-export const CnLv24Masters = CnLv24MasterDb
-export default AllMasters;

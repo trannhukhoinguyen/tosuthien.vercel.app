@@ -1,7 +1,8 @@
 const sectDb = [
   {
     id: 1,
-    label: 'Guiyang',
+    labelEn: 'Guiyang',
+    labelJa: 'Igyô',
     color: 'red',
     founder: 'Shishan Lingyou - Yangshan Huiji',
     history: 'Among 5 schools, Weiyangzong was founded the earliest), was a branch of Hongzhouzong . Because the founder of this school, Master Lingyou, and his disciple Huiji, successively promoted the school\'s style in Tanzhou \'s Yunshan (in Ningxiang City, Changsha , Hunan ) and Yuanzhou \'s Yangshan (in Yichun , Jiangxi ), later generations called it Yunyangzong.\n' +
@@ -13,7 +14,8 @@ const sectDb = [
   },
   {
     id: 2,
-    label: 'Linji',
+    labelEn: 'Linji',
+    labelJa: 'Rinzai',
     color: 'green',
     founder: 'Linji Yixuan',
     history: 'It branched off from the Hongzhou Sect and started with the master Yixuan of Linji (?-866) in the Tang Dynasty. Yi Xuan studied Dharma with Zen Master Huang Xiyun for 33 years, and then went to Zhenzhou (now Zhengding, Shijiazhuang , Hebei Province ) to build Linji Temple on the bank of the Hutuo River , carrying forward the teachings of "Prajna as the foundation, taking emptiness to capture existence, and emptiness having appearances" advocated by Zen Master Xiyun. The new Zen method of "integration" spread throughout the world, and later generations called it the "Linji Sect", and Linji Temple also became the ancestral hall of the Linji Sect. Because of his relatively strong Zen style, later generations were called "General Linji, Scholar and People of Caodong" compared with the Caodong Sect , which had more detailed theories .',
@@ -23,7 +25,8 @@ const sectDb = [
   },
   {
     id: 3,
-    label: 'Caodong',
+    labelEn: 'Caodong',
+    labelJa: 'Sôtô',
     color: 'blue',
     founder: 'Dongshan Liangjie - Caoshan Benji',
     history: 'It branched off from the Shitou school and was founded by Dongshan Liangjie and Caoshan Benji . It was later passed down to the Zen master Hongzhi Zhengjue , who created the silent illumination Zen . Together with the koan Zen advocated by Dahui Zonggao , they became the two major schools of Zen Buddhism in later generations. Because of its detailed doctrine, it was compared with the more radical Linji school in later generations , and was called "Linji General, Caodong Scholar".',
@@ -33,7 +36,8 @@ const sectDb = [
   },
   {
     id: 4,
-    label: 'Fayan',
+    labelEn: 'Fayan',
+    labelJa: 'Hôgen',
     color: 'orange',
     founder: 'Fayan Wenyi',
     history: 'Its founder is Fayan Wenyi. It is the latest of the five schools of Zen Buddhism, and is derived from the lineage of Qingyuan Xingsi, a disciple of the Sixth Patriarch Huineng. The Fayan School was greatly developed during the Southern Tang and Wuyue periods, becoming the most influential school in the late Five Dynasties, with Zhejiang and Fujian as its central dioceses. In the early Song Dynasty, it reached its peak during the reign of Yongming Yanshou . After the middle of the Song Dynasty, the Fayan School gradually declined and its lineage was cut off, but it was still passed down in Goryeo . In modern times, Monk Xuyun revived Zen Buddhism and continued the lineage of the five schools, and the Fayan School was able to resume its inheritance.',
@@ -43,7 +47,8 @@ const sectDb = [
   },
   {
     id: 5,
-    label: 'Yunmen',
+    labelEn: 'Yunmen',
+    labelJa: 'Ummon',
     color: 'violet',
     founder: 'Yunmen Wenyan',
     history: 'The Guangtai Zen Temple in Yunmen Mountain, Shaozhou (in the north of today\'s Ruyuan Yao Autonomous County , Guangdong ) was the ancestral temple, hence the name Yunmen Sect. ' +

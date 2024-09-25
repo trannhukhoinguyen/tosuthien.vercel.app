@@ -173,19 +173,10 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
               </div>
             </td>
             <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
-{/*              {
-                item.sect.map(its =>
-                  <span className={`
-									  p-1
-                    text-${sectDb?.find(s => item.sect.includes(s.label))?.color}-600
-                    bg-${sectDb?.find(s => item.sect.includes(s.label))?.color}-200
-									`}>{its}</span>
-                )
-              }*/}
               <span className={`
 									  p-1
-                    text-${sectDb?.find(s => item.sect.includes(s.label))?.color}-600
-                    bg-${sectDb?.find(s => item.sect.includes(s.label))?.color}-200
+                    text-${sectDb?.find(s => item.sect.includes(s.labelEn))?.color}-600
+                    bg-${sectDb?.find(s => item.sect.includes(s.labelEn))?.color}-200
 									`}>{item.sect}</span>
             </td>
             <td>{item.country}</td>

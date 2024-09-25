@@ -16,7 +16,7 @@ const CnLv11MasterDb = [
     sect: '-',
     country: 'China',
     place: '-',
-    teachers: ['Linji Yixuan'],
+    teachers: ['Fenyang Shanzhao'],
     successors: [''],
     disciples: [''],
     image: '/images/avatar.png',

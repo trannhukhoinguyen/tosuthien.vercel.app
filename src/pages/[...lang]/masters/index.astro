@@ -1,32 +1,12 @@
 ---
 import Table from "../../../layouts/shortcodes/Table.tsx";
 import {
-  AllMasters,
   CnMasters,
-
-  CnGuiyangMasters,
-  CnLinjiMasters,
-  CnCaodongMasters,
-  CnFayanMasters,
-  CnYunmenMasters,
-  CnYangqiMasters,
-  CnHuanglongMasters,
-
-  CnLv0Masters,
-  CnLv1Masters,
-  CnLv2Masters,
-  CnLv3Masters,
-  CnLv4Masters,
-  CnLv5Masters,
-  CnLv6Masters,
-
-
-  CnLv21Masters,
-  CnLv22Masters,
-  CnLv23Masters,
+  AllSectMasters,
+  InMasters,
+  ViMasters,
+  JpMasters,
 } from "../../../db/masters/AllMasterDb.tsx";
-import ViMasterDb from "../../../db/masters/ViMasterDb.tsx";
-import InMasterDb from "../../../db/masters/InMasterDb.tsx";
 
 import '@/styles/table.css';
 import Base from "@/layouts/Base.astro";
@@ -63,44 +43,26 @@ const {
 
   <section class="section">
 
+    <span style="font-size: 3rem; margin-left: 48%"><a href="/masters/chart">🔮</a></span>
+
     <div class="container">
       <h2>{ in_masters }</h2>
-      <Table client:load data={InMasterDb} lang={lang ? lang : 'vi'} />
+      <Table client:load data={InMasters} lang={lang ? lang : 'vi'} />
     </div>
 
     <div class="container">
       <h2>{ cn_masters } - { level_ }</h2>
-      <Table client:load data={CnLv0Masters} lang={lang ? lang : 'vi'}/>
+      <Table client:load data={CnMasters[0]} lang={lang ? lang : 'vi'}/>
     </div>
 
-    <div class="container">
-      <h2>{ cn_masters } - { level__ } 1</h2>
-      <Table client:load data={CnLv1Masters} lang={lang ? lang : 'vi'}/>
-    </div>
+    {
+      CnMasters.map((CnMaster, CnMasterIndex) =>
+        <div class="container">
+          <h2>{ cn_masters } - { level__ } {CnMasterIndex}</h2>
+          <Table client:load data={CnMaster} lang={lang ? lang : 'vi'}/>
+        </div>
+      )
+    }
 
-    <div class="container">
-      <h2>{ cn_masters } - { level__ } 2</h2>
-      <Table client:load data={CnLv2Masters} lang={lang ? lang : 'vi'}/>
-    </div>
-
-    <div class="container">
-      <h2>{ cn_masters } - { level__ } 3</h2>
-      <Table client:load data={CnLv3Masters} lang={lang ? lang : 'vi'}/>
-    </div>
-
-    <div class="container">
-      <h2>{ cn_masters } - { level__ } 4</h2>
-      <Table client:load data={CnLv4Masters} lang={lang ? lang : 'vi'}/>
-    </div>
-
-    <div class="container">
-      <h2>{ cn_masters } - { level__ } 5</h2>
-      <Table client:load data={CnLv5Masters} lang={lang ? lang : 'vi'}/>
-    </div>
-
-    <div class="container">
-      <h2>{ cn_masters } - { level__ } 6</h2>
-      <Table client:load data={CnLv6Masters} lang={lang ? lang : 'vi'}/>
-    </div>
   </section>
 </Base>

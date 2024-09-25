@@ -11,6 +11,7 @@ import {
 } from "@/lib/utils/languageParser";
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
+import { site } from "@/config/config.json";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -19,28 +20,33 @@ export function getStaticPaths() {
   return paths;
 }
 const { lang } = Astro.params || getLangFromUrl(Astro.url);
-
-const postIndex = await getListPage(
-  "masters",
-  lang as keyof ContentEntryMap
-);
-const posts = await getSinglePage("masters", lang as keyof ContentEntryMap);
-const {
-  indian_masters, chinese_masters, level_0, level_1, level_2, level_3, level_4, level_5,
-} = await getTranslations(lang as keyof ContentEntryMap);
-
-
 ---
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DHTMLX Diagram Organization Chart with CDN</title>
+
+  <!-- Include DHTMLX Diagram CSS via CDN -->
+  <link rel="stylesheet" href="https://cdn.dhtmlx.com/diagram/edge/diagram.css">
+
+  <!-- Include DHTMLX Diagram JS via CDN -->
+  <script src="https://cdn.dhtmlx.com/diagram/edge/diagram.js"></script>
+
+</head>
+
+<body>
+
 <Base>
-  <PageHeader title={"Zen Master"} />
+<PageHeader title={"Zen Master"} />
 
-  <section class="section">
+<div id="orgChartContainer" style="width: 100%; height: 600px;"></div>
 
-    <div class="container">
+<!-- JavaScript to initialize and render the organization chart -->
+<script>
 
-
-    </div>
-  </section>
+</script>
 </Base>
-
+</body>
+</html>
