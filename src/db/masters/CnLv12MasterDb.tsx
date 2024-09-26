@@ -1,6 +1,7 @@
 const CnLv12MasterDb = [
   {
     id: 44.1,
+    hasContent: true,
     name_en: 'Yangqi Fanghui',
     name_es: 'Yangqi Fanghui',
     name_de: 'Yangqi Fanghui',
@@ -25,6 +26,7 @@ const CnLv12MasterDb = [
   },
   {
     id: 44.2,
+    hasContent: true,
     name_en: 'Huanglong Huinan',
     name_es: 'Huanglong Huinan',
     name_de: 'Huanglong Huinan',
