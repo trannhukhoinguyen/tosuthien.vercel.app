@@ -153,7 +153,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
                               <td>
                                 <a
                                   target="_blank"
-                                  href={item.hasContent ? "/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase())) : #}
+                                  href={item.hasContent ? "/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase())) : '#'}
                                   title="read more"
                                   className="text-blue-700"
                                 >
