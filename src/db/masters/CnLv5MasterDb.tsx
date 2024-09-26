@@ -46,6 +46,7 @@ const CnLv5MasterDb = [
   },
   {
     id: 38.3,
+    hasContent: true,
     name_en: 'Deshan Xuanjian',
     name_es: 'Deshan Xuanjian',
     name_de: 'Deshan Xuanjian',
@@ -185,6 +186,7 @@ const CnLv5MasterDb = [
   },
   {
     id: 38.9,
+    hasContent: true,
     name_en: 'Shishuang Qingzhu',
     name_es: 'Shishuang Qingzhu',
     name_de: 'Shishuang Qingzhu',
