@@ -142,11 +142,12 @@ const CnLv4MasterDb = [
   },
   {
     id: 37.7,
+    hasContent: true,
     name_en: 'Huangbo Xiyun',
     name_es: 'Huangbo Xiyun',
     name_de: 'Huangbo Xiyun',
     name_fr: 'Huangbo Xiyun',
-    name_vi: 'Hoàng Bá Hi Vận',
+    name_vi: 'Hoàng Bá Hy Vận',
     name_ru: 'Huangbo Xiyun',
     name_zh: '黃蘖希運',
     name_ja: 'Obaku kiun',
