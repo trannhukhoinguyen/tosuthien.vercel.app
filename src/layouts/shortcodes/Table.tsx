@@ -47,7 +47,8 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
 
   const filteredData = data.filter(
     (item) =>
-      item.name_en.toLowerCase().includes(searchTerm)
+     item.name_in.toLowerCase().includes(searchTerm)
+      || item.name_en.toLowerCase().includes(searchTerm)
       || item.name_es.toLowerCase().includes(searchTerm)
       || item.name_de.toLowerCase().includes(searchTerm)
       || item.name_fr.toLowerCase().includes(searchTerm)
@@ -122,6 +123,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
         <thead>
         <tr>
           <th>ID</th>
+ {item.name_in && <th>Indian Name</th>}
           <th>English Name</th>
           {lang === 'es' && <th>Spanish Name</th>}
           {lang === 'de' && <th>German Name</th>}
@@ -145,10 +147,11 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
         {currentData.map((item) => (
           <tr key={item.id}>
             <td>{item.id}</td>
+{item.name_in && <td>{item.name_in}</td>}
                               <td>
                                 <a
                                   target="_blank"
-                                  href={"/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}
+                                  href={item.hasContent ? "/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase())) : #}
                                   title="read more"
                                   className="text-blue-700"
                                 >
