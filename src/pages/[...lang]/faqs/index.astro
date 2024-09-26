@@ -18,12 +18,7 @@ export function getStaticPaths() {
   return paths;
 }
 const { lang } = Astro.params;
-const postIndex = await getListPage(
-  "faqs",
-  lang as keyof ContentEntryMap
-);
 const langCollection: keyof ContentEntryMap = lang as keyof ContentEntryMap;
-const posts = await getSinglePage("faqs", lang as keyof ContentEntryMap);
 
 const allCategories = await getAllTaxonomy(langCollection, "categories");
 const categories = await getTaxonomy(langCollection, "categories");
