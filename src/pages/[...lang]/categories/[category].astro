@@ -54,7 +54,7 @@ export async function getStaticPaths() {
 const { category, lang } = Astro.params;
 
 // get posts by category
-const posts = await getSinglePage("faqs", lang as keyof ContentEntryMap);
+const posts = await getSinglePage("koans", lang as keyof ContentEntryMap);
 const filterByCategories = taxonomyFilter(posts, "categories", category!);
 const sortedPosts = sortByDate(filterByCategories);
 ---
