@@ -22,8 +22,8 @@
     "default_theme": "system",
     "pagination": 10,
     "summary_length": 200,
-    "blog_folder": "blog",
-    "collection_folder": "blog",
+    "blog_folder": "masters",
+    "collection_folder": "masters",
     "default_language": "vi",
     "disable_languages": [],
     "default_language_in_subdir": false
