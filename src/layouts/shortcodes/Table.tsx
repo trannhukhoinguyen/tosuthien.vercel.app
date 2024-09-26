@@ -7,6 +7,8 @@ import Modal from "./../helpers/Modal";
 interface TableProps {
   data: {
     id: number
+    hasContent: boolean
+    name_in: string | undefined
     name_en: string
     name_es: string
     name_de: string
