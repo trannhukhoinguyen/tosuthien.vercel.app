@@ -1,6 +1,7 @@
 const CnLv11MasterDb = [
   {
     id: 43.1,
+    hasContent: true,
     name_en: 'Shishuang Chuyuan',
     name_es: 'Shishuang Chuyuan',
     name_de: 'Shishuang Chuyuan',
