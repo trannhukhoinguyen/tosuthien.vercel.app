@@ -1,6 +1,7 @@
 const CnLv0MasterDb = [
   {
     id: 29,
+    
     name_en: 'Dazu Huike',
     name_es: 'Dazu Huike',
     name_de: 'Dazu Huike',
@@ -193,6 +194,7 @@ const CnLv0MasterDb = [
   },
   {
     id: 33.3,
+    hasContent: true,
     name_en: 'Yuquan Shenxiu',
     name_es: 'Yuquan Shenxiu',
     name_de: 'Yuquan Shenxiu',
