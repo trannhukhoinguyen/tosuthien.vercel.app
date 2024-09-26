@@ -17,46 +17,6 @@ let { slug, lang } = Astro.params;
 if (!lang) {
   lang = default_language;
 }
-
-const postIndex: any = await getListPage(
-  "faqs",
-  lang as keyof ContentEntryMap
-);
-const posts = await getSinglePage("faqs", lang as keyof ContentEntryMap);
-const tags = await getTaxonomy(lang as keyof ContentEntryMap, "tags");
-const sortedPosts = sortByDate(posts);
-const totalPages = Math.ceil(posts.length / config.settings.pagination);
-const currentPage = slug && !isNaN(Number(slug)) ? Number(slug) : 1;
-const indexOfLastPost = currentPage * config.settings.pagination;
-const indexOfFirstPost = indexOfLastPost - config.settings.pagination;
-const currentPosts = sortedPosts.slice(indexOfFirstPost, indexOfLastPost);
-
-export async function getStaticPaths() {
-  const paths = await Promise.all(
-    supportedLang.map(async (lang) => {
-      const posts = await getSinglePage(
-        "faqs",
-        lang as keyof ContentEntryMap
-      );
-      const totalPages = Math.ceil(posts.length / config.settings.pagination);
-      const langString = lang.toString();
-      const langPaths = [];
-
-      for (let i = 1; i < totalPages; i++) {
-        langPaths.push({
-          params: {
-            lang: langString || undefined,
-            slug: (i + 1).toString(),
-          },
-        });
-      }
-
-      return langPaths;
-    })
-  );
-
-  return paths.flat();
-}
 ---
 
 <Base
