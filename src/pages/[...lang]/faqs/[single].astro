@@ -1,19 +1,1 @@
----
-import Base from "@/layouts/Base.astro";
-import PostSingle from "@/layouts/PostSingle.astro";
-import { getSinglePage } from "@/lib/contentParser.astro";
-import { supportedLang } from "@/lib/utils/languageParser";
-import type { ContentEntryMap } from "astro:content";
 
-const { post } = Astro.props;
-const { title, meta_title, description, image, master, categories, tags } = post.data;
----
-
-<Base
-  title={title}
-  meta_title={meta_title}
-  description={description}
-  image={image}
->
-  <PostSingle post={post} slugDefault={"faqs"} />
-</Base>
