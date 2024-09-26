@@ -15,24 +15,6 @@
     "logo_text": "Patriarchal Zen"
   },
 
-  "faqs": {
-    "meta_title": "Patriarchal Zen - FAQS",
-    "meta_image": "/images/meta-image-wide.jpg",
-    "meta_description": "FAQS of Patriarchal Zen"
-  },
-
-  "cautions": {
-    "meta_title": "Patriarchal Zen - Cautions",
-    "meta_image": "/images/meta-image-wider.jpg",
-    "meta_description": "Cautions of Patriarchal Zen"
-  },
-
-  "koans": {
-    "meta_title": "Patriarchal Zen - Koans",
-    "meta_image": "/images/meta-image-wide.jpg",
-    "meta_description": "Koans of Patriarchal Zen"
-  },
-
   "settings": {
     "search": true,
     "sticky_header": true,
