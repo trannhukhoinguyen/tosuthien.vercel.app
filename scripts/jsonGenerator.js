@@ -6,8 +6,8 @@ const languages = require("../src/config/language.json");
 const JSON_FOLDER = "./.json";
 const CONTENT_ROOT = "src/content";
 const CONTENT_DEPTH = 3;
-const BLOG_FOLDER = "cautions" || "koans" || "masters";
-const COLLECTION_FOLDER = "cautions" || "koans" || "masters";
+const BLOG_FOLDER = "koans" || "masters";
+const COLLECTION_FOLDER = "koans" || "masters";
 
 // get data from markdown
 const getData = (folder, groupDepth, langIndex = 0) => {
