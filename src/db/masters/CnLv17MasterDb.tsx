@@ -106,7 +106,7 @@ const CnLv17MasterDb = [
     birth_death_time: ['', ''],
     records: '',
     sect: '-',
-    country: 'China',
+    country: 'Japan',
     place: '-',
     teachers: ['Shi Huiyuan'],
     successors: [''],
