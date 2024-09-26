@@ -219,6 +219,7 @@ const InMasterDb = [
   },
   {
     id: 10,
+    hasContent: true,
     name_en: 'Parsvika',
     name_es: 'Parsvika',
     name_de: 'Parsvika',
@@ -241,6 +242,7 @@ const InMasterDb = [
   },
   {
     id: 11,
+    hasContent: true,
     name_en: 'Punyayasas',
     name_es: 'Punyayasas',
     name_de: 'Punyayasas',
