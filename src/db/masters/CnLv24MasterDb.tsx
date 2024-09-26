@@ -1,6 +1,7 @@
 const CnLv24MasterDb = [
   {
     id: 56.1,
+    hasContent: true,
     name_en: 'Tenjo Isoku',
     name_es: 'Tenjo Isoku',
     name_de: 'Tenjo Isoku',
