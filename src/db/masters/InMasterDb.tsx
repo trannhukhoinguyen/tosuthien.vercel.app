@@ -1,6 +1,7 @@
 const InMasterDb = [
   {
     id: 1,
+    hasContent: true,
     name_en: 'Mahakasyapa',
     name_es: 'Mahakasyapa',
     name_de: 'Mahakasyapa',
@@ -23,6 +24,7 @@ const InMasterDb = [
   },
   {
     id: 2,
+    hasContent: true,
     name_en: 'Ananda',
     name_es: 'Ananda',
     name_de: 'Ananda',
@@ -56,6 +58,7 @@ const InMasterDb = [
   },
   {
     id: 3,
+    hasContent: true,
     name_en: 'Sanakavasa',
     name_es: 'Sanakavasa',
     name_de: 'Sanakavasa',
@@ -78,6 +81,7 @@ const InMasterDb = [
   },
   {
     id: 4,
+    hasContent: true,
     name_en: 'Upagupta',
     name_es: 'Upagupta',
     name_de: 'Upagupta',
@@ -100,6 +104,7 @@ const InMasterDb = [
   },
   {
     id: 5,
+    hasContent: true,
     name_en: 'Dhrtaka',
     name_es: 'Dhrtaka',
     name_de: 'Dhrtaka',
@@ -122,6 +127,7 @@ const InMasterDb = [
   },
 {
     id: 6,
+    hasContent: true,
     name_en: 'Miccaka',
     name_es: 'Miccaka',
     name_de: 'Miccaka',
@@ -144,6 +150,7 @@ const InMasterDb = [
   },
 {
     id: 7,
+    hasContent: true,
     name_en: 'Vasumitra',
     name_es: 'Vasumitra',
     name_de: 'Vasumitra',
@@ -166,6 +173,7 @@ const InMasterDb = [
   },
   {
     id: 8,
+    hasContent: true,
     name_en: 'Buddhanandi',
     name_es: 'Buddhanandi',
     name_de: 'Buddhanandi',
@@ -188,6 +196,7 @@ const InMasterDb = [
   },
   {
     id: 9,
+    hasContent: true,
     name_en: 'Buddhamitra',
     name_es: 'Buddhamitra',
     name_de: 'Buddhamitra',
@@ -606,6 +615,7 @@ const InMasterDb = [
   },
   {
     id: 28,
+    hasContent: true,
     name_en: 'Bodhidharma',
     name_es: 'Bodhidharma',
     name_de: 'Bodhidharma',
