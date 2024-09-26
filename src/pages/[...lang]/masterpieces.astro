@@ -1,8 +1,9 @@
 ---
 import Base from "@/layouts/Base.astro";
-import BookList from "@/layouts/components/Books/BookList.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import { site } from "@/config/config.json";
+import PageHeader from "../../layouts/partials/PageHeader.astro";
+
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
     params: { lang: lang || undefined },
@@ -13,10 +14,16 @@ export function getStaticPaths() {
 const { lang } = Astro.params;
 ---
 
-<title>{ site.title + ' - Masterpieces' }</title>
+  <Base
+    title={`${site.title} - Masterpieces`}
+    meta_title={site.meta_title}
+    description={site.meta_description}
+    image={site.meta_image}
+  >
+  <PageHeader title={`${site.title} - Masterpieces`} />
+  <section class="section-sm">
+    <div class="container">
 
-<Base>
-
-  Masterpieces
-
-</Base>
+    </div>
+  </section>
+  </Base>

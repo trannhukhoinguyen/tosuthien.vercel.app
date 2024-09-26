@@ -21,6 +21,7 @@ const CnLv2MasterDb = [
     disciples: ['Yaoshan Weiyan'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shitou_Xiqian.jpg/220px-Shitou_Xiqian.jpg',
     reference: [''],
+    youtubeId: [''],
   },
   {
     id: 35.2,
@@ -42,8 +43,9 @@ const CnLv2MasterDb = [
     teachers: ['Nanyue Huairang'],
     successors: ['-'],
     disciples: ['Đại Châu Huệ Hải', 'Đại Mai Pháp Thường'],
-    image: '/images/avatar.png',
+    image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    youtubeId: [''],
   },
   {
     id: 35.3,
@@ -65,8 +67,9 @@ const CnLv2MasterDb = [
     teachers: ['Nanyang Huizhong'],
     successors: [''],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    youtubeId: [''],
   },
   {
     id: 35.4,
@@ -88,8 +91,9 @@ const CnLv2MasterDb = [
     teachers: ['Heze Shenhui'],
     successors: ['Kinh Nam Duy Trung'],
     disciples: ['Kinh Nam Duy Trung'],
-    image: '/images/avatar.png',
+    image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    youtubeId: [''],
   },
   {
     id: 35.5,
@@ -111,8 +115,9 @@ const CnLv2MasterDb = [
     teachers: ['Heze Shenhui'],
     successors: [''],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    youtubeId: [''],
   },
   {
     id: 35.6,
@@ -134,8 +139,9 @@ const CnLv2MasterDb = [
     teachers: ['Pǔjì'],
     successors: [''],
     disciples: ['Hành Biểu (行表)'],
-    image: '/images/avatar.png',
+    image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    youtubeId: [''],
   },
   {
     id: 35.7,
@@ -157,8 +163,9 @@ const CnLv2MasterDb = [
     teachers: ['Pǔjì'],
     successors: [''],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    youtubeId: [''],
   },
   {
     id: 35.8,
@@ -180,8 +187,9 @@ const CnLv2MasterDb = [
     teachers: ['Chùjì (普寂)'],
     successors: [''],
     disciples: ['Wúzhù (無住)'],
-    image: '/images/avatar.png',
+    image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    youtubeId: [''],
   },
   {
     id: 35.9,
@@ -203,8 +211,9 @@ const CnLv2MasterDb = [
     teachers: ['Phá Táo Đọa (破竈墮)'],
     successors: [''],
     disciples: [''],
-    image: '/images/avatar.png',
+    image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    youtubeId: [''],
   },
   {
     id: 35.10,
@@ -226,8 +235,9 @@ const CnLv2MasterDb = [
     teachers: ['Ehō (慧方)'],
     successors: [''],
     disciples: ['Chii (智威)'],
-    image: '/images/avatar.png',
+    image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    youtubeId: [''],
   },
   {
     id: 35.11,
@@ -249,8 +259,9 @@ const CnLv2MasterDb = [
     teachers: ['Pǔjì (普寂)'],
     successors: [''],
     disciples: ['Chí Chân (志眞)'],
-    image: '/images/avatar.png',
+    image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    youtubeId: [''],
   },
 ]
 export default CnLv2MasterDb;

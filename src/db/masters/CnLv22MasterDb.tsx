@@ -16,11 +16,12 @@ const CnLv22MasterDb = [
     sect: ['Linji', 'Yangqi'],
     country: 'China',
     place: '-',
-    teachers: [''],
+    teachers: ['Xueyan Zuqin'],
     successors: ['Zhongfeng Mingben'],
     disciples: ['Zhongfeng Mingben'],
     image: 'https://terebess.hu/zen/mesterek/woodcut/55.jpg',
     reference: ['https://vi.wikipedia.org/wiki/Cao_Phong_Nguy%C3%AAn_Di%E1%BB%87u', 'https://terebess.hu/zen/mesterek/GaofengYuanmiao.html', 'http://www.thuongchieu.net/index.php/phapthoai/suphu/4171-tscaophongdieu'],
+    youtubeId: ['2eAlynd_JTE'],
   },
 ]
 export default CnLv22MasterDb;

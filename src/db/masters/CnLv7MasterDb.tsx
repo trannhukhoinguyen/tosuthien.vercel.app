@@ -31,7 +31,7 @@ const CnLv7MasterDb = [
     name_vi: 'Hoà Sơn Vô Ân',
     name_ru: 'Heshan Wuyin',
     name_zh: '南院慧顒: ',
-    name_ja: 'Heshan Wuyin',
+    name_ja: 'Kasan Muin',
     name_ko: 'Heshan Wuyin',
     name_ar: 'Heshan Wuyin',
     birth_death_time: ['884', '960'],

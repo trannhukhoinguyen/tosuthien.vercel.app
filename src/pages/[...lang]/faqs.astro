@@ -1,0 +1,46 @@
+---
+import Base from "@/layouts/Base.astro";
+import { supportedLang } from "@/lib/utils/languageParser";
+import { site } from "@/config/config.json";
+import faqsDb from "../../../src/db/faqsDb.tsx";
+import "../../styles/additional/Faqs.scss"
+import PageHeader from "../../layouts/partials/PageHeader.astro";
+
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+const { lang } = Astro.params;
+---
+
+<Base
+  title={'FAQs'}
+  meta_title={'FAQs'}
+  description={'FAQs'}
+  image={site.meta_image}
+>
+  <PageHeader title={`${site.title} - Youtube Playlist`} />
+  <section class="section-sm">
+    <div class="container">
+      <div class="faq">
+        {
+          faqsDb.map((quest, index) =>
+            <div>
+              <input type="checkbox" id={`question${index}`} name="q" class="questions">
+              <div class="plus">+</div>
+              <label for={`question${index}`} class="question">
+                <p>{quest.ask}</p>
+              </label>
+              <div class="answers">
+                <p>{quest.reply}</p>
+              </div>
+            </div>
+          )
+        }
+      </div>
+    </div>
+  </section>
+</Base>

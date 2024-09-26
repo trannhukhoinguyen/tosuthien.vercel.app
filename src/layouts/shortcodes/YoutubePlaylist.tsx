@@ -7,7 +7,7 @@ interface PlaylistProps {
 
 const YoutubePlaylist: React.FC<PlaylistProps> = ({ playlistId, playlistTitle }) => {
   return (
-    <div className="playlist-container">
+    <div className="playlist-container" hidden={!playlistId ? true : undefined}>
       <h4>{ playlistTitle }</h4>
       <iframe
         width="100%"

@@ -16,11 +16,12 @@ const CnLv21MasterDb = [
     sect: ['Linji', 'Yangqi'],
     country: 'China',
     place: '-',
-    teachers: [''],
+    teachers: ['Wuzhun Shifan'],
     successors: ['Gaofeng Yuanmiao'],
     disciples: ['Gaofeng Yuanmiao'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFt_Nham_T%E1%BB%95_Kh%C3%A2m', 'https://terebess.hu/zen/mesterek/XueyanZuqin.html', 'http://www.thuongchieu.net/index.php/phapthoai/suphu/4162-thiensutuyetkham'],
+    youtubeId: ['KpoUcjH7bRM'],
   },
 ]
 export default CnLv21MasterDb;

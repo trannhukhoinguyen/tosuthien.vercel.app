@@ -18,9 +18,10 @@ const CnLv23MasterDb = [
     place: '-',
     teachers: ['Gaofeng Yuanmiao'],
     successors: ['-'],
-    disciples: ['-'],
+    disciples: ['Thiên Như Duy Tắc-Tenjo Isoku', 'Cổ Tiên Ấn Nguyên', 'Thiên Nham Nguyên Trường-Sengan Genchō', 'Cô Phong Giác Minh-Kohō Kakumyō'],
     image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
     reference: ['http://www.thuongchieu.net/index.php/phapthoai/suphu/4194-tstrungphongban', 'https://vi.wikipedia.org/wiki/Trung_Phong_Minh_B%E1%BA%A3n'],
+    youtubeId: ['i5I899Ht89c', 'plJmknVMv3c', '3y1vJNWIMxA',],
   },
 ]
 export default CnLv23MasterDb;

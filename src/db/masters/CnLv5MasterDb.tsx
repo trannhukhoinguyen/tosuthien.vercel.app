@@ -110,7 +110,7 @@ const CnLv5MasterDb = [
     place: '-',
     teachers: ['Huangbo Xiyun'],
     successors: ['Xinghua Cunjiang'],
-    disciples: ['Xinghua Cunjiang'],
+    disciples: ['Xinghua Cunjiang', 'Sansheng Huiran'],
     image: '/images/avatar.png',
     reference: [''],
   },
