@@ -49,6 +49,7 @@ const CnLv2MasterDb = [
   },
   {
     id: 35.3,
+    hasContent: true,
     name_en: 'Danyuan Yingzhen',
     name_es: 'Danyuan Yingzhen',
     name_de: 'Danyuan Yingzhen',
