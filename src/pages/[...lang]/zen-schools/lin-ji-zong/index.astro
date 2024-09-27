@@ -4,6 +4,7 @@ import { supportedLang } from "../../../../lib/utils/languageParser";
 import PeriodicTable from "../../../../layouts/components/PeriodicTable.astro";
 import sectDb from "../../../../db/sectDb.tsx";
 import { CnLinjiMasters } from "../../../../db/masters/AllMasterDb.tsx";
+import MakeupPalettes from "../../../../layouts/components/MakeupPalettes.astro";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
