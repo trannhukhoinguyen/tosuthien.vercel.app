@@ -21,6 +21,7 @@ const CnLv19MasterDb = [
     disciples: ['Wuzhun Shifan'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Ph%C3%A1_Am_T%E1%BB%95_Ti%C3%AAn',],
+    koans: ['',],
   },
   {
     id: 51.2,
@@ -44,6 +45,7 @@ const CnLv19MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['https://www.erct.com/2-ThoVan/NNT/Vomonquan/20-Dailucluongnhan.htm', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/tung-nguyen-sung-nhac-k3098.html', 'https://tangthuphathoc.net/tudien/tung-nguyen-sung-nhac-tu-dien-dao-uyen/'],
+    koans: ['',],
   },
   {
     id: 51.3,
@@ -67,6 +69,7 @@ const CnLv19MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['',],
+    koans: ['',],
   },
 ]
 export default CnLv19MasterDb;

@@ -22,6 +22,7 @@ const CnLv25MasterDb = [
     image: '/',
     reference: [''],
     youtubeId: [''],
+    koans: ['',],
   },
 ]
 export default CnLv25MasterDb;

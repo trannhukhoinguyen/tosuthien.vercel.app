@@ -3,9 +3,11 @@ import ModalContent from "@/helpers/ModalContent.tsx";
 
 interface ModalProps {
   lang: string | undefined;
-  content: string;
+  content: string | undefined;
+  title: string | undefined;
 }
-const Modal = ({ lang, content }: { lang: string | undefined, content: string | undefined }) => {
+
+const Modal: React.FC<ModalProps> = ({ lang, content, title }: { lang: string | undefined, content: string | undefined, title: string | undefined }) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const openModal = () => {
@@ -36,7 +38,7 @@ const Modal = ({ lang, content }: { lang: string | undefined, content: string | 
         }}
         title={""}
       >
-        📒
+        { title }
       </button>
 
       {/* Modal */}
@@ -47,7 +49,6 @@ const Modal = ({ lang, content }: { lang: string | undefined, content: string | 
             <ModalContent lang={lang} content={content} />
           </div>
         </div>
-
       )}
     </div>
   );
@@ -70,7 +71,7 @@ const modalStyles = {
     backgroundColor: '#ffffff',
     padding: '12px',
     borderRadius: '8px',
-    maxWidth: '800px',
+    maxWidth: '1000px',
     width: '100%',
     zIndex: '1001',
   },

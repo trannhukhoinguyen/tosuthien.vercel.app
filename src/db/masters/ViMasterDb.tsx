@@ -19,7 +19,9 @@ const InMasterDb = [
     teachers: ['Vinitaruci'],
     successors: ['-'],
     disciples: ['-'],
-    image: '/images/avatar.png'
+    image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
 
 ]

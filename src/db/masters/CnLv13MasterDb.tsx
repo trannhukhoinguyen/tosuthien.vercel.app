@@ -21,6 +21,7 @@ const CnLv13MasterDb = [
     disciples: ['Wuzu Fayan'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_V%C3%A2n_Th%E1%BB%A7_%C4%90oan',],
+    koans: ['',],
   },
   {
     id: 45.2,
@@ -44,6 +45,7 @@ const CnLv13MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['',],
+    koans: ['',],
   },
   {
     id: 45.3,
@@ -67,6 +69,7 @@ const CnLv13MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['',],
+    koans: ['',],
   },
   {
     id: 45.4,
@@ -90,6 +93,7 @@ const CnLv13MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['',],
+    koans: ['',],
   },
 ]
 export default CnLv13MasterDb;

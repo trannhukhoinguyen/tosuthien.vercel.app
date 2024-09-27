@@ -21,6 +21,7 @@ const CnLv4MasterDb = [
     disciples: ['Guifeng Zongmi'],
     image: '/images/avatar.png',
     reference: [''],
+    koans: ['',],
   },
   {
     id: 37.2,
@@ -44,6 +45,7 @@ const CnLv4MasterDb = [
     disciples: ['Dongshan Liangjie'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Yunyan_Tansheng_Image_Zen.jpg/220px-Yunyan_Tansheng_Image_Zen.jpg',
     reference: [''],
+    koans: ['',],
   },
   {
     id: 37.3,
@@ -67,6 +69,7 @@ const CnLv4MasterDb = [
     disciples: ['Deshan Xuanjian'],
     image: '/images/avatar.png',
     reference: [''],
+    koans: ['',],
   },
   {
     id: 37.4,
@@ -91,6 +94,7 @@ const CnLv4MasterDb = [
     image: '/images/avatar.png',
     collections: ['https://thuvienhoasen.org/images/file/OI6imJ1G0QgQAJ8X/quy-son-ngu-luc.pdf'],
     reference: ['https://terebess.hu/zen/guishan.html', 'https://en.wikipedia.org/wiki/Guishan_Lingyou', 'https://vi.wikipedia.org/wiki/Quy_S%C6%A1n_Linh_H%E1%BB%B1u', 'http://thuongchieu.net/index.php/phapthoai/suphu/4804-tslinhhuu', 'https://phatphapungdung.com/phap-bao/ngu-luc-cua-thien-su-dam-chau-quy-son-linh-huu-164038.html', 'https://thuvienhoasen.org/images/file/OI6imJ1G0QgQAJ8X/quy-son-ngu-luc.pdf'],
+    koans: ['',],
   },
   {
     id: 37.5,
@@ -115,6 +119,7 @@ const CnLv4MasterDb = [
     image: '/images/avatar.png',
     collections: [''],
     reference: ['https://terebess.hu/zen/shigong.html'],
+    koans: ['',],
   },
   {
     id: 37.6,
@@ -139,6 +144,7 @@ const CnLv4MasterDb = [
     image: '/images/avatar.png',
     collections: [''],
     reference: ['https://terebess.hu/zen/mesterek/CuiweiWuxue.html', 'https://vi.wikipedia.org/wiki/Th%C3%BAy_Vi_V%C3%B4_H%E1%BB%8Dc', 'https://blog.phapthihoi.org/tu-dien-phat-giao/thuy-vi-vo-hoc/'],
+    koans: ['',],
   },
   {
     id: 37.7,
@@ -163,6 +169,7 @@ const CnLv4MasterDb = [
     disciples: ['Linji Yixuan'],
     image: '/',
     reference: [''],
+    koans: ['',],
   },
   {
     id: 37.8,
@@ -186,6 +193,7 @@ const CnLv4MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: [''],
+    koans: ['',],
   },
   {
     id: 37.9,
@@ -209,6 +217,7 @@ const CnLv4MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: [''],
+    koans: ['',],
   },
   {
     id: 37.10,
@@ -232,6 +241,7 @@ const CnLv4MasterDb = [
     disciples: ['Kinzan Dōkin (徑山道欽)'],
     image: '/images/avatar.png',
     reference: [''],
+    koans: ['',],
   },
   {
     id: 37.11,
@@ -255,6 +265,7 @@ const CnLv4MasterDb = [
     disciples: ['Shishuang Qingzhu'],
     image: '/',
     reference: [''],
+    koans: ['',],
   },
 ]
 export default CnLv4MasterDb;

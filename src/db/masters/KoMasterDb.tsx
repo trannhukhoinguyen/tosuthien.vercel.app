@@ -19,7 +19,9 @@ const KoMasterDb = [
     teachers: ['Letan Kuangwu'],
     successors: ['-'],
     disciples: ['-'],
-    image: '/images/avatar.png'
+    image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
 ]
 export default KoMasterDb;

@@ -20,7 +20,9 @@ const InMasterDb = [
     teachers: ['Shakyamuni Buddha'],
     successors: ['Ananda'],
     disciples: ['-'],
-    image: '/images/avatar.png'
+    image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 2,
@@ -43,7 +45,9 @@ const InMasterDb = [
     teachers: ['Mahakasyapa'],
     successors: ['Sanakavasa'],
     disciples: ['-'],
-    image: '/images/avatar.png'
+    image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 3,
@@ -67,6 +71,8 @@ const InMasterDb = [
     successors: ['Upagupta'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 4,
@@ -90,6 +96,8 @@ const InMasterDb = [
     successors: ['Dhrtaka'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 5,
@@ -113,6 +121,8 @@ const InMasterDb = [
     successors: ['Miccaka'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
 {
     id: 6,
@@ -129,13 +139,15 @@ const InMasterDb = [
     name_ko: '미차가',
     name_ar: 'Miccaka',
     birth_death_time: ['', ''],
-  sect: ['-'],
+    sect: ['-'],
     country: 'India',
     place: '-',
     teachers: ['Dhrtaka'],
     successors: ['Vasumitra'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
 {
     id: 7,
@@ -152,13 +164,15 @@ const InMasterDb = [
     name_ko: '바수밀다',
     name_ar: 'Vasumitra',
     birth_death_time: ['', ''],
-  sect: ['-'],
+    sect: ['-'],
     country: 'India',
     place: '-',
     teachers: ['Miccaka'],
     successors: ['Buddhanandi'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 8,
@@ -182,6 +196,8 @@ const InMasterDb = [
     successors: ['Buddhamitra'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 9,
@@ -205,6 +221,8 @@ const InMasterDb = [
     successors: ['Parsvika'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 10,
@@ -228,6 +246,8 @@ const InMasterDb = [
     successors: ['Punyayasas'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 11,
@@ -251,6 +271,8 @@ const InMasterDb = [
     successors: ['Asvaghosha'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 12,
@@ -273,6 +295,8 @@ const InMasterDb = [
     successors: ['Kapimala'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 13,
@@ -295,6 +319,8 @@ const InMasterDb = [
     successors: ['Nagarjuna'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 14,
@@ -317,6 +343,8 @@ const InMasterDb = [
     successors: ['Kanadeva'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 15,
@@ -339,6 +367,8 @@ const InMasterDb = [
     successors: ['Rahulata'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
 {
     id: 16,
@@ -360,7 +390,9 @@ const InMasterDb = [
     teachers: ['Kanadeva'],
     successors: ['Sanghanandi'],
     disciples: ['-'],
-    dimage: '/images/avatar.png'
+    image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 17,
@@ -382,7 +414,9 @@ const InMasterDb = [
     teachers: ['Rahulata'],
     successors: ['Gayasata'],
     disciples: ['-'],
-    image: '/images/avatar.png'
+    image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 18,
@@ -405,6 +439,8 @@ const InMasterDb = [
     successors: ['Kumarata'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 19,
@@ -427,6 +463,8 @@ const InMasterDb = [
     successors: ['Jayata'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 20,
@@ -449,6 +487,8 @@ const InMasterDb = [
     successors: ['Vasubandhu'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
 {
     id: 21,
@@ -464,18 +504,20 @@ const InMasterDb = [
     name_ko: '바수반두 (세친) ',
     name_ar: 'Vasubandhu',
     birth_death_time: ['', ''],
-  sect: ['-'],
+    sect: ['-'],
     country: 'India',
     place: '-',
     teachers: ['Jayata'],
     successors: ['Manorhita'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
 {
     id: 22,
-  name_in: '',
-  name_en: 'Manorhita',
+    name_in: '',
+    name_en: 'Manorhita',
     name_es: 'Manorhita',
     name_de: 'Manorhita',
     name_fr: 'Manorhita',
@@ -486,13 +528,15 @@ const InMasterDb = [
     name_ko: '마나라',
     name_ar: 'Manorhita',
     birth_death_time: ['', ''],
-  sect: ['-'],
+    sect: ['-'],
     country: 'India',
     place: '-',
     teachers: ['Vasubandhu'],
     successors: ['Haklena'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 23,
@@ -515,6 +559,8 @@ const InMasterDb = [
     successors: ['Aryasimha'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 24,
@@ -537,6 +583,8 @@ const InMasterDb = [
     successors: ['Basiasita'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 25,
@@ -559,6 +607,8 @@ const InMasterDb = [
     successors: ['Punyamitra'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 26,
@@ -581,6 +631,8 @@ const InMasterDb = [
     successors: ['Prajnatara'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 27,
@@ -603,6 +655,8 @@ const InMasterDb = [
     successors: ['Bodhidharma'],
     disciples: ['-'],
     image: '/images/avatar.png',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 28,
@@ -626,6 +680,8 @@ const InMasterDb = [
     successors: ['Dazu Huike'],
     disciples: ['Dazu Huike'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BodhidharmaYoshitoshi1887.jpg/232px-BodhidharmaYoshitoshi1887.jpg',
+    reference: ['',],
+    koans: ['',],
   },
   {
     id: 31.2,
@@ -650,6 +706,7 @@ const InMasterDb = [
     image: '/',
     reference: ['Diệt Hỉ Thiền phái (滅喜禪派)'],
     youtubeId: [''],
+    koans: ['',],
   },
 ]
 export default InMasterDb;

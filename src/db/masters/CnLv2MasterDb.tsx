@@ -22,6 +22,7 @@ const CnLv2MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shitou_Xiqian.jpg/220px-Shitou_Xiqian.jpg',
     reference: [''],
     youtubeId: [''],
+    koans: ['',],
   },
   {
     id: 35.2,
@@ -42,10 +43,11 @@ const CnLv2MasterDb = [
     place: 'Gonggong mountain, Nankang, Ganzhou, southern Jiangxi',
     teachers: ['Nanyue Huairang'],
     successors: ['-'],
-    disciples: ['Đại Châu Huệ Hải', 'Đại Mai Pháp Thường'],
+    disciples: ['Baizhang Huaihai', 'Dazhu Huihai', 'Damei Fachang', 'Ehu Dayi', 'Xitang Zhizang', 'Nanquan Puyuan (748-835)', 'Fenzhou Wuye (760-821)'],
     image: '/images/monocolor-unknown-zen-master.jpg',
-    reference: [''],
+    reference: ['https://terebess.hu/zen/mazu.html'],
     youtubeId: [''],
+    koans: ['',],
   },
   {
     id: 35.3,
@@ -71,6 +73,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
+    koans: ['',],
   },
   {
     id: 35.4,
@@ -95,6 +98,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
+    koans: ['',],
   },
   {
     id: 35.5,
@@ -119,6 +123,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
+    koans: ['',],
   },
   {
     id: 35.6,
@@ -143,6 +148,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
+    koans: ['',],
   },
   {
     id: 35.7,
@@ -167,6 +173,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
+    koans: ['',],
   },
   {
     id: 35.8,
@@ -191,6 +198,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
+    koans: ['',],
   },
   {
     id: 35.9,
@@ -215,6 +223,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
+    koans: ['',],
   },
   {
     id: 35.10,
@@ -239,6 +248,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
+    koans: ['',],
   },
   {
     id: 35.11,

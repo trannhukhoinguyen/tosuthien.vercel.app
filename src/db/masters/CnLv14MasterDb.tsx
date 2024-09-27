@@ -21,6 +21,7 @@ const CnLv14MasterDb = [
     disciples: ['Yuanwu Keqin', 'Kaifu Daoning'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Ng%C5%A9_T%E1%BB%95_Ph%C3%A1p_Di%E1%BB%85n',],
+    koans: ['',],
   },
 ]
 export default CnLv14MasterDb;
