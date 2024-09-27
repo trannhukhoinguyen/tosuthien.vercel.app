@@ -11,7 +11,7 @@ import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
 
 const lang = getLangFromUrl(Astro.url);
 const { data, slugDefault } = Astro.props;
-const { title, image, date, masters, categories } = data.data;
+const { title, image, date, masters, } = data.data;
 
 const slugParts = data.slug.split("/");
 slugParts[0] = slugDefault;

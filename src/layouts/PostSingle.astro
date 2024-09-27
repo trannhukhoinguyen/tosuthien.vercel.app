@@ -27,7 +27,7 @@ const posts = await getSinglePage(
 );
 const similarPosts = similarItems(post, posts);
 const { Content } = await post.render();
-const { title, description, masters, categories, types, image, date, tags } = post.data;
+const { title, description, masters, types, image, date, tags } = post.data;
 ---
 
 <section class="section pt-7">
@@ -60,19 +60,6 @@ const { title, description, masters, categories, types, image, date, tags } = po
                 <a href={slugSelector(`/masters/${slugify(master)}`, lang)}>
                   <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
                   {humanize(master)}
-                </a>
-              ))
-            }
-          </li>
-          <li class="mr-4 inline-block">
-            <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
-            {
-              categories?.map((category: string, index: number) => (
-                <a
-                  href={slugSelector(`/categories/${slugify(category)}`, lang)}
-                >
-                  {humanize(category)}
-                  {index !== categories.length - 1 && ","}
                 </a>
               ))
             }

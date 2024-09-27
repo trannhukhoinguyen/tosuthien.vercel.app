@@ -2,40 +2,11 @@
 import { getLangFromUrl, slugSelector } from "@/lib/utils/languageParser";
 import { humanize } from "@/lib/utils/textConverter";
 
-const { tags, categories, allCategories, types, allTypes } = Astro.props;
+const { tags, types, allTypes } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 ---
 
 <div class="lg:col-4">
-  <!-- categories -->
-  {
-    categories && allCategories
-    ? <div class="mb-8">
-      <h5 class="mb-6">Categories</h5>
-      <div class="rounded bg-theme-light p-8 dark:bg-darkmode-theme-light">
-        <ul class="space-y-4">
-          {
-            categories && categories?.map((category: any) => {
-              const count = allCategories && allCategories?.filter(
-                (c: any) => c === category
-              ).length;
-              return (
-                <li>
-                  <a
-                    class="flex justify-between hover:text-primary dark:hover:text-darkmode-primary"
-                    href={slugSelector(`/categories/${category}`, lang)}
-                  >
-                    {humanize(category)} <span>({count})</span>
-                  </a>
-                </li>
-              );
-            })
-          }
-        </ul>
-      </div>
-    </div>
-    : ''
-  }
   <!-- types -->
   {
     types && allTypes

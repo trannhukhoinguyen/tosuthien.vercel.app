@@ -30,7 +30,7 @@
 - 🎯 Similar Posts Suggestion
 - 🔍 Search Functionality
 - 🌑 Dark Mode
-- 🏷️ Tags & Categories
+- 🏷️ Tags
 - 🔗 Netlify setting pre-configured
 - 📞 Support contact form
 - 📱 Fully responsive
@@ -51,7 +51,6 @@
 - 📄 Privacy Policy
 - 🏷️ Tags
 - 🏷️ Tag Single
-- 🗂️ Categories
 - 🗂️ Category Single
 - 🔍 Search
 

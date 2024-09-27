@@ -14,7 +14,7 @@ import ImageMod from "./ImageMod.astro";
 const { summary_length }: { summary_length: number; blog_folder: string } =
   config.settings;
 const { data } = Astro.props;
-const { title, image, date, masters, categories } = data.data;
+const { title, image, date, masters, } = data.data;
 
 const lang = getLangFromUrl(Astro.url);
 const { read_more } = await getTranslations(lang as keyof ContentEntryMap);
@@ -50,18 +50,6 @@ data.slug = modifiedSlug;
           <a href={slugSelector(`/masters/${slugify(master)}`, lang)}>
             <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
             {humanize(master)}
-          </a>
-        ))
-      }
-    </li>
-
-    <li class="mr-4 inline-block">
-      <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
-      {
-        categories.map((category: string, index: number) => (
-          <a href={slugSelector(`/categories/${slugify(category)}`, lang)}>
-            {humanize(category)}
-            {index !== categories.length - 1 && ","}
           </a>
         ))
       }

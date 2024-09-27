@@ -13,7 +13,7 @@ import ImageMod from "./ImageMod.astro";
 
 const { summary_length }: { summary_length: number; blog_folder: string } = config.settings;
 const { data, slugDefault } = Astro.props;
-const { title, image, date, masters, master, categories, tags } = data.data;
+const { title, image, date, masters, master, tags } = data.data;
 
 const lang = getLangFromUrl(Astro.url);
 const { read_more } = await getTranslations(lang as keyof ContentEntryMap);
