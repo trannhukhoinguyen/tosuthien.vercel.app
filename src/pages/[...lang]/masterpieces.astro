@@ -3,6 +3,7 @@ import Base from "@/layouts/Base.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import { site } from "@/config/config.json";
 import PageHeader from "../../layouts/partials/PageHeader.astro";
+import Candles from "../../layouts/components/Candles.astro";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -23,7 +24,7 @@ const { lang } = Astro.params;
   <PageHeader title={ 'Masterpieces' } />
   <section class="section-sm">
     <div class="container">
-
+      <Candles />
     </div>
   </section>
   </Base>
