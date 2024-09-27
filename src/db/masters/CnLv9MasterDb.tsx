@@ -25,6 +25,7 @@ const CnLv9MasterDb = [
   },
   {
     id: 41.2,
+    hasContent: true,
     name_en: 'Fayan Wenyi',
     name_es: 'Fayan Wenyi',
     name_de: 'Fayan Wenyi',

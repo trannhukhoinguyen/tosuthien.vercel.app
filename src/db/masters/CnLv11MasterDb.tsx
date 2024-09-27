@@ -27,6 +27,7 @@ const CnLv11MasterDb = [
   },
   {
     id: 43.2,
+    hasContent: true,
     name_en: 'Yongming Yanshou',
     name_es: 'Yongming Yanshou',
     name_de: 'Yongming Yanshou',

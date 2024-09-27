@@ -49,6 +49,7 @@ const CnLv16MasterDb = [
   },
   {
     id: 48.3,
+    hasContent: true,
     name_en: 'Dahui Zonggao',
     name_es: 'Dahui Zonggao',
     name_de: 'Dahui Zonggao',

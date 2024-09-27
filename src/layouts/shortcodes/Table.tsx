@@ -179,7 +179,9 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
             <td>
               <Modal lang={lang} title={"🧷"} content={item.reference?.join(', ')} />
             </td>
-            <td>{ item.koans?.join(', ') }</td>
+            <td>
+              <Modal lang={lang} title={"📖"} content={item.koans?.join(', ')} />
+            </td>
           </tr>
           ))
         }

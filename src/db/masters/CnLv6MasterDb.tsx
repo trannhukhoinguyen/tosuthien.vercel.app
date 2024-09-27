@@ -121,6 +121,7 @@ const CnLv6MasterDb = [
   },
   {
     id: 39.6,
+    hasContent: true,
     name_en: 'Jiufeng Daoqian',
     name_es: 'Jiufeng Daoqian',
     name_de: 'Jiufeng Daoqian',

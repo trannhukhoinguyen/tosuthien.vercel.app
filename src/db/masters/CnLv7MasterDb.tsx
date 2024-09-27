@@ -25,6 +25,7 @@ const CnLv7MasterDb = [
   },
   {
     id: 40.2,
+    hasContent: true,
     name_en: 'Heshan Wuyin',
     name_es: 'Heshan Wuyin',
     name_de: 'Heshan Wuyin',
@@ -49,6 +50,7 @@ const CnLv7MasterDb = [
   },
   {
     id: 40.3,
+    hasContent: true,
     name_en: 'Xuansha Shibei',
     name_es: 'Xuansha Shibei',
     name_de: 'Xuansha Shibei',
@@ -73,6 +75,7 @@ const CnLv7MasterDb = [
   },
   {
     id: 40.4,
+    hasContent: true,
     name_en: 'Yunmen Wenyan',
     name_es: 'Yunmen Wenyan',
     name_de: 'Yunmen Wenyan',
@@ -97,6 +100,7 @@ const CnLv7MasterDb = [
   },
   {
     id: 40.5,
+    hasContent: true,
     name_en: 'Baofu Congzhan',
     name_es: 'Baofu Congzhan',
     name_de: 'Baofu Congzhan',

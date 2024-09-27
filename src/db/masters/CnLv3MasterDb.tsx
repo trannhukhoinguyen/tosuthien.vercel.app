@@ -241,6 +241,7 @@ const CnLv3MasterDb = [
   },
   {
     id: 36.11,
+    hasContent: true,
     name_en: 'Ehu Dayi',
     name_es: 'Ehu Dayi',
     name_de: 'Ehu Dayi',
