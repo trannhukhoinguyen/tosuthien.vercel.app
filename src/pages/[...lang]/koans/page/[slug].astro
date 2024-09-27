@@ -34,7 +34,7 @@ const types = await getTaxonomy(
 );
 const tags = await getTaxonomy(lang as keyof ContentEntryMap, "tags");
 const sortedPosts = sortByDate(posts);
-const totalPages = Math.ceil(posts.length / config.settings.pagination);
+const totalPages = Math.ceil(posts?.length / config.settings.pagination);
 const currentPage = slug && !isNaN(Number(slug)) ? Number(slug) : 1;
 const indexOfLastPost = currentPage * config.settings.pagination;
 const indexOfFirstPost = indexOfLastPost - config.settings.pagination;
@@ -47,7 +47,7 @@ export async function getStaticPaths() {
         'koans',
         lang as keyof ContentEntryMap
       );
-      const totalPages = Math.ceil(posts.length / config.settings.pagination);
+      const totalPages = Math.ceil(posts?.length / config.settings.pagination);
       const langString = lang.toString();
       const langPaths = [];
 
