@@ -8,7 +8,6 @@
       "hasChildren": true,
       "children": [
         { "name": "선 스승과 가르침", "url": "/masters" },
-        { "name": "주의사항", "url": "/cautions" },
         { "name": "자주 묻는 질문", "url": "/faqs" },
         { "name": "화두", "url": "/koans" }
       ]

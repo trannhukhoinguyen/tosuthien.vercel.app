@@ -8,7 +8,6 @@
       "hasChildren": true,
       "children": [
         { "name": "Zen-Meister und Lehren", "url": "/masters" },
-        { "name": "Warnhinweise", "url": "/cautions" },
         { "name": "Fragen und Antworten", "url": "/faqs" },
         { "name": "Koans", "url": "/koans" }
       ]

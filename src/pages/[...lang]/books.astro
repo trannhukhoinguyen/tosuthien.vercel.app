@@ -17,12 +17,6 @@ export function getStaticPaths() {
   return paths;
 }
 const { lang } = Astro.params || getLangFromUrl(Astro.url);
-
-const postIndex = await getListPage(
-  "books",
-  lang as keyof ContentEntryMap
-);
-const posts = await getSinglePage("books", lang as keyof ContentEntryMap);
 const {
   books,
 } = await getTranslations(lang as keyof ContentEntryMap);

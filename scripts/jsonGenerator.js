@@ -47,7 +47,7 @@ const getData = (folder, groupDepth, langIndex = 0) => {
               slug = `${BLOG_FOLDER}/${slug.split("/").slice(1).join("/")}`;
             }
             data.slug = slug;
-            const group = "faqs" || "cautions" || "koans";
+            const group = "masters" || "monasteries" || "koans";
 
             return {
               lang: languages[index].languageCode, // Set the correct language code dynamically

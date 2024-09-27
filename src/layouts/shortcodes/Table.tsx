@@ -49,7 +49,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
 
   const filteredData = data.filter(
     (item) =>
-     item.name_in.toLowerCase().includes(searchTerm)
+     item.name_in?.toLowerCase().includes(searchTerm)
       || item.name_en.toLowerCase().includes(searchTerm)
       || item.name_es.toLowerCase().includes(searchTerm)
       || item.name_de.toLowerCase().includes(searchTerm)

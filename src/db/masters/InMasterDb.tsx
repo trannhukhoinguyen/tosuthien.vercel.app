@@ -14,7 +14,6 @@ const InMasterDb = [
     name_ko: '마하가섭',
     name_ar: 'Móhējiāyè',
     birth_death_time: ['', ''],
-    records: '...',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -26,6 +25,7 @@ const InMasterDb = [
   {
     id: 2,
     hasContent: true,
+    name_in: 'Ananda',
     name_en: 'Ananda',
     name_es: 'Ananda',
     name_de: 'Ananda',
@@ -37,18 +37,6 @@ const InMasterDb = [
     name_ko: '아난다',
     name_ar: 'Ananda',
     birth_death_time: ['', ''],
-    records: '<p>KỆ TRUYỀN PHÁP</p>' +
-      '<p style="font-style: italic">(ÂM)</p>' +
-      '<p>Pháp pháp bổn lai pháp,</p>' +
-      '<p>Vô pháp vô phi pháp,</p>' +
-      '<p>Hà ư nhất pháp trung,</p>' +
-      '<p>Hữu pháp hữu phi pháp</p>' +
-      '</br>' +
-      '<p style="font-style: italic">(DỊCH)</p>' +
-      '<p>Các pháp, pháp xưa nay,</p>' +
-      '<p>Không pháp, không phi pháp</p>' +
-      '<p>Tại sao trong một pháp,</p>' +
-      '<p>Có pháp, có phi pháp.</p>',
     sect: 'Linji',
     country: 'India',
     place: '-',
@@ -60,6 +48,7 @@ const InMasterDb = [
   {
     id: 3,
     hasContent: true,
+    name_in: '',
     name_en: 'Sanakavasa',
     name_es: 'Sanakavasa',
     name_de: 'Sanakavasa',
@@ -71,7 +60,6 @@ const InMasterDb = [
     name_ko: '상나화수',
     name_ar: 'Sanakavasa',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -83,6 +71,7 @@ const InMasterDb = [
   {
     id: 4,
     hasContent: true,
+    name_in: '',
     name_en: 'Upagupta',
     name_es: 'Upagupta',
     name_de: 'Upagupta',
@@ -94,7 +83,6 @@ const InMasterDb = [
     name_ko: '우바국다',
     name_ar: 'Upagupta',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -106,6 +94,7 @@ const InMasterDb = [
   {
     id: 5,
     hasContent: true,
+    name_in: '',
     name_en: 'Dhrtaka',
     name_es: 'Dhrtaka',
     name_de: 'Dhrtaka',
@@ -117,7 +106,6 @@ const InMasterDb = [
     name_ko: '제다가',
     name_ar: 'Dhrtaka',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -129,6 +117,7 @@ const InMasterDb = [
 {
     id: 6,
     hasContent: true,
+    name_in: '',
     name_en: 'Miccaka',
     name_es: 'Miccaka',
     name_de: 'Miccaka',
@@ -140,7 +129,6 @@ const InMasterDb = [
     name_ko: '미차가',
     name_ar: 'Miccaka',
     birth_death_time: ['', ''],
-  records: '',
   sect: ['-'],
     country: 'India',
     place: '-',
@@ -152,7 +140,8 @@ const InMasterDb = [
 {
     id: 7,
     hasContent: true,
-    name_en: 'Vasumitra',
+  name_in: '',
+  name_en: 'Vasumitra',
     name_es: 'Vasumitra',
     name_de: 'Vasumitra',
     name_fr: 'Vasumitra',
@@ -163,7 +152,6 @@ const InMasterDb = [
     name_ko: '바수밀다',
     name_ar: 'Vasumitra',
     birth_death_time: ['', ''],
-  records: '',
   sect: ['-'],
     country: 'India',
     place: '-',
@@ -175,6 +163,7 @@ const InMasterDb = [
   {
     id: 8,
     hasContent: true,
+    name_in: '',
     name_en: 'Buddhanandi',
     name_es: 'Buddhanandi',
     name_de: 'Buddhanandi',
@@ -186,7 +175,6 @@ const InMasterDb = [
     name_ko: '불타난제',
     name_ar: 'Buddhanandi',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -198,6 +186,7 @@ const InMasterDb = [
   {
     id: 9,
     hasContent: true,
+    name_in: '',
     name_en: 'Buddhamitra',
     name_es: 'Buddhamitra',
     name_de: 'Buddhamitra',
@@ -209,7 +198,6 @@ const InMasterDb = [
     name_ko: '복태밀다',
     name_ar: 'Buddhamitra',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: ' mountain',
@@ -221,6 +209,7 @@ const InMasterDb = [
   {
     id: 10,
     hasContent: true,
+    name_in: '',
     name_en: 'Parsvika',
     name_es: 'Parsvika',
     name_de: 'Parsvika',
@@ -232,7 +221,6 @@ const InMasterDb = [
     name_ko: '파률습박 (협존자)',
     name_ar: 'Parsvika',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -244,6 +232,7 @@ const InMasterDb = [
   {
     id: 11,
     hasContent: true,
+    name_in: '',
     name_en: 'Punyayasas',
     name_es: 'Punyayasas',
     name_de: 'Punyayasas',
@@ -255,7 +244,6 @@ const InMasterDb = [
     name_ko: '부나야사',
     name_ar: 'Punyayasas',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -266,6 +254,7 @@ const InMasterDb = [
   },
   {
     id: 12,
+    name_in: '',
     name_en: 'Asvaghosha',
     name_es: 'Asvaghosha',
     name_de: 'Asvaghosha',
@@ -277,7 +266,6 @@ const InMasterDb = [
     name_ko: '아슈바고샤 (마명)',
     name_ar: 'Asvaghosha',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -288,6 +276,7 @@ const InMasterDb = [
   },
   {
     id: 13,
+    name_in: '',
     name_en: 'Kapimala',
     name_es: 'Kapimala',
     name_de: 'Kapimala',
@@ -299,7 +288,6 @@ const InMasterDb = [
     name_ko: '가비마라',
     name_ar: 'Kapimala',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -310,6 +298,7 @@ const InMasterDb = [
   },
   {
     id: 14,
+    name_in: '',
     name_en: 'Nagarjuna',
     name_es: 'Nagarjuna',
     name_de: 'Nagarjuna',
@@ -321,7 +310,6 @@ const InMasterDb = [
     name_ko: '나가알랄수나 (용수)',
     name_ar: 'Nagarjuna',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -332,6 +320,7 @@ const InMasterDb = [
   },
   {
     id: 15,
+    name_in: '',
     name_en: 'Kanadeva',
     name_es: 'Kanadeva',
     name_de: 'Kanadeva',
@@ -343,7 +332,6 @@ const InMasterDb = [
     name_ko: '가나제바',
     name_ar: 'Kanadeva',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -354,7 +342,8 @@ const InMasterDb = [
   },
 {
     id: 16,
-    name_en: 'Rahulata',
+  name_in: '',
+  name_en: 'Rahulata',
     name_es: 'Rahulata',
     name_de: 'Rahulata',
     name_fr: 'Rahulata',
@@ -365,7 +354,6 @@ const InMasterDb = [
     name_ko: '라후라다',
     name_ar: 'Rahulata',
     birth_death_time: ['', ''],
-  records: '',
   sect: ['-'],
     country: 'India',
     place: '-',
@@ -376,6 +364,7 @@ const InMasterDb = [
   },
   {
     id: 17,
+    name_in: '',
     name_en: 'Sanghanandi',
     name_es: 'Sanghanandi',
     name_de: 'Sanghanandi',
@@ -387,7 +376,6 @@ const InMasterDb = [
     name_ko: '승가난제',
     name_ar: 'Sanghanandi',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -398,6 +386,7 @@ const InMasterDb = [
   },
   {
     id: 18,
+    name_in: '',
     name_en: 'Gayasata',
     name_es: 'Gayasata',
     name_de: 'Gayasata',
@@ -409,7 +398,6 @@ const InMasterDb = [
     name_ko: '가야사다',
     name_ar: 'Gayasata',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -420,6 +408,7 @@ const InMasterDb = [
   },
   {
     id: 19,
+    name_in: '',
     name_en: 'Kumarata',
     name_es: 'Kumarata',
     name_de: 'Kumarata',
@@ -431,7 +420,6 @@ const InMasterDb = [
     name_ko: '구마라다',
     name_ar: 'Kumarata',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -442,6 +430,7 @@ const InMasterDb = [
   },
   {
     id: 20,
+    name_in: '',
     name_en: 'Jayata',
     name_es: 'Jayata',
     name_de: 'Jayata',
@@ -453,7 +442,6 @@ const InMasterDb = [
     name_ko: '사야다',
     name_ar: 'Jayata',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -464,7 +452,8 @@ const InMasterDb = [
   },
 {
     id: 21,
-    name_en: 'Vasubandhu',
+  name_in: '',
+  name_en: 'Vasubandhu',
     name_es: 'Vasubandhu',
     name_de: 'Vasubandhu',
     name_fr: 'Vasubandhu',
@@ -475,7 +464,6 @@ const InMasterDb = [
     name_ko: '바수반두 (세친) ',
     name_ar: 'Vasubandhu',
     birth_death_time: ['', ''],
-  records: '',
   sect: ['-'],
     country: 'India',
     place: '-',
@@ -486,7 +474,8 @@ const InMasterDb = [
   },
 {
     id: 22,
-    name_en: 'Manorhita',
+  name_in: '',
+  name_en: 'Manorhita',
     name_es: 'Manorhita',
     name_de: 'Manorhita',
     name_fr: 'Manorhita',
@@ -497,7 +486,6 @@ const InMasterDb = [
     name_ko: '마나라',
     name_ar: 'Manorhita',
     birth_death_time: ['', ''],
-  records: '',
   sect: ['-'],
     country: 'India',
     place: '-',
@@ -508,6 +496,7 @@ const InMasterDb = [
   },
   {
     id: 23,
+    name_in: '',
     name_en: 'Haklenayaśas',
     name_es: 'Haklenayaśas',
     name_de: 'Haklenayaśas',
@@ -519,7 +508,6 @@ const InMasterDb = [
     name_ko: '학륵나',
     name_ar: 'Haklenayaśas',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -530,6 +518,7 @@ const InMasterDb = [
   },
   {
     id: 24,
+    name_in: '',
     name_en: 'Simhabodhi',
     name_es: 'Simhabodhi',
     name_de: 'Simhabodhi',
@@ -541,7 +530,6 @@ const InMasterDb = [
     name_ko: '사자',
     name_ar: 'Simhabodhi',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -552,6 +540,7 @@ const InMasterDb = [
   },
   {
     id: 25,
+    name_in: '',
     name_en: 'Vasiasita / Basiasita',
     name_es: 'Basiasita',
     name_de: 'Basiasita',
@@ -563,7 +552,6 @@ const InMasterDb = [
     name_ko: '바사사다',
     name_ar: 'Basiasita',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -574,6 +562,7 @@ const InMasterDb = [
   },
   {
     id: 26,
+    name_in: '',
     name_en: 'Punyamitra',
     name_es: 'Punyamitra',
     name_de: 'Punyamitra',
@@ -585,7 +574,6 @@ const InMasterDb = [
     name_ko: '불여밀다',
     name_ar: 'Punyamitra',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -596,6 +584,7 @@ const InMasterDb = [
   },
   {
     id: 27,
+    name_in: '',
     name_en: 'Prajnatara',
     name_es: 'Prajnatara',
     name_de: 'Prajnatara',
@@ -607,7 +596,6 @@ const InMasterDb = [
     name_ko: '반야다라',
     name_ar: 'Prajnatara',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',
@@ -619,6 +607,7 @@ const InMasterDb = [
   {
     id: 28,
     hasContent: true,
+    name_in: '',
     name_en: 'Bodhidharma',
     name_es: 'Bodhidharma',
     name_de: 'Bodhidharma',
@@ -630,7 +619,6 @@ const InMasterDb = [
     name_ko: '달마 - 보리달마',
     name_ar: 'Bodhidharma',
     birth_death_time: ['', ''],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: 'Shaolin Temple, Songshan mountain, Dengfeng, Zhengzhou, Henan, China',
@@ -653,7 +641,6 @@ const InMasterDb = [
     name_ko: 'Vinitaruci',
     name_ar: 'Vinitaruci',
     birth_death_time: ['?', '594'],
-    records: '',
     sect: ['-'],
     country: 'India',
     place: '-',

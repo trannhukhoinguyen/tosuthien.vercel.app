@@ -7,7 +7,6 @@
       "hasChildren": true,
       "children": [
         { "name": "Мастера дзен и учения", "url": "/masters" },
-        { "name": "Речь", "url": "/cautions" },
         { "name": "Вопросы и ответы", "url": "/faqs" },
         { "name": "Коаны", "url": "/koans" }
       ]

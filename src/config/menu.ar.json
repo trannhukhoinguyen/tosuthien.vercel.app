@@ -8,7 +8,6 @@
       "hasChildren": true,
       "children": [
         { "name": "أساتذة الزن وتعاليمهم", "url": "/masters" },
-        { "name": "خطبة تحذيرية", "url": "/cautions" },
         { "name": "سؤال وجواب", "url": "/faqs" },
         { "name": "زين كوان", "url": "/koans" }
       ]
