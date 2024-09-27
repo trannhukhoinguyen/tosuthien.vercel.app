@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import ModalContent from "./ModalContent.tsx";
+import ModalContent from "@/helpers/ModalContent.tsx";
 
 interface ModalProps {
   lang: string | undefined;

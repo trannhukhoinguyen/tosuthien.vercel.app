@@ -1,8 +1,9 @@
 ---
-import Base from "../../../../layouts/Base.astro";
-import { supportedLang } from "../../../../lib/utils/languageParser";
-import PeriodicTable from "../../../../layouts/components/PeriodicTable.astro";
-import MakeupPalettes from "../../../../layouts/components/MakeupPalettes.astro";
+import Base from "../../../layouts/Base.astro";
+import { supportedLang } from "../../../lib/utils/languageParser";
+import PeriodicTable from "../../../layouts/components/PeriodicTable.astro";
+import sectDb from "../../../db/sectDb.tsx";
+import { CnLinjiMasters } from "../../../db/masters/AllMasterDb.tsx";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -10,11 +11,10 @@ export function getStaticPaths() {
   }));
   return paths;
 }
-
 const { lang } = Astro.params;
 ---
 
 <Base>
-  <MakeupPalettes quantity={2} />
-  <PeriodicTable />
+<MakeupPalettes quantity={2} />
+<PeriodicTable sect={ sectDb.find(sect=> sect.label === 'Linji') } mastersDb={ CnLinjiMasters } />
 </Base>

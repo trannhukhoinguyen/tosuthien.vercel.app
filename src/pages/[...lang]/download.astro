@@ -15,12 +15,12 @@ const { lang } = Astro.params;
 ---
 
 <Base
-  title={`${site.title} - Download`}
-  meta_title={site.meta_title}
-  description={site.meta_description}
-  image={site.meta_image}
+  title={ site.title + ' - Download' }
+  meta_title={ site.meta_title + ' - Download' }
+  description={ site.meta_description + ' - Download' }
+  image={'/images/meta-image-wide.jpg'}
 >
-  <PageHeader title={`${site.title} - Youtube Playlist`} />
+  <PageHeader title={`${site.title} - Download`} />
   <section class="section-sm">
     <div class="container">
       <BookList />

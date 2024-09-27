@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
-import selectionDb from "../../../src/db/selectionDb.tsx";
 import sectDb from "../../../src/db/sectDb.tsx";
 import '@/styles/table.css';
-import Modal from "./../helpers/Modal";
 
 interface TableProps {
   data: {
@@ -49,8 +47,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
 
   const filteredData = data.filter(
     (item) =>
-     item.name_in?.toLowerCase().includes(searchTerm)
-      || item.name_en.toLowerCase().includes(searchTerm)
+      item.name_en.toLowerCase().includes(searchTerm)
       || item.name_es.toLowerCase().includes(searchTerm)
       || item.name_de.toLowerCase().includes(searchTerm)
       || item.name_fr.toLowerCase().includes(searchTerm)
@@ -103,39 +100,24 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
               </div>
             </div>
           </div>
-
-          <div className="px-4 md:px-10">
-            <div className="flex items-center justify-between">
-              <div className="flex items-center text-sm font-medium leading-none cursor-pointer rounded">
-                <p>Sort By:</p>
-                <select aria-label="select" className="focus:text-indigo-600 focus:outline-none bg-transparent ml-1">
-                  {
-                    [] || selectionDb?.map(option =>
-                      <option className="text-sm text-indigo-800">{option.label}</option>
-                    )
-                  }
-                </select>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
 
       <table>
+
         <thead>
         <tr>
           <th>ID</th>
- {item.name_in && <th>Indian Name</th>}
           <th>English Name</th>
-          {lang === 'es' && <th>Spanish Name</th>}
-          {lang === 'de' && <th>German Name</th>}
-          {lang === 'fr' && <th>French Name</th>}
-          {lang === 'vi' && <th>Vietnamese Name</th>}
-          {lang === 'ru' && <th>Russian Name</th>}
-          {lang === 'zh' && <th>Chinese Name</th>}
-          {lang === 'ja' && <th>Japanese Name</th>}
-          {lang === 'ko' && <th>Korean Name</th>}
-          {lang === 'ar' && <th>Arabic Name</th>}
+          { lang === 'es' && <th>Spanish Name</th> }
+          { lang === 'de' && <th>German Name</th> }
+          { lang === 'fr' && <th>French Name</th> }
+          { lang === 'vi' && <th>Vietnamese Name</th> }
+          { lang === 'ru' && <th>Russian Name</th> }
+          { lang === 'zh' && <th>Chinese Name</th> }
+          { lang === 'ja' && <th>Japanese Name</th> }
+          { lang === 'ko' && <th>Korean Name</th> }
+          { lang === 'ar' && <th>Arabic Name</th> }
           <th>Birth - Death</th>
           <th>Sect</th>
           <th>Country</th>
@@ -145,53 +127,55 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
           <th>Disciples</th>
         </tr>
         </thead>
+
         <tbody>
-        {currentData.map((item) => (
-          <tr key={item.id}>
-            <td>{item.id}</td>
-{item.name_in && <td>{item.name_in}</td>}
-                              <td>
-                                <a
-                                  target="_blank"
-                                  href={item.hasContent ? "/masters/"+formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase())) : '#'}
-                                  title="read more"
-                                  className="text-blue-700"
-                                >
-                                  {item.name_en}
-                                </a>
-                                <Modal lang={lang} content={item.records} />
-                              </td>
-            {lang === 'es' && <td>{item.name_es}</td>}
-            {lang === 'de' && <td>{item.name_de}</td>}
-            {lang === 'fr' && <td>{item.name_fr}</td>}
-            {lang === 'vi' && <td>{item.name_vi}</td>}
-            {lang === 'ru' && <td>{item.name_ru}</td>}
-            {lang === 'zh' && <td>{item.name_zh}</td>}
-            {lang === 'ja' && <td>{item.name_ja}</td>}
-            {lang === 'ko' && <td>{item.name_ko}</td>}
-            {lang === 'ar' && <td>{item.name_ar}</td>}
+        {
+          currentData.map((item) => (
+            <tr key={ item.id }>
+            <td>{ item.id }</td>
+            {
+              item.hasContent
+                ? <td>
+                    <a
+                      target="_blank"
+                      href={"/masters/" + formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}
+                      title="read more"
+                      className="text-blue-700"
+                    >
+                      { item.name_en }
+                    </a>
+                  </td>
+                : item.name_in
+                  ? item.name_en + ' - ' + (item.name_in)
+                  : item.name_en
+            }
+            { lang === 'es' && <td>{ item.name_es }</td> }
+            { lang === 'de' && <td>{ item.name_de }</td> }
+            { lang === 'fr' && <td>{ item.name_fr }</td> }
+            { lang === 'vi' && <td>{ item.name_vi }</td> }
+            { lang === 'ru' && <td>{ item.name_ru }</td> }
+            { lang === 'zh' && <td>{ item.name_zh }</td> }
+            { lang === 'ja' && <td>{ item.name_ja }</td> }
+            { lang === 'ko' && <td>{ item.name_ko }</td> }
+            { lang === 'ar' && <td>{ item.name_ar }</td> }
             <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
               <div className="flex items-center">
-                <span className="mr-1">{item.birth_death_time[0]}</span>
+                <span className="mr-1">{ item.birth_death_time[0] }</span>
                 <span className="mr-1">{ item.birth_death_time[0] && item.birth_death_time[1] ? '⇨' : '' }</span>
-                <span className="mr-1">{item.birth_death_time[1]}</span>
+                <span className="mr-1">{ item.birth_death_time[1] }</span>
               </div>
             </td>
-            <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
-              <span className={`
-									  p-1
-                    text-${sectDb?.find(s => item.sect.includes(s.labelEn))?.color}-600
-                    bg-${sectDb?.find(s => item.sect.includes(s.labelEn))?.color}-200
-									`}>{item.sect}</span>
-            </td>
-            <td>{item.country}</td>
-            <td>{item.place}</td>
-            <td>{item.teachers.join(', ')}</td>
-            <td>{item.successors.join(', ')}</td>
-            <td>{item.disciples.join(', ')}</td>
+            <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">{ item.sect }</td>
+            <td>{ item.country }</td>
+            <td>{ item.place }</td>
+            <td>{ item.teachers.join(', ') }</td>
+            <td>{ item.successors.join(', ') }</td>
+            <td>{ item.disciples.join(', ') }</td>
           </tr>
-        ))}
+          ))
+        }
         </tbody>
+
       </table>
 
       <div className="flex justify-between items-center">
@@ -205,15 +189,17 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
           >
             Previous
           </button>
-          {Array.from({ length: totalPages }, (_, index) => (
-            <button
-              key={index + 1}
-              onClick={() => handlePageChange(index + 1)}
-              className={currentPage === index + 1 ? 'active' : ''}
-            >
-              {index + 1}
-            </button>
-          ))}
+          {
+            Array.from({ length: totalPages }, (_, index) => (
+              <button
+                key={index + 1}
+                onClick={() => handlePageChange(index + 1)}
+                className={currentPage === index + 1 ? 'active' : ''}
+              >
+                {index + 1}
+              </button>
+            ))
+          }
           <button
             onClick={() => handlePageChange(currentPage + 1)}
             disabled={currentPage === totalPages}

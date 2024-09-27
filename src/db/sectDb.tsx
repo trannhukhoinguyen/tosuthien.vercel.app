@@ -1,6 +1,7 @@
 const sectDb = [
   {
     id: 1,
+    label: 'Guiyang',
     labelEn: 'Guiyang',
     labelJa: 'Igyô',
     color: 'red',
@@ -14,6 +15,7 @@ const sectDb = [
   },
   {
     id: 2,
+    label: 'Linji',
     labelEn: 'Linji',
     labelJa: 'Rinzai',
     color: 'green',
@@ -25,6 +27,7 @@ const sectDb = [
   },
   {
     id: 3,
+    label: 'Caodong',
     labelEn: 'Caodong',
     labelJa: 'Sôtô',
     color: 'blue',
@@ -36,6 +39,7 @@ const sectDb = [
   },
   {
     id: 4,
+    label: 'Fayan',
     labelEn: 'Fayan',
     labelJa: 'Hôgen',
     color: 'orange',
@@ -47,6 +51,7 @@ const sectDb = [
   },
   {
     id: 5,
+    label: 'Yunmen',
     labelEn: 'Yunmen',
     labelJa: 'Ummon',
     color: 'violet',
@@ -64,6 +69,8 @@ const sectDb = [
   {
     id: 6,
     label: 'Yangqi',
+    labelEn: 'Yangqi',
+    labelJa: 'Yangqi',
     color: 'green',
     founder: 'Yangqi Fanghui',
     history: 'Its ancestral temple is the Yangqi Mountain Pu Tong Temple in Pingxiang City, Jiangxi Province. It was founded by Zen Master Yangqi Fanghui during the Qingli period of the Song Dynasty (1041). It was later passed on to Dahui Zonggao in the Southern Song Dynasty , who advocated koan Zen and made it the mainstream of Zen Buddhism.\n',
@@ -74,6 +81,8 @@ const sectDb = [
   {
     id: 7,
     label: 'Huanglong',
+    labelEn: 'Huanglong',
+    labelJa: 'Huanglong',
     color: 'green',
     founder: 'Huanglong Huinan',
     history: 'It was founded by Zen Master Huanglong Huinan. In the third year of Song Jingyou (1036), Huanglong Huinan became the first ancestor of the Huanglong School at Chong\'en Temple on Huanglong Mountain in Longxing, Jiangxi (now Huanglong Township, Xiushui County, Jiujiang City, Jiangxi Province).',

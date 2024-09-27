@@ -7,22 +7,21 @@ import "../../styles/additional/Faqs.scss"
 import PageHeader from "../../layouts/partials/PageHeader.astro";
 
 export function getStaticPaths() {
-  const paths = supportedLang.map((lang) => ({
+  return supportedLang.map((lang) => ({
     params: { lang: lang || undefined },
-  }));
-  return paths;
+  }))
 }
 
 const { lang } = Astro.params;
 ---
 
 <Base
-  title={'FAQs'}
-  meta_title={'FAQs'}
-  description={'FAQs'}
-  image={site.meta_image}
+  title={ site.title + ' - FAQs' }
+  meta_title={ site.meta_title + ' - FAQs' }
+  description={ site.meta_description + ' - FAQs' }
+  image={'/images/meta-image-wide.jpg'}
 >
-  <PageHeader title={`${site.title} - Youtube Playlist`} />
+  <PageHeader title={ 'FAQs' } />
   <section class="section-sm">
     <div class="container">
       <div class="faq">

@@ -15,12 +15,12 @@ const { lang } = Astro.params;
 ---
 
   <Base
-    title={`${site.title} - Masterpieces`}
-    meta_title={site.meta_title}
-    description={site.meta_description}
-    image={site.meta_image}
+    title={ site.title + ' - Masterpieces' }
+    meta_title={ site.meta_title + ' - Masterpieces' }
+    description={ site.meta_description + ' - Masterpieces' }
+    image={'/images/meta-image-square-1.jpg'}
   >
-  <PageHeader title={`${site.title} - Masterpieces`} />
+  <PageHeader title={ 'Masterpieces' } />
   <section class="section-sm">
     <div class="container">
 

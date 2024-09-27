@@ -1,7 +1,6 @@
 const CnLv0MasterDb = [
   {
     id: 29,
-    
     name_en: 'Dazu Huike',
     name_es: 'Dazu Huike',
     name_de: 'Dazu Huike',

@@ -2,6 +2,8 @@
 import Base from "../../../layouts/Base.astro";
 import { supportedLang } from "../../../lib/utils/languageParser";
 import PeriodicTable from "../../../layouts/components/PeriodicTable.astro";
+import sectDb from "../../../db/sectDb.tsx";
+import { CnGuiyangMasters } from "../../../db/masters/AllMasterDb.tsx";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -9,10 +11,9 @@ export function getStaticPaths() {
   }));
   return paths;
 }
-
 const { lang } = Astro.params;
 ---
 
 <Base>
-  <PeriodicTable />
+<PeriodicTable sect={ sectDb.find(sect=> sect.label === 'Guiyang') } mastersDb={ CnGuiyangMasters } />
 </Base>

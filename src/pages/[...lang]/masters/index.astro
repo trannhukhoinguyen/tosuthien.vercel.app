@@ -7,7 +7,7 @@ import {
   ViMasters,
   JpMasters,
 } from "../../../db/masters/AllMasterDb.tsx";
-
+import { site } from "@/config/config.json";
 import '@/styles/table.css';
 import Base from "@/layouts/Base.astro";
 import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
@@ -38,12 +38,15 @@ const {
 } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
-<Base>
+<Base
+  title={ site.title + ' - Masters' }
+  meta_title={ site.meta_title + ' - Masters' }
+  description={ site.meta_description + ' - Masters' }
+  image={'/images/meta-image-square-1.jpg'}
+>
   <PageHeader title={"Zen Master"} />
 
   <section class="section">
-
-    <span style="font-size: 3rem; margin-left: 48%"><a href="/masters/chart">🔮</a></span>
 
     <div class="container">
       <h2>{ in_masters }</h2>

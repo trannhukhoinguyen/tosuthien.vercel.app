@@ -5,6 +5,7 @@ import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
 import HuaTou from "@/layouts/partials/Huatou.astro";
 import type { ContentEntryMap } from "astro:content";
 import SevenThingsLeftBehind from "@/layouts/components/SevenThingsLeftBehind.astro"
+import { site } from "@/config/config.json";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -25,7 +26,12 @@ const {
 } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
-<Base>
+<Base
+  title={site.title}
+  meta_title={site.meta_title}
+  description={site.meta_description}
+  image={site.meta_image}
+>
   <div style="text-align: center">
     <h1>{severe_problem}</h1>
     <h4>👶💀</h4>
