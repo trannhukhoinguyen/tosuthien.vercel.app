@@ -23,7 +23,11 @@
     "pagination": 10,
     "summary_length": 200,
     "blog_folder": "masters",
+    "blog_folder_masters": "masters",
+    "blog_folder_koans": "koans",
     "collection_folder": "masters",
+    "collection_folder_masters": "masters",
+    "collection_folder_koans": "koans",
     "default_language": "vi",
     "disable_languages": [],
     "default_language_in_subdir": false

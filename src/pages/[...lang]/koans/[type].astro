@@ -8,7 +8,7 @@ import { sortByDate } from "@/lib/utils/sortFunctions";
 import taxonomyFilter from "@/lib/utils/taxonomyFilter";
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
-import KoanPlanet from "../../../layouts/components/KoanPlanet.astro";
+import BlogCard from "../../../layouts/components/BlogCard.astro";
 
 // get all static paths for types
 export async function getStaticPaths() {
@@ -67,7 +67,7 @@ const sortedPosts = sortByDate(filterByTypes);
         {
           sortedPosts.map((post) => (
             <div class="mb-14 md:col-6 lg:col-4">
-              <KoanPlanet data={post} slugDefault={"koans"} />
+              <BlogCard data={post} slugDefault={"koans"} />
             </div>
           ))
         }

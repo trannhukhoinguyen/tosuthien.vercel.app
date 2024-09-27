@@ -45,8 +45,7 @@
 - 📞 Contact
 - 👥 WHO WHO WHO?
 - 👤 WHO?
-- 📝 Blog
-- 📝 Blog Single
+- 📝 "Masters" || "Koans" || "Monasteries"
 - 🚫 Custom 404
 - 💡 Elements
 - 📄 Privacy Policy
