@@ -59,11 +59,13 @@ const {
     </div>
 
     {
-      CnMasters.map((CnMaster, CnMasterIndex) =>
-        <div class="container">
-          <h2>{ cn_masters } - { level__ } {CnMasterIndex}</h2>
-          <Table client:load data={CnMaster} lang={lang ? lang : 'vi'}/>
-        </div>
+      CnMasters
+        ?.filter((master, index) => index !==0)
+        ?.map((CnMaster, CnMasterIndex) =>
+          <div class="container">
+            <h2>{ cn_masters } - { level__ } {CnMasterIndex+1}</h2>
+            <Table client:load data={CnMaster} lang={lang ? lang : 'vi'}/>
+          </div>
       )
     }
 
