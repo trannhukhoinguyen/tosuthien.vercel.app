@@ -10,6 +10,7 @@ import { AstroFont } from "astro-font";
 import { ViewTransitions } from "astro:transitions";
 import SearchModal from "./helpers/SearchModal";
 import { getLangFromUrl } from "@/lib/utils/languageParser";
+import SpeedInsights from "@vercel/speed-insights/dist/astro/component";
 
 // font families
 const pf = theme.fonts.font_family.primary;
@@ -175,6 +176,7 @@ const language = lang || getLangFromUrl(Astro.url);
     <meta name="twitter:card" content="summary_large_image" />
   </head>
   <body>
+    <SpeedInsights/>
     <TwSizeIndicator />
     <Header />
     <SearchModal lang={language} client:load />
