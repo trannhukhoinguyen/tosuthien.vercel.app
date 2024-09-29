@@ -43,7 +43,7 @@ huatous:
   - name: ""
     designation: ""
     avatar: ""
-    content: "MUÔN PHÁP VỀ MỘT,... MỘT VỀ CHỔ NÀO?"
+    content: "MUÔN PHÁP VỀ MỘT,... MỘT VỀ CHỖ NÀO?"
     
   - name: ""
     designation: ""
