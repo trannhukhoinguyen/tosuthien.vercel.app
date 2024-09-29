@@ -4,16 +4,13 @@ import "../../styles/additional/Steps.scss";
 const { title, stepData } = Astro.props;
 ---
 
-<fieldset class="steps-fieldset flex flex-col min-w-max my-0">
+<fieldset class="steps-fieldset flex flex-col text-wrap w-auto mx-8">
   <legend><h4 style="color: #f80640">{title}</h4></legend>
   {
     stepData.map((step, index) =>
-      <div class="fieldset-div text-left justify-self-start min-w-max my-0">
-        <input type="radio" id={index} name="step" value={step.label} />
-        <label for={index}>
-          <span class="step-label text-wrap">{step.label}:</span>
-          <span class="step-content text-wrap">{step.content}</span>
-        </label>
+      <div class="fieldset-div text-left w-auto">
+        <span class="step-label mr-4">{step.label}:</span>
+        <span class="step-content">{step.content}</span>
       </div>
     )
   }
