@@ -3,7 +3,7 @@ import JSONRenderer from "@/lib/utils/JSONRenderer";
 
 interface ModalContentProps {
   lang: string | undefined;
-  content: string | undefined;
+  content: any;
 }
 const ModalContent = ({ lang, content }: { lang: string | undefined, content: string | undefined }) => {
   return (

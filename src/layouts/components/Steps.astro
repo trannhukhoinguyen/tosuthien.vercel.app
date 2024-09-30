@@ -1,14 +1,18 @@
 ---
 import "../../styles/additional/Steps.scss";
 
-const { title, stepData } = Astro.props;
+const { title, subtitle, stepData } = Astro.props;
 ---
 
 <fieldset class="steps-fieldset flex flex-col text-wrap w-auto mx-8">
-  <legend><h4 style="color: #f80640">{title}</h4></legend>
+  <legend>
+    <h4 style="color: #f80640">{title}</h4>
+    <p class="text-sm">{subtitle}</p>
+  </legend>
   {
     stepData.map((step, index) =>
       <div class="fieldset-div text-left w-auto">
+        <span class="step-index mr-2 border-2 border-white px-2 rounded-full">{index+1}</span>
         <span class="step-label mr-4">{step.label}:</span>
         <span class="step-content">{step.content}</span>
       </div>

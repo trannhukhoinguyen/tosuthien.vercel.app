@@ -1,0 +1,81 @@
+---
+import "../../styles/additional/Chart.scss";
+
+const { data } = Astro.props;
+---
+
+<div class="chart-content">
+  <h1>{data.title}</h1>
+  <figure class="org-chart cf">
+    <ul class="administration">
+      {
+        data.data.filter(master => master?.level == 1)
+          ?.map(master =>
+            <li>
+              <ul class="level_0">
+                <li>
+                  <a class="chart-detailed-link" href="#">
+                      <span>
+                        { master.name_en }
+                      </span>
+                  </a>
+
+                  <ul class="departments cf">
+                    <li><a class="chart-detailed-link" href="#"><span>Administration</span></a></li>
+
+                    <li class="department dep-a">
+                      <a class="chart-detailed-link" href="#"><span>Department A</span></a>
+                      <ul class="sections">
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section A1</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section A2</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section A3</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section A4</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section A5</span></a></li>
+                      </ul>
+                    </li>
+                    <li class="department dep-b">
+                      <a class="chart-detailed-link" href="#"><span>Department B</span></a>
+                      <ul class="sections">
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section B1</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section B2</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section B3</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section B4</span></a></li>
+                      </ul>
+                    </li>
+                    <li class="department dep-c">
+                      <a class="chart-detailed-link" href="#"><span>Department C</span></a>
+                      <ul class="sections">
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section C1</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section C2</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section C3</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section C4</span></a></li>
+                      </ul>
+                    </li>
+                    <li class="department dep-d">
+                      <a class="chart-detailed-link" href="#"><span>Department D</span></a>
+                      <ul class="sections">
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section D1</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section D2</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section D3</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section D4</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section D5</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section D6</span></a></li>
+                      </ul>
+                    </li>
+                    <li class="department dep-e">
+                      <a class="chart-detailed-link" href="#"><span>Department E</span></a>
+                      <ul class="sections">
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section E1</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section E2</span></a></li>
+                        <li class="section"><a class="chart-detailed-link" href="#"><span>Section E3</span></a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          )
+      }
+    </ul>
+  </figure>
+</div>

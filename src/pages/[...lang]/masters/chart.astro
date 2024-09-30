@@ -1,0 +1,43 @@
+---
+import { getSinglePage } from "@/lib/contentParser.astro";
+import {supportedLang} from "../../../lib/utils/languageParser";
+import type { ContentEntryMap } from "astro:content";
+import Chart from "../../../layouts/components/Chart.astro";
+import { CnMasters }  from "../../../db/masters/AllMasterDb";
+
+const masterDbObject = {
+  title: 'Master Chart',
+  data: CnMasters.flat().map(master=>
+    ({
+      id: master.id,
+      level: (master.id + '')?.slice(0, (master.id + '')?.indexOf('.')),
+      name: master.name_en,
+      successors: master.successors.map(successor => ({
+        id: CnMasters.flat().find(person => person.name_en === successor)?.id,
+        level: (master.id + '')?.slice(0, (master.id + '')?.indexOf('.')) +1,
+        name: CnMasters.flat().find(person => person.name_en === successor)?.name_en,
+      }))
+    })
+  ),
+}
+export async function getStaticPaths() {
+  const paths = await Promise.all(
+  supportedLang.map(async (lang) => {
+    const pages = await getSinglePage("pages", lang as keyof ContentEntryMap);
+
+    return pages.map((page) => ({
+      params: {
+        lang: lang || undefined,
+        regular: page.slug.split("/").pop(),
+        },
+      props: {
+        page,
+        },
+      }));
+    })
+  );
+  return paths.flat();
+  }
+---
+
+<Chart data={ masterDbObject } />

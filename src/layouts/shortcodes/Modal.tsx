@@ -3,7 +3,7 @@ import ModalContent from "@/helpers/ModalContent.tsx";
 
 interface ModalProps {
   lang: string | undefined;
-  content: string | undefined;
+  content: any;
   title: string | undefined;
 }
 

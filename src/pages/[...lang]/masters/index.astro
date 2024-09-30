@@ -11,7 +11,6 @@ import { site } from "@/config/config.json";
 import '@/styles/table.css';
 import Base from "@/layouts/Base.astro";
 import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
-import { getAllTaxonomy, getTaxonomy } from "@/lib/taxonomyParser.astro";
 import {
   getLangFromUrl,
   getTranslations,
@@ -46,28 +45,24 @@ const {
 >
   <PageHeader title={"Zen Master"} />
 
-  <section class="section">
+  <div class="container">
+    <h2>{ in_masters }</h2>
+    <Table client:load data={InMasters} lang={lang ? lang : 'vi'} />
+  </div>
 
+  <div class="container">
+    <h2>{ cn_masters } - { level_ }</h2>
+    <Table client:load data={CnMasters[0]} lang={lang ? lang : 'vi'}/>
+  </div>
+
+  {
+    CnMasters
+      ?.filter((master, index) => index !==0)
+      ?.map((CnMaster, CnMasterIndex) =>
     <div class="container">
-      <h2>{ in_masters }</h2>
-      <Table client:load data={InMasters} lang={lang ? lang : 'vi'} />
+      <h2>{ cn_masters } - { level__ } {CnMasterIndex+1}</h2>
+      <Table client:load data={CnMaster} lang={lang ? lang : 'vi'}/>
     </div>
-
-    <div class="container">
-      <h2>{ cn_masters } - { level_ }</h2>
-      <Table client:load data={CnMasters[0]} lang={lang ? lang : 'vi'}/>
-    </div>
-
-    {
-      CnMasters
-        ?.filter((master, index) => index !==0)
-        ?.map((CnMaster, CnMasterIndex) =>
-          <div class="container">
-            <h2>{ cn_masters } - { level__ } {CnMasterIndex+1}</h2>
-            <Table client:load data={CnMaster} lang={lang ? lang : 'vi'}/>
-          </div>
       )
     }
-
-  </section>
 </Base>

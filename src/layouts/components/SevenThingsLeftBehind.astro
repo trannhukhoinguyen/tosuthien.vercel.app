@@ -5,7 +5,8 @@ import Steps from "@/layouts/components/Steps.astro"
 
 const { lang } = Astro.params;
 const {
-  seven_things_left_behind,
+  seven_things_left_title,
+  seven_things_left_subtitle,
   seven_things_left_behind_1,
   seven_things_left_behind_2,
   seven_things_left_behind_3,
@@ -54,4 +55,4 @@ const stepData = [
 ];
 ---
 
-<Steps title={seven_things_left_behind} stepData={stepData} />
+<Steps title={seven_things_left_title} subtitle={seven_things_left_subtitle} stepData={stepData} />
