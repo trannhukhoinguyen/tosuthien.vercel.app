@@ -1,7 +1,7 @@
 import React from 'react';
 
 interface JSONRenderer {
-  htmlContent: string;
+  htmlContent: string | undefined;
 }
 
 const JSONRenderer: React.FC<JSONRenderer> = ({ htmlContent }) => {

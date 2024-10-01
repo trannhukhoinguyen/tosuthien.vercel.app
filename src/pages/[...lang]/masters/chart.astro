@@ -2,6 +2,7 @@
 import { getSinglePage } from "@/lib/contentParser.astro";
 import {supportedLang} from "../../../lib/utils/languageParser";
 import type { ContentEntryMap } from "astro:content";
+import HighchartsOrgChart from "../../../layouts/shortcodes/Chart.tsx";
 import Chart from "../../../layouts/components/Chart.astro";
 import { CnMasters }  from "../../../db/masters/AllMasterDb";
 
@@ -20,6 +21,7 @@ const masterDbObject = {
     })
   ),
 }
+console.log(masterDbObject.data)
 export async function getStaticPaths() {
   const paths = await Promise.all(
   supportedLang.map(async (lang) => {
@@ -40,4 +42,4 @@ export async function getStaticPaths() {
   }
 ---
 
-<Chart data={ masterDbObject } />
+<Chart />
