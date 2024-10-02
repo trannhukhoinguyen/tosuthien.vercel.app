@@ -1,6 +1,6 @@
 ---
 import "../../../styles/additional/MonoChart.scss";
-import { CnMasters }  from "../../../db/masters/AllMasterDb";
+import { InMasters, CnMasters }  from "../../../db/masters/AllMasterDb";
 import config from "../../../config/config.json";
 import {
   getLangFromUrl,
@@ -24,48 +24,89 @@ if (disabledLanguages.includes(lang)) {
   lang = config.settings.default_language;
 }
 
-const flatMasterData = CnMasters.flat();
-const masterData = flatMasterData.map(master=>
+const flatMasterData = [...InMasters, ...CnMasters].flat();
+const masterData = flatMasterData.map(masterLv0 =>
   ({
-    id: master.id,
-    level: (master.id + '')?.slice(0, (master.id + '')?.indexOf('.')),
-    name: master.name_en,
-    disciples: master.disciples?.map(disciple => ({
-      id: flatMasterData.find(person => person.name_en === disciple)?.id,
-      level: (master.id + '')?.slice(0, (master.id + '')?.indexOf('.')) +1,
-      name: flatMasterData.find(person => person.name_en === disciple)?.name_en,
-      disciples: disciple.disciples?.map(who => ({
-        id: flatMasterData.find(person => person.name_en === who)?.id,
-        level: (master.id + '')?.slice(0, (master.id + '')?.indexOf('.')) +1,
-        name: flatMasterData.find(person => person.name_en === who)?.name_en,
+    id: 1,
+    level: 1,
+    name: masterLv0.name_en,
+    disciples: flatMasterData
+      ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 2))
+      ?.map(masterLv1 => ({
+        id: flatMasterData
+          ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 2))
+          ?.find(person=> masterLv0.disciples?.includes(person.name_en))?.id,
+        level: 2,
+        name: masterLv1.name_en,
+        disciples: flatMasterData
+          ?.filter(masterLv2 => masterLv2.id === 3)
+          ?.map(masterLv2 => ({
+            id: flatMasterData
+              ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 3))
+              ?.find(person=> masterLv1.disciples?.includes(person.name_en))?.id,
+            level: 3,
+            name: masterLv2?.name_en,
       })),
-    }))
+    })),
   })
 );
 ---
-
-
-{
-  CnMasters?.map(data=>
-  <div class="tree">
-    <ul>
-      {
-        data.map(master =>
-          <li>
-            <a href="#">{master.name_en}</a>
-            <ul>
-              {
-                master.disciples?.map(disciple =>
-                  <li>
-                    <a href="#">{disciple}</a>
-                  </li>
-                )
-              }
-            </ul>
-          </li>
-        )
-      }
-    </ul>
-  </div>
-    )
-  }
+<script>
+  import { InMasters, CnMasters }  from "../../../db/masters/AllMasterDb";
+  const flatMasterData = [...InMasters, ...CnMasters].flat();
+  const masterData = flatMasterData.map(masterLv0 =>
+    ({
+      id: 1,
+      level: 1,
+      name: masterLv0.name_en,
+      disciples: flatMasterData
+        ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 2))
+        ?.map(masterLv1 => ({
+          id: flatMasterData
+            ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 2))
+            ?.find(person=> masterLv0.disciples?.includes(person.name_en))?.id,
+          level: 2,
+          name: masterLv1.name_en,
+          disciples: flatMasterData
+            ?.filter(masterLv2 => masterLv2.id === 3)
+            ?.map(masterLv2 => ({
+              id: flatMasterData
+                ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 3))
+                ?.find(person=> masterLv1.disciples?.includes(person.name_en))?.id,
+              level: 3,
+              name: masterLv2?.name_en,
+            })),
+        })),
+    })
+  );
+  console.log('masterData', masterData)
+</script>
+<div class="tree">
+  <ul>
+    {
+      masterData.map(master =>
+        <li>
+          <a href="#">{master.name}</a>
+          <ul>
+            {
+              master.disciples?.map(disciple =>
+                <li>
+                  <a href="#">{disciple.name}</a>
+                  <ul>
+                    {
+                      disciple.disciples?.map(person =>
+                        <li>
+                          <a href="#">{person.name}</a>
+                        </li>
+                      )
+                    }
+                  </ul>
+                </li>
+              )
+            }
+          </ul>
+        </li>
+      )
+    }
+  </ul>
+</div>
