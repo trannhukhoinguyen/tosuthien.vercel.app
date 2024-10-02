@@ -1,0 +1,43 @@
+---
+import config from "../../../../config/config.json";
+import Base from "../../../../layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { supportedLang } from "../../../../lib/utils/languageParser";
+import MonoChart from "../../../../layouts/components/Chart/MonoChart.astro";
+
+export async function getStaticPaths() {
+  const paths = await Promise.all(
+  supportedLang.map(async (lang) => {
+    const pages = await getSinglePage("pages", lang as keyof ContentEntryMap);
+    const langString = lang.toString();
+    const langPaths = [];
+    let i = 1;
+
+    for (i = 1; i < 1000; i++) {
+      langPaths.push({
+        params: {
+          lang: langString || undefined,
+          slug: (i + 1).toString(),
+          },
+        });
+      }
+    return pages.map((page) => ({
+      params: {
+        lang: lang || undefined,
+        id: (i + 1).toString(),
+        },
+      props: {
+        page,
+        },
+      }));
+    })
+  );
+  return paths.flat();
+  }
+---
+
+<Base title="Master Chart">
+  <section class="section-sm text-center">
+    <MonoChart />
+  </section>
+</Base>

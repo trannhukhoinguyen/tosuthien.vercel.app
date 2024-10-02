@@ -1,6 +1,6 @@
 const CnLv23MasterDb = [
   {
-    id: 55.1,
+    id: '55.1',
     hasContent: true,
     name_en: 'Zhongfeng Mingben',
     name_es: 'Zhongfeng Mingben',

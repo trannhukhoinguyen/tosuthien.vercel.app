@@ -1,6 +1,6 @@
 const InMasterDb = [
   {
-    id: 1,
+    id: '1',
     hasContent: true,
     name_in: 'Mahakasyapa',
     name_en: 'Mahakasyapa',
@@ -22,10 +22,10 @@ const InMasterDb = [
     disciples: ['Ananda'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+    koans: ['1'],
   },
   {
-    id: 2,
+    id: '2',
     hasContent: true,
     name_in: 'Ananda',
     name_en: 'Ananda',
@@ -50,7 +50,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 3,
+    id: '3',
     hasContent: true,
     name_in: '',
     name_en: 'Sanakavasa',
@@ -75,7 +75,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 4,
+    id: '4',
     hasContent: true,
     name_in: '',
     name_en: 'Upagupta',
@@ -100,7 +100,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 5,
+    id: '5',
     hasContent: true,
     name_in: '',
     name_en: 'Dhrtaka',
@@ -125,7 +125,7 @@ const InMasterDb = [
     koans: ['',],
   },
 {
-    id: 6,
+    id: '6',
     hasContent: true,
     name_in: '',
     name_en: 'Miccaka',
@@ -150,7 +150,7 @@ const InMasterDb = [
     koans: ['',],
   },
 {
-    id: 7,
+    id: '7',
     hasContent: true,
     name_in: '',
     name_en: 'Vasumitra',
@@ -175,7 +175,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 8,
+    id: '8',
     hasContent: true,
     name_in: '',
     name_en: 'Buddhanandi',
@@ -200,7 +200,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 9,
+    id: '9',
     hasContent: true,
     name_in: '',
     name_en: 'Buddhamitra',
@@ -225,7 +225,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 10,
+    id: '10',
     hasContent: true,
     name_in: '',
     name_en: 'Parsvika',
@@ -250,7 +250,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 11,
+    id: '11',
     hasContent: true,
     name_in: '',
     name_en: 'Punyayasas',
@@ -275,7 +275,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 12,
+    id: '12',
     name_in: '',
     name_en: 'Asvaghosha',
     name_es: 'Asvaghosha',
@@ -299,7 +299,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 13,
+    id: '13',
     name_in: '',
     name_en: 'Kapimala',
     name_es: 'Kapimala',
@@ -323,7 +323,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 14,
+    id: '14',
     name_in: '',
     name_en: 'Nagarjuna',
     name_es: 'Nagarjuna',
@@ -347,7 +347,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 15,
+    id: '15',
     name_in: '',
     name_en: 'Kanadeva',
     name_es: 'Kanadeva',
@@ -371,7 +371,7 @@ const InMasterDb = [
     koans: ['',],
   },
 {
-    id: 16,
+    id: '16',
   name_in: '',
   name_en: 'Rahulata',
     name_es: 'Rahulata',
@@ -395,7 +395,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 17,
+    id: '17',
     name_in: '',
     name_en: 'Sanghanandi',
     name_es: 'Sanghanandi',
@@ -419,7 +419,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 18,
+    id: '18',
     name_in: '',
     name_en: 'Gayasata',
     name_es: 'Gayasata',
@@ -443,7 +443,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 19,
+    id: '19',
     name_in: '',
     name_en: 'Kumarata',
     name_es: 'Kumarata',
@@ -467,7 +467,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 20,
+    id: '20',
     name_in: '',
     name_en: 'Jayata',
     name_es: 'Jayata',
@@ -491,7 +491,7 @@ const InMasterDb = [
     koans: ['',],
   },
 {
-    id: 21,
+    id: '21',
   name_in: '',
   name_en: 'Vasubandhu',
     name_es: 'Vasubandhu',
@@ -515,7 +515,7 @@ const InMasterDb = [
     koans: ['',],
   },
 {
-    id: 22,
+    id: '22',
     name_in: '',
     name_en: 'Manorhita',
     name_es: 'Manorhita',
@@ -539,7 +539,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 23,
+    id: '23',
     name_in: '',
     name_en: 'Haklenayaśas',
     name_es: 'Haklenayaśas',
@@ -563,7 +563,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 24,
+    id: '24',
     name_in: '',
     name_en: 'Simhabodhi',
     name_es: 'Simhabodhi',
@@ -587,7 +587,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 25,
+    id: '25',
     name_in: '',
     name_en: 'Vasiasita / Basiasita',
     name_es: 'Basiasita',
@@ -611,7 +611,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 26,
+    id: '26',
     name_in: '',
     name_en: 'Punyamitra',
     name_es: 'Punyamitra',
@@ -635,7 +635,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 27,
+    id: '27',
     name_in: '',
     name_en: 'Prajnatara',
     name_es: 'Prajnatara',
@@ -659,7 +659,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 28,
+    id: '28',
     hasContent: true,
     name_in: '',
     name_en: 'Bodhidharma',
@@ -684,7 +684,7 @@ const InMasterDb = [
     koans: ['',],
   },
   {
-    id: 31.2,
+    id: '31.2',
     hasContent: true,
     name_en: 'Vinitaruci',
     name_es: 'Vinitaruci',

@@ -1,6 +1,6 @@
 const CnLv8MasterDb = [
   {
-    id: 41.1,
+    id: '41.1',
     name_en: 'Fengxue Yanzhao',
     name_es: 'Fengxue Yanzhao',
     name_de: 'Fengxue Yanzhao',
@@ -24,7 +24,7 @@ const CnLv8MasterDb = [
     koans: ['',],
   },
   {
-    id: 41.2,
+    id: '41.2',
     name_en: 'Luohan Guichen',
     name_es: 'Luohan Guichen',
     name_de: 'Luohan Guichen',
@@ -48,7 +48,7 @@ const CnLv8MasterDb = [
     koans: ['',],
   },
   {
-    id: 41.3,
+    id: '41.3',
     name_en: 'Xianglin Chéngyuan',
     name_es: 'Xianglin Chéngyuan',
     name_de: 'Xianglin Chéngyuan',
@@ -72,7 +72,7 @@ const CnLv8MasterDb = [
     koans: ['',],
   },
   {
-    id: 41.4,
+    id: '41.4',
     name_en: 'Động Sơn Thủ Sơ',
     name_es: 'Động Sơn Thủ Sơ',
     name_de: 'Động Sơn Thủ Sơ',

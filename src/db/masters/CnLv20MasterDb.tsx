@@ -1,6 +1,6 @@
 const CnLv20MasterDb = [
   {
-    id: 52.1,
+    id: '52.1',
     name_en: 'Wuzhun Shifan',
     name_es: 'Wuzhun Shifan',
     name_de: 'Wuzhun Shifan',

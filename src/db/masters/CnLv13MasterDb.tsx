@@ -1,6 +1,6 @@
 const CnLv13MasterDb = [
   {
-    id: 45.1,
+    id: '45.1',
     name_en: 'Baiyun Shouduan',
     name_es: 'Baiyun Shouduan',
     name_de: 'Baiyun Shouduan',
@@ -24,7 +24,7 @@ const CnLv13MasterDb = [
     koans: ['',],
   },
   {
-    id: 45.2,
+    id: '45.2',
     name_en: 'Yungai Shouzhi',
     name_es: 'Yungai Shouzhi',
     name_de: 'Yungai Shouzhi',
@@ -48,7 +48,7 @@ const CnLv13MasterDb = [
     koans: ['',],
   },
   {
-    id: 45.3,
+    id: '45.3',
     name_en: 'Baofeng Kewen',
     name_es: 'Baofeng Kewen',
     name_de: 'Baofeng Kewen',
@@ -72,7 +72,7 @@ const CnLv13MasterDb = [
     koans: ['',],
   },
   {
-    id: 45.4,
+    id: '45.4',
     name_en: 'Huitang Zuxin',
     name_es: 'Huitang Zuxin',
     name_de: 'Huitang Zuxin',

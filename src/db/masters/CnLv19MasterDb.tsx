@@ -1,6 +1,6 @@
 const CnLv19MasterDb = [
   {
-    id: 51.1,
+    id: '51.1',
     name_en: 'Poan Zuxian',
     name_es: 'Poan Zuxian',
     name_de: 'Poan Zuxian',
@@ -24,7 +24,7 @@ const CnLv19MasterDb = [
     koans: ['',],
   },
   {
-    id: 51.2,
+    id: '51.2',
     name_en: 'Songyuan Chongyue',
     name_es: 'Songyuan Chongyue',
     name_de: 'Songyuan Chongyue',
@@ -48,7 +48,7 @@ const CnLv19MasterDb = [
     koans: ['',],
   },
   {
-    id: 51.3,
+    id: '51.3',
     name_en: 'Tào Nguyên Đạo Sinh',
     name_es: 'Tào Nguyên Đạo Sinh',
     name_de: 'Tào Nguyên Đạo Sinh',

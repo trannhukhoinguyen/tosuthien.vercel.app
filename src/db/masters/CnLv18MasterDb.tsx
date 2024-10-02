@@ -1,6 +1,6 @@
 const CnLv18MasterDb = [
   {
-    id: 50.1,
+    id: '50.1',
     name_en: 'Mian Xianjieg',
     name_es: 'Mian Xianjieg',
     name_de: 'Mian Xianjieg',

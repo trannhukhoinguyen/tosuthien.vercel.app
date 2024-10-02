@@ -1,6 +1,6 @@
 const CnLv4MasterDb = [
   {
-    id: 37.1,
+    id: '37.1',
     name_en: 'Toại Châu Đạo Viên',
     name_es: 'Toại Châu Đạo Viên',
     name_de: 'Toại Châu Đạo Viên',
@@ -24,7 +24,7 @@ const CnLv4MasterDb = [
     koans: ['',],
   },
   {
-    id: 37.2,
+    id: '37.2',
     name_en: 'Yunyan Tansheng',
     name_es: 'Yunyan Tansheng',
     name_de: 'Yunyan Tansheng',
@@ -48,7 +48,7 @@ const CnLv4MasterDb = [
     koans: ['',],
   },
   {
-    id: 37.3,
+    id: '37.3',
     name_en: 'Longtan Chongxin',
     name_es: 'Longtan Chongxin',
     name_de: 'Longtan Chongxin',
@@ -72,7 +72,7 @@ const CnLv4MasterDb = [
     koans: ['',],
   },
   {
-    id: 37.4,
+    id: '37.4',
     name_en: 'Guishan Lingyou',
     name_es: 'Guishan Lingyou',
     name_de: 'Guishan Lingyou',
@@ -97,7 +97,7 @@ const CnLv4MasterDb = [
     koans: ['',],
   },
   {
-    id: 37.5,
+    id: '37.5',
     name_en: 'Sanping Yizhong',
     name_es: 'Sanping Yizhong',
     name_de: 'Sanping Yizhong',
@@ -122,7 +122,7 @@ const CnLv4MasterDb = [
     koans: ['',],
   },
   {
-    id: 37.6,
+    id: '37.6',
     name_en: 'Cuiwei Wuxue',
     name_es: 'Cuiwei Wuxue',
     name_de: 'Cuiwei Wuxue',
@@ -147,7 +147,7 @@ const CnLv4MasterDb = [
     koans: ['',],
   },
   {
-    id: 37.7,
+    id: '37.7',
     hasContent: true,
     name_en: 'Huangbo Xiyun',
     name_es: 'Huangbo Xiyun',
@@ -172,7 +172,7 @@ const CnLv4MasterDb = [
     koans: ['',],
   },
   {
-    id: 37.8,
+    id: '37.8',
     name_en: '最澄',
     name_es: '最澄',
     name_de: '最澄',
@@ -196,7 +196,7 @@ const CnLv4MasterDb = [
     koans: ['',],
   },
   {
-    id: 37.9,
+    id: '37.9',
     name_en: '慧忠',
     name_es: '慧忠',
     name_de: '慧忠',
@@ -220,7 +220,7 @@ const CnLv4MasterDb = [
     koans: ['',],
   },
   {
-    id: 37.10,
+    id: '37.10',
     name_en: '玄素',
     name_es: '玄素',
     name_de: '玄素',
@@ -244,7 +244,7 @@ const CnLv4MasterDb = [
     koans: ['',],
   },
   {
-    id: 37.11,
+    id: '37.11',
     name_en: 'Daowu Yuanzhi',
     name_es: 'Daowu Yuanzhi',
     name_de: 'Daowu Yuanzhi',

@@ -1,6 +1,6 @@
 const CnLv21MasterDb = [
   {
-    id: 53.1,
+    id: '53.1',
     hasContent: true,
     name_en: 'Xueyan Zuqin',
     name_es: 'Xueyan Zuqin',

@@ -1,6 +1,6 @@
 const CnLv3MasterDb = [
   {
-    id: 36.1,
+    id: '36.1',
     name_en: 'Kinh Nam Duy Trung',
     name_es: 'Kinh Nam Duy Trung',
     name_de: 'Kinh Nam Duy Trung',
@@ -24,7 +24,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.2,
+    id: '36.2',
     name_en: 'Yaoshan Weiyan',
     name_es: 'Yaoshan Weiyan',
     name_de: 'Yaoshan Weiyan',
@@ -48,7 +48,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.3,
+    id: '36.3',
     name_en: 'Tianhuang Daowu',
     name_es: 'Tianhuang Daowu',
     name_de: 'Tianhuang Daowu',
@@ -72,7 +72,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.4,
+    id: '36.4',
     name_en: 'Dadian Baotong',
     name_es: 'Dadian Baotong',
     name_de: 'Dadian Baotong',
@@ -96,7 +96,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.5,
+    id: '36.5',
     name_en: 'Danxia Tianran',
     name_es: 'Danxia Tianran',
     name_de: 'Danxia Tianran',
@@ -120,7 +120,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.6,
+    id: '36.6',
     name_en: 'Baizhang Huaihai',
     name_es: 'Baizhang Huaihai',
     name_de: 'Baizhang Huaihai',
@@ -144,7 +144,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.7,
+    id: '36.7',
     name_en: 'Wúzhù',
     name_es: 'Wúzhù',
     name_de: 'Wúzhù',
@@ -168,7 +168,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.8,
+    id: '36.8',
     name_en: '志眞',
     name_es: '志眞',
     name_de: '志眞',
@@ -192,7 +192,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.9,
+    id: '36.9',
     name_en: '行表',
     name_es: '行表',
     name_de: '行表',
@@ -216,7 +216,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.10,
+    id: '36.10',
     name_en: 'Chii',
     name_es: 'Chii',
     name_de: 'Chii',
@@ -240,7 +240,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.11,
+    id: '36.11',
     hasContent: true,
     name_en: 'Ehu Dayi',
     name_es: 'Ehu Dayi',
@@ -265,7 +265,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.12,
+    id: '36.12',
     name_en: 'Damei Fachang',
     name_es: 'Damei Fachang',
     name_de: 'Damei Fachang',
@@ -289,7 +289,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.13,
+    id: '36.13',
     name_en: 'Dazhu Huihai',
     name_es: 'Dazhu Huihai',
     name_de: 'Dazhu Huihai',
@@ -313,7 +313,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.14,
+    id: '36.14',
     name_en: 'Xitang Zhizang',
     name_es: 'Xitang Zhizang',
     name_de: 'Xitang Zhizang',
@@ -337,7 +337,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.15,
+    id: '36.15',
     name_en: 'Nanquan Puyuan (Wang laoshi)',
     name_es: 'Nanquan Puyuan',
     name_de: 'Nanquan Puyuan',
@@ -361,7 +361,7 @@ const CnLv3MasterDb = [
     koans: ['',],
   },
   {
-    id: 36.16,
+    id: '36.16',
     name_en: 'Fenzhou Wuye',
     name_es: 'Fenzhou Wuye',
     name_de: 'Fenzhou Wuye',

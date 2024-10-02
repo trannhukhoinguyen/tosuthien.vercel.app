@@ -137,10 +137,19 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
         {
           currentData.map((item) => (
             <tr key={ item.id }>
-            <td>{ item.id }</td>
-            {
-              item.hasContent
-                ? <td>
+              <td>
+                <a
+                  target="_blank"
+                  href={ `/masters/chart/${item.id}` }
+                  title={"see lineage chart of " + item.name_en}
+                  className="text-blue-700"
+                >
+                  { item.id }
+                </a>
+              </td>
+              {
+                item.hasContent
+                  ? <td>
                     <a
                       target="_blank"
                       href={"/masters/" + formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}
@@ -180,7 +189,11 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
               <Modal lang={lang} title={"🧷"} content={item.reference?.join(', ')} />
             </td>
             <td>
-              <Modal lang={lang} title={"📖"} content={item.koans?.join(', ')} />
+              {
+                item.koans && item.koans[0]
+                ? <Modal lang={lang} title={"📖"} content={item.koans?.join(", ")} />
+                : <div></div>
+              }
             </td>
           </tr>
           ))

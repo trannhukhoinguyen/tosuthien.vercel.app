@@ -1,6 +1,6 @@
 const CnLv7MasterDb = [
   {
-    id: 40.1,
+    id: '40.1',
     name_en: 'Nanyuan Huiyong',
     name_es: 'Nanyuan Huiyong',
     name_de: 'Nanyuan Huiyong',
@@ -24,7 +24,7 @@ const CnLv7MasterDb = [
     koans: ['',],
   },
   {
-    id: 40.2,
+    id: '40.2',
     hasContent: true,
     name_en: 'Heshan Wuyin',
     name_es: 'Heshan Wuyin',
@@ -49,7 +49,7 @@ const CnLv7MasterDb = [
     koans: ['',],
   },
   {
-    id: 40.3,
+    id: '40.3',
     hasContent: true,
     name_en: 'Xuansha Shibei',
     name_es: 'Xuansha Shibei',
@@ -74,7 +74,7 @@ const CnLv7MasterDb = [
     koans: ['22, 56, 88 - BCR', '41 - TGG'],
   },
   {
-    id: 40.4,
+    id: '40.4',
     hasContent: true,
     name_en: 'Yunmen Wenyan',
     name_es: 'Yunmen Wenyan',
@@ -99,7 +99,7 @@ const CnLv7MasterDb = [
     koans: ['https://en.wikipedia.org/wiki/List_of_koans_by_Yunmen_Wenyan',],
   },
   {
-    id: 40.5,
+    id: '40.5',
     hasContent: true,
     name_en: 'Baofu Congzhan',
     name_es: 'Baofu Congzhan',
@@ -124,7 +124,7 @@ const CnLv7MasterDb = [
     koans: [' 8, 22, 23, 76, 91, 95 - BCR' , '21, 23, 28, 29, 48, 71 - RoGP',],
   },
   {
-    id: 40.6,
+    id: '40.6',
     name_en: 'Changqing Huileng',
     name_es: 'Changqing Huileng',
     name_de: 'Changqing Huileng',

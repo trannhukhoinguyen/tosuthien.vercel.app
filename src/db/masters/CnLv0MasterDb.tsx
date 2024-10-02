@@ -1,6 +1,6 @@
 const CnLv0MasterDb = [
   {
-    id: 29,
+    id: '29',
     name_en: 'Dazu Huike',
     name_es: 'Dazu Huike',
     name_de: 'Dazu Huike',
@@ -25,7 +25,7 @@ const CnLv0MasterDb = [
     koans: ['',],
   },
   {
-    id: 30,
+    id: '30',
     name_en: 'Jianzhi Sengcan',
     name_es: 'Jianzhi Sengcan',
     name_de: 'Jianzhi Sengcan',
@@ -50,7 +50,7 @@ const CnLv0MasterDb = [
     koans: ['',],
   },
   {
-    id: 31.1,
+    id: '31.1',
     name_en: 'Dayi Daoxin',
     name_es: 'Dayi Daoxin',
     name_de: 'Dayi Daoxin',
@@ -75,7 +75,7 @@ const CnLv0MasterDb = [
     koans: ['',],
   },
   {
-    id: 32.1,
+    id: '32.1',
     name_en: 'Daman Hongren',
     name_es: 'Daman Hongren',
     name_de: 'Daman Hongren',
@@ -100,7 +100,7 @@ const CnLv0MasterDb = [
     koans: ['',],
   },
   {
-    id: 32.2,
+    id: '32.2',
     name_en: 'Niutou Farong',
     name_es: 'Niutou Farong',
     name_de: 'Niutou Farong',
@@ -125,7 +125,7 @@ const CnLv0MasterDb = [
     koans: ['',],
   },
   {
-    id: 33.1,
+    id: '33.1',
     name_en: 'Dajian Huineng (Liuzu)',
     name_es: 'Dajian Huineng (Sexto Patriarca)',
     name_de: 'Dajian Huineng (Sechster Patriarch)',
@@ -150,7 +150,7 @@ const CnLv0MasterDb = [
     koans: ['',],
   },
   {
-    id: 33.2,
+    id: '33.2',
     name_en: 'Niu-tou Chigan',
     name_es: 'Niu-tou Chigan',
     name_de: 'Niu-tou Chigan',
@@ -175,7 +175,7 @@ const CnLv0MasterDb = [
     koans: ['',],
   },
   {
-    id: 33.3,
+    id: '33.3',
     hasContent: true,
     name_en: 'Yuquan Shenxiu',
     name_es: 'Yuquan Shenxiu',
@@ -201,7 +201,7 @@ const CnLv0MasterDb = [
     koans: ['',],
   },
   {
-    id: 33.4,
+    id: '33.4',
     name_en: '慧安 (Huệ An)',
     name_es: '慧安',
     name_de: '慧安',
@@ -226,7 +226,7 @@ const CnLv0MasterDb = [
     koans: ['',],
   },
   {
-    id: 33.5,
+    id: '33.5',
     name_en: 'Zhishen',
     name_es: 'Zhìshēn',
     name_de: 'Zhìshēn',

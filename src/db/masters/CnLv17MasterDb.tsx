@@ -1,6 +1,6 @@
 const CnLv17MasterDb = [
   {
-    id: 49.1,
+    id: '49.1',
     name_en: 'Yingan Tanhua',
     name_es: 'Yingan Tanhua',
     name_de: 'Yingan Tanhua',
@@ -24,7 +24,7 @@ const CnLv17MasterDb = [
     koans: ['',],
   },
   {
-    id: 49.2,
+    id: '49.2',
     name_en: 'Wakuan Shitai',
     name_es: 'Wakuan Shitai',
     name_de: 'Wakuan Shitai',
@@ -48,7 +48,7 @@ const CnLv17MasterDb = [
     koans: ['',],
   },
   {
-    id: 49.3,
+    id: '49.3',
     name_en: 'Fozhao Deguang',
     name_es: 'Fozhao Deguang',
     name_de: 'Fozhao Deguang',
@@ -72,7 +72,7 @@ const CnLv17MasterDb = [
     koans: ['',],
   },
   {
-    id: 49.4,
+    id: '49.4',
     name_en: 'Tế Điên Đạo Tế',
     name_es: 'Tế Điên Đạo Tế',
     name_de: 'Tế Điên Đạo Tế',
@@ -96,7 +96,7 @@ const CnLv17MasterDb = [
     koans: ['',],
   },
   {
-    id: 49.5,
+    id: '49.5',
     name_en: 'Duệ Sơn Giác A',
     name_es: 'Duệ Sơn Giác A',
     name_de: 'Duệ Sơn Giác A',
