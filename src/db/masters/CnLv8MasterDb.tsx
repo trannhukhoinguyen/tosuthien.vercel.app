@@ -90,7 +90,7 @@ const CnLv8MasterDb = [
     place: '-',
     teachers: ['Yunmen Wenyan'],
     successors: [''],
-    disciples: [''],
+    disciples: [],
     image: '/images/avatar.png',
     reference: [''],
     koans: ['',],

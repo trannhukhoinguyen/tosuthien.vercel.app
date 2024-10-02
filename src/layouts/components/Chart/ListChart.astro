@@ -1,0 +1,78 @@
+---
+import "../../../styles/additional/ListChart.scss";
+import { CnMasters }  from "../../../db/masters/AllMasterDb";
+import config from "../../../config/config.json";
+import {
+  getLangFromUrl,
+  getTranslations,
+  supportedLang,
+  slugSelector,
+} from "../../../lib/utils/languageParser";
+import type { ContentEntryMap } from "astro:content";
+
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+let lang = getLangFromUrl(Astro.url);
+
+const disabledLanguages = config.settings.disable_languages as string[];
+if (disabledLanguages.includes(lang)) {
+  lang = config.settings.default_language;
+}
+
+const flatMasterData = CnMasters.flat();
+const masterData = flatMasterData.map(master=>
+  ({
+    id: master.id,
+    level: (master.id + '')?.slice(0, (master.id + '')?.indexOf('.')),
+    name: master.name_en,
+    disciples: master.disciples?.map(disciple => ({
+      id: flatMasterData.find(person => person.name_en === disciple)?.id,
+      level: (master.id + '')?.slice(0, (master.id + '')?.indexOf('.')) +1,
+      name: flatMasterData.find(person => person.name_en === disciple)?.name_en,
+      disciples: disciple.disciples?.map(who => ({
+        id: flatMasterData.find(person => person.name_en === who)?.id,
+        level: (master.id + '')?.slice(0, (master.id + '')?.indexOf('.')) +1,
+        name: flatMasterData.find(person => person.name_en === who)?.name_en,
+      })),
+    }))
+  })
+);
+---
+
+
+<div id="wrapper">
+  <div id="container">
+    <ol class="organizational-chart">
+      {
+        CnMasters?.flat().map(master =>
+          <li>
+            <div class="site-name">
+              <div class="site"></div>
+              <div class="text-holder">{master.name_en}<span>{master.birth_death_time?.join('- ')}</span></div>
+            </div>
+            <ol>
+              {
+                master.disciples?.map(disciple =>
+                  <li>
+                    <div class="outborder">
+                      <div class="email"></div>
+                      <div class="chart-text">{disciple}</div>
+                    </div>
+                    <ol>
+                      <li><div class="subchart-text">{disciple}</div></li>
+                    </ol>
+                  </li>
+                )
+              }
+            </ol>
+          </li>
+        )
+      }
+    </ol>
+  </div>
+</div>

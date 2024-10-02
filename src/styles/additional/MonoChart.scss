@@ -1,5 +1,5 @@
 /*Now the CSS*/
-* {margin: 0; padding: 0;}
+
 
 .tree ul {
   padding-top: 20px; position: relative;
@@ -91,6 +91,4 @@ right connector from last child*/
 .tree li a:hover, .tree li a:hover+ul li a {
   background: #c8e4f8; color: #000; border: 1px solid #94a0b4;
 }
-/*Connector styles on hover*/
-.tree li a:hover+ul li::after,
-.tree li a:hover+u
+

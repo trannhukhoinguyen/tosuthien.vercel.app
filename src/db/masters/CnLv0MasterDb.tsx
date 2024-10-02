@@ -202,7 +202,7 @@ const CnLv0MasterDb = [
   },
   {
     id: 33.4,
-    name_en: '慧安',
+    name_en: '慧安 (Huệ An)',
     name_es: '慧安',
     name_de: '慧安',
     name_fr: '慧安',
@@ -227,7 +227,7 @@ const CnLv0MasterDb = [
   },
   {
     id: 33.5,
-    name_en: 'Zhìshēn',
+    name_en: 'Zhishen',
     name_es: 'Zhìshēn',
     name_de: 'Zhìshēn',
     name_fr: 'Zhìshēn',
@@ -244,7 +244,7 @@ const CnLv0MasterDb = [
     place: '',
     teachers: ['Daman Hongren'],
     successors: [''],
-    disciples: [''],
+    disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],

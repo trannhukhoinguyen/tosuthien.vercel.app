@@ -66,7 +66,7 @@ const CnLv10MasterDb = [
     place: '-',
     teachers: ['Zhimen Guangzuo'],
     successors: [''],
-    disciples: [''],
+    disciples: [],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFt_%C4%90%E1%BA%ADu_Tr%E1%BB%8Dng_Hi%E1%BB%83n', 'https://en.wikipedia.org/wiki/Xuedou_Chongxian', 'https://terebess.hu/zen/Xuedou.html'],
     koans: ['',],

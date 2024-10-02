@@ -2,26 +2,11 @@
 import { getSinglePage } from "@/lib/contentParser.astro";
 import {supportedLang} from "../../../lib/utils/languageParser";
 import type { ContentEntryMap } from "astro:content";
-import HighchartsOrgChart from "../../../layouts/shortcodes/Chart.tsx";
-import Chart from "../../../layouts/components/Chart.astro";
-import { CnMasters }  from "../../../db/masters/AllMasterDb";
+import MonoChart from "../../../layouts/components/Chart/MonoChart.astro";
+import ColorfulChart from "../../../layouts/components/Chart/ColorfulChart.astro";
+import ListChart from "../../../layouts/components/Chart/ListChart.astro";
+import Base from "../../../layouts/Base.astro";
 
-const masterDbObject = {
-  title: 'Master Chart',
-  data: CnMasters.flat().map(master=>
-    ({
-      id: master.id,
-      level: (master.id + '')?.slice(0, (master.id + '')?.indexOf('.')),
-      name: master.name_en,
-      successors: master.successors.map(successor => ({
-        id: CnMasters.flat().find(person => person.name_en === successor)?.id,
-        level: (master.id + '')?.slice(0, (master.id + '')?.indexOf('.')) +1,
-        name: CnMasters.flat().find(person => person.name_en === successor)?.name_en,
-      }))
-    })
-  ),
-}
-console.log(masterDbObject.data)
 export async function getStaticPaths() {
   const paths = await Promise.all(
   supportedLang.map(async (lang) => {
@@ -42,4 +27,9 @@ export async function getStaticPaths() {
   }
 ---
 
-<Chart />
+
+<Base title="Master Chart">
+<section class="section-sm text-center">
+  <MonoChart />
+</section>
+</Base>
