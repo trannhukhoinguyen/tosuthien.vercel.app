@@ -12,7 +12,15 @@
         { "name": "Công án", "url": "/koans" }
       ]
     },
-    { "name": "Tuyệt tác", "url": "/masterpieces" },
+    {
+      "name": "Tuyệt tác",
+      "url": "/masterpieces",
+      "hasChildren": true,
+      "children": [
+        { "name": "Tuyệt tác", "url": "/masterpieces" },
+        { "name": "Lời dạy chúng", "url": "/teachings" }
+      ]
+    },
     {
       "name": "Media",
       "url": "/media",

@@ -12,7 +12,15 @@
         { "name": "화두", "url": "/koans" }
       ]
     },
-    { "name": "Masterpieces", "url": "/masterpieces" },
+    {
+      "name": "Masterpieces",
+      "url": "/masterpieces",
+      "hasChildren": true,
+      "children": [
+        { "name": "Masterpieces", "url": "/masterpieces" },
+        { "name": "Teachings", "url": "/teachings" }
+      ]
+    },
     {
       "name": "미디어",
       "url": "/media",

@@ -12,7 +12,15 @@
         { "name": "公案", "url": "/koans" }
       ]
     },
-    { "name": "Masterpieces", "url": "/masterpieces" },
+    {
+      "name": "Masterpieces",
+      "url": "/masterpieces",
+      "hasChildren": true,
+      "children": [
+        { "name": "Masterpieces", "url": "/masterpieces" },
+        { "name": "Teachings", "url": "/teachings" }
+      ]
+    },
     {
       "name": "媒體",
       "url": "/media",

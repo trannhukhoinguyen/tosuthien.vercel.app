@@ -11,7 +11,15 @@
         { "name": "Коаны", "url": "/koans" }
       ]
     },
-    { "name": "Masterpieces", "url": "/masterpieces" },
+    {
+      "name": "Masterpieces",
+      "url": "/masterpieces",
+      "hasChildren": true,
+      "children": [
+        { "name": "Masterpieces", "url": "/masterpieces" },
+        { "name": "Teachings", "url": "/teachings" }
+      ]
+    },
     {
       "name": "Медиа",
       "url": "/media",

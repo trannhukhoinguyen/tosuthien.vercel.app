@@ -12,7 +12,16 @@
         { "name": "Koans", "url": "/koans" }
       ]
     },
-    { "name": "Masterpieces", "url": "/masterpieces" },
+    {
+      "name": "Masterpieces",
+      "url": "/masterpieces",
+      "hasChildren": true,
+      "children": [
+        { "name": "Masterpieces", "url": "/masterpieces" },
+        { "name": "Koans", "url": "/koans" }
+      ]
+    },
+
     {
       "name": "Medios",
       "url": "/media",

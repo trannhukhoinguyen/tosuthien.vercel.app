@@ -3,6 +3,8 @@ import Base from "@/layouts/Base.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import { site } from "@/config/config.json";
 import PageHeader from "../../layouts/partials/PageHeader.astro";
+import Indent from "@/shortcodes/Indent.tsx";
+
 export function getStaticPaths() {
     const paths = supportedLang.map((lang) => ({
     params: { lang: lang || undefined },
@@ -25,8 +27,9 @@ const { lang } = Astro.params;
     {
       !lang || lang === 'vi'
         ? <div class="container vi-teachings">
+            <h1></h1>
             <h4>I. RÚT GỌN LỜI DẠY CHƯ TỔ</h4>
-
+            <h1></h1>
             <em>
               Phần này, tôi không biên những lời cao siêu của chư Tổ, chỉ rút những chỗ thực hành công phu khẩn thiết. Lại rút gọn những chuyện cốt yếu cho tiện hằng ngày đọc qua để kích lệ thân tâm.
             </em>
@@ -36,7 +39,7 @@ const { lang } = Astro.params;
                 01. Hoàng Bá Hy Vận Thiền sư dạy Chúng <em>(TS. Hoàng Bá Hy Vận)</em>
               </summary>
               <mark>
-                Về trước tu tập nếu chưa thấu triệt, một phen lưỡi hái tử thần kề cổ, sẽ thấy trăm mối rối ren.
+                <Indent />Về trước tu tập nếu chưa thấu triệt, một phen lưỡi hái tử thần kề cổ, sẽ thấy trăm mối rối ren.
                 Thế mà, có một bọn ngoại đạo vừa thấy người hạ thủ công phu, bèn cười lạt, bảo rằng: Còn có cái ấy nữa.
                 Ta thử hỏi ông : Nếu khi thần chết đến, ông lấy cái gì để chống cự lại ?
                 Vậy lúc rảnh rang lo giải quyết cho xong, đến khi gấp rút được ít nhiều tỉnh lực.
@@ -46,7 +49,7 @@ const { lang } = Astro.params;
                 Tôi khuyên hết thảy huynh đệ, lúc thân thể còn tráng kiện nên chọn lấy những điều mình đã hiểu, làm động cơ tu tiến thì rất dễ dàng.
                 Tự các ông không chịu lập chí quyết chết thực tập công phu, chỉ nghĩ là khó thì lại càng thấy khó.
                 Nếu là bậc trượng phu hãy khán công án.
-                Có vị Tăng hỏi ngài Triệu Châu : "Con chó có Phật tánh không ?"
+                <br/><Indent />Có vị Tăng hỏi ngài Triệu Châu : "Con chó có Phật tánh không ?"
                 Ngài Triệu Châu đáp : "Không". Suốt 12 thời (24 tiếng đồng hồ) khán một chữ KHÔNG.
                 Ngày tham, đêm tham, đi, đứng, ngồi, nằm, mặc áo, ăn cơm, đại tiểu tiện v.v… đều dồn hết tinh thần khán một chữ KHÔNG.
                 Lâu ngày chầy tháng kết thành một khối, bỗng nhiên tâm hoa khai phát, ngộ được cái máy nhiệm mầu của Phật, Tổ, sẽ không còn ngờ vực câu nói của Lão Hòa thượng, thấu triệt đại ngộ.
@@ -62,8 +65,8 @@ const { lang } = Astro.params;
                 02. Triệu Châu Thẩm Thiền sư dạy Chúng <em>(TS. Triệu Châu Tùng Thẩm)</em>
               </summary>
               <mark>
-
-                Các ông chỉ thấu đạt lý tọa thiền, chuyên khán hai ba mươi năm, nếu không hội ngộ chặt đầu Lão Tăng đi. Lão Tăng ngót 40 năm chuyên khán không dụng tâm tạp loạn, trừ hai thời cơm và cháo mới tạp dụng tâm.
+                <Indent />Các ông chỉ thấu đạt lý tọa thiền, chuyên khán hai ba mươi năm, nếu không hội ngộ chặt đầu Lão Tăng đi.
+                <br /><Indent />Lão Tăng ngót 40 năm chuyên khán không dụng tâm tạp loạn, trừ hai thời cơm và cháo mới tạp dụng tâm.
               </mark>
             </details>
 
@@ -72,8 +75,9 @@ const { lang } = Astro.params;
                 03. Huyền Sa Bị Thiền sư dạy Chúng <em>(TS. Huyền Sa Sư Bị)</em>
               </summary>
               <mark>
-
-                Phàm người học Bát nhã Bồ tát phải đủ đại căn cơ, đại trí tuệ mới được. Nếu căn cơ trì độn, phải chuyên cần khổ nhọc, nhẫn nại đêm ngày quên mệt, giống như người đi đưa đám ma mẹ, cần cù cấp bách sẽ có người phụ lực. Ghi tạc trong lòng chuyên tâm thật cứu, ắt có ngày hội ngộ.
+                <Indent />Phàm người học Bát nhã Bồ tát phải đủ đại căn cơ, đại trí tuệ mới được.
+                <br/><Indent />Nếu căn cơ trì độn, phải chuyên cần khổ nhọc, nhẫn nại đêm ngày quên mệt, giống như người đi đưa đám ma mẹ, cần cù cấp bách sẽ có người phụ lực.
+                <br/><Indent />Ghi tạc trong lòng chuyên tâm thật cứu, ắt có ngày hội ngộ.
               </mark>
             </details>
 
@@ -82,15 +86,14 @@ const { lang } = Astro.params;
                 04. Đại Nghĩa Thiền sư răn dạy
               </summary>
               <mark>
-                Chớ có quên mình với tử tâm,
-                Bệnh này khó trị thật quá thâm,
-                Mau mau đề khởi tâm suy xét,
-                Cần kiếm Tổ sư nghĩa nhiệm mầu
-                Lỡ khi ngủ gật, liền trợn mắt,
-                Xem thử kèo nhà, nó là gì ?
-                Nếu người tịnh tọa chẳng dụng công,
-                Bao giờ mới được ngộ tâm không ?
-
+                <Indent />Chớ có quên mình với tử tâm,
+                <br/><Indent />Bệnh này khó trị thật quá thâm,
+                <br/><Indent />Mau mau đề khởi tâm suy xét,
+                <br/><Indent />Cần kiếm Tổ sư nghĩa nhiệm mầu
+                <br/><Indent />Lỡ khi ngủ gật, liền trợn mắt,
+                <br/><Indent />Xem thử kèo nhà, nó là gì ?
+                <br/><Indent />Nếu người tịnh tọa chẳng dụng công,
+                <br/><Indent />Bao giờ mới được ngộ tâm không ?
               </mark>
             </details>
 
@@ -99,8 +102,8 @@ const { lang } = Astro.params;
                 05. Vĩnh Minh Thọ Thiền sư răn dạy
               </summary>
               <mark>
-
-                Cửa học đạo không có gì kỳ đặc, chỉ cần gột sạch căn, trần và những chủng tử nghiệp thức từ vô lượng kiếp đến giờ. Các ông nếu tiêu trừ hết tình niệm, đoạn dứt vọng duyên, đối với tất cả thứ ái dục ở thế gian tâm không động nhiễm như cây đá, dù đạo nhãn chưa sáng, tự nhiên thân tâm an tịnh. Nếu gặp bậc đạo sư chân chánh phải thiết tha thân cận, giả sử tham chưa thấu triệt, học chưa thành tài, một phen tai nghe đạo vị tạo thành chủng tử đạo trong tàng thức, kiếp kiếp không sa vào ác thú, đời đời không mất thân người, vừa sanh ra một nghe ngàn ngộ.
+                <Indent />Cửa học đạo không có gì kỳ đặc, chỉ cần gột sạch căn, trần và những chủng tử nghiệp thức từ vô lượng kiếp đến giờ.
+                <br/><Indent />Các ông nếu tiêu trừ hết tình niệm, đoạn dứt vọng duyên, đối với tất cả thứ ái dục ở thế gian tâm không động nhiễm như cây đá, dù đạo nhãn chưa sáng, tự nhiên thân tâm an tịnh. Nếu gặp bậc đạo sư chân chánh phải thiết tha thân cận, giả sử tham chưa thấu triệt, học chưa thành tài, một phen tai nghe đạo vị tạo thành chủng tử đạo trong tàng thức, kiếp kiếp không sa vào ác thú, đời đời không mất thân người, vừa sanh ra một nghe ngàn ngộ.
               </mark>
             </details>
 
@@ -109,9 +112,8 @@ const { lang } = Astro.params;
                 06. Tử Tâm Tân Thiền sư tiểu tham
               </summary>
               <mark>
-
-                Chư Thượng tọa ! Thân này khó được, Phật pháp khó nghe, chính đời này không lo độ, mong đời nào độ thân này ? Các ông thích tham thiền ư ? Phải buông bỏ hết. Buông bỏ cái gì ? Buông bỏ tứ đại, ngũ uẩn, buông bỏ những nghiệp thức từ vô lượng kiếp đến nay. Nhìn xuống gót chân mình suy cùng, xét tận xem nó là cái gì ? Xét qua xét lại, bỗng nhiên tâm hoa phát sáng, chiếu khắp cõi nước mười phương.
-                Có thể nói được tại tâm, nắm trong tay, mới hay biến quả đất thành vàng ròng, khuấy nước sông làm tô lạc, thật khoái chí thay ! Chớ nên cắm đầu trên sách vở, xét lời bàn chữ, nói thiền luận đạo, thiền đạo không có ở trên sách vở. Dù nhớ hết Đại tạng kinh thuộc lòng Bách gia chư tử, cũng chỉ là luận bàn suông chơi, đến khi chết trọn không lợi ích gì.
+                <Indent />Chư Thượng tọa ! Thân này khó được, Phật pháp khó nghe, chính đời này không lo độ, mong đời nào độ thân này ? Các ông thích tham thiền ư ? Phải buông bỏ hết. Buông bỏ cái gì ? Buông bỏ tứ đại, ngũ uẩn, buông bỏ những nghiệp thức từ vô lượng kiếp đến nay. Nhìn xuống gót chân mình suy cùng, xét tận xem nó là cái gì ? Xét qua xét lại, bỗng nhiên tâm hoa phát sáng, chiếu khắp cõi nước mười phương.
+                <br/><Indent />Có thể nói được tại tâm, nắm trong tay, mới hay biến quả đất thành vàng ròng, khuấy nước sông làm tô lạc, thật khoái chí thay ! Chớ nên cắm đầu trên sách vở, xét lời bàn chữ, nói thiền luận đạo, thiền đạo không có ở trên sách vở. Dù nhớ hết Đại tạng kinh thuộc lòng Bách gia chư tử, cũng chỉ là luận bàn suông chơi, đến khi chết trọn không lợi ích gì.
               </mark>
             </details>
 
@@ -120,9 +122,9 @@ const { lang } = Astro.params;
                 07. Đông Sơn Diễn Thiền sư tiễn đệ tử đi hành khước
               </summary>
               <mark>
-
-                Ông nên ghi hai chữ Sanh Tử trên trán, xét nét tìm hiểu. Chớ có kết bè, hiệp bọn cười giỡn qua ngày. Lúc Diêm vương đến không thể đem cơm tiền đút lót được. Chớ bảo rằng ta chưa từng nhắc ông.
-                Nếu thực tập công phu, phải luôn luôn kiểm điểm thường thường xét nét, thế nầy là chỗ đắc lực, thế kia là chỗ không đắc lực, thế này là chỗ được, thế kia là chỗ mất. Có một bọn vừa lên Bồ đoàn  liền ngủ gật, đến lúc tỉnh thì tâm tưởng lăng xăng, vừa xuống Bồ đoàn là nói chuyện vang rân. Biện đạo như thế đến Đức Phật Di Lặc ra đời cũng chưa kết quả. Phải sáng suốt, mạnh mẽ đề khởi câu thoại đầu, sáng tham, tối tham cùng với thùy miên, loạn tưởng chống nhau, không nên tọa trong vô sự. Lại không nên trên Bồ đoàn ngồi như chết. Nếu tạp niệm dấy khởi, càng tranh đấu càng nhiều chi bằng nhẹ nhàng buông xả, bước xuống đất đi một vòng. Lại lên bồ đoàn mở mắt, để hai bàn tay ngón cái gối đầu nhau, xương sống thẳng lên, y như trước đề khởi thoại đầu, liền có cảm giác mát mẻ, in như trả nước sôi vừa đổ vào một gáo nước
+                <Indent />Ông nên ghi hai chữ Sanh Tử trên trán, xét nét tìm hiểu. Chớ có kết bè, hiệp bọn cười giỡn qua ngày. Lúc Diêm vương đến không thể đem cơm tiền đút lót được. Chớ bảo rằng ta chưa từng nhắc ông.
+                <br/><Indent />Nếu thực tập công phu, phải luôn luôn kiểm điểm thường thường xét nét, thế nầy là chỗ đắc lực, thế kia là chỗ không đắc lực, thế này là chỗ được, thế kia là chỗ mất. Có một bọn vừa lên Bồ đoàn  liền ngủ gật, đến lúc tỉnh thì tâm tưởng lăng xăng, vừa xuống Bồ đoàn là nói chuyện vang rân. Biện đạo như thế đến Đức Phật Di Lặc ra đời cũng chưa kết quả. Phải sáng suốt, mạnh mẽ đề khởi câu thoại đầu, sáng tham, tối tham cùng với thùy miên, loạn tưởng chống nhau, không nên tọa trong vô sự.
+                <br/><Indent />Lại không nên trên Bồ đoàn ngồi như chết. Nếu tạp niệm dấy khởi, càng tranh đấu càng nhiều chi bằng nhẹ nhàng buông xả, bước xuống đất đi một vòng. Lại lên bồ đoàn mở mắt, để hai bàn tay ngón cái gối đầu nhau, xương sống thẳng lên, y như trước đề khởi thoại đầu, liền có cảm giác mát mẻ, in như trả nước sôi vừa đổ vào một gáo nước
               </mark>
             </details>
 
@@ -131,8 +133,8 @@ const { lang } = Astro.params;
                 08. Ghi Am Chơn Thiền sư dạy
               </summary>
               <mark>
-
-                Tin có 10 phần, nghi cũng có 10 phần ; nghi 10 phần, ngộ cũng 10 phần. Hãy đem những cái đã nghe, đã thấy, biết quấy, hiểu lầm, câu hay, lời diệu, thiền đạo, Phật pháp, tâm cống cao ngã mạn … trong lúc bình sanh trút đổ triệt để. Chỉ để lại công án còn chưa minh liễu, an định tại gót chân, ngồi thẳng xương sống, không phân biệt ngày đêm, liền được quên lửng đông, tây, nam, bắc, tợ hồ như người chết. Tâm tùy cảnh hóa, tự nhiên bên trong quên suy nghĩ, bặt tâm thức, chợt phá vỡ đầu lâu, xưa nay không phải do ai mà được. Bấy giờ đâu không thỏa chí bình sanh sao !
+                <Indent />Tin có 10 phần, nghi cũng có 10 phần ; nghi 10 phần, ngộ cũng 10 phần.
+                <br/><Indent />Hãy đem những cái đã nghe, đã thấy, biết quấy, hiểu lầm, câu hay, lời diệu, thiền đạo, Phật pháp, tâm cống cao ngã mạn … trong lúc bình sanh trút đổ triệt để. Chỉ để lại công án còn chưa minh liễu, an định tại gót chân, ngồi thẳng xương sống, không phân biệt ngày đêm, liền được quên lửng đông, tây, nam, bắc, tợ hồ như người chết. Tâm tùy cảnh hóa, tự nhiên bên trong quên suy nghĩ, bặt tâm thức, chợt phá vỡ đầu lâu, xưa nay không phải do ai mà được. Bấy giờ đâu không thỏa chí bình sanh sao !
               </mark>
             </details>
 
@@ -141,10 +143,9 @@ const { lang } = Astro.params;
                 09. Đại Huệ Cảo Thiền sư đáp lời hỏi
               </summary>
               <mark>
-
-                Thời nay có những kẻ tự mắt chưa sáng, chỉ biết dạy người tu tâm như ngây, như chết là hết việc. Hoặc dạy người tùy duyên quán xét, mang vọng tình lặng lẽ chiếu soi. Hoặc dạy người việc ấy chớ soi xét. Các bệnh như thế, dụng công phu rất uổng không bao giờ liễu ngộ. Chỉ cần an tâm một chỗ, không việc gì chẳng được, một khi thời tiết nhơn duyên đến, tự nhiên xúc chạm liền thấy khắp nơi đều bừng sáng.
-                Đem tâm thức duyên việc thế gian trần tục của mình, xoay lại để trên lầu Bát nhã, dù đời này chưa triệt ngộ, nhưng khi chết nhất định không bị ác nghiệp kéo lôi. Kiếp sau, vừa ra đời là được ở trong nhà Bát nhã, thấy nghe liền được thọ dụng. Việc này quyết định như vậy không thể nghi ngờ.
-                Chỉ phải tự luôn luôn đề khởi thoại đầu, khi vọng niệm dấy khởi không cần dụng tâm đàn áp, nên khán câu thoại đầu. Đi cũng đề khởi, ngồi cũng đề khởi, đề khởi qua, đề khởi lại, không cần xét ý nghĩa, nơi nào cũng là chỗ tốt, không nên phóng xả. Bỗng nhiên tâm hoa khai phát chiếu soi khắp mười phương cõi nước, hay ở trong đầu mảy lông hiện các cõi Phật, ngồi trong hạt bụi chuyển đại pháp luân.
+                <Indent />Thời nay có những kẻ tự mắt chưa sáng, chỉ biết dạy người tu tâm như ngây, như chết là hết việc. Hoặc dạy người tùy duyên quán xét, mang vọng tình lặng lẽ chiếu soi. Hoặc dạy người việc ấy chớ soi xét. Các bệnh như thế, dụng công phu rất uổng không bao giờ liễu ngộ. Chỉ cần an tâm một chỗ, không việc gì chẳng được, một khi thời tiết nhơn duyên đến, tự nhiên xúc chạm liền thấy khắp nơi đều bừng sáng.
+                <br/><Indent />Đem tâm thức duyên việc thế gian trần tục của mình, xoay lại để trên lầu Bát nhã, dù đời này chưa triệt ngộ, nhưng khi chết nhất định không bị ác nghiệp kéo lôi. Kiếp sau, vừa ra đời là được ở trong nhà Bát nhã, thấy nghe liền được thọ dụng. Việc này quyết định như vậy không thể nghi ngờ.
+                <br/><Indent />Chỉ phải tự luôn luôn đề khởi thoại đầu, khi vọng niệm dấy khởi không cần dụng tâm đàn áp, nên khán câu thoại đầu. Đi cũng đề khởi, ngồi cũng đề khởi, đề khởi qua, đề khởi lại, không cần xét ý nghĩa, nơi nào cũng là chỗ tốt, không nên phóng xả. Bỗng nhiên tâm hoa khai phát chiếu soi khắp mười phương cõi nước, hay ở trong đầu mảy lông hiện các cõi Phật, ngồi trong hạt bụi chuyển đại pháp luân.
               </mark>
             </details>
 
@@ -153,25 +154,52 @@ const { lang } = Astro.params;
                 10. Mông Sơn Dị Thiền sư dạy chúng
               </summary>
               <mark>
-
-                Tôi năm 20 tuổi mới hiểu đạo, đến năm 32 tuổi đi thưa hỏi 17, 18 vị Trưởng lão, thế nào thực hành công phu, đều không ai chỉ ra manh mối. Sau đến tham học với Hoàng Sơn Trưởng lão, dạy khán chữ KHÔNG. Suốt cả ngày đêm chăm chăm khán nó như mèo rình chuột, như gà ấp trứng, không cho gián đoạn. Khi chưa thấu triệt phải như chuột khoét rương chưa phủng thì không dời chỗ khác. Thực hành công phu như vậy nhất định có ngày phát minh. Tôi y lời dạy, ngày đêm chăm chăm thể cứu trải 18 hôm, sau khi uống trà, chợt ngộ "Đức Thế Tôn đưa cành hoa, Ngài Ca Diếp mỉm cười", vui mừng vô hạn. Đi cầu 4, 5 vị Trưởng lão quyết nghi, các ngài đều không dạy một lời. Hoặc bảo dùng Hải ấn tam muội , nhất ấn mà ấn định, ngoài ra chớ để lòng. Tôi tin lời nầy hơn hai năm. Nhằm năm Cảnh Định thứ 5 tháng sáu, tại Tứ Xuyên phủ Trùng Khánh, tôi bị bệnh kiết nặng, ngày đêm đi cả trăm lần, nguy kịch sắp chết. Tất cả công phu đều không đắc lực, đến Hải ấn Tam muội cũng không dùng được. Những điều hiểu ngộ ngày trước dùng cũng không được, có miệng không thể nói ra lời, có thân không thể cử động, chỉ chờ chết mà thôi. Tôi cố sức gắng gượng làm chủ, phân phó mọi việc xong xuôi, bước lên bồ đoàn, sửa soạn một lò trầm, chậm rãi ngồi định. Thầm khấn: "Tam bảo Long Thiên chứng giám, con xin sám hối các nghiệp ác về trước. Nếu đại hạn con đã đến, nguyện nương sức Bát nhã chánh niệm thác sanh, sớm được xuất gia. Nếu bệnh được lành, con xin xả tục làm Tăng, mau được giác ngộ, rộng độ những kẻ sau". Khởi nguyện nầy rồi, tôi đề khởi chữ KHÔNG hồi quang tự khán, không bao lâu nghe trong tạng phủ động ba bốn lần, không quan tâm đến nó, chập lâu mí mắt không động. Lại lâu lâu không thấy có thân, chỉ có thoại đầu thầm thầm liên
-                Đến chiều mới xuất định, bệnh bớt được phân nửa. Lại tọa thiền đến cuối canh ba, các bệnh đều dứt, thân tâm nhẹ nhàng. Đến tháng 8, tôi sang Giang Lăng xuất gia.
-                Qua một năm, tôi rời đây đi hành khước, giữa đường dừng lại thổi cơm, hiểu được công phu một mạch liên tục không gián đoạn. Đến Huỳnh Long, vào tạm trú. Một hôm, đang tọa thiền ma ngủ đến, liền tại tòa chấn chỉnh tinh thần, ma ngủ nhẹ nhẹ rút lui. Lần thứ hai, ma ngủ lại đến, cũng làm như lần trước chúng thối lui. Lần thứ ba, ma ngủ rất trầm trọng, bèn bước xuống tòa đi lễ Phật, chúng liền tiêu tán. Lại lên Bồ đoàn ngồi, y như nghi thức đã định trước, tinh tấn mãnh liệt đuổi bọn ma ngủ đi mất. Ban đầu khi ngủ dùng gối ngắn kê đầu, sau dùng cánh tay gối đầu, sau nữa giữ không cho thân xoay trở. Qua hai ba đêm, ngày đêm đều nhọc nhằn mỏi mệt, dưới chân bức bách khó chịu, bỗng nhiên trước mắt như mây mù tan, tự thân như tắm mới ra nhẹ nhàng mát mẻ. Trong tâm nghi tình càng mạnh, không cần dụng công mà thầm thầm hiện tiền. Tất cả thinh sắc, ngũ dục, bát phong đều không thể xâm nhập, trong sạch tợ như tách pha lê đựng tuyết, như bầu trời trong tạnh buổi sáng mùa thu. Tự suy nghĩ công phu tuy khả quan, nhưng không thể quyết trạch. Tôi liền từ giã đi Chiết Giang.
-                Dọc đường quá nhọc nhằn nên công phu thối thất. Đến Thừa Thiên, chỗ Cô Thiềm Hòa thượng tạm dừng. Tự thệ : "Nếu không được hội ngộ, quyết không đi đâu". Hơn một tháng công phu phục hồi như cũ. Bấy giờ khắp mình sanh ghẻ lở, tuy thế không để ý đến, quyết tâm liều chết sấn sướt công phu, tự nhiên được đắc lực. Thế là, thực hành được công phu trong lúc bệnh. Một hôm nhơn đi thọ trai, vừa ra khỏi cửa đề khởi thoại đầu, đi mà không hay mình đi cho đến nhà trai chủ. Lại thực hành được công phu trong lúc động. Công phu đến chỗ này như trăng hoa dưới đáy nước, tuy sóng gió ầm ầm ở trên mà vẫn không tan, không mất, hoạt bát linh động.
-                Ngày mùng 6 tháng 3, tôi trong khi tọa thiền đề khởi chữ KHÔNG, bỗng ngài Thủ tọa vào thiền đường thắp hương, đụng hộp nhang khua lên tiếng, hốt nhiên như dưới đất động một tiếng, chợt ngộ được chính mình, thấu đạt được ý ngài Triệu Châu. Liền đắc ý một bài tụng :
-                Chớ bảo cuối đường cùng,
-                Dẫm ngược sóng là nước.
-                Lão Triệu Châu siêu quần,
-                Diện mục chỉ như thế. (1)
-                Khoảng mùa thu đến yết kiến các vị Đại lão : An Kiến, Tuyết Nham, Thối Tỉnh, Thạch Khanh, Hư Chu. Hư Chu khuyên trở về Hoàng Sơn. Tôi y lời trở về Hoàng Sơn.
-                Vừa vào chùa gặp Hoàng Sơn Trưởng lão hỏi : "Quang minh tịch chiếu biến hà sa, đâu không phải lời của Tú Tài Trương Chuyết ?". Tôi vừa mở miệng, Ngài nạt một tiếng, rồi đi. Từ đây, đi, ngồi, ăn uống đều không còn ý tứ, trải qua sáu tháng. Đến năm sau vào mùa xuân, nhơn ra ngoài thành trở về, lên bực thang đá, bỗng nhiên nghi ngại trong lòng đều tiêu tan, không còn biết có thân đi trên đường. Tôi vào yết kiến Hoàng Sơn. Ngài hỏi lại câu trước. Tôi bèn lật ngược thiền sàng. Về trước những phương pháp thực hành, bao nhiêu công án, giờ này mỗi mỗi đều minh liễu.
-                Chư nhơn giả ! Tham thiền rất là tinh mật, tôi nếu không bị bệnh nặng ở Trùng Khánh có thể một đời đã trôi xuôi. Cần thiết gặp bậc thầy thấy biết chơn chánh. Cho nên, cổ nhơn sáng tham học, chiều thưa (1) Nguyên văn : Một hưng lộ đầu cùng
-                Đạp phiên ba thị thủy
-                Triệu Châu lão siêu quần
-                Diện mục chỉ như thị
-                Khoảng mùa thu đến yết kiến các vị Đại lão : An Kiến, Tuyết Nham, Thối Tỉnh, Thạch Khanh, Hư Chu. Hư Chu khuyên trở về Hoàng Sơn. Tôi y lời trở về Hoàng Sơn.
-                Vừa vào chùa gặp Hoàng Sơn Trưởng lão hỏi : "Quang minh tịch chiếu biến hà sa, đâu không phải lời của Tú Tài Trương Chuyết ?". Tôi vừa mở miệng, Ngài nạt một tiếng, rồi đi. Từ đây, đi, ngồi, ăn uống đều không còn ý tứ, trải qua sáu tháng. Đến năm sau vào mùa xuân, nhơn ra ngoài thành trở về, lên bực thang đá, bỗng nhiên nghi ngại trong lòng đều tiêu tan, không còn biết có thân đi trên đường. Tôi vào yết kiến Hoàng Sơn. Ngài hỏi lại câu trước. Tôi bèn lật ngược thiền sàng. Về trước những phương pháp thực hành, bao nhiêu công án, giờ này mỗi mỗi đều minh liễu.
-                Chư nhơn giả ! Tham thiền rất là tinh mật, tôi nếu không bị bệnh nặng ở Trùng Khánh có thể một đời đã trôi xuôi. Cần thiết gặp bậc thầy thấy biết chơn chánh. Cho nên, cổ nhơn sáng tham học, chiều thưa hỏi để quyết trạch thân tâm, chăm chăm khẩn thiết tham cứu cho thấu đáo việc này.
+                <Indent />Tôi năm 20 tuổi mới hiểu đạo, đến năm 32 tuổi đi thưa hỏi 17, 18 vị Trưởng lão, thế nào thực hành công phu, đều không ai chỉ ra manh mối.
+                Sau đến tham học với Hoàng Sơn Trưởng lão, dạy khán chữ KHÔNG.
+                Suốt cả ngày đêm chăm chăm khán nó như mèo rình chuột, như gà ấp trứng, không cho gián đoạn.
+                <br/><Indent />Khi chưa thấu triệt phải như chuột khoét rương chưa phủng thì không dời chỗ khác.
+                Thực hành công phu như vậy nhất định có ngày phát minh.
+                Tôi y lời dạy, ngày đêm chăm chăm thể cứu trải 18 hôm, sau khi uống trà, chợt ngộ "Đức Thế Tôn đưa cành hoa, Ngài Ca Diếp mỉm cười", vui mừng vô hạn.
+                Đi cầu 4, 5 vị Trưởng lão quyết nghi, các ngài đều không dạy một lời.
+                Hoặc bảo dùng Hải ấn tam muội , nhất ấn mà ấn định, ngoài ra chớ để lòng.
+                Tôi tin lời nầy hơn 2 năm.
+                <br/><Indent />Nhằm năm Cảnh Định thứ 5 tháng sáu, tại Tứ Xuyên phủ Trùng Khánh, tôi bị bệnh kiết nặng, ngày đêm đi cả trăm lần, nguy kịch sắp chết.
+                Tất cả công phu đều không đắc lực, đến Hải ấn Tam muội cũng không dùng được.
+                Những điều hiểu ngộ ngày trước dùng cũng không được, có miệng không thể nói ra lời, có thân không thể cử động, chỉ chờ chết mà thôi.
+                Tôi cố sức gắng gượng làm chủ, phân phó mọi việc xong xuôi, bước lên bồ đoàn, sửa soạn một lò trầm, chậm rãi ngồi định.
+                Thầm khấn: "Tam bảo Long Thiên chứng giám, con xin sám hối các nghiệp ác về trước.
+                Nếu đại hạn con đã đến, nguyện nương sức Bát nhã chánh niệm thác sanh, sớm được xuất gia. Nếu bệnh được lành, con xin xả tục làm Tăng, mau được giác ngộ, rộng độ những kẻ sau". Khởi nguyện nầy rồi, tôi đề khởi chữ KHÔNG hồi quang tự khán, không bao lâu nghe trong tạng phủ động ba bốn lần, không quan tâm đến nó, chập lâu mí mắt không động. Lại lâu lâu không thấy có thân, chỉ có thoại đầu thầm thầm liên
+                <br/><Indent />Đến chiều mới xuất định, bệnh bớt được phân nửa.
+                Lại tọa thiền đến cuối canh ba, các bệnh đều dứt, thân tâm nhẹ nhàng.
+                Đến tháng 8, tôi sang Giang Lăng xuất gia.
+                Qua một năm, tôi rời đây đi hành khước, giữa đường dừng lại thổi cơm, hiểu được công phu một mạch liên tục không gián đoạn.
+                Đến Huỳnh Long, vào tạm trú. Một hôm, đang tọa thiền ma ngủ đến, liền tại tòa chấn chỉnh tinh thần, ma ngủ nhẹ nhẹ rút lui.
+                Lần thứ hai, ma ngủ lại đến, cũng làm như lần trước chúng thối lui. Lần thứ ba, ma ngủ rất trầm trọng, bèn bước xuống tòa đi lễ Phật, chúng liền tiêu tán.
+                Lại lên Bồ đoàn ngồi, y như nghi thức đã định trước, tinh tấn mãnh liệt đuổi bọn ma ngủ đi mất. Ban đầu khi ngủ dùng gối ngắn kê đầu, sau dùng cánh tay gối đầu, sau nữa giữ không cho thân xoay trở. Qua hai ba đêm, ngày đêm đều nhọc nhằn mỏi mệt, dưới chân bức bách khó chịu, bỗng nhiên trước mắt như mây mù tan, tự thân như tắm mới ra nhẹ nhàng mát mẻ. Trong tâm nghi tình càng mạnh, không cần dụng công mà thầm thầm hiện tiền. Tất cả thinh sắc, ngũ dục, bát phong đều không thể xâm nhập, trong sạch tợ như tách pha lê đựng tuyết, như bầu trời trong tạnh buổi sáng mùa thu. Tự suy nghĩ công phu tuy khả quan, nhưng không thể quyết trạch. Tôi liền từ giã đi Chiết Giang.
+                <br/><Indent />Dọc đường quá nhọc nhằn nên công phu thối thất. Đến Thừa Thiên, chỗ Cô Thiềm Hòa thượng tạm dừng.
+                Tự thệ : "Nếu không được hội ngộ, quyết không đi đâu". Hơn một tháng công phu phục hồi như cũ.
+                Bấy giờ khắp mình sanh ghẻ lở, tuy thế không để ý đến, quyết tâm liều chết sấn sướt công phu, tự nhiên được đắc lực.
+                Thế là, thực hành được công phu trong lúc bệnh. Một hôm nhơn đi thọ trai, vừa ra khỏi cửa đề khởi thoại đầu, đi mà không hay mình đi cho đến nhà trai chủ.
+                Lại thực hành được công phu trong lúc động. Công phu đến chỗ này như trăng hoa dưới đáy nước, tuy sóng gió ầm ầm ở trên mà vẫn không tan, không mất, hoạt bát linh động.
+                <br/><Indent />Ngày mùng 6 tháng 3, tôi trong khi tọa thiền đề khởi chữ KHÔNG, bỗng ngài Thủ tọa vào thiền đường thắp hương, đụng hộp nhang khua lên tiếng, hốt nhiên như dưới đất động một tiếng, chợt ngộ được chính mình, thấu đạt được ý ngài Triệu Châu. Liền đắc ý một bài tụng :
+                <br/><Indent />Chớ bảo cuối đường cùng,
+                <br/><Indent />Dẫm ngược sóng là nước.
+                <br/><Indent />Lão Triệu Châu siêu quần,
+                <br/><Indent />Diện mục chỉ như thế. (1)
+                <br/><Indent />Khoảng mùa thu đến yết kiến các vị Đại lão : An Kiến, Tuyết Nham, Thối Tỉnh, Thạch Khanh, Hư Chu. Hư Chu khuyên trở về Hoàng Sơn.
+                Tôi y lời trở về Hoàng Sơn.
+                <br/><Indent />Vừa vào chùa gặp Hoàng Sơn Trưởng lão hỏi : "Quang minh tịch chiếu biến hà sa, đâu không phải lời của Tú Tài Trương Chuyết ?".
+                Tôi vừa mở miệng, Ngài nạt một tiếng, rồi đi. Từ đây, đi, ngồi, ăn uống đều không còn ý tứ, trải qua sáu tháng. Đến năm sau vào mùa xuân, nhơn ra ngoài thành trở về, lên bực thang đá, bỗng nhiên nghi ngại trong lòng đều tiêu tan, không còn biết có thân đi trên đường. Tôi vào yết kiến Hoàng Sơn. Ngài hỏi lại câu trước. Tôi bèn lật ngược thiền sàng. Về trước những phương pháp thực hành, bao nhiêu công án, giờ này mỗi mỗi đều minh liễu.
+                <br/><Indent />Chư nhơn giả ! Tham thiền rất là tinh mật, tôi nếu không bị bệnh nặng ở Trùng Khánh có thể một đời đã trôi xuôi.
+                Cần thiết gặp bậc thầy thấy biết chơn chánh. Cho nên, cổ nhơn sáng tham học, chiều thưa (1) Nguyên văn : Một hưng lộ đầu cùng
+                <br/><Indent />Đạp phiên ba thị thủy
+                <br/><Indent />Triệu Châu lão siêu quần
+                <br/><Indent />Diện mục chỉ như thị
+                <br/><Indent />Khoảng mùa thu đến yết kiến các vị Đại lão : An Kiến, Tuyết Nham, Thối Tỉnh, Thạch Khanh, Hư Chu. Hư Chu khuyên trở về Hoàng Sơn. Tôi y lời trở về Hoàng Sơn.
+                <br/><Indent />Vừa vào chùa gặp Hoàng Sơn Trưởng lão hỏi : "Quang minh tịch chiếu biến hà sa, đâu không phải lời của Tú Tài Trương Chuyết ?".
+                Tôi vừa mở miệng, Ngài nạt một tiếng, rồi đi. Từ đây, đi, ngồi, ăn uống đều không còn ý tứ, trải qua sáu tháng. Đến năm sau vào mùa xuân, nhơn ra ngoài thành trở về, lên bực thang đá, bỗng nhiên nghi ngại trong lòng đều tiêu tan, không còn biết có thân đi trên đường. Tôi vào yết kiến Hoàng Sơn. Ngài hỏi lại câu trước. Tôi bèn lật ngược thiền sàng. Về trước những phương pháp thực hành, bao nhiêu công án, giờ này mỗi mỗi đều minh liễu.
+                <br/><Indent />Chư nhơn giả ! Tham thiền rất là tinh mật, tôi nếu không bị bệnh nặng ở Trùng Khánh có thể một đời đã trôi xuôi.
+                Cần thiết gặp bậc thầy thấy biết chơn chánh. Cho nên, cổ nhơn sáng tham học, chiều thưa hỏi để quyết trạch thân tâm, chăm chăm khẩn thiết tham cứu cho thấu đáo việc này.
               </mark>
             </details>
 
@@ -180,8 +208,9 @@ const { lang } = Astro.params;
                 11. Tố Am Điền Đại sĩ dạy Chúng
               </summary>
               <mark>
-
-                Gần đây những người dốc chí tham thiền rất ít, vừa tham câu thoại đầu liền bị ma hôn trầm, tán loạn lôi cuốn. Không biết hôn trầm, tán loạn với nghi tình chống đối nhau. Tín tâm nặng thì nghi tình nhiều, nghi tình nhiều thì hôn trầm, tán loạn tự mất.
+                Gần đây những người dốc chí tham thiền rất ít, vừa tham câu thoại đầu liền bị ma hôn trầm, tán loạn lôi cuốn.
+                Không biết hôn trầm, tán loạn với nghi tình chống đối nhau.
+                <br/><Indent />Tín tâm nặng thì nghi tình nhiều, nghi tình nhiều thì hôn trầm, tán loạn tự mất.
               </mark>
             </details>
 
@@ -200,7 +229,6 @@ const { lang } = Astro.params;
                 13. Cương Nhu Thiền sư đáp thơ người
               </summary>
               <mark>
-
                 Thực tập công phu cần phải khởi đại nghi tình. Ông tập công phu chưa đầy một tháng đã kết thành khối. Nếu chơn nghi hiện tiền thì dù khuấy cũng không động. Cần phải dõng mãnh tiến tới, trọn ngày như kẻ ngây khờ, khi thời tiết đến, không còn sợ con qui trong vò chạy mất.
               </mark>
             </details>
@@ -210,13 +238,33 @@ const { lang } = Astro.params;
                 14. Tuyết Nham Khâm Thiền sư dạy
               </summary>
               <mark>
-
-                Thời giờ không đợi người, một chớp mắt đã qua đời khác, lúc thân thể còn tráng kiện sao không dốc chí học hỏi cho thấu nguồn tột đáy. Chúng ta có cái diễm phúc gì mà ngày nay được ở trong Tăng đường ấm cúng, tại pháp hội của Tổ sư, trên ngọn danh sơn Đại trạch Thần long thế giới này. Ăn thì cơm cháo ngon lành, uống thì nước nôi ấm áp. Nếu không dốc chí học hỏi giáo lý cho tận cùng, triệt để, là các ông tự thả trôi đời mình cam chịu trôi lăn, thật là kẻ hạ liệt ngu si! Nếu thật là mờ mịt không biết, sao không thưa hỏi các bậc tiên tri ? Phàm những khi có người hỏi đạo, các bậc Trưởng lão chỉ dạy, hoặc nói ngang nói dọc sao không ghi nhớ xét nghĩ rốt ráo thử cái đó là cái gì ?
-                Sơn tăng (Ngài tự xưng) xuất gia lúc năm tuổi, làm thị giả thượng nhơn, mỗi khi Ngài cùng khách luận đạo đều lặng tâm lóng nghe, liền biết có việc này, lòng tin chắc chắn khởi sự học tọa thiền. Năm 16 tuổi làm Tăng, 18 tuổi đi hành khước. Đến chỗ Hòa Thượng Song Lâm Viễn, thực tập công phu từ sáng đến chiều không ra khỏi ngõ, dù vào liêu của chúng cũng chỉ đi đến giá phía sau. Vòng tay trước ngực, không ngó hai bên, chỉ nhìn trước không hơn ba thước. Ban đầu khán chữ KHÔNG, chợt niệm đầu phát khởi, liền phản quán trở lại, bỗng được một niệm như băng lạnh, tâm lóng lặng trong trẻo không diêu động, hơn một ngày và khoảng một khắc (15 phút) không nghe tiếng chuông trống.
-                Năm tôi 19 tuổi dừng tại Linh Ẩn, được thơ Xử Châu gởi đến. Trong thơ nói : "Nghe ông thực tập công phu như nước lạnh, việc ấy không hay, hai tướng động và tịnh phải đoạn dứt. Phàm tham thiền phải khởi nghi tình, nghi ít ngộ ít, nghi nhiều ngộ nhiều…". Được Xử Châu chỉ bảo, tôi liền đổi thoại đầu khán "càn niệu quyết" . Một bề đông nghi tây nghi, khán ngang khán dọc, lại bị hôn trầm, tán loạn giao công, không được một khắc yên tịnh. Tôi bèn dời sang Tịnh Từ. Được bảy huynh đệ kết bạn tọa thiền, giao ước không đấp mền và không kề lưng xuống chiếu. Ngoài ra, có Tu Thượng tọa mỗi ngày ngồi trên bồ đoàn in tuồng "thiết quyết tử"  khi bước xuống đi mở đôi mắt, xuôi hai tay cũng tợ "thiết quyết tử". Muốn gần gũi Ngài để hỏi thoại đầu, mà không được. Nhơn hai năm thân không nằm, bị hôn trầm hành rất khổ sở. Bèn một buông, tất cả đều buông. Sau hai tháng, mới chỉnh đốn được sự tu tập trước, lần lần tinh thần hồi
-                Một hôm, bên hành lang gặp Tu Thượng-tọa, mới một lần được gặp Ngài. Tôi liền hỏi : "Năm rồi, muốn nhờ thầy dạy câu thoại đầu, tại sao thầy cứ tránh tôi ?". Thượng tọa bảo : "Người chơn chánh biện đạo không có rảnh mà cắt móng tay, huống là dạy thoại đầu". Tôi hỏi : "Hiện giờ tôi bị hôn trầm, tán loạn đuổi không đi, phải làm sao ?". Thượng tọa dạy : "Tại ông không mãnh liệt, phải lên Bồ đoàn ngồi thẳng xương sống, gom toàn lực vào câu thoại đầu, không màng đến hôn trầm, tán loạn". Tôi y lời dạy của Thượng tọa thực hành công phu, bỗng nhiên quên cả thân tâm, trong trẻo sáng suốt cả ba ngày đêm, hai con mắt không nhắm. Ngày thứ ba, sau buổi ngọ trai, tôi kinh hành ngoài tam môn, chợt gặp Thượng tọa. Thượng tọa hỏi : "Ông thực hành công phu thế nào ?". Tôi thưa : "Được đạo". Thượng tọa hỏi : "Ông nói thế nào được đạo ?". Tôi lặng thinh không thể trả lời, lại tăng thêm mê muội. Toan quay vào thiền đường tọa thiền, chợt gặp Thủ tọa. Thủ tọa bảo : "Ông chỉ mở sáng đôi mắt, xem thử cái ấy là cái gì ?". Tôi lại bị đề thêm một câu thoại đầu, vội vã vào Thiền đường tọa Thiền. Vừa lên ngồi Bồ đoàn, bỗng nhiên trước mặt mở sáng như tuồng đất lỡ. Trạng thái này không thể trình bày cho người hiểu được, không thể lấy các tướng thế gian thí dụ được. Tôi bèn bước xuống đơn tìm Thượng tọa. Thượng tọa thấy, liền bảo : "Tốt lắm ! tốt lắm". Rồi nắm tay tôi dẫn đi một vòng trên bờ liễu trước cửa chùa. Ngước nhìn trời đất xum la vạn tượng, những vật mắt thấy tai nghe xưa nay là đáng chán, đáng bỏ, cho đến vô minh, phiền não từ trước đến giờ đều là Diệu minh của mình, lưu xuất từ chơn tánh. Hơn nửa tháng không khởi xao động. Rất tiếc ! không gặp bậc Tôn túc sáng suốt hướng dẫn nên không tiến lên được, phải dừng trụ nơi đây. Không thể vượt được chỗ thấy biết, làm ngăn ngại chánh tri kiến, mỗi khi ngủ cảnh khác lúc thức. Chỉ thú của công án thì lý hội, còn "núi bạc vách sắt" (1) thì không hiểu. Tuy gần gũi những vị Tiên sư chưa đạt đạo, cũng nhiều năm nhập thất, thăng tòa, mà không có một lời nào giải quyết được sự nghi ngại trong tâm. Trong kinh giáo và những lời Ngữ lục cũng không cứu được bệnh này. Ôm ấp cái nghi này trong lòng ngót 10 năm.
-                Một hôm, ở Thiên mục, tôi kinh hành trên điện Phật, mắt chợt thấy một gốc Bá cổ, vừa thất liền phát (1) Núi bạc vách sắt : Linh tánh cao vút khó với tới, thí dụ như núi bạc vách sắt khó vịn được.
-                tỉnh, cảnh giới được lâu nay là vật ngăn ngại, chợt nhiên tiêu tán, như trong nhà tối hiện mặt trời. Từ đây không còn nghi sanh, nghi tử, nghi Phật, nghi Tổ mới được thấy chỗ đứng của Kính Sơn Lão Nhơn, vui vẻ an trụ nơi đây 30 năm.
+                <Indent />Thời giờ không đợi người, một chớp mắt đã qua đời khác, lúc thân thể còn tráng kiện sao không dốc chí học hỏi cho thấu nguồn tột đáy.
+                Chúng ta có cái diễm phúc gì mà ngày nay được ở trong Tăng đường ấm cúng, tại pháp hội của Tổ sư, trên ngọn danh sơn Đại trạch Thần long thế giới này.
+                Ăn thì cơm cháo ngon lành, uống thì nước nôi ấm áp. Nếu không dốc chí học hỏi giáo lý cho tận cùng, triệt để, là các ông tự thả trôi đời mình cam chịu trôi lăn, thật là kẻ hạ liệt ngu si!
+                Nếu thật là mờ mịt không biết, sao không thưa hỏi các bậc tiên tri ? Phàm những khi có người hỏi đạo, các bậc Trưởng lão chỉ dạy, hoặc nói ngang nói dọc sao không ghi nhớ xét nghĩ rốt ráo thử cái đó là cái gì ?
+                <br/><Indent />Sơn tăng (Ngài tự xưng) xuất gia lúc năm tuổi, làm thị giả thượng nhơn, mỗi khi Ngài cùng khách luận đạo đều lặng tâm lóng nghe, liền biết có việc này, lòng tin chắc chắn khởi sự học tọa thiền. Năm 16 tuổi làm Tăng, 18 tuổi đi hành khước.
+                Đến chỗ Hòa Thượng Song Lâm Viễn, thực tập công phu từ sáng đến chiều không ra khỏi ngõ, dù vào liêu của chúng cũng chỉ đi đến giá phía sau. Vòng tay trước ngực, không ngó hai bên, chỉ nhìn trước không hơn ba thước.
+                Ban đầu khán chữ KHÔNG, chợt niệm đầu phát khởi, liền phản quán trở lại, bỗng được một niệm như băng lạnh, tâm lóng lặng trong trẻo không diêu động, hơn một ngày và khoảng một khắc (15 phút) không nghe tiếng chuông trống.
+                <br/><Indent />Năm tôi 19 tuổi dừng tại Linh Ẩn, được thơ Xử Châu gởi đến.
+                Trong thơ nói : "Nghe ông thực tập công phu như nước lạnh, việc ấy không hay, hai tướng động và tịnh phải đoạn dứt. Phàm tham thiền phải khởi nghi tình, nghi ít ngộ ít, nghi nhiều ngộ nhiều…". Được Xử Châu chỉ bảo, tôi liền đổi thoại đầu khán "càn niệu quyết".
+                Một bề đông nghi tây nghi, khán ngang khán dọc, lại bị hôn trầm, tán loạn giao công, không được một khắc yên tịnh. Tôi bèn dời sang Tịnh Từ. Được bảy huynh đệ kết bạn tọa thiền, giao ước không đấp mền và không kề lưng xuống chiếu. Ngoài ra, có Tu Thượng tọa mỗi ngày ngồi trên bồ đoàn in tuồng "thiết quyết tử"  khi bước xuống đi mở đôi mắt, xuôi hai tay cũng tợ "thiết quyết tử".
+                Muốn gần gũi Ngài để hỏi thoại đầu, mà không được. Nhơn hai năm thân không nằm, bị hôn trầm hành rất khổ sở. Bèn một buông, tất cả đều buông. Sau hai tháng, mới chỉnh đốn được sự tu tập trước, lần lần tinh thần hồi
+                <br/><Indent />Một hôm, bên hành lang gặp Tu Thượng-tọa, mới một lần được gặp Ngài.
+                Tôi liền hỏi : "Năm rồi, muốn nhờ thầy dạy câu thoại đầu, tại sao thầy cứ tránh tôi ?".
+                Thượng tọa bảo : "Người chơn chánh biện đạo không có rảnh mà cắt móng tay, huống là dạy thoại đầu". Tôi hỏi : "Hiện giờ tôi bị hôn trầm, tán loạn đuổi không đi, phải làm sao ?".
+                Thượng tọa dạy : "Tại ông không mãnh liệt, phải lên Bồ đoàn ngồi thẳng xương sống, gom toàn lực vào câu thoại đầu, không màng đến hôn trầm, tán loạn".
+                Tôi y lời dạy của Thượng tọa thực hành công phu, bỗng nhiên quên cả thân tâm, trong trẻo sáng suốt cả ba ngày đêm, hai con mắt không nhắm.
+                Ngày thứ ba, sau buổi ngọ trai, tôi kinh hành ngoài tam môn, chợt gặp Thượng tọa.
+                Thượng tọa hỏi : "Ông thực hành công phu thế nào ?". Tôi thưa : "Được đạo". Thượng tọa hỏi : "Ông nói thế nào được đạo ?".
+                Tôi lặng thinh không thể trả lời, lại tăng thêm mê muội. Toan quay vào thiền đường tọa thiền, chợt gặp Thủ tọa.
+                Thủ tọa bảo : "Ông chỉ mở sáng đôi mắt, xem thử cái ấy là cái gì ?". Tôi lại bị đề thêm một câu thoại đầu, vội vã vào Thiền đường tọa Thiền.
+                Vừa lên ngồi Bồ đoàn, bỗng nhiên trước mặt mở sáng như tuồng đất lỡ.
+                <br/><Indent />Trạng thái này không thể trình bày cho người hiểu được, không thể lấy các tướng thế gian thí dụ được.
+                Tôi bèn bước xuống đơn tìm Thượng tọa. Thượng tọa thấy, liền bảo : "Tốt lắm ! tốt lắm". Rồi nắm tay tôi dẫn đi một vòng trên bờ liễu trước cửa chùa.
+                Ngước nhìn trời đất xum la vạn tượng, những vật mắt thấy tai nghe xưa nay là đáng chán, đáng bỏ, cho đến vô minh, phiền não từ trước đến giờ đều là Diệu minh của mình, lưu xuất từ chơn tánh. Hơn nửa tháng không khởi xao động. Rất tiếc ! không gặp bậc Tôn túc sáng suốt hướng dẫn nên không tiến lên được, phải dừng trụ nơi đây.
+                Không thể vượt được chỗ thấy biết, làm ngăn ngại chánh tri kiến, mỗi khi ngủ cảnh khác lúc thức. Chỉ thú của công án thì lý hội, còn "núi bạc vách sắt" (Linh tánh cao vút khó với tới, thí dụ như núi bạc vách sắt khó vịn được) thì không hiểu.
+                Tuy gần gũi những vị Tiên sư chưa đạt đạo, cũng nhiều năm nhập thất, thăng tòa, mà không có một lời nào giải quyết được sự nghi ngại trong tâm. Trong kinh giáo và những lời Ngữ lục cũng không cứu được bệnh này. Ôm ấp cái nghi này trong lòng ngót 10 năm.
+                <br/><Indent />Một hôm, ở Thiên mục, tôi kinh hành trên điện Phật, mắt chợt thấy một gốc Bá cổ, vừa thất liền phát tỉnh, cảnh giới được lâu nay là vật ngăn ngại, chợt nhiên tiêu tán, như trong nhà tối hiện mặt trời. Từ đây không còn nghi sanh, nghi tử, nghi Phật, nghi Tổ mới được thấy chỗ đứng của Kính Sơn Lão Nhơn, vui vẻ an trụ nơi đây 30 năm.
               </mark>
             </details>
 
@@ -225,11 +273,10 @@ const { lang } = Astro.params;
                 15. Cao Phong Diệu Thiền Sư dạy Chúng
               </summary>
               <mark>
-
-                Việc này chỉ cần người có tâm tha thiết, vừa phát tâm tha thiết chơn nghi liền khởi. Nghi qua, nghi lại, không nghi tự nghi, từ sáng đến chiều vuốt đầu rút đuôi làm thành một khối. Khuấy không động, đuổi không đi, sáng suốt linh diệu, thường hiện ở trước, đây là khi đắc lực. Lại phải sát định chánh niệm, cẩn thận không khởi nhị tâm, đến đi mà không biết mình đi, ngồi không biết mình ngồi, lạnh, nóng, đói, khát, tất cả đều không biết, cảnh giới này hiện tiền tức là tin tức sắp đến nhà. Nắm thì tới, bắt thì được, chỉ còn đợi thời khắc mà thôi. Lại không nên nghe nói như thế, rồi khởi tâm tinh tấn cầu nó, cũng không được đem tâm đợi nó, không được buông, không được bỏ, chỉ cần ngưng đọng chánh niệm, lấy ngộ làm qui tắc. Chính khi ấy, có tám muôn bốn ngàn quân ma rình rập trước căn môn (1) của ông, tất cả việc kỳ quái, thiện ác … tùy tâm ông mà hiện. Ông vừa khởi một mảy may tâm nhiễm trước, liền rơi vào rọ của ma, bị chúng làm chủ, chịu chúng chỉ huy, miệng nói lời ma, thân làm việc ma, chánh nhơn Bát nhã từ đây hằng mất, hạt giống Bồ đề không thể nẩy mầm. Chỉ dừng khởi tâm như quỷ giữ thây ma, giữ qua giữ lại, khối nghi bỗng nhiên nổ một tiếng kinh thiên động địa.
-                Tôi 15 tuổi xuất gia, 20 tuổi được đắp y, đến Tịnh Từ lập nguyện bốn năm liều chết học thiền. Ban đầu học với Đoạn Kiều Hòa thượng, dạy tham cứu "sanh từ đâu đến, chết trở về đâu ?" Ý phân hai đường, tâm không qui nhất. Sau yết kiến Tuyết Nham Hòa thượng, dạy khán chữ KHÔNG. Lại dạy mỗi ngày đến trình một lần, như người đi đường mỗi ngày cần thấy công trình, nhơn thấy nói mới có thứ tự. Rốt sau, đến Ngài không hỏi chỗ công phu. Một hôm vào cửa, Ngài hỏi : "Ai cùng ông kéo tử thi đến ?"  Tiếng chưa dứt, Ngài liền đi ra. Sau đến Kinh Sơn, vừa vào thiền đường, tôi như trong mộng chợt nhớ câu "Muôn pháp về một, một về chỗ nào ?". Từ đây nghi tình phát hiện, không còn phân biệt đông, tây, nam, bắc. Ngày thứ sáu ở đây, theo chúng lên gác tụng kinh, vừa ngước đầu nhìn lên chợt thấy bài Chơn tán của Ngũ tổ Diễn Hòa thượng, hai câu sau :
-                "Trăm năm ba vạn sáu ngàn ngày,
-                Gắng công suy xét nguyên lai là gì"
+                <Indent />Việc này chỉ cần người có tâm tha thiết, vừa phát tâm tha thiết chơn nghi liền khởi. Nghi qua, nghi lại, không nghi tự nghi, từ sáng đến chiều vuốt đầu rút đuôi làm thành một khối. Khuấy không động, đuổi không đi, sáng suốt linh diệu, thường hiện ở trước, đây là khi đắc lực. Lại phải sát định chánh niệm, cẩn thận không khởi nhị tâm, đến đi mà không biết mình đi, ngồi không biết mình ngồi, lạnh, nóng, đói, khát, tất cả đều không biết, cảnh giới này hiện tiền tức là tin tức sắp đến nhà. Nắm thì tới, bắt thì được, chỉ còn đợi thời khắc mà thôi. Lại không nên nghe nói như thế, rồi khởi tâm tinh tấn cầu nó, cũng không được đem tâm đợi nó, không được buông, không được bỏ, chỉ cần ngưng đọng chánh niệm, lấy ngộ làm qui tắc. Chính khi ấy, có tám muôn bốn ngàn quân ma rình rập trước căn môn (1) của ông, tất cả việc kỳ quái, thiện ác … tùy tâm ông mà hiện. Ông vừa khởi một mảy may tâm nhiễm trước, liền rơi vào rọ của ma, bị chúng làm chủ, chịu chúng chỉ huy, miệng nói lời ma, thân làm việc ma, chánh nhơn Bát nhã từ đây hằng mất, hạt giống Bồ đề không thể nẩy mầm. Chỉ dừng khởi tâm như quỷ giữ thây ma, giữ qua giữ lại, khối nghi bỗng nhiên nổ một tiếng kinh thiên động địa.
+                <br/><Indent />Tôi 15 tuổi xuất gia, 20 tuổi được đắp y, đến Tịnh Từ lập nguyện bốn năm liều chết học thiền. Ban đầu học với Đoạn Kiều Hòa thượng, dạy tham cứu "sanh từ đâu đến, chết trở về đâu ?" Ý phân hai đường, tâm không qui nhất. Sau yết kiến Tuyết Nham Hòa thượng, dạy khán chữ KHÔNG. Lại dạy mỗi ngày đến trình một lần, như người đi đường mỗi ngày cần thấy công trình, nhơn thấy nói mới có thứ tự. Rốt sau, đến Ngài không hỏi chỗ công phu. Một hôm vào cửa, Ngài hỏi : "Ai cùng ông kéo tử thi đến ?"  Tiếng chưa dứt, Ngài liền đi ra. Sau đến Kinh Sơn, vừa vào thiền đường, tôi như trong mộng chợt nhớ câu "Muôn pháp về một, một về chỗ nào ?". Từ đây nghi tình phát hiện, không còn phân biệt đông, tây, nam, bắc. Ngày thứ sáu ở đây, theo chúng lên gác tụng kinh, vừa ngước đầu nhìn lên chợt thấy bài Chơn tán của Ngũ tổ Diễn Hòa thượng, hai câu sau :
+                <br/><Indent />"Trăm năm ba vạn sáu ngàn ngày,
+                <br/><Indent />Gắng công suy xét nguyên lai là gì"
               </mark>
             </details>
 
@@ -238,25 +285,25 @@ const { lang } = Astro.params;
                 16. Thiết Sơn Ái Thiền sư dạy
               </summary>
               <mark>
-
-                Sơn tăng 13 tuổi biết được Phật pháp, 18 tuổi xuất gia, 20 tuổi làm Tăng. Trước đến Thạch Sương, được Am chủ dạy luôn luôn quán chót mũi trắng, tâm được thanh tịnh. Sau có vị Tăng từ Tuyết Nham đến, trình bày phương pháp tọa thiền do Ngài Tuyết Nham dạy. Xét lại công phu của tôi chưa từng được qua lối ấy. Nhơn đó, tôi đến Tuyết Nham. Ngài dạy thực hành công phu chỉ đề một chữ KHÔNG. Tôi y đó tu tập, đến đêm thứ tư toàn thân mồ hôi ra ướt dầm, được mười phần trong sáng. Kế vào Tăng đường, tôi không nói chuyện với ai, chỉ chuyên tâm vào sự tọa thiền.
-                Sau đến yết kiến Diệu Cao Phong. Ngài dạy : "Suốt cả ngày đêm thoại đầu chớ cho gián đoạn. Canh tư thức dậy theo đuổi thoại đầu sẽ được hiện trước mắt. Vừa biết ma ngủ đến, liền đứng dậy đi kinh hành vẫn giữ thoại đầu, khi đi mỗi bước không rời thoại đầu. Dọn đơn, rửa bát, cất muỗng, dẹp đũa, theo chúng làm việc… đều không rời thoại đầu. Ban ngày, ban đêm đều cũng như vậy, nhào nặn thành một khối, chắc chắn sẽ được phát minh". Theo lời dạy của Ngài Cao Phong, tôi thực hành công phu quả nhiên kết thành một khối.
-                Ngày 20 tháng 3, Ngài Tuyết Nham lên Thiền đường bảo: "Chư huynh đệ ! Nếu ngồi lâu trên bồ đoàn bị ngủ gật, nên bước xuống đất, đi một vòng, lấy nước lạnh súc miệng, rửa hai con mắt, lại lên bồ đoàn ngồi thẳng xương sống như vách đứng ngàn trượng, đề khởi câu thoại đầu. Dụng công như thế quyết định 7 ngày được ngộ. Lối đó là 40 năm về trước, Sơn tăng đã áp dụng công phu".
-                Tôi y lời dạy này thực hành, liền biết có công phu dị thường. Ngày thứ hai, cặp mắt muốn nhắm mà không thể nhắm. Ngày thứ ba, thân này như đi giữa hư không. Ngày thứ tư, không còn biết tới việc thế gian. Đêm ấy, đứng dựa lan can một chút, lặng nhiên không biết, kiểm điểm lại thoại đầu vẫn không mất. Trở vào lên bồ đoàn ngồi chợt nghe từ đầu đến chân tợ như đầu lâu chẻ vỡ, in tuồng dưới đáy giếng sâu muôn trượng được đưa lên hư không. Khi ấy, vui mừng vô hạn. Tôi đem việc này thuật lại Ngài Tuyết Nham. Ngài bảo : "Chưa phải". Lại trở về thực hành công phu, mong được pháp ngữ. Chuyến sau, Ngài bảo :
-                "Nối dòng Phật, Tổ việc hướng thượng,
-                Sau ót trước đây thiếu một chùy".
-                Nguyên văn : Thiệu long Phật, Tổ hướng thượng sự,
-                Não hậu y tiền khiếm nhất chùy.
-                Trong tâm tự hỏi, tại sao lại "thiếu một chùy ?". Không tin việc này, liền khởi nghi, không thể tự giải quyết được. Mỗi ngày chồng chập tọa thiền sắp được nửa năm. Một hôm, nhơn nhức đầu chưng thuốc, gặp Giác Xích Tỷ, tri khách, hỏi : "Thái tử Na Tra lóc thịt trả cho mẹ, cắt xương trả cho cha là sao ?". Nghe hiểu mà không thể đáp, bỗng nhiên phá vỡ khối nghi.
-                Sau đến tham học với ngài Mông Sơn. Sơn hỏi : "Tham thiền công phu đến chỗ nào là cùng tột ?". Liền im lặng không biết mối manh. Sơn dạy : "Lại phải thực hành định lực công phu, gột sạch tập tục thế gian". Mỗi khi vào thất chỉ nhớ "thiếu một chùy". Một hôm, từ ban mai tọa thiền đến suốt đêm, dùng định lực dồn ép, liền được thấy u vi. Khi xuất định gặp Sơn, bèn thuật lại cảnh này. Sơn bảo: "Cái ấy là bản lai diện mục của ông". Vừa muốn nói, Sơn liền đóng cửa. Từ đây, công phu mỗi ngày càng đến chỗ mầu nhiệm. Bởi vì rời ngài Tuyết Nham sớm quá, nên thực hành công phu chưa từng đến chỗ tế mật. Rất may ! Lại được gặp bậc Thầy khuôn mẫu, mới đạt đến chỗ này. Lâu nay nhờ thực hành công phu khẩn thiết cùng cực, nên hiện tại giờ giờ ngộ nhập, bước bước sạch trong. Một hôm, nhìn trên vách thấy bài Minh Tín Tâm của Tam tổ rằng :
-                "Về nguồn được ý chỉ,
-                Tùy chiếu mất chơn tông"
-                Lại gọt thêm một lớp nữa. Ngài Mông Sơn bảo : "Việc này in như mài giũa hạt châu, càng giũa thì càng sáng, càng sáng thì càng trong sạch. Giũa một lần, hơn nhiều đời khác thực hành công phu". Nhưng, tuy nói vậy, chữ "thiếu" vẫn còn ở trong tâm. Một hôm trong định, chợt chạm đến chữ "thiếu", bỗng nhiên thân tâm rỗng rang, triệt xương thấu tủy, như tuyết đọng hốt nhiên chảy tan, siêu việt không còn ngăn ngại. Liền bước xuống đất tìm Mông Sơn thưa : "Tôi thiếu cái gì ?" Sơn đánh ba cái, tôi lễ ba lễ. Sơn bảo : "Thiết Sơn chỉ một cái đó mà mấy năm rồi, đến nay mới liễu ngộ".
-                Chư huynh đệ ! Nếu tạm thời câu thoại đầu không còn, có khác gì người chết. Tất cả cảnh giới đến bức bách thân, chỉ lấy câu thoại đầu chống lại. Luôn luôn kiểm điểm thoại đầu, xét trong động, trong tịnh và đắc lực hay không đắc lực. Trong định cũng không nên quên thoại đầu, quên thoại đầu thì thành tà định. Không được khởi tâm mong chờ được ngộ. Không nên tìm hiểu trên văn tự. Đừng thấy xúc chạm chút ít cho là đã liễu ngộ. Chỉ nên như si như ngốc, Phật pháp, thế pháp nhồi thành một khối. Thi vi động tác chỉ là tầm thường, chỉ cần thay đổi đường lối của ngày xưa. Cổ nhơn nói :
-                Đại đạo xưa nay chẳng dụng lời,
-                Nghĩ bàn huyền diệu cách vực trời,
-                Chi bằng quên cả năng và sở,
-                Mới khá đói ăn, mệt nghỉ ngơi
+                <Indent />Sơn tăng 13 tuổi biết được Phật pháp, 18 tuổi xuất gia, 20 tuổi làm Tăng. Trước đến Thạch Sương, được Am chủ dạy luôn luôn quán chót mũi trắng, tâm được thanh tịnh. Sau có vị Tăng từ Tuyết Nham đến, trình bày phương pháp tọa thiền do Ngài Tuyết Nham dạy. Xét lại công phu của tôi chưa từng được qua lối ấy. Nhơn đó, tôi đến Tuyết Nham. Ngài dạy thực hành công phu chỉ đề một chữ KHÔNG. Tôi y đó tu tập, đến đêm thứ tư toàn thân mồ hôi ra ướt dầm, được mười phần trong sáng. Kế vào Tăng đường, tôi không nói chuyện với ai, chỉ chuyên tâm vào sự tọa thiền.
+                <br/><Indent />Sau đến yết kiến Diệu Cao Phong. Ngài dạy : "Suốt cả ngày đêm thoại đầu chớ cho gián đoạn. Canh tư thức dậy theo đuổi thoại đầu sẽ được hiện trước mắt. Vừa biết ma ngủ đến, liền đứng dậy đi kinh hành vẫn giữ thoại đầu, khi đi mỗi bước không rời thoại đầu. Dọn đơn, rửa bát, cất muỗng, dẹp đũa, theo chúng làm việc… đều không rời thoại đầu. Ban ngày, ban đêm đều cũng như vậy, nhào nặn thành một khối, chắc chắn sẽ được phát minh". Theo lời dạy của Ngài Cao Phong, tôi thực hành công phu quả nhiên kết thành một khối.
+                <br/><Indent />Ngày 20 tháng 3, Ngài Tuyết Nham lên Thiền đường bảo: "Chư huynh đệ ! Nếu ngồi lâu trên bồ đoàn bị ngủ gật, nên bước xuống đất, đi một vòng, lấy nước lạnh súc miệng, rửa hai con mắt, lại lên bồ đoàn ngồi thẳng xương sống như vách đứng ngàn trượng, đề khởi câu thoại đầu. Dụng công như thế quyết định 7 ngày được ngộ. Lối đó là 40 năm về trước, Sơn tăng đã áp dụng công phu".
+                <br/><Indent />Tôi y lời dạy này thực hành, liền biết có công phu dị thường. Ngày thứ hai, cặp mắt muốn nhắm mà không thể nhắm. Ngày thứ ba, thân này như đi giữa hư không. Ngày thứ tư, không còn biết tới việc thế gian. Đêm ấy, đứng dựa lan can một chút, lặng nhiên không biết, kiểm điểm lại thoại đầu vẫn không mất. Trở vào lên bồ đoàn ngồi chợt nghe từ đầu đến chân tợ như đầu lâu chẻ vỡ, in tuồng dưới đáy giếng sâu muôn trượng được đưa lên hư không. Khi ấy, vui mừng vô hạn. Tôi đem việc này thuật lại Ngài Tuyết Nham. Ngài bảo : "Chưa phải". Lại trở về thực hành công phu, mong được pháp ngữ. Chuyến sau, Ngài bảo :
+                <br/><Indent />"Nối dòng Phật, Tổ việc hướng thượng,
+                <br/><Indent />Sau ót trước đây thiếu một chùy".
+                <br/><Indent />Nguyên văn:
+                <br/><Indent />Thiệu long Phật, Tổ hướng thượng sự,
+                <br/><Indent />Não hậu y tiền khiếm nhất chùy.
+                <br/><Indent />Trong tâm tự hỏi, tại sao lại "thiếu một chùy ?". Không tin việc này, liền khởi nghi, không thể tự giải quyết được. Mỗi ngày chồng chập tọa thiền sắp được nửa năm. Một hôm, nhơn nhức đầu chưng thuốc, gặp Giác Xích Tỷ, tri khách, hỏi : "Thái tử Na Tra lóc thịt trả cho mẹ, cắt xương trả cho cha là sao ?". Nghe hiểu mà không thể đáp, bỗng nhiên phá vỡ khối nghi.
+                <br/><Indent />Sau đến tham học với ngài Mông Sơn. Sơn hỏi : "Tham thiền công phu đến chỗ nào là cùng tột ?". Liền im lặng không biết mối manh. Sơn dạy : "Lại phải thực hành định lực công phu, gột sạch tập tục thế gian". Mỗi khi vào thất chỉ nhớ "thiếu một chùy". Một hôm, từ ban mai tọa thiền đến suốt đêm, dùng định lực dồn ép, liền được thấy u vi. Khi xuất định gặp Sơn, bèn thuật lại cảnh này. Sơn bảo: "Cái ấy là bản lai diện mục của ông". Vừa muốn nói, Sơn liền đóng cửa. Từ đây, công phu mỗi ngày càng đến chỗ mầu nhiệm. Bởi vì rời ngài Tuyết Nham sớm quá, nên thực hành công phu chưa từng đến chỗ tế mật. Rất may ! Lại được gặp bậc Thầy khuôn mẫu, mới đạt đến chỗ này. Lâu nay nhờ thực hành công phu khẩn thiết cùng cực, nên hiện tại giờ giờ ngộ nhập, bước bước sạch trong. Một hôm, nhìn trên vách thấy bài Minh Tín Tâm của Tam tổ rằng :
+                <br/><Indent />"Về nguồn được ý chỉ,
+                <br/><Indent />Tùy chiếu mất chơn tông"
+                <br/><Indent />Lại gọt thêm một lớp nữa. Ngài Mông Sơn bảo : "Việc này in như mài giũa hạt châu, càng giũa thì càng sáng, càng sáng thì càng trong sạch. Giũa một lần, hơn nhiều đời khác thực hành công phu". Nhưng, tuy nói vậy, chữ "thiếu" vẫn còn ở trong tâm. Một hôm trong định, chợt chạm đến chữ "thiếu", bỗng nhiên thân tâm rỗng rang, triệt xương thấu tủy, như tuyết đọng hốt nhiên chảy tan, siêu việt không còn ngăn ngại. Liền bước xuống đất tìm Mông Sơn thưa : "Tôi thiếu cái gì ?" Sơn đánh ba cái, tôi lễ ba lễ. Sơn bảo : "Thiết Sơn chỉ một cái đó mà mấy năm rồi, đến nay mới liễu ngộ".
+                <br/><Indent />Chư huynh đệ ! Nếu tạm thời câu thoại đầu không còn, có khác gì người chết. Tất cả cảnh giới đến bức bách thân, chỉ lấy câu thoại đầu chống lại. Luôn luôn kiểm điểm thoại đầu, xét trong động, trong tịnh và đắc lực hay không đắc lực. Trong định cũng không nên quên thoại đầu, quên thoại đầu thì thành tà định. Không được khởi tâm mong chờ được ngộ. Không nên tìm hiểu trên văn tự. Đừng thấy xúc chạm chút ít cho là đã liễu ngộ. Chỉ nên như si như ngốc, Phật pháp, thế pháp nhồi thành một khối. Thi vi động tác chỉ là tầm thường, chỉ cần thay đổi đường lối của ngày xưa. Cổ nhơn nói :
+                <br/><Indent />Đại đạo xưa nay chẳng dụng lời,
+                <br/><Indent />Nghĩ bàn huyền diệu cách vực trời,
+                <br/><Indent />Chi bằng quên cả năng và sở,
+                <br/><Indent />Mới khá đói ăn, mệt nghỉ ngơi
               </mark>
             </details>
 
@@ -265,8 +312,8 @@ const { lang } = Astro.params;
                 17. Đoạn Nhai Nghĩa Thiền sư dạy Chúng
               </summary>
               <mark>
-
-                Nếu muốn siêu phàm nhập thánh thoát khỏi trần lao, phải nên lột da, chẻ xương, dứt hẳn tái sanh, như trong tro lạnh phát lửa, cây khô nảy chồi, đâu phải là việc dễ dàng. Tôi trước kia hầu hạ Tiên sư đã nhiều năm, mỗi khi bị đánh phạt, tâm không khởi một niệm xa lìa. Cho đến ngày nay khi gặp những việc đau khổ, bất giác nhớ đến Thầy mà rơi nước mắt! Đâu phải như các ông hiện giờ, gặp một việc khổ nhỏ là bỏ Thầy ra đi không thèm ngó trở lại !
+                <Indent />Nếu muốn siêu phàm nhập thánh thoát khỏi trần lao, phải nên lột da, chẻ xương, dứt hẳn tái sanh, như trong tro lạnh phát lửa, cây khô nảy chồi, đâu phải là việc dễ dàng. Tôi trước kia hầu hạ Tiên sư đã nhiều năm, mỗi khi bị đánh phạt, tâm không khởi một niệm xa lìa.
+                <br/><Indent />Cho đến ngày nay khi gặp những việc đau khổ, bất giác nhớ đến Thầy mà rơi nước mắt! Đâu phải như các ông hiện giờ, gặp một việc khổ nhỏ là bỏ Thầy ra đi không thèm ngó trở lại !
               </mark>
             </details>
 
@@ -275,11 +322,10 @@ const { lang } = Astro.params;
                 18. Trung Phong Bổn Thiền sư dạy chúng
               </summary>
               <mark>
-
-                Tiên sư Cao Phong Hòa thượng dạy người, chỉ dạy tham câu thoại đầu, ôm ấp trong lòng, đi tham  như thế, ngồi cũng tham như thế. Khi tham đến chỗ dụng lực không tới, lưu ý không được, chợt nhiên thấu đạt, mới biết thành Phật đã tự bao giờ. Một việc ấy, là do Phật, Tổ đã kinh nghiệm được cái tam muội liễu sanh thoát tử vậy. Chỉ quí ở chỗ tin quả quyết và trải thời gian lâu xa không thối chuyển, quyết định sẽ được tương ưng.
-                Khán thoại đầu thực hành công phu là chỗ đứng rất ổn đáng, gần gũi bờ giác ngộ. Dù đời nầy không ngộ, tín tâm vẫn không lui sụt, ắt đời sau hoặc đời sau nữa sẽ được khai ngộ.
-                Hoặc hai ba mươi năm mà chưa khai ngộ, không cần tìm phương tiện nào lạ, chỉ giữ tâm không duyên cảnh khác, ý dứt các vọng, chăm chăm không bỏ, một bề chú ý vào câu thoại đầu đang tham, đứng thẳng tại cuối đầu, giữ vững sống cùng sống, chết cùng chết. Đâu quản ba đời, năm đời, mười đời, một trăm đời, nếu chưa triệt ngộ, quyết định không thôi. Có cái chánh nhơn như thế rồi, lo gì đại sự không có ngày minh liễu.
-                Trong lúc bệnh thật hành công phu, không cần ông tinh tấn dõng mãnh, cũng không cần mày chau, mắt trợn, chỉ cần tâm ông như cây như đá, tợ hồ như đống tro tàn. Đem thân tứ đại huyễn hóa này gởi tận thế giới bên kia. Dù nó bệnh cũng được, chết cũng được, có người săn sóc cũng được, không ai săn sóc cũng được, thơm sạch cũng được, lầy thúi cũng được, có thầy trị lành bệnh sống đến 120 tuổi cũng được, nếu như chết liền bị nghiệp trước lôi vào vạc dầu sôi, lò lửa đỏ cũng được. Trong những cảnh giới như thế, đều không làm lay động được tâm, chỉ thiết tha đem câu thoại đầu (không cần xét ý nghĩa) để bên lò thuốc, gối trên đầu nằm, thầm thầm tham chiếu, không nên lơi lỏng.
+                <Indent />Tiên sư Cao Phong Hòa thượng dạy người, chỉ dạy tham câu thoại đầu, ôm ấp trong lòng, đi tham  như thế, ngồi cũng tham như thế. Khi tham đến chỗ dụng lực không tới, lưu ý không được, chợt nhiên thấu đạt, mới biết thành Phật đã tự bao giờ. Một việc ấy, là do Phật, Tổ đã kinh nghiệm được cái tam muội liễu sanh thoát tử vậy. Chỉ quí ở chỗ tin quả quyết và trải thời gian lâu xa không thối chuyển, quyết định sẽ được tương ưng.
+                <br/><Indent />Khán thoại đầu thực hành công phu là chỗ đứng rất ổn đáng, gần gũi bờ giác ngộ. Dù đời nầy không ngộ, tín tâm vẫn không lui sụt, ắt đời sau hoặc đời sau nữa sẽ được khai ngộ.
+                <br/><Indent />Hoặc hai ba mươi năm mà chưa khai ngộ, không cần tìm phương tiện nào lạ, chỉ giữ tâm không duyên cảnh khác, ý dứt các vọng, chăm chăm không bỏ, một bề chú ý vào câu thoại đầu đang tham, đứng thẳng tại cuối đầu, giữ vững sống cùng sống, chết cùng chết. Đâu quản ba đời, năm đời, mười đời, một trăm đời, nếu chưa triệt ngộ, quyết định không thôi. Có cái chánh nhơn như thế rồi, lo gì đại sự không có ngày minh liễu.
+                <br/><Indent />Trong lúc bệnh thật hành công phu, không cần ông tinh tấn dõng mãnh, cũng không cần mày chau, mắt trợn, chỉ cần tâm ông như cây như đá, tợ hồ như đống tro tàn. Đem thân tứ đại huyễn hóa này gởi tận thế giới bên kia. Dù nó bệnh cũng được, chết cũng được, có người săn sóc cũng được, không ai săn sóc cũng được, thơm sạch cũng được, lầy thúi cũng được, có thầy trị lành bệnh sống đến 120 tuổi cũng được, nếu như chết liền bị nghiệp trước lôi vào vạc dầu sôi, lò lửa đỏ cũng được. Trong những cảnh giới như thế, đều không làm lay động được tâm, chỉ thiết tha đem câu thoại đầu (không cần xét ý nghĩa) để bên lò thuốc, gối trên đầu nằm, thầm thầm tham chiếu, không nên lơi lỏng.
               </mark>
             </details>
 
@@ -288,15 +334,14 @@ const { lang } = Astro.params;
                 19. Thiên Như Tắc Thiền sư dạy
               </summary>
               <mark>
-
-                Sanh không biết từ đâu đến, gọi là sanh đại. Tử không biết về đâu, gọi là tử đại. Khi tử thần đến chỉ còn biết co tay giựt chơn. Huống nữa, đường trước mịt mờ theo nghiệp thọ báo, thực là cái việc rất khẩn cấp vậy. Cái đó là cảnh quả báo của sanh tử. Nếu luận về gốc nghiệp sanh tử, tức là ngày nay phóng tâm chạy theo thinh, sắc khiến phải thất điên bát đảo, chính là gốc ở nó. Do đó, Phật, Tổ vận đại từ bi hoặc dạy ông tham thoại đầu, hoặc dạy niệm Phật, khiến ông quét sạch vọng niệm, nhận ra mặt thật xưa nay (bản lai diện mục), làm cái việc khoáng đạt đại giải thoát.
-                Nhưng, người nay tu không linh nghiệm bởi ba thứ bệnh :
-                1- Không gặp Thiện tri thức chỉ dạy.
-                2- Không thống thiết ghi nhớ việc lớn sanh tử, lửng lơ thong thả không ngờ mình ở trong vô sự.
-                3- Đối với danh hư, lợi ảo ở thế gian quán không tan, buông không rời, lên ngồi trên bồ đoàn mà vọng duyên ác tập đoạn không được, bỏ không khỏi. Chỗ phong ba dấy động, bất giác thân này lăn vào trong biển nghiệp, trôi dạt đông tây.
-                Người chơn chánh học đạo đâu có cam chịu như vậy. Phải tin quyết lời Tổ sư dạy : "Tạp niệm lăng xăng làm sao hạ thủ công phu ? Chỉ một câu thoại đầu như cầm cây chổi sắt quét dọn, càng quét nó càng nhiều, càng nhiều lại càng quét, quét xuôi không được thì quét ngược, hốt nhiên quét tận thái hư không, muôn sai ngàn biệt một đường suốt thấu". Chư thiện đức ! nỗ lực đời này cho liễu ngộ, đừng để vĩnh kiếp thọ tai ương.
-                Có người tự nghi niệm Phật cùng tham thiền không đồng ? Đâu biết rằng, tham thiền chỉ mong biết được tâm, thấy được tánh; niệm Phật ngộ tự tánh Di Đà duy tâm Tịnh độ, làm gì có hai lý. Kinh nói : "Nhớ Phật, niệm Phật hiện tiền và đời sau quyết định thấy Phật". Đã nói hiện tiền thấy Phật thì cùng với tham thiền ngộ đạo, đâu có cái gì là khác ?
-                Chỉ đem bốn chữ A Di Đà Phật làm câu thoại đầu, suốt 12 thời (24 giờ) luôn luôn đề khởi, đến chỗ một niệm không sanh, không mắc trong giai cấp vượt thẳng đến cõi Phật.
+                <Indent />Sanh không biết từ đâu đến, gọi là sanh đại. Tử không biết về đâu, gọi là tử đại. Khi tử thần đến chỉ còn biết co tay giựt chơn. Huống nữa, đường trước mịt mờ theo nghiệp thọ báo, thực là cái việc rất khẩn cấp vậy. Cái đó là cảnh quả báo của sanh tử. Nếu luận về gốc nghiệp sanh tử, tức là ngày nay phóng tâm chạy theo thinh, sắc khiến phải thất điên bát đảo, chính là gốc ở nó. Do đó, Phật, Tổ vận đại từ bi hoặc dạy ông tham thoại đầu, hoặc dạy niệm Phật, khiến ông quét sạch vọng niệm, nhận ra mặt thật xưa nay (bản lai diện mục), làm cái việc khoáng đạt đại giải thoát.
+                <br/><Indent />TNhưng, người nay tu không linh nghiệm bởi ba thứ bệnh :
+                <br/><Indent />T1- Không gặp Thiện tri thức chỉ dạy.
+                <br/><Indent />T2- Không thống thiết ghi nhớ việc lớn sanh tử, lửng lơ thong thả không ngờ mình ở trong vô sự.
+                <br/><Indent />T3- Đối với danh hư, lợi ảo ở thế gian quán không tan, buông không rời, lên ngồi trên bồ đoàn mà vọng duyên ác tập đoạn không được, bỏ không khỏi. Chỗ phong ba dấy động, bất giác thân này lăn vào trong biển nghiệp, trôi dạt đông tây.
+                <br/><Indent />Người chơn chánh học đạo đâu có cam chịu như vậy. Phải tin quyết lời Tổ sư dạy : "Tạp niệm lăng xăng làm sao hạ thủ công phu ? Chỉ một câu thoại đầu như cầm cây chổi sắt quét dọn, càng quét nó càng nhiều, càng nhiều lại càng quét, quét xuôi không được thì quét ngược, hốt nhiên quét tận thái hư không, muôn sai ngàn biệt một đường suốt thấu". Chư thiện đức ! nỗ lực đời này cho liễu ngộ, đừng để vĩnh kiếp thọ tai ương.
+                <br/><Indent />Có người tự nghi niệm Phật cùng tham thiền không đồng ? Đâu biết rằng, tham thiền chỉ mong biết được tâm, thấy được tánh; niệm Phật ngộ tự tánh Di Đà duy tâm Tịnh độ, làm gì có hai lý. Kinh nói : "Nhớ Phật, niệm Phật hiện tiền và đời sau quyết định thấy Phật". Đã nói hiện tiền thấy Phật thì cùng với tham thiền ngộ đạo, đâu có cái gì là khác ?
+                <br/><Indent />Chỉ đem bốn chữ A Di Đà Phật làm câu thoại đầu, suốt 12 thời (24 giờ) luôn luôn đề khởi, đến chỗ một niệm không sanh, không mắc trong giai cấp vượt thẳng đến cõi Phật.
               </mark>
             </details>
 
@@ -306,8 +351,11 @@ const { lang } = Astro.params;
               </summary>
               <mark>
                 <mark>
-
-                  Niệm Phật một, hoặc ba, năm, bảy tiếng, thầm tự hỏi : tiếng niệm Phật này từ đâu khởi ? Hoặc hỏi : Niệm Phật là ai ? Có nghi chỉ giữ lấy cái nghi đó. Nếu chỗ hỏi không thiết tha thì nghi tình không tha thiết. Hỏi trở lại cái câu cứu kính "niệm Phật là ai ?". Hỏi ít thì nghi ít. Chỉ lấy câu "niệm Phật là ai ?" xét mãi hỏi hoài.
+                  <Indent />Niệm Phật một, hoặc ba, năm, bảy tiếng, thầm tự hỏi : tiếng niệm Phật này từ đâu khởi?
+                  <br/><Indent />Hoặc hỏi : Niệm Phật là ai ? Có nghi chỉ giữ lấy cái nghi đó.
+                  <br/><Indent />Nếu chỗ hỏi không thiết tha thì nghi tình không tha thiết.
+                  <br/><Indent />Hỏi trở lại cái câu cứu kính "niệm Phật là ai ?".
+                  <br/><Indent />Hỏi ít thì nghi ít. Chỉ lấy câu "niệm Phật là ai?" xét mãi hỏi hoài.
                 </mark>
               </mark>
             </details>
@@ -531,9 +579,9 @@ const { lang } = Astro.params;
                 Những ngày dụng công, tất cả giờ, tất cả chỗ đều không khởi 2 niệm.
               </mark>
             </details>
-
+            <h1></h1>
             <h4>II. SỰ KHỔ CÔNG TU TẬP CỦA CHƯ TỔ</h4>
-
+            <h1></h1>
             <details>
               <summary class="font-bold">
                 01. Một mình ngồi trong tịnh thất <em>(TS. Đạo An)</em>
@@ -792,9 +840,9 @@ const { lang } = Astro.params;
                 Vô Tế Thiền sư lúc mới thực hành công phu không đọc đến bốn quyển Kinh Lăng Già, và những bản Ngữ lục cũng không xem. Ngài cam chịu mù tối chuyên ròng thực hành độn công phu. Thế mà sau này, Ngài vẫn được đại ngộ.
               </mark>
             </details>
-
+            <h1></h1>
             <h4>III. DẪN CÁC KINH</h4>
-
+            <h1></h1>
             <details>
               <summary class="font-bold">
                 01. Im lặng chuyên cần tu tập <em>(Kinh Trung A Hàm)</em>
@@ -857,8 +905,9 @@ const { lang } = Astro.params;
 
 <style>
   mark {
-    background-color: #dacc6c;
-    font-weight: 700;
-    text-shadow: #042773;
+    background-color: #e8e8e8;
+    font-weight: 600;
+    text-shadow: #c2b303;
+    font-family: Dosis, arial, helvetica, sans-serif;
   }
 </style>

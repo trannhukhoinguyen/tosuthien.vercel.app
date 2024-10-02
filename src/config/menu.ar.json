@@ -12,7 +12,16 @@
         { "name": "زين كوان", "url": "/koans" }
       ]
     },
-    { "name": "روائع", "url": "/masterpieces" },
+    {
+      "name": "روائع",
+      "url": "/masterpieces",
+      "hasChildren": true,
+      "children": [
+        { "name": "روائع", "url": "/masterpieces" },
+        { "name": "Teachings", "url": "/teachings" }
+      ]
+    },
+
     {
       "name": "وسائط",
       "url": "/media",
