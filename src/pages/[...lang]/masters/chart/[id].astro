@@ -10,6 +10,7 @@ export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
     params: {
       lang: lang || undefined,
+      id: id,
     },
   }));
   return paths;
