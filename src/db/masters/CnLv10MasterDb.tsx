@@ -1,6 +1,6 @@
 const CnLv10MasterDb = [
   {
-    id: '42.1',
+    id: '43.10.1',
     name_en: 'Fenyang Shanzhao',
     name_es: 'Fenyang Shanzhao',
     name_de: 'Fenyang Shanzhao',
@@ -24,7 +24,7 @@ const CnLv10MasterDb = [
     koans: ['',],
   },
   {
-    id: '42.2',
+    id: '43.10.2',
     name_en: 'Tiantai Deshao',
     name_es: 'Tiantai Deshao',
     name_de: 'Tiantai Deshao',
@@ -48,7 +48,7 @@ const CnLv10MasterDb = [
     koans: ['',],
   },
   {
-    id: '42.3',
+    id: '43.10.3',
     name_en: 'Xuedou Chongxian',
     name_es: 'Xuedou Chongxian',
     name_de: 'Xuedou Chongxian',

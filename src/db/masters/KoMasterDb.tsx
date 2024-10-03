@@ -1,6 +1,7 @@
 const KoMasterDb = [
   {
     id: '41.101',
+    generation: '41',
     name_en: 'Pŏpgyŏng Hyŏnhwi',
     name_es: 'Pŏpgyŏng Hyŏnhwi',
     name_de: 'Pŏpgyŏng Hyŏnhwi',

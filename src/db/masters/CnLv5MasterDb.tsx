@@ -1,6 +1,7 @@
 const CnLv5MasterDb = [
   {
-    id: '38.1',
+    id: '38.5.1',
+    generation: '38',
     name_en: 'Guifeng Zongmi',
     name_es: 'Guifeng Zongmi',
     name_de: 'Guifeng Zongmi',
@@ -24,7 +25,8 @@ const CnLv5MasterDb = [
     koans: ['',],
   },
   {
-    id: '38.2',
+    id: '38.5.2',
+    generation: '38',
     name_en: 'Dongshan Liangjie',
     name_es: 'Dongshan Liangjie',
     name_de: 'Dongshan Liangjie',
@@ -48,7 +50,8 @@ const CnLv5MasterDb = [
     koans: ['',],
   },
   {
-    id: '38.3',
+    id: '38.5.3',
+    generation: '38',
     hasContent: true,
     name_en: 'Deshan Xuanjian',
     name_es: 'Deshan Xuanjian',
@@ -74,7 +77,8 @@ const CnLv5MasterDb = [
     koans: ['',],
   },
   {
-    id: '38.4',
+    id: '38.5.4',
+    generation: '38',
     name_en: 'Yangshan Huiji',
     name_es: 'Yangshan Huiji',
     name_de: 'Yangshan Huiji',
@@ -98,7 +102,8 @@ const CnLv5MasterDb = [
     koans: ['',],
   },
   {
-    id: '38.5',
+    id: '38.5.5',
+    generation: '38',
     name_en: 'Linji Yixuan',
     name_es: 'Linji Yixuan',
     name_de: 'Linji Yixuan',
@@ -122,7 +127,8 @@ const CnLv5MasterDb = [
     koans: ['',],
   },
   {
-    id: '38.6',
+    id: '38.5.6',
+    generation: '38',
     name_en: 'Muzhou Daoming/Daozong',
     name_es: 'Muzhou Daoming',
     name_de: 'Muzhou Daoming',
@@ -146,7 +152,8 @@ const CnLv5MasterDb = [
     koans: ['',],
   },
   {
-    id: '38.7',
+    id: '38.5.7',
+    generation: '38',
     name_en: 'Pei Xiu',
     name_es: 'Pei Xiu',
     name_de: 'Pei Xiu',
@@ -170,7 +177,8 @@ const CnLv5MasterDb = [
     koans: ['',],
   },
   {
-    id: '38.8',
+    id: '38.5.8',
+    generation: '38',
     name_en: 'Kinzan Dōkin',
     name_es: 'Kinzan Dōkin',
     name_de: 'Kinzan Dōkin',
@@ -194,7 +202,8 @@ const CnLv5MasterDb = [
     koans: ['',],
   },
   {
-    id: '38.9',
+    id: '38.5.9',
+    generation: '38',
     hasContent: true,
     name_en: 'Shishuang Qingzhu',
     name_es: 'Shishuang Qingzhu',

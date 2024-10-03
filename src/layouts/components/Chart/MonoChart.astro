@@ -8,8 +8,8 @@ import {
   supportedLang,
   slugSelector,
 } from "../../../lib/utils/languageParser";
-import type { ContentEntryMap } from "astro:content";
 
+const { id } = Astro.props;
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
     params: { lang: lang || undefined },
@@ -19,6 +19,7 @@ export function getStaticPaths() {
 
 let lang = getLangFromUrl(Astro.url);
 
+const masterPeakId = id;
 const maximumDisciples = 3;
 const disabledLanguages = config.settings.disable_languages as string[];
 if (disabledLanguages.includes(lang)) {
@@ -55,31 +56,33 @@ const masterData = flatMasterData.map(masterLv0 =>
 <script>
   import { InMasters, CnMasters }  from "../../../db/masters/AllMasterDb";
   const flatMasterData = [...InMasters, ...CnMasters].flat();
-  const masterData = flatMasterData.map(masterLv0 =>
-    ({
-      id: 1,
-      level: 1,
-      name: masterLv0.name_en,
+  const masterData = flatMasterData.map((master, indexMaster) => {
+    const firstGeneration = master.id === '1' ? master : undefined;
+
+    return {
+      id: master.id,
+      generation: firstGeneration.generation,
+      name: firstGeneration.name_en,
       disciples: flatMasterData
-        ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 2))
-        ?.map(masterLv1 => ({
-          id: flatMasterData
-            ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 2))
-            ?.find(person=> masterLv0.disciples?.includes(person.name_en))?.id,
-          level: 2,
-          name: masterLv1.name_en,
-          disciples: flatMasterData
-            ?.filter(masterLv2 => masterLv2.id === 3)
-            ?.map(masterLv2 => ({
-              id: flatMasterData
-                ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 3))
-                ?.find(person=> masterLv1.disciples?.includes(person.name_en))?.id,
-              level: 3,
-              name: masterLv2?.name_en,
-            })),
-        })),
-    })
-  );
+      ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 2))
+      ?.map(masterLv1 => ({
+        id: flatMasterData
+          ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 2))
+          ?.find(person=> masterLv0.disciples?.includes(person.name_en))?.id,
+        level: 2,
+        name: masterLv1.name_en,
+        disciples: flatMasterData
+          ?.filter(masterLv2 => masterLv2.id === 3)
+          ?.map(masterLv2 => ({
+            id: flatMasterData
+              ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 3))
+              ?.find(person=> masterLv1.disciples?.includes(person.name_en))?.id,
+            level: 3,
+            name: masterLv2?.name_en,
+          })),
+      })),
+    }
+  });
   console.log('masterData', masterData)
 </script>
 <div class="tree">

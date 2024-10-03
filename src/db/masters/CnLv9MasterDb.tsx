@@ -1,6 +1,6 @@
 const CnLv9MasterDb = [
   {
-    id: '41.1',
+    id: '42.9.1',
     name_en: 'Shoushan Xingnian',
     name_es: 'Shoushan Xingnian',
     name_de: 'Shoushan Xingnian',
@@ -24,7 +24,7 @@ const CnLv9MasterDb = [
     koans: ['',],
   },
   {
-    id: '41.2',
+    id: '42.9.2',
     hasContent: true,
     name_en: 'Fayan Wenyi',
     name_es: 'Fayan Wenyi',
@@ -49,7 +49,7 @@ const CnLv9MasterDb = [
     koans: ['',],
   },
   {
-    id: '41.3',
+    id: '42.9.3',
     name_en: 'Zhimen Guangzuo',
     name_es: 'Zhimen Guangzuo',
     name_de: 'Zhimen Guangzuo',

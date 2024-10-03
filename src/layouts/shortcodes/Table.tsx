@@ -5,7 +5,7 @@ import Modal from "@/shortcodes/Modal.tsx";
 
 interface TableProps {
   data: {
-    id: number
+    id: string
     hasContent: boolean | undefined
     name_in: string | undefined
     name_en: string
@@ -140,7 +140,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
               <td>
                 <a
                   target="_blank"
-                  href={ `/masters/chart/${item.id}` }
+                  href={ `/masters/chart/${item.id.toString()}` }
                   title={"see lineage chart of " + item.name_en}
                   className="text-blue-700"
                 >

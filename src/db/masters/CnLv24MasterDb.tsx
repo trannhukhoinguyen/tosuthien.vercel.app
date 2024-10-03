@@ -1,6 +1,6 @@
 const CnLv24MasterDb = [
   {
-    id: '56.1',
+    id: '57.24.1',
     hasContent: true,
     name_en: 'Tenjo Isoku',
     name_es: 'Tenjo Isoku',
@@ -26,7 +26,7 @@ const CnLv24MasterDb = [
     koans: ['',],
   },
   {
-    id: '56.2',
+    id: '57.24.2',
     name_en: 'Kohō Kakumyō',
     name_es: 'Kohō Kakumyō',
     name_de: 'Kohō Kakumyō',
@@ -50,7 +50,7 @@ const CnLv24MasterDb = [
     youtubeId: [''],
   },
   {
-    id: '56.3',
+    id: '57.24.3',
     name_en: 'Sengan Genchō',
     name_es: 'Sengan Genchō',
     name_de: 'Sengan Genchō',

@@ -1,6 +1,7 @@
 const CnLv6MasterDb = [
   {
-    id: '39.1',
+    id: '39.6.1',
+    generation: '39',
     name_en: 'Caoshan Benji',
     name_es: 'Caoshan Benji',
     name_de: 'Caoshan Benji',
@@ -24,7 +25,8 @@ const CnLv6MasterDb = [
     koans: ['',],
   },
   {
-    id: '39.2',
+    id: '39.6.2',
+    generation: '39',
     name_en: 'Xinghua Cunjiang',
     name_es: 'Xinghua Cunjiang',
     name_de: 'Xinghua Cunjiang',
@@ -48,7 +50,8 @@ const CnLv6MasterDb = [
     koans: ['',],
   },
   {
-    id: '39.3',
+    id: '39.6.3',
+    generation: '39',
     name_en: 'Sansheng Huiran',
     name_es: 'Sansheng Huiran',
     name_de: 'Sansheng Huiran',
@@ -72,7 +75,8 @@ const CnLv6MasterDb = [
     koans: ['',],
   },
   {
-    id: '39.4',
+    id: '39.6.4',
+    generation: '39',
     name_en: '陳操',
     name_es: '陳操',
     name_de: '陳操',
@@ -96,7 +100,8 @@ const CnLv6MasterDb = [
     koans: ['Case 6 - BCR','Case 33 - BCR',],
   },
   {
-    id: '39.5',
+    id: '39.6.5',
+    generation: '39',
     name_en: 'Zhangzhuo Xiucai',
     name_es: 'Zhangzhuo Xiucai',
     name_de: 'Zhangzhuo Xiucai',
@@ -120,7 +125,8 @@ const CnLv6MasterDb = [
     koans: ['',],
   },
   {
-    id: '39.6',
+    id: '39.6.6',
+    generation: '39',
     hasContent: true,
     name_en: 'Jiufeng Daoqian',
     name_es: 'Jiufeng Daoqian',
@@ -145,7 +151,8 @@ const CnLv6MasterDb = [
     koans: ['',],
   },
   {
-    id: '39.7',
+    id: '39.6.7',
+    generation: '39',
     name_en: 'Xuefeng Yicun',
     name_es: 'Xuefeng Yicun',
     name_de: 'Xuefeng Yicun',

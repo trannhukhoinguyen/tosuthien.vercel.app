@@ -1,0 +1,36 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
+import type { ContentEntryMap } from "astro:content";
+import { site } from "@/config/config.json";
+import BannerCards from "../../../layouts/components/BannerCards.astro";
+import sectDb from "../../../db/sectDb";
+
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+const { lang } = Astro.params;
+const schools = await getSinglePage(
+  "schools",
+  lang as keyof ContentEntryMap,
+);
+const {
+
+} = await getTranslations(lang as keyof ContentEntryMap);
+---
+
+<Base
+  title={site.title}
+  meta_title={site.meta_title}
+  description={site.meta_description}
+  image={site.meta_image}
+>
+  <div style="text-align: center">
+    <BannerCards sect={sectDb} />
+  </div>
+</Base>

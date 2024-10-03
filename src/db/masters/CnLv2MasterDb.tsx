@@ -1,6 +1,7 @@
 const CnLv2MasterDb = [
   {
-    id: '35.1',
+    id: '35.2.1',
+    generation: '35',
     name_en: 'Shitou Xiqian',
     name_es: 'Shitou Xiqian',
     name_de: 'Shitou Xiqian',
@@ -25,7 +26,8 @@ const CnLv2MasterDb = [
     koans: ['',],
   },
   {
-    id: '35.2',
+    id: '35.2.2',
+    generation: '35',
     name_en: 'Mazu Daoyi',
     name_es: 'Mazu Daoyi',
     name_de: 'Mazu Daoyi',
@@ -50,7 +52,8 @@ const CnLv2MasterDb = [
     koans: ['',],
   },
   {
-    id: '35.3',
+    id: '35.2.3',
+    generation: '35',
     hasContent: true,
     name_en: 'Danyuan Yingzhen',
     name_es: 'Danyuan Yingzhen',
@@ -76,7 +79,8 @@ const CnLv2MasterDb = [
     koans: ['',],
   },
   {
-    id: '35.4',
+    id: '35.2.4',
+    generation: '35',
     name_en: 'Cizhou Faru',
     name_es: 'Cizhou Faru',
     name_de: 'Cizhou Faru',
@@ -101,7 +105,8 @@ const CnLv2MasterDb = [
     koans: ['',],
   },
   {
-    id: '35.5',
+    id: '35.2.5',
+    generation: '35',
     name_en: 'Wutai Wuming',
     name_es: 'Wǔtái Wúmíng',
     name_de: 'Wǔtái Wúmíng',
@@ -126,7 +131,8 @@ const CnLv2MasterDb = [
     koans: ['',],
   },
   {
-    id: '35.6',
+    id: '35.2.6',
+    generation: '35',
     name_en: 'Dàoxuán',
     name_es: 'Dàoxuán',
     name_de: 'Dàoxuán',
@@ -151,7 +157,8 @@ const CnLv2MasterDb = [
     koans: ['',],
   },
   {
-    id: '35.7',
+    id: '35.2.7',
+    generation: '35',
     name_en: 'Nangaku Myōsan',
     name_es: 'Nangaku Myōsan',
     name_de: 'Nangaku Myōsan',
@@ -176,7 +183,8 @@ const CnLv2MasterDb = [
     koans: ['',],
   },
   {
-    id: '35.8',
+    id: '35.2.8',
+    generation: '35',
     name_en: 'Wúxiàng',
     name_es: 'Wúxiàng',
     name_de: 'Wúxiàng',
@@ -201,7 +209,8 @@ const CnLv2MasterDb = [
     koans: ['',],
   },
   {
-    id: '35.9',
+    id: '35.2.9',
+    generation: '35',
     name_en: '峻極',
     name_es: '峻極',
     name_de: '峻極',
@@ -226,7 +235,8 @@ const CnLv2MasterDb = [
     koans: ['',],
   },
   {
-    id: '35.10',
+    id: '35.2.10',
+    generation: '35',
     name_en: 'Hōji',
     name_es: 'Hōji',
     name_de: 'Hōji',
@@ -251,7 +261,8 @@ const CnLv2MasterDb = [
     koans: ['',],
   },
   {
-    id: '35.11',
+    id: '35.2.11',
+    generation: '35',
     name_en: '惟政',
     name_es: '惟政',
     name_de: '惟政',
