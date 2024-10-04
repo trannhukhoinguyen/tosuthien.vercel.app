@@ -138,15 +138,14 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
           currentData.map((item) => (
             <tr key={ item.id }>
               <td>
-                { item.id }
-{/*                <a
+                <a
                   target="_blank"
-                  href={ `/masters/chart/${item.id.toString()}` }
+                  href={ `/masters/chart?id=${item.id}` }
                   title={"see lineage chart of " + item.name_en}
                   className="text-blue-700"
                 >
-                  { item.id }
-                </a>*/}
+                  { item.id }📈
+                </a>
               </td>
               {
                 item.hasContent
