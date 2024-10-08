@@ -705,7 +705,7 @@ const InMasterDb = [
     place: 'Shaolin Temple, Songshan mountain, Dengfeng, Zhengzhou, Henan, China',
     teachers: ['Prajnatara'],
     successors: ['Dazu Huike'],
-    disciples: ['Dazu Huike'],
+    disciples: ['Dazu Huike', 'Đạo Dục', 'Đạo Phó', 'Ni Tổng Trì',],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BodhidharmaYoshitoshi1887.jpg/232px-BodhidharmaYoshitoshi1887.jpg',
     reference: ['',],
 
