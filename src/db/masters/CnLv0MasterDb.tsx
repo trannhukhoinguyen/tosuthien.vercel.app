@@ -19,14 +19,13 @@ const CnLv0MasterDb = [
     place: '-',
     teachers: ['Bodhidharma'],
     successors: ['Jianzhi Sengcan'],
-    disciples: ['Jianzhi Sengcan'],
+    disciples: ['Jianzhi Sengcan', 'Tăng Na', 'Tương Châu Tuệ Mãn', 'Cư sĩ Hướng'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Huike_thinking.jpg/220px-Huike_thinking.jpg',
     reference: [''],
     youtubeId: [''],
-
   },
   {
-    id: '30',
+    id: '30.1',
     generation: '30',
     name_en: 'Jianzhi Sengcan',
     name_es: 'Jianzhi Sengcan',
@@ -49,7 +48,81 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sengcan.jpg/220px-Sengcan.jpg',
     reference: [''],
     youtubeId: [''],
-
+  },
+{
+    id: '30.2',
+    generation: '30',
+    name_en: 'Tăng Na',
+    name_es: 'Tăng Na',
+    name_de: 'Tăng Na',
+    name_fr: 'Tăng Na',
+    name_vi: 'Tăng Na',
+    name_ru: 'Tăng Na',
+    name_zh: 'Tăng Na',
+    name_ja: 'Tăng Na',
+    name_ko: 'Tăng Na',
+    name_ar: 'Tăng Na',
+    birth_death_time: ['?', '?'],
+    records: '',
+    sect: ['-'],
+    country: 'China',
+    place: '-',
+    teachers: ['Dazu Huike'],
+    successors: [''],
+    disciples: [''],
+    image: '',
+    reference: [''],
+    youtubeId: [''],
+  },
+{
+    id: '30.3',
+    generation: '30',
+    name_en: 'Tương Châu Tuệ Mãn',
+    name_es: 'Tương Châu Tuệ Mãn',
+    name_de: 'Tương Châu Tuệ Mãn',
+    name_fr: 'Tương Châu Tuệ Mãn',
+    name_vi: 'Tương Châu Tuệ Mãn',
+    name_ru: 'Tương Châu Tuệ Mãn',
+    name_zh: 'Tương Châu Tuệ Mãn',
+    name_ja: 'Tương Châu Tuệ Mãn',
+    name_ko: 'Tương Châu Tuệ Mãn',
+    name_ar: 'Tương Châu Tuệ Mãn',
+    birth_death_time: ['?', '?'],
+    records: '',
+    sect: ['-'],
+    country: 'China',
+    place: '-',
+    teachers: ['Dazu Huike'],
+    successors: [''],
+    disciples: [''],
+    image: '',
+    reference: [''],
+    youtubeId: [''],
+  },
+{
+    id: '30.4',
+    generation: '30',
+    name_en: 'cư sĩ Hướng',
+    name_es: 'cư sĩ Hướng',
+    name_de: 'cư sĩ Hướng',
+    name_fr: 'cư sĩ Hướng',
+    name_vi: 'cư sĩ Hướng',
+    name_ru: 'cư sĩ Hướng',
+    name_zh: 'cư sĩ Hướng',
+    name_ja: 'cư sĩ Hướng',
+    name_ko: 'cư sĩ Hướng',
+    name_ar: 'cư sĩ Hướng',
+    birth_death_time: ['?', '?'],
+    records: '',
+    sect: ['-'],
+    country: 'China',
+    place: '-',
+    teachers: ['Dazu Huike'],
+    successors: [''],
+    disciples: [''],
+    image: '',
+    reference: [''],
+    youtubeId: [''],
   },
   {
     id: '31.1',
@@ -75,7 +148,6 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Daoxin.jpg',
     reference: [''],
     youtubeId: [''],
-
   },
   {
     id: '32.1',
@@ -101,7 +173,6 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hongren.jpg/220px-Hongren.jpg',
     reference: [''],
     youtubeId: [''],
-
   },
   {
     id: '32.2',
@@ -127,7 +198,6 @@ const CnLv0MasterDb = [
     image: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkU91_ZqrRFlSID55wIXjbUlrgozQfeOM1bN6NR53fUSMNWrwJ',
     reference: [''],
     youtubeId: [''],
-
   },
   {
     id: '33.1',
@@ -153,7 +223,6 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Huineng.jpg/220px-Huineng.jpg',
     reference: [''],
     youtubeId: [''],
-
   },
   {
     id: '33.2',
@@ -179,7 +248,6 @@ const CnLv0MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-
   },
   {
     id: '33.3',
@@ -206,7 +274,6 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/en/2/2d/Shenxiu-invert.jpg',
     reference: [''],
     youtubeId: [''],
-
   },
   {
     id: '33.4',
@@ -232,7 +299,6 @@ const CnLv0MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-
   },
   {
     id: '33.5',
@@ -258,7 +324,6 @@ const CnLv0MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-
   },
 ]
 export default CnLv0MasterDb;
