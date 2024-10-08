@@ -22,7 +22,7 @@ const KoMasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
 ]
 export default KoMasterDb;

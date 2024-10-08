@@ -22,7 +22,7 @@ const CnLv7MasterDb = [
     disciples: ['Fengxue Yanzhao'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/nanyuan.html',],
-    koans: ['',],
+
   },
   {
     id: '40.7.2',
@@ -48,7 +48,7 @@ const CnLv7MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/mesterek/heshan.html',],
-    koans: ['',],
+
   },
   {
     id: '40.7.3',
@@ -74,7 +74,6 @@ const CnLv7MasterDb = [
     disciples: [],
     image: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Hszuan_sa_Si_pej835-890.jpg',
     reference: ['https://terebess.hu/zen/xuansha.html',],
-    koans: ['22, 56, 88 - BCR', '41 - TGG'],
   },
   {
     id: '40.7.4',
@@ -100,7 +99,6 @@ const CnLv7MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/mesterek/Yunmen.pdf', 'https://terebess.hu/zen/yunmen.html', 'https://en.wikipedia.org/wiki/Yunmen_Wenyan'],
-    koans: ['https://en.wikipedia.org/wiki/List_of_koans_by_Yunmen_Wenyan',],
   },
   {
     id: '40.7.5',
@@ -126,7 +124,6 @@ const CnLv7MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/baofu.html',],
-    koans: [' 8, 22, 23, 76, 91, 95 - BCR' , '21, 23, 28, 29, 48, 71 - RoGP',],
   },
   {
     id: '40.7.6',
@@ -151,7 +148,7 @@ const CnLv7MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/changqing.html', 'https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Kh%C3%A1nh_Hu%E1%BB%87_L%C4%83ng',],
-    koans: ['',],
+
   },
 ]
 export default CnLv7MasterDb;

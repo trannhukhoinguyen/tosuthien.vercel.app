@@ -21,7 +21,7 @@ const CnLv17MasterDb = [
     disciples: ['Mian Xianjie', 'Hoà Sơn Tâm Giám'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/%E1%BB%A8ng_Am_%C4%90%C3%A0m_Hoa',],
-    koans: ['',],
+
   },
   {
     id: '50.17.2',
@@ -45,7 +45,7 @@ const CnLv17MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/entangling.html', 'https://www.bachduongky.net/danh-muc/huyen-quan-tu-tri-quan/3', 'http://chimvie3.free.fr/27/vomonquan.htm', 'https://nigioikhatsi.net/kinhsach-pdf/CotNhucCuaThien_TranTrucLam.pdf'],
-    koans: ['',],
+
   },
   {
     id: '50.17.3',
@@ -69,7 +69,7 @@ const CnLv17MasterDb = [
     disciples: ['Jingshan Ruyan', 'Pojian Jujian'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '50.17.4',
@@ -93,7 +93,7 @@ const CnLv17MasterDb = [
     disciples: [],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Daoji.JPG/250px-Daoji.JPG',
     reference: ['https://vi.wikipedia.org/wiki/T%E1%BA%BF_C%C3%B4ng',],
-    koans: ['',],
+
   },
   {
     id: '50.17.5',
@@ -117,7 +117,7 @@ const CnLv17MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
 ]
 export default CnLv17MasterDb;

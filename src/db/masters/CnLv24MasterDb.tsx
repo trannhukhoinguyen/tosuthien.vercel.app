@@ -23,7 +23,7 @@ const CnLv24MasterDb = [
     image: '/',
     reference: ['http://www.thuongchieu.net/index.php/phapthoai/suphu/4207-thiensunhutac', 'https://duylucthien.wordpress.com/2024/01/12/thien-nhu-duy-tac-thien-su/', 'https://thuvienhoasen.org/a8016/thien-nhu-dai-su', 'https://ph.tinhtong.vn/Home/MP3?p=MP3*Tinh+Do+Hoac+Van+-+Thien+Nhu+Duy+Tac', 'https://ngulucthien.com/thien-su-duy-tac/', ''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '57.24.2',

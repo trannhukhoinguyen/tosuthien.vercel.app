@@ -23,7 +23,6 @@ const InMasterDb = [
     disciples: ['Ananda'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['1'],
   },
   {
     id: '2',
@@ -49,7 +48,7 @@ const InMasterDb = [
     disciples: ['Sanakavasa'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '3',
@@ -75,7 +74,7 @@ const InMasterDb = [
     disciples: ['Upagupta'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '4',
@@ -101,7 +100,7 @@ const InMasterDb = [
     disciples: ['Dhrtaka'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '5',
@@ -127,7 +126,7 @@ const InMasterDb = [
     disciples: ['Miccaka'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
 {
     id: '6',
@@ -153,7 +152,7 @@ const InMasterDb = [
     disciples: ['Vasumitra'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
 {
     id: '7',
@@ -179,7 +178,7 @@ const InMasterDb = [
     disciples: ['Buddhanandi'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '8',
@@ -205,7 +204,7 @@ const InMasterDb = [
     disciples: ['Buddhamitra'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '9',
@@ -231,7 +230,7 @@ const InMasterDb = [
     disciples: ['Parsvika'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '10',
@@ -257,7 +256,7 @@ const InMasterDb = [
     disciples: ['Punyayasas'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '11',
@@ -283,7 +282,7 @@ const InMasterDb = [
     disciples: ['Asvaghosha'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '12',
@@ -308,7 +307,7 @@ const InMasterDb = [
     disciples: ['Kapimala'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '13',
@@ -333,7 +332,7 @@ const InMasterDb = [
     disciples: ['Nagarjuna'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '14',
@@ -358,7 +357,7 @@ const InMasterDb = [
     disciples: ['Kanadeva'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '15',
@@ -383,7 +382,7 @@ const InMasterDb = [
     disciples: ['Rahulata'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
 {
     id: '16',
@@ -408,7 +407,7 @@ const InMasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '17',
@@ -433,7 +432,7 @@ const InMasterDb = [
     disciples: ['Gayasata'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '18',
@@ -458,7 +457,7 @@ const InMasterDb = [
     disciples: ['Kumarata'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '19',
@@ -483,7 +482,7 @@ const InMasterDb = [
     disciples: ['Jayata'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '20',
@@ -508,7 +507,7 @@ const InMasterDb = [
     disciples: ['Vasubandhu'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
 {
     id: '21',
@@ -533,7 +532,7 @@ const InMasterDb = [
     disciples: ['Manorhita'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
 {
     id: '22',
@@ -558,7 +557,7 @@ const InMasterDb = [
     disciples: ['Haklena'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '23',
@@ -583,7 +582,7 @@ const InMasterDb = [
     disciples: ['Aryasimha'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '24',
@@ -608,7 +607,7 @@ const InMasterDb = [
     disciples: ['Basiasita'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '25',
@@ -633,7 +632,7 @@ const InMasterDb = [
     disciples: ['Punyamitra'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '26',
@@ -658,7 +657,7 @@ const InMasterDb = [
     disciples: ['Prajnatara'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '27',
@@ -683,7 +682,7 @@ const InMasterDb = [
     disciples: ['Bodhidharma'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '28',
@@ -709,7 +708,7 @@ const InMasterDb = [
     disciples: ['Dazu Huike'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BodhidharmaYoshitoshi1887.jpg/232px-BodhidharmaYoshitoshi1887.jpg',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '31.2',
@@ -735,7 +734,7 @@ const InMasterDb = [
     image: '/',
     reference: ['Diệt Hỉ Thiền phái (滅喜禪派)'],
     youtubeId: [''],
-    koans: ['',],
+
   },
 ]
 export default InMasterDb;

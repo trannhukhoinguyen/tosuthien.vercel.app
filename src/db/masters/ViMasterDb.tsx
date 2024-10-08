@@ -22,7 +22,7 @@ const InMasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
 
 ]

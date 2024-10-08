@@ -22,7 +22,7 @@ const CnLv5MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '38.5.2',
@@ -47,7 +47,7 @@ const CnLv5MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '38.5.3',
@@ -74,7 +74,7 @@ const CnLv5MasterDb = [
     image: 'https://terebess.hu/zen/deshan3.jpg',
     image2: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/To_san_Hszuan_csien780.2-865.jpg',
     reference: ['https://terebess.hu/zen/deshan3.jpg'],
-    koans: ['',],
+
   },
   {
     id: '38.5.4',
@@ -99,7 +99,7 @@ const CnLv5MasterDb = [
     disciples: ['Nanta Guangyong'],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '38.5.5',
@@ -124,7 +124,7 @@ const CnLv5MasterDb = [
     disciples: ['Xinghua Cunjiang', 'Sansheng Huiran'],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '38.5.6',
@@ -149,7 +149,7 @@ const CnLv5MasterDb = [
     disciples: [],
     image: 'https://terebess.hu/zen/mesterek/woodcut/38-3.jpg',
     reference: ['https://terebess.hu/zen/muzhou.html'],
-    koans: ['',],
+
   },
   {
     id: '38.5.7',
@@ -174,7 +174,7 @@ const CnLv5MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://blog.phapthihoi.org/gt-member/tuong-quoc-bui-huu/','https://vi.wikipedia.org/wiki/B%C3%B9i_H%C6%B0u', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/bui-huu-k338.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/bui-huu-k30587.html', 'https://tinhtan.org/2021/01/17/dich-va-binh-tho-dam-lac-dam-cua-te-tuong-bui-huu-791-846'],
-    koans: ['',],
+
   },
   {
     id: '38.5.8',
@@ -199,7 +199,7 @@ const CnLv5MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '38.5.9',
@@ -225,7 +225,7 @@ const CnLv5MasterDb = [
     disciples: ['Zhangzhuo Xiucai', 'Jiufeng Daoqian'],
     image: '/images/avatar.png',
     reference: ['https://blog.phapthihoi.org/gt-member/ts-thach-suong-khanh-chu/', 'https://hoavouu.com/a17583/03-thien-su-khanh-chu-o-thach-suong', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html'],
-    koans: ['',],
+
   },
 ]
 export default CnLv5MasterDb;

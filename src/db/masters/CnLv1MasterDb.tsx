@@ -23,7 +23,7 @@ const CnLv1MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Qingyuan_Xingsi.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '34.1.2',
@@ -49,7 +49,7 @@ const CnLv1MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '34.1.3',
@@ -75,7 +75,7 @@ const CnLv1MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '34.1.4',
@@ -102,7 +102,7 @@ const CnLv1MasterDb = [
     image2: 'https://terebess.hu/zen/Shenhui.jpg',
     reference: ['https://terebess.hu/zen/shenhui.html', 'https://en.wikipedia.org/wiki/Shenhui'],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '34.1.5',
@@ -128,7 +128,7 @@ const CnLv1MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '34.1.6',
@@ -154,7 +154,7 @@ const CnLv1MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '34.1.7',
@@ -179,7 +179,7 @@ const CnLv1MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '34.1.8',
@@ -204,7 +204,7 @@ const CnLv1MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '34.1.9',
@@ -229,7 +229,7 @@ const CnLv1MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '34.1.10',

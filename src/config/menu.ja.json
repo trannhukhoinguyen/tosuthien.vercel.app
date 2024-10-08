@@ -7,8 +7,7 @@
       "hasChildren": true,
       "children": [
         { "name": "禅の師と教え", "url": "/masters" },
-        { "name": "よくある質問", "url": "/faqs" },
-        { "name": "公案", "url": "/koans" }
+        { "name": "よくある質問", "url": "/faqs" }
       ]
     },
     {

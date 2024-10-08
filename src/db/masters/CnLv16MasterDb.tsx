@@ -21,7 +21,7 @@ const CnLv16MasterDb = [
     disciples: ['Yingan Tanhua'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '49.16.2',
@@ -45,7 +45,7 @@ const CnLv16MasterDb = [
     disciples: ['Wakuan Shitai', 'Xingshan Weiguan'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Huguo_Jingyuan',],
-    koans: ['',],
+
   },
   {
     id: '49.16.3',
@@ -70,7 +70,7 @@ const CnLv16MasterDb = [
     disciples: ['Fozhao Deguang'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '49.16.4',
@@ -94,7 +94,7 @@ const CnLv16MasterDb = [
     disciples: ['Tế Điên Đạo Tế', 'Duệ Sơn Giác A'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/H%E1%BA%A1t_%C4%90%C6%B0%E1%BB%9Dng_Hu%E1%BB%87_Vi%E1%BB%85n',],
-    koans: ['',],
+
   },
   {
     id: '49.16.5',
@@ -118,7 +118,7 @@ const CnLv16MasterDb = [
     disciples: ['Laoan Zudeng'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Yue%E2%80%99an_Shanguo',],
-    koans: ['',],
+
   },
 ]
 export default CnLv16MasterDb;

@@ -3,7 +3,7 @@
     "title": "Patriarchal Zen",
     "meta_title": "Patriarchal Zen",
     "meta_image": "/images/monocolor-unknown-zen-master.jpg",
-    "meta_description": "Patriarchal Zen Masters, Cautions, FAQs, Koans, Books, PDF, MP3, Youtube",
+    "meta_description": "Patriarchal Zen Masters, Cautions, FAQs, Books, PDF, MP3, Youtube",
     "base_url": "https://patriarchalzen.quest",
     "base_path": "/",
     "trailing_slash": false,
@@ -24,10 +24,8 @@
     "summary_length": 200,
     "blog_folder": "masters",
     "blog_folder_masters": "masters",
-    "blog_folder_koans": "koans",
     "collection_folder": "masters",
     "collection_folder_masters": "masters",
-    "collection_folder_koans": "koans",
     "default_language": "vi",
     "disable_languages": [],
     "default_language_in_subdir": false
@@ -47,6 +45,6 @@
   "metadata": {
     "meta_author": "Patriarchal Zen Masters",
     "meta_image": "/images/monocolor-unknown-zen-master.jpg",
-    "meta_description": "Patriarchal Zen Masters, Cautions, FAQs, Koans, Books, PDF, MP3, Youtube"
+    "meta_description": "Patriarchal Zen Masters, Cautions, FAQs, Books, PDF, MP3, Youtube"
   }
 }

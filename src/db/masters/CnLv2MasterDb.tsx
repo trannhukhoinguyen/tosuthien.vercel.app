@@ -23,7 +23,7 @@ const CnLv2MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shitou_Xiqian.jpg/220px-Shitou_Xiqian.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '35.2.2',
@@ -49,7 +49,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: ['https://terebess.hu/zen/mazu.html'],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '35.2.3',
@@ -76,7 +76,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '35.2.4',
@@ -102,7 +102,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '35.2.5',
@@ -128,7 +128,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '35.2.6',
@@ -154,7 +154,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '35.2.7',
@@ -180,7 +180,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '35.2.8',
@@ -206,7 +206,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '35.2.9',
@@ -232,7 +232,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '35.2.10',
@@ -258,7 +258,7 @@ const CnLv2MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '35.2.11',

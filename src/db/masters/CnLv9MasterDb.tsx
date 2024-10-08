@@ -21,7 +21,7 @@ const CnLv9MasterDb = [
     disciples: ['Fenyang Shanzhao'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '42.9.2',
@@ -46,7 +46,7 @@ const CnLv9MasterDb = [
     disciples: ['Tiantai Deshao'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Ph%C3%A1p_Nh%C3%A3n_V%C4%83n_%C3%8Dch',],
-    koans: ['',],
+
   },
   {
     id: '42.9.3',
@@ -70,7 +70,7 @@ const CnLv9MasterDb = [
     disciples: ['Xuedou Chongxian'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Tr%C3%AD_M%C3%B4n_Quang_T%E1%BB%99',],
-    koans: ['',],
+
   },
 ]
 export default CnLv9MasterDb;

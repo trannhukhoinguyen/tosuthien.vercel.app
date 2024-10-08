@@ -27,7 +27,6 @@ interface TableProps {
     successors: string[]
     disciples: string[]
     reference: string[]
-    koans: string[]
   }[];
   lang: string | undefined;
   itemsPerPage?: number;
@@ -66,7 +65,6 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
       || item.teachers.some(teacher => teacher.toLowerCase().includes(searchTerm))
       || item.successors.some(successor => successor.toLowerCase().includes(searchTerm))
       || item.disciples.some(disciple => disciple.toLowerCase().includes(searchTerm))
-      || item.koans.some(koan => koan.toLowerCase().includes(searchTerm))
   );
 
   const indexOfLastItem = currentPage * itemsPerPage;
@@ -129,7 +127,6 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
           <th>Successors</th>
           <th>Disciples</th>
           <th>References</th>
-          <th>Koans</th>
         </tr>
         </thead>
 
@@ -187,13 +184,6 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
             <td>{ item.disciples.join(', ') }</td>
             <td>
               <Modal lang={lang} title={"🧷"} content={item.reference?.join(', ')} />
-            </td>
-            <td>
-              {
-                item.koans && item.koans[0]
-                ? <Modal lang={lang} title={"📖"} content={item.koans?.join(", ")} />
-                : <div></div>
-              }
             </td>
           </tr>
           ))

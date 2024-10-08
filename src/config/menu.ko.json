@@ -8,8 +8,7 @@
       "hasChildren": true,
       "children": [
         { "name": "선 스승과 가르침", "url": "/masters" },
-        { "name": "자주 묻는 질문", "url": "/faqs" },
-        { "name": "화두", "url": "/koans" }
+        { "name": "자주 묻는 질문", "url": "/faqs" }
       ]
     },
     {

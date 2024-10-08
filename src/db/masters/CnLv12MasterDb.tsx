@@ -23,7 +23,7 @@ const CnLv12MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_K%C3%AC_Ph%C6%B0%C6%A1ng_H%E1%BB%99i',],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '45.12.2',
@@ -49,7 +49,7 @@ const CnLv12MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Long_Hu%E1%BB%87_Nam', ''],
     youtubeId: [''],
-    koans: ['',],
+
   },
 ]
 export default CnLv12MasterDb;

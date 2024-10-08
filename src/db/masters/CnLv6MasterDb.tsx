@@ -22,7 +22,7 @@ const CnLv6MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '39.6.2',
@@ -47,7 +47,7 @@ const CnLv6MasterDb = [
     disciples: ['Nanyuan Huiyong'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/xinghua.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/hung-hoa-ton-tuong-k4195.html', 'https://vi.wikipedia.org/wiki/H%C6%B0ng_H%C3%B3a_T%E1%BB%93n_T%C6%B0%C6%A1ng'],
-    koans: ['',],
+
   },
   {
     id: '39.6.3',
@@ -72,7 +72,7 @@ const CnLv6MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://blog.phapthihoi.org/gt-member/ts-tam-thanh-hue-nhien/', 'https://vi.wikipedia.org/wiki/Tam_Th%C3%A1nh_Hu%E1%BB%87_Nhi%C3%AAn', ''],
-    koans: ['',],
+
   },
   {
     id: '39.6.4',
@@ -97,7 +97,6 @@ const CnLv6MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://blog.phapthihoi.org/gt-member/ts-muc-chau-tran-thao/', 'http://thuongchieu.net/index.php/chuyende/vuonthien/847-bai-5--hoang-ba-tat-mt-tat','http://thuongchieu.net/index.php?option=com_content&view=article&id=1262:bai-85--lao-bang-th--t&catid=44:vn-thin-rng-ngc&Itemid=355',],
-    koans: ['Case 6 - BCR','Case 33 - BCR',],
   },
   {
     id: '39.6.5',
@@ -122,7 +121,7 @@ const CnLv6MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '39.6.6',
@@ -148,7 +147,7 @@ const CnLv6MasterDb = [
     disciples: ['Heshan Wuyin', 'Baofeng Yanmao', 'Guangmu Xingxiu', "Tong'an Changcha", 'Letan Kuangwu'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Jiufeng_Daoqian', 'https://www.reddit.com/r/Koans/comments/160eeb/jiufengs_one_who_transmits_words_221_of_300/', 'https://www.rongmotamhon.net/daouyen/Data/Ph_C/C84.htm'],
-    koans: ['',],
+
   },
   {
     id: '39.6.7',
@@ -173,7 +172,6 @@ const CnLv6MasterDb = [
     disciples: ['Xuansha Shibei', 'Yunmen Wenyan', 'Baofu Congzhan', 'Changqing Huileng'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/xuefeng.html', 'https://wikipedia.org/wiki/Xuefeng_Yicun'],
-    koans: ['22, 56, 88 - BCR', '41 - GG'],
   },
 ]
 export default CnLv6MasterDb;

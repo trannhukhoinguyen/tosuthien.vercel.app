@@ -8,8 +8,7 @@
       "hasChildren": true,
       "children": [
         { "name": "أساتذة الزن وتعاليمهم", "url": "/masters" },
-        { "name": "سؤال وجواب", "url": "/faqs" },
-        { "name": "زين كوان", "url": "/koans" }
+        { "name": "سؤال وجواب", "url": "/faqs" }
       ]
     },
     {

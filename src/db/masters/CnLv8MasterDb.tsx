@@ -22,7 +22,7 @@ const CnLv8MasterDb = [
     disciples: ['Shoushan Xingnian'],
     image: '/images/avatar.png',
     reference: ['',],
-    koans: ['',],
+
   },
   {
     id: '41.8.2',
@@ -47,7 +47,7 @@ const CnLv8MasterDb = [
     disciples: ['Fayan Wenyi'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/luohan.html', 'https://quangduc.com/p156a69697/52/thien-su-la-han-que-sam-867-928-vi-thien-su-dat-nen-mong-cho-thien-phai-phap-nhan', 'https://vi.wikipedia.org/wiki/La_H%C3%A1n_Qu%E1%BA%BF_S%C3%A2m'],
-    koans: ['',],
+
   },
   {
     id: '41.8.3',
@@ -72,7 +72,7 @@ const CnLv8MasterDb = [
     disciples: ['Zhimen Guangzi'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/H%C6%B0%C6%A1ng_L%C3%A2m_Tr%E1%BB%ABng_Vi%E1%BB%85n'],
-    koans: ['',],
+
   },
   {
     id: '41.8.4',
@@ -97,7 +97,7 @@ const CnLv8MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
 ]
 export default CnLv8MasterDb;

@@ -21,7 +21,7 @@ const CnLv10MasterDb = [
     disciples: ['Shishuang Chuyuan'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/fenyang.html', 'https://pl.wikipedia.org/wiki/Fenyang_Shanzhao'],
-    koans: ['',],
+
   },
   {
     id: '43.10.2',
@@ -45,7 +45,7 @@ const CnLv10MasterDb = [
     disciples: ['Yongming Yanshou', 'Trường Thọ Bằng Ngạn', 'Đại Ninh Khả Hoằng.'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Thai_%C4%90%E1%BB%A9c_Thi%E1%BB%81u'],
-    koans: ['',],
+
   },
   {
     id: '43.10.3',
@@ -69,7 +69,7 @@ const CnLv10MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFt_%C4%90%E1%BA%ADu_Tr%E1%BB%8Dng_Hi%E1%BB%83n', 'https://en.wikipedia.org/wiki/Xuedou_Chongxian', 'https://terebess.hu/zen/Xuedou.html'],
-    koans: ['',],
+
   },
 ]
 export default CnLv10MasterDb;

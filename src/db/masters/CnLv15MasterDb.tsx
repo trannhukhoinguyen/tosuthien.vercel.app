@@ -21,7 +21,7 @@ const CnLv15MasterDb = [
     disciples: ['Huqiu Shaolong', 'Huguo Jingyuan', 'Dahui Zonggao'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Vi%C3%AAn_Ng%E1%BB%99_Kh%E1%BA%AFc_C%E1%BA%A7n',],
-    koans: ['',],
+
 
   },
   {
@@ -46,7 +46,7 @@ const CnLv15MasterDb = [
     disciples: ['Yuehan Shanguo'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Kaifu_Daoning',],
-    koans: ['',],
+
   },
 ]
 export default CnLv15MasterDb;

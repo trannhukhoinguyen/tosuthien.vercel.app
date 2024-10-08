@@ -23,7 +23,7 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Huike_thinking.jpg/220px-Huike_thinking.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '30',
@@ -49,7 +49,7 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sengcan.jpg/220px-Sengcan.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '31.1',
@@ -75,7 +75,7 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Daoxin.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '32.1',
@@ -101,7 +101,7 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hongren.jpg/220px-Hongren.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '32.2',
@@ -127,7 +127,7 @@ const CnLv0MasterDb = [
     image: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkU91_ZqrRFlSID55wIXjbUlrgozQfeOM1bN6NR53fUSMNWrwJ',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '33.1',
@@ -153,7 +153,7 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Huineng.jpg/220px-Huineng.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '33.2',
@@ -179,7 +179,7 @@ const CnLv0MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '33.3',
@@ -206,7 +206,7 @@ const CnLv0MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/en/2/2d/Shenxiu-invert.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '33.4',
@@ -232,7 +232,7 @@ const CnLv0MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
   {
     id: '33.5',
@@ -258,7 +258,7 @@ const CnLv0MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
     youtubeId: [''],
-    koans: ['',],
+
   },
 ]
 export default CnLv0MasterDb;

@@ -23,7 +23,7 @@ const CnLv11MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/shishuang.html', 'https://en.wikipedia.org/wiki/Shishuang_Temple', 'https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_S%C6%B0%C6%A1ng_S%E1%BB%9F_Vi%C3%AAn'],
     youtubeId: ['z6WI0EXr1Aw'],
-    koans: ['',],
+
   },
   {
     id: '44.11.2',
@@ -49,7 +49,7 @@ const CnLv11MasterDb = [
     image: '',
     reference: ['https://en.wikipedia.org/wiki/Yongming_Yanshou', 'https://blog.phapthihoi.org/tu-dien-phat-giao/vinh-minh-dien-tho/'],
     youtubeId: [''],
-    koans: ['',],
+
   },
 ]
 export default CnLv11MasterDb;

@@ -8,8 +8,7 @@
       "hasChildren": true,
       "children": [
         { "name": "Maîtres et enseignements zen", "url": "/masters" },
-        { "name": "Questions et réponses", "url": "/faqs" },
-        { "name": "Koans", "url": "/koans" }
+        { "name": "Questions et réponses", "url": "/faqs" }
       ]
     },
     {

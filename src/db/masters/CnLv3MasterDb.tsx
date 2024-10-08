@@ -22,7 +22,7 @@ const CnLv3MasterDb = [
     disciples: ['Toại Châu Đạo Viên'],
     image: '/images/avatar.png',
     reference: ['https://ngulucthien.com/thien-su-duy-trung/'],
-    koans: ['',],
+
   },
   {
     id: '36.3.2',
@@ -47,7 +47,7 @@ const CnLv3MasterDb = [
     disciples: ['Yunyan Tansheng'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Yaoshan_Weiyan_Image.jpg',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '36.3.3',
@@ -72,7 +72,7 @@ const CnLv3MasterDb = [
     disciples: ['Longtan Chongxin'],
     image: '/images/avatar.png',
     reference: ['https://ngulucthien.com/thien-su-dao-ngo-747-806/'],
-    koans: ['',],
+
   },
   {
     id: '36.3.4',
@@ -97,7 +97,7 @@ const CnLv3MasterDb = [
     disciples: ['Sanping Yizhong'],
     image: '/images/avatar.png',
     reference: ['https://ngulucthien.com/thien-su-baothong-dai-dien-732-824/'],
-    koans: ['',],
+
   },
   {
     id: '36.3.5',
@@ -122,7 +122,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '36.3.6',
@@ -147,7 +147,7 @@ const CnLv3MasterDb = [
     disciples: ['Huangbo Xiyun', 'Guishan Lingyou', ''],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/B%C3%A1ch_Tr%C6%B0%E1%BB%A3ng_Ho%C3%A0i_H%E1%BA%A3i'],
-    koans: ['',],
+
   },
   {
     id: '36.3.7',
@@ -172,7 +172,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '36.3.8',
@@ -197,7 +197,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '36.3.9',
@@ -222,7 +222,7 @@ const CnLv3MasterDb = [
     disciples: ['Tối Trừng (最澄)'],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '36.3.10',
@@ -247,7 +247,7 @@ const CnLv3MasterDb = [
     disciples: ['Huệ Trung (慧忠)', 'Huyền Tố (玄素)'],
     image: '/images/avatar.png',
     reference: [''],
-    koans: ['',],
+
   },
   {
     id: '36.3.11',
@@ -273,7 +273,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Ehu_Dayi', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/dai-nghia-k32793.html'],
-    koans: ['',],
+
   },
   {
     id: '36.3.12',
@@ -298,7 +298,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Mai_Ph%C3%A1p_Th%C6%B0%E1%BB%9Dng', 'https://terebess.hu/zen/damei.html'],
-    koans: ['',],
+
   },
   {
     id: '36.3.13',
@@ -323,7 +323,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Ch%C3%A2u_Hu%E1%BB%87_H%E1%BA%A3i', 'https://terebess.hu/zen/huihai-eng1.html', 'https://en.wikipedia.org/wiki/Dazhu_Huihai'],
-    koans: ['',],
+
   },
   {
     id: '36.3.14',
@@ -348,7 +348,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/mesterek/XitangZhizang.html', 'https://terebess.hu/zen/damei.html'],
-    koans: ['',],
+
   },
   {
     id: '36.3.15',
@@ -373,7 +373,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/nanquan.html'],
-    koans: ['',],
+
   },
   {
     id: '36.3.16',
@@ -398,7 +398,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/nanquan.html'],
-    koans: ['',],
+
   },
 ]
 export default CnLv3MasterDb;

@@ -8,8 +8,7 @@
       "hasChildren": true,
       "children": [
         { "name": "禪宗大師與教義", "url": "/masters" },
-        { "name": "問答", "url": "/faqs" },
-        { "name": "公案", "url": "/koans" }
+        { "name": "問答", "url": "/faqs" }
       ]
     },
     {

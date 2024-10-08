@@ -21,7 +21,7 @@ const CnLv18MasterDb = [
     disciples: ['Songyuan Chongyue', 'Poan Zuxian'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/M%E1%BA%ADt_Am_H%C3%A0m_Ki%E1%BB%87t',],
-    koans: ['',],
+
   },
 ]
 export default CnLv18MasterDb;
