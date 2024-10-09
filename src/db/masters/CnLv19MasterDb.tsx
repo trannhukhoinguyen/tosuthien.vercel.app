@@ -1,6 +1,7 @@
 const CnLv19MasterDb = [
   {
     id: '52.19.1',
+    generation: '52',
     name_en: 'Poan Zuxian',
     name_es: 'Poan Zuxian',
     name_de: 'Poan Zuxian',
@@ -21,10 +22,10 @@ const CnLv19MasterDb = [
     disciples: ['Wuzhun Shifan'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Ph%C3%A1_Am_T%E1%BB%95_Ti%C3%AAn',],
-
   },
   {
     id: '52.19.2',
+    generation: '52',
     name_en: 'Songyuan Chongyue',
     name_es: 'Songyuan Chongyue',
     name_de: 'Songyuan Chongyue',
@@ -45,10 +46,10 @@ const CnLv19MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://www.erct.com/2-ThoVan/NNT/Vomonquan/20-Dailucluongnhan.htm', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/tung-nguyen-sung-nhac-k3098.html', 'https://tangthuphathoc.net/tudien/tung-nguyen-sung-nhac-tu-dien-dao-uyen/'],
-
   },
   {
     id: '52.19.3',
+    generation: '52',
     name_en: 'Tào Nguyên Đạo Sinh',
     name_es: 'Tào Nguyên Đạo Sinh',
     name_de: 'Tào Nguyên Đạo Sinh',
@@ -69,7 +70,6 @@ const CnLv19MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
 ]
 export default CnLv19MasterDb;

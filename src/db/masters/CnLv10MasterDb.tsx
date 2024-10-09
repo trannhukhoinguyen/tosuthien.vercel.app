@@ -1,6 +1,7 @@
 const CnLv10MasterDb = [
   {
     id: '43.10.1',
+    generation: '43',
     name_en: 'Fenyang Shanzhao',
     name_es: 'Fenyang Shanzhao',
     name_de: 'Fenyang Shanzhao',
@@ -21,10 +22,10 @@ const CnLv10MasterDb = [
     disciples: ['Shishuang Chuyuan'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/fenyang.html', 'https://pl.wikipedia.org/wiki/Fenyang_Shanzhao'],
-
   },
   {
     id: '43.10.2',
+    generation: '43',
     name_en: 'Tiantai Deshao',
     name_es: 'Tiantai Deshao',
     name_de: 'Tiantai Deshao',
@@ -45,10 +46,10 @@ const CnLv10MasterDb = [
     disciples: ['Yongming Yanshou', 'Trường Thọ Bằng Ngạn', 'Đại Ninh Khả Hoằng.'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Thai_%C4%90%E1%BB%A9c_Thi%E1%BB%81u'],
-
   },
   {
     id: '43.10.3',
+    generation: '43',
     name_en: 'Xuedou Chongxian',
     name_es: 'Xuedou Chongxian',
     name_de: 'Xuedou Chongxian',
@@ -69,7 +70,30 @@ const CnLv10MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFt_%C4%90%E1%BA%ADu_Tr%E1%BB%8Dng_Hi%E1%BB%83n', 'https://en.wikipedia.org/wiki/Xuedou_Chongxian', 'https://terebess.hu/zen/Xuedou.html'],
-
+  },
+  {
+    id: '43.10.4',
+    generation: '43',
+    name_en: '',
+    name_es: '',
+    name_de: '',
+    name_fr: '',
+    name_vi: 'Khai Tiên Thiện Tiêm',
+    name_ru: '',
+    name_zh: '開先善添',
+    name_ja: '',
+    name_ko: '',
+    name_ar: '',
+    birth_death_time: ['', ''],
+    records: '',
+    sect: '-',
+    country: 'China',
+    place: '-',
+    teachers: ['Fayan Wenyi'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: [''],
   },
 ]
 export default CnLv10MasterDb;

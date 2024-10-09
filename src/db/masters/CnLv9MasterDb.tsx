@@ -1,6 +1,7 @@
 const CnLv9MasterDb = [
   {
     id: '42.9.1',
+    generation: '42',
     name_en: 'Shoushan Xingnian',
     name_es: 'Shoushan Xingnian',
     name_de: 'Shoushan Xingnian',
@@ -25,6 +26,7 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.2',
+    generation: '42',
     hasContent: true,
     name_en: 'Fayan Wenyi',
     name_es: 'Fayan Wenyi',
@@ -50,6 +52,7 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.3',
+    generation: '42',
     name_en: 'Zhimen Guangzuo',
     name_es: 'Zhimen Guangzuo',
     name_de: 'Zhimen Guangzuo',
@@ -70,7 +73,30 @@ const CnLv9MasterDb = [
     disciples: ['Xuedou Chongxian'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Tr%C3%AD_M%C3%B4n_Quang_T%E1%BB%99',],
-
+  },
+  {
+    id: '42.9.4',
+    generation: '42',
+    name_en: '',
+    name_es: '',
+    name_de: '',
+    name_fr: '',
+    name_vi: 'Đức Sơn Huệ Viễn',
+    name_ru: '',
+    name_zh: '德山慧遠',
+    name_ja: '',
+    name_ko: '',
+    name_ar: '',
+    birth_death_time: ['', ''],
+    records: '',
+    sect: '-',
+    country: 'China',
+    place: '-',
+    teachers: ['Shuangquan Renyu'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: ['',],
   },
 ]
 export default CnLv9MasterDb;

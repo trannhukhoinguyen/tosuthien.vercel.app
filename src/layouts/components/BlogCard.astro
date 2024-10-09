@@ -47,9 +47,9 @@ data.slug = modifiedSlug;
       {
         masters?.length > 1
           ? masters?.map((master: string, index: number) => (
-              <a href={slugSelector(`/masters/${slugify(master)}`, lang)}>
+              <a href={slugSelector(`/masters/${slugify[Master]}`, lang)}>
                 <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
-                {humanize(master)}
+                {humanize[Master]}
               </a>
             ))
           : masters?.length === 1
@@ -58,9 +58,9 @@ data.slug = modifiedSlug;
                 {humanize(masters[0])}
               </a>
             : master
-              ? <a href={slugSelector(`/masters/${slugify(master)}`, lang)}>
+              ? <a href={slugSelector(`/masters/${slugify[Master]}`, lang)}>
                   <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
-                  {humanize(master)}
+                  {humanize[Master]}
                 </a>
               : ''
       }

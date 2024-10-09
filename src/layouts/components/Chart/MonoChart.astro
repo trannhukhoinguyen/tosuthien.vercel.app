@@ -52,39 +52,27 @@ const masterData = flatMasterData.map(masterLv0 =>
     })),
   })
 );
----
-<script>
-  import { InMasters, CnMasters }  from "../../../db/masters/AllMasterDb";
-  const flatMasterData = [...InMasters, ...CnMasters].flat();
-  const masterData = flatMasterData.map((master, indexMaster) => {
-    const firstGeneration = master.id === '1' ? master : undefined;
 
-    return {
-      id: master.id,
-      generation: firstGeneration.generation,
-      name: firstGeneration.name_en,
-      disciples: flatMasterData
-      ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 2))
-      ?.map(masterLv1 => ({
-        id: flatMasterData
-          ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 2))
-          ?.find(person=> masterLv0.disciples?.includes(person.name_en))?.id,
-        level: 2,
-        name: masterLv1.name_en,
-        disciples: flatMasterData
-          ?.filter(masterLv2 => masterLv2.id === 3)
-          ?.map(masterLv2 => ({
-            id: flatMasterData
-              ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 3))
-              ?.find(person=> masterLv1.disciples?.includes(person.name_en))?.id,
-            level: 3,
-            name: masterLv2?.name_en,
-          })),
-      })),
-    }
+let defaultQuery = '';
+---
+
+<script client:load>
+  document.addEventListener('DOMContentLoaded', () => {
+    // Extract search parameter from the URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const searchQuery = urlParams.get('search') || "No search query found";
+
+    // Update the defaultQuery variable
+    let defaultQuery = searchQuery;
+
+    // Update the div content with the search query
+    document.getElementById('search-query').innerText = defaultQuery;
+
+    // Optionally log it
+    console.log("Updated defaultQuery:", defaultQuery);
   });
-  console.log('masterData', masterData)
 </script>
+
 <div class="tree">
   <ul>
     {

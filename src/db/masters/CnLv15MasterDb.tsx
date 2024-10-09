@@ -1,6 +1,7 @@
 const CnLv15MasterDb = [
   {
     id: '48.15.1',
+    generation: '48',
     name_en: 'Yuanwu Keqin',
     name_es: 'Yuanwu Keqin',
     name_de: 'Yuanwu Keqin',
@@ -21,11 +22,10 @@ const CnLv15MasterDb = [
     disciples: ['Huqiu Shaolong', 'Huguo Jingyuan', 'Dahui Zonggao'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Vi%C3%AAn_Ng%E1%BB%99_Kh%E1%BA%AFc_C%E1%BA%A7n',],
-
-
   },
   {
     id: '48.15.2',
+    generation: '48',
     name_en: 'Kaifu Daoning',
     name_es: 'Kaifu Daoning',
     name_de: 'Kaifu Daoning',

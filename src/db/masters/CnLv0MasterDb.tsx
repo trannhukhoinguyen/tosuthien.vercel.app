@@ -194,7 +194,7 @@ const CnLv0MasterDb = [
     place: '-',
     teachers: ['Dayi Daoxin'],
     successors: ['-'],
-    disciples: ['Niutou Chigan'],
+    disciples: ['Niutou Chigan', 'Kim Lăng Đàm Thôi'],
     image: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkU91_ZqrRFlSID55wIXjbUlrgozQfeOM1bN6NR53fUSMNWrwJ',
     reference: [''],
     youtubeId: [''],

@@ -1,6 +1,7 @@
 const CnLv11MasterDb = [
   {
     id: '44.11.1',
+    generation: '44',
     hasContent: true,
     name_en: 'Shishuang Chuyuan',
     name_es: 'Shishuang Chuyuan',
@@ -23,10 +24,10 @@ const CnLv11MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/shishuang.html', 'https://en.wikipedia.org/wiki/Shishuang_Temple', 'https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_S%C6%B0%C6%A1ng_S%E1%BB%9F_Vi%C3%AAn'],
     youtubeId: ['z6WI0EXr1Aw'],
-
   },
   {
     id: '44.11.2',
+    generation: '44',
     hasContent: true,
     name_en: 'Yongming Yanshou',
     name_es: 'Yongming Yanshou',
@@ -49,7 +50,32 @@ const CnLv11MasterDb = [
     image: '',
     reference: ['https://en.wikipedia.org/wiki/Yongming_Yanshou', 'https://blog.phapthihoi.org/tu-dien-phat-giao/vinh-minh-dien-tho/'],
     youtubeId: [''],
-
+  },
+  {
+    id: '44.11.3',
+    generation: '44',
+    hasContent: true,
+    name_en: '',
+    name_es: '',
+    name_de: '',
+    name_fr: '',
+    name_vi: 'Phật Ấn Liễu Nguyên',
+    name_ru: '',
+    name_zh: '佛印了元',
+    name_ja: 'Butsuin Ryōgen',
+    name_ko: '',
+    name_ar: '',
+    birth_death_time: ['1032', '1098'],
+    records: '',
+    sect: [''],
+    country: 'China',
+    place: '-',
+    teachers: [''],
+    successors: [''],
+    disciples: [],
+    image: '',
+    reference: [''],
+    youtubeId: [''],
   },
 ]
 export default CnLv11MasterDb;

@@ -1,6 +1,7 @@
 const CnLv13MasterDb = [
   {
     id: '46.13.1',
+    generation: '46',
     name_en: 'Baiyun Shouduan',
     name_es: 'Baiyun Shouduan',
     name_de: 'Baiyun Shouduan',
@@ -13,7 +14,7 @@ const CnLv13MasterDb = [
     name_ar: 'Baiyun Shouduan',
     birth_death_time: ['1025', '1072'],
     records: '',
-    sect: '-',
+    sect: 'Linji - Yangqi',
     country: 'China',
     place: '-',
     teachers: ['Yangqi Fanghui'],
@@ -21,10 +22,10 @@ const CnLv13MasterDb = [
     disciples: ['Wuzu Fayan'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_V%C3%A2n_Th%E1%BB%A7_%C4%90oan',],
-
   },
   {
     id: '46.13.2',
+    generation: '46',
     name_en: 'Yungai Shouzhi',
     name_es: 'Yungai Shouzhi',
     name_de: 'Yungai Shouzhi',
@@ -37,7 +38,7 @@ const CnLv13MasterDb = [
     name_ar: 'Yungai Shouzhi',
     birth_death_time: ['830', '888'],
     records: '',
-    sect: '-',
+    sect: 'Linji',
     country: 'China',
     place: '-',
     teachers: ['Linji Yixuan'],
@@ -45,10 +46,10 @@ const CnLv13MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '46.13.3',
+    generation: '46',
     name_en: 'Baofeng Kewen',
     name_es: 'Baofeng Kewen',
     name_de: 'Baofeng Kewen',
@@ -61,7 +62,7 @@ const CnLv13MasterDb = [
     name_ar: 'Baofeng Kewen',
     birth_death_time: ['830', '888'],
     records: '',
-    sect: '-',
+    sect: 'Linji',
     country: 'China',
     place: '-',
     teachers: ['Linji Yixuan'],
@@ -69,10 +70,10 @@ const CnLv13MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '46.13.4',
+    generation: '46',
     name_en: 'Huitang Zuxin',
     name_es: 'Huitang Zuxin',
     name_de: 'Huitang Zuxin',
@@ -85,7 +86,7 @@ const CnLv13MasterDb = [
     name_ar: 'Huitang Zuxin',
     birth_death_time: ['830', '888'],
     records: '',
-    sect: '-',
+    sect: 'Linji',
     country: 'China',
     place: '-',
     teachers: ['Linji Yixuan'],
@@ -93,7 +94,32 @@ const CnLv13MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
+  {
+    id: '46.13.5',
+    generation: '46',
+    hasContent: true,
+    name_en: 'Baoning Renyong',
+    name_es: 'Baoning Renyong',
+    name_de: 'Baoning Renyong',
+    name_fr: 'Baoning Renyong',
+    name_vi: 'Bảo Ninh Nhân Dũng',
+    name_ru: 'Baoning Renyong',
+    name_zh: '保寧仁勇/保宁仁勇',
+    name_ja: 'Hōnei Ninyū',
+    name_ko: 'Baoning Renyong',
+    name_ar: 'Baoning Renyong',
+    birth_death_time: ['?', '1046?'],
+    records: '',
+    sect: 'Linji - Yangqi',
+    country: 'China',
+    place: 'Baoning Temple (宝宁寺/寶寧寺/Bǎoníng Sì - Bảo Ninh Tự), Yuelu District of Changsha, Hunan',
+    teachers: ['Yangqi Fanghui'],
+    successors: [''],
+    disciples: ['Thọ Thánh Trí Uyên (壽聖智淵), Thọ Thánh Sở Văn (壽聖楚文), Bảo Tích Tông Ánh (寶積宗映), Cảnh Phước Nhật Dư (景福日余)'],
+    image: '/images/avatar.png',
+    reference: ['',],
+  },
+
 ]
 export default CnLv13MasterDb;

@@ -1,6 +1,7 @@
 const CnLv16MasterDb = [
   {
     id: '49.16.1',
+    generation: '49',
     name_en: 'Huqiu Shaolong',
     name_es: 'Huqiu Shaolong',
     name_de: 'Huqiu Shaolong',
@@ -25,6 +26,7 @@ const CnLv16MasterDb = [
   },
   {
     id: '49.16.2',
+    generation: '49',
     name_en: 'Huguo Jingyuan',
     name_es: 'Huguo Jingyuan',
     name_de: 'Huguo Jingyuan',
@@ -49,6 +51,7 @@ const CnLv16MasterDb = [
   },
   {
     id: '49.16.3',
+    generation: '49',
     hasContent: true,
     name_en: 'Dahui Zonggao',
     name_es: 'Dahui Zonggao',
@@ -74,6 +77,7 @@ const CnLv16MasterDb = [
   },
   {
     id: '49.16.4',
+    generation: '49',
     name_en: 'Shi Huiyuan',
     name_es: 'Shi Huiyuan',
     name_de: 'Shi Huiyuan',
@@ -98,6 +102,7 @@ const CnLv16MasterDb = [
   },
   {
     id: '49.16.5',
+    generation: '49',
     name_en: 'Yuehan Shanguo',
     name_es: 'Yuehan Shanguo',
     name_de: 'Yuehan Shanguo',
