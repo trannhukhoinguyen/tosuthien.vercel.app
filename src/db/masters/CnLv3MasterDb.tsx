@@ -231,7 +231,7 @@ const CnLv3MasterDb = [
     name_es: 'Chii',
     name_de: 'Chii',
     name_fr: 'Chii',
-    name_vi: 'Trí Oai (Uy)',
+    name_vi: 'Ngưu Đầu Trí Oai',
     name_ru: 'Chii',
     name_zh: '智威 ',
     name_ja: 'Chii',
@@ -244,7 +244,7 @@ const CnLv3MasterDb = [
     place: '-',
     teachers: ['Dàoxuán (道璿)'],
     successors: [''],
-    disciples: ['Huệ Trung (慧忠)', 'Huyền Tố (玄素)'],
+    disciples: ['Ngưu Đầu Tuệ Trung (慧忠)', 'Gakurin Genso - Hạc Lâm Huyền Tố (鶴林玄素)', 'Tuyên Châu Huyền Dĩnh'],
     image: '/images/avatar.png',
     reference: [''],
 
