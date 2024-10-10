@@ -174,7 +174,6 @@ const CnLv5MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://blog.phapthihoi.org/gt-member/tuong-quoc-bui-huu/','https://vi.wikipedia.org/wiki/B%C3%B9i_H%C6%B0u', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/bui-huu-k338.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/bui-huu-k30587.html', 'https://tinhtan.org/2021/01/17/dich-va-binh-tho-dam-lac-dam-cua-te-tuong-bui-huu-791-846'],
-
   },
   {
     id: '38.5.8',
@@ -183,7 +182,7 @@ const CnLv5MasterDb = [
     name_es: 'Kinzan Dōkin',
     name_de: 'Kinzan Dōkin',
     name_fr: 'Kinzan Dōkin',
-    name_vi: 'Kính Sơn Đạo Khâm ',
+    name_vi: 'Kính Sơn Đạo Khâm',
     name_ru: 'Kinzan Dōkin',
     name_zh: '徑山道欽',
     name_ja: 'Kinzan Dōkin',
@@ -199,7 +198,6 @@ const CnLv5MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-
   },
   {
     id: '38.5.9',
@@ -225,7 +223,30 @@ const CnLv5MasterDb = [
     disciples: ['Zhangzhuo Xiucai', 'Jiufeng Daoqian'],
     image: '/images/avatar.png',
     reference: ['https://blog.phapthihoi.org/gt-member/ts-thach-suong-khanh-chu/', 'https://hoavouu.com/a17583/03-thien-su-khanh-chu-o-thach-suong', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html'],
-
+  },
+  {
+    id: '38.5.10',
+    generation: '38',
+    name_en: 'Lingyun Zhiqin',
+    name_es: 'Lingyun Zhiqin',
+    name_de: 'Lingyun Zhiqin',
+    name_fr: 'Lingyun Zhiqin',
+    name_vi: 'Linh Vân Chí Cần',
+    name_ru: 'Lingyun Zhiqin',
+    name_zh: '靈雲志勤',
+    name_ja: 'Reiun Shigon',
+    name_ko: 'Lingyun Zhiqin',
+    name_ar: 'Lingyun Zhiqin',
+    birth_death_time: ['?', '?'],
+    records: '',
+    sect: ['-'],
+    country: 'China',
+    place: '',
+    teachers: ['Guishan Lingyou'],
+    successors: [''],
+    disciples: [],
+    image: '/images/avatar.png',
+    reference: ['https://thuvienhoasen.org/images/file/jFMpvZ1G0QgQALUw/vuon-thien-rung-ngoc-thong-thien-dich-0.pdf', 'https://www.niemphat.vn/downloads/thien-tong/hoc-thien/vuon-thien-rung-ngoc-thong-thien.pdf', 'http://thuongchieu.net/index.php?option=com_content&view=article&id=853:bai-6--linh-van-trong-thy-hoa&catid=44:vn-thin-rng-ngc&Itemid=355', 'https://vi.wikipedia.org/wiki/Linh_V%C3%A2n_Ch%C3%AD_C%E1%BA%A7n'],
   },
 ]
 export default CnLv5MasterDb;

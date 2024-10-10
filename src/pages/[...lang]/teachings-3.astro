@@ -1,0 +1,372 @@
+---
+import Base from "@/layouts/Base.astro";
+import { supportedLang } from "@/lib/utils/languageParser";
+import { site } from "@/config/config.json";
+import PageHeader from "../../layouts/partials/PageHeader.astro";
+import Indent from "@/shortcodes/Indent.tsx";
+
+export function getStaticPaths() {
+    const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+const { lang } = Astro.params;
+---
+
+<Base
+  title={ !lang || lang === 'vi' ? 'CÁC BÀI MINH, KÝ, CHÂM, CA CÁC TỔ SƯ' : 'Teachings' }
+  meta_title={ !lang || lang === 'vi' ? 'CÁC BÀI MINH, KÝ, CHÂM, CA CÁC TỔ SƯ' : 'Teachings' }
+  description={ !lang || lang === 'vi' ? 'CÁC BÀI MINH, KÝ, CHÂM, CA CÁC TỔ SƯ' : 'Teachings' }
+  image={'/images/meta-image-wide.jpg'}
+>
+  <PageHeader title={ !lang || lang === 'vi' ? 'CÁC BÀI MINH, KÝ, CHÂM, CA CÁC TỔ SƯ' : 'Teachings' } />
+  <section class="section-sm">
+
+    {
+      !lang || lang === 'vi'
+        ? <div class="container vi-teachings">
+            <h1>CÁC BÀI MINH, KÝ, CHÂM, CA CÁC TỔ SƯ</h1>
+            <h1></h1>
+
+          <details>
+            <summary class="font-bold">
+              TÂM VƯƠNG MINH
+              <em>(Phó Đại Sĩ)</em>
+            </summary>
+            Quán tâm không vương
+
+            Huyền diệu khó lường
+
+            Không hình không tướng
+
+            Có đại thần lực
+
+            Hay trừ ngàn nạn
+
+            Thành tựu muôn đức
+
+            Thể tánh tuy không
+
+            Thi hành phép tắc
+
+            Xem chẳng thấy hình
+
+            Gọi lên có tiếng
+
+            Làm đại pháp tướng
+
+            Tâm giới truyền kinh
+
+            Vị muối trong nước
+
+            Keo trong nơi màu
+
+            Quyết định là có
+
+            Chẳng thấy được hình
+
+            Tâm vương cũng vậy
+
+            Trong thân ở dừng
+
+            Trên mặt vào ra
+
+            Ứng vật theo tình
+
+            Tự tại vô ngại
+
+            Việc làm đều thành
+
+            Rõ gốc biết tâm
+
+            Biết tâm thấy Phật
+
+            Tâm ấy là Phật
+
+            Phật ấy là tâm
+
+            Niệm niệm tâm Phật
+
+            Tâm Phật niệm Phật
+
+            Muốn được sớm thành
+
+            Răn tâm tự luật
+
+            Tịnh luật tịnh tâm
+
+            Tâm tức là Phật
+
+            Trừ tâm vương đó
+
+            Chẳng Phật nào khác
+
+            Muốn cầu thành Phật
+
+            Chớ nhiễm một vật
+
+            Tâm tánh tuy không
+
+            Tham sân thể thật
+
+            Vào pháp môn đó
+
+            Ngồi nghiêm thành Phật
+
+            Đến bờ kia rồi
+
+            Được Ba-la-mật
+
+            Người thật mộ đạo
+
+            Tự xét tâm mình
+
+            Biết Phật bên trong
+
+            Chẳng hướng ngoài tìm
+
+            Tâm ấy là Phật
+
+            Phật ấy là tâm
+
+            Tâm sáng hiểu Phật
+
+            Hiểu rõ biết tâm
+
+            Rời tâm không Phật
+
+            Rời Phật không tâm
+
+            Phi Phật khó lường
+
+            Chẳng nơi kham nhiệm
+
+            Chấp không trệ tịch
+
+            Trôi chìm nơi đó
+
+            Chư Phật Bồ-tát
+
+            Chẳng đó an tâm
+
+            Đại sĩ minh tâm
+
+            Ngộ nguyên tâm đó
+
+            Thân tâm tánh diệu
+
+            Dùng chẳng đổi thay
+
+            Vì thế người trí
+
+            Buông tâm tự tại
+
+            Chẳng nói tâm vương
+
+            Không vô thể tánh
+
+            Hay khiến sắc thân
+
+            Làm tà làm chánh
+
+            Chẳng có, chẳng không
+
+            Ẩn hiện không chừng
+
+            Tâm tánh rời không
+
+            Hay phàm, hay Thánh
+
+            Cho nên khuyên nhau
+
+            Nên tự cẩn thận
+
+            Phút giây tạo tác
+
+            Sẽ lại trôi chìm
+
+            Thanh tịnh tâm trí
+
+            Như thể vàng ròng
+
+            Pháp tạng Bát-nhã
+
+            Đều tại thân tâm
+
+            Pháp bảo vô vi
+
+            Chẳng cạn, chẳng sâu
+
+            Chư Phật, Bồ-tát
+
+            Rành bổn tâm đó
+
+            Kẻ có duyên gặp
+
+            Chẳng xưa, nay, tới.
+
+          </details>
+
+          <details>
+            <summary class="font-bold">
+              TÍN TÂM MINH
+              <em>(Tam Tổ Đại Sư Tăng Xán)</em>
+            </summary>
+            Chí đạo không khó, chỉ hiềm chọn lựa
+
+            Duy chớ ghét thương, tự nhiên sáng rõ
+
+            Mảy may sai khác, đất trời cách xa
+
+            Muốn được hiện tiền, chớ còn thuận nghịch
+
+            Thuận nghịch tranh nhau, chẳng thiếu chẳng dư
+
+            Bởi do buông bắt, cho nên chẳng như
+
+            Chớ đuổi hữu duyên, chớ trụ không nhẫn
+
+            Một loại bình hoài, man nhiên tự dứt
+
+            Ngăn động về tịnh, tịnh càng thêm động
+
+            Hễ kẹt hai bên, há biết một loại
+
+            Một loại không thông, hai nơi thất công
+
+            Trừ có kẹt có, theo không trái không
+
+            Lời nhiều lo nhiều, lại chẳng tương ưng
+
+            Dứt lời dứt lo, chẳng nơi không thông
+
+            Về gốc được chỉ, tùy chiếu mất tông
+
+            Phản chiếu chốc lát, thẳng cả không kia
+
+            Không kia chuyển biến, đều do vọng kiến
+
+            Chẳng dụng cầu chân, chi cần ngừng thấy
+
+            Hai kiến không trụ, cẩn thận chớ tìm
+
+            Vừa có phải trái, tự nhiên mất tâm
+
+            Hai do một có, một cũng chẳng giữ
+
+            Một tâm không sanh, muôn pháp không lỗi
+
+            Không lỗi không pháp, chẳng sanh chẳng tâm
+
+            Năng theo cảnh diệt, cảnh đuổi năng chìm
+
+            Cảnh do năng cảnh, năng do cảnh năng
+
+            Muốn biết hai đoạn, nguyên là một không
+
+            Một không giống hai, cùng ngậm vạn tượng
+
+            Chẳng thấy tinh thô,  há có nghiêng lệch
+
+            Đại đạo thể rộng,  không dễ không khó
+
+            Tiểu kiến nghi ngờ, thành mau thành chậm
+
+            Chấp thì thất độ, tất vào đường lệch
+
+            Buông thả tự nhiên, thể không khứ trụ
+
+            Mặc tánh hiệp đạo, tiêu diêu dứt não
+
+            Hệ niệm vướng chân, hôn trầm chẳng tốt
+
+            Chẳng tốt lao thần, kể chi sơ thân
+
+            Muốn chứng một thừa, chớ ghét sáu trần
+
+            Sáu trần chằng ghét, kể như chánh giác
+
+            Người trí vô vi, kẻ ngu tự trói
+
+            Pháp chẳng pháp khác, vọng tự ái trước
+
+            Đem tâm dụng tâm, há chẳng lầm to
+
+            Mê sanh tịch loạn, ngộ không xấu tốt
+
+            Nhứt thiết hai bên, là do châm chước
+
+            Mộng ảo không hoa, há nhọc nắm bắt
+
+            Được mất phải trái, cùng lúc buông bỏ
+
+            Mắt nếu không ngủ, các mộng tự trừ
+
+            Tâm không sai khác, muôn pháp nhứt như
+
+            Nhứt như thể huyền, trơ trơ quên duyên
+
+            Vạn pháp cùng quán, qui phục tự nhiên
+
+            Bặt hết lý giải, chẳng thể ví dụ
+
+            Dừng động chẳng động, động dừng không dừng
+
+            Hai đã không thành, một sao có được?
+
+            Rốt ráo cùng cực, chẳng còn quy tắc
+
+            Khế tâm bình đẳng, mọi tác đều ngưng
+
+            Hồ nghi sạch trơn, chánh tín vững chắc
+
+            Tất cả không giữ, chẳng thể nhớ được
+
+            Hư sáng tự chiếu, chẳng lao tâm lực
+
+            Chẳng chỗ tư lượng, thức tình khó lường
+
+            Chân như pháp giới, chẳng người chẳng ta
+
+            Cần gấp tương ưng, duy nói không hai
+
+            Chẳng hai đều đồng, chẳng không bao dung
+
+            Người trí mười phương, đều vào Tông này
+
+            Tông chẳng ngắn dài (lâu mau), một niệm ngàn năm
+
+            Không tại chẳng tại, quên dứt cảnh giới
+
+            Thật lớn đồng nhỏ, chẳng thấy mé lề
+
+            Có tức là không, không tức là có
+
+            Nếu không như thế, ắt chẳng cần giữ
+
+            Một là tất cả, tất cả là một
+
+            Nếu được như thế, lo gì không xong
+
+            Tín tâm chẳng hai, chẳng hai tín tâm
+
+            Ngôn ngữ đạo đoạn, chẳng xưa, nay, sắp.
+          </details>
+
+          </div>
+        : <div class="container en-teachings"></div>
+    }
+
+  </section>
+</Base>
+
+<style>
+  mark {
+    background-color: #e8e8e8;
+    font-weight: 600;
+    text-shadow: #c2b303;
+    font-family: Dosis, arial, helvetica, sans-serif;
+  }
+</style>

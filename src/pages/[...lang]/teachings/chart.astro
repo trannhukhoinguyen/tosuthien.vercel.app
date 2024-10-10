@@ -1,0 +1,46 @@
+---
+import { getSinglePage } from "@/lib/contentParser.astro";
+import {supportedLang} from "../../../lib/utils/languageParser";
+import type { ContentEntryMap } from "astro:content";
+import MonoChart from "../../../layouts/components/Chart/MonoChart.astro";
+import ColorfulChart from "../../../layouts/components/Chart/ColorfulChart.astro";
+import ListChart from "../../../layouts/components/Chart/ListChart.astro";
+import Base from "../../../layouts/Base.astro";
+
+export async function getStaticPaths() {
+  const paths = await Promise.all(
+  supportedLang.map(async (lang) => {
+      const pages = await getSinglePage("pages", lang as keyof ContentEntryMap);
+
+      return pages.map((page) => ({
+        params: {
+          lang: lang || undefined,
+          regular: page.slug.split("/").pop(),
+        },
+        search: {
+          id: page.slug.split("=").pop(),
+        },
+        props: {
+          page,
+        },
+      }));
+    })
+  );
+  return paths.flat();
+}
+
+const id = "";
+---
+
+<script client:load>
+  // This will run in the browser after the page loads
+  document.addEventListener('DOMContentLoaded', () => {
+    const storedItem = location.search.split('=')[1] || 'No item found';
+    document.getElementById('output').innerText = storedItem;
+  });
+</script>
+<Base title="Master Chart">
+<section class="section-sm text-center">
+  <MonoChart id={id} />
+</section>
+</Base>

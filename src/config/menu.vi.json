@@ -17,8 +17,7 @@
       "hasChildren": true,
       "children": [
         { "name": "Tuyệt tác", "url": "/masterpieces" },
-        { "name": "Thiền Quan Sách Tấn", "url": "/teachings-1" },
-        { "name": "Nghiêm Huấn Tùng Lâm", "url": "/teachings-2" }
+        { "name": "Ngữ lục", "url": "/teachings" }
       ]
     },
     {

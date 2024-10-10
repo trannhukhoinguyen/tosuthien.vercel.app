@@ -1,6 +1,17 @@
 import { defineCollection, z } from "astro:content";
 
 // Collection schema
+const teachingsCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    tags: z.array(z.string()).default([""]),
+    draft: z.boolean().optional(),
+  }),
+});
 const mastersCollection = defineCollection({
   schema: z.object({
     title: z.string(),
@@ -97,6 +108,7 @@ const callToActionSchema = z.object({
 
 // Export collections
 export const collections = {
+  teachings: teachingsCollection,
   masters: mastersCollection,
   monasteries: monasteriesCollection,
   pages: pagesCollection,
