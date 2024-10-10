@@ -97,7 +97,7 @@ const CnLv7MasterDb = [
     teachers: ['Xuefeng Yicun'],
     successors: [''],
     disciples: ['Song Tuyền Nhân Úc (雙泉仁郁)', 'Song Phong Quảng Ngộ (雙峰竟欽)', 'Phụng Tiên Đạo Thâm (奉先道琛)',
-      'Ba Lăng Hạo Giám (巴陵顥鑒)', ' Động Sơn Thủ Sơ (洞山守初)', 'Đức Sơn Duyên Mật (德山縁密)', 'Song Tuyền Sư Khoan (雙泉師寛)',
+      'Baling Haojian - Ba Lăng Hạo Giám (巴陵顥鑒)', ' Động Sơn Thủ Sơ (洞山守初)', 'Đức Sơn Duyên Mật (德山縁密)', 'Song Tuyền Sư Khoan (雙泉師寛)',
       'Hương Lâm Trừng Viễn (奉先道琛)',],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/mesterek/Yunmen.pdf', 'https://terebess.hu/zen/yunmen.html', 'https://en.wikipedia.org/wiki/Yunmen_Wenyan'],
