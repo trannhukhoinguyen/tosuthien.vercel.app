@@ -33,8 +33,7 @@
   border-left: 1px solid #ccc;
 }
 
-/*We need to remove left-right connectors from elements without
-any siblings*/
+
 .tree li:only-child::after, .tree li:only-child::before {
   display: none;
 }
