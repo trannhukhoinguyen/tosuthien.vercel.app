@@ -44,8 +44,8 @@ const CnLv5MasterDb = [
     place: '-',
     teachers: ['Yunyan Tansheng'],
     successors: ['Yunju Daoying', 'Caoshan Benji'],
-    disciples: [],
-    image: '/images/avatar.png',
+    disciples: ['Yunju Daoying', 'Caoshan Benji'],
+    image: 'https://terebess.hu/zen/mesterek/Ma-Yuan_Dongshan.jpg',
     reference: [''],
 
   },
