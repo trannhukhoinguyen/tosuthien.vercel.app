@@ -22,7 +22,6 @@ const CnLv6MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-
   },
   {
     id: '39.6.2',
@@ -47,7 +46,6 @@ const CnLv6MasterDb = [
     disciples: ['Nanyuan Huiyong'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/xinghua.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/hung-hoa-ton-tuong-k4195.html', 'https://vi.wikipedia.org/wiki/H%C6%B0ng_H%C3%B3a_T%E1%BB%93n_T%C6%B0%C6%A1ng'],
-
   },
   {
     id: '39.6.3',
@@ -72,7 +70,6 @@ const CnLv6MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://blog.phapthihoi.org/gt-member/ts-tam-thanh-hue-nhien/', 'https://vi.wikipedia.org/wiki/Tam_Th%C3%A1nh_Hu%E1%BB%87_Nhi%C3%AAn', ''],
-
   },
   {
     id: '39.6.4',
@@ -121,7 +118,6 @@ const CnLv6MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-
   },
   {
     id: '39.6.6',
@@ -147,7 +143,6 @@ const CnLv6MasterDb = [
     disciples: ['Heshan Wuyin', 'Baofeng Yanmao', 'Guangmu Xingxiu', "Tong'an Changcha", 'Letan Kuangwu'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Jiufeng_Daoqian', 'https://www.reddit.com/r/Koans/comments/160eeb/jiufengs_one_who_transmits_words_221_of_300/', 'https://www.rongmotamhon.net/daouyen/Data/Ph_C/C84.htm'],
-
   },
   {
     id: '39.6.7',
@@ -172,6 +167,54 @@ const CnLv6MasterDb = [
     disciples: ['Xuansha Shibei', 'Yunmen Wenyan', 'Baofu Congzhan', 'Changqing Huileng'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/xuefeng.html', 'https://wikipedia.org/wiki/Xuefeng_Yicun'],
+  },
+  {
+    id: '39.6.8',
+    generation: '39',
+    name_en: 'Niaoke Daolin',
+    name_es: 'Niaoke Daolin',
+    name_de: 'Niaoke Daolin',
+    name_fr: 'Niaoke Daolin',
+    name_vi: 'Đạo Lâm Ô Khòa',
+    name_ru: 'Niaoke Daolin',
+    name_zh: '鳥窠道林',
+    name_ja: 'Niaoke Daolin',
+    name_ko: 'Niaoke Daolin',
+    name_ar: 'Niaoke Daolin',
+    birth_death_time: ['741', '824'],
+    records: '',
+    sect: '-',
+    country: 'China',
+    place: '-',
+    teachers: ['Kinzan Dōkin'],
+    successors: [''],
+    disciples: ['Hàng Châu Hội Thông'],
+    image: '/images/avatar.png',
+    reference: ['https://en.wikipedia.org/wiki/Niaoke_Daolin'],
+  },
+  {
+    id: '39.6.9',
+    generation: '39',
+    name_en: 'Yunju Daoying',
+    name_es: 'Yunju Daoying',
+    name_de: 'Yunju Daoying',
+    name_fr: 'Yunju Daoying',
+    name_vi: 'Vân Cư Đạo Ưng',
+    name_ru: 'Yunju Daoying',
+    name_zh: '雲居道膺',
+    name_ja: 'Ungo Dōyō',
+    name_ko: 'Yunju Daoying',
+    name_ar: 'Yunju Daoying',
+    birth_death_time: ['835', '902'],
+    records: '',
+    sect: '-',
+    country: 'China',
+    place: '-',
+    teachers: ['Dongshan Liangjie'],
+    successors: ['Tongan Daopi'],
+    disciples: ['Tongan Daopi'],
+    image: 'https://terebess.hu/zen/mesterek/woodcut/39-3.jpg',
+    reference: ['https://terebess.hu/zen/mesterek/YunjuDaoying.html', 'https://en.wikipedia.org/wiki/Yunju_Daoying', 'https://vi.wikipedia.org/wiki/V%C3%A2n_C%C6%B0_%C4%90%E1%BA%A1o_%C6%AFng'],
   },
 ]
 export default CnLv6MasterDb;
