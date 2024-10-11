@@ -1,5 +1,5 @@
 ---
-title: "Thiền quan"
-meta_title: "Thiền quan"
-description: "Thiền quan"
+title: "Ngữ lục sách tấn"
+meta_title: "Ngữ lục sách tấn"
+description: "Ngữ lục sách tấn"
 ---

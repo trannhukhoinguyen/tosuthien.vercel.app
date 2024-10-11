@@ -17,7 +17,8 @@
       "hasChildren": true,
       "children": [
         { "name": "Tuyệt tác", "url": "/masterpieces" },
-        { "name": "Ngữ lục", "url": "/teachings" }
+        { "name": "Ngữ lục sách tấn", "url": "/teachings" },
+        { "name": "Công án Nổi tiếng", "url": "/famous-zen-koans" }
       ]
     },
     {

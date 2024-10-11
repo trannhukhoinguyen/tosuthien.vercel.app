@@ -1,6 +1,5 @@
 body {
-  background-color: #FFF;
-  animation: change-background 3s infinite linear;
+  animation: change-background 10s infinite linear;
 }
 
 .wrapper {
@@ -18,7 +17,7 @@ body {
   height: 5px;
   background: #673C63;
   transform: translate(-50%, -50%);
-  box-shadow: 0px 2px 5px #111;
+  box-shadow: 0 2px 5px #111;
   z-index: 2;
 }
 
@@ -40,12 +39,12 @@ body {
   height: 100px;
   background: #fff;
   border: 3px solid #673C63;
-  border-bottom: 0px;
+  border-bottom: 0;
   border-radius: 3px;
   transform-origin: center right;
   transform: translate(60%, -25%);
   box-shadow: -2px 0px 0px #95c6f2 inset;
-  animation: expand-body 3s infinite linear;
+  animation: expand-body 10s infinite linear;
 }
 
 .candle1__stick, .candle2__stick {
@@ -62,7 +61,7 @@ body {
 .candle2__stick {
   height: 12px;
   transform-origin: bottom center;
-  animation: stick-animation 3s infinite linear;
+  animation: stick-animation 10s infinite linear;
 }
 
 .candle1__eyes, .candle2__eyes {
@@ -83,7 +82,7 @@ body {
   border-radius: 100%;
   background: #673C63;
   transform: translate(-70%, 0%);
-  animation: blink-eyes 3s infinite linear;
+  animation: blink-eyes 10s infinite linear;
 }
 
 .candle1__eyes-two {
@@ -95,19 +94,19 @@ body {
   border-radius: 100%;
   background: #673C63;
   transform: translate(-70%, 0%);
-  animation: blink-eyes 3s infinite linear;
+  animation: blink-eyes 10s infinite linear;
 }
 
 .candle1__mouth {
   position: absolute;
   left: 40%;
   top: 20%;
-  width: 0px;
-  height: 0px;
+  width: 0;
+  height: 0;
   border-radius: 20px;
   background: #673C63;
   transform: translate(-50%, -50%);
-  animation: uff 3s infinite linear;
+  animation: uff 10s infinite linear;
 }
 
 .candle__smoke-one {
@@ -118,7 +117,7 @@ body {
   height: 3px;
   background: grey;
   transform: translate(-50%, -50%);
-  animation: move-left 3s infinite linear;
+  animation: move-left 10s infinite linear;
 }
 
 .candle__smoke-two {
@@ -130,7 +129,7 @@ body {
   border-radius: 10px;
   background: grey;
   transform: translate(-50%, -50%);
-  animation: move-top 3s infinite linear;
+  animation: move-top 10s infinite linear;
 }
 
 .candle2 {
@@ -141,12 +140,12 @@ body {
   height: 60px;
   background: #fff;
   border: 3px solid #673C63;
-  border-bottom: 0px;
+  border-bottom: 0;
   border-radius: 3px;
   transform: translate(60%, -15%);
   transform-origin: center right;
   box-shadow: -2px 0px 0px #95c6f2 inset;
-  animation: shake-left 3s infinite linear;
+  animation: shake-left 10s infinite linear;
 }
 
 .candle2__eyes-one {
@@ -156,12 +155,12 @@ body {
   width: 5px;
   height: 5px;
   display: inline-block;
-  border: 0px solid #673C63;
+  border: 0 solid #673C63;
   border-radius: 100%;
   float: left;
   background: #673C63;
   transform: translate(-80%, 0%);
-  animation: changeto-lower 3s infinite linear;
+  animation: changeto-lower 10s infinite linear;
 }
 
 .candle2__eyes-two {
@@ -171,12 +170,12 @@ body {
   width: 5px;
   height: 5px;
   display: inline-block;
-  border: 0px solid #673C63;
+  border: 0 solid #673C63;
   border-radius: 100%;
   float: left;
   background: #673C63;
   transform: translate(-80%, 0%);
-  animation: changeto-greater 3s infinite linear;
+  animation: changeto-greater 10s infinite linear;
 }
 
 .light__wave {
@@ -189,7 +188,7 @@ body {
   z-index: 0;
   transform: translate(-25%, -50%) scale(2.5, 2.5);
   border: 2px solid rgba(255, 255, 255, 0.2);
-  animation: expand-light 3s infinite linear;
+  animation: expand-light 10s infinite linear;
 }
 
 .candle2__fire {
@@ -203,7 +202,7 @@ body {
   border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
   background: #FF9800;
   transform: translate(-50%, -50%);
-  animation: dance-fire 3s infinite linear;
+  animation: dance-fire 10s infinite linear;
 }
 
 @keyframes blink-eyes {
@@ -248,8 +247,8 @@ body {
 }
 @keyframes uff {
   0%,40% {
-    width: 0px;
-    height: 0px;
+    width: 0;
+    height: 0;
   }
   50%,54% {
     width: 15px;
@@ -267,8 +266,8 @@ body {
     left: 20%;
   }
   67% {
-    width: 0px;
-    height: 0px;
+    width: 0;
+    height: 0;
     left: 30%;
   }
 }
@@ -282,7 +281,7 @@ body {
 }
 @keyframes move-left {
   0%,59%,100% {
-    width: 0px;
+    width: 0;
     left: 40%;
   }
   60% {
@@ -290,15 +289,15 @@ body {
     left: 30%;
   }
   68% {
-    width: 0px;
+    width: 0;
     left: 20%;
   }
 }
 @keyframes move-top {
   0%,64%,100% {
-    width: 0px;
-    height: 0px;
-    top: 0%;
+    width: 0;
+    height: 0;
+    top: 0;
   }
   65% {
     width: 10px;
@@ -307,8 +306,8 @@ body {
     left: 40%;
   }
   80% {
-    width: 0px;
-    height: 0px;
+    width: 0;
+    height: 0;
     top: 20%;
   }
 }
