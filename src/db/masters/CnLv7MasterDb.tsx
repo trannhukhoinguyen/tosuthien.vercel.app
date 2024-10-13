@@ -110,7 +110,7 @@ const CnLv7MasterDb = [
     name_es: 'Baofu Congzhan',
     name_de: 'Baofu Congzhan',
     name_fr: 'Baofu Congzhan',
-    name_vi: 'Bảo Phước Tòng Triển',
+    name_vi: 'Bảo Phúc Tùng Triển (Bảo Phước Tòng Triển)',
     name_ru: 'Baofu Congzhan',
     name_zh: '保福從展',
     name_ja: 'Hōfuku Jūten',
