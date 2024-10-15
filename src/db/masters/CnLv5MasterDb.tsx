@@ -104,6 +104,7 @@ const CnLv5MasterDb = [
   {
     id: '38.5.5',
     generation: '38',
+    hasContent: true,
     name_en: 'Linji Yixuan',
     name_es: 'Linji Yixuan',
     name_de: 'Linji Yixuan',
@@ -123,7 +124,7 @@ const CnLv5MasterDb = [
     successors: ['Xinghua Cunjiang'],
     disciples: ['Xinghua Cunjiang', 'Sansheng Huiran'],
     image: '/images/avatar.png',
-    reference: [''],
+    reference: ['https://vi.wikipedia.org/wiki/L%C3%A2m_T%E1%BA%BF_Ngh%C4%A9a_Huy%E1%BB%81n', 'https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-', 'https://quangduc.com/p157a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su'],
 
   },
   {

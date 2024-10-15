@@ -5,12 +5,12 @@ $blue: #0075c4;
 $purple: #ad74c4;
 $orange: #ec8005;
 $gold: gold;
-
-* {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
+$teal: teal;
+$cyan: cyan;
+$chocolate: chocolate;
+$maroon: maroon;
+$brown: brown;
+$red: red;
 
 .main-content {
   display: flex;
@@ -146,6 +146,12 @@ $gold: gold;
     }
     &:nth-child(5) {
       background: #fec309;
+    }
+    &:nth-child(6) {
+      background: #cc9c04;
+    }
+    &:nth-child(7) {
+      background: #9b7705;
     }
   }
   .palette__cover {

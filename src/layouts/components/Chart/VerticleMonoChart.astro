@@ -1,0 +1,95 @@
+---
+import "../../../styles/additional/VerticleMonoChart.scss";
+import {
+  getLangFromUrl,
+  supportedLang,
+} from "../../../lib/utils/languageParser";
+
+const { masterData } = Astro.props;
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+let lang = getLangFromUrl(Astro.url);
+---
+
+<div id="tree">
+  {masterData}
+  <div class="branch">
+    <div class="entry"><span>Husband</span>
+      <div class="branch">
+        <div class="entry"><span>Father</span>
+          <div class="branch">
+            <div class="entry"><span>Grandfather</span>
+              <div class="branch">
+                <div class="entry"><span>Great Grandfather</span></div>
+                <div class="entry"><span>Great Grandmother</span></div>
+              </div>
+            </div>
+            <div class="entry"><span>Grandmother</span>
+              <div class="branch">
+                <div class="entry"><span>Great Grandfather</span></div>
+                <div class="entry"><span>Great Grandmother</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="entry"><span>Mother</span>
+          <div class="branch">
+            <div class="entry"><span>Grandfather</span>
+              <div class="branch">
+                <div class="entry"><span>Great Grandfather</span></div>
+                <div class="entry"><span>Great Grandmother</span></div>
+              </div>
+            </div>
+            <div class="entry"><span>Grandmother</span>
+              <div class="branch">
+                <div class="entry"><span>Great Grandfather</span></div>
+                <div class="entry"><span>Great Grandmother</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="entry"><span>Wife</span>
+      <div class="branch">
+        <div class="entry"><span>Father</span>
+          <div class="branch">
+            <div class="entry"><span>Grandfather</span>
+              <div class="branch">
+                <div class="entry"><span>Great Grandfather</span></div>
+                <div class="entry"><span>Great Grandmother</span></div>
+              </div>
+            </div>
+            <div class="entry"><span>Grandmother</span>
+              <div class="branch">
+                <div class="entry"><span>Great Grandfather</span></div>
+                <div class="entry"><span>Great Grandmother</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="entry"><span>Mother</span>
+          <div class="branch">
+            <div class="entry"><span>Grandfather</span>
+              <div class="branch">
+                <div class="entry"><span>Great Grandfather</span></div>
+                <div class="entry"><span>Great Grandmother</span></div>
+              </div>
+            </div>
+            <div class="entry"><span>Grandmother</span>
+              <div class="branch">
+                <div class="entry"><span>Great Grandfather</span></div>
+                <div class="entry"><span>Great Grandmother</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

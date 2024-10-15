@@ -1,0 +1,60 @@
+---
+import "../../../styles/additional/SummaryFileChart.scss";
+import {
+  getLangFromUrl,
+  supportedLang,
+} from "../../../lib/utils/languageParser";
+
+const { masterData } = Astro.props;
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+let lang = getLangFromUrl(Astro.url);
+---
+
+<div class="container">
+  <details open="open">
+    <summary>{masterData}</summary>
+    <div class="folder">
+      <p>app.py</p>
+      <p>package.json</p>
+      <details open="open">
+        <summary>static</summary>
+        <div class="folder">
+          <details>
+            <summary>css</summary>
+            <div class="folder">
+              <p>index.css</p>
+              <p>template.css</p>
+            </div>
+          </details>
+          <details open="open">
+            <summary>js</summary>
+            <div class="folder">
+              <p>index.js</p>
+              <p>jquery-min.js</p>
+            </div>
+          </details>
+          <details>
+            <summary>img</summary>
+            <div class="folder">
+              <p>banner.png</p>
+              <p>foo.png</p>
+            </div>
+          </details>
+        </div>
+      </details>
+      <details open="open">
+        <summary>templates</summary>
+        <div class="folder">
+          <p>index.html</p>
+          <p>template.html</p>
+        </div>
+      </details>
+    </div>
+  </details>
+</div>
