@@ -26,6 +26,7 @@ const CnLv6MasterDb = [
   {
     id: '39.6.2',
     generation: '39',
+    hasContent: true,
     name_en: 'Xinghua Cunjiang',
     name_es: 'Xinghua Cunjiang',
     name_de: 'Xinghua Cunjiang',
@@ -45,7 +46,7 @@ const CnLv6MasterDb = [
     successors: ['Nanyuan Huiyong'],
     disciples: ['Nanyuan Huiyong'],
     image: '/images/avatar.png',
-    reference: ['https://terebess.hu/zen/xinghua.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/hung-hoa-ton-tuong-k4195.html', 'https://vi.wikipedia.org/wiki/H%C6%B0ng_H%C3%B3a_T%E1%BB%93n_T%C6%B0%C6%A1ng'],
+    reference: ['https://terebess.hu/zen/xinghua.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/hung-hoa-ton-tuong-k4195.html', 'https://vi.wikipedia.org/wiki/H%C6%B0ng_H%C3%B3a_T%E1%BB%93n_T%C6%B0%C6%A1ng', 'http://thuongchieu.net/index.php/chuyende/thiensutrunghoa/1680-hng-hoa-tn-tng-thin-s', 'https://blog.phapthihoi.org/gt-member/ts-hung-hoa-ton-tuong'],
   },
   {
     id: '39.6.3',
@@ -69,7 +70,7 @@ const CnLv6MasterDb = [
     successors: [''],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['https://blog.phapthihoi.org/gt-member/ts-tam-thanh-hue-nhien/', 'https://vi.wikipedia.org/wiki/Tam_Th%C3%A1nh_Hu%E1%BB%87_Nhi%C3%AAn', ''],
+    reference: ['https://blog.phapthihoi.org/gt-member/ts-tam-thanh-hue-nhien/', 'https://vi.wikipedia.org/wiki/Tam_Th%C3%A1nh_Hu%E1%BB%87_Nhi%C3%AAn', 'https://pl.wikipedia.org/wiki/Sansheng_Huiran'],
   },
   {
     id: '39.6.4',
