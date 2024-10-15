@@ -20,7 +20,7 @@ const CnLv11MasterDb = [
     place: '-',
     teachers: ['Fenyang Shanzhao'],
     successors: ['Yangqi Fanghui', 'Huanglong Huinan'],
-    disciples: ['Yangqi Fanghui', 'Huanglong Huinan'],
+    disciples: ['Yangqi Fanghui', 'Huanglong Huinan', 'Cuiyan Kezhen'],
     image: 'https://terebess.hu/zen/mesterek/Ciming.gif',
     reference: ['https://terebess.hu/zen/shishuang.html', 'https://en.wikipedia.org/wiki/Shishuang_Temple', 'https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_S%C6%B0%C6%A1ng_S%E1%BB%9F_Vi%C3%AAn'],
     youtubeId: ['z6WI0EXr1Aw'],

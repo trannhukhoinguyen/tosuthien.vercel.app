@@ -53,5 +53,32 @@ const CnLv12MasterDb = [
     youtubeId: [''],
 
   },
+  {
+    id: '45.12.3',
+    generation: '45',
+    hasContent: true,
+    name_en: 'Cuiyan Kezhen',
+    name_es: 'Cuiyan Kezhen',
+    name_de: 'Cuiyan Kezhen',
+    name_fr: 'Cuiyan Kezhen',
+    name_vi: 'Thuý Nham Chân Khả',
+    name_ru: 'Cuiyan Kezhen',
+    name_zh: '翠巖可真',
+    name_ja: 'Suigan Kakushin',
+    name_ko: '취암가진 Chwiam Kajin',
+    name_ar: 'Cuiyan Kezhen',
+    birth_death_time: ['?', '1064'],
+    records: '',
+    sect: 'Linji',
+    country: 'China',
+    place: '-',
+    teachers: ['Shishuang Chuyuan'],
+    successors: [''],
+    disciples: ['Dagui Muzhe'],
+    image: '/images/avatar.png',
+    reference: ['https://pl.wikipedia.org/wiki/Cuiyan_Kezhen'],
+    youtubeId: [''],
+
+  },
 ]
 export default CnLv12MasterDb;

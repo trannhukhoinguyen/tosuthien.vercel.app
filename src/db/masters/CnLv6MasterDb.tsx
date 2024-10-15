@@ -51,6 +51,7 @@ const CnLv6MasterDb = [
   {
     id: '39.6.3',
     generation: '39',
+    hasContent: true,
     name_en: 'Sansheng Huiran',
     name_es: 'Sansheng Huiran',
     name_de: 'Sansheng Huiran',
