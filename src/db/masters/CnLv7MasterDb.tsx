@@ -14,7 +14,7 @@ const CnLv7MasterDb = [
     name_ar: 'Nanyuan Huiyong',
     birth_death_time: ['860', '950'],
     records: '',
-    sect: '-',
+    sect: 'Linji',
     country: 'China',
     place: '-',
     teachers: ['Xinghua Cunjiang'],

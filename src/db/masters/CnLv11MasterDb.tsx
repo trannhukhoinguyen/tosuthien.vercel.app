@@ -46,7 +46,7 @@ const CnLv11MasterDb = [
     place: '-',
     teachers: ['Tiantai Deshao'],
     successors: [''],
-    disciples: [],
+    disciples: ['Triều Minh Viện Tân (朝明院津)', 'Phú Dương Tử Bàng (富陽子蒙)'],
     image: '',
     reference: ['https://en.wikipedia.org/wiki/Yongming_Yanshou', 'https://blog.phapthihoi.org/tu-dien-phat-giao/vinh-minh-dien-tho/'],
     youtubeId: [''],

@@ -14,7 +14,7 @@ const CnLv8MasterDb = [
     name_ar: 'Fengxue Yanzhao',
     birth_death_time: ['896', '973'],
     records: '',
-    sect: '-',
+    sect: 'Linji',
     country: 'China',
     place: '-',
     teachers: ['Nanyuan Huiyong'],
