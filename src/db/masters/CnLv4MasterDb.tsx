@@ -94,7 +94,7 @@ const CnLv4MasterDb = [
     place: '-',
     teachers: ['Tianhuang Daowu'],
     successors: ['Yangshan Huiji'],
-    disciples: ['Yangshan Huiji', 'Lingyun Zhiqin'],
+    disciples: ['Yangshan Huiji', 'Lingyun Zhiqin', 'Xiangyan Zhixian'],
     image: '/images/avatar.png',
     collections: ['https://thuvienhoasen.org/images/file/OI6imJ1G0QgQAJ8X/quy-son-ngu-luc.pdf'],
     reference: ['https://terebess.hu/zen/guishan.html', 'https://en.wikipedia.org/wiki/Guishan_Lingyou', 'https://vi.wikipedia.org/wiki/Quy_S%C6%A1n_Linh_H%E1%BB%B1u', 'http://thuongchieu.net/index.php/phapthoai/suphu/4804-tslinhhuu', 'https://phatphapungdung.com/phap-bao/ngu-luc-cua-thien-su-dam-chau-quy-son-linh-huu-164038.html', 'https://thuvienhoasen.org/images/file/OI6imJ1G0QgQAJ8X/quy-son-ngu-luc.pdf'],

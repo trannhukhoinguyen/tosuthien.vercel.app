@@ -22,7 +22,6 @@ const CnLv3MasterDb = [
     disciples: ['Toại Châu Đạo Viên'],
     image: '/images/avatar.png',
     reference: ['https://ngulucthien.com/thien-su-duy-trung/'],
-
   },
   {
     id: '36.3.2',
@@ -47,7 +46,6 @@ const CnLv3MasterDb = [
     disciples: ['Yunyan Tansheng'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Yaoshan_Weiyan_Image.jpg',
     reference: [''],
-
   },
   {
     id: '36.3.3',
@@ -72,7 +70,6 @@ const CnLv3MasterDb = [
     disciples: ['Longtan Chongxin'],
     image: '/images/avatar.png',
     reference: ['https://ngulucthien.com/thien-su-dao-ngo-747-806/'],
-
   },
   {
     id: '36.3.4',
@@ -97,7 +94,6 @@ const CnLv3MasterDb = [
     disciples: ['Sanping Yizhong'],
     image: '/images/avatar.png',
     reference: ['https://ngulucthien.com/thien-su-baothong-dai-dien-732-824/'],
-
   },
   {
     id: '36.3.5',
@@ -122,7 +118,6 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-
   },
   {
     id: '36.3.6',
@@ -131,7 +126,7 @@ const CnLv3MasterDb = [
     name_es: 'Baizhang Huaihai',
     name_de: 'Baizhang Huaihai',
     name_fr: 'Baizhang Huaihai',
-    name_vi: 'Bá Trượng Hoài Hải',
+    name_vi: 'Bá Trượng Hoài Hải (Bách Trượng Hoài Hải)',
     name_ru: 'Baizhang Huaihai',
     name_zh: '百丈懷海',
     name_ja: 'Hyakujō Ekai',
@@ -147,7 +142,6 @@ const CnLv3MasterDb = [
     disciples: ['Huangbo Xiyun', 'Guishan Lingyou', ''],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/B%C3%A1ch_Tr%C6%B0%E1%BB%A3ng_Ho%C3%A0i_H%E1%BA%A3i'],
-
   },
   {
     id: '36.3.7',
@@ -172,7 +166,6 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-
   },
   {
     id: '36.3.8',
@@ -197,7 +190,6 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-
   },
   {
     id: '36.3.9',
@@ -222,7 +214,6 @@ const CnLv3MasterDb = [
     disciples: ['Tối Trừng (最澄)'],
     image: '/images/avatar.png',
     reference: [''],
-
   },
   {
     id: '36.3.10',
@@ -247,7 +238,6 @@ const CnLv3MasterDb = [
     disciples: ['Ngưu Đầu Tuệ Trung (慧忠)', 'Gakurin Genso - Hạc Lâm Huyền Tố (鶴林玄素)', 'Tuyên Châu Huyền Dĩnh'],
     image: '/images/avatar.png',
     reference: [''],
-
   },
   {
     id: '36.3.11',
@@ -273,7 +263,6 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Ehu_Dayi', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/dai-nghia-k32793.html'],
-
   },
   {
     id: '36.3.12',
@@ -298,7 +287,6 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Mai_Ph%C3%A1p_Th%C6%B0%E1%BB%9Dng', 'https://terebess.hu/zen/damei.html'],
-
   },
   {
     id: '36.3.13',
@@ -323,7 +311,6 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Ch%C3%A2u_Hu%E1%BB%87_H%E1%BA%A3i', 'https://terebess.hu/zen/huihai-eng1.html', 'https://en.wikipedia.org/wiki/Dazhu_Huihai'],
-
   },
   {
     id: '36.3.14',
@@ -348,7 +335,6 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/mesterek/XitangZhizang.html', 'https://terebess.hu/zen/damei.html'],
-
   },
   {
     id: '36.3.15',
@@ -373,7 +359,6 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/nanquan.html'],
-
   },
   {
     id: '36.3.16',
@@ -398,7 +383,30 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/nanquan.html'],
-
+  },
+  {
+    id: '36.3.17',
+    generation: '36',
+    name_en: 'Fenzhou Wuye',
+    name_es: 'Fenzhou Wuye',
+    name_de: 'Fenzhou Wuye',
+    name_fr: 'Fenzhou Wuye',
+    name_vi: 'Phần Châu Vô Nghiệp',
+    name_ru: 'Fenzhou Wuye',
+    name_zh: '汾州無業',
+    name_ja: 'Funshū Mugyō',
+    name_ko: '분주무업 Punju Muŏp',
+    name_ar: 'Fenzhou Wuye',
+    birth_death_time: ['760', '821'],
+    records: '',
+    sect: ['-'],
+    country: 'China',
+    place: '-',
+    teachers: ['Mazu Daoyi'],
+    successors: [''],
+    disciples: [],
+    image: '/images/avatar.png',
+    reference: ['https://terebess.hu/zen/nanquan.html'],
   },
 ]
 export default CnLv3MasterDb;

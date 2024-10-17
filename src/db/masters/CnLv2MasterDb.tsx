@@ -45,7 +45,7 @@ const CnLv2MasterDb = [
     place: 'Gonggong mountain, Nankang, Ganzhou, southern Jiangxi',
     teachers: ['Nanyue Huairang'],
     successors: ['-'],
-    disciples: ['Baizhang Huaihai', 'Dazhu Huihai', 'Damei Fachang', 'Ehu Dayi', 'Xitang Zhizang', 'Nanquan Puyuan', 'Fenzhou Wuye'],
+    disciples: ['Baizhang Huaihai', 'Dazhu Huihai', 'Damei Fachang', 'Ehu Dayi', 'Xitang Zhizang', 'Nanquan Puyuan', 'Fenzhou Wuye', 'Guizong Zhichang', 'Zhangjing Huaiyun', 'Yanguan Qian', 'Layman Pangyun', 'Mayu Baoche', 'Panshan Baoji', 'Luzu Baoyun', 'Zhongyi Hongen', 'Wujiu Youxuan'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: ['https://terebess.hu/zen/mazu.html'],
     youtubeId: [''],
