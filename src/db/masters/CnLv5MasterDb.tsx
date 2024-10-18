@@ -70,7 +70,7 @@ const CnLv5MasterDb = [
     place: 'Wuling, Hunan',
     teachers: ['Longtan Chongxin'],
     successors: ['-'],
-    disciples: [],
+    disciples: ['Xuefeng Yicun', 'Yantou Quanhuo'],
     image: 'https://terebess.hu/zen/deshan3.jpg',
     image2: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/To_san_Hszuan_csien780.2-865.jpg',
     reference: ['https://terebess.hu/zen/deshan3.jpg'],
