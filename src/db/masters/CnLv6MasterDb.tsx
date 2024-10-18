@@ -166,7 +166,7 @@ const CnLv6MasterDb = [
     place: '-',
     teachers: ['Deshan Xuanjian'],
     successors: [''],
-    disciples: ['Xuansha Shibei', 'Yunmen Wenyan', 'Baofu Congzhan', 'Changqing Huileng'],
+    disciples: ['Xuansha Shibei', 'Yunmen Wenyan', 'Baofu Congzhan', 'Changqing Huileng', 'Cuiyan Lingcan', 'Jingqing Daofu', 'Taiyuan Fu'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/xuefeng.html', 'https://wikipedia.org/wiki/Xuefeng_Yicun'],
   },
