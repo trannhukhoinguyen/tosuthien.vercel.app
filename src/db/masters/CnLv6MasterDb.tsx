@@ -287,7 +287,7 @@ const CnLv6MasterDb = [
     place: '-',
     teachers: ['Deshan Xuanjian'],
     successors: [''],
-    disciples: [Luoshan Daoxian', 'Ruiyan Shiyan'],
+    disciples: ['Luoshan Daoxian', 'Ruiyan Shiyan'],
     image: '/images/avatar.png',
     reference: ['https://vi.m.wikipedia.org/wiki/Nham_%C4%90%E1%BA%A7u_To%C3%A0n_Ho%C3%A1t', 'https://en.m.wikipedia.org/wiki/Yantou_Quanhuo'],
   },

@@ -404,7 +404,7 @@ const InMasterDb = [
     place: '-',
     teachers: ['Kanadeva'],
     successors: ['Sanghanandi'],
-    disciples: [],
+    disciples: ['Sanghanandi'],
     image: '/images/avatar.png',
     reference: ['',],
 

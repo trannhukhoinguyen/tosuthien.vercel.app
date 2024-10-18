@@ -137,7 +137,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
               <td>
                 <a
                   target="_blank"
-                  href={ `/masters/chart?id=${item.id}` }
+                  href={ `/masters` }
                   title={"see lineage chart of " + item.name_en}
                   className="text-blue-700"
                 >
@@ -156,9 +156,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
                       { item.name_en }
                     </a>
                   </td>
-                : item.name_in
-                  ? item.name_en + ' - ' + (item.name_in)
-                  : item.name_en
+                : item.name_en
             }
             { lang === 'es' && <td>{ item.name_es }</td> }
             { lang === 'de' && <td>{ item.name_de }</td> }

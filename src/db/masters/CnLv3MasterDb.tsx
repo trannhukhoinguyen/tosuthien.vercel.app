@@ -139,7 +139,7 @@ const CnLv3MasterDb = [
     place: '-',
     teachers: ['Mazu Daoyi'],
     successors: ['Huangbo Xiyun'],
-    disciples: ['Huangbo Xiyun', 'Guishan Lingyou', ''],
+    disciples: ['Huangbo Xiyun', 'Guishan Lingyou',],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/B%C3%A1ch_Tr%C6%B0%E1%BB%A3ng_Ho%C3%A0i_H%E1%BA%A3i'],
   },
