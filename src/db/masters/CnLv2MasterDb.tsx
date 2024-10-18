@@ -22,8 +22,6 @@ const CnLv2MasterDb = [
     disciples: ['Yaoshan Weiyan'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shitou_Xiqian.jpg/220px-Shitou_Xiqian.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '35.2.2',
@@ -48,8 +46,6 @@ const CnLv2MasterDb = [
     disciples: ['Baizhang Huaihai', 'Dazhu Huihai', 'Damei Fachang', 'Ehu Dayi', 'Xitang Zhizang', 'Nanquan Puyuan', 'Fenzhou Wuye', 'Guizong Zhichang', 'Zhangjing Huaiyun', 'Yanguan Qian', 'Layman Pangyun', 'Mayu Baoche', 'Panshan Baoji', 'Luzu Baoyun', 'Zhongyi Hongen', 'Wujiu Youxuan'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: ['https://terebess.hu/zen/mazu.html'],
-    youtubeId: [''],
-
   },
   {
     id: '35.2.3',
@@ -75,8 +71,6 @@ const CnLv2MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '35.2.4',
@@ -101,8 +95,6 @@ const CnLv2MasterDb = [
     disciples: ['Kinh Nam Duy Trung'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '35.2.5',
@@ -127,8 +119,6 @@ const CnLv2MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '35.2.6',
@@ -153,8 +143,6 @@ const CnLv2MasterDb = [
     disciples: ['Hành Biểu (行表)'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '35.2.7',
@@ -179,8 +167,6 @@ const CnLv2MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '35.2.8',
@@ -205,8 +191,6 @@ const CnLv2MasterDb = [
     disciples: ['Wúzhù (無住)'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '35.2.9',
@@ -231,8 +215,6 @@ const CnLv2MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '35.2.10',
@@ -257,8 +239,6 @@ const CnLv2MasterDb = [
     disciples: ['Chii (智威) - Ngưu Đầu Trí Oai'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '35.2.11',
@@ -283,7 +263,6 @@ const CnLv2MasterDb = [
     disciples: ['Chí Chân (志眞)'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
   },
   {
     id: '35.2.11',
@@ -308,7 +287,30 @@ const CnLv2MasterDb = [
     disciples: ['Chí Chân (志眞)'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
+  },
+  {
+    id: '35.2.12',
+    generation: '35',
+    name_en: 'Jingzhong Wuxiang',
+    name_es: 'Jingzhong Wuxiang',
+    name_de: 'Jingzhong Wuxiang',
+    name_fr: 'Jingzhong Wuxiang',
+    name_vi: 'Tịnh Chúng Vô Tương',
+    name_ru: 'Jingzhong Wuxiang',
+    name_zh: '浄衆無相',
+    name_ja: 'Jōshū Musō',
+    name_ko: '정중무상 Chǒngjung Musang',
+    name_ar: 'Jingzhong Wuxiang',
+    birth_death_time: ['684/680', '762/765'],
+    records: '',
+    sect: ['-'],
+    country: 'China',
+    place: '-',
+    teachers: ['Zizhou Chuji'],
+    successors: [''],
+    disciples: ['Jingzhong Shenhui', 'Baotang Wuzhu', 'Sang-shi', 'Tongchuan Ji'],
+    image: '/images/monocolor-unknown-zen-master.jpg',
+    reference: ['https://pl.wikipedia.org/wiki/Jingzhong_Wuxiang', 'https://terebess.hu/zen/mesterek/Musang.html'],
   },
 ]
 export default CnLv2MasterDb;

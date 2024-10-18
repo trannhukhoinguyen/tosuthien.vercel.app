@@ -1238,7 +1238,7 @@ const CnLv1MasterDb = [
     place: '',
     teachers: ['Zizhou Zhishen'],
     successors: ['Jingzhong Wuxiang'],
-    disciples: ['Jingzhong Wuxiang'],
+    disciples: ['Jingzhong Wuxiang', 'Chengyuan (712-802)'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Zizhou_Chuji'],
   },
