@@ -221,7 +221,7 @@ const CnLv5MasterDb = [
     place: '',
     teachers: ['Daowu Yuanzhi'],
     successors: [''],
-    disciples: ['Zhangzhuo Xiucai', 'Jiufeng Daoqian'],
+    disciples: ['Zhangzhuo Xiucai', 'Jiufeng Daoqian', 'Daguang Juhui'],
     image: '/images/avatar.png',
     reference: ['https://blog.phapthihoi.org/gt-member/ts-thach-suong-khanh-chu/', 'https://hoavouu.com/a17583/03-thien-su-khanh-chu-o-thach-suong', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html'],
   },
