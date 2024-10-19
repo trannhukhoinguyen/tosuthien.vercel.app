@@ -122,7 +122,7 @@ const CnLv5MasterDb = [
     place: 'Zhengzhou',
     teachers: ['Huangbo Xiyun'],
     successors: ['Xinghua Cunjiang'],
-    disciples: ['Xinghua Cunjiang', 'Sansheng Huiran', 'Baoshou Yanzhao', 'Baoshou Yanzhao'],
+    disciples: ['Xinghua Cunjiang', 'Sansheng Huiran', 'Baoshou Yanzhao', 'Zhiyi Daozhe', 'Guanqi Zhixian', 'Luopu Yuan’an'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/L%C3%A2m_T%E1%BA%BF_Ngh%C4%A9a_Huy%E1%BB%81n', 'https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-', 'https://quangduc.com/p157a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su'],
 

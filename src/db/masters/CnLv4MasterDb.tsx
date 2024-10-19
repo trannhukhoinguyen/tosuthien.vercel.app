@@ -298,7 +298,63 @@ const CnLv4MasterDb = [
     disciples: ['Shishuang Qingzhu'],
     image: '/',
     reference: [''],
-
+  },
+  {
+    id: '37.4.13',
+    generation: '37',
+    hasContent: true,
+    name_en: 'Zhaozhou Congshen',
+    name_es: 'Zhaozhou Congshen',
+    name_de: 'Zhaozhou Congshen',
+    name_fr: 'Zhaozhou Congshen',
+    name_vi: 'Triệu Châu Tòng Thẩm',
+    name_ru: 'Zhaozhou Congshen',
+    name_zh: '趙州從諗',
+    name_ja: '趙州従シン Jōshū Jūshin',
+    name_ko: '조주종심 Choju Chongsim',
+    name_ar: 'Zhaozhou Congshen',
+    birth_death_time: ['778', '897'],
+    records: '',
+    sect: ['-'],
+    country: 'China',
+    place: '-',
+    teachers: ['Nanquan Puyuan'],
+    successors: [''],
+    disciples: ['Yanyang Shanxin' +
+    'Yanyang Cunsu' +
+    'Yanyang Shanzhao (bd) zapewne jest to któryś z dwu powyższych uczniów Zhaozhou\n' +
+    'Huicong' +
+    'Guangxiao Huijiao (Jue Tiezi)' +
+    'Guoqing Yuanfeng' +
+    'Wenyuan' +
+    'Muzhen Tulang'],
+    image: '/',
+    reference: ['https://pl.wikipedia.org/wiki/Zhaozhou_Congshen', ''],
+  },
+  {
+    id: '37.4.14',
+    generation: '37',
+    hasContent: true,
+    name_en: 'Changsha Jingcen',
+    name_es: 'Changsha Jingcen',
+    name_de: 'Changsha Jingcen',
+    name_fr: 'Changsha Jingcen',
+    name_vi: 'Trường Sa Cảnh Sầm',
+    name_ru: 'Changsha Jingcen',
+    name_zh: '長沙景岑',
+    name_ja: 'hōsha Keijin',
+    name_ko: '장사경잠 Changsa Kyŏngjam',
+    name_ar: 'Changsha Jingcen',
+    birth_death_time: ['788', '868'],
+    records: '',
+    sect: ['-'],
+    country: 'China',
+    place: '-',
+    teachers: ['Nanquan Puyuan'],
+    successors: [''],
+    disciples: [''],
+    image: '/',
+    reference: ['https://pl.wikipedia.org/wiki/Changsha_Jingcen', 'http://thuongchieu.net/index.php/phapthoai/suphu/4834-tscanhsam', 'https://blog.phapthihoi.org/gt-member/ts-truong-sa-canh-sam/', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/truong-sa-canh-sam-k3027.html#google_vignette'],
   },
 ]
 export default CnLv4MasterDb;
