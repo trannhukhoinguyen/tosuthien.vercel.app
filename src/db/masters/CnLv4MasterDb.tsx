@@ -313,14 +313,7 @@ const CnLv4MasterDb = [
     place: '-',
     teachers: ['Nanquan Puyuan'],
     successors: [''],
-    disciples: ['Yanyang Shanxin' +
-    'Yanyang Cunsu' +
-    'Yanyang Shanzhao (bd) zapewne jest to któryś z dwu powyższych uczniów Zhaozhou\n' +
-    'Huicong' +
-    'Guangxiao Huijiao (Jue Tiezi)' +
-    'Guoqing Yuanfeng' +
-    'Wenyuan' +
-    'Muzhen Tulang'],
+    disciples: ['Yanyang Shanxin / Yanyang Shanzhao', 'Yanyang Cunsu', 'Huicong', 'Guangxiao Huijiao', 'Guoqing Yuanfeng', 'Wenyuan', 'Muzhen Tulang'],
     image: '/',
     reference: ['https://pl.wikipedia.org/wiki/Zhaozhou_Congshen', ''],
   },
@@ -335,7 +328,7 @@ const CnLv4MasterDb = [
     name_vi: 'Trường Sa Cảnh Sầm',
     name_ru: 'Changsha Jingcen',
     name_zh: '長沙景岑',
-    name_ja: 'hōsha Keijin',
+    name_ja: 'Chōsha Keijin',
     name_ko: '장사경잠 Changsa Kyŏngjam',
     name_ar: 'Changsha Jingcen',
     birth_death_time: ['788', '868'],
@@ -347,7 +340,31 @@ const CnLv4MasterDb = [
     successors: [''],
     disciples: [''],
     image: '/',
-    reference: ['https://pl.wikipedia.org/wiki/Changsha_Jingcen', 'http://thuongchieu.net/index.php/phapthoai/suphu/4834-tscanhsam', 'https://blog.phapthihoi.org/gt-member/ts-truong-sa-canh-sam/', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/truong-sa-canh-sam-k3027.html#google_vignette'],
+    reference: ['https://terebess.hu/zen/mesterek/ChangshaJingcen.html', 'https://pl.wikipedia.org/wiki/Changsha_Jingcen', 'http://thuongchieu.net/index.php/phapthoai/suphu/4834-tscanhsam', 'https://blog.phapthihoi.org/gt-member/ts-truong-sa-canh-sam/', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/truong-sa-canh-sam-k3027.html#google_vignette'],
+  },
+  {
+    id: '37.4.14',
+    generation: '37',
+    name_en: 'Chŏlgam Toyun',
+    name_es: 'Chŏlgam Toyun',
+    name_de: 'Chŏlgam Toyun',
+    name_fr: 'Chŏlgam Toyun',
+    name_vi: 'Chŏlgam Toyun',
+    name_ru: 'Chŏlgam Toyun',
+    name_zh: 'Chŏlgam Toyun',
+    name_ja: 'Chŏlgam Toyun',
+    name_ko: '철감토윤',
+    name_ar: 'Chŏlgam Toyun',
+    birth_death_time: ['797', '868'],
+    records: '',
+    sect: ['-'],
+    country: 'Korea',
+    place: '-',
+    teachers: ['Nanquan Puyuan'],
+    successors: ['Chinghyo Choljung'],
+    disciples: ['Chinghyo Choljung'],
+    image: '/',
+    reference: ['https://pl.wikipedia.org/wiki/Ch%E2%80%99%C5%8Flgam_Toyun'],
   },
 ]
 export default CnLv4MasterDb;
