@@ -19,7 +19,26 @@ const CnLv2MasterDb = [
     place: 'Nantai Temple, Nanyue Heng mountain, Hunan',
     teachers: ['Dajian Huineng', 'Qingyuan Xingsi'],
     successors: ['Yaoshan Weiyan'],
-    disciples: ['Yaoshan Weiyan'],
+    disciples: ['Yaoshan Weiyan', 'Thiền sư Thi Lợi ở Kinh triệu
+Thiền sư Thiên Nhiên ở Đơn hà
+Thiền sư Tuệ Lãng ở Chiêu đề tại Đà châu
+Thiền sư Chấn Lãng ở Hưng quốc tại Trường sa
+Thiền sư Duy Nghiễm ở Dược sơn tại Lễ châu
+Hòa thượng Đại Xuyên ở Đàm châu
+Hòa thượng Thạch Thê ở Phần châu
+Hòa thượng Phật Đà ở Pháp môn tại Phụng tường
+Hòa thượng Hoa Lâm ở Đàm châu
+Hòa thượng Đại Điên ở Triều châu
+Thiền sư Khoáng – Trường Tỳ ở Đàm châu
+Hòa thượng Thủy Không
+Thiền sư Bảo Thông
+Thiền sư Đại Biện ở Hải lăng
+Hòa thượng Chử Kinh
+Thiền sư Đạo Tiên ở Hành châu
+Thiền sư Thường Thanh ở Hán châu
+Hòa thượng Toái Thạch ở Phước châu
+Hòa thượng Thương Lãnh ở Thương châu
+Hòa thượng Nghĩa Hưng ở Thường châu'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shitou_Xiqian.jpg/220px-Shitou_Xiqian.jpg',
     reference: [''],
   },
@@ -43,7 +62,143 @@ const CnLv2MasterDb = [
     place: 'Gonggong mountain, Nankang, Ganzhou, southern Jiangxi',
     teachers: ['Nanyue Huairang'],
     successors: ['-'],
-    disciples: ['Baizhang Huaihai', 'Dazhu Huihai', 'Damei Fachang', 'Ehu Dayi', 'Xitang Zhizang', 'Nanquan Puyuan', 'Fenzhou Wuye', 'Guizong Zhichang', 'Zhangjing Huaiyun', 'Yanguan Qian', 'Layman Pangyun', 'Mayu Baoche', 'Panshan Baoji', 'Luzu Baoyun', 'Zhongyi Hongen', 'Wujiu Youxuan'],
+    disciples: ['Baizhang Huaihai', 'Dazhu Huihai', 'Damei Fachang', 'Ehu Dayi', 'Xitang Zhizang', 'Nanquan Puyuan', 'Fenzhou Wuye', 'Guizong Zhichang', 'Zhangjing Huaiyun', 'Yanguan Qian', 'Layman Pangyun', 'Mayu Baoche', 'Panshan Baoji', 'Luzu Baoyun', 'Zhongyi Hongen', 'Wujiu Youxuan', 
+'Thiền sư Duy Chính ở Bách trượng
+Thiền sư Pháp Hội ở Lặc đàm
+Thiền sư Trí Kiên ở Sam sơn
+Thiền sư Duy Kiến ở Lặc đàm
+Thiền sư Đạo Hạnh ở Minh khê tại Lễ châu
+Thiền sư Tuệ Tạng ở Thạch củng
+Thiền sư Đạo Thông ở núi Tử ngọc
+Thiền sư Nhượng ở Bắc lan tại Giang tây
+Thiền sư Như Mãn ở Phật quang tại Lạc kinh
+Thiền sư Đại Minh ở Nam nguyên
+Thiền sư Tự Mãn ở Ly thôn tại Hàng châu
+Thiền sư Hồng Ân ở Trung ấp tại Đảnh châu
+
+Thiền sư Hạo Anh
+Thiền sư Sùng Thái
+Thiền sư Tiêu Nhiên ở núi Ngọc mổ
+Thiền sư Sách ở Hoa châu
+Thiền sư Trí Thông ở Lễ châu
+Thiền sư Thần Giám ở núi Vân tú
+Thiền sư Trí Thông ở Dương châu
+Thiền sư Trí Tạng ở Hàng châu
+Thiền sư Hoài Thao ở Kinh triệu
+Thiền sư Pháp Tạng ở Xứ châu
+Thiền sư Hoài Tắc ở phủ Hà Trung
+Thiền sư Minh Cán ở Thường châu',
+'Thiền sư Hồng Đàm ở Ngọc châu
+Thiền sư Hoài Thản ở Tượng nguyên
+Thiền sư Nguyên Lễ ở Lộ phủ
+Thiền sư Bảo Khánh ở phủ Hà Trung
+Thiền sư Chí Hiền ở Cam tuyền
+Thiền sư Đạo Ngộ ở núi Đại hội
+Thiền sư Pháp Nhu ở Lộ phủ
+Thiền sư Giác Bình ở Kinh triệu
+Thiền sư Thắng Biện ở Nghĩa hưng
+Thiền sư Khánh Vân ở Hải lăng
+Thiền sư Huyền Hư ở Hồng châu
+Thiền sư Tổng Ấn ở núi Tam giác
+Thiền sư Bảo Vân ở núi Lỗ tổ
+Thiền sư Thường Hưng ở núi Lặc đàm
+Thiền sư Trí Tạng ở Tây đường tại Xứ châu
+Thiền sư Hoài Huy ở Chương kính tại Kinh triệu
+Thiền sư Ninh Triết ở Bách nham
+Thiền sư Đại Nghĩa ở Nga hồ
+Thiền sư Tự Tại ở núi Phục ngưu',
+'Thiền sư Bảo Tích ở Bàn sơn
+Thiền sư Thái Dục ở núi Phù dung
+
+Thiền sư Tề An ở Diêm quan
+Thiền sư Linh Mặc ở núi Ngũ tiết
+Thiền sư Hải Thường ở núi Đại mai
+Thiền sư Duy Khoan ở Kinh triệu
+Thiền sư Như Hội ở Hồ nam
+Thiền sư Vô Đẳng ở Ngọc châu
+Thiền sư Trí Thường ở Quy tông
+Thiền sư Thanh Hạ ở Thiều châu
+Thiền sư Duy Kiến ở núi Tử âm
+Thiền sư Hồng Tuấn ở Phong sơn
+Thiền sư Thần Ngoạn ở Luyện sơn
+Thiền sư Đạo Viên ở Quật sơn
+Thiền sư Duy Nhiên ở Ngọc đài
+Thiền sư Đàm Ký ở Hội sơn tại Trì châu
+Thiền sư Bảo Tích ở Kinh châu
+Thiền sư Pháp Tạng ở phu Hà trung
+Thiền sư Lương tân ở Hán nam
+Thiền sư Sùng ở Kinh triệu
+Thiền sư Trí Châu ở Nam nhạc',
+'Thiền sư Pháp Tuyên ở Bạch hổ
+Thiền sư Duy Trực ở Kim quật
+Thiền sư Thường Triệt ở Bách nham tại Đài châu
+Thiền sư Huy ở Càn nguyên
+Thiền sư Đạo Nham ở Tề châu
+Thiền sư Thường Kiên ở Tương châu
+Thiền sư Đạo Bản ở Bảo chánh tại Kinh nam
+Thiền sư Tĩnh Tông ở Vân thủy
+Thiền sư Linh Nhu ở Kinh châu
+Thiền sư Viên Sướng ở Long nha
+Thiền sư Đạo Phương ở Song lãnh
+Thiền sư Tư Quảng ở núi La phù
+Thiền sư Định Khánh ở Hiện sơn
+Thiền sư Duy Hiến ở Việt châu
+Thiền sư Phổ Mãn ở Quang minh
+
+Thiền sư Quảng Trừng ở Đại đồng tại Lễ châu
+
+Thiền sư Phong ở Đặng ẩn núi Ngũ đài
+Hòa thượng Phật Áo',
+'Hòa thượng Ô Cửu
+Thiền sư Đại Thiện ở Thạch sương
+Hòa thượng Thạch Cửu
+Hòa thượng Bản Khê
+Hòa thượng Thạch Lâm
+Chủ tọa Lượng ở Tây sơn
+Hòa thượng Mặc Nhãn
+Hòa thượng Mễ Lãnh
+Hòa thượng Tề Phong
+Hòa thượng Đại Dương
+Hòa thượng Sơn ở Hồng loa
+Hòa thượng Vô Liễu ở Quy dương
+Hòa thượng Lợi Sơn
+Hòa thượng Nhũ Nguyên
+Hòa thượng Tùng Sơn
+Hòa thượng Tắc Xuyên
+Hòa thượng Đàm Tạng ở Tây viên
+Hòa thượng Bách Linh
+Hòa thượng Kim Ngưu
+Hòa thượng Động An
+Hòa thượng Đả Địa ở Hàng châu
+Hòa thượng Tú Khê
+Hòa thượng Thần Tạng ở núi Mã đầu
+Hòa thượng Thiện Giác ở Hoa lâm
+Hòa thượng Thủy Đường
+Hòa thượng Cổ Tự
+Hòa thượng Bề Thọ ở Giang tây
+Hòa thượng Thảo Đường ở Kinh châu
+Thiền sư Chân Thúc ở Dương kỳ
+Hòa thượng Mông Khê
+Hòa thượng Mặc Giản
+Hòa thượng Hưng Bình
+Hòa thượng Tiêu Diêu
+Hòa thượng Phước Khê
+Hòa thượng Thủy Lão
+Hòa thượng Phù Bôi
+Hòa thượng Long Sơn
+
+Thiền sư Minh Giác ở Thiên mục
+Thiền sư hạnh Minh ở núi Vương cốc
+Thiền sư Trí Tạng ở Kinh Triệu
+Thiền sư Hy Hạng ở Đại dương
+Thiền sư Định Giác ở Côn sơn
+Đại sư Hồng Sơn ở Tùy châu
+Thiền sư Nguyên Đề ở Liên châu
+Thiền sư Tuệ Trung ở Tuyền châu
+Thiền sư Hoài Không ở núi An phong
+Thiền sư Đạo Hạnh ở núi La phù
+Thiền sư Pháp Tạng ở Lô sơn
+Thiền sư Ninh Bí ở núi Lã hậu.'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: ['https://terebess.hu/zen/mazu.html'],
   },
