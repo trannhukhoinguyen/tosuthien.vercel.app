@@ -3,7 +3,6 @@ const InMasterDb = [
     id: '1',
     generation: '1',
     hasContent: true,
-    name_in: '',
     name_en: 'Mahakasyapa',
     name_es: 'Mahakasyapa',
     name_de: 'Mahakasyapa',
@@ -28,7 +27,6 @@ const InMasterDb = [
     id: '2',
     generation: '2',
     hasContent: true,
-    name_in: '',
     name_en: 'Ananda',
     name_es: 'Ananda',
     name_de: 'Ananda',
@@ -54,7 +52,6 @@ const InMasterDb = [
     id: '3',
     generation: '3',
     hasContent: true,
-    name_in: '',
     name_en: 'Sanakavasa',
     name_es: 'Sanakavasa',
     name_de: 'Sanakavasa',
@@ -80,7 +77,6 @@ const InMasterDb = [
     id: '4',
     generation: '4',
     hasContent: true,
-    name_in: '',
     name_en: 'Upagupta',
     name_es: 'Upagupta',
     name_de: 'Upagupta',
@@ -106,7 +102,6 @@ const InMasterDb = [
     id: '5',
     generation: '5',
     hasContent: true,
-    name_in: '',
     name_en: 'Dhrtaka',
     name_es: 'Dhrtaka',
     name_de: 'Dhrtaka',
@@ -132,7 +127,6 @@ const InMasterDb = [
     id: '6',
   generation: '6',
     hasContent: true,
-    name_in: '',
     name_en: 'Miccaka',
     name_es: 'Miccaka',
     name_de: 'Miccaka',
@@ -158,7 +152,6 @@ const InMasterDb = [
     id: '7',
   generation: '7',
     hasContent: true,
-    name_in: '',
     name_en: 'Vasumitra',
     name_es: 'Vasumitra',
     name_de: 'Vasumitra',
@@ -184,7 +177,6 @@ const InMasterDb = [
     id: '8',
     generation: '8',
     hasContent: true,
-    name_in: '',
     name_en: 'Buddhanandi',
     name_es: 'Buddhanandi',
     name_de: 'Buddhanandi',
@@ -210,7 +202,6 @@ const InMasterDb = [
     id: '9',
     generation: '9',
     hasContent: true,
-    name_in: '',
     name_en: 'Buddhamitra',
     name_es: 'Buddhamitra',
     name_de: 'Buddhamitra',
@@ -236,7 +227,6 @@ const InMasterDb = [
     id: '10',
     generation: '10',
     hasContent: true,
-    name_in: '',
     name_en: 'Parsvika',
     name_es: 'Parsvika',
     name_de: 'Parsvika',
@@ -262,7 +252,6 @@ const InMasterDb = [
     id: '11',
     generation: '11',
     hasContent: true,
-    name_in: '',
     name_en: 'Punyayasas',
     name_es: 'Punyayasas',
     name_de: 'Punyayasas',
@@ -287,7 +276,6 @@ const InMasterDb = [
   {
     id: '12',
     generation: '12',
-    name_in: '',
     name_en: 'Asvaghosha',
     name_es: 'Asvaghosha',
     name_de: 'Asvaghosha',
@@ -312,7 +300,6 @@ const InMasterDb = [
   {
     id: '13',
     generation: '13',
-    name_in: '',
     name_en: 'Kapimala',
     name_es: 'Kapimala',
     name_de: 'Kapimala',
@@ -337,7 +324,6 @@ const InMasterDb = [
   {
     id: '14',
     generation: '14',
-    name_in: '',
     name_en: 'Nagarjuna',
     name_es: 'Nagarjuna',
     name_de: 'Nagarjuna',
@@ -362,7 +348,6 @@ const InMasterDb = [
   {
     id: '15',
     generation: '15',
-    name_in: '',
     name_en: 'Kanadeva',
     name_es: 'Kanadeva',
     name_de: 'Kanadeva',
@@ -387,7 +372,6 @@ const InMasterDb = [
 {
     id: '16',
   generation: '16',
-  name_in: '',
   name_en: 'Rahulata',
     name_es: 'Rahulata',
     name_de: 'Rahulata',
@@ -412,7 +396,6 @@ const InMasterDb = [
   {
     id: '17',
     generation: '17',
-    name_in: '',
     name_en: 'Sanghanandi',
     name_es: 'Sanghanandi',
     name_de: 'Sanghanandi',
@@ -437,7 +420,6 @@ const InMasterDb = [
   {
     id: '18',
     generation: '18',
-    name_in: '',
     name_en: 'Gayasata',
     name_es: 'Gayasata',
     name_de: 'Gayasata',
@@ -462,7 +444,6 @@ const InMasterDb = [
   {
     id: '19',
     generation: '19',
-    name_in: '',
     name_en: 'Kumarata',
     name_es: 'Kumarata',
     name_de: 'Kumarata',
@@ -487,7 +468,6 @@ const InMasterDb = [
   {
     id: '20',
     generation: '20',
-    name_in: '',
     name_en: 'Jayata',
     name_es: 'Jayata',
     name_de: 'Jayata',
@@ -512,7 +492,6 @@ const InMasterDb = [
 {
     id: '21',
   generation: '21',
-  name_in: '',
   name_en: 'Vasubandhu',
     name_es: 'Vasubandhu',
     name_de: 'Vasubandhu',
@@ -537,7 +516,6 @@ const InMasterDb = [
 {
     id: '22',
   generation: '22',
-    name_in: '',
     name_en: 'Manorhita',
     name_es: 'Manorhita',
     name_de: 'Manorhita',
@@ -562,7 +540,6 @@ const InMasterDb = [
   {
     id: '23',
     generation: '23',
-    name_in: '',
     name_en: 'Haklenayaśas',
     name_es: 'Haklenayaśas',
     name_de: 'Haklenayaśas',
@@ -587,7 +564,6 @@ const InMasterDb = [
   {
     id: '24',
     generation: '24',
-    name_in: '',
     name_en: 'Simhabodhi / Aryasimha',
     name_es: 'Simhabodhi',
     name_de: 'Simhabodhi',
@@ -611,7 +587,6 @@ const InMasterDb = [
   {
     id: '25.1',
     generation: '25',
-    name_in: '',
     name_en: 'Vasiasita / Basiasita',
     name_es: 'Basiasita',
     name_de: 'Basiasita',
@@ -635,7 +610,6 @@ const InMasterDb = [
   {
     id: '25.2',
     generation: '25',
-    name_in: '',
     name_en: 'Đạt Ma Đạt',
     name_es: 'Đạt Ma Đạt',
     name_de: 'Đạt Ma Đạt',
@@ -659,7 +633,6 @@ const InMasterDb = [
   {
     id: '26.1',
     generation: '26',
-    name_in: '',
     name_en: 'Punyamitra',
     name_es: 'Punyamitra',
     name_de: 'Punyamitra',
@@ -683,7 +656,6 @@ const InMasterDb = [
   {
     id: '26.2',
     generation: '26',
-    name_in: '',
     name_en: 'Nhân Đà La',
     name_es: 'Nhân Đà La',
     name_de: 'Nhân Đà La',
@@ -707,7 +679,6 @@ const InMasterDb = [
   {
     id: '26.3',
     generation: '26',
-    name_in: '',
     name_en: 'Cù La Kỵ Lợi Bà',
     name_es: 'Cù La Kỵ Lợi Bà',
     name_de: 'Cù La Kỵ Lợi Bà',
@@ -731,7 +702,6 @@ const InMasterDb = [
   {
     id: '27.1',
     generation: '27',
-    name_in: '',
     name_en: 'Prajnatara',
     name_es: 'Prajnatara',
     name_de: 'Prajnatara',
@@ -755,7 +725,6 @@ const InMasterDb = [
 {
     id: '27.2',
     generation: '27',
-    name_in: '',
     name_en: 'Đạt Ma Thi Lợi Đế',
     name_es: 'Đạt Ma Thi Lợi Đế',
     name_de: 'Đạt Ma Thi Lợi Đế',
@@ -779,7 +748,6 @@ const InMasterDb = [
 {
     id: '27.3',
     generation: '27',
-    name_in: '',
     name_en: 'Phá Lâu Cầu Đa La',
     name_es: 'Phá Lâu Cầu Đa La',
     name_de: 'Phá Lâu Cầu Đa La',
@@ -803,7 +771,6 @@ const InMasterDb = [
 {
     id: '27.4',
     generation: '27',
-    name_in: '',
     name_en: 'Ba La Bạt Ma',
     name_es: 'Ba La Bạt Ma',
     name_de: 'Ba La Bạt Ma',
@@ -827,7 +794,6 @@ const InMasterDb = [
 {
     id: '27.5',
     generation: '27',
-    name_in: '',
     name_en: 'Tăng Già La Xoa',
     name_es: 'Tăng Già La Xoa',
     name_de: 'Tăng Già La Xoa',
@@ -852,7 +818,6 @@ const InMasterDb = [
     id: '28',
     generation: '28',
     hasContent: true,
-    name_in: '',
     name_en: 'Bodhidharma',
     name_es: 'Bodhidharma',
     name_de: 'Bodhidharma',

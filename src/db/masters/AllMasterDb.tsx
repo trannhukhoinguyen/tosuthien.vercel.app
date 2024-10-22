@@ -86,3 +86,10 @@ export const CnFayanMasters = CnFayanMasterDb
 export const CnYunmenMasters = CnYunmenMasterDb
 export const CnYangqiMasters = CnYangqiMasterDb
 export const CnHuanglongMasters = CnHuanglongMasterDb
+
+export const AllMasters = [
+  ...InMasters,
+  ...ViMasters,
+  ...JpMasters,
+  ...CnMasters,
+]

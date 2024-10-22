@@ -7,7 +7,6 @@ interface TableProps {
   data: {
     id: string
     hasContent: boolean | undefined
-    name_in: string | undefined
     name_en: string
     name_es: string
     name_de: string
@@ -49,23 +48,23 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
 
   const filteredData = data.filter(
     (item) =>
-      item.name_en.toLowerCase().includes(searchTerm)
-      || item.name_es.toLowerCase().includes(searchTerm)
-      || item.name_de.toLowerCase().includes(searchTerm)
-      || item.name_fr.toLowerCase().includes(searchTerm)
-      || item.name_vi.toLowerCase().includes(searchTerm)
-      || item.name_ru.toLowerCase().includes(searchTerm)
-      || item.name_zh.toLowerCase().includes(searchTerm)
-      || item.name_ja.toLowerCase().includes(searchTerm)
-      || item.name_ko.toLowerCase().includes(searchTerm)
-      || item.name_ar.toLowerCase().includes(searchTerm)
-      || item.birth_death_time.some(time => time.toLowerCase().includes(searchTerm))
-      || item.sect.some(s => s.toLowerCase().includes(searchTerm))
-      || item.country.toLowerCase().includes(searchTerm)
-      || item.place.toLowerCase().includes(searchTerm)
-      || item.teachers.some(teacher => teacher.toLowerCase().includes(searchTerm))
-      || item.successors.some(successor => successor.toLowerCase().includes(searchTerm))
-      || item.disciples.some(disciple => disciple.toLowerCase().includes(searchTerm))
+      item.name_en?.toLowerCase().includes(searchTerm)
+      || item.name_es?.toLowerCase().includes(searchTerm)
+      || item.name_de?.toLowerCase().includes(searchTerm)
+      || item.name_fr?.toLowerCase().includes(searchTerm)
+      || item.name_vi?.toLowerCase().includes(searchTerm)
+      || item.name_ru?.toLowerCase().includes(searchTerm)
+      || item.name_zh?.toLowerCase().includes(searchTerm)
+      || item.name_ja?.toLowerCase().includes(searchTerm)
+      || item.name_ko?.toLowerCase().includes(searchTerm)
+      || item.name_ar?.toLowerCase().includes(searchTerm)
+      || item.birth_death_time?.some(time => time.toLowerCase().includes(searchTerm))
+      || item.sect?.some(s => s.toLowerCase().includes(searchTerm))
+      || item.country?.toLowerCase().includes(searchTerm)
+      || item.place?.toLowerCase().includes(searchTerm)
+      || item.teachers?.some(teacher => teacher.toLowerCase().includes(searchTerm))
+      || item.successors?.some(successor => successor.toLowerCase().includes(searchTerm))
+      || item.disciples?.some(disciple => disciple.toLowerCase().includes(searchTerm))
   );
 
   const indexOfLastItem = currentPage * itemsPerPage;

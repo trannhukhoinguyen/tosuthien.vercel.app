@@ -23,8 +23,6 @@ const CnLv24MasterDb = [
     disciples: [],
     image: '/',
     reference: ['http://www.thuongchieu.net/index.php/phapthoai/suphu/4207-thiensunhutac', 'https://duylucthien.wordpress.com/2024/01/12/thien-nhu-duy-tac-thien-su/', 'https://thuvienhoasen.org/a8016/thien-nhu-dai-su', 'https://ph.tinhtong.vn/Home/MP3?p=MP3*Tinh+Do+Hoac+Van+-+Thien+Nhu+Duy+Tac', 'https://ngulucthien.com/thien-su-duy-tac/', ''],
-    youtubeId: [''],
-
   },
   {
     id: '57.24.2',
@@ -49,7 +47,6 @@ const CnLv24MasterDb = [
     disciples: [],
     image: '/',
     reference: ['https://vi.wikipedia.org/wiki/C%C3%B4_Phong_Gi%C3%A1c_Minh'],
-    youtubeId: [''],
   },
   {
     id: '57.24.3',
@@ -74,7 +71,6 @@ const CnLv24MasterDb = [
     disciples: [],
     image: '/',
     reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Nham_Nguy%C3%AAn_Tr%C6%B0%E1%BB%9Dng'],
-    youtubeId: [''],
   },
 ]
 export default CnLv24MasterDb;
