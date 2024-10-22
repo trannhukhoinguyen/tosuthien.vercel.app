@@ -321,7 +321,7 @@ const CnLv3MasterDb = [
     name_fr: 'Xitang Zhizang',
     name_vi: 'Tây Đường Trí Tạng',
     name_ru: 'Xitang Zhizang',
-    name_zh: '大梅法常',
+    name_zh: '西堂智藏',
     name_ja: 'Seidô Chizô',
     name_ko: 'Xitang Zhizang',
     name_ar: 'Xitang Zhizang',
@@ -334,7 +334,7 @@ const CnLv3MasterDb = [
     successors: [''],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['https://terebess.hu/zen/mesterek/XitangZhizang.html', 'https://terebess.hu/zen/damei.html'],
+    reference: ['https://terebess.hu/zen/mesterek/XitangZhizang.html', 'https://blog.phapthihoi.org/gt-member/ts-tay-duong-tri-tang/'],
   },
   {
     id: '36.3.15',
@@ -383,7 +383,7 @@ const CnLv3MasterDb = [
     successors: [''],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['https://terebess.hu/zen/nanquan.html'],
+    reference: ['https://terebess.hu/zen/nanquan.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/phan-chau-vo-nghiep-k1902.html'],
   },
   {
     id: '36.3.18',

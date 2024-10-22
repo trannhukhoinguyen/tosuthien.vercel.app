@@ -30,10 +30,11 @@ interface TableProps {
   }[];
   lang: string | undefined;
   itemsPerPage?: number;
+  searchTermProp?: string;
 }
 const formatUrl = (url: String) => url.replace(/%20| /g, '-');
 const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g, '');
-const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10 }) => {
+const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTermProp }) => {
   const [searchTerm, setSearchTerm] = useState<string>('');
   const [currentPage, setCurrentPage] = useState<number>(1);
 
