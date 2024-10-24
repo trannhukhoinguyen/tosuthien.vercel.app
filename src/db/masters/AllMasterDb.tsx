@@ -89,7 +89,7 @@ export const CnHuanglongMasters = CnHuanglongMasterDb
 
 export const AllMasters = [
   ...InMasters,
-  ...ViMasters,
+  ...CnMasters.flat(),
   ...JpMasters,
-  ...CnMasters,
+  ...ViMasters,
 ]
