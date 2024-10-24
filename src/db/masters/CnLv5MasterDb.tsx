@@ -130,6 +130,7 @@ const CnLv5MasterDb = [
   {
     id: '38.5.6',
     generation: '38',
+    hasContent: true,
     name_en: 'Muzhou Daoming/Daozong',
     name_es: 'Muzhou Daoming',
     name_de: 'Muzhou Daoming',
