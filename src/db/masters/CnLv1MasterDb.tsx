@@ -22,8 +22,6 @@ const CnLv1MasterDb = [
     disciples: ['Shitou Xiqian'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Qingyuan_Xingsi.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '34.1.2',
@@ -48,8 +46,6 @@ const CnLv1MasterDb = [
     disciples: ['Yaoshan Weiyan', 'Suzong - (vua Túc Tông - Lý Hanh)', 'Daizong - (vua Đại Tông - Lý Dự)', 'Đặng Châu Duy Giới', 'Khai phủ Tôn Tri Hữu'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '34.1.3',
@@ -75,8 +71,6 @@ const CnLv1MasterDb = [
       'Dương châu Nghiêm Lăng', 'Tân La Bản Như', 'Huyền Thịnh', 'Đông Vụ Pháp Không'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '34.1.4',
@@ -107,8 +101,6 @@ const CnLv1MasterDb = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/48/HezeShenhuiDrawing.jpg',
     image2: 'https://terebess.hu/zen/Shenhui.jpg',
     reference: ['https://terebess.hu/zen/shenhui.html', 'https://en.wikipedia.org/wiki/Shenhui'],
-    youtubeId: [''],
-
   },
   {
     id: '34.1.5',
@@ -133,8 +125,6 @@ const CnLv1MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
   },
   {
     id: '34.1.6',
@@ -159,33 +149,6 @@ const CnLv1MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-    youtubeId: [''],
-
-  },
-  {
-    id: '34.1.7',
-    generation: '34',
-    name_en: 'Tây Ấn Quật Đa Tam Tạng',
-    name_es: 'Tây Ấn Quật Đa Tam Tạng',
-    name_de: 'Tây Ấn Quật Đa Tam Tạng',
-    name_fr: 'Tây Ấn Quật Đa Tam Tạng',
-    name_vi: 'Tây Ấn Quật Đa Tam Tạng',
-    name_ru: 'Tây Ấn Quật Đa Tam Tạng',
-    name_zh: '西域崛多三藏',
-    name_ja: 'Tây Ấn Quật Đa Tam Tạng',
-    name_ko: 'Tây Ấn Quật Đa Tam Tạng',
-    name_ar: 'Tây Ấn Quật Đa Tam Tạng',
-    birth_death_time: ['', ''],
-    records: '',
-    sect: ['-'],
-    country: 'India',
-    place: '-',
-    teachers: ['Dajian Huineng'],
-    successors: ['-'],
-    disciples: [],
-    image: '/images/monocolor-unknown-zen-master.jpg',
-    reference: [''],
-
   },
   {
     id: '34.1.8',
@@ -210,7 +173,6 @@ const CnLv1MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-
   },
   {
     id: '34.1.9',
@@ -235,7 +197,6 @@ const CnLv1MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
-
   },
   {
     id: '34.1.10',

@@ -1,6 +1,6 @@
 const InMasterDb = [
   {
-    id: '32.101',
+    id: '32.101.V',
     generation: '32',
     name_en: 'Chúng Thiện Pháp Hiền',
     name_es: 'Chúng Thiện Pháp Hiền',
@@ -24,7 +24,7 @@ const InMasterDb = [
     reference: ['',],
   },
   {
-    id: '88.1',
+    id: '88.101.V',
     generation: '32',
     hasContent: true,
     name_en: 'Weili Juekai',

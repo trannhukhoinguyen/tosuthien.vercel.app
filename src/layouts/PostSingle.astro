@@ -22,7 +22,7 @@ if (!lang) {
 }
 
 const posts = await getSinglePage(
-  "masters" || "monasteries",
+  "masters" || "monasteries" || "teachings" || 'koans',
   lang as keyof ContentEntryMap
 );
 const similarPosts = similarItems(post, posts);
@@ -57,9 +57,9 @@ const { title, description, masters, types, image, date, tags } = post.data;
           <li class="mr-4 inline-block">
             {
               masters?.map((master: string, index: number) => (
-                <a href={slugSelector(`/masters/${slugify[Master]}`, lang)}>
+                <a href={slugSelector(`/masters/${slugify[masters]}`, lang)}>
                   <FaRegUserCircle className={"mr-2 -mt-1 inline-block"} />
-                  {humanize[Master]}
+                  {humanize[masters]}
                 </a>
               ))
             }

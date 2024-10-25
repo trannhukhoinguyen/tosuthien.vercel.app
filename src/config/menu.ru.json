@@ -16,7 +16,8 @@
       "hasChildren": true,
       "children": [
         { "name": "Masterpieces", "url": "/masterpieces" },
-        { "name": "Teachings", "url": "/teachings" }
+        { "name": "Teachings", "url": "/teachings" },
+        { "name": "Koans", "url": "/koans" }
       ]
     },
     {

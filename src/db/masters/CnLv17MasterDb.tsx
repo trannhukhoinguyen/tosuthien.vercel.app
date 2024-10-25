@@ -22,7 +22,6 @@ const CnLv17MasterDb = [
     disciples: ['Mian Xianjie', 'Hoà Sơn Tâm Giám'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/%E1%BB%A8ng_Am_%C4%90%C3%A0m_Hoa',],
-
   },
   {
     id: '50.17.2',
@@ -47,7 +46,6 @@ const CnLv17MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/entangling.html', 'https://www.bachduongky.net/danh-muc/huyen-quan-tu-tri-quan/3', 'http://chimvie3.free.fr/27/vomonquan.htm', 'https://nigioikhatsi.net/kinhsach-pdf/CotNhucCuaThien_TranTrucLam.pdf'],
-
   },
   {
     id: '50.17.3',
@@ -72,7 +70,6 @@ const CnLv17MasterDb = [
     disciples: ['Jingshan Ruyan', 'Pojian Jujian'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '50.17.4',
@@ -97,32 +94,6 @@ const CnLv17MasterDb = [
     disciples: [],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Daoji.JPG/250px-Daoji.JPG',
     reference: ['https://vi.wikipedia.org/wiki/T%E1%BA%BF_C%C3%B4ng',],
-
-  },
-  {
-    id: '50.17.5',
-    generation: '50',
-    name_en: 'Duệ Sơn Giác A',
-    name_es: 'Duệ Sơn Giác A',
-    name_de: 'Duệ Sơn Giác A',
-    name_fr: 'Duệ Sơn Giác A',
-    name_vi: 'Duệ Sơn Giác A',
-    name_ru: 'Duệ Sơn Giác A',
-    name_zh: 'Duệ Sơn Giác A ',
-    name_ja: 'Duệ Sơn Giác A',
-    name_ko: 'Duệ Sơn Giác A',
-    name_ar: 'Duệ Sơn Giác A',
-    birth_death_time: ['', ''],
-    records: '',
-    sect: '-',
-    country: 'Japan',
-    place: '-',
-    teachers: ['Shi Huiyuan'],
-    successors: [''],
-    disciples: [],
-    image: '/images/avatar.png',
-    reference: ['',],
-
   },
 ]
 export default CnLv17MasterDb;
