@@ -184,7 +184,7 @@ const CnLv5MasterDb = [
     name_es: 'Jingshan Daoqin',
     name_de: 'Jingshan Daoqin',
     name_fr: 'Jingshan Daoqin',
-    name_vi: 'Kính Sơn Đạo Khâm',
+    name_vi: 'Kính Sơn Đạo Khâm (Quốc Nhất)',
     name_ru: 'Jingshan Daoqin',
     name_zh: '徑山道欽',
     name_ja: 'Kinzan Dōkin',

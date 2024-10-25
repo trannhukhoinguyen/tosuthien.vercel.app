@@ -31,7 +31,7 @@ const CnLv6MasterDb = [
     name_es: 'Xinghua Cunjiang',
     name_de: 'Xinghua Cunjiang',
     name_fr: 'Xinghua Cunjiang',
-    name_vi: 'Hưng Hóa Tồn Tương',
+    name_vi: 'Hưng Hóa Tồn Tương (Quảng Tế)',
     name_ru: 'Xinghua Cunjiang',
     name_zh: '興化存奬',
     name_ja: 'Kōke Zonshō',
