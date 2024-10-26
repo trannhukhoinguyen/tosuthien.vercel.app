@@ -7,7 +7,7 @@ const CnLv11MasterDb = [
     name_es: 'Shishuang Chuyuan',
     name_de: 'Shishuang Chuyuan',
     name_fr: 'Shishuang Chuyuan',
-    name_vi: 'Thạch Sương Sở Viên (Từ Minh)',
+    name_vi: 'Thạch Sương Sở Viên (Từ Minh Đại sư)',
     name_ru: 'Shishuang Chuyuan',
     name_zh: '石霜楚圓 (慈明)',
     name_ja: 'Sekisō Soen',

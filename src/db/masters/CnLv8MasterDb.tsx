@@ -31,7 +31,7 @@ const CnLv8MasterDb = [
     name_es: 'Luohan Guichen',
     name_de: 'Luohan Guichen',
     name_fr: 'Luohan Guichen',
-    name_vi: 'La Hán Quế Sâm (Địa Tạng)',
+    name_vi: 'La Hán Quế Sâm (Địa Tạng Đại sư)',
     name_ru: 'Luohan Guichen',
     name_zh: '羅漢桂琛 (地藏)',
     name_ja: 'Rakan Keichin/Keijin (Chizō)',

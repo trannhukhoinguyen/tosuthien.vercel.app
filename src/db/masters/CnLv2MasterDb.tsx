@@ -37,7 +37,7 @@ const CnLv2MasterDb = [
     name_es: 'Mazu Daoyi',
     name_de: 'Mazu Daoyi',
     name_fr: 'Mazu Daoyi',
-    name_vi: 'Mã Tổ Đạo Nhất (Đại Tịch)',
+    name_vi: 'Mã Tổ Đạo Nhất (Đại Tịch Đại sư)',
     name_ru: 'Mazu Daoyi',
     name_zh: '馬祖道一',
     name_ja: 'Baso Dōitsu',

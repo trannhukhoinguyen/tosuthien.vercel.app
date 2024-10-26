@@ -32,7 +32,7 @@ const CnLv9MasterDb = [
     name_es: 'Fayan Wenyi',
     name_de: 'Fayan Wenyi',
     name_fr: 'Fayan Wenyi',
-    name_vi: 'Pháp Nhãn Văn Ích (Thanh Lương, Tuệ Tịch)',
+    name_vi: 'Pháp Nhãn Văn Ích (Thanh Lương, Tuệ Tịch Đại sư)',
     name_ru: 'Fayan Wenyi',
     name_zh: '法眼文益',
     name_ja: 'Hōgen Buneki',

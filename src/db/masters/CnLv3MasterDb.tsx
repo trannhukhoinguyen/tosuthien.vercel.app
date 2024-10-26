@@ -126,7 +126,7 @@ const CnLv3MasterDb = [
     name_es: 'Baizhang Huaihai',
     name_de: 'Baizhang Huaihai',
     name_fr: 'Baizhang Huaihai',
-    name_vi: 'Bá Trượng Hoài Hải (Bách Trượng, Ðại Trí)',
+    name_vi: 'Bá Trượng Hoài Hải (Bách Trượng Hoài Hải, Ðại Trí Đại sư)',
     name_ru: 'Baizhang Huaihai',
     name_zh: '百丈懷海',
     name_ja: 'Hyakujō Ekai',
