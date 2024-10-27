@@ -23,7 +23,6 @@ const CnLv11MasterDb = [
     disciples: ['Yangqi Fanghui', 'Huanglong Huinan', 'Cuiyan Kezhen'],
     image: 'https://terebess.hu/zen/mesterek/Ciming.gif',
     reference: ['https://terebess.hu/zen/shishuang.html', 'https://en.wikipedia.org/wiki/Shishuang_Temple', 'https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_S%C6%B0%C6%A1ng_S%E1%BB%9F_Vi%C3%AAn'],
-    youtubeId: ['z6WI0EXr1Aw'],
   },
   {
     id: '44.11.2',
@@ -49,7 +48,6 @@ const CnLv11MasterDb = [
     disciples: ['Triều Minh Viện Tân (朝明院津)', 'Phú Dương Tử Bàng (富陽子蒙)'],
     image: '',
     reference: ['https://en.wikipedia.org/wiki/Yongming_Yanshou', 'https://blog.phapthihoi.org/tu-dien-phat-giao/vinh-minh-dien-tho/'],
-    youtubeId: [''],
   },
   {
     id: '44.11.3',
@@ -75,7 +73,6 @@ const CnLv11MasterDb = [
     disciples: [],
     image: '',
     reference: ['https://terebess.hu/zen/mesterek/fold.pdf'],
-    youtubeId: [''],
   },
   {
     id: '44.11.4',
@@ -99,10 +96,8 @@ const CnLv11MasterDb = [
     teachers: ['Xuedou Chongxian'],
     successors: ['Yuantong Fashen'],
     disciples: ['Yuantong Fashen - Viên Thông Pháp Tú - Entsû Hôshû', 'Yang Wuwei - Yô Mui', 'Shi Zongben - Viên Chiếu Tông Bản - 圓照宗本 - 1020?-1099'],
-
     image: '',
     reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Y_Ngh%C4%A9a_Ho%C3%A0i'],
-    youtubeId: [''],
   },
   {
     id: '44.11.5',
@@ -128,7 +123,6 @@ const CnLv11MasterDb = [
     disciples: [],
     image: '',
     reference: ['https://pl.wikipedia.org/wiki/Chengtian_Chuanzong'],
-    youtubeId: [''],
   },
   {
     id: '44.11.5',
@@ -154,7 +148,6 @@ const CnLv11MasterDb = [
     disciples: [],
     image: '',
     reference: ['https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_%C4%90%C6%B0%E1%BB%9Dng'],
-    youtubeId: [''],
   },
 ]
 export default CnLv11MasterDb;

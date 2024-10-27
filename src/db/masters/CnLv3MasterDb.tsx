@@ -43,7 +43,7 @@ const CnLv3MasterDb = [
     place: '-',
     teachers: ['Shitou Xiqian', 'Mazu Daoyi'],
     successors: ['Yunyan Tansheng'],
-    disciples: ['Yunyan Tansheng'],
+    disciples: ['Yunyan Tansheng', 'Chuanzi Decheng', 'Daowu Yuanzhi'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Yaoshan_Weiyan_Image.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Danxia_Tianran'],
   },

@@ -262,7 +262,7 @@ const CnLv0MasterDb = [
     place: 'Nanhua temple, Shaoguan, Guangdong',
     teachers: ['Daman Hongren'],
     successors: ['-'],
-    disciples: ['Qingyuan Xingsi', 'Shitou Xiqian', 'Nanyue Huairang', 'Biandan Xiaoliao'],
+    disciples: ['Qingyuan Xingsi', 'Shitou Xiqian', 'Nanyue Huairang', 'Biandan Xiaoliao', 'Hongzhou Fada'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Huineng.jpg/220px-Huineng.jpg',
     reference: [''],
   },
