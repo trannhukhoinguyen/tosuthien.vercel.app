@@ -44,7 +44,7 @@ const CnLv8MasterDb = [
     place: '-',
     teachers: ['Xuansha Shibei', 'Xuefeng Yicun'],
     successors: ['Fayan Wenyi'],
-    disciples: ['Fayan Wenyi'],
+    disciples: ['Fayan Wenyi', 'Longji Shaoxiu', 'Tianbing Congyi', 'Qingqi Hongjin'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/luohan.html', 'https://quangduc.com/p156a69697/52/thien-su-la-han-que-sam-867-928-vi-thien-su-dat-nen-mong-cho-thien-phai-phap-nhan', 'https://vi.wikipedia.org/wiki/La_H%C3%A1n_Qu%E1%BA%BF_S%C3%A2m'],
 
