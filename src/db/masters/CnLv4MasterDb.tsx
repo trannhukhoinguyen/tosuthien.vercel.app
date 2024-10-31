@@ -341,7 +341,7 @@ const CnLv4MasterDb = [
     successors: ['Jinhua Juzhi'],
     disciples: ['Jinhua Juzhi'],
     image: '/',
-    reference: ['https://pl.wikipedia.org/wiki/Hangzhou_Tianlong'],
+    reference: ['https://pl.wikipedia.org/wiki/Hangzhou_Tianlong', 'https://blog.phapthihoi.org/gt-member/ts-hang-chau-thien-long/'],
   },
   {
     id: '37.4.17',
@@ -442,6 +442,7 @@ const CnLv4MasterDb = [
   {
     id: '37.4.21',
     generation: '37',
+    hasContent: true,
     name_en: 'Zhenzhou Puhua',
     name_es: 'Zhenzhou Puhua',
     name_de: 'Zhenzhou Puhua',

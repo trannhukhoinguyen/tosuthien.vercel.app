@@ -20,7 +20,7 @@
     "sticky_header": true,
     "theme_switcher": true,
     "default_theme": "system",
-    "pagination": 10,
+    "pagination": 50,
     "summary_length": 200,
     "blog_folder": "masters",
     "blog_folder_masters": "masters",
