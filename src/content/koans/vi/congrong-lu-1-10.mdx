@@ -9,6 +9,7 @@ draft: false
 ---
 
 import VintagePost from "../../../layouts/components/VintagePost.astro";
+import CongRongLu from "../../../db/koans/CongRongLu.tsx";
 
 <div class="container vi-koans">
 
@@ -20,42 +21,59 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
 
   ***
 
-  <VintagePost title={} content={} />
+    <VintagePost bookTitle={'Thong Dong Lục'} author={'Hoằng Trí Chính Giác - Vạn Tùng Hành Tú'}
+                 chapterTitle={CongRongLu[0].title} image={CongRongLu[0].image}
+                 intro={CongRongLu[0].intro} main={CongRongLu[0].main}
+                 commentBefore={CongRongLu[0].commentBefore}
+                 verse={CongRongLu[0].verse} verseTranslated={CongRongLu[0].verseTranslated}
+                 commentAfter={CongRongLu[0].commentAfter}
+    />
 
   ***
 
-  <VintagePost title={} content={} />
+    <VintagePost chapterTitle={CongRongLu[1].title} image={CongRongLu[1].image}
+                 intro={CongRongLu[1].intro} main={CongRongLu[1].main}
+                 commentBefore={CongRongLu[1].commentBefore}
+                 verse={CongRongLu[1].verse} verseTranslated={CongRongLu[1].verseTranslated}
+                 commentAfter={CongRongLu[1].commentAfter}
+    />
 
   ***
 
-  <VintagePost title={} content={} />
+    <VintagePost chapterTitle={CongRongLu[2].title} image={CongRongLu[2].image}
+                 intro={CongRongLu[2].intro} main={CongRongLu[2].main}
+                 commentBefore={CongRongLu[2].commentBefore}
+                 verse={CongRongLu[2].verse} verseTranslated={CongRongLu[2].verseTranslated}
+                 verseExtra={CongRongLu[2].verseExtra} verseExtraTranslated={CongRongLu[2].verseExtraTranslated}
+                 commentAfter={CongRongLu[2].commentAfter}
+    />
 
   ***
 
-  <VintagePost title={} content={} />
+   {/* <VintagePost chapterTitle={CongRongLu[3].title} image={CongRongLu[3].image} intro={CongRongLu[3].intro} />
 
   ***
 
-  <VintagePost title={} content={} />
+    <VintagePost chapterTitle={CongRongLu[4].title} image={CongRongLu[4].image} content={CongRongLu[4].content} />
 
   ***
 
-  <VintagePost title={} content={} />
+    <VintagePost chapterTitle={CongRongLu[5].title} image={CongRongLu[5].image} content={CongRongLu[5].content} />
 
   ***
 
-  <VintagePost title={} content={} />
+    <VintagePost chapterTitle={CongRongLu[6].title} image={CongRongLu[6].image} content={CongRongLu[6].content} />
 
   ***
 
-  <VintagePost title={} content={} />
+    <VintagePost chapterTitle={CongRongLu[7].title} image={CongRongLu[7].image} content={CongRongLu[7].content} />
 
   ***
 
-  <VintagePost title={} content={} />
+    <VintagePost chapterTitle={CongRongLu[8].title} image={CongRongLu[8].image} content={CongRongLu[8].content} />
 
   ***
 
-  <VintagePost title={} content={} />
+    <VintagePost chapterTitle={CongRongLu[9].title} image={CongRongLu[9].image} content={CongRongLu[9].content} />*/}
 
 </div>

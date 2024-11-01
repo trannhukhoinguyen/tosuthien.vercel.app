@@ -1,5 +1,7 @@
 ---
-const { title, content } = Astro.props;
+const { bookTitle, author, chapterTitle, image,
+  intro, main, commentBefore, verse, verseTranslated, verseExtra, verseExtraTranslated, commentAfter
+} = Astro.props;
 ---
 
 <script>
@@ -24,27 +26,57 @@ const { title, content } = Astro.props;
 
 <article id="story" class="story">
   <header class="story__header">
-    <h1 class="story__title"> Redwall
-      <span class="story__byline">by Brian Jacques</span>
+    <h1 class="story__title"> {bookTitle}
+      <span class="story__byline">{author}</span>
     </h1>
 
   </header>
   <section class="chapter">
     <header class="chapter__header">
-      <h2 class="chapter__title">
-        Chapter 1
-      </h2>
+      <h2 class="chapter__title">{chapterTitle}</h2>
     </header>
     <div class="chapter__contents">
       <div class="two-column">
-        <p>Matthias cut a comical little figure as he wobbled his way along the cloisters, with his large sandals flip-flopping and his tail peeping from beneath the baggy folds of an oversized novice's habit. He paused to gaze upwards at the cloudless blue sky and tripped over the enormous sandals. Hazelnuts scattered out upon the grass from the rush basket he was carrying. Unable to stop, he went tumbling cowl over tail.</p>
-        <span class="storyImage" style="background-image: url(https://assets.codepen.io/618359/ch1-1-effect.png)"></span>
+        <p>{intro}</p>
+        <span class="storyImage" style={`background-image: ${image}`}></span>
       </div>
 
-      <p>Bump!</p>
+      <h4>CÔNG ÁN</h4>
+      <p>{main}</p>
 
-      <p>The young mouse squeaked in dismay. He rubbed tenderly at his damp snub nose while slowly taking stock of where he had landed: directly at the feet of Abbot Mortimer!</p>
+      <hr/>
+      <p>{commentBefore}</p>
 
+      {
+        verse
+          ? <hr/>
+          <h4>TỤNG</h4>
+          <p>{verse}</p>
+          : ''
+      }
+
+      {
+        verseTranslated
+          ? <hr/>
+          <h4>DỊCH TỤNG</h4>
+          <p>{verseTranslated}</p>
+          : ''
+      }
+
+      {
+        verseExtra && verseExtraTranslated
+        ? <hr/>
+          <h4>TỤNG</h4>
+          <p>{verseExtra}</p>
+
+          <h4>DỊCH TỤNG</h4>
+          <p>{verseExtraTranslated}</p>
+        : ''
+      }
+
+      <hr/>
+      <h4>BÌNH</h4>
+      <p>{commentAfter}</p>
       <p class="chapter__end">~</p>
     </div>
   </section>
