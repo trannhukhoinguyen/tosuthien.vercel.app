@@ -1,6 +1,7 @@
 const CongRongLu = [
   {
     id: 1,
+    postGroup: 0,
     title: 'TẮC THỨ 1: THẾ TÔN THĂNG TÒA',
     image: '/images/meta-image-square-1',
     intro:
@@ -35,6 +36,7 @@ const CongRongLu = [
   },
   {
     id: 2,
+    postGroup: 0,
     title: 'TẮC THỨ 2: RỖNG RANG KHÔNG THÁNH',
     image: '/images/meta-image-square-1',
     intro:
@@ -97,6 +99,7 @@ const CongRongLu = [
   },
   {
     id: 3,
+postGroup: 0,
     title: 'TẮC THỨ 3: ĐÔNG ẤN THỈNH TỔ',
     image: '/images/meta-image-square-1',
     intro:
