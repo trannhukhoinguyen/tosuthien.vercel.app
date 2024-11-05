@@ -27,6 +27,7 @@ const CnLv5MasterDb = [
   {
     id: '38.5.2',
     generation: '38',
+    hasContent: true,
     name_en: 'Dongshan Liangjie',
     name_es: 'Dongshan Liangjie',
     name_de: 'Dongshan Liangjie',
