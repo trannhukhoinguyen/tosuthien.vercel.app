@@ -22,7 +22,6 @@ const CnLv5MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
-
   },
   {
     id: '38.5.2',
@@ -47,8 +46,10 @@ const CnLv5MasterDb = [
     successors: ['Yunju Daoying', 'Caoshan Benji'],
     disciples: ['Yunju Daoying', 'Caoshan Benji'],
     image: 'https://terebess.hu/zen/mesterek/Ma-Yuan_Dongshan.jpg',
-    reference: [''],
-
+    reference: ['https://hoavouu.com/a39664/ngu-luc-thien-su-dong-son-ngo-ban',
+      'https://drive.google.com/file/d/1SvmWiqhC8prbUZrvXV7WqnI7dVaddd98/view',
+      'https://tangthuphathoc.net/thuy-chau-dong-son-luong-gioi-thien-su-ngu-luc',
+      'https://blog.phapthihoi.org/gt-member/ts-dong-son-luong-gioi/'],
   },
   {
     id: '38.5.3',
@@ -75,7 +76,6 @@ const CnLv5MasterDb = [
     image: 'https://terebess.hu/zen/deshan3.jpg',
     image2: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/To_san_Hszuan_csien780.2-865.jpg',
     reference: ['https://terebess.hu/zen/deshan3.jpg'],
-
   },
   {
     id: '38.5.4',
@@ -100,7 +100,6 @@ const CnLv5MasterDb = [
     disciples: ['Nanta Guangyong'],
     image: '/images/avatar.png',
     reference: [''],
-
   },
   {
     id: '38.5.5',
@@ -126,7 +125,6 @@ const CnLv5MasterDb = [
     disciples: ['Xinghua Cunjiang', 'Sansheng Huiran', 'Baoshou Yanzhao', 'Zhiyi Daozhe', 'Guanqi Zhixian', 'Luopu Yuan’an'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/L%C3%A2m_T%E1%BA%BF_Ngh%C4%A9a_Huy%E1%BB%81n', 'https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-', 'https://quangduc.com/p157a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su'],
-
   },
   {
     id: '38.5.6',
@@ -152,7 +150,6 @@ const CnLv5MasterDb = [
     disciples: [],
     image: 'https://terebess.hu/zen/mesterek/woodcut/38-3.jpg',
     reference: ['https://terebess.hu/zen/muzhou.html'],
-
   },
   {
     id: '38.5.7',
