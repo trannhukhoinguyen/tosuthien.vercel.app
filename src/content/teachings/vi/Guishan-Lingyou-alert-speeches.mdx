@@ -8,35 +8,49 @@ tags: ['Alerts']
 draft: false
 ---
 
-import ShortWhitePage from "../../../layouts/components/ShortWhitePage.astro";
+import VintagePost from "../../../layouts/components/VintagePost.astro";
 import {
-title, subTitle, author, image, description, content, verse
+  title, author, image, intro, verse,
+  content1,
+  content2,
+  content3,
+  content4,
+  content5,
+  content6,
+  content7,
+  content8,
+  content9,
+  content10,
+  content11,
+  content12,
+  content13,
+  content14,
+  content15,
+  content16,
+  content17,
 } from "../../../db/teachings/GuishanAlert.tsx";
 
-<div className="grid bg-body dark:bg-darkmode-body">
-
-  <div className="container vi-teachings">
-
-
-<h1>QUY SƠN CẢNH SÁCH</h1>
-    <h4>[Thiền sư] <em>Quy Sơn Linh Hựu</em></h4>
-    <h4>Việt Dịch: Nguyễn Minh Tiến</h4>
-    <h6><em>https://chuaxaloi.vn/upload/thuvienpdf/Quy%20Son%20canh%20sach%20van.pdf</em></h6>
-    <h6><em>https://truyenphatgiao.com/download/daitangvietnam/Thien-Tong/Truoc-Tac/Quy-Son-Canh-Sach-Nguyen-Minh-Tien-Dich-Va-Chu.pdf</em></h6>
-
-***
-
-  <ShortWhitePage
-    title={ title }
-    subTitle={ subTitle }
-    author={ author }
-    image={ image }
-    description={ description }
-    content={ content }
-    verse={ verse }
-  />
-</div>
-
-</div>
-
-
+<VintagePost
+  bookTitle={ title }
+  author={ author }
+  image={ image }
+  intro={ intro }
+  content1={ content1 }
+  content2={ content2 }
+  content3={ content3 }
+  content4={ content4 }
+  content5={ content5 }
+  content6={ content6 }
+  content7={ content7 }
+  content8={ content8 }
+  content9={ content9 }
+  content10={ content10 }
+  content11={ content11 }
+  content12={ content12 }
+  content13={ content13 }
+  content14={ content14 }
+  content15={ content15 }
+  content16={ content16 }
+  content17={ content17 }
+  verse={ verse }
+/>

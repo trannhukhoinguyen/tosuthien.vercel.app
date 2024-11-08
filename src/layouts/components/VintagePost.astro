@@ -3,8 +3,43 @@ const { bookTitle, author, chapterTitle, image,
   intro, main,
   commentBefore, commentAfter,
   verse, verseTranslated, verseExtra, verseExtraTranslated,
-
+  content1,
+  content2,
+  content3,
+  content4,
+  content5,
+  content6,
+  content7,
+  content8,
+  content9,
+  content10,
+  content11,
+  content12,
+  content13,
+  content14,
+  content15,
+  content16,
+  content17,
 } = Astro.props;
+const contents = [
+  content1,
+  content2,
+  content3,
+  content4,
+  content5,
+  content6,
+  content7,
+  content8,
+  content9,
+  content10,
+  content11,
+  content12,
+  content13,
+  content14,
+  content15,
+  content16,
+  content17,
+];
 ---
 
 <script>
@@ -41,14 +76,26 @@ const { bookTitle, author, chapterTitle, image,
     <div class="chapter__contents">
       <div class="two-column">
         <p>{intro}</p>
-        <span class="storyImage" style={`background-image: ${image}`}></span>
+        <!--<span class="storyImage" style={`background-image: url(${image})`}></span>-->
       </div>
 
-      <h4>CÔNG ÁN</h4>
-      <p>{main}</p>
+      {
+        main
+          ? <h4>CÔNG ÁN</h4>
+            <p>{main}</p>
+            <hr/>
+          : ''
+      }
 
-      <hr/>
-      <p>{commentBefore}</p>
+      <p>{
+        commentBefore ? commentBefore : ''
+      }</p>
+
+      {
+        contents.length
+          ? contents?.map(content => <p>{content}</p>)
+          : ''
+      }
 
       {
         verse
@@ -71,15 +118,21 @@ const { bookTitle, author, chapterTitle, image,
         ? <hr/>
           <h4>TỤNG</h4>
           <p>{verseExtra}</p>
+          <hr/>
 
           <h4>DỊCH TỤNG</h4>
           <p>{verseExtraTranslated}</p>
+          <hr/>
         : ''
       }
 
-      <hr/>
-      <h4>BÌNH</h4>
-      <p>{commentAfter}</p>
+      {
+        commentAfter
+          ? <h4>BÌNH</h4>
+            <p>{commentAfter}</p>
+          : ''
+      }
+
       <p class="chapter__end">~</p>
     </div>
   </section>
