@@ -189,7 +189,7 @@ export const content =
     - Có bài tụng để khuyên răn rằng: 
 ";
 
-export verse =
+export const verse =
 "Thân hư huyễn trong mộng,
     Hình sắc giữa chốn không.
      Việc đã qua không cùng,
