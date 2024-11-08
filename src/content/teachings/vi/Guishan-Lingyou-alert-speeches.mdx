@@ -8,15 +8,26 @@ tags: ['Alerts']
 draft: false
 ---
 
+import ShortWhitePage from "../../../layouts/components/ShortWhitePage.astro";
+import {
+title, subTitle, author, image, description, content
+} from "../../../db/teachings/GuishanAlert.tsx";
+
 <div className="grid bg-body dark:bg-darkmode-body">
 
   <div className="container vi-teachings">
-    <h1>QUY SƠN CẢNH SÁCH</h1>
+    
+
+<h1>QUY SƠN CẢNH SÁCH</h1>
     <h4>[Thiền sư] <em>Quy Sơn Linh Hựu</em></h4>
     <h4>Việt Dịch: Nguyễn Minh Tiến</h4>
     <h1><em>https://chuaxaloi.vn/upload/thuvienpdf/Quy%20Son%20canh%20sach%20van.pdf</em></h1>
     <h1><em>https://truyenphatgiao.com/download/daitangvietnam/Thien-Tong/Truoc-Tac/Quy-Son-Canh-Sach-Nguyen-Minh-Tien-Dich-Va-Chu.pdf</em></h1>
     <h1></h1>
+
+  
+<ShortWhitePage title={ title } subTitle={ subTitle } author={ author }
+image={ image } description={ description } content={ content } />
 
     ***
 
