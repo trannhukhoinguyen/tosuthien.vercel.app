@@ -1,4 +1,4 @@
-const GatelessGate = [
+8const GatelessGate = [
 {
     id: 1,
     title: 'TẮC THỨ 1: ',
@@ -170,4 +170,4 @@ const GatelessGate = [
       '',
   },
 ]
-export default CongRongLu;
+export default GatelessGate;
