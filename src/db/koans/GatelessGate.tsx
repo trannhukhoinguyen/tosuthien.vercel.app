@@ -1,57 +1,173 @@
-const koanBooks = [
-  {
+const GatelessGate = [
+{
     id: 1,
-    cover: '',
-    title: 'CONGRONG LU',
-    titleEn: 'Records of the Great Peace (RoGP)',
-    titleZh: '從容錄',
-    titleJa: 'Shōyō-roku',
-    titleKo: 'Shōyō-roku',
-    titleVi: 'Thong Dong Lục',
-    author: '',
-    description: '',
-    linkWeb1: '',
-    linkWeb2: 'https://pl.wikipedia.org/wiki/Congrong_lu',
-    linkWeb3: '',
-    linkPdf: '',
-    linkAudio: '',
-    youtube: '',
+    title: 'TẮC THỨ 1: ',
+    image: '/images/meta-image-square-1',
+    intro:
+      '',
+    main:
+      '',
+    commentBefore:
+      '',
+    verse:
+      '',
+    verseTranslated:
+      '',
+    commentAfter:
+      '',
   },
   {
     id: 2,
-    cover: '',
-    title: 'The Blue Rock, Blue Cliff Records',
-    titleEn: 'Blue Cliff Records (BCR)',
-    titleZh: '碧巖錄',
-    titleJa: '碧巌録 - Hekiganroku',
-    titleKo: 'Pyŏkam lok',
-    titleVi: 'Bích nham lục',
-    author: '',
-    description: '',
-    linkWeb1: 'https://en.wikipedia.org/wiki/Blue_Cliff_Record',
-    linkWeb2: '',
-    linkWeb3: 'https://pl.wikipedia.org/wiki/Zapiski_B%C5%82%C4%99kitnej_Ska%C5%82y',
-    linkPdf: 'https://terebess.hu/zen/Blue-Cliff.pdf',
-    linkAudio: '',
-    youtube: '',
+    title: 'TẮC THỨ 2: ',
+    image: '/images/meta-image-square-1',
+    intro:
+      '',
+    main:
+      '',
+    commentBefore:
+      '',
+    verse:
+      '',
+    verseTranslated:
+      '',
+    commentAfter:
+      '',
   },
   {
     id: 3,
-    cover: '',
-    title: 'The Gateless Barrier - The Gateless Gate',
-    titleEn: 'The Gateless Gate (TGG)',
-    titleJa: '無門関 - Mumonkan',
-    titleZh: '無門關 - Wúménguān',
-    titleKo: '從容錄',
-    titleVi: 'Vô Môn Quan',
-    author: 'Wumen Huikai',
-    description: '',
-    linkWeb1: 'https://terebess.hu/zen/GatelessGate-MarkMorse.pdf',
-    linkWeb2: 'https://en.wikipedia.org/wiki/The_Gateless_Barrier',
-    linkWeb3: '',
-    linkPdf: '',
-    linkAudio: '',
-    youtube: '',
+    title: 'TẮC THỨ 3: ',
+    image: '/images/meta-image-square-1',
+    intro:
+      '',
+    main:
+      '',
+    commentBefore:
+      '',
+    verse:
+      '',
+    verseTranslated:
+      '',
+    commentAfter:
+      '',
+  },
+{
+    id: 4,
+    title: 'TẮC THỨ 4: ',
+    image: '/images/meta-image-square-1',
+    intro:
+      '',
+    main:
+      '',
+    commentBefore:
+      '',
+    verse:
+      '',
+    verseTranslated:
+      '',
+    commentAfter:
+      '',
+  },
+{
+    id: 5,
+    title: 'TẮC THỨ 5: ',
+    image: '/images/meta-image-square-1',
+    intro:
+      '',
+    main:
+      '',
+    commentBefore:
+      '',
+    verse:
+      '',
+    verseTranslated:
+      '',
+    commentAfter:
+      '',
+  },
+{
+    id: 6,
+    title: 'TẮC THỨ 6: ',
+    image: '/images/meta-image-square-1',
+    intro:
+      '',
+    main:
+      '',
+    commentBefore:
+      '',
+    verse:
+      '',
+    verseTranslated:
+      '',
+    commentAfter:
+      '',
+  },
+{
+    id: 7,
+    title: 'TẮC THỨ 7: ',
+    image: '/images/meta-image-square-1',
+    intro:
+      '',
+    main:
+      '',
+    commentBefore:
+      '',
+    verse:
+      '',
+    verseTranslated:
+      '',
+    commentAfter:
+      '',
+  },
+{
+    id: 8,
+    title: 'TẮC THỨ 8: ',
+    image: '/images/meta-image-square-1',
+    intro:
+      '',
+    main:
+      '',
+    commentBefore:
+      '',
+    verse:
+      '',
+    verseTranslated:
+      '',
+    commentAfter:
+      '',
+  },
+{
+    id: 9,
+    title: 'TẮC THỨ 9: ',
+    image: '/images/meta-image-square-1',
+    intro:
+      '',
+    main:
+      '',
+    commentBefore:
+      '',
+    verse:
+      '',
+    verseTranslated:
+      '',
+    commentAfter:
+      '',
+  },
+{
+    id: 10,
+    title: 'TẮC THỨ 10: ',
+    image: '/images/meta-image-square-1',
+    intro:
+      '',
+    main:
+      '',
+    commentBefore:
+      '',
+    verse:
+      '',
+    verseTranslated:
+      '',
+    commentAfter:
+      '',
   },
 ]
-export default koanBooks;
+export default CongRongLu;
