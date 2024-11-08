@@ -1,6 +1,9 @@
 ---
 const { bookTitle, author, chapterTitle, image,
-  intro, main, commentBefore, verse, verseTranslated, verseExtra, verseExtraTranslated, commentAfter
+  intro, main,
+  commentBefore, commentAfter,
+  verse, verseTranslated, verseExtra, verseExtraTranslated,
+
 } = Astro.props;
 ---
 
@@ -25,7 +28,7 @@ const { bookTitle, author, chapterTitle, image,
 </script>
 
 <article id="story" class="story">
-  <header class="story__header">
+  <header class="story__header" style={`background-image: url(${image})`}>
     <h1 class="story__title"> {bookTitle}
       <span class="story__byline">{author}</span>
     </h1>
@@ -111,7 +114,6 @@ const { bookTitle, author, chapterTitle, image,
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(https://assets.codepen.io/618359/redwall-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }

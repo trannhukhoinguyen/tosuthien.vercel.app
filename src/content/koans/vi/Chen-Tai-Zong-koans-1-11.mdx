@@ -22,7 +22,7 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
       ?.filter(koan => koan.id >= 1 && koan.id <= 11)
       ?.map(koan => {
         if (koan.id%11 === 1) {
-          <VintagePost bookTitle={'Công Án Trần Thái Tông'} author={'Trần Thái Tông'}
+          return <VintagePost bookTitle={'Công Án Trần Thái Tông'} author={'Trần Thái Tông'}
                        chapterTitle={koan.title} image={koan.image}
                        intro={koan.intro} main={koan.main}
                        commentBefore={koan.commentBefore}
@@ -30,7 +30,7 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
                        commentAfter={koan.commentAfter}
           />
         } else {
-          <VintagePost chapterTitle={koan.title} image={koan.image}
+          return <VintagePost chapterTitle={koan.title} image={koan.image}
                        intro={koan.intro} main={koan.main}
                        commentBefore={koan.commentBefore}
                        verse={koan.verse} verseTranslated={koan.verseTranslated}
