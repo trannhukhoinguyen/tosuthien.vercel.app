@@ -30,12 +30,12 @@ $dc: "Fleur De Leah", cursive;
 	box-sizing: border-box;
 }
 
-::-moz-selection {
+*::-moz-selection {
 	background: black;
 	color: white;
 }
 
-::selection {
+*::selection {
 	background: black;
 	color: white;
 }
@@ -48,23 +48,21 @@ body {
 	font-size: 1rem;
 
 	border: 0.25rem solid black;
+}
 
-	&::-webkit-scrollbar {
+body::-webkit-scrollbar {
 		width: 0.5rem;
 	}
 
-	&::-webkit-scrollbar-thumb {
+body::-webkit-scrollbar-thumb {
 		border: 0.25rem solid #000;
 	}
-}
 
 .flower {
 	float: right;
 
 	margin-right: -11rem;
 	height: 33rem;
-
-	// https://css-tricks.com/almanac/properties/s/shape-outside/
 
 	shape-outside: url("https://raw.githubusercontent.com/melipi/img-repo/main/flower-silhouette.png");
 	shape-margin: 2rem;
@@ -123,9 +121,11 @@ p {
 	text-align: justify;
 	margin: 1rem 0;
 	line-height: 1.5rem;
-	//drop caps
+}
 
-	&:first-of-type:first-letter {
+//drop caps
+
+p:first-of-type:first-letter {
 		padding: 0.25rem;
 		margin: -1rem 0.25rem -0.25rem 0;
 
@@ -135,7 +135,7 @@ p {
 
 	// first line styling
 
-	&:first-of-type {
+	p:first-of-type {
 		$font-family: $main;
 		font-size: 1.25rem;
 		line-height: 2rem;
@@ -143,6 +143,6 @@ p {
 
 		margin-bottom: 2rem;
 	}
-}
+
 
 </style>
