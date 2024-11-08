@@ -8,6 +8,9 @@ tags: ['Koan']
 draft: false
 ---
 
+import BlueCliffRecord from "../../../db/koans/BlueCliffRecord.tsx";
+import VintagePost from "../../../layouts/components/VintagePost.astro";
+
 <div class="container vi-koans">
 
   # BÍCH NHAM LỤC - 碧巖錄 (1 - 10)
@@ -20,315 +23,27 @@ draft: false
 
   ***
 
-  <div>
-
-    ### TẮC 1 - MỘT HẠT BỤI CỦA PHONG NGUYỆT
-
-    #### CỬ
-
-    Phong Huyệt dạy rằng, “___Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạ bụi, nước nhà suy vong___”.
-
-    Tuyết Đậu dơ gậy lên nói, “___Có còn các nạp tăng đồng sinh đồng tử không?___”
-
-    #### TỤNG
-
-    > Lão quê có thể không nhướng mày,
-    >
-    > Mong rằng nhà nước được vững mạnh.
-    >
-    > Mưu thần mãnh tướng giờ đâu hết?
-    >
-    > Vạn dặm gió mát chỉ tự biết.
-
-  </div>
-
-  ***
-
-  <div>
-
-    ### TẮC 2 - VIÊN NGỌC CỦA VÂN MÔN
-
-    #### CỬ
-
-    Vân Môn dạy chúng rằng:
-
-    > Bên trong trời đất, ở giữa vũ trụ, có một viên ngọc, ẩn trong núi hình.
-    Cầm Đèn giấy đi vào Phật điện, đem Tam môn đến đặt trên Đèn.
-
-    #### TỤNG
-
-    > Nhìn nhìn!
-    >
-    > Bến cũ ai kẻ cầm nhánh câu?
-    >
-    > Mây chập chùng,
-    >
-    > Nước miên man.
-    >
-    > Hoa lau dưới trăng, hãy tự nhìn.
-
-  </div>
-
-  ***
-
-  <div>
-
-    ### TẮC 3 - NAM TUYỀN GIẾT MÈO
-
-    #### CỬ
-
-    Một hôm ở tự viện của Nam Tuyền, tăng chúng của đông đường và tây đường tranh nhau một con mèo.
-
-    Nam Tuyền thấy thế bèn nắm lấy con mèo dơ lên nói: ___“Nếu như các ông nói được thì tôi sẽ không chém Mèo”___
-
-    Chúng hội không ai nói được gì cả.
-    Nam Tuyền bèn chặt con mèo ra làm đôi.
-
-    #### TỤNG
-
-    > Hai bên đều là Thiền giả mạo
-    >
-    > Quơ bụi cát lên chẳng được gì.
-    >
-    > May mà Nam Tuyền ra được lệnh,
-    >
-    > Một dao hai mảnh kệ thiên kiến.
-
-  </div>
-
-  ***
-
-  <div>
-
-    ### TẮC 4 - NAM TUYỀN HỎI TRIỆU CHÂU
-
-    #### CỬ
-
-    Nam Tuyền lại nêu câu chuyện trên ra để hỏi Triệu Châu.
-
-    Triệu Châu bèn cởi giầy cỏ ra đội lên đầu rồi bỏ đi.
-
-    Nam Tuyền nói, ___“Nếu như có ông ở đây, hẳn ông đã cứu được mèo rồi”___
-
-    #### TỤNG
-
-    > Công án viên mãn hỏi Triệu Châu,
-    >
-    > Trong thành Trường An cứ nhàn du.
-    >
-    > Giầy cỏ đội đầu không ai hiểu,
-    >
-    > Về đến núi nhà bèn nghỉ ngơi.
-
-  </div>
-
-  ***
-
-  <div>
-
-    ### TẮC 5 - NGOẠI ĐẠO HỎI PHẬT VỀ HỮU VÔ
-
-    #### CỬ
-
-    Một ngoại đạo hỏi Phật, _“Không hỏi hữu ngôn, không hỏi vô ngôn”_
-    Đức Thế Tôn im lặng.
-
-    Ngoại đạo tán than rằng: _“Thế Tôn đại từ đại bi, khai mở mây mờ cho tôi, khiến tôi có được chỗ vào (đạo)”_
-
-    Sau khi ngoại đạo đi rồi, A Nan hỏi Phật: _“Ngoại đạo chứng được gì mà nói có chỗ vào vậy ?”_
-
-    Đức Phật nói: ___“Giống như ngựa tốt, chỉ cần thấy bóng roi cũng chạy rồi”___
-
-    #### TỤNG
-
-    > Cơ luân chưa từng chuyển,
-    >
-    > Chuyển ắt chạy hai phía.
-    >
-    > Gương sáng bỗng lên đài,
-    >
-    > Lập tức phân xấu đẹp.
-    >
-    > Xấu đẹp phân hề may đen mở,
-    >
-    > Cửa từ ở đâu sinh trần ai?
-    >
-    > Nghĩ ngựa tốt thấy bóng roi,
-    >
-    > Thiên lý truy phong gọi về được.
-    >
-    > Gọi về được, bung tay ba lần.
-
-  </div>
-
-  ***
-
-  <div>
-
-    ### TẮC 6 - NHAM ĐẦU VÀ “TỪ ĐÂU TỚI”
-
-    #### CỬ
-
-    Nham Đầu hỏi ông tăng, ___“Từ đâu tới?”___ Ông tăng nói, _“Từ Tây Kinh tới”_
-
-    Nham Đầu nói, ___“Sau nạn Hoàng Sào còn thu được kiếm sao ?”___
-
-    Ông tăng nói, _“Thu được”_
-
-    Nham Đầu nghển cổ tới trước hét lên.
-
-    Ông tăng nói, _“Đầu thầy rụng rồi”_
-
-    Nham Đầu bật cười ha hả.
-
-    Sau đó ông tăng kia đến gặp Tuyết Phong. Tuyết Phong hỏi, ___“Từ đâu tới ?”___
-
-    Ông tăng nói, ___“Từ Nham Đầu tới”___
-
-    Tuyết Phong nói, ___“Nham Đầu có lời dạy gì ?”___
-
-    Ông tăng thuật lại câu chuyện trên.
-
-    Tuyết Phong đánh cho 30 gậy rồi đuổi ra.
-
-    #### TỤNG
-
-    > Sau nạn Hoàng Sào từng thu kiếm,
-    >
-    > Cười lớn phải cần chuyên gia hiểu
-    >
-    > Ba mươi gậy núi kể còn nhẹ,
-    >
-    > Được tiện nghi là mất tiện nghi.
-
-  </div>
-
-  ***
-
-  <div>
-
-    ### TẮC 7 - LƯƠNG VŨ ĐẾ MỜI GIẢNG KINH
-
-    #### CỬ
-
-    Lương Vũ Đế mời Phó Đại Sĩ giảng Kinh Kim Cương.
-    Phó Đại Sĩ đứng trên tòa lay bàn một cái rồi xuống khỏi tòa.
-    Vũ Đế ngạc nhiên.
-
-    Chí Công hỏi, ___“Bệ hạ hiểu chứ ?”___
-
-    Vũ Đế nói, ___“Không hiểu”___
-
-    Chí Công nói, ___“Đại Sĩ đã giảng xong kinh rồi”___
-
-
-    #### TỤNG
-
-    > Không dựa thân này nơi song lâm
-    >
-    > Lại vướng trần ai nơi đất Lương
-    >
-    > Lúc ấy nếu không vì Chí Công
-    >
-    > Đã phải vội vàng bỏ nước đi
-
-  </div>
-
-  ***
-
-  <div>
-
-    ### TẮC 8 - NGƯỠNG SƠN HỎI TAM THÁNH
-
-    #### CỬ
-
-    Ngưỡng Sơn hỏi Tam Thánh, ___“Thầy tên gì ?”___
-
-    Tam Thánh nói, ___“Dạ, Huệ Tịch”___
-
-    Ngưỡng Sơn nói, ___“Huệ Tịch là tên của ta”___
-
-    Tam Thánh nói, ___“Tên tôi là Huệ Nhiên”___
-
-    Ngưỡng Sơn cười ầm lên.
-
-
-    #### TỤNG
-
-    > Vừa thu vừa buông tông chỉ đâu?
-    >
-    > Cưỡi cọp cần phải có tuyệt kỹ
-    >
-    > Cười rồi chẳng biết đi về đâu
-    >
-    > Chỉ là thiên cổ động bi phong
-
-  </div>
-
-  ***
-
-  <div>
-
-    ### TẮC 9 - NAM TUYỀN BÁI TRUNG QUỐC SƯ
-
-    #### CỬ
-
-    Nam Tuyền , Qui Tông và Ma Cốc cùng đi tham bái Trung Quốc Sư.
-
-    Đến nữa đường, Nam Tuyền vẽ một vòng tròn trên mặt đất rồi nói: ___”Nếu như các ông nói được thì chúng mình tiếp tục đi”___
-
-    Qui Tông ngồi xuống trong vòng tròn. Ma Cốc thì cúi chào theo kiểu đàn bà.
-
-    Nam Tuyền nói ___”Như vầy thì thôi chẳng đi nữa”___
-
-    Qui Tông nói, ___“Đó là tâm hành gì vậy ?”___
-
-    #### TỤNG
-
-    > Tên Do Cơ bắn khỉ
-    >
-    > Vòng cây trực tiếp sao!
-    >
-    > Ngàn kẻ và vạn kẻ
-    >
-    > Có ai từng bắn trúng?
-    >
-    > Kêu nhau gọi nhau quay về thôi
-    >
-    > Trên lối Tào Khê dừng bước chân
-    >
-    > Lại nói, Lối Tào Khê bằng Phẳng
-    >
-    > Tại sao lại dừng bước chân?
-
-  </div>
-
-  ***
-
-  <div>
-
-    ### TẮC 10 - QUI SƠN ĐỨNG HẦU BÁCH TRƯỢNG
-
-    #### CỬ
-
-    Qui Sơn, Ngũ Phong và Vân Nham cùng đứng hầu Bách Trượng.
-
-    Bách Trượng hỏi Qui Sơn: ___“Không có cổ họng với miệng môi, làm cách nào để nói đây ?”___
-
-    Qui Sơn nói: ___“Xin để hòa thượng nói vậy”___
-
-    Bách Trượng nói: ___“Tôi không ngại gì mà không nói cho ông, song chỉ sợ sau này làm chết hết con cháu mà thôi”___
-
-    #### TỤNG
-
-    > Xin để hoà thượng nói
-    >
-    > Đầu cọp mọc sừng chốn cỏ hoang
-    >
-    > Mười châu xuân tàn hoa rơi rụng
-    >
-    > Mặt trời rực rỡ rừng san hô
-
-  </div>
+  {
+    BlueCliffRecord
+      ?.filter(koan => koan.id >= 1 && koan.id <= 10)
+      ?.map(koan => {
+        if (koan.id%10 === 1) {
+          <VintagePost bookTitle={'Bích Nham Lục'} author={'Tuyết Đậu Trọng Hiển - Viên Ngộ Khắc Cần'}
+                       chapterTitle={koan.title} image={koan.image}
+                       intro={koan.intro} main={koan.main}
+                       commentBefore={koan.commentBefore}
+                       verse={koan.verse} verseTranslated={koan.verseTranslated}
+                       commentAfter={koan.commentAfter}
+          />
+        } else {
+          <VintagePost chapterTitle={koan.title} image={koan.image}
+                       intro={koan.intro} main={koan.main}
+                       commentBefore={koan.commentBefore}
+                       verse={koan.verse} verseTranslated={koan.verseTranslated}
+                       commentAfter={koan.commentAfter}
+          />
+        }
+      })
+  }
 
 </div>

@@ -1,7 +1,7 @@
 ---
 title: "Thong Dong Lục - Tắc 1 đến Tắc 10"
-meta_title: "Thong Dong Lục (Thung Dung Lục)"
-description: "Thong Dong Lục (Thung Dung Lục)"
+meta_title: "Thong Dong Lục (Thung Dung Lục) - Tắc 1 đến Tắc 10"
+description: "Thong Dong Lục (Thung Dung Lục) - Tắc 1 đến Tắc 10"
 date: 2024-10-30
 image: "/images/wide-images/silver-5.png"
 tags: ['Koan']
@@ -13,7 +13,8 @@ import CongRongLu from "../../../db/koans/CongRongLu.tsx";
 
 <div class="container vi-koans">
 
-  <h1>THONG DONG LỤC (THUNG DUNG LỤC)</h1>
+  # THONG DONG LỤC (THUNG DUNG LỤC)
+  <h5><em>Tắc 1 - Tắc 10</em></h5>
 
   <h4>[Thiền sư] <em>Hoằng Trí Chính Giác</em></h4>
   <h4>[Thiền sư] <em>Vạn Tùng Hành Tú</em></h4>
@@ -21,59 +22,27 @@ import CongRongLu from "../../../db/koans/CongRongLu.tsx";
 
   ***
 
-    <VintagePost bookTitle={'Thong Dong Lục'} author={'Hoằng Trí Chính Giác - Vạn Tùng Hành Tú'}
-                 chapterTitle={CongRongLu[0].title} image={CongRongLu[0].image}
-                 intro={CongRongLu[0].intro} main={CongRongLu[0].main}
-                 commentBefore={CongRongLu[0].commentBefore}
-                 verse={CongRongLu[0].verse} verseTranslated={CongRongLu[0].verseTranslated}
-                 commentAfter={CongRongLu[0].commentAfter}
-    />
-
-  ***
-
-    <VintagePost chapterTitle={CongRongLu[1].title} image={CongRongLu[1].image}
-                 intro={CongRongLu[1].intro} main={CongRongLu[1].main}
-                 commentBefore={CongRongLu[1].commentBefore}
-                 verse={CongRongLu[1].verse} verseTranslated={CongRongLu[1].verseTranslated}
-                 commentAfter={CongRongLu[1].commentAfter}
-    />
-
-  ***
-
-    <VintagePost chapterTitle={CongRongLu[2].title} image={CongRongLu[2].image}
-                 intro={CongRongLu[2].intro} main={CongRongLu[2].main}
-                 commentBefore={CongRongLu[2].commentBefore}
-                 verse={CongRongLu[2].verse} verseTranslated={CongRongLu[2].verseTranslated}
-                 verseExtra={CongRongLu[2].verseExtra} verseExtraTranslated={CongRongLu[2].verseExtraTranslated}
-                 commentAfter={CongRongLu[2].commentAfter}
-    />
-
-  ***
-
-   {/* <VintagePost chapterTitle={CongRongLu[3].title} image={CongRongLu[3].image} intro={CongRongLu[3].intro} />
-
-  ***
-
-    <VintagePost chapterTitle={CongRongLu[4].title} image={CongRongLu[4].image} content={CongRongLu[4].content} />
-
-  ***
-
-    <VintagePost chapterTitle={CongRongLu[5].title} image={CongRongLu[5].image} content={CongRongLu[5].content} />
-
-  ***
-
-    <VintagePost chapterTitle={CongRongLu[6].title} image={CongRongLu[6].image} content={CongRongLu[6].content} />
-
-  ***
-
-    <VintagePost chapterTitle={CongRongLu[7].title} image={CongRongLu[7].image} content={CongRongLu[7].content} />
-
-  ***
-
-    <VintagePost chapterTitle={CongRongLu[8].title} image={CongRongLu[8].image} content={CongRongLu[8].content} />
-
-  ***
-
-    <VintagePost chapterTitle={CongRongLu[9].title} image={CongRongLu[9].image} content={CongRongLu[9].content} />*/}
+  {
+    CongRongLu
+      ?.filter(koan => koan.id >= 1 && koan.id <= 10)
+      ?.map(koan => {
+        if (koan.id%10 === 1) {
+          <VintagePost bookTitle={'Thong Dong Lục'} author={'Hoằng Trí Chính Giác - Vạn Tùng Hành Tú'}
+                       chapterTitle={koan.title} image={koan.image}
+                       intro={koan.intro} main={koan.main}
+                       commentBefore={koan.commentBefore}
+                       verse={koan.verse} verseTranslated={koan.verseTranslated}
+                       commentAfter={koan.commentAfter}
+          />
+        } else {
+          <VintagePost chapterTitle={koan.title} image={koan.image}
+                       intro={koan.intro} main={koan.main}
+                       commentBefore={koan.commentBefore}
+                       verse={koan.verse} verseTranslated={koan.verseTranslated}
+                       commentAfter={koan.commentAfter}
+          />
+        }
+      })
+  }
 
 </div>

@@ -1,16 +1,20 @@
 ---
 title: "Thong Dong Lục - Tắc 81 đến Tắc 90"
-meta_title: "Thong Dong Lục (Thung Dung Lục)"
-description: "Thong Dong Lục (Thung Dung Lục)"
+meta_title: "Thong Dong Lục (Thung Dung Lục) - Tắc 81 đến Tắc 90"
+description: "Thong Dong Lục (Thung Dung Lục) - Tắc 81 đến Tắc 90"
 date: 2024-10-30
 image: "/images/wide-images/silver-5.png"
 tags: ['Koan']
 draft: false
 ---
 
+import CongRongLu from '../../../db/koans/CongRongLu.tsx';
+import VintagePost from'../../../layouts/components/VintagePost.astro';
+
 <div class="container vi-koans">
 
-  <h1>THONG DONG LỤC (THUNG DUNG LỤC)</h1>
+  # THONG DONG LỤC (THUNG DUNG LỤC)
+  <h5><em>Tắc 81 - Tắc 90</em></h5>
 
   <h4>[Thiền sư] <em>Hoằng Trí Chính Giác</em></h4>
   <h4>[Thiền sư] <em>Vạn Tùng Hành Tú</em></h4>
@@ -18,5 +22,27 @@ draft: false
 
   ***
 
- 81 - 90
+  {
+    CongRongLu
+      ?.filter(koan => koan.id >= 81 && koan.id <= 90)
+      ?.map(koan => {
+        if (koan.id%10 === 1) {
+          <VintagePost bookTitle={'Thong Dong Lục'} author={'Hoằng Trí Chính Giác - Vạn Tùng Hành Tú'}
+                       chapterTitle={koan.title} image={koan.image}
+                       intro={koan.intro} main={koan.main}
+                       commentBefore={koan.commentBefore}
+                       verse={koan.verse} verseTranslated={koan.verseTranslated}
+                       commentAfter={koan.commentAfter}
+          />
+        } else {
+          <VintagePost chapterTitle={koan.title} image={koan.image}
+                       intro={koan.intro} main={koan.main}
+                       commentBefore={koan.commentBefore}
+                       verse={koan.verse} verseTranslated={koan.verseTranslated}
+                       commentAfter={koan.commentAfter}
+          />
+        }
+      })
+  }
+
 </div>
