@@ -1,7 +1,5 @@
 ---
-const { title, subTitle, author, 
-image,description, content, verse
- } = Astro.props;
+const { title, subTitle, author, image,description, content, extraText, verse } = Astro.props;
 ---
 
 <div class="excerpt">
@@ -11,14 +9,15 @@ image,description, content, verse
     <h2>{ author }</h2>
     <h3>{ description }</h3>
   </div>
-  
-<p>{ contentParagraphs }</p>
+
+<p>{ content }</p>
+<p>{ extraText }</p>
 <p>{ verse }</p>
 
 </div>
 
 <style>
-  
+
 @import url("https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
 
 $main: "Spectral", serif;
