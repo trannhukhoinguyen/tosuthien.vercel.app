@@ -28,6 +28,7 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
                        commentBefore={koan.commentBefore}
                        verse={koan.verse} verseTranslated={koan.verseTranslated}
                        commentAfter={koan.commentAfter}
+                       hashTag={koan.hashTag}
           />
         } else {
           return <VintagePost chapterTitle={koan.title} image={koan.image}
@@ -35,6 +36,7 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
                        commentBefore={koan.commentBefore}
                        verse={koan.verse} verseTranslated={koan.verseTranslated}
                        commentAfter={koan.commentAfter}
+                       hashTag={koan.hashTag}
           />
         }
       })

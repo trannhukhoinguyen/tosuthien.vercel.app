@@ -277,7 +277,7 @@ const CnLv4MasterDb = [
     name_es: 'Zhaozhou Congshen',
     name_de: 'Zhaozhou Congshen',
     name_fr: 'Zhaozhou Congshen',
-    name_vi: 'Triệu Châu Tòng Thẩm',
+    name_vi: 'Triệu Châu Tùng Thẩm / Triệu Châu Tòng Thẩm',
     name_ru: 'Zhaozhou Congshen',
     name_zh: '趙州從諗',
     name_ja: '趙州従シン Jōshū Jūshin',

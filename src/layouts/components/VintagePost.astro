@@ -1,5 +1,5 @@
 ---
-const { bookTitle, author, chapterTitle, image,
+const { bookTitle, author, hashTag, chapterTitle, image,
   intro, main,
   commentBefore, commentAfter,
   verse, verseTranslated, verseExtra, verseExtraTranslated,
@@ -21,6 +21,7 @@ const { bookTitle, author, chapterTitle, image,
   content16,
   content17,
 } = Astro.props;
+
 const contents = [
   content1,
   content2,
@@ -71,7 +72,7 @@ const contents = [
   </header>
   <section class="chapter">
     <header class="chapter__header">
-      <h2 class="chapter__title">{chapterTitle}</h2>
+      <h2 class="chapter__title" id={hashTag}>{chapterTitle}</h2>
     </header>
     <div class="chapter__contents">
       <div class="two-column">
@@ -92,7 +93,7 @@ const contents = [
       }</p>
 
       {
-        contents.length
+        contents?.length
           ? contents?.map(content => <p>{content}</p>)
           : ''
       }
