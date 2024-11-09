@@ -124,42 +124,42 @@ verseLine8,
       }
 
 {
-verseGroup?.length &&
+verseGroup.length &&
 verseGroup?.map(verseLine => <p>{verseLine}</p>)
 }
 
       {
         verse
-          ? <hr/>
+          && !verseGroup.length
+          && <hr/>
           <h4>TỤNG</h4>
           <p>{verse}</p>
-          : ''
       }
 
       {
         verseTranslated
-          ? <hr/>
+          && !verseGroup.length
+          && <hr/>
           <h4>DỊCH TỤNG</h4>
           <p>{verseTranslated}</p>
-          : ''
       }
 
       {
         verseExtra
-        ? <hr/>
+        && !verseGroup.length
+        && <hr/>
           <h4>TỤNG</h4>
           <p>{verseExtra}</p>
           <hr/>
-        : ''
       }
 
 
       {
         verseExtraTranslated
-        ? <h4>DỊCH TỤNG</h4>
+        && !verseGroup.length
+        && <h4>DỊCH TỤNG</h4>
           <p>{verseExtraTranslated}</p>
           <hr/>
-        : ''
       }
 
       {
