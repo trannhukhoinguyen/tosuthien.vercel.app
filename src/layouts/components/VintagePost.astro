@@ -120,12 +120,12 @@ verseLine8,
 
       {
         contents?.length
-          ? contents?.map(content => <p>{content}</p>)
-          : ''
+          && contents?.map(content => <p>{content}</p>)
       }
 
 {
-verseGroup?.map({line} => <p>{line}</p>)
+verseGroup?.length &&
+verseGroup?.map(verseLine => <p>{verseLine}</p>)
 }
 
       {
