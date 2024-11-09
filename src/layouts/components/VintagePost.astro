@@ -124,11 +124,15 @@ verseLine8,
           : ''
       }
 
+{
+verseGroup?.map(line => <p>{line}</p>)
+}
+
       {
-        verse 
+        verseTranslated 
         &&  <hr/>
           <h4>TỤNG</h4>
-        + verse?.split('.')?.map(line =>        {
+        + verseTranslated?.split('.')?.map(line =>        {
          return <p>{line}</p>
 }
         )
@@ -143,13 +147,18 @@ verseLine8,
       }
 
       {
-        verseExtra && verseExtraTranslated
+        verseExtra
         ? <hr/>
           <h4>TỤNG</h4>
           <p>{verseExtra}</p>
           <hr/>
+        : ''
+      }
 
-          <h4>DỊCH TỤNG</h4>
+
+      {
+        verseExtraTranslated
+        ? <h4>DỊCH TỤNG</h4>
           <p>{verseExtraTranslated}</p>
           <hr/>
         : ''
