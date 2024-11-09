@@ -158,6 +158,12 @@ verseLine16,
 {verseLine16} </br>
 </p>
 
+{
+verseGroup.length
+ ? verseGroup?.map(verseLine => <div>{verseLine}</div>)
+ : ''
+}
+
       {
         verse
           && !verseGroup.length
