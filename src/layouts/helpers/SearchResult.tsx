@@ -159,7 +159,7 @@ const SearchResult = ({
                     )}
                     <div className="search-result-item-body">
                       <a
-                        href={`${slugSelector(item.slug, lang)}`}
+                        href={`${slugSelector(item.slug.toLowerCase(), lang)}`}
                         className="search-result-item-title search-result-item-link"
                       >
                         {matchUnderline(item.frontmatter.title, searchString)}
