@@ -128,8 +128,9 @@ verseLine8,
         verse 
         &&  <hr/>
           <h4>TỤNG</h4>
-        + verse?.split('.')?.map(line =>
-          <p>{line}</p>
+        + verse?.split('.')?.forEach(line =>        {
+         return <p>{line}</p>
+}
         )
       }
 
