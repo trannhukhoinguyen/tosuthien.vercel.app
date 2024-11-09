@@ -28,9 +28,10 @@ verseLine7: 'Cả nước đuổi theo cũng chẳng về',
 verseLine8: 'Ngàn sau ngàn xưa nhớ mong suông',
 verseLine9: 'Đừng nhớ mong',
 verseLine10: 'Gió thổi mặt đất bao giờ ngưng',
-verseLine11: 'Sư nhìn hai bên nói: Nơi này còn có Tổ Sư chăng',
-verseLine12: 'Tự đáp, “Có”',
-verseLine13: 'Đến đây rửa chân cho lão tăng',
+verseLine11: 'Sư nhìn hai bên nói',
+verseLine12: 'Nơi này còn có Tổ Sư chăng',
+verseLine13: 'Tự đáp, “Có”',
+verseLine14: 'Đến đây rửa chân cho lão tăng',
 
       verseExtraTranslated:
         'Một tên bình thường một ưng rơi. Lại thêm tên nữa mất công thôi. Trở về Thiếu Thất ngồi yên đó. Vũ Đế đừng mong ngỏ lời mời. Lại nói, “Ai muốn mời Đạt Ma trở lại cơ?”',
