@@ -2,7 +2,7 @@
 const { bookTitle, author, hashTag, chapterTitle, image,
   intro, main,
   commentBefore, commentAfter,
-  verse, verseTranslated, verseExtra, verseExtraTranslated,
+  verse, verseTranslated, verseExtra, verseExtraTranslated, longVerse,
   hasContents,
   content1,
   content2,
@@ -141,17 +141,18 @@ verseLine16,
           : null
       }
 
-{
-verseGroup.length
- ? verseGroup?.map(verseLine => <p>{verseLine}</p>)
- : ''
-}
+      {
+        verseGroup.length
+         ? verseGroup?.map(verseLine => <p>{verseLine}</p>)
+         : ''
+      }
 
       {
         verse
           ? <hr/>
           <h4>TỤNG</h4>
-          <p>{verse}</p> : ''
+          <p>{verse}</p>
+          : ''
       }
 
       {
@@ -173,7 +174,7 @@ verseGroup.length
 
       {
         verseExtraTranslated
-        ? <h4>DỊCH TỤNG</h4>
+        ? <h4>TỤNG</h4>
           <p>{verseExtraTranslated}</p>
           <hr/>
         : ''
@@ -183,6 +184,12 @@ verseGroup.length
         commentAfter
           ? <h4>BÌNH</h4>
             <p>{commentAfter}</p>
+          : ''
+      }
+
+      {
+        longVerse
+          ? longVerse?.split(' / ')?.map(line => <p>{line}</p>)
           : ''
       }
 

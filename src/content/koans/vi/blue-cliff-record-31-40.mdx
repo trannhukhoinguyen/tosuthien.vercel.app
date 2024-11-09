@@ -29,19 +29,20 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
       ?.map(koan => {
         if (koan.id%10 === 1) {
           return <VintagePost bookTitle={'Bích Nham Lục'} author={'Tuyết Đậu Trọng Hiển - Viên Ngộ Khắc Cần'}
-                       chapterTitle={koan.title} image={koan.image}
-                       intro={koan.intro} main={koan.main}
-                       commentBefore={koan.commentBefore}
-                       verse={koan.verse} verseTranslated={koan.verseTranslated}
-                       commentAfter={koan.commentAfter}
+                              chapterTitle={koan.title} image={koan.image}
+                              intro={koan.intro} main={koan.main}
+                              commentBefore={koan.commentBefore}
+                              verse={koan.verse} verseTranslated={koan.verseTranslated}
+                              verseExtra={koan.verseExtra} verseExtraTranslated={koan.verseExtraTranslated}
+                              commentAfter={koan.commentAfter}
           />
         } else {
           return <VintagePost chapterTitle={koan.title} image={koan.image}
-                       intro={koan.intro} main={koan.main}
-                       commentBefore={koan.commentBefore}
-                       verse={koan.verse} verseTranslated={koan.verseTranslated}
-                       commentAfter={koan.commentAfter}
-          />
+                              intro={koan.intro} main={koan.main}
+                              commentBefore={koan.commentBefore}
+                              verse={koan.verse} verseTranslated={koan.verseTranslated}
+                              verseExtra={koan.verseExtra} verseExtraTranslated={koan.verseExtraTranslated}
+                              commentAfter={koan.commentAfter}
         }
       })
   }

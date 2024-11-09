@@ -9,52 +9,30 @@ draft: false
 ---
 
 import VintagePost from "../../../layouts/components/VintagePost.astro";
-import {
-  title, author, image, intro, verse,
-  content1,
-  content2,
-  content3,
-  content4,
-  content5,
-  content6,
-  content7,
-  content8,
-  content9,
-  content10,
-  content11,
-  content12,
-  content13,
-  content14,
-  content15,
-  content16,
-  content17,
-/*  content18,
-  content19,
-  content20,*/
-} from "../../../db/teachings/GuishanAlert.tsx";
+import GuishanAlert from "../../../db/teachings/GuishanAlert.tsx";
 
 <VintagePost
   hasContents={true}
-  bookTitle={ title }
-  author={ author }
-  image={ image }
-  intro={ intro }
-  content1={ content1 }
-  content2={ content2 }
-  content3={ content3 }
-  content4={ content4 }
-  content5={ content5 }
-  content6={ content6 }
-  content7={ content7 }
-  content8={ content8 }
-  content9={ content9 }
-  content10={ content10 }
-  content11={ content11 }
-  content12={ content12 }
-  content13={ content13 }
-  content14={ content14 }
-  content15={ content15 }
-  content16={ content16 }
-  content17={ content17 }
-  verse={ verse }
+  bookTitle={ GuishanAlert?.title }
+  author={ GuishanAlert?.author }
+  image={ GuishanAlert?.image }
+  intro={ GuishanAlert?.intro }
+  content1={ GuishanAlert?.content1 }
+  content2={ GuishanAlert?.content2 }
+  content3={ GuishanAlert?.content3 }
+  content4={ GuishanAlert?.content4 }
+  content5={ GuishanAlert?.content5 }
+  content6={ GuishanAlert?.content6 }
+  content7={ GuishanAlert?.content7 }
+  content8={ GuishanAlert?.content8 }
+  content9={ GuishanAlert?.content9 }
+  content10={ GuishanAlert?.content10 }
+  content11={ GuishanAlert?.content11 }
+  content12={ GuishanAlert?.content12 }
+  content13={ GuishanAlert?.content13 }
+  content14={ GuishanAlert?.content14 }
+  content15={ GuishanAlert?.content15 }
+  content16={ GuishanAlert?.content16 }
+  content17={ GuishanAlert?.content17 }
+  longVerse={ GuishanAlert?.verse }
 />

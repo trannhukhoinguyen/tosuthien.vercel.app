@@ -26,53 +26,25 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
   {
     BlueCliffRecord
       ?.filter(koan => koan.id >= 1 && koan.id <= 10)
-      ?.map((koan, index) => {
+      ?.map(koan => {
         if (koan.id%10 === 1) {
           return <VintagePost bookTitle={'Bích Nham Lục'} author={'Tuyết Đậu Trọng Hiển - Viên Ngộ Khắc Cần'}
-                       chapterTitle={koan.title} image={koan.image}
-                       intro={koan.intro} main={koan.main}
-                       commentBefore={koan.commentBefore}
-                       verse={koan.verse} verseTranslated={koan.verseTranslated}
-                       commentAfter={koan.commentAfter}
-                              verseLine1={ BlueCliffRecord[index]?.verseLine1 }
-                              verseLine2={ BlueCliffRecord[index]?.verseLine2 }
-                              verseLine3={ BlueCliffRecord[index]?.verseLine3 }
-                              verseLine4={ BlueCliffRecord[index]?.verseLine4 }
-                              verseLine5={ BlueCliffRecord[index]?.verseLine5 }
-                              verseLine6={ BlueCliffRecord[index]?.verseLine6 }
-                              verseLine7={ BlueCliffRecord[index]?.verseLine7 }
-                              verseLine8={ BlueCliffRecord[index]?.verseLine8 }
-                              verseLine9={ BlueCliffRecord[index]?.verseLine9 }
-                              verseLine10={ BlueCliffRecord[index]?.verseLine10 }
-                              verseLine11={ BlueCliffRecord[index]?.verseLine11 }
-                              verseLine12={ BlueCliffRecord[index]?.verseLine12 }
-                              verseLine13={ BlueCliffRecord[index]?.verseLine13 }
-                              verseLine14={ BlueCliffRecord[index]?.verseLine14 }
-                              verseLine15={ BlueCliffRecord[index]?.verseLine15 }
-                              verseLine16={ BlueCliffRecord[index]?.verseLine16 }
+                     chapterTitle={koan.title} image={koan.image}
+                     intro={koan.intro} main={koan.main}
+                     commentBefore={koan.commentBefore}
+                     verse={koan.verse} verseTranslated={koan.verseTranslated}
+                    verseExtra={koan.verseExtra} verseExtraTranslated={koan.verseExtraTranslated}
+                    commentAfter={koan.commentAfter}
+                    longVerse={koan.verse}
           />
         } else {
           return <VintagePost chapterTitle={koan.title} image={koan.image}
                        intro={koan.intro} main={koan.main}
                        commentBefore={koan.commentBefore}
                        verse={koan.verse} verseTranslated={koan.verseTranslated}
+                       verseExtra={koan.verseExtra} verseExtraTranslated={koan.verseExtraTranslated}
                        commentAfter={koan.commentAfter}
-                              verseLine1={ BlueCliffRecord[index]?.verseLine1 }
-                              verseLine2={ BlueCliffRecord[index]?.verseLine2 }
-                              verseLine3={ BlueCliffRecord[index]?.verseLine3 }
-                              verseLine4={ BlueCliffRecord[index]?.verseLine4 }
-                              verseLine5={ BlueCliffRecord[index]?.verseLine5 }
-                              verseLine6={ BlueCliffRecord[index]?.verseLine6 }
-                              verseLine7={ BlueCliffRecord[index]?.verseLine7 }
-                              verseLine8={ BlueCliffRecord[index]?.verseLine8 }
-                              verseLine9={ BlueCliffRecord[index]?.verseLine9 }
-                              verseLine10={ BlueCliffRecord[index]?.verseLine10 }
-                              verseLine11={ BlueCliffRecord[index]?.verseLine11 }
-                              verseLine12={ BlueCliffRecord[index]?.verseLine12 }
-                              verseLine13={ BlueCliffRecord[index]?.verseLine13 }
-                              verseLine14={ BlueCliffRecord[index]?.verseLine14 }
-                              verseLine15={ BlueCliffRecord[index]?.verseLine15 }
-                              verseLine16={ BlueCliffRecord[index]?.verseLine16 }
+                       longVerse={ koan.verse }
           />
         }
       })
