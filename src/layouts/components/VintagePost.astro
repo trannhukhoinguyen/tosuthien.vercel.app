@@ -125,11 +125,12 @@ verseLine8,
       }
 
       {
-        verse
-          ? <hr/>
+        verse 
+        &&  <hr/>
           <h4>TỤNG</h4>
-          <p>{verse}</p>
-          : ''
+        + verse?.split('.')?.map(line =>
+          <p>{line}</p>
+        )
       }
 
       {
