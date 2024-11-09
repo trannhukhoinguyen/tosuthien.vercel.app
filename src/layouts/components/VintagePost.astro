@@ -125,17 +125,15 @@ verseLine8,
       }
 
 {
-verseGroup?.map(line => <p>{line}</p>)
+verseGroup?.map({line} => <p>{line}</p>)
 }
 
       {
-        verseTranslated 
-        &&  <hr/>
+        verse
+          ? <hr/>
           <h4>TỤNG</h4>
-        + verseTranslated?.split('.')?.map(line =>        {
-         return <p>{line}</p>
-}
-        )
+          <p>{verse}</p>
+          : ''
       }
 
       {
@@ -179,7 +177,7 @@ verseGroup?.map(line => <p>{line}</p>)
 <style>
   :root {
     --red: #5d0c08;
-    --newRed: #ff0000
+    --newRed: red;
     --mq: 768px;
   }
 
