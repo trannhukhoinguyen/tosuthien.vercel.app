@@ -23,6 +23,7 @@ const huatou = await getSinglePage(
 const {
   severe_problem,
   tomorrow_death,
+  after_cremated_nature,
 } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
@@ -34,9 +35,8 @@ const {
 >
   <div style="text-align: center">
     <h1>{severe_problem}</h1>
-    <h4>👶💀</h4>
-    <h2>💀{tomorrow_death}💀</h2>
-    <h4>🤯</h4>
+    <h2>💀 {tomorrow_death} 💀</h2>
+    <h2>🔥{after_cremated_nature}🔥</h2>
     <SevenThingsLeftBehind />
   </div>
   <HuaTou huatous={huatou[0]} />

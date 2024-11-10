@@ -19,9 +19,9 @@ const CnLv9MasterDb = [
     place: '-',
     teachers: ['Fengxue Yanzhao'],
     successors: ['Fenyang Shanzhao'],
-    disciples: ['Fenyang Shanzhao', 'Diệp Huyện Quy Tỉnh - 葉縣歸省 - Sekken Kisei'],
+    disciples: ['Fenyang Shanzhao', 'Shexian Guixing'],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/Th%E1%BB%A7_S%C6%A1n_T%E1%BB%89nh_Ni%E1%BB%87m',],
+    reference: ['https://vi.wikipedia.org/wiki/Th%E1%BB%A7_S%C6%A1n_T%E1%BB%89nh_Ni%E1%BB%87m', 'https://pl.wikipedia.org/wiki/Shoushan_Xingnian'],
 
   },
   {

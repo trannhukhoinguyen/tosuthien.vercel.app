@@ -6,7 +6,7 @@ const CnLv7MasterDb = [
     name_es: 'Nanyuan Huiyong',
     name_de: 'Nanyuan Huiyong',
     name_fr: 'Nanyuan Huiyong',
-    name_vi: 'Nam Viện Huệ Ngung',
+    name_vi: 'Nam Viện Huệ Ngung (Bảo Ứng)',
     name_ru: 'Nanyuan Huiyong',
     name_zh: '南院慧顒',
     name_ja: 'Nanin Egyō',
@@ -21,7 +21,7 @@ const CnLv7MasterDb = [
     successors: ['Fengxue Yanzhao'],
     disciples: ['Fengxue Yanzhao'],
     image: '/images/avatar.png',
-    reference: ['https://terebess.hu/zen/nanyuan.html',],
+    reference: ['https://vi.wikipedia.org/wiki/Nam_Vi%E1%BB%87n_Hu%E1%BB%87_Ngung', 'https://pl.wikipedia.org/wiki/Nanyuan_Huiyong', 'https://terebess.hu/zen/nanyuan.html',],
 
   },
   {

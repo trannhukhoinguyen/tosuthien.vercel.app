@@ -1,89 +1,18 @@
 ---
 const { bookTitle, author, hashTag, chapterTitle, image,
   intro, main,
-  commentBefore, commentAfter,
-  verse, verseTranslated, verseExtra, verseExtraTranslated, longVerse,
-  hasContents,
-  content1,
-  content2,
-  content3,
-  content4,
-  content5,
-  content6,
-  content7,
-  content8,
-  content9,
-  content10,
-  content11,
-  content12,
-  content13,
-  content14,
-  content15,
-  content16,
-  content17,
-  content18,
-  content19,
-  content20,
+  commentBeforeVerse, commentAfterVerse,
+  commentBeforeVerseExtra, commentAfterVerseExtra,
 
-  verseLine1,
-  verseLine2,
-  verseLine3,
-  verseLine4,
-  verseLine5,
-  verseLine6,
-  verseLine7,
-  verseLine8,
-  verseLine9,
-  verseLine10,
-  verseLine11,
-  verseLine12,
-  verseLine13,
-  verseLine14,
-  verseLine15,
-  verseLine16,
+  longVerse,
+
+  verseOriginal, verseExtraOriginal,
+  verse, verseExtra,
+
+  hasMultiParagraph,
+  multiParagraph,
+
 } = Astro.props;
-
-const contents = [
-  content1,
-  content2,
-  content3,
-  content4,
-  content5,
-  content6,
-  content7,
-  content8,
-  content9,
-  content10,
-  content11,
-  content12,
-  content13,
-  content14,
-  content15,
-  content16,
-  content17,
-  content18,
-  content19,
-  content20,
-];
-
-const verseGroup = [
-verseLine1,
-verseLine2,
-verseLine3,
-verseLine4,
-verseLine5,
-verseLine6,
-verseLine7,
-verseLine8,
-verseLine9,
-verseLine10,
-verseLine11,
-verseLine12,
-verseLine13,
-verseLine14,
-verseLine15,
-verseLine16,
-]
 ---
 
 <script>
@@ -120,7 +49,7 @@ verseLine16,
     <div class="chapter__contents">
       <div class="two-column">
         <p>{intro}</p>
-        <!--<span class="storyImage" style={`background-image: url(${image})`}></span>-->
+        <span class="storyImage" style={`background-image: url(${image})`}></span>
       </div>
 
       {
@@ -131,60 +60,86 @@ verseLine16,
           : ''
       }
 
-      <p>{
-        commentBefore ? commentBefore : ''
-      }</p>
-
       {
-        hasContents && contents?.length
-          ? contents?.map(content => <p>{content}</p>)
+        hasMultiParagraph && multiParagraph?.length
+          ? multiParagraph?.map(content => <p>{content}</p>)
           : null
       }
 
       {
-        verseGroup.length
-         ? verseGroup?.map(verseLine => <p>{verseLine}</p>)
-         : ''
+        commentBeforeVerse
+          ? <h4>BÌNH</h4>
+            <p>{ commentBeforeVerse }</p>
+          : ''
+      }
+
+      {
+        verseOriginal
+          ? <hr/>
+          <h4>TỤNG</h4>
+          : ''
+      }
+      {
+        verseOriginal?.split(' / ').length
+          ? verseOriginal?.split(' / ').map(line => <p>{line}</p>)
+          : ''
       }
 
       {
         verse
           ? <hr/>
           <h4>TỤNG</h4>
-          <p>{verse}</p>
+          : ''
+      }
+      {
+        verse?.split(' / ').length
+         ? verse?.split(' / ').map(line => <p>{line}</p>)
+         : ''
+      }
+
+      {
+        commentAfterVerse
+          ? <h4>BÌNH</h4>
+          <p>{ commentAfterVerse }</p>
           : ''
       }
 
       {
-        verseTranslated
+        commentBeforeVerseExtra
+          ? <h4>BÌNH</h4>
+          <p>{ commentBeforeVerseExtra }</p>
+          : ''
+      }
+
+      {
+        verseExtraOriginal
           ? <hr/>
-            <h4>DỊCH TỤNG</h4>
-            <p>{verseTranslated}</p>
+          <h4>TỤNG</h4>
+          : ''
+      }
+      {
+        verseExtraOriginal?.split(' / ').length
+          ? verseExtraOriginal?.split(' / ').map(line => <p>{line}</p>)
           : ''
       }
 
       {
         verseExtra
-        ? <hr/>
+          ? <hr/>
           <h4>TỤNG</h4>
-          <p>{verseExtra}</p>
-          <hr/>
-        : ''
-      }
-
-      {
-        verseExtraTranslated
-        ? <h4>TỤNG</h4>
-          <p>{verseExtraTranslated}</p>
-          <hr/>
-        : ''
-      }
-
-      {
-        commentAfter
-          ? <h4>BÌNH</h4>
-            <p>{commentAfter}</p>
           : ''
+      }
+      {
+        verseExtra?.split(' / ').length
+          ? verseExtra?.split(' / ').map(line => <p>{line}</p>)
+          : ''
+      }
+
+      {
+        commentAfterVerseExtra
+            ? <h4>BÌNH</h4>
+            <p>{ commentAfterVerseExtra }</p>
+            : ''
       }
 
       {
@@ -370,7 +325,7 @@ verseLine16,
     display: block;
     background-repeat: no-repeat;
     background-position: 0 0;
-    background-size: 9600px 216px;
+    //background-size: 9600px 216px;
   }
 
   .storyImage.visible {
@@ -380,7 +335,7 @@ verseLine16,
 
   @media (min-width: var(--mq)) {
     .storyImage {
-      background-size: 16000px 360px;
+      //background-size: 16000px 360px;
     }
   }
 
