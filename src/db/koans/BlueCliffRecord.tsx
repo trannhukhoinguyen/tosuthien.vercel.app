@@ -1,4 +1,29 @@
 const BlueCliffRecord = [
+/*  {
+    id: '',
+    title: '',
+    image: '',
+    intro:
+      '',
+    main:
+      '',
+    commentBeforeVerseExtra:
+      '',
+    verseExtraOriginal:
+      '',
+    verseExtra:
+      '',
+    commentAfterVerseExtra:
+      '',
+    commentBeforeVerse:
+      '',
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
+      '',
+  },*/
   {
       id: 1,
       title: 'TẮC THỨ 1: CÁI TRỐNG KHÔNG CỦA ĐẠT MA',
@@ -40,7 +65,7 @@ const BlueCliffRecord = [
       'Vũ Đế không giác ngộ, lại còn dựa vào kiến chấp, nhân ngã, hỏi thêm một câu, “Đối diện với Trẫm là ai?” ' +
       'Đạt Ma từ bi cùng tột, lạinói với Vũ Đế “Không biết”. Khiến cho Vũ Đế kinh hoàng đi, không hiểu Đạt Ma muốn nói gì. ' +
       'Đến mức này mà còn chấp có hay không thì đều chẳng nhằm. ' +
-      'Đoan hòa thượng tụng',
+      '⚡️ Đoan hòa thượng tụng:',
     verseExtra:
       'Một tên bình thường một ưng rơi / ' +
       'Lại thêm tên nữa mất công thôi / ' +
@@ -62,7 +87,7 @@ const BlueCliffRecord = [
       'Vũ Đế bèn ân hận mà sai sứ đuổi theo để mời Đạt Ma trở lại. ' +
       'Ngây ngô thật! Phải chi lúc Chí Công nói, “Đó chính là Bồ Tát Quán âm đến để truyền tâm ấn của Phật,” mà Vũ Đế tống cổ ông ta ra khỏi nước thì hẳn đã còn có gì hay ho hơn.',
     commentBeforeVerse:
-      'Theo truyền thuyết thì Chí Công mất vào năm Thiên Giám thừ 13 (514 A.D), Đạt Ma thì mãi năm Đại Thông nguyên niên (520 A.D.) mới tới Lương. ' +
+      'Theo truyền thuyết thì Chí Công mất vào năm Thiên Giám 13 (514 A.D), Đạt Ma thì mãi năm Đại Thông nguyên niên (520 A.D.) mới tới Lương. ' +
       'Như thế là cách nhau có đến bảy năm, làm thế nào có thể bảo là hai người có gặp nhau được? ' +
       'Đây hẳn phải là một truyền thuyết sai lầm. ' +
       'Song những gì đã ghi lại trong truyền thống, ở đây không bàn cãi làm gì. Điều quan trọng là phải hiểu cái ý chính của vấn đề mà thôi. ' +
@@ -147,31 +172,27 @@ const BlueCliffRecord = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
     verse:
       '',
-    verseTranslated:
-      '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
-      id: 4,
-      title: 'TẮC THỨ 4: ',
+    id: 4,
+    title: 'TẮC THỨ 4: ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
-      intro:
-        '',
-      main:
-        '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
-        '',
+    intro:
+      '',
+    main:
+      '',
+    commentBeforeVerse:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
+      '',
     },
   {
       id: 5,
@@ -181,13 +202,11 @@ const BlueCliffRecord = [
         '',
       main:
         '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
+    commentBeforeVerse:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
         '',
     },
   {
@@ -198,13 +217,11 @@ const BlueCliffRecord = [
         '',
       main:
         '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
+    commentBeforeVerse:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
         '',
     },
   {
@@ -215,13 +232,11 @@ const BlueCliffRecord = [
         '',
       main:
         '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
+    commentBeforeVerse:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
         '',
     },
   {
@@ -232,13 +247,11 @@ const BlueCliffRecord = [
         '',
       main:
         '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
+    commentBeforeVerse:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
         '',
     },
   {
@@ -249,13 +262,11 @@ const BlueCliffRecord = [
         '',
       main:
         '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
+    commentBeforeVerse:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
         '',
     },
   {
@@ -266,13 +277,11 @@ const BlueCliffRecord = [
         '',
       main:
         '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
+    commentBeforeVerse:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
         '',
     },
 

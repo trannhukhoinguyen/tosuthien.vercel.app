@@ -67,44 +67,6 @@ const { bookTitle, author, hashTag, chapterTitle, image,
       }
 
       {
-        commentBeforeVerse
-          ? <h4>BÌNH</h4>
-            <p>{ commentBeforeVerse }</p>
-          : ''
-      }
-
-      {
-        verseOriginal
-          ? <hr/>
-          <h4>TỤNG</h4>
-          : ''
-      }
-      {
-        verseOriginal?.split(' / ').length
-          ? verseOriginal?.split(' / ').map(line => <p>{line}</p>)
-          : ''
-      }
-
-      {
-        verse
-          ? <hr/>
-          <h4>TỤNG</h4>
-          : ''
-      }
-      {
-        verse?.split(' / ').length
-         ? verse?.split(' / ').map(line => <p>{line}</p>)
-         : ''
-      }
-
-      {
-        commentAfterVerse
-          ? <h4>BÌNH</h4>
-          <p>{ commentAfterVerse }</p>
-          : ''
-      }
-
-      {
         commentBeforeVerseExtra
           ? <h4>BÌNH</h4>
           <p>{ commentBeforeVerseExtra }</p>
@@ -140,6 +102,44 @@ const { bookTitle, author, hashTag, chapterTitle, image,
             ? <h4>BÌNH</h4>
             <p>{ commentAfterVerseExtra }</p>
             : ''
+      }
+
+      {
+        commentBeforeVerse
+          ? <h4>BÌNH</h4>
+          <p>{ commentBeforeVerse }</p>
+          : ''
+      }
+
+      {
+        verseOriginal
+          ? <hr/>
+          <h4>TỤNG</h4>
+          : ''
+      }
+      {
+        verseOriginal?.split(' / ').length
+          ? verseOriginal?.split(' / ').map(line => <p>{line}</p>)
+          : ''
+      }
+
+      {
+        verse
+          ? <hr/>
+          <h4>TỤNG</h4>
+          : ''
+      }
+      {
+        verse?.split(' / ').length
+          ? verse?.split(' / ').map(line => <p>{line}</p>)
+          : ''
+      }
+
+      {
+        commentAfterVerse
+          ? <h4>BÌNH</h4>
+          <p>{ commentAfterVerse }</p>
+          : ''
       }
 
       {
