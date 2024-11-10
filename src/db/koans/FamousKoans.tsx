@@ -7,8 +7,6 @@ const FamousKoans = [
     hashTag: 'Jingguo-3-shames',
     imageOriginal: '/images/famous-koans/famous-koans-cover.jpg',
     image: '',
-    intro:
-      '',
     main:
       'Có một vị Tăng hỏi Thiền sư Tịnh Quả: “Khi hạc đậu trên cây tùng đơn lẻ thì như thế nào?”. Hạc đậu trên cây tùng cô lẻ, thật là một cảnh giới siêu phàm thoát tục.' +
       'Thế nhưng, Thiền sư Tịnh Quả lại trả lời: “Dưới chân là một bãi ô uế”' +
@@ -16,14 +14,6 @@ const FamousKoans = [
       'Thật là một thế giới thanh tịnh. Tuy nhiên, Thiền sư Tịnh Quả lại nói: “Sau khi mặt trời mọc, quả đất là một đám xấu hổ”' +
       'Thiền Tăng hỏi câu thứ ba: “Đường Vũ Tông vào giữa niên hiệu Hội Xương đã phát động một phong trào pháp nạn trước đây chưa từng có, chùa chiền bị phá hủy, tượng Phật bị đập vỡ, kinh sách bị thiêu rụi, tăng ni bị đuổi, lúc đó, thần hộ pháp đi đâu rồi?”' +
       'Thiền sư Tịnh Quả nói: “Hai vị ngoài cửa chùa là một phường xấu hổ”',
-    commentBefore:
-      '',
-    verse:
-      '',
-    verseTranslated:
-      '',
-    commentAfter:
-      '',
   },
   {
     id: 2,
@@ -32,8 +22,6 @@ const FamousKoans = [
     hashTag: 'Baofu-4-other-tricks',
     imageOriginal: '/images/famous-koans/famous-koans-cover.jpg',
     image: '',
-    intro:
-      '',
     main:
       'Thiền sư Bảo Phúc Tùng Triển hỏi một tăng nhân: “Trong đại điện là gì?”' +
       'Thiền tăng biết Hòa thượng biết rõ mà cố hỏi, tất nhiên có ẩn dấu cơ phong, cho nên ông đáp một cách thông minh: “Hòa thượng ngài tự đi xem cho rõ.”' +
@@ -53,14 +41,6 @@ const FamousKoans = [
       'Người đầu bếp cũng là một người hiểu thiền, hỏi ép sư phụ: “Đại Hòa thượng tự ngài thử lượng xem.”' +
       'Thiền sư Bảo Phúc Tùng Triển dùng tay làm tư thế đo đo. Người đầu bếp mắng: “Đại Hòa thượng, ngươi chứ lừa gạt người được không!”' +
       'Thiền sư Bảo Phúc Tùng Triển vẫn nói câu nói đó: “Nhưng mà ngươi lừa gạt ta.”',
-    commentBefore:
-      '',
-    verse:
-      '',
-    verseTranslated:
-      '',
-    commentAfter:
-      '',
   },
   {
     id: 3,
@@ -69,8 +49,6 @@ const FamousKoans = [
     hashTag: 'Heshan-4-drum-beats',
     imageOriginal: '/images/famous-koans/famous-koans-cover.jpg',
     image: '',
-    intro:
-      '',
     main:
       'Thiền sư Hòa Sơn lúc thuyết pháp tại pháp đường, thường trích dẫn một đoạn phẩm Quảng Chiếu Không Hữu trong Bảo Tạng Luận:' +
       '“Học tập là một giai đoạn nghe, tuyệt học là một giai đoạn gần đến gần, vượt lên trên cả hai thứ đó là giai đoạn đạt đến chân lý.”' +
@@ -87,14 +65,6 @@ const FamousKoans = [
       'Chớ nói đường băng trơn, mà có người trượt băng.' +
       'Thiền tăng thứ tư lên pháp đường hỏi rằng: “Nếu như một người đã tu chứng, đã giải thoát, chứng đắc huệ quả vô thượng đi đến, thì nên hướng dẫn ông ta như thế nào ?”' +
       'Thiền sư Hòa Sơn vẫn trả lời như thế: “Ta chỉ biết đánh trống”.',
-    commentBefore:
-      '',
-    verse:
-      '',
-    verseTranslated:
-      '',
-    commentAfter:
-      '',
   },
   {
     id: 4,
@@ -103,8 +73,6 @@ const FamousKoans = [
     hashTag: 'Zhaozhou-3-tea-invitations',
     imageOriginal: '/images/famous-koans/famous-koans-cover.jpg',
     image: '',
-    intro:
-      '',
     main:
       'Có hai vị Tăng vân du cùng đến viện Quan Âm của ngài Triệu Châu (nay là chùa Bá Lâm huyện Triệu ở Hà Bắc) viện chủ (giám viện) dẫn họ đến phương trượng bái kiến Triệu Châu Cổ Phật - Đại sư Tùng Thẩm. Đại sư Triệu Châu Tùng Thẩm hỏi: “Đã từng đến đây chưa?”' +
       '“Con đã từng đến.” Một vị tăng trả lời. Đại sư Triệu Châu bảo: “Được rồi, mời ông uống trà đi.”' +
@@ -116,14 +84,6 @@ const FamousKoans = [
       'Viện chủ không chịu được hỏi: “Thưa lão Hòa thượng! Người đã từng đến chỗ của chúng ta ngài bảo ông ta uống trà đi, người chưa từng đến ngài cũng bảo ông ta uống trà đi, vì sao vậy?”' +
       '“Viện chủ!” Đại sư Triệu Châu bỗng dưng hét một tiếng lớn. Viện Chủ giật mình, đáp lại theo bản năng: “Thưa sư phụ, con ở đây.”' +
       '“Ông cũng uống trà đi!”',
-    commentBefore:
-      '',
-    verse:
-      '',
-    verseTranslated:
-      '',
-    commentAfter:
-        '',
   },
 
 ]

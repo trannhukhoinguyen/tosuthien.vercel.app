@@ -31,20 +31,26 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
           return <VintagePost bookTitle={'Bích Nham Lục'} author={'Tuyết Đậu Trọng Hiển - Viên Ngộ Khắc Cần'}
                      chapterTitle={koan.title} image={koan.image}
                      intro={koan.intro} main={koan.main}
-                     commentBefore={koan.commentBefore}
-                     verse={koan.verse} verseTranslated={koan.verseTranslated}
-                    verseExtra={koan.verseExtra} verseExtraTranslated={koan.verseExtraTranslated}
-                    commentAfter={koan.commentAfter}
-                    longVerse={koan.verse}
+                              commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
+                              verseExtraOriginal={koan.verseExtraOriginal}
+                              verseExtra={koan.verseExtra}
+                              commentAfterVerseExtra={koan.commentAfterVerseExtra}
+                              commentBeforeVerse={koan.commentBeforeVerse}
+                              verseOriginal={koan.verseOriginal}
+                              verse={koan.verse}
+                              commentAfterVerse={koan.commentAfterVerse}
           />
         } else {
           return <VintagePost chapterTitle={koan.title} image={koan.image}
-                       intro={koan.intro} main={koan.main}
-                       commentBefore={koan.commentBefore}
-                       verse={koan.verse} verseTranslated={koan.verseTranslated}
-                       verseExtra={koan.verseExtra} verseExtraTranslated={koan.verseExtraTranslated}
-                       commentAfter={koan.commentAfter}
-                       longVerse={ koan.verse }
+                     intro={koan.intro} main={koan.main}
+                              commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
+                              verseExtraOriginal={koan.verseExtraOriginal}
+                              verseExtra={koan.verseExtra}
+                              commentAfterVerseExtra={koan.commentAfterVerseExtra}
+                              commentBeforeVerse={koan.commentBeforeVerse}
+                              verseOriginal={koan.verseOriginal}
+                              verse={koan.verse}
+                              commentAfterVerse={koan.commentAfterVerse}
           />
         }
       })

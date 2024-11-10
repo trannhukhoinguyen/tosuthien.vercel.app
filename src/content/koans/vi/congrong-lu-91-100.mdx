@@ -30,16 +30,26 @@ import VintagePost from'../../../layouts/components/VintagePost.astro';
           return <VintagePost bookTitle={'Thong Dong Lục'} author={'Hoằng Trí Chính Giác - Vạn Tùng Hành Tú'}
                        chapterTitle={koan.title} image={koan.image}
                        intro={koan.intro} main={koan.main}
-                       commentBefore={koan.commentBefore}
-                       verse={koan.verse} verseTranslated={koan.verseTranslated}
-                       commentAfter={koan.commentAfter}
+                              commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
+                              verseExtraOriginal={koan.verseExtraOriginal}
+                              verseExtra={koan.verseExtra}
+                              commentAfterVerseExtra={koan.commentAfterVerseExtra}
+                              commentBeforeVerse={koan.commentBeforeVerse}
+                              verseOriginal={koan.verseOriginal}
+                              verse={koan.verse}
+                              commentAfterVerse={koan.commentAfterVerse}
           />
         } else {
           return <VintagePost chapterTitle={koan.title} image={koan.image}
-                       intro={koan.intro} main={koan.main}
-                       commentBefore={koan.commentBefore}
-                       verse={koan.verse} verseTranslated={koan.verseTranslated}
-                       commentAfter={koan.commentAfter}
+                              intro={koan.intro} main={koan.main}
+                              commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
+                              verseExtraOriginal={koan.verseExtraOriginal}
+                              verseExtra={koan.verseExtra}
+                              commentAfterVerseExtra={koan.commentAfterVerseExtra}
+                              commentBeforeVerse={koan.commentBeforeVerse}
+                              verseOriginal={koan.verseOriginal}
+                              verse={koan.verse}
+                              commentAfterVerse={koan.commentAfterVerse}
           />
         }
       })

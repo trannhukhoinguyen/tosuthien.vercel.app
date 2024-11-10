@@ -23,19 +23,16 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
       ?.map(koan => {
         if (koan.id%10 === 1) {
           return <VintagePost bookTitle={'Những Công Án Nổi Tiếng'} author={''}
-                       chapterTitle={koan.title} image={koan.image}
-                       intro={koan.intro} main={koan.main}
-                       commentBefore={koan.commentBefore}
-                       verse={koan.verse} verseTranslated={koan.verseTranslated}
-                       commentAfter={koan.commentAfter}
+                       chapterTitle={koan.title}
+                       image={koan.image}
+                       main={koan.main}
                        hashTag={koan.hashTag}
           />
         } else {
-          return <VintagePost chapterTitle={koan.title} image={koan.image}
-                       intro={koan.intro} main={koan.main}
-                       commentBefore={koan.commentBefore}
-                       verse={koan.verse} verseTranslated={koan.verseTranslated}
-                       commentAfter={koan.commentAfter}
+          return <VintagePost
+                       chapterTitle={koan.title}
+                       image={koan.image}
+                       main={koan.main}
                        hashTag={koan.hashTag}
           />
         }
