@@ -6,7 +6,7 @@ const CnLv10MasterDb = [
     name_es: 'Fenyang Shanzhao',
     name_de: 'Fenyang Shanzhao',
     name_fr: 'Fenyang Shanzhao',
-    name_vi: 'Phần Dương Thiện Chiếu / Phần Dương Thiện Chiêu',
+    name_vi: 'Phần Dương Thiện Chiếu / Phần Dương Thiện Chiêu (Vô Đức)',
     name_ru: 'Fenyang Shanzhao',
     name_zh: '汾陽善昭',
     name_ja: 'Funyō Zenshō',
@@ -21,7 +21,7 @@ const CnLv10MasterDb = [
     successors: ['Shishuang Chuyuan'],
     disciples: ['Shishuang Chuyuan'],
     image: '/images/avatar.png',
-    reference: ['https://terebess.hu/zen/fenyang.html', 'https://pl.wikipedia.org/wiki/Fenyang_Shanzhao'],
+    reference: ['https://terebess.hu/zen/fenyang.html', 'https://pl.wikipedia.org/wiki/Fenyang_Shanzhao', 'https://vi.wikipedia.org/wiki/Ph%E1%BA%A7n_D%C6%B0%C6%A1ng_Thi%E1%BB%87n_Chi%E1%BA%BFu'],
   },
   {
     id: '43.10.2',
