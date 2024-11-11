@@ -22,7 +22,7 @@ const GatelessGate = [
 'Điều đó giống như gã câm nằm mộng, chỉ một mình mình hiểu được mà không thể thổ lộ cùng ai. ' +
 'Đến khi thình lình chữ Vô ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. ' + 
 'Đứng bên bờ sinh tử mà thong dong tự tại, ở chỗ nào trong cõi lục đạo tứ sinh, dù sanh về đâu hay trở thành cái gì cũng thấy mình đang rong chơi thanh thản. ' + 
-'Hỏi rằng tiếp thu chữ Vô này bằng cách nào à? Hãy dồn hết khí lực bình sinh nghiền ngẫm cho đến khi sức cùng lực kiệt, nếu nỗ lực không chút gián đoạn thì chỉ cần châm một mồi lửa nhỏ trên Phật đàn đã thấy được ánh sáng của Phật pháp bừng tỏa tức khắc.',
+'Hỏi rằng tiếp thu chữ Vô này bằng cách nào à? Hãy dồn hết khí lực bình sinh nghiền ngẫm cho đến khi sức cùng lực kiệt, nếu nỗ lực không chút gián đoạn thì chỉ cần châm một mồi lửa nhỏ trên Phật đàn đã thấy được ánh sáng của Phật pháp bừng tỏa tức khắc',
     verseOriginal:
 'Cẩu tử Phật tính / ' +
 'Toàn đề chính lệnh / ' +
@@ -84,7 +84,7 @@ const GatelessGate = [
 'Hòa thượng Câu Chi nghe được chuyện đó, cầm dao chặt phăng ngón tay của chú ta. Tiểu chịu đau không nổi khóc thét lên và bỏ chạy. Thấy thế, hòa thượng gọi với bảo dừng.   ' +
 'Chú ta bèn quay đầu lại thì thấy lúc đó, hòa thượng lại giơ một ngón tay của mình lên. Chú tiểu thoáng thấy đã ngộ đạo.   ' +
 'Khi Câu Chi lâm chung, ông cho gọi tất cả tăng chúng tụ tập lại, và nói: Khi ta tu với hòa thượng Thiên Long, học được kiểu thiền một ngón tay, thế mà dùng suốt đời vẫn chưa hết.  ' +
-'Nói xong, trút hơi thở cuối cùng.  ',
+'Nói xong, trút hơi thở cuối cùng',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' +
 'Cả Câu Chi lẫn chú tiểu, không phải nhờ đưa một ngón tay lên mà ngộ đạo.   ' +
@@ -93,7 +93,7 @@ const GatelessGate = [
 'Câu Chi độn trí lão Thiên Long / ' +
 'Lợi nhận đơn đề khám tiểu đồng / ' +
 'Cự Linh đài thủ vô đa tử / ' +
-'Phân phá Hoa Sơn thiên vạn trùng ',
+'Phân phá Hoa Sơn thiên vạn trùng',
     verse:
 'Câu Chi chơi xỏ lão Thiên Long / ' +
 'Dao bén đưa ra nhử tiểu đồng / ' +
@@ -110,7 +110,7 @@ const GatelessGate = [
 'Vô Môn nói rằng: ' + 
 'Nếu là kẻ tự lúc đầu đã có chí muốn tham thiền thì mục đích của tham thiền phải là sự chân thực. ' +
 'Hơn thế, nói đến giác ngộ thì phải là sự giác ngộ chân thực. Câu chuyện lão Hồ ở đây cũng vậy.  ' + 
-'Phải có một lần gặp gỡ nhìn người ấy tận mắt mới được. Nhưng nếu nói đi gặp tận mắt thì lại hỏng kiểu vì như thế mình và lão Hồ đã trở thành hai người mất rồi.',
+'Phải có một lần gặp gỡ nhìn người ấy tận mắt mới được. Nhưng nếu nói đi gặp tận mắt thì lại hỏng kiểu vì như thế mình và lão Hồ đã trở thành hai người mất rồi',
     verseOriginal:
 'Si nhân diện tiền / ' +   
 'Bất khả thuyết mộng / ' +
@@ -136,7 +136,7 @@ const GatelessGate = [
 'Kể cả người biết đối đáp thao thao bất tuyệt, trong trường hợp này đành để uổng tài. ' + 
 'Hơn nữa, có sức giảng được cả một pho Đại Tạng đi chăng, cũng chả đem đến kết quả nào. ' + 
 'Tìm được lối giải quyết phù hợp với hoàn cảnh này là có thể làm sống lại người đã chết và giết được kẻ hiện đang sống. ' + 
-'Còn như không tìm ra giải đáp thì (sau khi Thích Ca nhập diệt, phải đợi thêm 56 ức 7 thiên vạn niên nữa mà) hỏi thẳng Bồ Tát Di Lặc vậy.',
+'Còn như không tìm ra giải đáp thì (sau khi Thích Ca nhập diệt, phải đợi thêm 56 ức 7 thiên vạn niên nữa mà) hỏi thẳng Bồ Tát Di Lặc vậy',
     verseOriginal:
 'Hương Nghiêm chân Đỗ soạn / ' + 
 'Ác độc vô tận hạn / ' + 
@@ -156,7 +156,7 @@ const GatelessGate = [
 'Xưa Đức Thế Tôn trong một pháp hội trên núi Linh Thứu, cầm lấy một nhánh hoa rồi chìa ra trước mặt mọi người. ' + 
 'Không thấy ai phản ứng gì cả, chỉ có tôn giả Ca Diếp mặt rạng rỡ, miệng mỉm cười. ' +  
 'Đức Thế Tôn mới nói rằng: Ta có nhiều pháp môn vi diệu như Chính Pháp Nhãn Tạng, Niết Bàn Diệu Tâm, Thực Tướng Vô Tướng. ' + 
-'Bằng phương pháp bất lập văn tự, giáo ngoại biệt truyền, sẽ trao cả cho Ma Ha Ca Diếp.',
+'Bằng phương pháp bất lập văn tự, giáo ngoại biệt truyền, sẽ trao cả cho Ma Ha Ca Diếp',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' +
 'Cái lão Cồ Đàm (Gotama, tức Thích Ca) mặt vàng thật là bàng nhược vô nhân. Cứ như kiểu đó thì lão coi bên cạnh mình chẳng có ai cả, và xem bát phương đại chúng hiền lành như thể đám nô lệ. ' + 
@@ -189,7 +189,7 @@ const GatelessGate = [
 'Vô Môn nói rằng: ' +
 'Triệu Châu mở mồm ra là túi mật đã lộ, tim gan cũng phơi bày ra đấy cả. ' +
 'Tuy phơi ra tất cả, không dấu diếm điều gì mà chắc chi anh học trò này hiểu trọn chân ý của ông. ' + 
-'Truyện chép “Người ấy bèn hiểu ra” nhưng biết đâu người ấy mới nhận thức hay chỉ hiểu chút đỉnh, nghe lời thầy như thấy cái chuông lại tưởng nó là cái chum.',
+'Truyện chép “Người ấy bèn hiểu ra” nhưng biết đâu người ấy mới nhận thức hay chỉ hiểu chút đỉnh, nghe lời thầy như thấy cái chuông lại tưởng nó là cái chum',
     verseOriginal:
 'Chỉ vị phân minh cực / ' + 
 'Phiên lệnh sở đắc trì / ' + 
@@ -210,7 +210,7 @@ const GatelessGate = [
 'Thử hỏi, qua điều đó, ông ta muốn chứng minh chân lý nào?',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' +
-'Nếu ai hiểu rõ được chuyện này cái một, thì con mắt của hắn phải sáng như sao sa, cơ trí của hắn phải nhanh như điện chớp.',
+'Nếu ai hiểu rõ được chuyện này cái một, thì con mắt của hắn phải sáng như sao sa, cơ trí của hắn phải nhanh như điện chớp',
     verseOriginal:
 'Cơ luân chuyển xứ / ' + 
 'Đạt giả do mê / ' + 
@@ -230,12 +230,12 @@ const GatelessGate = [
 'Có một tăng sĩ hỏi hòa thượng Hưng Dương Thanh Nhượng: Nghe nói Phật Đại Thông Trí Thắng tu tọa thiền trong đạo trường lâu đến 10 kiếp nhưng Phật pháp không hiện ra trước mắt, Phật đạo cũng không thành tựu. Xin hỏi lý do tại sao? ' + 
 'Thanh Nhượng mới trả lời: Câu hỏi của ông đặt ra bắn trúng đích đấy! ' +  
 'Tăng bèn thưa: Ngài muốn nói: “Bởi vì tọa thiền trong đạo trường (nơi giác ngộ) cho nên đương nhiên là đã khai ngộ và thành tựu trong Phật đạo rồi, có lý do nào mà không thành tựu trong Phật đạo!” hay sao chứ? ' + 
-'Thanh Nhượng lại đáp: Lý do là vị đó “tự mình” không thành Phật mà thôi.',
+'Thanh Nhượng lại đáp: Lý do là vị đó “tự mình” không thành Phật mà thôi',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
 'Hãy chấp nhận cái trí tuệ Bát Nhã (chân tri = phân biệt cái vô phân biệt bằng sự giác ngộ qua thể nghiệm bản thân) của Lão Hồ (Thích Ca hay Tổ sư Đạt Ma) ' +  
 'nhưng không chấp nhận cái phân biệt tri giải (lý hội = tri thức phân biệt đơn thuần bằng đầu óc) của Lão Hồ. ' +  
-'Kẻ phàm phu chỉ cần được trí tuệ Bát Nhã, tức khắc sẽ thành thánh nhân. Còn bậc thánh nhân nếu bước sang chỗ phân biệt tri giải thì tức khắc sẽ thành kẻ phàm phu.',
+'Kẻ phàm phu chỉ cần được trí tuệ Bát Nhã, tức khắc sẽ thành thánh nhân. Còn bậc thánh nhân nếu bước sang chỗ phân biệt tri giải thì tức khắc sẽ thành kẻ phàm phu',
     verseOriginal:
 'Liễu thân hà tự liễu tâm hưu / ' + 
 'Liễu đắc tâm hề thân bất sầu / ' + 
@@ -268,7 +268,7 @@ const GatelessGate = [
 'Cảm dữ đấu phú',
     verse:
 'Nghèo tựa Phạm Đan / ' + 
-'Hăng như Hạng Võ / ' + .
+'Hăng như Hạng Võ / ' +
 'Không cách kiếm ăn / ' + 
 'Cũng dám đọ của',
   },
@@ -282,7 +282,7 @@ const GatelessGate = [
 'Triệu Châu mới nói: Nước cạn, không phải là chỗ để đậu thuyền. Xong, bỏ ra ngoài. ' + 
 'Thế rồi ông lại đến thăm một vị am chủ khác, hỏi: Sao, có gì không? ' + 
 'Vị am chủ này cũng đưa nắm tay lên. ' +  
-'Lúc đó, Triệu Châu bèn nói: Thả, bắt đều được. Mặc lòng cho sống hoặc giết chết. Bèn cúi lễ.',
+'Lúc đó, Triệu Châu bèn nói: Thả, bắt đều được. Mặc lòng cho sống hoặc giết chết. Bèn cúi lễ',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
 'Hai người cùng đưa nắm tay lên, cớ sao đối với một bên thì Triệu Châu khen ngợi, một bên lại chê bai như vậy. ' +  
@@ -291,7 +291,7 @@ const GatelessGate = [
 'Bởi vì muốn giúp đỡ nâng lên (khẳng định) ai hay loại bỏ lật nhào (phủ định) ai, ông ta đều có thể tùy tiện. ' + 
 'Dù Triệu Châu muốn đánh giá họ thế nào, hai vị am chủ đều đọc được ý đồ (tâm cảnh) của ông ấy! ' +  
 'Vì vậy, nếu người tu học nào còn thấy giữa hai vị am chủ kia có kẻ hơn người kém là anh ta chưa có cái nhãn lực của thiền. ' +  
-'Còn như cho rằng hai bên cũng giống y nhau thì phải nói anh ta cũng chưa có nhãn lực nốt.',
+'Còn như cho rằng hai bên cũng giống y nhau thì phải nói anh ta cũng chưa có nhãn lực nốt',
     verseOriginal:
 'Nhãn lưu tinh / ' +
 'Cơ xế điện / ' +
@@ -317,7 +317,7 @@ const GatelessGate = [
 'Vô Môn nói rằng: ' + 
 'Cái lão Thụy Nham này một mình bán, một mình mua. Đem đủ loại mặt nạ thần, mặt nạ quỉ kỳ quái ra đóng trò một mình. ' +  
 'Vì cớ gì vậy? Nhìn đây thì rõ! Một kẻ gọi, một kẻ trả lời, một kẻ tỉnh giấc, một kẻ bị người lừa. ' +  
-'Chấp nhận làm một trong những con người của lão đã là sai lầm rồi. Còn như bắt chước đóng trò như lão thì đâm ra chúng ta hiểu thiền theo cách của dã hồ mất.',
+'Chấp nhận làm một trong những con người của lão đã là sai lầm rồi. Còn như bắt chước đóng trò như lão thì đâm ra chúng ta hiểu thiền theo cách của dã hồ mất',
     verseOriginal:
 'Học đạo chi nhân bất thức chân / ' +
 'Chỉ vị tùng tiền nhận thức thần / ' +
@@ -332,28 +332,31 @@ const GatelessGate = [
 
   {
     id: 13,
-    title: 'TẮC THỨ 13: ',
+    title: 'TẮC THỨ 13: Đức Sơn bưng bát (Đức Sơn thác bát)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Một hôm, hòa thượng Đức Sơn Tuyên Giám bưng bát ra đến trai phòng, bị đệ tử là Tuyết Phong hỏi: Này, chuông hiệu chưa rung, trống hiệu chưa đánh báo giờ cơm mà lão già bưng bát đi đâu thế. ' + 
+'Do đó, Đức Sơn đành quày lại tăng phòng. Tuyết Phong mới kể chuyện đó cho Nham Đầu nghe. ' + 
+'Nham Đầu nói: Dù là người giỏi như Đức Sơn lão sư đi nữa, ông vẫn chưa hiểu phần cuối của câu nói. ' + 
+'Nghe được, Đức Sơn cho thị giả gọi Nham Đầu tới, chất vấn: Nhà ngươi có gì không phục lão chăng? ' + 
+'Nham Đầu mới thì thầm thưa cái gì với Đức Sơn mà ông an tâm, không bắt lỗi nữa. ' + 
+'Ngày hôm sau, khi bước lên bục giảng, Đức Sơn có thần thái hoàn toàn khác với mọi ngày. ' +  
+'Nham Đầu mới đến trước tăng đường, vỗ tay cười lớn: Vui quá đi thôi. ' +  
+'Bây giờ người như Đức Sơn lão sư cũng hiểu được phần cuối của câu nói rồi. Từ nay về sau, thiên hạ không ai còn làm gì ông ta được nữa',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Nếu là “phần cuối câu” (mạt hậu cú) thì có một chỗ mà cả Nham Đầu lẫn Đức Sơn cho dù có nằm mộng cũng chưa từng thấy. ' +  
+'Dò đi xét lại thật kỹ lưỡng thì Nham Đầu, Tuyết Phong cũng như Đức Sơn, cả bọn đều là một lũ tượng gỗ con rối mà thôi',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Thức đắc tối sơ cú / ' +
+'Tiện hội mạt hậu cú / ' +
+'Mạt hậu dữ tối sơ / ' +
+'Bất thị giả nhất cú',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Hiểu được phần đầu câu / ' +
+'Lại hiểu nữa câu sau / ' +
+'Phần đầu cộng phần cuối / ' +
+'Nào phải một câu đâu!',
   },
 
   {
