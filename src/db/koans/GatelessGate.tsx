@@ -16,8 +16,8 @@ const GatelessGate = [
 'Hãy làm như mình đang ngậm một hòn thép nóng bỏng ở trong miệng, muốn khạc ra mà không khạc được, muốn nuốt vào mà nuốt không trôi. ' + 
 'Rửa cho sạch hết những kiến thức sai lầm và giác ngộ giả dối đã có, rồi cùng với thời gian, dần dần tu luyện thuần thục, để cho thế giới bên trong và bên ngoài hợp nhất, không còn phân biệt chúng được nữa. ' + 
 'Điều đó giống như gã câm nằm mộng, chỉ một mình mình hiểu được mà không thể thổ lộ cùng ai. ' +
-'Đến khi thình lình chữ Vô ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. 
-Đứng bên bờ sinh tử mà thong dong tự tại, ở chỗ nào trong cõi lục đạo tứ sinh, dù sanh về đâu hay trở thành cái gì cũng thấy mình đang rong chơi thanh thản. ' + 
+'Đến khi thình lình chữ Vô ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. ' + 
+'Đứng bên bờ sinh tử mà thong dong tự tại, ở chỗ nào trong cõi lục đạo tứ sinh, dù sanh về đâu hay trở thành cái gì cũng thấy mình đang rong chơi thanh thản. ' + 
 'Hỏi rằng tiếp thu chữ Vô này bằng cách nào à? Hãy dồn hết khí lực bình sinh nghiền ngẫm cho đến khi sức cùng lực kiệt, nếu nỗ lực không chút gián đoạn thì chỉ cần châm một mồi lửa nhỏ trên Phật đàn đã thấy được ánh sáng của Phật pháp bừng tỏa tức khắc.',
     commentAfterVerseExtra:
 'Lược dịch lời bàn của Giáo sư Akizuki Ryômin: ' + 
