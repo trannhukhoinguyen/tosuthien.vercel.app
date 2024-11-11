@@ -8,7 +8,8 @@ const GatelessGate = [
       'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? ' + 
       'Hòa thượng Triệu Châu đáp: Không',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: Kẻ muốn tham thiền trước tiên phải vượt qua những ải chắn do các vị tổ sư đặt ra. Người muốn ngộ đạo một cách tuyệt diệu bắt buộc trải qua giai đoạn triệt để xóa sạch mọi ý thức. ' +
+'Vô Môn nói rằng: ' +
+'Kẻ muốn tham thiền trước tiên phải vượt qua những ải chắn do các vị tổ sư đặt ra. Người muốn ngộ đạo một cách tuyệt diệu bắt buộc trải qua giai đoạn triệt để xóa sạch mọi ý thức. ' +
 'Nếu không vượt nổi ải chắn của tổ, không dẹp bỏ được mọi ý thức thì còn giống hồn phách phải nương tựa cây cỏ.  ' +
 'Thế thì cửa ải của các tổ là gì nào? Ở đây nó chỉ là một chữ Vô (Không) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. ' +
 'Muốn dùng một cái tên ngắn gọn thì gọi nó là cái “Ải tên là Vô” hay Ải không cửa của nhà Thiền. ' + 
@@ -56,7 +57,8 @@ const GatelessGate = [
 'Hoàng Bá bèn tiến sát đến bên Bách Trượng, bất thần đưa tay tát vào mặt thầy. ' + 
 'Hòa thượng bèn vỗ tay cười, nói: Ta tưởng râu của lão Hồ màu đỏ! Chẳng dè ở đây lại có lão Hồ râu đỏ thật!',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: Bảo là “Không sa vào vòng nhân quả” thì bị đọa làm chồn hoang, còn nói “Không mê muội nhân quả” lại thoát được kiếp chồn hay sao? ' +
+'Vô Môn nói rằng: ' +
+'Bảo là “Không sa vào vòng nhân quả” thì bị đọa làm chồn hoang, còn nói “Không mê muội nhân quả” lại thoát được kiếp chồn hay sao? ' +
 'Nếu có con mắt thứ ba mà nhìn thấu suốt điểm quan trọng này thì mới biết lão già ở trong núi Bách Trượng kia đã được sống sung sướng thảnh thơi suốt ngàn vạn năm chứ có gì đâu.',
     verseOriginal:
 'Bất lạc bất muội / ' +
@@ -81,8 +83,9 @@ const GatelessGate = [
 'Khi Câu Chi lâm chung, ông cho gọi tất cả tăng chúng tụ tập lại, và nói: Khi ta tu với hòa thượng Thiên Long, học được kiểu thiền một ngón tay, thế mà dùng suốt đời vẫn chưa hết.  ' +
 'Nói xong, trút hơi thở cuối cùng.  ',
     commentBeforeVerseExtra:
-      'Vô Môn nói rằng: Cả Câu Chi lẫn chú tiểu, không phải nhờ đưa một ngón tay lên mà ngộ đạo.   ' +
-      'Nếu các ngươi nhận ra được ý nghĩa thực sự của điểm này thì có thể xâu trọn từ hòa thượng Thiên Long, hòa thượng Câu Chi, chú tiểu và cả chính các ngươi nữa thành một chuỗi',
+'Vô Môn nói rằng: ' +
+'Cả Câu Chi lẫn chú tiểu, không phải nhờ đưa một ngón tay lên mà ngộ đạo.   ' +
+'Nếu các ngươi nhận ra được ý nghĩa thực sự của điểm này thì có thể xâu trọn từ hòa thượng Thiên Long, hòa thượng Câu Chi, chú tiểu và cả chính các ngươi nữa thành một chuỗi',
     verseOriginal:
 'Câu Chi độn trí lão Thiên Long / ' +
 'Lợi nhận đơn đề khám tiểu đồng / ' +
@@ -99,9 +102,10 @@ const GatelessGate = [
       title: 'TẮC THỨ 4: Lão Hồ không râu (Hồ tử vô tu)',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
       main:
-      'Hoặc Am[1] hỏi: Lão Hồ ở Tây thiên vì lý do gì lại không râu vậy kìa?',
+      'Hoặc Am hỏi: Lão Hồ ở Tây thiên vì lý do gì lại không râu vậy kìa?',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: Nếu là kẻ tự lúc đầu đã có chí muốn tham thiền thì mục đích của tham thiền phải là sự chân thực.Hơn thế, nói đến giác ngộ thì phải là sự giác ngộ chân thực. Câu chuyện lão Hồ ở đây cũng vậy.  ' + 
+'Vô Môn nói rằng: ' + 
+'Nếu là kẻ tự lúc đầu đã có chí muốn tham thiền thì mục đích của tham thiền phải là sự chân thực.Hơn thế, nói đến giác ngộ thì phải là sự giác ngộ chân thực. Câu chuyện lão Hồ ở đây cũng vậy.  ' + 
 'Phải có một lần gặp gỡ nhìn người ấy tận mắt mới được. Nhưng nếu nói đi gặp tận mắt thì lại hỏng kiểu vì như thế mình và lão Hồ đã trở thành hai người mất rồi.',
     verseOriginal:
 'Si nhân diện tiền / ' +   
@@ -125,8 +129,8 @@ const GatelessGate = [
 'Người đó không mở miệng trả lời thì phụ lòng kẻ hỏi, nhưng nếu trả lời sẽ rơi từ trên cây xuống mất mạng. Giữa lúc như thế, thử hỏi phải đáp làm sao?',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Kể cả người biết đối đáp thao thao bất tuyệt[3], trong trường hợp này đành để uổng tài. ' + 
-'Hơn nữa, có sức giảng được cả một pho Đại Tạng[4] đi chăng, cũng chả đem đến kết quả nào. ' + 
+'Kể cả người biết đối đáp thao thao bất tuyệt, trong trường hợp này đành để uổng tài. ' + 
+'Hơn nữa, có sức giảng được cả một pho Đại Tạng đi chăng, cũng chả đem đến kết quả nào. ' + 
 'Tìm được lối giải quyết phù hợp với hoàn cảnh này là có thể làm sống lại người đã chết và giết được kẻ hiện đang sống. ' + 
 'Còn như không tìm ra giải đáp thì (sau khi Thích Ca nhập diệt, phải đợi thêm 56 ức 7 thiên vạn niên nữa mà) hỏi thẳng Bồ Tát Di Lặc vậy.',
     verseOriginal:
@@ -142,16 +146,29 @@ const GatelessGate = [
     },
   {
       id: 6,
-      title: 'TẮC THỨ 6: ',
+      title: 'TẮC THỨ 6: Phật chìa nhánh hoa (Thế Tôn niêm hoa)',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
       main:
-      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+'Xưa Đức Thế Tôn trong một pháp hội trên núi Linh Thứu, cầm lấy một nhánh hoa rồi chìa ra trước mặt mọi người.Không thấy ai phản ứng gì cả, chỉ có tôn giả Ca Diếp mặt rạng rỡ, miệng mỉm cười. ' +  
+'Đức Thế Tôn mới nói rằng: Ta có nhiều pháp môn vi diệu như Chính Pháp Nhãn Tạng, Niết Bàn Diệu Tâm, Thực Tướng Vô Tướng... ' + 
+'Bằng phương pháp bất lập văn tự, giáo ngoại biệt truyền, sẽ trao cả cho Ma Ha Ca Diếp.',
     commentBeforeVerseExtra:
-      '',
+'Vô Môn nói rằng: ' +
+'Cái lão Cồ Đàm (Gotama, tức Thích Ca) mặt vàng[6] thật là bàng nhược vô nhân. Cứ như kiểu đó thì lão coi bên cạnh mình chẳng có ai cả, và xem bát phương đại chúng hiền lành như thể đám nô lệ. ' + 
+'Thuyết rằng mình còn để dành cái pháp “vị hiển chân thực” mà chìa nhành hoa là  treo đầu dê để bán thịt chó đấy. Tưởng cao siêu lắm, hóa ra chỉ có chừng nớ. May lúc đó còn có Ca Diếp mỉm miệng cười. ' + 
+'Nếu Ca Diếp không cười thì cái Chính Pháp Nhãn Tạng làm cách nào mà truyền cho ai được. Còn nhỡ đại chúng tất cả đều cười thì lại hỏng chuyện mất! ' + 
+'Ông Thích Ca ơi, lúc đó đem Chính Pháp Nhãn Tạng truyền người nào bây giờ! Nếu bảo Chính Pháp Nhãn Tạng có thể truyền cho là ông đã đánh lừa lũ dân quê chất phác. ' + 
+'Còn ngược lại, nếu bảo pháp ấy không thể đem truyền cho được, thế thì tại sao ông có thể chọn một mình Ca Diếp làm người thừa kế?',
     verseOriginal:
-      '',
+'Niêm khởi hoa lai / ' + 
+'Vĩ ba dĩ lộ / ' + 
+'Ca Diếp phá nhan / ' + 
+'Nhân thiên võng thố',
     verse:
-      '',
+'Vừa nhấc hoa lên / ' + 
+'Đuôi thầy đã ló / ' + 
+'Ca Diếp mỉm cười / ' + 
+'Mọi người lớ ngớ',
     },
   {
       id: 7,
