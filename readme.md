@@ -1,7 +1,7 @@
-🕯 Thiền Sư <a href="https://vn.thamtosuthien.net/about/Thien-su-Bac-son.phattrien.net">**Bác Sơn Nguyên Lai**</a>
-🕯 Thiền Sư <a href="https://vi.wikipedia.org/wiki/H%E1%BB%91i_%C4%90%C3%A0i_Nguy%C3%AAn_C%E1%BA%A3nh">**Hối Đài Nguyên Cảnh**</a>
-🕯 Thiền Sư <a href="https://vi.wikipedia.org/wiki/V%C4%A9nh_Gi%C3%A1c_Nguy%C3%AAn_Hi%E1%BB%81n">**Vĩnh Giác Nguyên Hiền**</a>
-🕯 Thiền Sư <a href="https://vi.wikipedia.org/wiki/Trung_Phong_Minh_B%E1%BA%A3n">**Trung Phong Minh Bổn**</a>
+- 🕯 Thiền Sư <a href="https://vn.thamtosuthien.net/about/Thien-su-Bac-son.phattrien.net">**Bác Sơn Nguyên Lai**</a>
+- 🕯 Thiền Sư <a href="https://vi.wikipedia.org/wiki/H%E1%BB%91i_%C4%90%C3%A0i_Nguy%C3%AAn_C%E1%BA%A3nh">**Hối Đài Nguyên Cảnh**</a>
+- 🕯 Thiền Sư <a href="https://vi.wikipedia.org/wiki/V%C4%A9nh_Gi%C3%A1c_Nguy%C3%AAn_Hi%E1%BB%81n">**Vĩnh Giác Nguyên Hiền**</a>
+- 🕯 Thiền Sư <a href="https://vi.wikipedia.org/wiki/Trung_Phong_Minh_B%E1%BA%A3n">**Trung Phong Minh Bổn**</a>
 
-📒 <a href="https://vn.thamtosuthien.net/thu-vien/Tham-thien-canh-ngu/Tham-thien-canh-ngu-Chuong-I-92.phattrien.net">**THAM THIỀN CẢNH NGỮ**</a>
-📒 <a href="https://thuvienhoasen.org/a16690/trung-phong-phap-ngu">**TRUNG PHONG PHÁP NGỮ**</a>
+- 📒 <a href="https://vn.thamtosuthien.net/thu-vien/Tham-thien-canh-ngu/Tham-thien-canh-ngu-Chuong-I-92.phattrien.net">**THAM THIỀN CẢNH NGỮ**</a>
+- 📒 <a href="https://thuvienhoasen.org/a16690/trung-phong-phap-ngu">**TRUNG PHONG PHÁP NGỮ**</a>
