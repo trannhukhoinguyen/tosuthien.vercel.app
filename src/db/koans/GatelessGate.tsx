@@ -634,7 +634,7 @@ const GatelessGate = [
 'Sinh lai diện mục một xứ tàng / ' +
 'Thế giới hoại thì cừ bất hủ',
     verse:
-'Tả không tả được, họa nên chi,
+'Tả không tả được, họa nên chi, / ' +
 'Tụng chẳng thành câu, bút vứt đi / ' +
 'Trời cho “bản mặt” làm sao giấu / ' +
 'Thế giới tiêu tan, “hắn” vẫn ì',
