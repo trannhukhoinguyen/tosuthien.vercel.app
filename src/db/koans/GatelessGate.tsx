@@ -63,7 +63,34 @@ const GatelessGate = [
     title: 'TẮC THỨ 2: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+ 'Cứ mỗi khi hòa thượng Bách Trượng[2] thuyết pháp, thường có một lão già đi sau tăng chúng đến nghe. Khi các thiền sinh rút lui, lão cũng bước ra theo. Thế rồi một hôm, lão bỗng không lui mà nán lại giảng đường.Lúc đó, Bách Trượng mới hỏi: ' +
+"Người đứng trước mặt ta, ông là ai vậy?'
+
+Lão già thưa:
+
+-Tôi không phải loài người. Xửa xưa, thời Phật Ca Diếp[3], tôi đã trụ trì ở núi này. Một hôm, đệ tử có người hỏi rằng người tu hành đạo Phật đến chỗ cao diệu vẫn còn có thể sa vào vòng nhân quả[4] khổ đau hay không.Tôi mới trả lời là không, người như thế không sa vào vòng nhân quả. Vì nói vậy mà suốt một thời gian dài tôi sa vào súc sinh đạo, bị đọa làm thân chồn hoang, cho đến nay đã trải qua năm trăm kiếp. Vậy xin thầy ban cho tôi một câu trả lời đúng để tôi có thể thoát ra khỏi kiếp chồn.
+
+Nói xong, lão đặt lại câu hỏi cho Bách Trượng:
+
+-Thế thì người tu hành đạo Phật đến chỗ cao diệu vẫn còn có thể sa vào vòng nhân quả khổ đau hay sao?
+
+Hòa thượng mới trả lời:
+
+-Không mê muội nhân quả.
+
+Lúc đó, lão già chợt đại ngộ, vái lạy hòa thượng Bách Trượng và nói:
+
+-Như thế thì tôi đã thoát được kiếp chồn. Xác của tôi bỏ lại nằm ở sau núi. Xin thầy hãy lấy lễ chư tăng mà chôn cất cho.
+
+Hòa thượng bèn lệnh cho tăng giữ chức duy na[5] thông tin[6] để chúng tăng tụ họp, báo rằng sau giờ cơm trưa sẽ làm lễ chôn cất một tăng sĩ vừa mới mất. Mọi người ngạc nhiên xôn xao: “Chúng ta mạnh khỏe như thế này, ở Niết Bàn Đường[7] chẳng ai nằm bệnh cả, sao lại bảo thế”. Cơm nước xong hòa thượng hướng dẫn mọi người ra một cái hang đá phía sau núi, dùng trượng khều ra được xác chết một con chồn hoang. Bèn hỏa táng ngay. Đến chiều, hòa thượng Bách Trượng tề chỉnh uy nghi bước lên bục giảng, thuật lại mọi sự xảy ra trong ngày cho chúng tăng. Đại đệ tử là Hoàng Bá[8] nhân đó mới hỏi:
+
+-Ngày xưa, lão già vì trả lời sai một câu hỏi mà bị đọa làm thân chồn hoang suốt năm trăm kiếp, nếu lão ta trả lời đúng thì liệu lão sẽ trở thành gì ạ?
+
+-Ngươi tới đây. Ta sẽ vì lão già trả lời cho!
+
+Hoàng Bá bèn tiến sát đến bên Bách Trượng, bất thần đưa tay tát vào mặt thầy[9]. Hòa thượng bèn vỗ tay cười, nói:
+
+-Ta tưởng râu của lão Hồ[10] màu đỏ! Chẳng dè ở đây lại có lão Hồ râu đỏ thật!  
     commentBeforeVerseExtra:
       '',
     commentAfterVerseExtra:
