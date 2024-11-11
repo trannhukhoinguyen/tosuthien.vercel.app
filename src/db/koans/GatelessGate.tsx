@@ -48,15 +48,15 @@ const GatelessGate = [
 'Trong triết học của Nishida (Kitarô), ông đã luận về mối tương quan giữa “vật cá biệt” (cá thể) và “vật nói chung, gọi chỗ đó là nơi cái Vô tồn tại. Muốn hiểu cái “Vô tuyệt đối”, nơi trú ngụ của tất cả mọi cá thể, thì không thể dùng suy tư. ' +
 'Phải dựa vào thể nghiệm trực tiếp mới bắt nắm được. Đó là ý nghĩa của chữ Vô trong công án.',
     verseOriginal:
-      'Cẩu tử Phật tính, / ' +
+'Cẩu tử Phật tính, / ' +
 'Toàn đề chính lệnh. / ' +
 'Tài thiệp hữu vô, / ' +
-'Táng thân thất mệnh. ',
+'Táng thân thất mệnh.',
     verse:
-      'Phật tính của chó, / ' +
+'Phật tính của chó, / ' +
 'Đề tài chính đáng. / ' +
 'Mới bàn có, không, / ' +
-'Đã toi thân mạng'.'
+'Đã toi thân mạng.'
     commentAfterVerse:
 'Trong phần bình xướng, thiền sư Vô Môn đã đưa ra câu trả lời thích đáng cho những ai muốn trải qua thể nghiệm này. Trước tiên ông cho biết người tu thiền phải vượt qua cái ải của chữ Vô, sau đó ông đánh giá cao công án về chữ ấy. ' +
 'Trong phần cuối, ông thuyết minh một cách thân ái cách tham cứu chữ Vô như thế nào. Trong đạo tràng của chúng tôi, việc tụng đọc lời nói và làm theo lời chỉ dạy của ông là một điều ai cũng cố gắng thực hiện. ' + 
@@ -91,17 +91,37 @@ const GatelessGate = [
 'Hoàng Bá bèn tiến sát đến bên Bách Trượng, bất thần đưa tay tát vào mặt thầy. ' + 
 'Hòa thượng bèn vỗ tay cười, nói: Ta tưởng râu của lão Hồ màu đỏ! Chẳng dè ở đây lại có lão Hồ râu đỏ thật!',
     commentBeforeVerseExtra:
-      '',
+'Vô Môn nói rằng: Bảo là “Không sa vào vòng nhân quả” thì bị đọa làm chồn hoang, còn nói “Không mê muội nhân quả” lại thoát được kiếp chồn hay sao? ' +
+'Nếu có con mắt thứ ba mà nhìn thấu suốt điểm quan trọng này thì mới biết lão già ở trong núi Bách Trượng kia đã được sống sung sướng thảnh thơi suốt ngàn vạn năm chứ có gì đâu.',
     commentAfterVerseExtra:
-      '',
+'Chắc hòa thượng Bách Trượng khi dạo núi đã tìm thấy xác chồn hoang.  ' +
+'Từ đó ông mới dựng nên “kịch bản” này. Có thể gọi lão già trong cái xác chồn hoang là một “một hòa thượng Bách Trượng đời trước” (tiền Bách Trượng) mà chuyện về ông ấy có thật không thì không thành vấn đề.  ' +
+'Bởi vì vừa mới đạt đến chỗ “bất lạc nhân quả” (kẻ đã ngộ đạo rồi không rơi vào sự chi phối của luật nhân quả), nhà tu hành lại sa xuống cái hố sai lầm của “sự giác ngộ về cái gọi là bình đẳng (đản không)” vì đinh ninh mình là nhân vật cao cường nhất trong núi.  ' +
+'Đó mới là vấn đề của ông ta. Ý nghĩa của thiền kiểu chồn hoang (dã hồ thiền) là thế đấy!',
     commentBeforeVerse:
-      '',
+'Con người ta vừa mới thoát ra sự ràng buộc của cái tâm “phân biệt” và thu nhận vào lòng thế giới vô cùng rộng lớn của “bình đẳng”, không nhiều thời ít,  ' +
+'có lúc say sưa vì cái tâm cảnh mình vừa tiếp thu được nên có khuynh hướng trở thành một “ma vương gây trở ngại cho việc tu thiền” (thiền thiên ma). ' +
+'Ngay cả thiền sư Hakuin năm 24 tuổi, khi giác ngộ được về chữ Vô cũng có thái độ ngạo mạn về trình độ của mình.  ' +
+'Đến khi gặp Shôju Rôjin (Chính Thụ Lão Nhân) chỉ bảo, mới phản tỉnh về sự sai lầm đó.',
     verseOriginal:
-      '',
+'Bất lạc bất muội / ' +
+'Lưỡng thái nhất trại. / ' +
+'Bất muội bất lạc / ' +
+'Thiên thác vạn thác',
     verse:
-      '',
+'Không rơi, không lầm / ' +
+'Thò lò hai mặt / ' +
+'Không lầm, không rơi / ' +            
+'Vạn lần sai tất',
     commentAfterVerse:
-      '',
+'Theo lời bình của hòa thượng Vô Môn, không thể giải thích “bất lạc nhân quả” là sai hay “bất muội nhân quả” là đúng được.  ' +
+'Dùng “con mắt thứ ba” mà hiểu thì mới thấy ông Bách Trượng đời trước đã sống năm trăm kiếp hạnh phúc trong thân xác chồn hoang của mình. ' +
+'Vì một lời“bất lạc”, mắc phải sai lầm thành chồn hoang. Nhưng trả lời “bất muội” để thoát kiếp chồn lại là cái sai lầm thứ hai. Chồn mà cứ vui sống kiếp chồn, không thèm thuồng chi khác là đáng gọi là Phật rồi.  ' +
+'Người mà không thỏa mãn sống làm người, luôn luôn đi tìm những gì đâu đâu thì đáng gọi là chồn vậy. ' +
+'Thành ra ở chỗ nào cũng là trong vòng nhân quả, lúc nào cũng phải theo luật nhân quả. Bậc đại tu hành không phải tìm kiếm gì ở bên ngoài.  ' +
+'Như Suzuki Daisetsu (dùng chữ “trửu quăng” (khoanh cùi chỏ) có chép trong thiên Tập Nhi sách Luận Ngữ) nói phải “tự khoành tay mình làm chỗ gối đầu cho mình”,  ' +
+'vui với cái mình có. Ở trong sự “bình đẳng” (chân không vô tướng) phải có sự “dị biệt” (chân không diệu hữu).  ' +
+'Cái “bình đẳng sai lầm” (ác bình đẳng) do không biết có sự dị biệt ấy gọi là “thiền kiểu chồn hoang” (dã hồ thiền) vậy.',
   },
   {
     id: 3,
