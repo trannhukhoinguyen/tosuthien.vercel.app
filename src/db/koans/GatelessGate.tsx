@@ -255,12 +255,12 @@ const GatelessGate = [
 'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
 'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
 'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao?',
     commentBeforeVerseExtra:
 ' Vô Môn nói rằng: ' + 
 'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
 'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ?',
     verseOriginal:
 'Bần tự Phạm Đan / ' + 
 'Khí như Hạng Vũ / ' + 
@@ -270,33 +270,38 @@ const GatelessGate = [
 'Nghèo tựa Phạm Đan / ' + 
 'Hăng như Hạng Võ / ' + .
 'Không cách kiếm ăn / ' + 
-'Cũng dám đọ củaú',
+'Cũng dám đọ của',
   },
 
   { 
     id: 11,
-    title: 'TẮC THỨ 11: ',
+    title: 'TẮC THỨ 11: Triệu Châu thử sức am chủ (Châu khám am chủ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Hòa thượng Triệu Châu đến thăm một vị am chủ, hỏi: Sao, có gì không? Am chủ bèn đưa nắm tay lên. ' +  
+'Triệu Châu mới nói: Nước cạn, không phải là chỗ để đậu thuyền. Xong, bỏ ra ngoài. ' + 
+'Thế rồi ông lại đến thăm một vị am chủ khác, hỏi: Sao, có gì không? ' + 
+'Vị am chủ này cũng đưa nắm tay lên. ' +  
+'Lúc đó, Triệu Châu bèn nói: Thả, bắt đều được. Mặc lòng cho sống hoặc giết chết. Bèn cúi lễ.',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Hai người cùng đưa nắm tay lên, cớ sao đối với một bên thì Triệu Châu khen ngợi, một bên lại chê bai như vậy. ' +  
+'Nói thử nghe coi! Để biết sự thăm dò của Triệu Châu ảo diệu đến mức nào. ' +  
+'Lúc ấy, nếu biết thốt ra câu nào có giá trị chuyển mê khai ngộ thực sự, sẽ thấy Triệu Châu chỉ được mỗi tấc lưỡi không xương! ' +  
+'Bởi vì muốn giúp đỡ nâng lên (khẳng định) ai hay loại bỏ lật nhào (phủ định) ai, ông ta đều có thể tùy tiện. ' + 
+'Dù Triệu Châu muốn đánh giá họ thế nào, hai vị am chủ đều đọc được ý đồ (tâm cảnh) của ông ấy! ' +  
+'Vì vậy, nếu người tu học nào còn thấy giữa hai vị am chủ kia có kẻ hơn người kém là anh ta chưa có cái nhãn lực của thiền. ' +  
+'Còn như cho rằng hai bên cũng giống y nhau thì phải nói anh ta cũng chưa có nhãn lực nốt.',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Nhãn lưu tinh / ' +
+'Cơ xế điện / ' +
+'Sát nhân đao / ' +
+'Hoạt nhân kiếm',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Mắt sáng tựa sao băng / ' +
+'Tâm cơ như ánh chớp / ' +
+'Đem con dao đoạt mạng / ' +
+'Làm lưỡi kiếm cứu người',
   },
 
   {
@@ -304,25 +309,25 @@ const GatelessGate = [
     title: 'TẮC THỨ 12: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Mỗi ngày, hòa thượng Thụy Nham Sư Ngạn một mình cất tiếng gọi: Ông chủ ơi! ' + 
+'Xong tự trả lời lấy: Thưa vâng! ' + 
+'Lúc đó lại nói tiếp: Hãy mở mắt thức tỉnh đi ông! Vâng. ' +  
+'Từ rày cũng đừng để ai đánh lừa nhé, ông? Vâng, vâng!',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Cái lão Thụy Nham này một mình bán, một mình mua. Đem đủ loại mặt nạ thần, mặt nạ quỉ kỳ quái ra đóng trò một mình. ' +  
+'Vì cớ gì vậy? Nhìn đây thì rõ! Một kẻ gọi, một kẻ trả lời, một kẻ tỉnh giấc, một kẻ bị người lừa. ' +  
+'Chấp nhận làm một trong những con người của lão đã là sai lầm rồi. Còn như bắt chước đóng trò như lão thì đâm ra chúng ta hiểu thiền theo cách của dã hồ mất.',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Học đạo chi nhân bất thức chân / ' +
+'Chỉ vị tùng tiền nhận thức thần / ' +
+'Vô lượng kiếp lai sinh tử bản / ' +
+'Si nhân hoán tác bản lai nhân',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Học đạo sao mà chửa nhận chân / ' +
+'Khổ vì nghiệp-thức mới trầm luân / ' +
+'Trong vòng sinh diệt bao nhiêu kiếp / ' +
+'Người mụ mà nhầm chính bản thân',
   },
 
   {
