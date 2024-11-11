@@ -1000,25 +1000,21 @@ const GatelessGate = [
     title: 'TẮC THỨ 37: Cây bách trước sân (Đình tiền bách thụ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Nhân có tăng hỏi: Tố Sư Đạt Ma từ phương Tây xa xôi đến, ý là gì vậy? ' + 
+'Hòa Thượng Triệu Châu bèn chỉ ra ngoài sân và đáp: Là cây bách đó!',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Nếu thấu hiểu một cách chính xác câu trả lời của Triệu Châu thì coi như cả Phật Thích Ca Mâu Ni trong quá khứ lẫn Di Lặc Bồ Tát trong tương lai đều không hề tồn tại',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Ngôn vô triển thị / ' + 
+'Ngữ bất đầu cơ / ' + 
+'Thừa ngôn giả táng / ' + 
+'Trệ cú giả mê',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Nói không giải thích nổi / ' + 
+'Lời chẳng động cơ thiền / ' + 
+'Kẻ hiểu lời toi mạng / ' + 
+'Người bám chữ ngu thêm',
   },
 
   {
@@ -1026,25 +1022,23 @@ const GatelessGate = [
     title: 'TẮC THỨ 38: Đuôi trâu không lọt song cửa (Ngưu quá song linh)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Ngũ Tổ Pháp Diễn nói rằng: Ví dụ nhìn một con trâu đang đi ngang qua song cửa sổ để ra ngoài đường, thấy nó lọt được cả đầu, sừng, chân trước lẫn chân sau. ' + 
+'Hỏi thử vì cớ gì chỉ còn mỗi cái đuôi lại không lọt qua nốt vậy nhỉ?',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Đứng trước sự thể như thế, nếu có con mắt nhìn thấu suốt (nhất chích nhãn) sự chân thực và thốt ra một câu nói chuyển mê khai ngộ thì đã báo đáp ơn nghĩa xã hội mình mang (báo tứ ân), ' + 
+'lại có thể cứu độ sinh linh đang sống trong phiền não khổ đau của cõi đời (tư tam hữu) này. ' + 
+'Còn như nếu chưa làm được thì điều tiên quyết là phải nhìn sao để thấy được cái đuôi trâu đó.',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Quá khứ đọa khanh tiệm / ' +
+'Hồi lai khước bị hoại / ' +
+'Giả ta vĩ ba tử / ' +
+'Trực thị thậm kỳ quái',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Qua được thì rơi xuống hố thôi / ' +
+'Giật lùi lại cũng nát tan đời / ' +
+'Rồi đây một cái đuôi con đó / ' +
+'Kỳ quái sinh bao chuyện động trời!',
   },
 
   {
@@ -1052,25 +1046,27 @@ const GatelessGate = [
     title: 'TẮC THỨ 39: Vân Môn nói hớ (Vân Môn thoại đọa)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Hòa Thượng Vân Môn nhân có tăng hỏi: Cái câu : “Quang minh tịch chiếu biến hà sa...” ' +
+'và khi tăng đang nói chưa hết lời, Vân Môn bất chợt cắt ngang:  Đó không phải là thơ của Tú tài Trương Chuyết hay sao? ' +
+'Tăng bèn thưa: Vâng! Đúng vậy. ' +
+'thì Vân Môn lại bảo: Ông nói hớ mất rồi! ' +
+'Về sau, khi Hòa thượng Hoàng Long Tử Tâm khi nhắc đến chuyện, có đặt câu hỏi: ' + 
+'Chẳng hiểu lời ông tăng ấy nói hớ ở chỗ nào?',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Đứng trước tình thế này, nếu ai biết được cái thiền cơ quá siêu khó bề nhờ cậy (cô nguy) của Vân Môn ' + 
+'và lý do ông tăng mang tiếng ăn nói hớ hênh, chắc chắn sẽ được trời người cùng thờ làm thầy. ' +  
+'Nhược bằng không nhìn thấy nó rõ ràng, thì ngay bản thân mình cũng đừng hòng cứu nổi.',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Cấp lưu thùy điếu / ' +
+'Tham nhĩ giả trước / ' +
+'Khẩu phùng tài khai / ' +
+'Tính mệnh táng khước.',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Buông cầu dòng nước xiết / ' +
+'Bắt được cá tham mồi / ' +
+'Chỉ cần mở miệng thôi / ' +
+'Mạng đi đong tức khắc',
   },
 
   {
@@ -1078,25 +1074,31 @@ const GatelessGate = [
     title: 'TẮC THỨ 40: Đá ngã tịnh bình (Địch đão tịnh bình)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Hòa Thượng Quy Sơn Linh Hựu khi còn trẻ theo học ở đạo tràng của Hòa Thượng Bách Trượng Hoài Hải, giữ chức điển tòa (đầu bếp). ' +  
+'Có một hôm, Hòa Thượng Bách Trượng muốn tuyển chọn một người xứng đáng đến trụ trì ở núi Đại Quy, mới họp, không riêng chức thủ tòa (ngang với trưởng tràng) mà tất cả tăng chúng. ' + 
+'Hòa Thượng nói: Ta muốn xem trước mặt đám đông, ai là người có thể chứng minh được sự giác ngộ vượt trên đồng đạo để xứng đáng giữ chức vụ. ' + 
+'Đột nhiên, ông cho đem một cái tịnh bình ra đặt lên mặt đất rồi hỏi: Vật này không được gọi nó là tịnh bình. ' +  
+'Vậy các ngươi hãy thử gọi nó là gì? ' + 
+'Thủ tòa đáp ngay: Thật tình, không thể gọi nó là cọc gỗ! ' + 
+'Bách Trượng bèn quay sang Quy Sơn: Còn ngươi thì sao? ' + 
+'Quy Sơn bèn đưa chân đá ngã ngay tịnh bình và bỏ đi mất. ' +  
+'Lúc đó Bách Trượng mới cười bảo: Ông thủ tòa đã thua thằng dân núi rồi đấy nhé! ' + 
+'Thế rồi Bách Trượng mệnh cho Quy Sơn đến trụ trì ở núi Đại Quy',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Tuy Quy Sơn trở thành một anh hùng một thời đấy nhưng tiếc thay đã không thoát ra nổi cái vòng rào do Bách Trượng giăng ra. ' +  
+'Ông ấy có việc nhẹ (bếp núc) thì không chịu, chỉ đi tìm sự nặng nhọc (khai sơn). ' +  
+'Tại sao ta lại nói thế nhỉ? Hãy nhìn đây này! Ông ta đã tháo khăn bịt đầu nhà bếp để mang gông sắt vào cổ đấy thôi',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Dương hạ tráo ly tịnh mộc thược / ' + 
+'Đương dương nhất đột tuyệt chu già / ' + 
+'Bách Trượng trùng quan lan bất trú / ' + 
+'Cước tiêm địch xuất Phật như ma',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Vứt hết rỗ tre và muỗng gỗ / ' + 
+'Đơn thân đột phá dẹp nghi ngờ / ' + 
+'Trùng vây Bách Trượng giăng chi uổng / ' + 
+'Một đá, văng ông Phật rối mơ',
   },
 
   {
