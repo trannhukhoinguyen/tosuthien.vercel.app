@@ -909,7 +909,7 @@ const GatelessGate = [
     title: 'TẮC THỨ 33: Chẳng tâm chẳng Phật (Phi tâm phi Phật)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Một hôm, Hòa Thượng Mã Tổ nhân tăng hỏi: Phật là gì?
+'Một hôm, Hòa Thượng Mã Tổ nhân tăng hỏi: Phật là gì? ' + 
 'Mới đáp rằng: Chẳng phải tâm, chẳng phải Phật.',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
@@ -978,7 +978,7 @@ const GatelessGate = [
     title: 'TẮC THỨ 36: Giữa đường gặp người đạt đạo (Lộ phùng đạt đạo)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa Thượng Ngũ Tổ Pháp Diễn[2] có đặt câu hỏi: Trên đường, nếu gặp người (tham thiền đến chỗ) đạt đạo rồi, không lấy lời nói cũng không lấy sự im lặng mà đối ứng được thì phải dùng phương cách nào?',
+'Hòa Thượng Ngũ Tổ Pháp Diễn có đặt câu hỏi: Trên đường, nếu gặp người (tham thiền đến chỗ) đạt đạo rồi, không lấy lời nói cũng không lấy sự im lặng mà đối ứng được thì phải dùng phương cách nào?',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
 'Nếu gặp sự thể như thế này lại xử sự được một cách hoàn toàn thích nghi thì sao mà chẳng thống khoái. ' + 
@@ -1046,7 +1046,7 @@ const GatelessGate = [
     title: 'TẮC THỨ 39: Vân Môn nói hớ (Vân Môn thoại đọa)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa Thượng Vân Môn nhân có tăng hỏi: Cái câu : “Quang minh tịch chiếu biến hà sa...” ' +
+'Hòa Thượng Vân Môn nhân có tăng hỏi: Cái câu : “Quang minh tịch chiếu biến hà sa” ' +
 'và khi tăng đang nói chưa hết lời, Vân Môn bất chợt cắt ngang:  Đó không phải là thơ của Tú tài Trương Chuyết hay sao? ' +
 'Tăng bèn thưa: Vâng! Đúng vậy. ' +
 'thì Vân Môn lại bảo: Ông nói hớ mất rồi! ' +
