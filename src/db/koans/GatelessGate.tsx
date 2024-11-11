@@ -2,17 +2,19 @@ const GatelessGate = [
 
   {
     id: 1,
-    title: 'TẮC THỨ 1: ',
+    title: 'TẮC THỨ 1: Con chó của Triệu Châu (Triệu Châu cẩu tử)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
       'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? ' + 
       'Hòa thượng Triệu Châu đáp: Không',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: Kẻ muốn tham thiền trước tiên phải vượt qua những ải chắn do các vị tổ sư đặt ra. Người muốn ngộ đạo một cách tuyệt diệu bắt buộc trải qua giai đoạn triệt để xóa sạch mọi ý thức. ' +
-'Nếu không vượt nổi ải chắn của tổ, không dẹp bỏ được mọi ý thức thì còn giống hồn phách phải nương tựa cây cỏ. Thế thì cửa ải của các tổ là gì nào? Ở đây nó chỉ là một chữ Vô (Không) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. ' +
+'Nếu không vượt nổi ải chắn của tổ, không dẹp bỏ được mọi ý thức thì còn giống hồn phách phải nương tựa cây cỏ.  ' +
+'Thế thì cửa ải của các tổ là gì nào? Ở đây nó chỉ là một chữ Vô (Không) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. ' +
 'Muốn dùng một cái tên ngắn gọn thì gọi nó là cái “Ải tên là Vô” hay Ải không cửa của nhà Thiền. ' + 
-'Kẻ vượt được cái ải chắn này rồi, chẳng những có thể gặp gỡ hòa thượng Triệu Châu, mắt trong mắt, mà còn có thể kết nối lông mi lông mày với chư vị tổ sư, nhìn mọi vật bằng bằng con mắt của tổ, nghe mọi tiếng bằng lỗ tai của tổ. Có phải thống khoái không? ' + 
-'Có ai muốn vượt qua cái cửa ải kỳ diệu này không? Nếu có thì hãy tổng động viên ba trăm sáu mươi lăm khớp xương cùng với tám vạn bốn nghìn lỗ chân lông, toàn thân tụ thành một khối nghi ngờ lớn, rồi tham thiền bằng một chữ Vô. Ngày cũng như đêm không lúc nào quên đặt vấn đề. ' +
+'Kẻ vượt được cái ải chắn này rồi, chẳng những có thể gặp gỡ hòa thượng Triệu Châu, mắt trong mắt, mà còn có thể kết nối lông mi lông mày với chư vị tổ sư, nhìn mọi vật bằng bằng con mắt của tổ, nghe mọi tiếng bằng lỗ tai của tổ.  ' +
+'Có phải thống khoái không? ' + 
+'Có ai muốn vượt qua cái cửa ải kỳ diệu này không? Nếu có thì hãy tổng động viên 365 khớp xương cùng với 84000 lỗ chân lông, toàn thân tụ thành một khối nghi ngờ lớn, rồi tham thiền bằng một chữ Vô. Ngày cũng như đêm không lúc nào quên đặt vấn đề. ' +
 'Không nên coi chữ Vô này trong cái nghĩa “vô của hư vô” và cũng không nên nên hiểu nó trong cái nghĩa vô của hữu vô. ' +
 'Hãy làm như mình đang ngậm một hòn thép nóng bỏng ở trong miệng, muốn khạc ra mà không khạc được, muốn nuốt vào mà nuốt không trôi. ' + 
 'Rửa cho sạch hết những kiến thức sai lầm và giác ngộ giả dối đã có, rồi cùng với thời gian, dần dần tu luyện thuần thục, để cho thế giới bên trong và bên ngoài hợp nhất, không còn phân biệt chúng được nữa. ' + 
@@ -20,57 +22,20 @@ const GatelessGate = [
 'Đến khi thình lình chữ Vô ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. ' + 
 'Đứng bên bờ sinh tử mà thong dong tự tại, ở chỗ nào trong cõi lục đạo tứ sinh, dù sanh về đâu hay trở thành cái gì cũng thấy mình đang rong chơi thanh thản. ' + 
 'Hỏi rằng tiếp thu chữ Vô này bằng cách nào à? Hãy dồn hết khí lực bình sinh nghiền ngẫm cho đến khi sức cùng lực kiệt, nếu nỗ lực không chút gián đoạn thì chỉ cần châm một mồi lửa nhỏ trên Phật đàn đã thấy được ánh sáng của Phật pháp bừng tỏa tức khắc.',
-    commentAfterVerseExtra:
-'Lược dịch lời bàn của Giáo sư Akizuki Ryômin: ' + 
-'Công án trên chỉ ngắn ngủi có mấy câu. Trong đó, chữ Phật tính” có nghĩa là “bản tính của Phật”. ' +
-'Nhiều người giải thích là khả năng thành Phật trong tương lai” nhưng thế thì không ổn. Bởi vì người tu Thiền chỉ nhìn “cái bây giờ, ở đây và chính mình” (tức kim, thử xứ, tự kỷ). Câu hỏi của người học thiền đó chỉ hàm ý: “Thế bây giờ tôi có phải là Phật hay không?”. ' + 
-'Giáo chủ Thích Ca đã ra tuyên ngôn Nhất thiết chúng sinh, tất hữu Phật tính” (Tất cả chúng sinh đều có Phật tính). ' + 
-'Câu nói đó về sau thành căn bản của tư tưởng Phật giáo Đại Thừa. ' + 
-'Thế nhưng, người học thiền ở đây đã đưa ra một câu hỏi rất đứng đắn, có tính cách tôn giáo và hiện sinh: Tôi đây cũng bình đẳng với muôn loài súc sinh, thế thì tôi có bản tính của Phật không nào?. ' +
-'Ý thức được vấn đề như ông ta là một điều quan trọng. Suzuki Daisetsu, thầy tôi, gọi đó là yếu tố tri thức trong việc tham cứu công án và ông nhấn mạnh đến yếu tố này. ' + 
-'Ngày nay ở các đạo tràng tu thiền, người ta không có ý thức về vấn đề mà chỉ theo chủ tâm theo đòi một cách máy móc. ' + 
-'Thiền sư Bankei (Bàn Khuê) có nói như sau: ' +
-'Ví dụ có người xuất gia mất tấm cà sa, tìm cách nào cũng không ra, cứ thế mà đi tìm, không ngừng nghỉ một phút. Đó là bởi vì ông ta có “mối nghi” thực sự. ' + 
-'Người thời bây giờ vì thấy người xưa từng nghi ngờ, cũng đâm nghi ngờ theo. Đó chỉ là mối nghi bắt chước chứ không phải mối nghi thực sự. Cho nên họ sẽ không bao giờ có ngày giác ngộ. Bởi vì không mất gì cả mà lại bảo là mất rồi cố đi tìm.” ' + 
-'Khi nào công án chưa trở thành vấn đề của chính mình, kết cục nó chỉ là chuyện học đòi bắt chước. Ý thức được vấn đề một cách nghiêm chỉnh mới là chuyện trọng đại. Cổ nhân nói Kẻ đại nghi ắt sẽ đại ngộ là vì cớ ấy.',
-    commentBeforeVerse:
-'Nhân đây, nói về một chữ Vô (không) của thiền sư Triệu Châu, nếu đọc trong Triệu Châu Lục, rõ ràng là thiền sư đã trả lời Không (Vô) để đối lại với “có” (Hữu) mà thôi. ' +
-'Nguyên điển chép thế này: Có người học thiền hỏi: Con chó cũng có Phật tính chứ? Sư đáp: Không đâu. ' +
-'Người học thiền: Trên từ chư Phật dưới tới con kiến, ai ai cũng có Phật tính, cớ sao con chó lại không?  ' +
-'Sư: Vì nó còn vướng cái nghiệp (những vọng tưởng phiền não như tích, dục, tăng, ái). ' +  
-'Chữ Vô về sau của Triệu Châu (Triệu Châu Vô tự) thành ra không phải là cái Vô đối ứng với Hữu (hữu-vô-vô hay tương-đối-vô) như trong câu chuyện trên. ' +
-'Cắt mất phần sau lời đối đáp của nguyên điển, trong công án, nó được hiểu là cái Vô tuyệt đối (tuyệt-đối-vô). Công án này có mục đích giúp cho bản thân người tu hành thể nghiệm được cái Vô của phương Đông. ' +
-'Nó không phải là cái Vô của đời Đường, thời đại Triệu Châu, mà là cái Vô của đời Tống đến sau, tức thời đại Ngũ Tổ Pháp Diễn! ' +
-'Chính vào khoảng thời gian đó, hình thức gọi là “công án thiền” (khán thoại thiền) mới được thành lập vững vàng, cho nên công án về sau còn được gọi là những Ám hiệu mật lệnh dưới trướng Ngũ Tổ. ' +
-'Ngày nay công án này đã được hệ thống hóa và dùng vào việc giáo dục. Chúng ta là những người vốn chỉ biết thế giới mình sống, nghĩa là một thế giới có ý thức phân biệt, trong đó tự ngã là trung tâm, giữa Tha và Ngã có một tương quan đối lập. ' + 
-'Trước tiên, phần tắc (cổ tắc, công án) giúp ta xác nhận bằng kinh nghiệm của mình là dưới đáy tận cùng của sự “phân biệt” ấy có một thế giới bình đẳng, tha ngã là một (tự tha nhất như) mà ta có thể biết đến khi ở trong trạng thái vô ngã. ' +
-'Thử đưa ra một ví dụ. Sở dĩ sắc và hình tồn tại được là vì có “không gian” (bình đẳng) chứ không thấy “không gian” nào tồn tại nhờ có “sắc” và “hình”. Từ khi có có cái Vô của “không gian” mới sinh ra cái Hữu có giới hạn của “sắc và “hình” vậy. ' +
-'Trong triết học của Nishida (Kitarô), ông đã luận về mối tương quan giữa “vật cá biệt” (cá thể) và “vật nói chung, gọi chỗ đó là nơi cái Vô tồn tại. Muốn hiểu cái “Vô tuyệt đối”, nơi trú ngụ của tất cả mọi cá thể, thì không thể dùng suy tư. ' +
-'Phải dựa vào thể nghiệm trực tiếp mới bắt nắm được. Đó là ý nghĩa của chữ Vô trong công án.',
     verseOriginal:
-'Cẩu tử Phật tính, / ' +
-'Toàn đề chính lệnh. / ' +
-'Tài thiệp hữu vô, / ' +
-'Táng thân thất mệnh.',
+'Cẩu tử Phật tính / ' +
+'Toàn đề chính lệnh / ' +
+'Tài thiệp hữu vô / ' +
+'Táng thân thất mệnh',
     verse:
-'Phật tính của chó, / ' +
-'Đề tài chính đáng. / ' +
-'Mới bàn có, không, / ' +
-'Đã toi thân mạng.'
-    commentAfterVerse:
-'Trong phần bình xướng, thiền sư Vô Môn đã đưa ra câu trả lời thích đáng cho những ai muốn trải qua thể nghiệm này. Trước tiên ông cho biết người tu thiền phải vượt qua cái ải của chữ Vô, sau đó ông đánh giá cao công án về chữ ấy. ' +
-'Trong phần cuối, ông thuyết minh một cách thân ái cách tham cứu chữ Vô như thế nào. Trong đạo tràng của chúng tôi, việc tụng đọc lời nói và làm theo lời chỉ dạy của ông là một điều ai cũng cố gắng thực hiện. ' + 
-'Theo tôi, phần bình xướng nói trên, nhất là đoạn đầu, rất rõ, không cần phải thuyết minh gì thêm cho dài dòng. Phần thứ hai, Vô Môn bàn về cách tham cứu chữ Vô (thì cần phải nói thêm). ' +
-'Đó là sự tổng động viên hồn xác, kết thành “khối nghi ngờ lớn” (nghi đoàn) rồi tham cứu chữ Vô ngày đêm không nghỉ. Đừng có hiểu theo lối nhị nguyên (thiên kiến, dualism), cũng đừng rơi vào chủ nghĩa hư vô (đoạn kiến, nihilism). ' + 
-'Tham cứu chữ Vô đến độ cả mình (chủ quan) lẫn công án (khách quan) nhập làm một (đả thành nhất phiến). Lúc tự ngã và thế giới đều biến mất, chỉ còn cái Vô mà thôi. ' +
-'Đó là lúc đạt được trạng thái chính định (tam muội) của công án. Cái tâm phân biệt của tự ngã sẽ hóa ra “không”, chỉ còn lại mỗi cái vô ngã (vô tâm), tiếp xúc được với chốn gọi là “bình đẳng”. ' + 
-'Rồi nếu gặp được cơ duyên gì, nó sẽ bất chợt bùng nổ ra (mạc nhiên đả phát), sinh ra sự thể long trời lở đất. Người ngộ đạo sẽ rứt bỏ được ràng buộc của Phật, tổ, cha mẹ, thân quyến, trở thành một “độc tôn Phật”, chủ thể tự do tự tại. ' + 
-'Thể nghiệm cá nhân ấy giống như cảnh gả câm nằm mộng nhưng không kể lại giấc mộng ấy cho ai được cả. Đó là một thể nghiệm bằng trực giác của người uống nước, nóng hay lạnh chỉ có mình biết (lãnh hàn tự tri). ' + 
-'Lúc đó sẽ thoát khỏi mê lầm của vòng luân hồi, có thể rong chơi trong cõi trời đất. Khi tự giác được cái tôi vô ngã, vô tướng (vô vị chân nhân) là đã thấy được Phật tính của mình (kiến tính) vậy.',
+'Phật tính của chó / ' +
+'Đề tài chính đáng / ' +
+'Mới bàn có, không / ' +
+'Đã toi thân mạng',
   },
   {
     id: 2,
-    title: 'TẮC THỨ 2: ',
+    title: 'TẮC THỨ 2: Chồn hoang của Bách Trượng (Bách Trượng dã hồ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
 'Cứ mỗi khi hòa thượng Bách Trượng thuyết pháp, thường có một lão già đi sau tăng chúng đến nghe. Khi các thiền sinh rút lui, lão cũng bước ra theo. Thế rồi một hôm, lão bỗng không lui mà nán lại giảng đường. ' +
@@ -93,19 +58,9 @@ const GatelessGate = [
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: Bảo là “Không sa vào vòng nhân quả” thì bị đọa làm chồn hoang, còn nói “Không mê muội nhân quả” lại thoát được kiếp chồn hay sao? ' +
 'Nếu có con mắt thứ ba mà nhìn thấu suốt điểm quan trọng này thì mới biết lão già ở trong núi Bách Trượng kia đã được sống sung sướng thảnh thơi suốt ngàn vạn năm chứ có gì đâu.',
-    commentAfterVerseExtra:
-'Chắc hòa thượng Bách Trượng khi dạo núi đã tìm thấy xác chồn hoang.  ' +
-'Từ đó ông mới dựng nên “kịch bản” này. Có thể gọi lão già trong cái xác chồn hoang là một “một hòa thượng Bách Trượng đời trước” (tiền Bách Trượng) mà chuyện về ông ấy có thật không thì không thành vấn đề.  ' +
-'Bởi vì vừa mới đạt đến chỗ “bất lạc nhân quả” (kẻ đã ngộ đạo rồi không rơi vào sự chi phối của luật nhân quả), nhà tu hành lại sa xuống cái hố sai lầm của “sự giác ngộ về cái gọi là bình đẳng (đản không)” vì đinh ninh mình là nhân vật cao cường nhất trong núi.  ' +
-'Đó mới là vấn đề của ông ta. Ý nghĩa của thiền kiểu chồn hoang (dã hồ thiền) là thế đấy!',
-    commentBeforeVerse:
-'Con người ta vừa mới thoát ra sự ràng buộc của cái tâm “phân biệt” và thu nhận vào lòng thế giới vô cùng rộng lớn của “bình đẳng”, không nhiều thời ít,  ' +
-'có lúc say sưa vì cái tâm cảnh mình vừa tiếp thu được nên có khuynh hướng trở thành một “ma vương gây trở ngại cho việc tu thiền” (thiền thiên ma). ' +
-'Ngay cả thiền sư Hakuin năm 24 tuổi, khi giác ngộ được về chữ Vô cũng có thái độ ngạo mạn về trình độ của mình.  ' +
-'Đến khi gặp Shôju Rôjin (Chính Thụ Lão Nhân) chỉ bảo, mới phản tỉnh về sự sai lầm đó.',
     verseOriginal:
 'Bất lạc bất muội / ' +
-'Lưỡng thái nhất trại. / ' +
+'Lưỡng thái nhất trại / ' +
 'Bất muội bất lạc / ' +
 'Thiên thác vạn thác',
     verse:
@@ -113,19 +68,10 @@ const GatelessGate = [
 'Thò lò hai mặt / ' +
 'Không lầm, không rơi / ' +            
 'Vạn lần sai tất',
-    commentAfterVerse:
-'Theo lời bình của hòa thượng Vô Môn, không thể giải thích “bất lạc nhân quả” là sai hay “bất muội nhân quả” là đúng được.  ' +
-'Dùng “con mắt thứ ba” mà hiểu thì mới thấy ông Bách Trượng đời trước đã sống năm trăm kiếp hạnh phúc trong thân xác chồn hoang của mình. ' +
-'Vì một lời“bất lạc”, mắc phải sai lầm thành chồn hoang. Nhưng trả lời “bất muội” để thoát kiếp chồn lại là cái sai lầm thứ hai. Chồn mà cứ vui sống kiếp chồn, không thèm thuồng chi khác là đáng gọi là Phật rồi.  ' +
-'Người mà không thỏa mãn sống làm người, luôn luôn đi tìm những gì đâu đâu thì đáng gọi là chồn vậy. ' +
-'Thành ra ở chỗ nào cũng là trong vòng nhân quả, lúc nào cũng phải theo luật nhân quả. Bậc đại tu hành không phải tìm kiếm gì ở bên ngoài.  ' +
-'Như Suzuki Daisetsu (dùng chữ “trửu quăng” (khoanh cùi chỏ) có chép trong thiên Tập Nhi sách Luận Ngữ) nói phải “tự khoành tay mình làm chỗ gối đầu cho mình”,  ' +
-'vui với cái mình có. Ở trong sự “bình đẳng” (chân không vô tướng) phải có sự “dị biệt” (chân không diệu hữu).  ' +
-'Cái “bình đẳng sai lầm” (ác bình đẳng) do không biết có sự dị biệt ấy gọi là “thiền kiểu chồn hoang” (dã hồ thiền) vậy.',
   },
   {
     id: 3,
-    title: 'TẮC THỨ 3: ',
+    title: 'TẮC THỨ 3: Câu Chi giơ ngón tay (Câu Chi thụ chỉ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
    main:
 'Hòa thượng Câu Chi[2], hễ có ai chất vấn về thiền, đều đưa một ngón tay lên.   ' +
@@ -137,90 +83,62 @@ const GatelessGate = [
     commentBeforeVerseExtra:
       'Vô Môn nói rằng: Cả Câu Chi lẫn chú tiểu, không phải nhờ đưa một ngón tay lên mà ngộ đạo.   ' +
       'Nếu các ngươi nhận ra được ý nghĩa thực sự của điểm này thì có thể xâu trọn từ hòa thượng Thiên Long, hòa thượng Câu Chi, chú tiểu và cả chính các ngươi nữa thành một chuỗi',
-    commentAfterVerseExtra:
-'Hòa thượng Câu Chi thuộc dòng thiền Mã Tổ bởi vì thầy Thiên Long của ông là học trò của Đại Mai Pháp Thường. Công án nói trên, trong một sách khác, lại biến dạng đi một chút:   ' +
-'Sách ấy kể rằng Câu Chi trước khi chết, gọi học trò lại và bảo: Ta theo học lão sư Thiên Long được kiểu thiền một ngón tay (nhất chỉ thiền) mà cả đời dùng hoài dùng mãi vẫn không hết.   ' + 
-'Cái nhân duyên giữa ông với thiền một ngón tay đã xảy ra như sau:   ' +
-'Trước kia, Câu Chi là một tăng sĩ sống trong một cái am con, tự phụ mình đã tu học đến nơi đến chốn. Một hôm có một sư nữ đến thăm.    ' +
-'Bà này cũng thuộc loại kiệt xuất. Vào trong am của ông rồi mà đầu vẫn đội nón mê.    ' +
-'Sau khi chọc khắp nơi bằng cái tích trượng dùng để đi đường, bà bước quanh chỗ sư ngồi ba lần, rồi đến đứng trước mặt bảo: Nếu ông dạy được một câu có thể giúp người khác ngộ đạo thì ta sẽ cởi nón ra.    ' +
-'Nói như thế ba lần nhưng không lần nào thiền sư trả lời điều bà muốn. Ông chỉ tử tế hỏi thăm: “Trời đã tối, chưa tìm ra chỗ ngủ, bà tính sao đây?”.    ' +
-'May mắn là ông đã nói được một câu, câu nói thông thường nông dân vẫn hay hỏi khách lạ.   ' +
-'Sư nữ đó vẫn không để cho chuyện tầm thường lôi cuốn, tiếp tục bức bách: “Nếu ông trả lời được, ta sẽ xin ngủ lại!”.    ' +
-'Thế nhưng thiền sư vẫn giữ nguyên sự im lặng. Sư nữ bèn phất tay áo, bỏ đi.   ' +
-'Tôi hôm đó, thiền sư Câu Chi buồn bực vì mình chẳng trả lời nổi sự thách thức của bà kia, không tài nào nhắm mắt.   ' +
-'Ông suy nghĩ: “Làm thân đàn ông như ta mà không có khí phách nam nhi.    ' +
-'Được rồi, ta sẽ bỏ am lên đường hành cước, đi tìm danh sư tu hành trở lại, để giác ngộ chân lý mới được”. Đó là điều người ta gọi là “biết xấu hổ” (thức tu) vậy.   ' +
-'Tuy nhiên, lúc đó, Câu Chi nằm mộng thấy một vị thần hiện ra bảo: Chớ đi đâu cả. Sắp có một vị bồ tát mang nhục thân đến đây và sẽ dạy ngươi hiểu đạo.   ' +
-'Đúng như thế, khoảng mươi hôm thì Thiên Long lão sư, người nhận pháp tự của hòa thượng Đại Mai, tìm đến.    ' +
-'Lúc ấy, Câu Chi mới bày tỏ mọi sự và xin được dạy bảo. Thiên Long chẳng nói chẳng rằng, chỉ giơ một ngón tay lên.   ' +
-'Thấy thế, đột nhiên Câu Chi hiểu ra lẽ đạo.',
-    commentBeforeVerse:
-'Từ đó, lúc nào trả lời câu hỏi của học trò, lúc nào Câu Chi cũng chỉ đưa một ngón tay lên và không đề xướng một lý thuyết nào cả.   ' +
-'Giống như ý hai câu thơ của người xưa:   ' +
-'Bất kiến Tây Hồ Lâm Xử Sĩ - Nhất sinh thụ dụng chỉ mai hoa.   ' +
-'Chẳng thấy Tây Hồ Lâm Xử Sĩ - Một đời chỉ thiết mỗi hoa mai?   ' +
-'Nên Câu Chi cả đời sử dụng “nhất chỉ thiền” thôi là đã đủ.   ' +
-'Quên mất cái ngã (vong ngã, phủ định tự ngã, chân không vô tướng), rồi vô tâm, đưa thẳng một ngón tay lên (khẳng định tự ngã, chân không diệu hữu) để cho trời đất hoàn toàn tụ hội lại làm một.    ' +
-'Đó là yếu quyết của “nhất chỉ thiền”. Nói cách khác, trong cái “thiền một ngón tay” của thiền sư Câu Chi, cả đất trời như thu về một mối, thể hiện rõ ràng sự bình đẳng của các dị biệt.   ' +
-'Đúng ra thì khái niệm về bình đẳng và dị biệt đều bị bỏ qua một bên.   ' +
-'Duy một ngón tay đưa lên tượng trưng cho trạng thái “chỉ quản vô tâm” là còn đó.',
     verseOriginal:
-'Câu Chi độn trí lão Thiên Long, / ' +
-'Lợi nhận đơn đề khám tiểu đồng. / ' +
-'Cự Linh đài thủ vô đa tử, / ' +
+'Câu Chi độn trí lão Thiên Long / ' +
+'Lợi nhận đơn đề khám tiểu đồng / ' +
+'Cự Linh đài thủ vô đa tử / ' +
 'Phân phá Hoa Sơn thiên vạn trùng. ',
     verse:
 'Câu Chi chơi xỏ lão Thiên Long / ' +
 'Dao bén đưa ra nhử tiểu đồng / ' +
-'Cự Linh phá núi Hoa bao lớp. / ' +
+'Cự Linh phá núi Hoa bao lớp / ' +
 'Cũng chỉ giơ tay, lọ tốn công',
-    commentAfterVerse:
-'Thế nhưng nếu mỗi người ai cũng đưa một ngón tay lên thì thử hỏi chúng ta sẽ cảm nhận được điều gì? Phiền não chăng? Bồ đề chăng? Tóm lại, chủ thể đưa ngón tay lên chính là đầu mối của vấn đề. Tự ngã (chúng sinh) đưa ngón tay lên thì không được.   ' +
-'Tự ngã vô tướng (Phật) đưa ngón tay lên thì mới được xem là “Phật tác Phật hành” (hành động của Phật). Ấy mới là yếu quyết về “thiền một ngón” của Thiên Long.   ' +
-'Thiền sư Dôgen (Đạo Nguyên) gọi nó là cái “diệu tu” (hành động cắt đứt với những tranh cãi phàm tục) của “bản chứng” (cái thấy được chứng ngộ bằng Phật).   ' +
-'Đó là “chỉ quán hành” của “ba la mật đa” (hoàn thành), sự tự phát triển của Bát Nhã (tâm tính bản thanh tĩnh). “Uy nghi tức Phật pháp, Tác pháp thị tôn chỉ”.   ' +
-'Trong trạng thái đó, mới thực hiện được cái gọi là “sinh hoạt thiền” với chủ trương “bình thường tâm thị đạo” (thiền trong cuộc sống bằng cái tâm bình thường).   ' +
-'Chú tiểu lúc đầu nhại theo thiền sư, đến khi bị chặt ngón tay rồi, mới đau đớn cảm thấy trời đất chỉ là một, đột nhiên quên mất tự ngã, rơi thẳng vào giữa trạng thái hư không,   ' + 
-'thế rồi con người với cái ta xưa nay (bản lai tự kỷ) nhìn thấy thầy mình đưa một ngón tay lên (chân như), bèn chợt hiểu ý nghĩa của thiền một ngón tay.',
   },
   {
       id: 4,
-      title: 'TẮC THỨ 4: ',
+      title: 'TẮC THỨ 4: Lão Hồ không râu (Hồ tử vô tu)',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
       main:
-      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+      'Hoặc Am[1] hỏi: Lão Hồ ở Tây thiên vì lý do gì lại không râu vậy kìa?',
     commentBeforeVerseExtra:
-      '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
+'Vô Môn nói rằng: Nếu là kẻ tự lúc đầu đã có chí muốn tham thiền thì mục đích của tham thiền phải là sự chân thực.Hơn thế, nói đến giác ngộ thì phải là sự giác ngộ chân thực. Câu chuyện lão Hồ ở đây cũng vậy.  ' + 
+'Phải có một lần gặp gỡ nhìn người ấy tận mắt mới được. Nhưng nếu nói đi gặp tận mắt thì lại hỏng kiểu vì như thế mình và lão Hồ đã trở thành hai người mất rồi.',
     verseOriginal:
-      '',
+'Si nhân diện tiền / ' +   
+'Bất khả thuyết mộng / ' +
+'Hồ tử vô tu / ' +
+'Tinh tinh thiêm mông',
     verse:
-      '',
-    commentAfterVerse:
-      '',
+'Với anh ngây ngô / ' +
+'Ai đi kể mộng / ' +
+'Nghe chuyện râu Hồ / ' +
+'Đang tỉnh thành ngố',
     },
   {
       id: 5,
-      title: 'TẮC THỨ 5: ',
+      title: 'TẮC THỨ 5: Hương Nghiêm leo cây (Hương Nghiêm thượng thụ)',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
       main:
-      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+'Hòa thượng Hương Nghiêm nói (với môn đệ) như sau: ' +
+'Cái quan trọng của thiền vốn giống người leo cây. Miệng ngoặm lấy cành cây, thân treo lủng lẳng, tay không bám tới cành, chân không đạp được cành. ' + 
+'Lúc đó nếu có người đứng bên dưới cây đặt câu hỏi: Lúc Đạt Ma ở Thiên Trúc qua thì bản tâm của ngài như thế nào ? ' +
+'Người đó không mở miệng trả lời thì phụ lòng kẻ hỏi, nhưng nếu trả lời sẽ rơi từ trên cây xuống mất mạng. Giữa lúc như thế, thử hỏi phải đáp làm sao?',
     commentBeforeVerseExtra:
-      '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
+'Vô Môn nói rằng: ' + 
+'Kể cả người biết đối đáp thao thao bất tuyệt[3], trong trường hợp này đành để uổng tài. ' + 
+'Hơn nữa, có sức giảng được cả một pho Đại Tạng[4] đi chăng, cũng chả đem đến kết quả nào. ' + 
+'Tìm được lối giải quyết phù hợp với hoàn cảnh này là có thể làm sống lại người đã chết và giết được kẻ hiện đang sống. ' + 
+'Còn như không tìm ra giải đáp thì (sau khi Thích Ca nhập diệt, phải đợi thêm 56 ức 7 thiên vạn niên nữa mà) hỏi thẳng Bồ Tát Di Lặc vậy.',
     verseOriginal:
-      '',
+'Hương Nghiêm chân Đỗ soạn / ' + 
+'Ác độc vô tận hạn / ' + 
+'Á khước nạp tăng khẩu / ' + 
+'Thông thân bình quỉ nhãn',
     verse:
-      '',
-    commentAfterVerse:
-      '',
+'Hương Nghiêm nói ẩu thiệt / ' + 
+'Tâm ác độc khôn cùng / ' + 
+'Đã bịt miệng thầy tăng / ' + 
+'Còn bóc mắt người chết',
     },
   {
       id: 6,
@@ -230,15 +148,9 @@ const GatelessGate = [
       'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
     },
   {
@@ -249,15 +161,9 @@ const GatelessGate = [
       'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
     },
   {
@@ -268,15 +174,9 @@ const GatelessGate = [
       'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
     },
   {
@@ -287,15 +187,9 @@ const GatelessGate = [
       'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
     },
   {
@@ -306,15 +200,9 @@ const GatelessGate = [
       'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
     },
 
@@ -324,15 +212,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -342,15 +224,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -360,15 +236,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -378,15 +248,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -396,15 +260,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -414,15 +272,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -432,15 +284,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -450,15 +296,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -468,15 +308,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -486,15 +320,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -504,15 +332,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -522,15 +344,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -540,15 +356,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -558,15 +368,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -576,15 +380,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -594,15 +392,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -612,15 +404,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -630,15 +416,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -648,15 +428,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -666,15 +440,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -684,15 +452,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -702,15 +464,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -720,15 +476,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -738,15 +488,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -756,15 +500,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -774,15 +512,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -792,15 +524,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -810,15 +536,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -828,15 +548,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -846,15 +560,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -864,15 +572,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -882,15 +584,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -900,15 +596,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -918,15 +608,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -936,15 +620,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -954,15 +632,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -972,15 +644,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
@@ -990,15 +656,9 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     commentBeforeVerseExtra:
       '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
     verseOriginal:
       '',
     verse:
-      '',
-    commentAfterVerse:
       '',
   },
 
