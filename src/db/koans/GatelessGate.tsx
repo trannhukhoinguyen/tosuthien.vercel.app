@@ -672,25 +672,26 @@ const GatelessGate = [
     title: 'TẮC THỨ 25: Ngưỡng Sơn thuyết pháp tam tòa (Tam tòa thuyết pháp)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Hòa Thượng Ngưỡng Sơn lúc đang nằm mộng thấy mình bay lên tới cõi trời Đâu Suất, đến chỗ Bồ Tát Di Dặc. ' +  
+'Lúc đó, nơi ấy đầy ắp người, bèn ngồi xuống chỗ còn trống ở đệ tam tòa. ' +  
+'Xong có một vị tôn giả cầm chùy nhỏ gõ một tiếng (kêu gọi mọi người chú ý) rồi bá cáo: Hôm nay đúng phiên đệ tam tòa thuyết pháp. ' + 
+'Ngưỡng Sơn bèn đứng dậy, gõ một tiếng chùy và nói: Phật Pháp Đại Thừa vốn hoàn toàn vượt qua ngôn ngữ. ' +  
+'Xin quí vị nghe theo, nghe theo!',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Nói nghe thử xem, Hòa Thượng Ngưỡng Sơn (theo Eshin, chứ Ryômin dịch là “vị tôn giả này”) đã thuyết pháp hay chưa thuyết pháp? ' + 
+'Mở miệng nói ra đã phạm phải sai lầm, còn như im lặng thì chả thành thuyết pháp (Ryômin dịch: “cả hai trường hợp đều đánh mất chân lý”). ' + 
+'Nói vậy chứ, mở miệng hay khép miệng đều làm cho mình rời ra xa lắc con đường của Phật mà thôi',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Bạch nhật thanh thiên / ' +
+'Mộng trung thuyết mộng / ' +
+'Niết quái niết không / ' +
+'Cuống hô nhất chúng',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Giữa ban ngày ban mặt / ' +
+'Trong mộng đem kể mộng / ' +
+'Chuyện kỳ quái hỡi ơi / ' +
+'Định đánh lừa cả đống',
   },
 
   {
@@ -698,25 +699,24 @@ const GatelessGate = [
     title: 'TẮC THỨ 26: Hai tăng cuốn rèm (Nhị tăng quyển liêm)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Hòa Thượng Đại Pháp Nhãn ở Thanh Lương Viện, nhân lúc chúng tăng nhân tham thiền trước giờ thu trai đến phòng, không nói không rằng, trỏ tay ra chỗ rèm cửa. ' + 
+'Lúc đó, hai tăng sĩ đồng thời bước về phía rèm và cuộn lên. ' +
+'Thấy vậy, Hòa Thượng Pháp Nhãn mới nói: “Một người được, một người mất!”',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Nói nghe xem, người nào được, người nào mất đây? Nếu lúc ấy mà có con mắt thứ ba nhìn thấu suốt sự vật (nhất chích nhãn hay tâm nhãn) ' + 
+'thì có thể hiểu được chỗ thất bại (bại khuyết xứ) của ông hòa thượng Pháp Nhãn tôn quí (Thanh Lương Quốc Sư) này trong sự phán đoán. ' + 
+'Xin bỏ khuynh hướng tìm hiểu ai được, ai không (ai đúng, ai sai, ai hơn ai kém) như thế cho tôi nhờ',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Quyển khởi minh minh triệt thái không / ' +
+'Thái không do vị hợp ngô tông / ' +
+'Tranh tự tùng không đô phóng hạ / ' +
+'Miên miên mật mật bất thông phong',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Nếu cuốn rèm lên sẽ thấy trời / ' +  
+'Trời Thiền chưa chắc hợp tông tôi / ' +
+'Nhìn cao chi mãi, thôi, buông xuống / ' +
+'Buồng kín như bưng, sướng mớ đời!',
   },
 
   {
@@ -724,25 +724,24 @@ const GatelessGate = [
     title: 'TẮC THỨ 27: Không phải tâm chẳng phải Phật (Bất thị tâm Phật)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Hòa thượng Nam Tuyền nhân có tăng đến hỏi: Thầy còn pháp nào chưa truyền cho người đời không? ' +
+'Bèn trả lời: Có chứ! ' +
+'Lúc đó, tăng lại tiếp: Dám hỏi pháp đó là pháp nào? ' +
+'Nam Tuyền đáp: Chẳng phải tâm, chẳng phải Phật, chẳng phải vật',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Việc làm của Hòa Thượng Nam Tuyền giống như người bị hành hung phải dốc tuốt tuột gia tư điền sản mà đưa cho. ' + 
+'Khổ thân (mệt nhọc) như thế, (ích gì)?',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Đinh ninh tổn quân đức / ' +
+'Vô ngôn chân hữu công / ' +
+'Nhiệm tùng thương hải biến / ' +
+'Chung bất vị quân thông',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Tận tụy giảng hao đức / ' +
+'Im lời mới có công / ' +
+'Mai dù đời dâu biển / ' +
+'Cũng đếch mách cho ông!',
   },
 
   {
@@ -750,25 +749,51 @@ const GatelessGate = [
     title: 'TẮC THỨ 28: Xa mến thầy Đàm (Cữu hương Long Đàm)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Một hôm, Đức Sơn đến thỉnh giáo Hòa Thượng Long Đàm. ' + 
+'Đến tối, hòa thượng mới bảo: Trời đã khá khuya, ngươi cũng liệu xuống núi mà về. ' +
+'Đức Sơn không biết làm sao bèn chào từ biệt, cuốn rèm lên định ra ngoài. Nào ngờ bên ngoài đen kịt nên phải quày lại. ' + 
+'Ông giải thích: Thưa, tại chung quanh trời tối quá! ' +
+'Hòa Thượng Long Đàm mới thắp ngọn đề đăng (ngọn đèn cầm tay, Ryômin dịch là đuốc chứ không phải đèn) rồi trao cho. ' + 
+'Lúc Đức Sơn chực cầm lấy đèn, hòa thượng bỗng thổi tắt cái phụt. ' + 
+'Lúc đó, Đức Sơn bèn ngộ đạo, kính cẩn cúi rạp chào Long Đàm. ' + 
+'Hòa thượng mới hỏi:  Nhà ngươi ngộ được điều gì nào? ' +
+'Đức Sơn đáp: Từ ngày hôm nay trở đi, tôi sẽ không còn lạc lối trong những lời bàn (thiệt đầu) của các bậc hòa thượng thiền sư trong thiên hạ nữa. ' +
+'Đến sáng hôm sau, khi lên bục giảng thuyết pháp, ' + 
+'Hòa Thượng Long Đàm mói nói: Giả sử có một anh chàng răng như rừng chông sắc, miệng như chậu máu, nhỡ ai quật một gậy cũng chẳng thèm quay nhìn, ' + 
+'thì kẻ ấy sẽ có ngày nào đó. một thân trên đỉnh cô phong (không cần nương tựa vào lời chỉ bảo của ai và không ai có thể đuổi kịp), ' + 
+'dấy lên được mối đạo của chính mình (quân đạo). ' +
+'Đức Sơn bèn đem bộ chú thích (sớ sao) kinh Kim Cương tùy thân ' + 
+'và một bó đuốc lớn đến trước phòng giảng pháp, huơ qua huơ lại: ' + 
+'Nghiên cứu giáo nghĩa (chư huyền biện) của đạo Phật nhiều bao nhiêu, khác gì khác gì ném một sợi lông vào trong không gian bao la. ' + 
+'Dù nắm hết bí quyết (khu cơ) để sống sao cho khôn khéo ở đời, chẳng qua nhểu một giọt nước xuống vực núi sâu mà thôi. ' +
+'Nói xong, đốt hết sách chú thích, cáo từ thầy rồi xuống núi',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Khi Đức Sơn còn ở quê nhà, trong tâm trí nghĩ rất nhiều chuyện mà không làm sao nói được thành lời. ' + 
+'Tự cho mình là kẻ sẽ đập tan được cái đám tu thiền theo lối “dạy thiền ở ngoài giáo nghĩa” (giáo ngoại biệt truyền) nên mới đem lòng phẫn khái, đi xuống phương Nam. ' + 
+'Tuy nhiên, đến Lễ Châu, vào trong quán nước chè bên đường định ăn mấy thứ điểm tâm thì bà lão bán quán mới hỏi: Cái xe nhà thầy đang kéo, trong đó chứa kinh sách gì vậy? ' +
+'Mới trả lời: Đó là những sách chú thích kinh Kim Cương. ' +
+'Nghe thế, bà lão lại hỏi: Trong cuốn kinh đó thế nào cũng có câu: Quá khứ tâm bất khả đắc. Hiện tại tâm bất khả đắc. ' + 
+'Vị lai tâm bất khả đắc”.(Tâm có ba, tâm quá khứ, tâm hiện tại và tâm vị lai, đều không thể kiếm ra). ' + 
+'Vậy nhà thầy điểm tâm là điểm cho cái tâm nào?” ' +
+'Đức Sơn nghe mỗi câu đó mà cứng họng, miệng câm như hến. ' + 
+'Dù xụi lơ, Đức Sơn vẫn chưa tâm phục câu nói của bà lão, nên mới hỏi lại: Hình như chung quanh vùng này có nhiều vị cao tăng? ' +
+'Bà lão trả lời: Cách đây năm dặm có vị hòa thượng tên gọi Long Đàm. ' +
+'Nghe bà ấy nói thế, Đức Sơn mới tìm gặp Long Đàm, trong tư thế của một người thua trận. ' + 
+'Rõ ràng tiền ngôn (câu trước = thái độ dương dương tự đắc muốn tiêu diệt người ta lúc ở cố hương) hậu ngữ (câu sau = đối đáp nhũn nhặn với Long Đàm) của ông hoàn toàn không tương xứng. ' +
+'Còn Hòa Thượng Long Đàm vì quá yêu trẻ con (người trẻ và hăng hái học đạo như Đức Sơn) nên cũng không ý thức được hành vi xấu xa của mình. ' + 
+'Biết Đức Sơn có chút mồi lửa (căn cơ để trở thành Phật), hấp tấp lấy nước bùn bẩn dội từ trên đầu xuống, làm cho lửa kia tắt ngấm. ' + 
+'Bình tĩnh mà quan sát, mới thấy cả hai ông đều đáng đem ra làm trò cười.',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Văn danh bất như kiến diện / ' + 
+'Kiến diện bất như văn danh / ' + 
+'Duy nhiên cứu đắc tỵ khổng / ' + 
+'Tranh nại hạt khước nhãn tình',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Nghe tên đâu bằng gặp mặt / ' + 
+'Gặp mặt sao bằng nghe tên / ' + 
+'Dù thầy cứu mũi kia được / ' + 
+'Ngươi trò bị bóc, sao nhìn?',
   },
 
   {
