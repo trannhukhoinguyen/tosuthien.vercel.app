@@ -128,19 +128,61 @@ const GatelessGate = [
     title: 'TẮC THỨ 3: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
    main:
-      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+'Hòa thượng Câu Chi[2], hễ có ai chất vấn về thiền, đều đưa một ngón tay lên.   ' +
+'Ở chỗ Câu Chi có một chú tiểu, khi nghe người khách lạ từ xa đến hỏi: “Hòa thượng chùa này giảng về những yếu quyết trong Phật pháp như thế nào?”, đã đưa ngay tức khắc một ngón tay lên.  ' +
+'Hòa thượng Câu Chi nghe được chuyện đó, cầm dao chặt phăng ngón tay của chú ta. Tiểu chịu đau không nổi khóc thét lên và bỏ chạy. Thấy thế, hòa thượng gọi với bảo dừng.   ' +
+'Chú ta bèn quay đầu lại thì thấy lúc đó, hòa thượng lại giơ một ngón tay của mình lên. Chú tiểu thoáng thấy đã ngộ đạo.   ' +
+'Khi Câu Chi lâm chung, ông cho gọi tất cả tăng chúng tụ tập lại, và nói: Khi ta tu với hòa thượng Thiên Long, học được kiểu thiền một ngón tay, thế mà dùng suốt đời vẫn chưa hết.  ' +
+'Nói xong, trút hơi thở cuối cùng.  ',
     commentBeforeVerseExtra:
-      '',
+      'Vô Môn nói rằng: Cả Câu Chi lẫn chú tiểu, không phải nhờ đưa một ngón tay lên mà ngộ đạo.   ' +
+      'Nếu các ngươi nhận ra được ý nghĩa thực sự của điểm này thì có thể xâu trọn từ hòa thượng Thiên Long, hòa thượng Câu Chi, chú tiểu và cả chính các ngươi nữa thành một chuỗi',
     commentAfterVerseExtra:
-      '',
+'Hòa thượng Câu Chi thuộc dòng thiền Mã Tổ bởi vì thầy Thiên Long của ông là học trò của Đại Mai Pháp Thường. Công án nói trên, trong một sách khác, lại biến dạng đi một chút:   ' +
+'Sách ấy kể rằng Câu Chi trước khi chết, gọi học trò lại và bảo: Ta theo học lão sư Thiên Long được kiểu thiền một ngón tay (nhất chỉ thiền) mà cả đời dùng hoài dùng mãi vẫn không hết.   ' + 
+'Cái nhân duyên giữa ông với thiền một ngón tay đã xảy ra như sau:   ' +
+'Trước kia, Câu Chi là một tăng sĩ sống trong một cái am con, tự phụ mình đã tu học đến nơi đến chốn. Một hôm có một sư nữ đến thăm.    ' +
+'Bà này cũng thuộc loại kiệt xuất. Vào trong am của ông rồi mà đầu vẫn đội nón mê.    ' +
+'Sau khi chọc khắp nơi bằng cái tích trượng dùng để đi đường, bà bước quanh chỗ sư ngồi ba lần, rồi đến đứng trước mặt bảo: Nếu ông dạy được một câu có thể giúp người khác ngộ đạo thì ta sẽ cởi nón ra.    ' +
+'Nói như thế ba lần nhưng không lần nào thiền sư trả lời điều bà muốn. Ông chỉ tử tế hỏi thăm: “Trời đã tối, chưa tìm ra chỗ ngủ, bà tính sao đây?”.    ' +
+'May mắn là ông đã nói được một câu, câu nói thông thường nông dân vẫn hay hỏi khách lạ.   ' +
+'Sư nữ đó vẫn không để cho chuyện tầm thường lôi cuốn, tiếp tục bức bách: “Nếu ông trả lời được, ta sẽ xin ngủ lại!”.    ' +
+'Thế nhưng thiền sư vẫn giữ nguyên sự im lặng. Sư nữ bèn phất tay áo, bỏ đi.   ' +
+'Tôi hôm đó, thiền sư Câu Chi buồn bực vì mình chẳng trả lời nổi sự thách thức của bà kia, không tài nào nhắm mắt.   ' +
+'Ông suy nghĩ: “Làm thân đàn ông như ta mà không có khí phách nam nhi.    ' +
+'Được rồi, ta sẽ bỏ am lên đường hành cước, đi tìm danh sư tu hành trở lại, để giác ngộ chân lý mới được”. Đó là điều người ta gọi là “biết xấu hổ” (thức tu) vậy.   ' +
+'Tuy nhiên, lúc đó, Câu Chi nằm mộng thấy một vị thần hiện ra bảo: Chớ đi đâu cả. Sắp có một vị bồ tát mang nhục thân đến đây và sẽ dạy ngươi hiểu đạo.   ' +
+'Đúng như thế, khoảng mươi hôm thì Thiên Long lão sư, người nhận pháp tự của hòa thượng Đại Mai, tìm đến.    ' +
+'Lúc ấy, Câu Chi mới bày tỏ mọi sự và xin được dạy bảo. Thiên Long chẳng nói chẳng rằng, chỉ giơ một ngón tay lên.   ' +
+'Thấy thế, đột nhiên Câu Chi hiểu ra lẽ đạo.',
     commentBeforeVerse:
-      '',
+'Từ đó, lúc nào trả lời câu hỏi của học trò, lúc nào Câu Chi cũng chỉ đưa một ngón tay lên và không đề xướng một lý thuyết nào cả.   ' +
+'Giống như ý hai câu thơ của người xưa:   ' +
+'Bất kiến Tây Hồ Lâm Xử Sĩ - Nhất sinh thụ dụng chỉ mai hoa.   ' +
+'Chẳng thấy Tây Hồ Lâm Xử Sĩ - Một đời chỉ thiết mỗi hoa mai?   ' +
+'Nên Câu Chi cả đời sử dụng “nhất chỉ thiền” thôi là đã đủ.   ' +
+'Quên mất cái ngã (vong ngã, phủ định tự ngã, chân không vô tướng), rồi vô tâm, đưa thẳng một ngón tay lên (khẳng định tự ngã, chân không diệu hữu) để cho trời đất hoàn toàn tụ hội lại làm một.    ' +
+'Đó là yếu quyết của “nhất chỉ thiền”. Nói cách khác, trong cái “thiền một ngón tay” của thiền sư Câu Chi, cả đất trời như thu về một mối, thể hiện rõ ràng sự bình đẳng của các dị biệt.   ' +
+'Đúng ra thì khái niệm về bình đẳng và dị biệt đều bị bỏ qua một bên.   ' +
+'Duy một ngón tay đưa lên tượng trưng cho trạng thái “chỉ quản vô tâm” là còn đó.',
     verseOriginal:
-      '',
+'Câu Chi độn trí lão Thiên Long, / ' +
+'Lợi nhận đơn đề khám tiểu đồng. / ' +
+'Cự Linh đài thủ vô đa tử, / ' +
+'Phân phá Hoa Sơn thiên vạn trùng. ',
     verse:
-      '',
+'Câu Chi chơi xỏ lão Thiên Long / ' +
+'Dao bén đưa ra nhử tiểu đồng / ' +
+'Cự Linh phá núi Hoa bao lớp. / ' +
+'Cũng chỉ giơ tay, lọ tốn công',
     commentAfterVerse:
-      '',
+'Thế nhưng nếu mỗi người ai cũng đưa một ngón tay lên thì thử hỏi chúng ta sẽ cảm nhận được điều gì? Phiền não chăng? Bồ đề chăng? Tóm lại, chủ thể đưa ngón tay lên chính là đầu mối của vấn đề. Tự ngã (chúng sinh) đưa ngón tay lên thì không được.   ' +
+'Tự ngã vô tướng (Phật) đưa ngón tay lên thì mới được xem là “Phật tác Phật hành” (hành động của Phật). Ấy mới là yếu quyết về “thiền một ngón” của Thiên Long.   ' +
+'Thiền sư Dôgen (Đạo Nguyên) gọi nó là cái “diệu tu” (hành động cắt đứt với những tranh cãi phàm tục) của “bản chứng” (cái thấy được chứng ngộ bằng Phật).   ' +
+'Đó là “chỉ quán hành” của “ba la mật đa” (hoàn thành), sự tự phát triển của Bát Nhã (tâm tính bản thanh tĩnh). “Uy nghi tức Phật pháp, Tác pháp thị tôn chỉ”.   ' +
+'Trong trạng thái đó, mới thực hiện được cái gọi là “sinh hoạt thiền” với chủ trương “bình thường tâm thị đạo” (thiền trong cuộc sống bằng cái tâm bình thường).   ' +
+'Chú tiểu lúc đầu nhại theo thiền sư, đến khi bị chặt ngón tay rồi, mới đau đớn cảm thấy trời đất chỉ là một, đột nhiên quên mất tự ngã, rơi thẳng vào giữa trạng thái hư không,   ' + 
+'thế rồi con người với cái ta xưa nay (bản lai tự kỷ) nhìn thấy thầy mình đưa một ngón tay lên (chân như), bèn chợt hiểu ý nghĩa của thiền một ngón tay.',
   },
   {
       id: 4,
@@ -280,18 +322,17 @@ const GatelessGate = [
     id: 11,
     title: 'TẮC THỨ 11: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -299,18 +340,17 @@ const GatelessGate = [
     id: 12,
     title: 'TẮC THỨ 12: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -318,18 +358,17 @@ const GatelessGate = [
     id: 13,
     title: 'TẮC THỨ 13: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -337,18 +376,17 @@ const GatelessGate = [
     id: 14,
     title: 'TẮC THỨ 14: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -356,18 +394,17 @@ const GatelessGate = [
     id: 15,
     title: 'TẮC THỨ 15: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -375,18 +412,17 @@ const GatelessGate = [
     id: 16,
     title: 'TẮC THỨ 16: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -394,18 +430,17 @@ const GatelessGate = [
     id: 17,
     title: 'TẮC THỨ 17: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -413,18 +448,17 @@ const GatelessGate = [
     id: 18,
     title: 'TẮC THỨ 18: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -432,18 +466,17 @@ const GatelessGate = [
     id: 19,
     title: 'TẮC THỨ 19: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -451,18 +484,17 @@ const GatelessGate = [
     id: 20,
     title: 'TẮC THỨ 20: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -470,18 +502,17 @@ const GatelessGate = [
     id: 21,
     title: 'TẮC THỨ 21: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -489,18 +520,17 @@ const GatelessGate = [
     id: 22,
     title: 'TẮC THỨ 22: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -508,18 +538,17 @@ const GatelessGate = [
     id: 23,
     title: 'TẮC THỨ 23: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -527,18 +556,17 @@ const GatelessGate = [
     id: 24,
     title: 'TẮC THỨ 24: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -546,18 +574,17 @@ const GatelessGate = [
     id: 25,
     title: 'TẮC THỨ 25: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -565,18 +592,17 @@ const GatelessGate = [
     id: 26,
     title: 'TẮC THỨ 26: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -584,18 +610,17 @@ const GatelessGate = [
     id: 27,
     title: 'TẮC THỨ 27: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -603,18 +628,17 @@ const GatelessGate = [
     id: 28,
     title: 'TẮC THỨ 28: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -622,18 +646,17 @@ const GatelessGate = [
     id: 29,
     title: 'TẮC THỨ 29: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -641,18 +664,17 @@ const GatelessGate = [
     id: 30,
     title: 'TẮC THỨ 30: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -660,18 +682,17 @@ const GatelessGate = [
     id: 31,
     title: 'TẮC THỨ 31: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -679,18 +700,17 @@ const GatelessGate = [
     id: 32,
     title: 'TẮC THỨ 32: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -698,18 +718,17 @@ const GatelessGate = [
     id: 33,
     title: 'TẮC THỨ 33: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -717,18 +736,17 @@ const GatelessGate = [
     id: 34,
     title: 'TẮC THỨ 34: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -736,18 +754,17 @@ const GatelessGate = [
     id: 35,
     title: 'TẮC THỨ 35: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -755,18 +772,17 @@ const GatelessGate = [
     id: 36,
     title: 'TẮC THỨ 36: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -774,18 +790,17 @@ const GatelessGate = [
     id: 37,
     title: 'TẮC THỨ 37: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -793,18 +808,17 @@ const GatelessGate = [
     id: 38,
     title: 'TẮC THỨ 38: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -812,18 +826,17 @@ const GatelessGate = [
     id: 39,
     title: 'TẮC THỨ 39: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -831,18 +844,17 @@ const GatelessGate = [
     id: 40,
     title: 'TẮC THỨ 40: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -850,18 +862,17 @@ const GatelessGate = [
     id: 41,
     title: 'TẮC THỨ 41: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -869,18 +880,17 @@ const GatelessGate = [
     id: 42,
     title: 'TẮC THỨ 42: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -888,18 +898,17 @@ const GatelessGate = [
     id: 43,
     title: 'TẮC THỨ 43: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -907,18 +916,17 @@ const GatelessGate = [
     id: 44,
     title: 'TẮC THỨ 44: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -926,18 +934,17 @@ const GatelessGate = [
     id: 45,
     title: 'TẮC THỨ 45: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -945,18 +952,17 @@ const GatelessGate = [
     id: 46,
     title: 'TẮC THỨ 46: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -964,18 +970,17 @@ const GatelessGate = [
     id: 47,
     title: 'TẮC THỨ 47: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
@@ -983,18 +988,17 @@ const GatelessGate = [
     id: 48,
     title: 'TẮC THỨ 48: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
       '',
   },
 
