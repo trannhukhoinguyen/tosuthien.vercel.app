@@ -16,7 +16,7 @@
       "url": "/masterpieces",
       "hasChildren": true,
       "children": [
-        { "name": "روائع", "url": "/masterpieces" },
+        { "name": "شمعة مطفأة", "url": "/candle-off" },
         { "name": "Teachings", "url": "/teachings" },
         { "name": "Koans", "url": "/koans" }
       ]

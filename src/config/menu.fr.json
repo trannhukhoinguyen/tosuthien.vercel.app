@@ -16,7 +16,7 @@
       "url": "/masterpieces",
       "hasChildren": true,
       "children": [
-        { "name": "Masterpieces", "url": "/masterpieces" },
+        { "name": "bougie éteinte", "url": "/candle-off" },
         { "name": "Teachings", "url": "/teachings" },
         { "name": "Koans", "url": "/koans" }
       ]

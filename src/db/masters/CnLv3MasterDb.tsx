@@ -26,6 +26,7 @@ const CnLv3MasterDb = [
   {
     id: '36.3.2',
     generation: '36',
+    hasContent: true,
     name_en: 'Yaoshan Weiyan',
     name_es: 'Yaoshan Weiyan',
     name_de: 'Yaoshan Weiyan',
@@ -50,6 +51,7 @@ const CnLv3MasterDb = [
   {
     id: '36.3.3',
     generation: '36',
+    hasContent: true,
     name_en: 'Tianhuang Daowu',
     name_es: 'Tianhuang Daowu',
     name_de: 'Tianhuang Daowu',
@@ -74,6 +76,7 @@ const CnLv3MasterDb = [
   {
     id: '36.3.4',
     generation: '36',
+    hasContent: true,
     name_en: 'Dadian Baotong',
     name_es: 'Dadian Baotong',
     name_de: 'Dadian Baotong',
@@ -84,7 +87,7 @@ const CnLv3MasterDb = [
     name_ja: 'Daiten Hōtsū',
     name_ko: 'Dadian Baotong',
     name_ar: 'Dadian Baotong',
-    birth_death_time: ['?', '819'],
+    birth_death_time: ['732', '824'],
     records: '',
     sect: ['-'],
     country: 'China',
@@ -93,11 +96,15 @@ const CnLv3MasterDb = [
     successors: ['Sanping Yizhong'],
     disciples: ['Sanping Yizhong'],
     image: '/images/avatar.png',
-    reference: ['https://ngulucthien.com/thien-su-baothong-dai-dien-732-824/'],
+    reference: ['https://ngulucthien.com/thien-su-baothong-dai-dien-732-824/', 'https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_%C4%90i%C3%AAn_B%E1%BA%A3o_Th%C3%B4ng',
+    'https://giacngo.vn/thien-su-dai-dien-va-han-vu-post211.html', 'https://thuvienhoasen.org/a28617/han-du-thien-su-dai-dien-bao-thong',
+      'https://thienphatgiao.org/thien-su-trung-hoa-t1p12/'
+    ],
   },
   {
     id: '36.3.5',
     generation: '36',
+    hasContent: true,
     name_en: 'Danxia Tianran',
     name_es: 'Danxia Tianran',
     name_de: 'Danxia Tianran',
@@ -122,6 +129,7 @@ const CnLv3MasterDb = [
   {
     id: '36.3.6',
     generation: '36',
+    hasContent: true,
     name_en: 'Baizhang Huaihai',
     name_es: 'Baizhang Huaihai',
     name_de: 'Baizhang Huaihai',

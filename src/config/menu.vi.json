@@ -16,7 +16,7 @@
       "url": "/masterpieces",
       "hasChildren": true,
       "children": [
-        { "name": "Tuyệt tác", "url": "/masterpieces" },
+        { "name": "Tắt nến", "url": "/candle-off" },
         { "name": "Ngữ lục sách tấn", "url": "/teachings" },
         { "name": "Công án", "url": "/koans" }
       ]
