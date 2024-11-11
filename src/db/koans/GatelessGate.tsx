@@ -4,171 +4,226 @@ const GatelessGate = [
     id: 1,
     title: 'TẮC THỨ 1: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
-      '',
     main:
-      '',
-    commentBefore:
-      '',
+      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? ' + 
+'Hòa thượng Triệu Châu đáp: Không',
+    commentBeforeVerseExtra:
+      'Vô Môn nói rằng: Kẻ muốn tham thiền trước tiên phải vượt qua những ải chắn do các vị tổ sư đặt ra. Người muốn ngộ đạo một cách tuyệt diệu bắt buộc trải qua giai đoạn triệt để xóa sạch mọi ý thức. Nếu không vượt nổi ải chắn của tổ, không dẹp bỏ được mọi ý thức thì còn giống hồn phách phải nương tựa cây cỏ. Thế thì cửa ải của các tổ là gì nào? Ở đây nó chỉ là một chữ “Vô” (Không) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. ' +
+'Muốn dùng một cái tên ngắn gọn thì gọi nó là cái “Ải tên là Vô” hay “Ải không cửa” của nhà Thiền. ' + 
+'Kẻ vượt được cái ải chắn này rồi, chẳng những có thể gặp gỡ hòa thượng Triệu Châu, mắt trong mắt, mà còn có thể kết nối lông mi lông mày với chư vị tổ sư, nhìn mọi vật bằng bằng con mắt của tổ, nghe mọi tiếng bằng lỗ tai của tổ. Có phải thống khoái không? ' + 
+'Có ai muốn vượt qua cái cửa ải kỳ diệu này không? Nếu có thì hãy tổng động viên ba trăm sáu mươi lăm khớp xương cùng với tám vạn bốn nghìn lỗ chân lông, toàn thân tụ thành một “khối nghi ngờ lớn”, rồi tham thiền bằng một chữ Vô. Ngày cũng như đêm không lúc nào quên đặt vấn đề. ' +
+'Không nên coi chữ Vô này trong cái nghĩa “vô của hư vô” và cũng không nên nên hiểu nó trong cái nghĩa “vô của hữu vô”. ' +
+'Hãy làm như mình đang ngậm một hòn thép nóng bỏng ở trong miệng, muốn khạc ra mà không khạc được, muốn nuốt vào mà nuốt không trôi. 
+Rửa cho sạch hết những kiến thức sai lầm và giác ngộ giả dối đã có, rồi cùng với thời gian, dần dần tu luyện thuần thục, để cho thế giới bên trong và bên ngoài hợp nhất, không còn phân biệt chúng được nữa. ' + 
+'Điều đó giống như gã câm nằm mộng, chỉ một mình mình hiểu được mà không thể thổ lộ cùng ai. ' +
+'Đến khi thình lình chữ Vô ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. 
+Đứng bên bờ sinh tử mà thong dong tự tại, ở chỗ nào trong cõi lục đạo tứ sinh, dù sanh về đâu hay trở thành cái gì cũng thấy mình đang rong chơi thanh thản. ' + 
+'Hỏi rằng tiếp thu chữ Vô này bằng cách nào à? Hãy dồn hết khí lực bình sinh nghiền ngẫm cho đến khi sức cùng lực kiệt, nếu nỗ lực không chút gián đoạn thì chỉ cần châm một mồi lửa nhỏ trên Phật đàn đã thấy được ánh sáng của Phật pháp bừng tỏa tức khắc.',
+    commentAfterVerseExtra:
+      'Lược dịch lời bàn của Giáo sư Akizuki Ryômin: ' + 
+'Công án trên chỉ ngắn ngủi có mấy câu. Trong đó, chữ “Phật tính” có nghĩa là “bản tính của Phật”. Nhiều người giải thích là “khả năng thành Phật trong tương lai” nhưng thế thì không ổn. Bởi vì người tu Thiền chỉ nhìn “cái bây giờ, ở đây và chính mình” (tức kim, thử xứ, tự kỷ). Câu hỏi của người học thiền đó chỉ hàm ý: “Thế bây giờ tôi có phải là Phật hay không?”. ' + 
+'Giáo chủ Thích Ca đã ra tuyên ngôn “Nhất thiết chúng sinh, tất hữu Phật tính” (Tất cả chúng sinh đều có Phật tính). ' + 
+'Câu nói đó về sau thành căn bản của tư tưởng Phật giáo Đại Thừa. ' + 
+'Thế nhưng, người học thiền ở đây đã đưa ra một câu hỏi rất đứng đắn, có tính cách tôn giáo và hiện sinh: “Tôi đây cũng bình đẳng với muôn loài súc sinh, thế thì tôi có bản tính của Phật không nào?”. ' +
+'Ý thức được vấn đề như ông ta là một điều quan trọng. Suzuki Daisetsu, thầy tôi, gọi đó là yếu tố tri thức trong việc tham cứu công án và ông nhấn mạnh đến yếu tố này. ' + 
+'Ngày nay ở các đạo tràng tu thiền, người ta không có ý thức về vấn đề mà chỉ theo chủ tâm theo đòi một cách máy móc. ' + 
+'Thiền sư Bankei (Bàn Khuê) có nói như sau: 
+“Ví dụ có người xuất gia mất tấm cà sa, tìm cách nào cũng không ra, cứ thế mà đi tìm, không ngừng nghỉ một phút. Đó là bởi vì ông ta có “mối nghi” thực sự. Người thời bây giờ vì thấy người xưa từng nghi ngờ, cũng đâm nghi ngờ theo. Đó chỉ là mối nghi bắt chước chứ không phải mối nghi thực sự. Cho nên họ sẽ không bao giờ có ngày giác ngộ. Bởi vì không mất gì cả mà lại bảo là mất rồi cố đi tìm.” ' + 
+'Khi nào công án chưa trở thành vấn đề của chính mình, kết cục nó chỉ là chuyện học đòi bắt chước. Ý thức được vấn đề một cách nghiêm chỉnh mới là chuyện trọng đại. Cổ nhân nói “Kẻ đại nghi ắt sẽ đại ngộ” là vì cớ ấy.',
+    commentBeforeVerse:
+      'Nhân đây, nói về một chữ Vô (không) của thiền sư Triệu Châu, nếu đọc trong Triệu Châu Lục, rõ ràng là thiền sư đã trả lời “không” (Vô) để đối lại với “có” (Hữu) mà thôi. ' +
+'Nguyên điển chép thế này: Có người học thiền hỏi: Con chó cũng có Phật tính chứ? Sư đáp: Không đâu. ' +
+'Người học thiền: Trên từ chư Phật dưới tới con kiến, ai ai cũng có Phật tính, cớ sao con chó lại không?  ' +
+'Sư: Vì nó còn vướng cái nghiệp (những vọng tưởng phiền não như tích, dục, tăng, ái). 
+Chữ Vô về sau của Triệu Châu (Triệu Châu Vô tự) thành ra không phải là cái Vô đối ứng với Hữu (hữu-vô-vô hay tương-đối-vô) như trong câu chuyện trên. Cắt mất phần sau lời đối đáp của nguyên điển, trong công án, nó được hiểu là cái Vô tuyệt đối (tuyệt-đối-vô). Công án này có mục đích giúp cho bản thân người tu hành thể nghiệm được “cái Vô của phương Đông”. Nó không phải là cái Vô của đời Đường, thời đại Triệu Châu, mà là cái Vô của đời Tống đến sau, tức thời đại Ngũ Tổ Pháp Diễn! Chính vào khoảng thời gian đó, hình thức gọi là “công án thiền” (khán thoại thiền) mới được thành lập vững vàng, cho nên công án về sau còn được gọi là những “ám hiệu mật lệnh” dưới trướng Ngũ Tổ. ' +
+'Ngày nay công án này đã được hệ thống hóa và dùng vào việc giáo dục. Chúng ta là những người vốn chỉ biết thế giới mình sống, nghĩa là một thế giới có ý thức “phân biệt”, trong đó tự ngã là trung tâm, giữa Tha và Ngã có một tương quan đối lập. Trước tiên, phần tắc (cổ tắc, công án) giúp ta xác nhận bằng kinh nghiệm của mình là dưới đáy tận cùng của sự “phân biệt” ấy có một thế giới “bình đẳng”, “tha ngã là một” (tự tha nhất như) mà ta có thể biết đến khi ở trong trạng thái vô ngã. Thử đưa ra một ví dụ. Sở dĩ “sắc” và “hình” tồn tại được là vì có “không gian” (bình đẳng) chứ không thấy “không gian” nào tồn tại nhờ có “sắc” và “hình”. Từ khi có có cái Vô của “không gian” mới sinh ra cái Hữu có giới hạn của “sắc và “hình” vậy. ' +
+'Trong triết học của Nishida (Kitarô), ông đã luận về mối tương quan giữa “vật cá biệt” (cá thể) và “vật nói chung”, gọi chỗ đó là nơi cái Vô tồn tại. Muốn hiểu cái “Vô tuyệt đối”, nơi trú ngụ của tất cả mọi cá thể, thì không thể dùng suy tư. Phải dựa vào thể nghiệm trực tiếp mới bắt nắm được. Đó là ý nghĩa của chữ Vô trong công án.',
+    verseOriginal:
+      'Cẩu tử Phật tính, / ' +
+'Toàn đề chính lệnh. / ' +
+'Tài thiệp hữu vô, / ' +
+'Táng thân thất mệnh. ',
     verse:
-      '',
-    verseTranslated:
-      '',
-    commentAfter:
-      '',
+      'Phật tính của chó, / ' +
+'Đề tài chính đáng. / ' +
+'Mới bàn có, không, / ' +
+'Đã toi thân mạng'.'
+    commentAfterVerse:
+      'Trong phần bình xướng, thiền sư Vô Môn đã đưa ra câu trả lời thích đáng cho những ai muốn trải qua thể nghiệm này. Trước tiên ông cho biết người tu thiền phải vượt qua cái ải của chữ Vô, sau đó ông đánh giá cao công án về chữ ấy. Trong phần cuối, ông thuyết minh một cách thân ái cách tham cứu chữ Vô như thế nào. Trong đạo tràng của chúng tôi, việc tụng đọc lời nói và làm theo lời chỉ dạy của ông là một điều ai cũng cố gắng thực hiện. ' + 
+'Theo tôi, phần bình xướng nói trên, nhất là đoạn đầu, rất rõ, không cần phải thuyết minh gì thêm cho dài dòng. Phần thứ hai, Vô Môn bàn về cách tham cứu chữ Vô (thì cần phải nói thêm). Đó là sự tổng động viên hồn xác, kết thành “khối nghi ngờ lớn” (nghi đoàn) rồi tham cứu chữ Vô ngày đêm không nghỉ. Đừng có hiểu theo lối nhị nguyên (thiên kiến, dualism), cũng đừng rơi vào chủ nghĩa hư vô (đoạn kiến, nihilism). ' + 
+'Tham cứu chữ Vô đến độ cả mình (chủ quan) lẫn công án (khách quan) nhập làm một (đả thành nhất phiến). Lúc tự ngã và thế giới đều biến mất, chỉ còn cái Vô mà thôi. Đó là lúc đạt được trạng thái chính định (tam muội) của công án.Cái tâm phân biệt của tự ngã sẽ hóa ra “không”, chỉ còn lại mỗi cái vô ngã (vô tâm), tiếp xúc được với chốn gọi là “bình đẳng”. Rồi nếu gặp được cơ duyên gì, nó sẽ bất chợt bùng nổ ra (mạc nhiên đả phát), sinh ra sự thể long trời lở đất. Người ngộ đạo sẽ rứt bỏ được ràng buộc của Phật, tổ, cha mẹ, thân quyến, trở thành một “độc tôn Phật”, chủ thể tự do tự tại. Thể nghiệm cá nhân ấy giống như cảnh gả câm nằm mộng nhưng không kể lại giấc mộng ấy cho ai được cả. Đó là một thể nghiệm bằng trực giác của người uống nước, nóng hay lạnh chỉ có mình biết (lãnh hàn tự tri). ' + 
+'Lúc đó sẽ thoát khỏi mê lầm của vòng luân hồi, có thể rong chơi trong cõi trời đất. Khi tự giác được cái tôi vô ngã, vô tướng (vô vị chân nhân) là đã thấy được Phật tính của mình (kiến tính) vậy.',
   },
   {
     id: 2,
     title: 'TẮC THỨ 2: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
-      '',
     main:
+      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+    commentBeforeVerseExtra:
       '',
-    commentBefore:
+    commentAfterVerseExtra:
+      '',
+    commentBeforeVerse:
+      '',
+    verseOriginal:
       '',
     verse:
       '',
-    verseTranslated:
-      '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
     id: 3,
     title: 'TẮC THỨ 3: ',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
-    intro:
+   main:
+      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+    commentBeforeVerseExtra:
       '',
-    main:
+    commentAfterVerseExtra:
       '',
-    commentBefore:
+    commentBeforeVerse:
+      '',
+    verseOriginal:
       '',
     verse:
       '',
-    verseTranslated:
-      '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
       id: 4,
       title: 'TẮC THỨ 4: ',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
-      intro:
-        '',
       main:
-        '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
-        '',
+      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+    commentBeforeVerseExtra:
+      '',
+    commentAfterVerseExtra:
+      '',
+    commentBeforeVerse:
+      '',
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
+      '',
     },
   {
       id: 5,
       title: 'TẮC THỨ 5: ',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
-      intro:
-        '',
       main:
-        '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
-        '',
+      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+    commentBeforeVerseExtra:
+      '',
+    commentAfterVerseExtra:
+      '',
+    commentBeforeVerse:
+      '',
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
+      '',
     },
   {
       id: 6,
       title: 'TẮC THỨ 6: ',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
-      intro:
-        '',
       main:
-        '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
-        '',
+      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+    commentBeforeVerseExtra:
+      '',
+    commentAfterVerseExtra:
+      '',
+    commentBeforeVerse:
+      '',
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
+      '',
     },
   {
       id: 7,
       title: 'TẮC THỨ 7: ',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
-      intro:
-        '',
       main:
-        '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
-        '',
+      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+    commentBeforeVerseExtra:
+      '',
+    commentAfterVerseExtra:
+      '',
+    commentBeforeVerse:
+      '',
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
+      '',
     },
   {
       id: 8,
       title: 'TẮC THỨ 8: ',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
-      intro:
-        '',
       main:
-        '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
-        '',
+      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+    commentBeforeVerseExtra:
+      '',
+    commentAfterVerseExtra:
+      '',
+    commentBeforeVerse:
+      '',
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
+      '',
     },
   {
       id: 9,
       title: 'TẮC THỨ 9: ',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
-      intro:
-        '',
       main:
-        '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
-        '',
+      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+    commentBeforeVerseExtra:
+      '',
+    commentAfterVerseExtra:
+      '',
+    commentBeforeVerse:
+      '',
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
+      '',
     },
   {
       id: 10,
       title: 'TẮC THỨ 10: ',
       image: '/images/gateless-gate/gateless-gate-cover.jpg',
-      intro:
-        '',
       main:
-        '',
-      commentBefore:
-        '',
-      verse:
-        '',
-      verseTranslated:
-        '',
-      commentAfter:
-        '',
+      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? Hòa thượng Triệu Châu đáp: Không',
+    commentBeforeVerseExtra:
+      '',
+    commentAfterVerseExtra:
+      '',
+    commentBeforeVerse:
+      '',
+    verseOriginal:
+      '',
+    verse:
+      '',
+    commentAfterVerse:
+      '',
     },
 
   {
