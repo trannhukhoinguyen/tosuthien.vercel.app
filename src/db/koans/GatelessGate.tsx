@@ -559,7 +559,7 @@ const GatelessGate = [
     title: 'TẮC THỨ 21: Que cứt của Vân Môn (Vân Môn thỉ quyết)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa Thượng Vân Môn[2], nhân có tăng hỏi: Phật là gì nhỉ? ' +
+'Hòa Thượng Vân Môn, nhân có tăng hỏi: Phật là gì nhỉ? ' +
 'Bèn trả lời: Que cứt khô!',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
@@ -812,7 +812,7 @@ const GatelessGate = [
 'Không phải gió động, không phải phướn động. Ngay cả cái tâm (của Lục Tổvà những ai ngộ đạo, LND) cũng chẳng động nốt. ' +  
 'Thế thì, Lục Tổ nhìn ở đâu vậy? (Phải nhìn ở đâu để rõ diện mục của Lục Tổ?) ' +  
 'Nếu có người nào nghĩ được thấu suốt điểm này, hợp nhất với ý kiến của Lục Tổ, thì có lẽ sẽ hiểu rằng hai vị tăng như người đi mua sắt mà bắt được vàng. ' +  
-'Dù vậy vì Lục Tổ (quá tử tế nên) không nhịn cười được[5] làm ông thành ra một kẻ đang diễn màn kịch vụng về',
+'Dù vậy vì Lục Tổ (quá tử tế nên) không nhịn cười được làm ông thành ra một kẻ đang diễn màn kịch vụng về',
     verseOriginal:
 'Phong phan tâm động / ' +
 'Nhất trạng lãnh quá / ' +
@@ -1132,25 +1132,35 @@ const GatelessGate = [
     title: 'TẮC THỨ 42: Cô gái xuất thiền định (Nữ nhân xuất định)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Khi xưa, có lần Bồ Tát Văn Thù[2] đến nơi chỗ chư Phật hội họp với Đức Thế Tôn thì vừa vặn hội đã tan, các vị ấy đều trở về bản địa cả rồi. ' +  
+'Chỉ còn một người con gái ngồi rất gần bên ngài, cứ như thế mà tiếp tục nhập định (tam muội). ' +  
+'Bồ Tát Văn Thù thấy vậy bèn bạch với Thế Tôn: Cớ sao người thiếu nữ có thể ngồi sát bên Phật tòa mà đệ tử không được phép. ' + 
+'Nghe thế, Thế Tôn mới dạy: Nhà ngươi hãy thử làm cho người gái này xuất định rồi trực tiếp hỏi chắc hay hơn! ' + 
+'Do đó, Bồ Tát bèn đi quanh (tay mặt) người ấy ba vòng, búng ngón tay một cái thành tiếng rồi đặt nàng lên tay đưa lên thượng giới (Phạm Thiên), ' +  
+'vận dụng hết sức thần thông để gọi nhưng vẫn không tài nào kéo cô ta ra khỏi trạng thái nhập định. ' + 
+'Thế Tôn lại phán: Cho dù hàng trăm hàng nghìn Văn Thù hiệp sức lại cũng không làm cho người này xuất định được đâu. ' +  
+'Phía dưới đây, ở một nơi xa thẳm qua khỏi cả thập nhị ức hà sa quốc thổ, có một vị Bồ Tát tên là Võng Minh. ' +  
+'Chỉ có vị này may ra mới làm cho người con gái này xuất định được. ' + 
+'Ngay lúc ấy, Võng Minh Đại Sĩ từ phía dưới bay vọt lên, sụp lạy ra mắt Đức Thế Tôn. ' +  
+'Rồi sau khi Thế Tôn ra lệnh cho Võng Minh, ông này mới đến trước mặt nàng búng tay một cái thành tiếng. ' +  
+'Cuối cùng, lúc ấy, người con gái mới xuất định',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Cái lão Thích Ca khéo đóng trò kịch cỡm (tạp kịch). Nhưng hắn cũng có chút tài mọn đấy chứ! Này, nói thử nghe coi! ' +  
+'Người thầy của bảy vị Phật trong quá khứ là Bồ Tát Văn Thù vì cớ gì lại không thể kéo cô gái kia ra khỏi trạng thái thiền định?  ' + 
+'Chứ Bồ Tát Võng Minh chi chi đó, bất quá là một anh tu hành cấp bậc thấp kém nhất (Sơ địa Bồ tát), làm sao có thể kéo cô kia xuất định được nhỉ. ' + 
+'Nhưng nếu ở đây ai có năng lực nhìn thấu suốt vấn đề thì sẽ thấy rằng con người đang bị túc nghiệp (nghiệp trong quá khứ) ' + 
+'dẫn dắt (lúc quay phải lúc quay trái) cũng có thể đi đến chỗ đại thiền định',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Xuất đắc xuất bất đắc / ' + 
+'Cừ nùng đắc tự do / ' + 
+'Thần đầu tịnh quỉ diện / ' + 
+'Bại khuyết đáng phong lưu',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Xuất ra khỏi định hay không xuất / ' + 
+'Người với ta đều được tự do / ' + 
+'Đầu thần, mặt quỉ đem ra diễn / ' + 
+'Dù cho thất bại vẫn ra trò',
   },
 
   {
@@ -1158,25 +1168,24 @@ const GatelessGate = [
     title: 'TẮC THỨ 43: Gậy trúc của Thủ Sơn (Thủ Sơn trúc bề)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Hòa Thượng Thủ Sơn chìa ra cây gậy trúc và hỏi tăng chúng: ' +  
+'Này cái ngươi, nếu gọi vật này là cây gậy trúc sẽ bị coi là động chạm (xúc), ' +  
+'còn nếu không gọi nó là gậy trúc thì sẽ bị cho là quay lưng lại (bội). ' +  
+'Hãy nói ta nghe các ngươi gọi nó là gì?',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Nếu gọi là cây gậy trúc sẽ bị ràng buộc bởi cái danh xưng, còn như không gọi là cây gậy trúc thì thành ra coi thường nó. ' +  
+'Nói cũng dở mà im lại không xong. Nhanh lên! Nhanh lên! Trả lời xem ta phải làm cách nào!',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Niêm khởi trúc bề / ' + 
+'Hành sát hoạt lệnh / ' + 
+'Bội, xúc, giao trì / ' + 
+'Phật, Tổ, khất mệnh.',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Chỉ cần que trúc mới đưa ra / ' + 
+'Giết chết, hồi sinh, một lệnh ta / ' + 
+'Đụng chạm, coi thường, đều phải tội / ' + 
+'Phật Đà, sư tổ thảy xin tha',
   },
 
   {
@@ -1184,25 +1193,23 @@ const GatelessGate = [
     title: 'TẮC THỨ 44: Cây trượng của Ba Tiêu (Ba Tiêu trụ trượng)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Hòa Thượng Ba Tiêu nói trước chúng tăng môn hạ: ' + 
+'Nếu các ngươi có được cây trụ trượng, ta sẽ cho các ngươi cây trụ trượng. ' + 
+'Còn như các ngươi không có cây trụ trượng, ta sẽ lấy lại cây trụ trượng của các ngươi.',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Khi qua sông cầu gãy, nó giúp ta tựa vào, đi về làng đêm không trăng tối mịt, nó lại dắt ta. ' + 
+'Vật đó nếu ai nhỡ mồm gọi là cây trụ trượng thì sẽ được xuống địa ngục nhanh như tên bắn',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Chư phương thâm dử thiển / ' + 
+'Đô tại chưởng ác trung / ' + 
+'Sanh thiên tịnh trụ địa / ' + 
+'Tùy xứ chấn tông phong',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Bốn phương dù sâu cạn / ' + 
+'Đều nắm giữa lòng tay / ' + 
+'Mầy chống trời đỡ đất / ' + 
+'Khắp chốn rạng tông thầy',
   },
 
   {
@@ -1210,25 +1217,22 @@ const GatelessGate = [
     title: 'TẮC THỨ 45: Người đó là ai? (Tha thị a thùy)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Thiền sư Đông Sơn Pháp Diễn nói: Dù cho Thích Ca hay Di lặc đi chăng nữa, cũng chỉ là đầy tớ cho người đó. ' + 
+'Vậy thử hỏi tên họ người đó là chi?',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Nếu như có năng lực nhìn rõ ràng được nhân vật này là ai thì cũng giống như nhận ra được ông bố của mình giữa phố phường đông đúc vậy. ' +  
+'Bây giờ lại còn đem việc bố mình là ai mà hỏi thiên hạ thì có phải chuyện cần thiết hay không?',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Tha cung mạc vãn / ' +
+'Tha mã mạc kỵ / ' +
+'Tha phi mạc biện / ' +
+'Tha sự mạc tri.',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Cung người đừng giương nhé / ' +
+'Ngựa người chớ đòi phi / ' +
+'Người sai đừng thèm cãi / ' +
+'Chuyện người biết để chi',
   },
 
   {
@@ -1236,25 +1240,30 @@ const GatelessGate = [
     title: 'TẮC THỨ 46: Người leo đầu sào (Can đầu tiến bộ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Hòa thượng Thạch Sương nói rằng: Khi đã leo lên tới đầu cây sao cao trăm thước rồi, hỏi làm cách nào để tiến thêm một bước nữa? ' + 
+'Lại có một vị cổ đức dạy: / ' +
+'Bách xích can đầu tọa để nhân / ' + 
+'Tuy nhiên đắc nhập vi vi chân / ' + 
+'Bách xích can đầu, tu tiến bộ / ' + 
+'Thập phương thế giới hiện toàn thân / ' +
+'Sào cao trăm thước đã ngồi đây / ' + 
+'Tuy vững nhưng chưa thấu đạo dày / ' + 
+'Muốn thế, đầu sào nên bước tiếp / ' + 
+'Mười phương thế giới hiện cho ngay',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Nếu như chỉ cần tiến thêm một bước nữa thôi mà mười phương thế giới đều hiện ra được trên thân mình (tiến đắc bộ, phiên đắc thân) thì ngại gì không leo lên cái chỗ (Thế) ấy để được tôn quí (Tôn)! ' +  
+'Nói vậy chứ, biết thì thử nói nghe coi, người đã đứng trên đầu ngọn sào trăm thước rồi, làm sao tiến thêm một bước nữa đây. Hà!',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Hạt khước đính môn nhãn / ' + 
+'Thác nhận Định Bàn Tinh / ' + 
+'Phan thân năng xả mệnh / ' + 
+'Nhất manh dẫn chúng manh',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Nếu như tâm nhãn đã lòa / ' + 
+'Nhòm sao nào cũng nhầm cả / ' + 
+'Thiệt thân táng mạng mà thôi / ' + 
+'Như mù dắt mù kiếm lối',
   },
 
   {
@@ -1262,25 +1271,30 @@ const GatelessGate = [
     title: 'TẮC THỨ 47: Ba ải của Đâu Suất (Đâu Suất tam quan)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Hòa Thượng Đâu Suất Tùng Duyệt dựng 3 cửa ải (đặt ba vấn đề) để hỏi người tu học: ' +
+'1-Ông tham thiền các nơi, thâu thập được nhiều cơ sở về tôn chỉ (bát thảo tham huyền) hẳn chỉ vì một lý do mà thôi, đó là tìm hiểu cho được bản tính của mình (kiến tính). ' + 
+'Thế thì ngay ở đây, bây giờ, thử hỏi cái bản tính của ông (tự tính) nằm ở chỗ nào? ' +
+'2-Chỉ cần nắm được vững vàng cái bản tính của mình thôi, nhất định sẽ thoát khỏi sự mê muội trong vòng sinh tử. ' + 
+'Như gặp trường hợp sắp sửa chết (nhãn quang thoát thì), thử hỏi ông làm cách nào để thoát ra khỏi tấm thân của mình? ' +
+'3-Nếu thóat được khỏi vòng sinh tử thì sẽ biết khi chết rồi mình sẽ đi về đâu. ' + 
+'Thế thì khi xương thịt của ông tan rã (tứ đại phân ly), ông định lựa hướng nào mà đi đây?',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Nếu như khi đứng trước ba câu hỏi như thế này mà đưa ra được những câu trả lời đúng đắn và chân thực để khai ngộ (chuyển ngữ) ' + 
+'thì cho dù ở đâu cũng tiếp tục giữ được chủ thể tính (tác chủ) mà không hề bị hoàn cảnh chi phối. ' + 
+'Rồi nếu được cơ duyên nào đó dẫn dắt (ngộ duyên), cứ thế mà đi đúng theo Phật đạo (tức Tông). ' + 
+'Thế nhưng nếu cho mình chưa tìm ra câu trả lời thì nên bỏ lối ăn uống ngấu nghiến sao cho đầy bụng mà ăn uống từ tốn, ' + 
+'nhai cho kỹ lưỡng để chịu đói được lâu',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Nhất niệm phổ quan vô lượng kiếp / ' + 
+'Vô lượng kiếp sự tức như kim / ' + 
+'Như kim thứ phá cá nhất niệm / ' + 
+'Thứ phá như kim thứ để nhân',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Trong sát na thấy muôn ngàn kiếp / ' + 
+'Thì muôn ngàn kiếp tức giờ đây / ' + 
+'Một sát na này mà hiểu thấu / ' + 
+'Sẽ rõ con người của hiện nay',
   },
 
   {
@@ -1288,25 +1302,28 @@ const GatelessGate = [
     title: 'TẮC THỨ 48: Một đường của Càn Phong (Càn Phong nhất lộ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Có hôm, một tăng sĩ hỏi Hòa thượng Càn Phong: Theo kinh sách thì “Thập vạn chư Phật đều đi theo một con đường để được vào cửa Niết Bàn thanh tịnh”. ' + 
+'Bây giờ tôi vẫn chưa biết con đường đó bắt đầu ở đâu? ' +
+'Càn Phong mới cầm cây trụ trượng giơ lên, vạch một đường trên không trung và nói: Nó ở đây nầy! ' +
+'Sau đó, vị tăng đó lại đến hỏi thêm với Hòa thượng Vân Môn, và xin được dạy bảo cùng một chuyện. ' + 
+'Vân Môn bèn đưa cây quạt mình vẫn nắm trên tay lên, trả lời: Quạt này bay lên Tam Thập Tam Thiên, đâm thốc vào lỗ mũi của Đế Thích. ' + 
+'Đánh xong một gậy vào con lý ngư ở Đông Hải thì mưa to giáng xuống như cầm chỉnh đổ',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Một người xuống tận đáy bể sâu mà đi, cát tung bụi bốc, một người đứng trên núi cao, dậy sóng bạc ngàn trùng, ngập lụt đất trời. ' + 
+'Kẻ nắm chặt chẽ, người lại buông lơi, thế mà cùng nhau mỗi bên đưa một cánh tay, hợp sức đỡ nhà Thiền được vững! ' + 
+'Thoạt tưởng (chuyện nguy hiểm như) hai thớt lạc đà đâm vào nhau mà trên đời này không ai can thiệp nổi. ' + 
+'Nếu mà giương chính nhãn nhìn thật tỏ tường, mới thấy Càn Phong lẫn Vân Môn, cả hai ông vẫn chưa biết đường lên Niết Bàn bắt đầu từ điểm nào',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Vị cử bộ thời tiên dĩ đáo / ' + 
+'Vị động thiệt thời tiên thuyết liễu / ' + 
+'Trực nhiêu trước trước tại cơ tiên / ' + 
+'Cánh tu tri hữu hướng thượng khiếu',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Chân bước chưa ra, tới trước rồi / ' + 
+'Lưỡi toan ngọ ngoạy, đã xong lời / ' + 
+'Nhớ cho trăm sự dù mau mắn / ' + 
+'Đích ấy đường lên vạn dặm khơi',
   },
 
 ]
