@@ -731,7 +731,7 @@ const GatelessGate = [
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
 'Việc làm của Hòa Thượng Nam Tuyền giống như người bị hành hung phải dốc tuốt tuột gia tư điền sản mà đưa cho. ' + 
-'Khổ thân (mệt nhọc) như thế, (ích gì)?',
+'Khổ thân (mệt nhọc) như thế (ích gì)?',
     verseOriginal:
 'Đinh ninh tổn quân đức / ' +
 'Vô ngôn chân hữu công / ' +
@@ -819,7 +819,7 @@ const GatelessGate = [
 'Chỉ tri khai khẩu / ' +
 'Bất giác thoại đọa',
     verse:
-'Gió, phướn, tâm đều động / ' +,
+'Gió, phướn, tâm đều động / ' +
 'Tội ấy của cả bầy / ' +
 'Lục Tổ nói chi vậy? / ' +
 'Bỗng dưng bị lộ tẩy!',
@@ -1106,25 +1106,25 @@ const GatelessGate = [
     title: 'TẮC THỨ 41: Đạt Ma làm yên lòng (Đạt Ma an tâm)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
-'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao!',
+'Đạt Ma quay mặt vào vách tọa thiền. Nhị Tổ Huệ Khả cứ đứng mãi trong tuyết. Tự chặt rụng cánh tay mình và nói: Tâm đệ tử hãy còn bất an. Xin thầy giúp cho được yên. ' + 
+'Đạt Ma mới bảo: Được, đem cái tâm đến đây cho ta. Ta sẽ vì ngươi giúp cho nó được yên. ' + 
+'Nhị Tổ Huệ Khả trả lời: Thưa đã cố tìm khắp mọi nơi nhưng chẳng thấy cái tâm của mình ở đâu cả. ' + 
+'Đạt Ma đáp: Như thế ta đã làm cho tâm ngươi yên xong rồi đấy.',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' + 
-'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
-'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
-'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ!',
+'Cái lão Hồ móm mém (khuyết xỉ lão Hồ) vượt vạn dặm đường biển lặn lội đến đây, đúng là đã gây ra điều phiền phức như lúc không có gió mà lại dậy sóng. ' +  
+'Đến khi sắp chết rốt cuộc mới có được một mống đệ tử để truyền nghề mà xem ra hắn là dân chưa có đủ căn cơ. ' +  
+'Hỡi ôi, sao giống như cái anh Tạ Tam Lang, đúng là dân mù chữ',
     verseOriginal:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Tây lai trực chỉ / ' + 
+'Sự nhân chúc khỉ / ' + 
+'Nạo quát tùng lâm / ' + 
+'Nguyên lai thị nhĩ',
     verse:
-'Bần tự Phạm Đan / ' + 
-'Khí như Hạng Vũ / ' + 
-'Hoạt kế tuy vô / ' + 
-'Cảm dữ đấu phú',
+'Đi thẳng về Đông từ phương Tây / ' + 
+'Dặn dò? Chỉ vẽ chuyện như ngây / ' + 
+'Giờ còn làm nhặng inh thiền tự / ' + 
+'Trăm sự đều do một chú mầy!',
   },
 
   {
