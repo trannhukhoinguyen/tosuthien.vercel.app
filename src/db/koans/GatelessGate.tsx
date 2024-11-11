@@ -13,8 +13,8 @@ const GatelessGate = [
 'Kẻ vượt được cái ải chắn này rồi, chẳng những có thể gặp gỡ hòa thượng Triệu Châu, mắt trong mắt, mà còn có thể kết nối lông mi lông mày với chư vị tổ sư, nhìn mọi vật bằng bằng con mắt của tổ, nghe mọi tiếng bằng lỗ tai của tổ. Có phải thống khoái không? ' + 
 'Có ai muốn vượt qua cái cửa ải kỳ diệu này không? Nếu có thì hãy tổng động viên ba trăm sáu mươi lăm khớp xương cùng với tám vạn bốn nghìn lỗ chân lông, toàn thân tụ thành một “khối nghi ngờ lớn”, rồi tham thiền bằng một chữ Vô. Ngày cũng như đêm không lúc nào quên đặt vấn đề. ' +
 'Không nên coi chữ Vô này trong cái nghĩa “vô của hư vô” và cũng không nên nên hiểu nó trong cái nghĩa “vô của hữu vô”. ' +
-'Hãy làm như mình đang ngậm một hòn thép nóng bỏng ở trong miệng, muốn khạc ra mà không khạc được, muốn nuốt vào mà nuốt không trôi. 
-Rửa cho sạch hết những kiến thức sai lầm và giác ngộ giả dối đã có, rồi cùng với thời gian, dần dần tu luyện thuần thục, để cho thế giới bên trong và bên ngoài hợp nhất, không còn phân biệt chúng được nữa. ' + 
+'Hãy làm như mình đang ngậm một hòn thép nóng bỏng ở trong miệng, muốn khạc ra mà không khạc được, muốn nuốt vào mà nuốt không trôi. ' + 
+'Rửa cho sạch hết những kiến thức sai lầm và giác ngộ giả dối đã có, rồi cùng với thời gian, dần dần tu luyện thuần thục, để cho thế giới bên trong và bên ngoài hợp nhất, không còn phân biệt chúng được nữa. ' + 
 'Điều đó giống như gã câm nằm mộng, chỉ một mình mình hiểu được mà không thể thổ lộ cùng ai. ' +
 'Đến khi thình lình chữ Vô ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. 
 Đứng bên bờ sinh tử mà thong dong tự tại, ở chỗ nào trong cõi lục đạo tứ sinh, dù sanh về đâu hay trở thành cái gì cũng thấy mình đang rong chơi thanh thản. ' + 
