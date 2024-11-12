@@ -1,0 +1,22 @@
+---
+title: "Tham Thiền Cảnh Ngữ"
+meta_title: "Tham Thiền Cảnh Ngữ""
+description: "Tham Thiền Cảnh Ngữ - Thiền sư Bác Sơn Nguyên Lai"
+date: 2024-11-12
+image: "/images/meta-image-wide.jpg"
+tags: ['Alerts']
+draft: false
+---
+
+import VintagePost from "../../../layouts/components/VintagePost.astro";
+import ZenPracticeAlerts from "../../../db/teachings/ZenPracticeAlerts.tsx";
+
+<VintagePost
+  hasMultiParagraph={true}
+  bookTitle={ ZenPracticeAlerts?.title }
+  author={ ZenPracticeAlerts?.author }
+  image={ ZenPracticeAlerts?.image }
+  intro={ ZenPracticeAlerts?.intro }
+  multiParagraph={ Array.from({ length: 58 }, (_, i) => ZenPracticeAlerts[`paragraph${i + 1}`]) }
+  longVerse={ ZenPracticeAlerts?.verse }
+/>

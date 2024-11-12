@@ -12,27 +12,11 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
 import GuishanAlert from "../../../db/teachings/GuishanAlert.tsx";
 
 <VintagePost
-  hasContents={true}
+  hasMultiParagraph={true}
   bookTitle={ GuishanAlert?.title }
   author={ GuishanAlert?.author }
   image={ GuishanAlert?.image }
   intro={ GuishanAlert?.intro }
-  content1={ GuishanAlert?.content1 }
-  content2={ GuishanAlert?.content2 }
-  content3={ GuishanAlert?.content3 }
-  content4={ GuishanAlert?.content4 }
-  content5={ GuishanAlert?.content5 }
-  content6={ GuishanAlert?.content6 }
-  content7={ GuishanAlert?.content7 }
-  content8={ GuishanAlert?.content8 }
-  content9={ GuishanAlert?.content9 }
-  content10={ GuishanAlert?.content10 }
-  content11={ GuishanAlert?.content11 }
-  content12={ GuishanAlert?.content12 }
-  content13={ GuishanAlert?.content13 }
-  content14={ GuishanAlert?.content14 }
-  content15={ GuishanAlert?.content15 }
-  content16={ GuishanAlert?.content16 }
-  content17={ GuishanAlert?.content17 }
+  multiParagraph={ Array.from({ length: 17 }, (_, i) => GuishanAlert[`paragraph${i + 1}`]) }
   longVerse={ GuishanAlert?.verse }
 />
