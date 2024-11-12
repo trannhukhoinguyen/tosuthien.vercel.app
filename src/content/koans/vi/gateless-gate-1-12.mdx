@@ -13,22 +13,12 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
 
 <div class="container vi-koans">
 
-  # VÔ MÔN QUAN - 碧巖錄 (1 - 12)
-
-  #### [Thiền sư] <em>Vô Môn Huệ Khai (Wumen Huìkai)</em>
-
-  #### Dẫn nhập và chú giải: [Đại sư] <em>Nishimura Eshin</em>
-
-  #### Việt dịch: [Đại sư] <em>Nguyễn Nam Trân</em>
-
-  ***
-
   {
     GatelessGate
       ?.filter(koan => koan.id >= 1 && koan.id <= 12)
       ?.map(koan => {
         if (koan.id%12 === 1) {
-          return <VintagePost bookTitle={'Vô Môn Quan'} author={'Vô Môn Huệ Khai (Wumen Huìkai)'}
+          return <VintagePost bookTitle={'Vô Môn Quan (1 - 12)'} author={'Vô Môn Huệ Khai (Wumen Huìkai)'}
                        chapterTitle={koan.title} image={koan.image}
                        intro={koan.intro} main={koan.main}
                               commentBeforeVerseExtra={koan.commentBeforeVerseExtra}

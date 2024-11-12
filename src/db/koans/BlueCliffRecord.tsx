@@ -44,22 +44,22 @@ const BlueCliffRecord = [
     commentBeforeVerseExtra:
       'Đạt Ma từ xa nhìn thấy đất này (Trung Hoa) có căn khí Đại Thừa, cho nên mới lênh đênh vượt biển mà tới, quyết ý trao truyền tâm ấn, khai ngộ nẻo mê, không lập văn tự, chỉ thẳng vào tâm, để người ta thấy tự tính của mình mà chứng thành Phật đạo.' +
       'Nếu ai có thể thấy được như thế đương nhiên cũng được giải thoát, không còn bị tất cả các hệ lụy của ngôn ngữ ràng buộc, lập tức siêu việt lên tất cả chứng thành ngay Phật tính.' +
-      'Sau đó mới có thể nói chuyện với Vũ Đế cũng như thấy rõ cái chỗ an tâm của Nhị Tổ.Không còn những so đo phân biệt của cảm quan, cắt đứt tất cả những thứ này, bình thản tự tại, cần gì còn phải phân biệt thị phi, tính toán được mất? Tuy là như vậy, song mấy ai có thể như thế? ' +
-      '' +
+      'Sau đó mới có thể nói chuyện với Vũ Đế cũng như thấy rõ cái chỗ an tâm của Nhị Tổ.Không còn những so đo phân biệt của cảm quan, cắt đứt tất cả những thứ này, bình thản tự tại, cần gì còn phải phân biệt thị phi, tính toán được mất? ' +
+      'Tuy là như vậy, song mấy ai có thể như thế? ' +      
       'Vũ Đế thường mặc áo cà sa, đích thân giảng Kinh Phóng Quang Bát Nhã, giảng sống động đến mức khiến hoa trời rơi tơi tả xuống đất biến thành ngọc lưu ly. ' +
-      'Vũ Đế còn học Đạo thờ Phật, ra lệnh cho thiên hạ xây chùa độ tăng, tu hành theo giáo lý. Thiên hạ gọi ông là Phật Tâm Thiên Tử. ' +
-      '' +
+      'Vũ Đế còn học Đạo thờ Phật, ra lệnh cho thiên hạ xây chùa độ tăng, tu hành theo giáo lý. Thiên hạ gọi ông là Phật Tâm Thiên Tử. ' +      
       'Lúc Đạt Ma mới đến gặp Vũ Đế, Vũ Đế bèn hỏi , “Trẫm xây chùa độ tăng, như thế có công đức chăng?” Đạt Ma nói “ Chẳng có công đức gì cả”. ' +
       'Như thế chẳng khác gì xối nước bẩn lên đầu người ta. Nếu như ai hiểu được câu nói “ chẳng có công đức gì cả” này, kể như người ấy đủ khả năng đối diện Đạt Ma. ' +
       'Thử nói xem xây chùa độ tăng mà lại chẳng có công đức gì cả? ý nghĩa lời này là ở đâu? ' +
-      '' +
-      'Vũ Đế thường cùng Lũ Ước Pháp sư, Phó Đại Sĩ, và Chiêu Minh Thái Tử bàn luận về hai sự thật cứu cánh và công ước. Cứ theo như trong giáo lý thì sự thật cứu cánh là để giải minh phi hữu, sự thật công ước là để giải minh phi-vô. Cứu cánh và công ước không phải là hai, đó chính là sự thật tuyệt đối siêu phàm. ' +
+      'Vũ Đế thường cùng Lũ Ước Pháp sư, Phó Đại Sĩ, và Chiêu Minh Thái Tử bàn luận về hai sự thật cứu cánh và công ước. ' +
+      'Cứ theo như trong giáo lý thì sự thật cứu cánh là để giải minh phi hữu, sự thật công ước là để giải minh phi-vô. Cứu cánh và công ước không phải là hai, đó chính là sự thật tuyệt đối siêu phàm. ' +
       'Đó là chỗ vi diệu huyền ảo nhất mà hỏi Đạt Ma, “ Thế nào là sự thật cứu cánh siêu phàm?” ' +
       'Đạt Ma nói, “ Trống không chẳng có gì là siêu phàm”. ' +
       'Tất cả các tăng sĩ trong thiên hạ không ai nhảy ra khỏi chỗ này nổi cả. Đạt Ma dùng một đao cắt đứt tất cả chấp trước cho Vũ Đế. ' +
       'Nay người ta mới hiểu lầm làm sao, lại dở trò tinh quái trợn mắt mà nói, “trống không chẳng có gì ăn nhằm đến lời dạy của Đạt Ma cả. ' +
       'Ngũ Tổ thường nói, “Chỉ cần người ta có thể hiểu thấu cái nguyên lý trống không chẳng có gì là siêu phàm này là người ta có thể về nhà ngồi bình thản” ' +
-      'Một bên thì thiên hạ lo tạo ra những phức tạp, song cũng chẳng hại gì đến việc Đạt Ma đập vỡ cái thùng đen cho họ. Đạt Ma chính là người kỳ đặc nhất trong vấn đề này. Cho nên mới có lời nói, “ Nếu như có thể tham hiểu một câu, thì có thể hàng vạn câu một lúc”. ' +
+      'Một bên thì thiên hạ lo tạo ra những phức tạp, song cũng chẳng hại gì đến việc Đạt Ma đập vỡ cái thùng đen cho họ. Đạt Ma chính là người kỳ đặc nhất trong vấn đề này. ' + 
+      'Cho nên mới có lời nói, “ Nếu như có thể tham hiểu một câu, thì có thể hàng vạn câu một lúc”. ' +
       'Lúc ấy đương nhiên người ta có thể thấu rõ, nắm vững. Cổ nhân nói, “Tan Xương nát thịt không đủ trả, hiểu được một câu vượt trăm ức” ' +
       'Đạt ma đối diện trực tiếp với Vũ Đế, lận đận biết bao. ' +
       'Vũ Đế không giác ngộ, lại còn dựa vào kiến chấp, nhân ngã, hỏi thêm một câu, “Đối diện với Trẫm là ai?” ' +
@@ -96,7 +96,6 @@ const BlueCliffRecord = [
       'Rốt cuộc còn sinh khởi lòng ganh ghét và mấy bận toan đầu độc Đạt Ma. ' +
       'Đến lần thứ sáu, vì hóa duyên đã trọn vẹn, và cũng đã tìm được người để truyền Pháp, bèn thản nhiên chấp nhận, rồi ngồi thẳng thắn mà mất. ' +
       'Đạt Ma được mai tang ở chùa Định Lâm trên núi Hùng Nhĩ.' +
-      '' +
       'Sau này người nước Ngụy là Tống Vân trên đường đi sứ có gặp Đạt Ma trên ngọn Thông Lĩnh tay cầm một chiếc dép trở về Ấn Độ. ' +
       'Vũ Đế thương tiếc, tự soạn văn bia rằng, “Ôi, thấy mà chẳng thấy, gặp mà chẳng gặp, ngàn xưa ngàn sau, oán thay hận thay.” ' +
       'Rồi lại tán thán rằng,” Tâm mà không thì trong sát na chứng được diệu giác, tâm mà có thì ngàn muôn kiếp vẫn đọa luân hồi.” ' +
@@ -136,8 +135,7 @@ const BlueCliffRecord = [
       'Đạt Ma đến xứ này vốn để giải thoát thiên hạ khỏi chỗ dính dấp ràng buộc, nhổ đinh bạt chốt, cắt dọn gai góc. ' +
       'Tại sao Tuyết Đậu lại đi nói rằng Đạt Ma làm gai góc sinh? Cũng không phải chỉ vào buổi ấy, mà ngày nay dưới chân mọi người gai góc cũng đã thâm đến mấy trượng. ' +
       '“Cả nước đuổi theo cũng chẳng về, ngàn xưa ngàn sau nhớ mông suông”, đúng là không phải trượng phu. ' +
-      'Thử nói xem, Đạt Ma ở đâu? ' +
-      'Nếu thấy được Dạt Ma thì sẽ thấy được chỗ vì người của Tuyết Đậu. ' +
+      'Thử nói xem, Đạt Ma ở đâu? Nếu thấy được Dạt Ma thì sẽ thấy được chỗ vì người của Tuyết Đậu. ' +
       'Tuyết Đậu lại sợ thiên hạ mải đuổi theo kiến thức thường tình, cho nên mở tung khóa chốt, để lộ chỗ thấy của mình mà nói rằng, “Đừng nhớ mong! Gió thổi mặt đất bao giờ ngưng.” ' +
       'Nếu đã không nhớ mong, thì các chuyện dưới chân mình làm sao mà nảy sinh? Tuyết Đậu nói, hiện giờ ở đây, gió trong thổi mặt đất, trên trời dưới đất, có chỗ nào là cùng cực? ' +
       'Tuyết Đậu đem tất cả các việc từ thiên cổ vạn cổ ném ngay ra trước mặt. ' +

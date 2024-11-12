@@ -55,9 +55,12 @@ const { bookTitle, author, hashTag, chapterTitle, image,
       {
         main
           ? <h4>CÔNG ÁN</h4>
-            <p>{main}</p>
-            <hr/>
           : ''
+      }
+      {
+        main?.split(' / ').length
+          ? main?.split(' / ').map(line => <p>{line}</p>)
+          : main
       }
 
       {
@@ -69,8 +72,12 @@ const { bookTitle, author, hashTag, chapterTitle, image,
       {
         commentBeforeVerseExtra
           ? <h4>BÌNH</h4>
-          <p>{ commentBeforeVerseExtra }</p>
           : ''
+      }
+      {
+        commentBeforeVerseExtra?.split(' / ').length
+          ? commentBeforeVerseExtra?.split(' / ').map(comment => <p>{comment}</p>)
+          : commentBeforeVerseExtra
       }
 
       {
@@ -100,15 +107,23 @@ const { bookTitle, author, hashTag, chapterTitle, image,
       {
         commentAfterVerseExtra
             ? <h4>BÌNH</h4>
-            <p>{ commentAfterVerseExtra }</p>
             : ''
+      }
+      {
+        commentAfterVerseExtra?.split(' / ').length
+            ? commentAfterVerseExtra?.split(' / ').map(comment => <p>{comment}</p>)
+            : commentAfterVerseExtra
       }
 
       {
         commentBeforeVerse
           ? <h4>BÌNH</h4>
-          <p>{ commentBeforeVerse }</p>
           : ''
+      }
+      {
+        commentBeforeVerse?.split(' / ').length
+          ? commentBeforeVerse?.split(' / ').map(comment => <p>{comment}</p>)
+          : commentBeforeVerse
       }
 
       {
@@ -138,12 +153,16 @@ const { bookTitle, author, hashTag, chapterTitle, image,
       {
         commentAfterVerse
           ? <h4>BÌNH</h4>
-          <p>{ commentAfterVerse }</p>
           : ''
+      }
+      {
+        commentAfterVerse?.split(' / ').length
+          ? commentAfterVerse?.split(' / ').map(comment => <p>{comment}</p>)
+          : commentAfterVerse
       }
 
       {
-        longVerse
+        longVerse?.split(' / ').length
           ? longVerse?.split(' / ')?.map(line => <p>{line}</p>)
           : ''
       }
