@@ -6,7 +6,7 @@ const CnLv29MasterDb = [
     name_es: 'Yunkong Changzhong',
     name_de: 'Yunkong Changzhong',
     name_fr: 'Yunkong Changzhong',
-    name_vi: 'Yunkong Changzhong',
+    name_vi: 'Uẩn Không Thường Trung',
     name_ru: 'Yunkong Changzhong',
     name_zh: '蘊空常忠',
     name_ja: 'Yunkong Changzhong',
