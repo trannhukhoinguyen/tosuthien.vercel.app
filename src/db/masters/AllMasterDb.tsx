@@ -37,6 +37,13 @@ import CnLv22MasterDb from "../../db/masters/CnLv22MasterDb.tsx";
 import CnLv23MasterDb from "../../db/masters/CnLv23MasterDb.tsx";
 import CnLv24MasterDb from "../../db/masters/CnLv24MasterDb.tsx";
 import CnLv25MasterDb from "../../db/masters/CnLv25MasterDb.tsx";
+import CnLv26MasterDb from "../../db/masters/CnLv26MasterDb.tsx";
+import CnLv27MasterDb from "../../db/masters/CnLv27MasterDb.tsx";
+import CnLv28MasterDb from "../../db/masters/CnLv28MasterDb.tsx";
+import CnLv29MasterDb from "../../db/masters/CnLv29MasterDb.tsx";
+import CnLv30MasterDb from "../../db/masters/CnLv30MasterDb.tsx";
+import CnLv31MasterDb from "../../db/masters/CnLv31MasterDb.tsx";
+// import CnLv32MasterDb from "../../db/masters/CnLv32MasterDb.tsx";
 
 export const InMasters = InMasterDb
 export const ViMasters = ViMasterDb
@@ -69,6 +76,13 @@ export const CnMasters = [
   CnLv23MasterDb,
   CnLv24MasterDb,
   CnLv25MasterDb,
+  CnLv26MasterDb,
+  CnLv27MasterDb,
+  CnLv28MasterDb,
+  CnLv29MasterDb,
+  CnLv30MasterDb,
+  CnLv31MasterDb,
+  // CnLv32MasterDb,
 ]
 export const AllSectMasters = [
   ...CnGuiyangMasterDb,

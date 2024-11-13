@@ -49,11 +49,6 @@ const {
   <PageHeader title={"Zen Master"} />
 
   <div class="container">
-    <h2>All Masters</h2>
-    <Table client:load data={AllMasters} lang={lang ? lang : 'vi'} />
-  </div>
-
-  <div class="container">
     <h2>{ in_masters }</h2>
     <Table client:load data={InMasters} lang={lang ? lang : 'vi'} />
   </div>
