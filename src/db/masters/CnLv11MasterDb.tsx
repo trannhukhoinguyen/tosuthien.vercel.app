@@ -1,7 +1,6 @@
 const CnLv11MasterDb = [
   {
     id: '44.11.1',
-    generation: '44',
     hasContent: true,
     name_en: 'Shishuang Chuyuan',
     name_es: 'Shishuang Chuyuan',
@@ -26,7 +25,6 @@ const CnLv11MasterDb = [
   },
   {
     id: '44.11.2',
-    generation: '44',
     hasContent: true,
     name_en: 'Yongming Yanshou',
     name_es: 'Yongming Yanshou',
@@ -51,7 +49,6 @@ const CnLv11MasterDb = [
   },
   {
     id: '44.11.3',
-    generation: '44',
     hasContent: true,
     name_en: 'Fuyin Liaoyuan',
     name_es: 'Fuyin Liaoyuan',
@@ -76,7 +73,6 @@ const CnLv11MasterDb = [
   },
   {
     id: '44.11.4',
-    generation: '44',
     hasContent: true,
     name_en: 'Tianyi Yihuai',
     name_es: 'Tianyi Yihuai',
@@ -101,7 +97,6 @@ const CnLv11MasterDb = [
   },
   {
     id: '44.11.5',
-    generation: '44',
     hasContent: true,
     name_en: 'Chengtian Chuanzong',
     name_es: 'Chengtian Chuanzong',
@@ -126,7 +121,6 @@ const CnLv11MasterDb = [
   },
   {
     id: '44.11.5',
-    generation: '44',
     hasContent: true,
     name_en: 'Thảo Đường',
     name_es: 'Thảo Đường',

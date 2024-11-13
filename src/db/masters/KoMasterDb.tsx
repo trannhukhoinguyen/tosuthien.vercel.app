@@ -1,7 +1,6 @@
 const KoMasterDb = [
   {
     id: '37.4.15.K',
-    generation: '37',
     name_en: 'Chŏlgam Toyun',
     name_es: 'Chŏlgam Toyun',
     name_de: 'Chŏlgam Toyun',
@@ -25,7 +24,6 @@ const KoMasterDb = [
   },
   {
     id: '38.5.12.K',
-    generation: '38',
     name_en: 'Chinghyo Choljung',
     name_es: 'Chinghyo Choljung',
     name_de: 'Chinghyo Choljung',
@@ -49,7 +47,6 @@ const KoMasterDb = [
   },
   {
     id: '40.7.10.K',
-    generation: '40',
     hasContent: true,
     name_en: 'Longhua Lingzhao (Lingzhao Buna)',
     name_es: 'Longhua Lingzhao',
@@ -74,7 +71,6 @@ const KoMasterDb = [
   },
   {
     id: '40.7.11.K',
-    generation: '40',
     name_en: 'Tongjin Kyŏngbo',
     name_es: 'Tongjin Kyŏngbo',
     name_de: 'Tongjin Kyŏngbo',
@@ -98,7 +94,6 @@ const KoMasterDb = [
   },
   {
     id: '41.8.1.K',
-    generation: '41',
     name_en: 'Pŏpgyŏng Hyŏnhwi',
     name_es: 'Pŏpgyŏng Hyŏnhwi',
     name_de: 'Pŏpgyŏng Hyŏnhwi',

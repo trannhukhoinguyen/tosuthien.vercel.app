@@ -1,7 +1,6 @@
 const CnLv14MasterDb = [
   {
     id: '47.14.1',
-    generation: '47',
     name_en: 'Wuzu Fayan',
     name_es: 'Wuzu Fayan',
     name_de: 'Wuzu Fayan',

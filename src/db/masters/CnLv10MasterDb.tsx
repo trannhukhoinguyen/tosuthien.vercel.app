@@ -1,7 +1,6 @@
 const CnLv10MasterDb = [
   {
     id: '43.10.1',
-    generation: '43',
     name_en: 'Fenyang Shanzhao',
     name_es: 'Fenyang Shanzhao',
     name_de: 'Fenyang Shanzhao',
@@ -25,7 +24,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.2',
-    generation: '43',
     name_en: 'Tiantai Deshao',
     name_es: 'Tiantai Deshao',
     name_de: 'Tiantai Deshao',
@@ -49,7 +47,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.3',
-    generation: '43',
     name_en: 'Xuedou Chongxian',
     name_es: 'Xuedou Chongxian',
     name_de: 'Xuedou Chongxian',
@@ -73,7 +70,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.4',
-    generation: '43',
     name_en: 'Kaixian Shanxian',
     name_es: 'Kaixian Shanxian',
     name_de: 'Kaixian Shanxian',
@@ -97,7 +93,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.5',
-    generation: '43',
     name_en: 'Jiufeng Qin',
     name_es: 'Jiufeng Qin',
     name_de: 'Jiufeng Qin',
@@ -121,7 +116,6 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.6',
-    generation: '43',
     name_en: 'Shexian Guixing',
     name_es: 'Shexian Guixing',
     name_de: 'Shexian Guixing',

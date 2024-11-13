@@ -1,7 +1,6 @@
 const CnLv3MasterDb = [
   {
     id: '36.3.1',
-    generation: '36',
     name_en: 'Kinh Nam Duy Trung',
     name_es: 'Kinh Nam Duy Trung',
     name_de: 'Kinh Nam Duy Trung',
@@ -25,7 +24,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.2',
-    generation: '36',
     hasContent: true,
     name_en: 'Yaoshan Weiyan',
     name_es: 'Yaoshan Weiyan',
@@ -50,7 +48,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.3',
-    generation: '36',
     hasContent: true,
     name_en: 'Tianhuang Daowu',
     name_es: 'Tianhuang Daowu',
@@ -75,7 +72,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.4',
-    generation: '36',
     hasContent: true,
     name_en: 'Dadian Baotong',
     name_es: 'Dadian Baotong',
@@ -103,7 +99,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.5',
-    generation: '36',
     hasContent: true,
     name_en: 'Danxia Tianran',
     name_es: 'Danxia Tianran',
@@ -128,7 +123,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.6',
-    generation: '36',
     hasContent: true,
     name_en: 'Baizhang Huaihai',
     name_es: 'Baizhang Huaihai',
@@ -153,7 +147,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.7',
-    generation: '36',
     name_en: 'Wúzhù',
     name_es: 'Wúzhù',
     name_de: 'Wúzhù',
@@ -177,7 +170,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.8',
-    generation: '36',
     name_en: '志眞',
     name_es: '志眞',
     name_de: '志眞',
@@ -201,7 +193,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.10',
-    generation: '36',
     name_en: 'Chii',
     name_es: 'Chii',
     name_de: 'Chii',
@@ -225,7 +216,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.11',
-    generation: '36',
     hasContent: true,
     name_en: 'Ehu Dayi',
     name_es: 'Ehu Dayi',
@@ -250,7 +240,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.12',
-    generation: '36',
     name_en: 'Damei Fachang',
     name_es: 'Damei Fachang',
     name_de: 'Damei Fachang',
@@ -274,7 +263,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.13',
-    generation: '36',
     name_en: 'Dazhu Huihai',
     name_es: 'Dazhu Huihai',
     name_de: 'Dazhu Huihai',
@@ -298,7 +286,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.14',
-    generation: '36',
     name_en: 'Xitang Zhizang',
     name_es: 'Xitang Zhizang',
     name_de: 'Xitang Zhizang',
@@ -322,7 +309,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.15',
-    generation: '36',
     hasContent: true,
     name_en: 'Nanquan Puyuan (Wang laoshi)',
     name_es: 'Nanquan Puyuan',
@@ -347,7 +333,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.16',
-    generation: '36',
     name_en: 'Fenzhou Wuye',
     name_es: 'Fenzhou Wuye',
     name_de: 'Fenzhou Wuye',
@@ -371,7 +356,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.18',
-    generation: '36',
     name_en: 'Jingzhong Shenhui',
     name_es: 'Jingzhong Shenhui',
     name_de: 'Jingzhong Shenhui',
@@ -395,7 +379,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.19',
-    generation: '36',
     name_en: 'Baotang Wuzhu',
     name_es: 'Baotang Wuzhu',
     name_de: 'Baotang Wuzhu',
@@ -419,7 +402,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.20',
-    generation: '36',
     name_en: 'Thái sơn Minh Luyện',
     name_es: 'Thái sơn Minh Luyện',
     name_de: 'Thái sơn Minh Luyện',
@@ -443,7 +425,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.21',
-    generation: '36',
     hasContent: true,
     name_en: 'Zhangjing Huaihui',
     name_es: 'Zhangjing Huaihui',
@@ -468,7 +449,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.22',
-    generation: '36',
     hasContent: true,
     name_en: 'Panshan Baoji',
     name_es: 'Panshan Baoji',

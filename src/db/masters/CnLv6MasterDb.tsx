@@ -1,7 +1,6 @@
 const CnLv6MasterDb = [
   {
     id: '39.6.1',
-    generation: '39',
     name_en: 'Caoshan Benji',
     name_es: 'Caoshan Benji',
     name_de: 'Caoshan Benji',
@@ -25,7 +24,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.2',
-    generation: '39',
     hasContent: true,
     name_en: 'Xinghua Cunjiang',
     name_es: 'Xinghua Cunjiang',
@@ -50,7 +48,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.3',
-    generation: '39',
     hasContent: true,
     name_en: 'Sansheng Huiran',
     name_es: 'Sansheng Huiran',
@@ -75,7 +72,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.4',
-    generation: '39',
     name_en: 'Muzhou Chen Cao',
     name_es: 'Chen Cao',
     name_de: 'Chen Cao',
@@ -99,7 +95,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.5',
-    generation: '39',
     name_en: 'Zhangzhuo Xiucai',
     name_es: 'Zhangzhuo Xiucai',
     name_de: 'Zhangzhuo Xiucai',
@@ -123,7 +118,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.6',
-    generation: '39',
     hasContent: true,
     name_en: 'Jiufeng Daoqian',
     name_es: 'Jiufeng Daoqian',
@@ -148,7 +142,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.7',
-    generation: '39',
     name_en: 'Xuefeng Yicun',
     name_es: 'Xuefeng Yicun',
     name_de: 'Xuefeng Yicun',
@@ -166,15 +159,15 @@ const CnLv6MasterDb = [
     place: '-',
     teachers: ['Deshan Xuanjian'],
     successors: [''],
-    disciples: ['Xuansha Shibei', 'Yunmen Wenyan', 'Baofu Congzhan', 'Changqing Huileng', 'Cuiyan Lingcan (Linh Tham Thúy Nham)',
-      'Jingqing Daofu', 'Taiyuan Fu (太原孚)', 'Furong Lingxun', 'Zhangsheng Jiaoran', 'Lingzhao Buna (靈照布衲, 870-947, Long Hoa Linh Chiếu)',
-      'Ehu Zhifu (Nga Hồ Trí Phù)', 'Dapu Xuantong (Huyền Thông Đạo Phổ)',
-      'Bao’en Huaiyue (Báo Ân Hoài Nhạc)', 'Huadu Shiye (Hóa Độ Sư Úc)',
-      'Gushan Shenyan (Cổ Sơn Thần Án / Cổ Sơn Thần Yến)', 'Xiangshou Shaoxiang',
+    disciples: ['Xuansha Shibei', 'Yunmen Wenyan', 'Baofu Congzhan', 'Changqing Huileng',
+      'Cuiyan Lingcan', 'Jingqing Daofu', 'Taiyuan Fu',
+      'Furong Lingxun', 'Zhangsheng Jiaoran', 'Lingzhao Buna (靈照布衲, 870-947, Long Hoa Linh Chiếu)',
+      'Ehu Zhifu (Nga Hồ Trí Phù)', 'Dapu Xuantong (Huyền Thông Đạo Phổ)', 'Gushan Shenyan',
+      'Bao’en Huaiyue (Báo Ân Hoài Nhạc)', 'Huadu Shiye (Hóa Độ Sư Úc)', 'Xiangshou Shaoxiang',
       'Anguo Hongtao', 'Jiyun Lingzhao', 'Wushi Lingguan (烏石靈觀)',
       'Yongfu Congyan', 'Fuqing Xuanna', 'Dongyan Kexiu',
       'Hushan Yanzong', 'Nanyue Weijing (Weijing Chanshi)',
-      'Yueshan Jianzhen (越山鑒真)', 'Shuilong Daopu (Thụy Long Đạo Phổ)',
+      'Yueshan Jianzhen (越山鑒真)', 'Shuilong Daopu (Thụy Long Đạo Phổ - 睡龍道溥)',
       'Wŏnnap (Korean)', 'Yŏngjo (Korean)'
     ],
     image: '/images/avatar.png',
@@ -182,7 +175,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.8',
-    generation: '39',
     name_en: 'Niaoke Daolin',
     name_es: 'Niaoke Daolin',
     name_de: 'Niaoke Daolin',
@@ -206,7 +198,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.9',
-    generation: '39',
     name_en: 'Yunju Daoying',
     name_es: 'Yunju Daoying',
     name_de: 'Yunju Daoying',
@@ -231,7 +222,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.10',
-    generation: '39',
     hasContent: true,
     name_en: 'Baoshou Yanzhao',
     name_es: 'Baoshou Yanzhao',
@@ -256,7 +246,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.11',
-    generation: '39',
     name_en: 'Daguang Juhui',
     name_es: 'Daguang Juhui',
     name_de: 'Daguang Juhui',
@@ -280,7 +269,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.12',
-    generation: '39',
     hasContent: true,
     name_en: 'Yantou Quanhuo',
     name_es: 'Yantou Quanhuo',
@@ -305,7 +293,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.13',
-    generation: '39',
     name_en: 'Daguang Juhui',
     name_es: 'Daguang Juhui',
     name_de: 'Daguang Juhui',
@@ -329,7 +316,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.14',
-    generation: '39',
     name_en: 'Luopu Yuan’an',
     name_es: 'Luopu Yuan’an',
     name_de: 'Luopu Yuan’an',
@@ -353,7 +339,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.15',
-    generation: '39',
     hasContent: true,
     name_en: 'Yungai Zhiyuan',
     name_es: 'Yungai Zhiyuan',
@@ -378,7 +363,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.16',
-    generation: '39',
     hasContent: true,
     name_en: 'Yongquan Jingxin',
     name_es: 'Yongquan Jingxin',
@@ -403,7 +387,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.17',
-    generation: '39',
     hasContent: true,
     name_en: 'Phúc Thuyền Hồng Tiến',
     name_es: 'Phúc Thuyền Hồng Tiến',
@@ -428,7 +411,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.18',
-    generation: '39',
     name_en: 'Sushan Kuangren',
     name_es: 'Sushan Kuangren',
     name_de: 'Sushan Kuangren',
@@ -452,7 +434,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '40.7.11',
-    generation: '40',
     hasContent: true,
     name_en: 'Yuezhou Qianfeng',
     name_es: 'Yuezhou Qianfeng',

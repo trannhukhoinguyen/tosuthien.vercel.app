@@ -1,7 +1,6 @@
 const CnLv17MasterDb = [
   {
     id: '50.17.1',
-    generation: '50',
     name_en: 'Yingan Tanhua',
     name_es: 'Yingan Tanhua',
     name_de: 'Yingan Tanhua',
@@ -25,7 +24,6 @@ const CnLv17MasterDb = [
   },
   {
     id: '50.17.2',
-    generation: '50',
     name_en: 'Wakuan Shitai',
     name_es: 'Wakuan Shitai',
     name_de: 'Wakuan Shitai',
@@ -49,7 +47,6 @@ const CnLv17MasterDb = [
   },
   {
     id: '50.17.3',
-    generation: '50',
     name_en: 'Fozhao Deguang',
     name_es: 'Fozhao Deguang',
     name_de: 'Fozhao Deguang',
@@ -73,7 +70,6 @@ const CnLv17MasterDb = [
   },
   {
     id: '50.17.4',
-    generation: '50',
     name_en: 'Tế Điên Đạo Tế',
     name_es: 'Tế Điên Đạo Tế',
     name_de: 'Tế Điên Đạo Tế',

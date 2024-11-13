@@ -1,7 +1,6 @@
 const CnLv4MasterDb = [
   {
     id: '37.4.1',
-    generation: '37',
     name_en: 'Toại Châu Đạo Viên',
     name_es: 'Toại Châu Đạo Viên',
     name_de: 'Toại Châu Đạo Viên',
@@ -25,7 +24,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.2',
-    generation: '37',
     name_en: 'Yunyan Tansheng',
     name_es: 'Yunyan Tansheng',
     name_de: 'Yunyan Tansheng',
@@ -49,7 +47,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.3',
-    generation: '37',
     name_en: 'Longtan Chongxin',
     name_es: 'Longtan Chongxin',
     name_de: 'Longtan Chongxin',
@@ -73,7 +70,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.4',
-    generation: '37',
     name_en: 'Guishan Lingyou',
     name_es: 'Guishan Lingyou',
     name_de: 'Guishan Lingyou',
@@ -98,7 +94,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.5',
-    generation: '37',
     name_en: 'Sanping Yizhong',
     name_es: 'Sanping Yizhong',
     name_de: 'Sanping Yizhong',
@@ -123,7 +118,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.6',
-    generation: '37',
     name_en: 'Cuiwei Wuxue',
     name_es: 'Cuiwei Wuxue',
     name_de: 'Cuiwei Wuxue',
@@ -148,7 +142,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.7',
-    generation: '37',
     hasContent: true,
     name_en: 'Huangbo Xiyun',
     name_es: 'Huangbo Xiyun',
@@ -173,7 +166,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.9',
-    generation: '37',
     name_en: 'Echū',
     name_es: 'Echū',
     name_de: 'Echū',
@@ -197,7 +189,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.10',
-    generation: '37',
     hasContent: true,
     name_en: 'Gakurin Genso',
     name_es: 'Gakurin Genso',
@@ -223,7 +214,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.11',
-    generation: '37',
     name_en: 'Tuyên Châu Huyền Dĩnh',
     name_es: 'Tuyên Châu Huyền Dĩnh',
     name_de: 'Tuyên Châu Huyền Dĩnh',
@@ -247,7 +237,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.12',
-    generation: '37',
     name_en: 'Daowu Yuanzhi',
     name_es: 'Daowu Yuanzhi',
     name_de: 'Daowu Yuanzhi',
@@ -271,7 +260,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.13',
-    generation: '37',
     hasContent: true,
     name_en: 'Zhaozhou Congshen',
     name_es: 'Zhaozhou Congshen',
@@ -296,7 +284,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.14',
-    generation: '37',
     hasContent: true,
     name_en: 'Changsha Jingcen',
     name_es: 'Changsha Jingcen',
@@ -321,7 +308,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.16',
-    generation: '37',
     name_en: 'Hangzhou Tianlong',
     name_es: 'Hangzhou Tianlong',
     name_de: 'Hangzhou Tianlong',
@@ -345,7 +331,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.17',
-    generation: '37',
     name_en: 'Baizhang Niepan',
     name_es: 'Baizhang Niepan',
     name_de: 'Baizhang Niepan',
@@ -369,7 +354,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.18',
-    generation: '37',
     name_en: 'Guannan Daochang',
     name_es: 'Guannan Daochang',
     name_de: 'Guannan Daochang',
@@ -393,7 +377,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.19',
-    generation: '37',
     name_en: 'Guishan Da’an',
     name_es: 'Guishan Da’an',
     name_de: 'Guishan Da’an',
@@ -417,7 +400,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.20',
-    generation: '37',
     name_en: 'Wufeng Changguan',
     name_es: 'Wufeng Changguan',
     name_de: 'Wufeng Changguan',
@@ -441,7 +423,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.21',
-    generation: '37',
     hasContent: true,
     name_en: 'Zhenzhou Puhua',
     name_es: 'Zhenzhou Puhua',
@@ -466,7 +447,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.22',
-    generation: '37',
     name_en: 'Chuanzi Decheng',
     name_es: 'Chuanzi Decheng',
     name_de: 'Chuanzi Decheng',

@@ -1,7 +1,6 @@
 const CnLv12MasterDb = [
   {
     id: '45.12.1',
-    generation: '45',
     hasContent: true,
     name_en: 'Yangqi Fanghui',
     name_es: 'Yangqi Fanghui',
@@ -28,7 +27,6 @@ const CnLv12MasterDb = [
   },
   {
     id: '45.12.2',
-    generation: '45',
     hasContent: true,
     name_en: 'Huanglong Huinan',
     name_es: 'Huanglong Huinan',
@@ -55,7 +53,6 @@ const CnLv12MasterDb = [
   },
   {
     id: '45.12.3',
-    generation: '45',
     hasContent: true,
     name_en: 'Cuiyan Kezhen',
     name_es: 'Cuiyan Kezhen',

@@ -1,7 +1,6 @@
 const CnLv22MasterDb = [
   {
     id: '55.22.1',
-    generation: '55',
     hasContent: true,
     name_en: 'Gaofeng Yuanmiao',
     name_es: 'Gaofeng Yuanmiao',

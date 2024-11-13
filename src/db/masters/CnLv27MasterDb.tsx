@@ -1,6 +1,6 @@
-const CnLv25MasterDb = [
+const CnLv27MasterDb = [
   {
-    id: '58.25.1',
+    id: '60.27.1',
     hasContent: true,
     name_en: '',
     name_es: '',
@@ -22,6 +22,6 @@ const CnLv25MasterDb = [
     disciples: [],
     image: '/',
     reference: [''],
-  },
+  }
 ]
-export default CnLv25MasterDb;
+export default CnLv27MasterDb;

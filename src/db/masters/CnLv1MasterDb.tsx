@@ -1,7 +1,6 @@
 const CnLv1MasterDb = [
   {
     id: '34.1.1',
-    generation: '34',
     name_en: 'Qingyuan Xingsi',
     name_es: 'Qingyuan Xingsi',
     name_de: 'Qingyuan Xingsi',
@@ -25,7 +24,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.2',
-    generation: '34',
     name_en: 'Nanyang Huizhong',
     name_es: 'Nanyang Huizhong',
     name_de: 'Nanyang Huizhong',
@@ -49,7 +47,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.3',
-    generation: '34',
     name_en: 'Nanyue Huairang',
     name_es: 'Nanyue Huairang',
     name_de: 'Nanyue Huairang',
@@ -74,7 +71,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.4',
-    generation: '34',
     name_en: 'Heze Shenhui',
     name_es: 'Heze Shenhui',
     name_de: 'Heze Shenhui',
@@ -104,7 +100,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.5',
-    generation: '34',
     name_en: 'Thiều Châu Pháp Hải',
     name_es: 'Thiều Châu Pháp Hải',
     name_de: 'Thiều Châu Pháp Hải',
@@ -128,7 +123,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.6',
-    generation: '34',
     name_en: 'Vĩnh Gia Huyền Giác',
     name_es: 'Vĩnh Gia Huyền Giác',
     name_de: 'Vĩnh Gia Huyền Giác',
@@ -152,7 +146,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.8',
-    generation: '34',
     name_en: 'Cát Châu Chí Thành',
     name_es: 'Cát Châu Chí Thành',
     name_de: 'Cát Châu Chí Thành',
@@ -176,7 +169,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.9',
-    generation: '34',
     name_en: 'Giang Tây Chí Triệt',
     name_es: 'Giang Tây Chí Triệt',
     name_de: 'Giang Tây Chí Triệt',
@@ -200,7 +192,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.10',
-    generation: '34',
     hasContent: true,
     name_en: 'Biandan Xiaoliao',
     name_es: 'Biandan Xiaoliao',
@@ -225,7 +216,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.11',
-    generation: '34',
     name_en: 'Hà Bắc Trí Hoàng',
     name_es: 'Hà Bắc Trí Hoàng',
     name_de: 'Hà Bắc Trí Hoàng',
@@ -249,7 +239,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.12',
-    generation: '34',
     hasContent: true,
     name_en: 'Hongzhou Fada',
     name_es: 'Hongzhou Fada',
@@ -274,7 +263,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.13',
-    generation: '34',
     name_en: 'Thọ Châu Trí Thông',
     name_es: 'Thọ Châu Trí Thông',
     name_de: 'Thọ Châu Trí Thông',
@@ -298,7 +286,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.14',
-    generation: '34',
     name_en: 'Tín Châu Trí Thường',
     name_es: 'Tín Châu Trí Thường',
     name_de: 'Tín Châu Trí Thường',
@@ -322,7 +309,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.15',
-    generation: '34',
     name_en: 'Quảng Châu Chí Đạo',
     name_es: 'Quảng Châu Chí Đạo',
     name_de: 'Quảng Châu Chí Đạo',
@@ -346,7 +332,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.16',
-    generation: '34',
     name_en: 'Quảng Châu Pháp Tánh Ấn Tông',
     name_es: 'Quảng Châu Pháp Tánh Ấn Tông',
     name_de: 'Quảng Châu Pháp Tánh Ấn Tông',
@@ -370,7 +355,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.17',
-    generation: '34',
     name_en: 'Vụ Châu Huyền Sách',
     name_es: 'Vụ Châu Huyền Sách',
     name_de: 'Vụ Châu Huyền Sách',
@@ -394,7 +378,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.18',
-    generation: '34',
     name_en: 'Tào Khê Linh Thao',
     name_es: 'Tào Khê Linh Thao',
     name_de: 'Tào Khê Linh Thao',
@@ -418,7 +401,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.19',
-    generation: '34',
     name_en: 'Ni Vô Tận Tạng',
     name_es: 'Ni Vô Tận Tạng',
     name_de: 'Ni Vô Tận Tạng',
@@ -442,7 +424,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.20',
-    generation: '34',
     name_en: 'Kỳ Đà La',
     name_es: 'Kỳ Đà La',
     name_de: 'Kỳ Đà La',
@@ -466,7 +447,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.21',
-    generation: '34',
     name_en: 'Tịnh An',
     name_es: 'Tịnh An',
     name_de: 'Tịnh An',
@@ -490,7 +470,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.22',
-    generation: '34',
     name_en: 'Tâm',
     name_es: 'Tâm',
     name_de: 'Tâm',
@@ -514,7 +493,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.23',
-    generation: '34',
     name_en: 'Định Chơn',
     name_es: 'Định Chơn',
     name_de: 'Định Chơn',
@@ -538,7 +516,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.24',
-    generation: '34',
     name_en: 'Kiên Cố',
     name_es: 'Kiên Cố',
     name_de: 'Kiên Cố',
@@ -562,7 +539,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.25',
-    generation: '34',
     name_en: 'Đạo Tiến',
     name_es: 'Đạo Tiến',
     name_de: 'Đạo Tiến',
@@ -586,7 +562,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.26',
-    generation: '34',
     name_en: 'Thiện Khoái',
     name_es: 'Thiện Khoái',
     name_de: 'Thiện Khoái',
@@ -610,7 +585,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.27',
-    generation: '34',
     name_en: 'Duyên Tố',
     name_es: 'Duyên Tố',
     name_de: 'Duyên Tố',
@@ -634,7 +608,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.28',
-    generation: '34',
     name_en: 'Tông Nhất',
     name_es: 'Tông Nhất',
     name_de: 'Tông Nhất',
@@ -658,7 +631,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.29',
-    generation: '34',
     name_en: 'Thiên Hiện',
     name_es: 'Thiên Hiện',
     name_de: 'Thiên Hiện',
@@ -682,7 +654,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.30',
-    generation: '34',
     name_en: 'Phạm Hạnh',
     name_es: 'Phạm Hạnh',
     name_de: 'Phạm Hạnh',
@@ -706,7 +677,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.31',
-    generation: '34',
     name_en: 'Tự Tại',
     name_es: 'Tự Tại',
     name_de: 'Tự Tại',
@@ -730,7 +700,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.32',
-    generation: '34',
     name_en: 'Hàm Thông',
     name_es: 'Hàm Thông',
     name_de: 'Hàm Thônh',
@@ -754,7 +723,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.33',
-    generation: '34',
     name_en: 'Thái Tường',
     name_es: 'Thái Tường',
     name_de: 'Thái Tường',
@@ -778,7 +746,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.34',
-    generation: '34',
     name_en: 'Pháp Tịnh',
     name_es: 'Pháp Tịnh',
     name_de: 'Pháp Tịnh',
@@ -802,7 +769,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.35',
-    generation: '34',
     name_en: 'Biện Tài',
     name_es: 'Biện Tài',
     name_de: 'Biện Tài',
@@ -826,7 +792,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.36',
-    generation: '34',
     name_en: 'Dạo Dung',
     name_es: 'Dạo Dung',
     name_de: 'Dạo Dung',
@@ -850,7 +815,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.37',
-    generation: '34',
     name_en: 'Ngô Đầu-đà',
     name_es: 'Ngô Đầu-đà',
     name_de: 'Ngô Đầu-đà',
@@ -874,7 +838,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.38',
-    generation: '34',
     name_en: 'Đạo Anh',
     name_es: 'Đạo Anh',
     name_de: 'Đạo Anh',
@@ -898,7 +861,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.39',
-    generation: '34',
     name_en: 'Trí Bổn',
     name_es: 'Trí Bổn',
     name_de: 'Trí Bổn',
@@ -922,7 +884,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.40',
-    generation: '34',
     name_en: 'Pháp Chơn',
     name_es: 'Pháp Chơn',
     name_de: 'Pháp Chơn',
@@ -946,7 +907,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.41',
-    generation: '34',
     name_en: 'Huyền Giai',
     name_es: 'Huyền Giai',
     name_de: 'Huyền Giai',
@@ -970,7 +930,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.42',
-    generation: '34',
     name_en: 'Đàm Thổi',
     name_es: 'Đàm Thổi',
     name_de: 'Đàm Thổi',
@@ -994,7 +953,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.43',
-    generation: '34',
     name_en: 'Thích sử Vi Cừ',
     name_es: 'Thích sử Vi Cừ',
     name_de: 'Thích sử Vi Cừ',
@@ -1018,7 +976,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.44',
-    generation: '34',
     name_en: 'Yìfú',
     name_es: 'Yìfú',
     name_de: 'Yìfú',
@@ -1042,7 +999,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.45',
-    generation: '34',
     name_en: 'Songshan Puji',
     name_es: 'Songshan Puji',
     name_de: 'Songshan Puji',
@@ -1066,7 +1022,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.46',
-    generation: '34',
     name_en: 'Đạo Lượng',
     name_es: 'Đạo Lượng',
     name_de: 'Đạo Lượng',
@@ -1090,7 +1045,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.47',
-    generation: '34',
     name_en: '破竈墮',
     name_es: '破竈墮',
     name_de: '破竈墮',
@@ -1114,7 +1068,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.48',
-    generation: '34',
     name_en: 'Chùjì',
     name_es: 'Chùjì',
     name_de: 'Chùjì',
@@ -1138,7 +1091,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.49',
-    generation: '34',
     hasContent: true,
     name_en: 'Ehō',
     name_es: 'Ehō',
@@ -1163,7 +1115,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.50',
-    generation: '34',
     hasContent: true,
     name_en: 'Mengshan Daoming / Huiming',
     name_es: 'Mengshan Daoming',
@@ -1188,7 +1139,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.51',
-    generation: '34',
     hasContent: true,
     name_en: 'Zizhou Chuji',
     name_es: 'Zizhou Chuji',
@@ -1213,7 +1163,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.52',
-    generation: '34',
     name_en: 'Lục hợp Đại Giác',
     name_es: 'Lục hợp Đại Giác',
     name_de: 'Lục hợp Đại Giác',
@@ -1237,7 +1186,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.53',
-    generation: '34',
     name_en: 'Định Châu',
     name_es: 'Định Châu',
     name_de: 'Định Châu',

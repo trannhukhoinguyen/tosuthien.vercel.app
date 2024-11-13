@@ -1,7 +1,6 @@
 const CnLv15MasterDb = [
   {
     id: '48.15.1',
-    generation: '48',
     name_en: 'Yuanwu Keqin',
     name_es: 'Yuanwu Keqin',
     name_de: 'Yuanwu Keqin',
@@ -25,7 +24,6 @@ const CnLv15MasterDb = [
   },
   {
     id: '48.15.2',
-    generation: '48',
     name_en: 'Kaifu Daoning',
     name_es: 'Kaifu Daoning',
     name_de: 'Kaifu Daoning',

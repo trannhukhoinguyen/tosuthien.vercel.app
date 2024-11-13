@@ -1,7 +1,6 @@
 const CnLv0MasterDb = [
   {
     id: '29',
-    generation: '29',
     name_en: 'Dazu Huike',
     name_es: 'Dazu Huike',
     name_de: 'Dazu Huike',
@@ -25,7 +24,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '30.1',
-    generation: '30',
     name_en: 'Jianzhi Sengcan',
     name_es: 'Jianzhi Sengcan',
     name_de: 'Jianzhi Sengcan',
@@ -49,7 +47,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '30.2',
-    generation: '30',
     name_en: 'Tăng Na',
     name_es: 'Tăng Na',
     name_de: 'Tăng Na',
@@ -73,7 +70,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '30.3',
-    generation: '30',
     name_en: 'Tương Châu Tuệ Mãn',
     name_es: 'Tương Châu Tuệ Mãn',
     name_de: 'Tương Châu Tuệ Mãn',
@@ -97,7 +93,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '30.4',
-    generation: '30',
     name_en: 'cư sĩ Hướng',
     name_es: 'cư sĩ Hướng',
     name_de: 'cư sĩ Hướng',
@@ -121,7 +116,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '31.1',
-    generation: '31',
     name_en: 'Dayi Daoxin',
     name_es: 'Dayi Daoxin',
     name_de: 'Dayi Daoxin',
@@ -145,7 +139,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '31.2',
-    generation: '31',
     name_en: 'Cư sĩ Hoa Nhàn',
     name_es: 'Cư sĩ Hoa Nhàn',
     name_de: 'Cư sĩ Hoa Nhàn',
@@ -169,7 +162,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '32.1',
-    generation: '32',
     name_en: 'Daman Hongren',
     name_es: 'Daman Hongren',
     name_de: 'Daman Hongren',
@@ -193,7 +185,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '32.2',
-    generation: '32',
     hasContent: true,
     name_en: 'Niutou Farong',
     name_es: 'Niutou Farong',
@@ -220,7 +211,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '32.3',
-    generation: '32',
     name_en: 'Đàm Thúy',
     name_es: 'Đàm Thúy',
     name_de: 'Đàm Thúy',
@@ -244,7 +234,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '33.1',
-    generation: '33',
     name_en: 'Dajian Huineng (Liuzu)',
     name_es: 'Dajian Huineng (Sexto Patriarca)',
     name_de: 'Dajian Huineng (Sechster Patriarch)',
@@ -268,7 +257,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '33.2',
-    generation: '33',
     name_en: 'Niutou Chigan',
     name_es: 'Niutou Chigan',
     name_de: 'Niutou Chigan',
@@ -294,7 +282,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '33.3',
-    generation: '33',
     hasContent: true,
     name_en: 'Yuquan Shenxiu',
     name_es: 'Yuquan Shenxiu',
@@ -319,7 +306,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '33.4',
-    generation: '33',
     name_en: 'Songyue Huian / Laoan Huian',
     name_es: 'Songyue Huian',
     name_de: 'Songyue Huian',
@@ -343,7 +329,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '33.5',
-    generation: '33',
     hasContent: true,
     name_en: 'Zizhou Zhishen',
     name_es: 'Zizhou Zhishen',
@@ -368,7 +353,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '33.6',
-    generation: '33',
     name_en: 'Định lâm Tuệ Cương',
     name_es: 'Định lâm Tuệ Cương',
     name_de: 'Định lâm Tuệ Cương',
@@ -392,7 +376,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '33.7',
-    generation: '33',
     name_en: 'Thượng nguyên Trí Thành',
     name_es: 'Thượng nguyên Trí Thành',
     name_de: 'Thượng nguyên Trí Thành',

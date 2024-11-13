@@ -1,7 +1,6 @@
 const CnLv24MasterDb = [
   {
     id: '57.24.1',
-    generation: '57',
     hasContent: true,
     name_en: 'Tenjo Isoku',
     name_es: 'Tenjo Isoku',
@@ -26,7 +25,6 @@ const CnLv24MasterDb = [
   },
   {
     id: '57.24.3',
-    generation: '57',
     name_en: 'Sengan Genchō',
     name_es: 'Sengan Genchō',
     name_de: 'Sengan Genchō',

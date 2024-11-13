@@ -1,6 +1,6 @@
-const CnLv25MasterDb = [
+const CnLv28MasterDb = [
   {
-    id: '58.25.1',
+    id: '61.28.1',
     hasContent: true,
     name_en: '',
     name_es: '',
@@ -14,7 +14,7 @@ const CnLv25MasterDb = [
     name_ar: '',
     birth_death_time: ['', ''],
     records: '',
-    sect: ['-'],
+    sect: ['Caodong'],
     country: 'China',
     place: '-',
     teachers: [''],
@@ -22,6 +22,6 @@ const CnLv25MasterDb = [
     disciples: [],
     image: '/',
     reference: [''],
-  },
+  }
 ]
-export default CnLv25MasterDb;
+export default CnLv28MasterDb;

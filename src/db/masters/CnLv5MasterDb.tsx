@@ -1,7 +1,6 @@
 const CnLv5MasterDb = [
   {
     id: '38.5.1',
-    generation: '38',
     name_en: 'Guifeng Zongmi',
     name_es: 'Guifeng Zongmi',
     name_de: 'Guifeng Zongmi',
@@ -25,7 +24,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.2',
-    generation: '38',
     hasContent: true,
     name_en: 'Dongshan Liangjie',
     name_es: 'Dongshan Liangjie',
@@ -54,7 +52,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.3',
-    generation: '38',
     hasContent: true,
     name_en: 'Deshan Xuanjian',
     name_es: 'Deshan Xuanjian',
@@ -80,7 +77,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.4',
-    generation: '38',
     name_en: 'Yangshan Huiji',
     name_es: 'Yangshan Huiji',
     name_de: 'Yangshan Huiji',
@@ -104,7 +100,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.5',
-    generation: '38',
     hasContent: true,
     name_en: 'Linji Yixuan',
     name_es: 'Linji Yixuan',
@@ -129,7 +124,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.6',
-    generation: '38',
     hasContent: true,
     name_en: 'Muzhou Daoming/Daozong',
     name_es: 'Muzhou Daoming',
@@ -154,7 +148,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.7',
-    generation: '38',
     name_en: 'Pei Xiu',
     name_es: 'Pei Xiu',
     name_de: 'Pei Xiu',
@@ -178,7 +171,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.8',
-    generation: '38',
     name_en: 'Jingshan Daoqin',
     name_es: 'Jingshan Daoqin',
     name_de: 'Jingshan Daoqin',
@@ -202,7 +194,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.9',
-    generation: '38',
     hasContent: true,
     name_en: 'Shishuang Qingzhu',
     name_es: 'Shishuang Qingzhu',
@@ -227,7 +218,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.10',
-    generation: '38',
     name_en: 'Lingyun Zhiqin',
     name_es: 'Lingyun Zhiqin',
     name_de: 'Lingyun Zhiqin',
@@ -251,7 +241,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.11',
-    generation: '38',
     name_en: 'Xiangyan Zhixian',
     name_es: 'Xiangyan Zhixian',
     name_de: 'Xiangyan Zhixian',
@@ -275,7 +264,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.13',
-    generation: '38',
     name_en: 'Yanyang Shanxin',
     name_es: 'Yanyang Shanxin',
     name_de: 'Yanyang Shanxin',
@@ -299,7 +287,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.14',
-    generation: '38',
     hasContent: true,
     name_en: 'Jinhua Juzhi',
     name_es: 'Jinhua Juzhi',
@@ -324,7 +311,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.15',
-    generation: '38',
     hasContent: true,
     name_en: 'Touzi Datong',
     name_es: 'Touzi Datong',
@@ -349,7 +335,6 @@ const CnLv5MasterDb = [
   },
   {
     id: '38.5.16',
-    generation: '38',
     hasContent: true,
     name_en: 'Jiashan Shanhui',
     name_es: 'Jiashan Shanhui',

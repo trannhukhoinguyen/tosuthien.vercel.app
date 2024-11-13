@@ -1,7 +1,6 @@
 const CnLv13MasterDb = [
   {
     id: '46.13.1',
-    generation: '46',
     name_en: 'Baiyun Shouduan',
     name_es: 'Baiyun Shouduan',
     name_de: 'Baiyun Shouduan',
@@ -25,7 +24,6 @@ const CnLv13MasterDb = [
   },
   {
     id: '46.13.2',
-    generation: '46',
     name_en: 'Yungai Shouzhi',
     name_es: 'Yungai Shouzhi',
     name_de: 'Yungai Shouzhi',
@@ -49,7 +47,6 @@ const CnLv13MasterDb = [
   },
   {
     id: '46.13.3',
-    generation: '46',
     name_en: 'Baofeng Kewen',
     name_es: 'Baofeng Kewen',
     name_de: 'Baofeng Kewen',
@@ -73,7 +70,6 @@ const CnLv13MasterDb = [
   },
   {
     id: '46.13.4',
-    generation: '46',
     name_en: 'Huitang Zuxin',
     name_es: 'Huitang Zuxin',
     name_de: 'Huitang Zuxin',
@@ -97,7 +93,6 @@ const CnLv13MasterDb = [
   },
   {
     id: '46.13.5',
-    generation: '46',
     hasContent: true,
     name_en: 'Baoning Renyong',
     name_es: 'Baoning Renyong',
@@ -122,7 +117,6 @@ const CnLv13MasterDb = [
   },
   {
     id: '46.13.6',
-    generation: '46',
     hasContent: true,
     name_en: 'Dagui Muzhe (Guishan)',
     name_es: 'Dagui Muzhe',

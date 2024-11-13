@@ -1,7 +1,6 @@
 const CnLv9MasterDb = [
   {
     id: '42.9.1',
-    generation: '42',
     name_en: 'Shoushan Xingnian',
     name_es: 'Shoushan Xingnian',
     name_de: 'Shoushan Xingnian',
@@ -26,7 +25,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.2',
-    generation: '42',
     hasContent: true,
     name_en: 'Fayan Wenyi',
     name_es: 'Fayan Wenyi',
@@ -52,7 +50,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.3',
-    generation: '42',
     name_en: 'Zhimen Guangzuo',
     name_es: 'Zhimen Guangzuo',
     name_de: 'Zhimen Guangzuo',
@@ -76,7 +73,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.4',
-    generation: '42',
     name_en: 'Deshan Huiyuan',
     name_es: 'Deshan Huiyuan',
     name_de: 'Deshan Huiyuan',
@@ -100,7 +96,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.5',
-    generation: '42',
     name_en: 'Wenshu Yingzhen',
     name_es: 'Wenshu Yingzhen',
     name_de: 'Wenshu Yingzhen',
@@ -124,7 +119,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.6',
-    generation: '42',
     name_en: 'Lianhua Fengxiang',
     name_es: 'Lianhua Fengxiang',
     name_de: 'Lianhua Fengxiang',
@@ -148,7 +142,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.7',
-    generation: '42',
     name_en: 'Liangshan Yuanguan',
     name_es: 'Liangshan Yuanguan',
     name_de: 'Liangshan Yuanguan',

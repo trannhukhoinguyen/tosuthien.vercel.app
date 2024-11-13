@@ -1,7 +1,6 @@
 const JpMasterDb = [
   {
     id: '36.3.9',
-    generation: '36',
     name_en: '行表',
     name_es: '行表',
     name_de: '行表',
@@ -25,7 +24,6 @@ const JpMasterDb = [
   },
   {
     id: '37.4.8.J',
-    generation: '37',
     name_en: 'Tối Trừng',
     name_es: 'Tối Trừng',
     name_de: 'Tối Trừng',
@@ -49,7 +47,6 @@ const JpMasterDb = [
   },
   {
     id: '50.17.5',
-    generation: '50',
     name_en: 'Duệ Sơn Giác A',
     name_es: 'Duệ Sơn Giác A',
     name_de: 'Duệ Sơn Giác A',
@@ -73,7 +70,6 @@ const JpMasterDb = [
   },
   {
     id: '57.24.2.J',
-    generation: '57',
     name_en: 'Kohō Kakumyō',
     name_es: 'Kohō Kakumyō',
     name_de: 'Kohō Kakumyō',

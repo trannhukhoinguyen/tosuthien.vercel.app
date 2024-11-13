@@ -1,7 +1,6 @@
 const CnLv8MasterDb = [
   {
     id: '41.8.1',
-    generation: '41',
     name_en: 'Fengxue Yanzhao',
     name_es: 'Fengxue Yanzhao',
     name_de: 'Fengxue Yanzhao',
@@ -26,7 +25,6 @@ const CnLv8MasterDb = [
   },
   {
     id: '41.8.2',
-    generation: '41',
     name_en: 'Luohan Guichen',
     name_es: 'Luohan Guichen',
     name_de: 'Luohan Guichen',
@@ -51,7 +49,6 @@ const CnLv8MasterDb = [
   },
   {
     id: '41.8.3',
-    generation: '41',
     name_en: 'Xianglin Chengyuan',
     name_es: 'Xianglin Chengyuan',
     name_de: 'Xianglin Chengyuan',
@@ -76,7 +73,6 @@ const CnLv8MasterDb = [
   },
   {
     id: '41.8.4',
-    generation: '41',
     name_en: 'Dongshan Shouchu',
     name_es: 'Dongshan Shouchu',
     name_de: 'Dongshan Shouchu',
@@ -100,7 +96,6 @@ const CnLv8MasterDb = [
   },
   {
     id: '41.8.5',
-    generation: '41',
     name_en: 'Deshan Yuanmi',
     name_es: 'Deshan Yuanmi',
     name_de: 'Deshan Yuanmi',
@@ -124,7 +119,6 @@ const CnLv8MasterDb = [
   },
   {
     id: '41.8.6',
-    generation: '41',
     name_en: 'Shuangquan Renyu',
     name_es: 'Shuangquan Renyu',
     name_de: 'Shuangquan Renyu',
@@ -148,7 +142,6 @@ const CnLv8MasterDb = [
   },
   {
     id: '41.8.7',
-    generation: '41',
     name_en: 'Baling Haojian',
     name_es: 'Baling Haojian',
     name_de: 'Baling Haojian',
@@ -172,7 +165,6 @@ const CnLv8MasterDb = [
   },
   {
     id: '41.8.8',
-    generation: '41',
     name_en: 'Fengxian Daoshen',
     name_es: 'Fengxian Daoshen',
     name_de: 'Fengxian Daoshen',
@@ -196,7 +188,6 @@ const CnLv8MasterDb = [
   },
   {
     id: '41.8.9',
-    generation: '41',
     name_en: 'Tongan Guanzhi',
     name_es: 'Tongan Guanzhi',
     name_de: 'Tongan Guanzhi',
@@ -221,7 +212,6 @@ const CnLv8MasterDb = [
   },
   {
     id: '41.8.10',
-    generation: '41',
     name_en: 'Mingzhao Deqian',
     name_es: 'Mingzhao Deqian',
     name_de: 'Mingzhao Deqian',
