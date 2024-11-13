@@ -17,6 +17,26 @@ import GuishanAlert from "../../../db/teachings/GuishanAlert.tsx";
   author={ GuishanAlert?.author }
   image={ GuishanAlert?.image }
   intro={ GuishanAlert?.intro }
-  multiParagraph={ Array.from({ length: 17 }, (_, i) => GuishanAlert[`paragraph${i + 1}`]) }
+  multiParagraph={
+    [
+      GuishanAlert?.paragraph1,
+      GuishanAlert?.paragraph2,
+      GuishanAlert?.paragraph3,
+      GuishanAlert?.paragraph4,
+      GuishanAlert?.paragraph5,
+      GuishanAlert?.paragraph6,
+      GuishanAlert?.paragraph7,
+      GuishanAlert?.paragraph8,
+      GuishanAlert?.paragraph9,
+      GuishanAlert?.paragraph10,
+      GuishanAlert?.paragraph11,
+      GuishanAlert?.paragraph12,
+      GuishanAlert?.paragraph13,
+      GuishanAlert?.paragraph14,
+      GuishanAlert?.paragraph15,
+      GuishanAlert?.paragraph16,
+      GuishanAlert?.paragraph17,
+    ]
+  }
   longVerse={ GuishanAlert?.verse }
 />
