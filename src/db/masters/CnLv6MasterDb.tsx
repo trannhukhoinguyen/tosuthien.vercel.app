@@ -198,6 +198,7 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.9',
+    hasContent: true,
     name_en: 'Yunju Daoying',
     name_es: 'Yunju Daoying',
     name_de: 'Yunju Daoying',
