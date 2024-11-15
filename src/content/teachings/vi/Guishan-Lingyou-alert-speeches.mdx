@@ -10,6 +10,11 @@ draft: false
 
 import VintagePost from "../../../layouts/components/VintagePost.astro";
 import GuishanAlert from "../../../db/teachings/GuishanAlert.tsx";
+import Youtube from "../../../layouts/shortcodes/Youtube";
+
+<div style="width: 50%; margin: auto">
+  <Youtube client:load id={GuishanAlert?.youtubeId} title={GuishanAlert?.title} />
+</div>
 
 <VintagePost
   hasMultiParagraph={true}

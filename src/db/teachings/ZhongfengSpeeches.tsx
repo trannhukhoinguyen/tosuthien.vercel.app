@@ -1,8 +1,9 @@
 const ZhongfengSpeeches = {
   title: 'Trung Phong Pháp Ngữ',
+  youtubeId: 'plJmknVMv3c',
   subTitle: 'Việt Dịch: Nguyên Chánh',
   author: '[Thiền sư] Trung Phong Minh Bổn',
-  image: '/images/teachings/zhongfeng-speeches.jpg' || '/images/teachings/zhongfeng-dharmar-speeches.jpg',
+  image: '/images/teachings/zhongfeng-speeches.jpg' || '/images/teachings/zhongfeng-dharma-speeches.jpg',
   intro:
     'Quyển TRUNG PHONG PHÁP NGỮ này được hình thành từ sự tuyển dịch một số bài pháp ngữ của Thiền-sư Trung Phong khai thị đồ chúng ' +
     'trong bộ Thiền-sư Tạp Lục, 3 quyển, in trong Tục Tạng Kinh, tập số 122.' +

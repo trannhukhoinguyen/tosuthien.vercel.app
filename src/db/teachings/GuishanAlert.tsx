@@ -1,5 +1,6 @@
 const GuishanAlert = {
   title: "Quy Sơn Cảnh Sách",
+  youtubeId: "BXs_wxJ0r5Y",
   subTitle: "Việt Dịch: Nguyễn Minh Tiến",
   author: "[Thiền sư] Quy Sơn Linh Hựu",
   image: "/images/teachings/guishan-alert.jpg" || "/images/teachings/guishan-alert-1.jpg",

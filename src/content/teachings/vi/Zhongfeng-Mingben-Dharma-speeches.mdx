@@ -1,5 +1,5 @@
 ---
-title: "Trung Phong Pháp Ngữ"
+title: "TRUNG PHONG PHÁP NGỮ"
 meta_title: "Trung Phong Pháp Ngữ"
 description: "Trung Phong Pháp Ngữ (trích trong Chỉ Nguyệt Lục của bộ Tục Tạng Kinh) (Thiền sư Trung Phong Minh Bản)"
 date: 2024-11-04
@@ -10,6 +10,11 @@ draft: false
 
 import VintagePost from "../../../layouts/components/VintagePost.astro";
 import ZhongfengSpeeches from "../../../db/teachings/ZhongfengSpeeches.tsx";
+import Youtube from "../../../layouts/shortcodes/Youtube";
+
+<div style="width: 50%">
+  <Youtube client:load id={ZhongfengSpeeches?.youtubeId} title={ZhongfengSpeeches?.title} />
+</div>
 
 <VintagePost
   hasMultiParagraph={true}
