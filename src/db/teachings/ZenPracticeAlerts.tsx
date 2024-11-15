@@ -210,9 +210,9 @@ const ZenPracticeAlerts = {
     'Nếu sau khi ngộ chẳng gặp đại Thiện-tri-thức, dẫu được an lạc tự tại cũng chưa phải xong. / ' +
     'Ngài Bảo Phương khuyến khích tôi bằng bài Kệ : / ' +
     'Lấy không để quét không thì công rất lớn, ' +
-    'Lấy có để tìm có thì đức càng nhỏ. ' +
+    'Lấy có để tìm có thì đức càng nhỏ. / ' +
     'Không nên dùng sự hiểu biết của mình để phỉ báng Tổ-sư. ' +
-    'Chỗ được tiệnnghi tức là mất tiện nghi. ' +
+    'Chỗ được tiện nghi tức là mất tiện nghi. ' +
     'Đây là câu đầu sào trăm thước tiến bước, người tham-thiền cần phải xét kỹ. ' +
     'Tôi thường nói với người học :“Tôi được hai chữ chẳng phải của ngài Bảo Phương thọ dụng bất tận”.',
   paragraph10:
@@ -235,18 +235,26 @@ const ZenPracticeAlerts = {
     'Như người hỏi đường đến Trường-an, chỉ có thể hỏi đường, chứ chẳng nên hỏi việc ở Trường-an. ' +
     'Người kia có nói rõ ràng mọi việc ở Trường-an, trọn là cái việc của người kia thấy chứ chẳng phải người hỏi đường đích thân thấy. ' +
     'Nếu chẳng cố gắng tham-cứu mà cầu người nói trắng ra, cũng giống như vậy. / ' +
-    '* Tham-thiền chẳng phải niệm Công-án, niệm tới niệm lui có gì dính dáng, niệm đến lúc ngài Di-lặc hạ sanh cũng không dính dáng, sao chẳng niệm A-di-đà Phật còn có lợi ích hơn. ' +
-    'Chẳng những bảo chẳng cần niệm mà phải luôn luôn đề khởi thoại-đầu, như khán chữ Vô thì ở trên chữ vô khởi nghi-tình, như khán Cây bách thì ở trên cây bách khởi nghi-tình, như khán Một qui về chỗ nào, thì ở trên qui về chỗ nào khởi nghi-tình. ' +
+    '* Tham-thiền chẳng phải niệm Công-án, niệm tới niệm lui có gì dính dáng, niệm đến lúc ngài Di-lặc hạ sanh cũng không dính dáng, ' +
+    'sao chẳng niệm A-di-đà Phật còn có lợi ích hơn. / ' +
+    'Chẳng những bảo chẳng cần niệm mà phải luôn luôn đề khởi thoại-đầu, như khán chữ Vô thì ở trên chữ vô khởi nghi-tình, ' +
+    'như khán Cây bách thì ở trên cây bách khởi nghi-tình, như khán Một qui về chỗ nào, thì ở trên qui về chỗ nào khởi nghi-tình. ' +
     'Nghi-tình phát khởi thì tận mười phương thế giới là một khối nghi, chẳng biết có thân tâm cha mẹ sanh. ' +
     'Toàn thân là một khối nghi, chẳng biết có mười phương thế giới, chẳng phải trong chẳng phải ngoài, đập lại thành một khối; chỉ đợi khối nghi kia tự vỡ như thùng đứt dây đay, gặp Thiện-tri-thức, chẳng đợi mở miệng; ' +
     'Đại-sự xong xuôi mới vỗ tay cười lớn; nhìn lại sự niệm Công-án thật giống như chim Anh-vũ học nói, nào có dính dáng gì đến Đại-sự ?. / ' +
     '* Tham-thiền chẳng nên đánh mất Chánh-niệm dù trong khoảnh khắc. Nếu đánh mất Chánh-niệm tham-cứu ắt bị cuốn theo dị đoan, quên quay trở lại. ' +
-    'Như người tĩnh tọa chỉ thích tịch lặng, lấy cái thuần thanh tuyệt điểm cho là Phật-sự, đây gọi là mất Chánh-niệm, vì rơi vào trong tịch lặng. Hoặc nhận lấy cái hay giảng, hay nói, hay động, hay tịnh là Phật-sự, đây cũng gọi là mất Chánh-niệm, vì niệm thức-thần. ' +
-    'Hoặc lấy sự đè ép vọng tâm không cho mống khởi là Phật-sự, đây cũng gọi là mất Chánh-niệm, vì vọng tâm đè vọng tâm như đá đè cỏ, lại như lột bẹ chuối, hết lớp này đến lớp khác, không biết đến ngày nào mới xong. Hoặc quán tưởng thân tâm như hư không, chẳng khởi niệm như tường vách, đây gọi là mất Chánh-niệm. ' +
+    'Như người tĩnh tọa chỉ thích tịch lặng, lấy cái thuần thanh tuyệt điểm cho là Phật-sự, đây gọi là mất Chánh-niệm, vì rơi vào trong tịch lặng. / ' +
+    'Hoặc nhận lấy cái hay giảng, hay nói, hay động, hay tịnh là Phật-sự, đây cũng gọi là mất Chánh-niệm, vì niệm thức-thần. ' +
+    'Hoặc lấy sự đè ép vọng tâm không cho mống khởi là Phật-sự, đây cũng gọi là mất Chánh-niệm, ' +
+    'vì vọng tâm đè vọng tâm như đá đè cỏ, lại như lột bẹ chuối, hết lớp này đến lớp khác, không biết đến ngày nào mới xong. / ' +
+    'Hoặc quán tưởng thân tâm như hư không, chẳng khởi niệm như tường vách, đây gọi là mất Chánh-niệm. / ' +
     'Ngài Huyền Sa nói : “Nghĩ muốn \'ngưng tâm thức niệm, nhiếp sự về không\' tức là rơi vào phái Ngoại-đạo chủ trương không-vong như người chết hồn chẳng tan”. / ' +
-    '* Tham-thiền nghi-tình phát khởi, lại cần phải đập cho vỡ, phải xác thật Chánh-niệm phát đại dũng mãnh, ở trong khẩn thiết lại càng khẩn thiết mới được. ' +
-    'Ngài Kính Sơn nói : “Bậc Đại-trượng-phu muốn cứu cánh một đoạn Đại-sự nhân duyên này phải là hạng người đập vỡ da mặt, tánh tình nóng nảy, dựng đứng xương sống, chẳng thuận nhân tình, đem cái chỗ nghi xưa nay của mình dán trên trán ' +
-    'như thiếu nợ người muôn trăm quan tiền bị người đòi ngặt không có tiền để trả, chỉ sợ người sỉ nhục, sự kiện này không gấp cũng phải gấp, không vội cũng phải vội, không lớn cũng phải lớn thì mới có phần xu hướng (ngộ).  ',
+    '* Tham-thiền nghi-tình phát khởi, lại cần phải đập cho vỡ, phải xác thật Chánh-niệm phát đại dũng mãnh, ' +
+    'ở trong khẩn thiết lại càng khẩn thiết mới được. ' +
+    'Ngài Kính Sơn nói : “Bậc Đại-trượng-phu muốn cứu cánh một đoạn Đại-sự nhân duyên này phải là hạng người đập vỡ da mặt, ' +
+    'tánh tình nóng nảy, dựng đứng xương sống, chẳng thuận nhân tình, đem cái chỗ nghi xưa nay của mình dán trên trán ' +
+    'như thiếu nợ người muôn trăm quan tiền bị người đòi ngặt không có tiền để trả, chỉ sợ người sỉ nhục, ' +
+    'sự kiện này không gấp cũng phải gấp, không vội cũng phải vội, không lớn cũng phải lớn thì mới có phần xu hướng (ngộ).  ',
   paragraph11:
     'CHƯƠNG II: BÌNH LUẬN CẢNH NGỮ KHAI THỊ CỦA CỔ NHÂN',
   paragraph12:
