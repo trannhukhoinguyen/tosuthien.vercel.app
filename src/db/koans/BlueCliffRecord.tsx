@@ -238,12 +238,12 @@ const BlueCliffRecord = [
     },
   {
       id: 5,
-      title: 'TẮC THỨ 5: ',
+      title: 'TẮC THỨ 5: HẠT GẠO CỦA TUYẾT PHONG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
       main:
-        '',
+        'Tuyết Phong dạy chúng nói rằng: “ Gom cả trời đất lại, chỉ lớn bằng một hạt gạo. Ném xuống trước mặt, nếu vẫn mê mờ không hiểu tôi sẽ đánh trống mời tất cả mọi người đến xem.',
     commentBeforeVerse:
       '',
     verse:
@@ -253,12 +253,13 @@ const BlueCliffRecord = [
     },
   {
       id: 6,
-      title: 'TẮC THỨ 6: ',
+      title: 'TẮC THỨ 6: MỘT NGÀY ĐẸP CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
       main:
-        '',
+        'Vân Môn Đại Sư nói, “ Không hỏi ông về trước ngày mười lăm, sau ngày 15 thử nói một câu xem ?” / ' +
+'Rồi tự trả lời, “Ngày nào cũng là một ngày đẹp”',
     commentBeforeVerse:
       '',
     verse:
