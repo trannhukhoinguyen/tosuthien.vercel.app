@@ -1,29 +1,4 @@
 const BlueCliffRecord = [
-/*  {
-    id: '',
-    title: '',
-    image: '',
-    intro:
-      '',
-    main:
-      '',
-    commentBeforeVerseExtra:
-      '',
-    verseExtraOriginal:
-      '',
-    verseExtra:
-      '',
-    commentAfterVerseExtra:
-      '',
-    commentBeforeVerse:
-      '',
-    verseOriginal:
-      '',
-    verse:
-      '',
-    commentAfterVerse:
-      '',
-  },*/
   {
       id: 1,
       title: 'TẮC THỨ 1: CÁI TRỐNG KHÔNG CỦA ĐẠT MA',
@@ -234,7 +209,7 @@ const BlueCliffRecord = [
 'Thủ tòa nói, “Lúc ấy ông ta quay lưng về Pháp đường, mang dép cỏ vào rồi bỏ đi.” / ' +
 'Qui sơn nói, "Người ấy sau này thế nào cũng lên đỉnh cao tự xây am cỏ mà tiếp tục bài Phật bang Tổ” / ' +
 'Qui Sơn chịu buông tha Đức Sơn bao giờ? Dù sao Đức Sơn cũng kỳ đặc hết sức. Đến chỗ này tại sao Tuyết Đậu lại nói, “Trên đỉnh cô đơn ngồi trong cỏ?” Xong rồi lại hét? / ' +
-'Thử nói xem , ý của thầy ta là ở chổ nào? Tham Thiền thêm 30 năm nữa đi !!!',
+'Thử nói xem, Ý của thầy ta là ở chỗ nào? Tham Thiền thêm 30 năm nữa đi !!!',
     },
   {
       id: 5,
@@ -243,7 +218,7 @@ const BlueCliffRecord = [
       intro:
         '',
       main:
-        'Tuyết Phong dạy chúng nói rằng: “ Gom cả trời đất lại, chỉ lớn bằng một hạt gạo. Ném xuống trước mặt, nếu vẫn mê mờ không hiểu tôi sẽ đánh trống mời tất cả mọi người đến xem.',
+        'Tuyết Phong dạy chúng nói rằng: “Gom cả trời đất lại, chỉ lớn bằng một hạt gạo. Ném xuống trước mặt, nếu vẫn mê mờ không hiểu tôi sẽ đánh trống mời tất cả mọi người đến xem.',
     commentBeforeVerse:
       '',
     verse:
@@ -258,8 +233,8 @@ const BlueCliffRecord = [
       intro:
         '',
       main:
-        'Vân Môn Đại Sư nói, “ Không hỏi ông về trước ngày mười lăm, sau ngày 15 thử nói một câu xem ?” / ' +
-'Rồi tự trả lời, “Ngày nào cũng là một ngày đẹp”',
+        'Vân Môn Đại Sư nói, “Không hỏi ông về trước ngày 15, sau ngày 15 thử nói một câu xem ?” / ' +
+'Rồi tự trả lời, “Ngày nào cũng là một ngày đẹp !”',
     commentBeforeVerse:
       '',
     verse:
@@ -269,12 +244,13 @@ const BlueCliffRecord = [
     },
   {
       id: 7,
-      title: 'TẮC THỨ 7: ',
+      title: 'TẮC THỨ 7: HUỆ SIÊU HỎI VỀ PHẬT',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
       main:
-        '',
+        'Có ông tăng (Huệ Siêu) hỏi Pháp Nhãn, “Huệ Siêu xin hỏi hòa thượng, Phật là gì?” / ' + 
+'Pháp Nhãn nói, “Chú là Huệ Siêu”',
     commentBeforeVerse:
       '',
     verse:
@@ -284,12 +260,15 @@ const BlueCliffRecord = [
     },
   {
       id: 8,
-      title: 'TẮC THỨ 8: ',
+      title: 'TẮC THỨ 8: THÚY NHAM DẠY ĐỒ CHÚNG CUỐI HẠ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
       main:
-        '',
+        'Cuối mùa kiết hạ Thúy Nham dạy chúng rằng, “Cả một mùa hạ Thuý Nham đã nói chuyện với các huynh đệ. Thử nhìn xem lông mày của Thúy Nham có còn không ?” / ' +
+'Bảo Phúc nói, “Kẻ làm giặc tâm trống không” / ' +
+'Trường khánh nói, “ Sinh” / ' + 
+'Vân Môn nói, “Quan”',
     commentBeforeVerse:
       '',
     verse:
