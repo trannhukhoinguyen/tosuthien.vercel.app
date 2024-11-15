@@ -2013,15 +2013,25 @@ const BlueCliffRecord = [
 
   {
     id: 98,
-    title: 'TẮC THỨ 98: ',
+    title: 'TẮC THỨ 98: HAI CÁI SAI CỦA THIÊN BÌNH HÒA THƯỢNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Lúc Thiên Bình hòa thượng đi hành cước có đến tham kiến Tây Viện. Thường nói rằng, “Đừng nói là ông hiểu Phật pháp, tìm một người cử được thoại đầu cũng chẳng ra.” / ' +
+'Một hôm Tây Viện trông thấy Thiên Bình từ xa, gọi rằng, “ Tùng Ỷ!” Thiên Bình ngẩng đầu. Tây Viện nói, “ Sai!” Thiên Bình bước tới hai ba bước, Tây Viện lại nói, “ sai!”Thiên Bình bước đến gần; Tây Viện nói, “ Hai cái sai vừa rồi, là Tây Viện sai hay là thượng tọa sai?” Thiên Bình nói, “Tùng Ỷ sai.” Tây Viện nói, “Ở đây qua mùa hạ đi, rồi tôi sẽ cùng thượng tọa bàn về hai cái sai kia.” Thiên Bình lúc ấy vẫn bỏ đi. / ' +
+'Sau này lúc trụ viện, Thiên Bình nói với đại chúng rằng, “Ban đầu lúc tôi đi hành cước , bị gió nghiệp thổi đến tận chỗ Tử Minh Trưởng Lão, Trưởng Lão nói, “ Sai!” hai lần liên tiếp, rồi lại giữ tôi qua mùa hạ, để mà bàn luận. Không phải lúc đó tôi mới sai, ngay lúc khởi hành đi phương nam, tôi đã biết là sai rồi.”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Các Thiền gia, / ' +
+'Thích khinh bạc / ' +
+'Tham đầy một bụng dùng chẳng được, / ' +
+'Đáng buốn đáng cười lão Thiên Bình / ' +
+'Lại hận lúc đầu đã hành cước / ' +
+'Sai, sai! / ' +
+'Gió mát Tây Viện tan chẩy ngay / ' +
+'Tuyết Đậu lại nói, “Nếu như có ông tăng bước ra nói, ‘Sai!’ Cái ‘sai” của Tuyết Đậu phải so sánh như thế nào với cái ‘sai’ của Thiên Bình.”',
     verseTranslated:
       ' ',
     verseExtra: '',
@@ -2032,12 +2042,15 @@ const BlueCliffRecord = [
 
   {
     id: 99,
-    title: 'TẮC THỨ 99: ',
+    title: 'TẮC THỨ 99: THẬP THÂN ĐIỀU NGỰ CỦA TÚC TÔNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Túc Tông Hoàng Đế hỏi Huệ Trung Quốc Sư, “Thập thân điều ngự là gì?” / ' +
+'Quốc Sư nói, “Thí chủ bước trên đầu Tì Lô mà đi” / ' +
+'Túc Tông nói, “ Quả nhân không hiểu.” / ' +
+'Quốc Sư nói, “Đừng nhận thanh tịnh Pháp thân của mình.”',
     commentBefore:
       '',
     verse: '',
@@ -2051,12 +2064,13 @@ const BlueCliffRecord = [
 
   {
     id: 100,
-    title: 'TẮC THỨ 100: ',
+    title: 'TẮC THỨ 100: KIẾM SẮC CỦA BA LĂNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Ba Lăng, “Kiếm sắc là gì?” / ' +
+'Ba Lăng nói, “Từng nhánh san hô chống đỡ mặt trăng”',
     commentBefore:
       '',
     verse: '',
