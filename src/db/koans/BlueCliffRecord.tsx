@@ -149,16 +149,28 @@ const BlueCliffRecord = [
   },
   {
     id: 2,
-    title: 'TẮC THỨ 2: ',
+    title: 'TẮC THỨ 2: CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU',
     image: '/images/meta-image-square-1',
     intro:
-      '',
+      'Trời đất hẹp, trăng sao tinh tú đồng thời tối ám. Dù cho là gậy giáng xuống như mưa sa, tiếng hét vang dội như sấm động, các ông vẫn chưa đảm đương được việc hướng thượng của tông môn. Dù cho là chư Phật của 3 đời, cũng chỉ có thể tự biết. Tổ Sư của các thế hệ cũng không thể đề cập rốt ráo được vấn đề. Cả một kho giáo lý cũng không giải thích hết, các tăng sĩ thông thái cũng không tự cứu được. Đã đến mức độ này rồi, làm thế nào còn xin chỉ đạo nữa được? Nói ra chữ “Phật” chẳng khác gì là lội trong nước bùn, nói ra chữ “ Thiền” cả mặt lúng túng. Bậc thượng sĩ có công tu tập lâu dài chẳng cần phải đợi ai nói, còn kẻ hậu học căn cơ thô thiển thì vẫn cần phải điều nghiên và hiểu thấu.',
     main:
-      '',
+      'Triệu Châu dạy chúng nói, “Đạo lớn không khó miễn đừng so đo. Vừa có ngôn ngữ lập tức có lựa chọn so đo. Điều này hết sức minh bạch. Lão tăng này chẳng ở nơi minh bạch. Các ông có còn trì giữ gì chăng?” / ' +
+'Lúc ấy có ông tăng hỏi, “Không ở nơi minh bạch, thì thầy trì giữ cái gì?” / ' +
+'Triệu Châu nói “Tôi cũng chẳng biết nữa” / ' + 
+'Ông tăng nói, “Hòa thượng đã không biết cớ sao còn nói là không ở nơi minh bạch ?” / ' + 
+'Triệu Châu nói, “Hỏi về vấn đề là đủ rồi. Mau lạy rồi trở lui.” ',
     commentBeforeVerse:
       '',
     verse:
-      '',
+      'Đạo lớn không khó / ' +
+'Đầu mối ngôn ngữ / ' +
+'Một có nhiều loại / ' +
+'Hai không nhị nguyên / ' +
+'Chân trời nhật nguyệt lên xuống / ' +
+'Ngoài song núi thâm nước lạnh / ' +
+'Trong đầu ý cạn sao còn vui / ' +
+'Cây khô điệu sáo vẫn chưa dứt / ' +
+'Khó thật! Khó thật!',
     commentAfterVerse:
       '',
   },
