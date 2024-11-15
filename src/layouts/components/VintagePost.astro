@@ -67,7 +67,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
         hasMultiParagraph && multiParagraph?.length
           ? multiParagraph?.map(paragraph => paragraph.includes(' / ')
               ? paragraph?.split(' / ').map(line => <p>{line}</p>)
-              : paragraph
+              : <p>{paragraph}</p>
           )
           : null
       }
