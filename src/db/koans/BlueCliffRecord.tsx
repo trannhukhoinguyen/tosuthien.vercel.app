@@ -1,4 +1,4 @@
-const BlueCliffRecord = [
+7const BlueCliffRecord = [
   {
       id: 1,
       title: 'TẮC THỨ 1: CÁI TRỐNG KHÔNG CỦA ĐẠT MA',
@@ -575,7 +575,7 @@ verse:
 'Thúy vi nói, “Đưa dùm Thiền bản cho tôi coi”  / ' +
 'Long Nha Thiền bản cho Thúy Vi, Thúy Vi tiếp lấy rồi đánh Long Nha. / ' +
 'Long Nha nói, “Đánh thì cứ việc đánh, song cũng chẳng có gì nhằm nhò đến ý của Tổ Sư từ Tây Thiên qua cả !” / ' +
-'Long Nha lại hỏi Lâm Tế, “Thế nào là ý của Tổ Sư từ Tây Thiên qua?” / ' +
+'Long Nha lại hỏi Lâm Tế, “Thế nào là ý của Tổ Sư từ Tây Thiên qua ?” / ' +
 'Lâm Tế nói, “Đưa dùm bồ đoàn cho tôi coi” / ' +
 'Long Nha cầm bồ đoàn đưa cho Lâm Tế, Lâm Tế tiếp lấy rồi đánh Long Nha. / ' +
 'Long Nha nói, “Đánh thì cứ việc đánh, song chẳng có gì nhằm nhò đến ý của Tổ Sư từ Tây Thiên qua cả !”',
@@ -601,7 +601,7 @@ verse:
     intro:
       '',
     main:
-      'Có ông tăng hỏi Trí Môn, “Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào?” / ' + 
+      'Có ông tăng hỏi Trí Môn, “Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào ?” / ' + 
 'Trí Môn nói, “Hoa sen” / ' +
 'Ông tăng lại hỏi, “Sau khi ngoi lên khỏi mặt nước rồi thì như thế nào ?” / ' +
 'Trí Môn nói, “Lá sen”',
@@ -665,7 +665,7 @@ verse:
       '',
     main:
 'Bảo Phúc và Trường Khánh đi chơi núi, Bảo Phúc lấy tay chỉ nói, “Đây chính là Diệu Phong Đỉnh” / ' +
-'Trường Khánh nói, “Đúng thế, song đáng tiếc thật!” / ' +
+'Trường Khánh nói, “Đúng thế, song đáng tiếc thật !” / ' +
 'Tuyết Đậu phê bình rằng, “Hôm nay đi chơi núi với mấy tay kia để làm gì?”. Rồi lại nói thêm, “Trăm ngàn năm sau không nói là không có, chỉ là ít mà thôi” / ' +
 'Sau có người thuật lại cho Kính Thanh. Kính Thanh nói, “Nếu như không nhờ Tôn công (Bảo Phúc) thì hẳn chúng ta đã thấy đầu lâu 
 đầy đồng rồi”',
