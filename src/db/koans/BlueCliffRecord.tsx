@@ -321,15 +321,21 @@ const BlueCliffRecord = [
 
   {
     id: 11,
-    title: 'TẮC THỨ 11: ',
+    title: 'TẮC THỨ 11: KẺ UỐNG CẶN RƯỢU CỦA HOÀNG BÁ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Hoàng Bá dạy chúng rằng, “Các ông chỉ là những kẻ uống cặn rượu. Hành cước như thế, ở đâu có ngày hôm nay? Có biết là trong xứ Trung Quốc này không có Thiền Sư chăng?” / ' +
+'Lúc ấy có ông tăng bước ra nói, “Thế những người hướng dẫn đồ chúng ở khắp các nơi thì sao?” / ' +
+'Hoàng Bá nói, “Tôi đâu có bảo là không có Thiền, chỉ có điều không có những bậc thầy mà thôi.”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Lẫm liệt siêu quần chẳng tự khoe / ' +
+'Biển đời ngồi nghiêm phân rồng rắn / ' +
+'Đại Trung thiên tử từng coi nhẹ / ' +
+'Ba bận đích thân đụng móng vuốt',
     verseTranslated:
       ' ',
     verseExtra: '',
