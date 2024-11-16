@@ -596,15 +596,23 @@ verse:
 
   {
     id: 21,
-    title: 'TẮC THỨ 21: ',
+    title: 'TẮC THỨ 21: HOA 
+SEN CỦA TRÍ MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Trí Môn, “Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào?” / ' + 
+'Trí Môn nói, “Hoa sen” / ' +
+'Ông tăng lại hỏi, “Sau khi ngoi lên khỏi mặt nước rồi thì như thế nào ?” / ' +
+'Trí Môn nói, “Lá sen”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Hoa sen lá sen cho ngài biết / ' +
+'Ngoi lên sao bằng lúc chưa ngoi ? / ' +
+'Giang Bắc Giang Nam hỏi Vương lão / ' +
+'Một hồ nghi rồi một hồ nghi',
     verseTranslated:
       ' ',
     verseExtra: '',
