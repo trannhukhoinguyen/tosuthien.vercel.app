@@ -1,4 +1,4 @@
-aconst BlueCliffRecord = [
+const BlueCliffRecord = [
   {
       id: 1,
       title: 'TẮC THỨ 1: CÁI TRỐNG KHÔNG CỦA ĐẠT MA',
@@ -404,17 +404,24 @@ aconst BlueCliffRecord = [
 
   {
     id: 14,
-    title: 'TẮC THỨ 14: ',
+    title: 'TẮC THỨ 14: MỘT LỜI ĐÚNG CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Vân Môn, “Thế nào là giáo lý của cả một thời đại (của Phật) ? / ' +
+'Vân Môn nói, “Một lời đúng”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Một lời đúng / ' +
+'Quá siêu tuyệt ! ' +
+'Đóng chốt vào tấm sắt không lỗ / ' +
+'Dưới cây Diêm Phù cười ha ha ! / ' +
+'Đêm qua rồng hiển bị gẫy sừng / ' +
+'Thiều Dương lão nhân được một sừng',
     verseTranslated:
-      ' ',
+      '',
     verseExtra: '',
     verseExtraTranslated: '',
     commentAfter:
