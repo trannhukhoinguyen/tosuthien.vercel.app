@@ -435,8 +435,8 @@ const BlueCliffRecord = [
     intro:
       '',
     main:
-      “Không phải là tâm cơ trước mắt, cũng chẳng phải là sự việc trước mắt, lúc ấy thì như thế nào?” / ' + 
-'Vân Môn nói, “Một câu nói ngược.”',
+      'Có ông tăng hỏi: “Không phải là tâm cơ trước mắt, cũng chẳng phải là sự việc trước mắt, lúc ấy thì như thế nào?” / ' + 
+'Vân Môn nói: “Một câu nói ngược”',
     commentBefore:
       '',
     verse: 
@@ -457,15 +457,26 @@ const BlueCliffRecord = [
 
   {
     id: 16,
-    title: 'TẮC THỨ 16: ',
+    title: 'TẮC THỨ 16: NGƯỜI TRONG CỎ CỦA KÍNH THANH',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Kính Thanh: “Đệ tử cắn, xin thầy mổ” / ' +
+'Kính Thanh nói: “Còn sống được không?” / ' +
+'Ông tăng nói: “Nếu không sống được thế nào cũng bị người ta chê cười” / ' +
+'Kính Thanh nói: “Ông cũng là một người trong cỏ”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Cổ Phật có gia phong / ' +
+'Đối đáp bị dè bỉu / ' +
+'Mẹ con không biết nhau / ' +
+'Hỏi ai cùng cắn mổ ? / ' +
+'Cắn, tỉnh / ' +
+'Còn trong vỏ / ' +
+'Bị đánh thêm / ' +
+'Thiên hạ nạp tăng mõ vô ích',
     verseTranslated:
       ' ',
     verseExtra: '',
@@ -476,15 +487,20 @@ const BlueCliffRecord = [
 
   {
     id: 17,
-    title: 'TẮC THỨ 17: ',
+    title: 'TẮC THỨ 17: HƯƠNG LÂM NGỒI LÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Hương Lâm: “Thế nào là ý của Tổ Sư từ Tây Thiên qua?” / ' +
+'Hương Lâm nói: “Ngồi lâu thấm mệt”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Một người hai người ngàn vạn người / ' +
+'Tháo hết giây cương cởi hết yên / ' +
+'Xoay trái xoay phải theo sau đến / ' +
+'Tử Hồ muốn đánh Lưu Thiết Ma',
     verseTranslated:
       ' ',
     verseExtra: '',
@@ -495,18 +511,17 @@ const BlueCliffRecord = [
 
   {
     id: 18,
-    title: 'TẮC THỨ 18: ',
+    title: 'TẮC THỨ 18: TÚC TÔNG THỈNH PHÁP',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
-    commentBefore:
-      '',
-    verse: '',
-    verseTranslated:
-      ' ',
-    verseExtra: '',
+      'Túc Tông Hoàng Đế hỏi Huệ Trung quốc Sư, “Trăm năm sau cần có vật gì?” / ' +
+'Quốc Sư nói, “Xin bệ hạ xây cho tôi một ngôi tháp không đường vá (tháp vô phùng)” / ' +
+'Túc Tông nói, “Xin thầy cho tôi biết tháp ấy giống như thế nào?” / ' +
+'Quốc Sư im lặng hồi lâu hỏi, “Bệ hạ hiểu không?” / ' +
+'Túc Tông nói: “Không hiểu” / ' +
+'Quốc Sư nói: “Tôi có ngườ    verseExtra: '',
     verseExtraTranslated: '',
     commentAfter:
       '',
@@ -522,7 +537,8 @@ const BlueCliffRecord = [
       '',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'',
     verseTranslated:
       ' ',
     verseExtra: '',
@@ -541,7 +557,8 @@ const BlueCliffRecord = [
       '',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'',
     verseTranslated:
       ' ',
     verseExtra: '',
