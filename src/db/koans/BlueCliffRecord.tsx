@@ -278,31 +278,43 @@ const BlueCliffRecord = [
     },
   {
       id: 9,
-      title: 'TẮC THỨ 9: ',
+      title: 'TẮC THỨ 9: BỐN CỬA CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
       main:
-        '',
+        'Có ông tăng hỏi Triệu Châu, “Triệu Châu là gì?“ / ' +
+'Triệu Châu nói, “Đông môn, nam môn, tây môn, bắc môn”',
     commentBeforeVerse:
       '',
     verse:
-      '',
+      'Trong câu vấn để trình thẳng đến / ' +
+'Trong mắt kim cương không hạt bụi / ' +
+'Đông nam tây bắc đối diện nhau / ' +
+'Bao nhiêu trùy đập mở không ra',
     commentAfterVerse:
         '',
     },
   {
       id: 10,
-      title: 'TẮC THỨ 10: ',
+      title: 'TẮC THỨ 10: BA TIẾNG HÉT CỦA MỤC CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
       main:
-        '',
+        'Mục Châu hỏi ông tăng, “Ông mới từ đâu đến vậy?” Ông tăng bèn hét. / ' +
+'Mục Châu nói, “Lão tang bị ông hét một lần”. Ông tăng lại hét nữa. / ' +
+'Mục Châu nói, “Ba bốn tiếng hét, sau đó thì sao?” Ông tăng không nói gì được. / ' +
+'Mục Châu bèn đánh rồi nói, “Cái gã vô tích sự này.”',
     commentBeforeVerse:
       '',
     verse:
-      '',
+      'Hai hét với ba hét / ' +
+'Thành thạo biết cơ biến / ' +
+'Nếu như cưỡi lưng cọp / '+
+'Cả hai thành ra mù / ' +
+'Ai mù đâu ? / ' +
+'Nêu lên cho cả thiên hạ xem !',
     commentAfterVerse:
         '',
     },
