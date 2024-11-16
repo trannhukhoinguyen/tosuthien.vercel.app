@@ -518,34 +518,44 @@ const BlueCliffRecord = [
     main:
       'Túc Tông Hoàng Đế hỏi Huệ Trung quốc Sư, “Trăm năm sau cần có vật gì?” / ' +
 'Quốc Sư nói, “Xin bệ hạ xây cho tôi một ngôi tháp không đường vá (tháp vô phùng)” / ' +
-'Túc Tông nói, “Xin thầy cho tôi biết tháp ấy giống như thế nào?” / ' +
+'Túc Tông nói, “Xin thầy cho tôi biết tháp ấy giống như thế nào ?” / ' +
 'Quốc Sư im lặng hồi lâu hỏi, “Bệ hạ hiểu không?” / ' +
 'Túc Tông nói: “Không hiểu” / ' +
-'Quốc Sư nói: “Tôi có người đệ tử truyền Pháp là Trầm Nguyên rất hiểu việc này, xin Bệ Hạ vời người ấy vào mà hỏi.” Sau khi Quốc Sư mất, Túc Tông vời Trầm Nguyên vào hỏi ý nghĩa của việc trên. / ' +
-'Trầm Nguyên nói: / ' +
+'Quốc Sư nói: “Tôi có người đệ tử truyền Pháp là Trầm Nguyên rất hiểu việc này, xin Bệ Hạ vời người ấy vào mà hỏi” / ' +
+'Sau khi Quốc Sư mất, Túc Tông vời Trầm Nguyên vào hỏi ý nghĩa của việc trên. @ Trầm Nguyên nói: / ' +
 'Phía nam Tương, phía bắc Đàm / ' +
 'Ở giữa có vàng cho cả nước / ' +
 'Dưới cây không bóng từng đoàn thuyền / ' +
 'Trong điện lưu ly không tri thức / ' +
-'Tuyết Đậu bình rằng: / ' +
+'@ Tuyết Đậu bình rằng: / ' +
 'Tiếng một bàn tay không kêu lớn / ' +
 'Cây trượng cổ quái / ' +
 'Biển yên sông trong / ' + 
 'Nêu lên rồi',
+verse:
+'Tháp không vá / ' +
+'Còn khó thấy / ' +
+'Hồ trong không để rồng cuộn khúc / ' +
+'Hàng lớp lớp / ' +
+'Bóng chập chùng / ' +
+'Thiên cổ vạn cổ cho người xem',
   },
 
   {
     id: 19,
-    title: 'TẮC THỨ 19: ',
+    title: 'TẮC THỨ 19: NGÓN TAY THIỀN CỦA CÂU CHI',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Câu Chi hòa thượng mỗi khi có ai hỏi gì chỉ dơ 1 ngón tay lên.',
     commentBefore:
       '',
     verse: 
-'',
+'Thâm ái Câu Chi khéo dạy người / ' +
+'Vũ trụ vốn không nào có ai ? / ' +
+'Từng thả nhánh bè trong biển lớn / ' +
+'Sóng đêm đẩy tới con rùa mù',
     verseTranslated:
       ' ',
     verseExtra: '',
@@ -556,16 +566,26 @@ const BlueCliffRecord = [
 
   {
     id: 20,
-    title: 'TẮC THỨ 20: ',
+    title: 'TẮC THỨ 20: LONG NHA VÀ Ý CỦA TỔ SƯ TỪ TÂY THIÊN QUA',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Long Nha hỏi Thúy Vi, “Thế nào là ý của Tổ Sư từ Tây Thiên qua?” / ' +
+'Thúy vi nói, “Đưa dùm Thiền bản cho tôi coi”  / ' +
+'Long Nha Thiền bản cho Thúy Vi, Thúy Vi tiếp lấy rồi đánh Long Nha. / ' +
+'Long Nha nói, “Đánh thì cứ việc đánh, song cũng chẳng có gì nhằm nhò đến ý của Tổ Sư từ Tây Thiên qua cả !” / ' +
+'Long Nha lại hỏi Lâm Tế, “Thế nào là ý của Tổ Sư từ Tây Thiên qua?” / ' +
+'Lâm Tế nói, “Đưa dùm bồ đoàn cho tôi coi” / ' +
+'Long Nha cầm bồ đoàn đưa cho Lâm Tế, Lâm Tế tiếp lấy rồi đánh Long Nha. / ' +
+'Long Nha nói, “Đánh thì cứ việc đánh, song chẳng có gì nhằm nhò đến ý của Tổ Sư từ Tây Thiên qua cả !”',
     commentBefore:
       '',
     verse: 
-'',
+'Trong núi Long Nha rồng không mắt / ' +
+'Nước chết làm sao chấn cổ phong ? / ' +
+'Thiền bản bồ đoàn không dùng được / ' +
+'Chỉ cần đem trao cho Lô công',
     verseTranslated:
       ' ',
     verseExtra: '',
