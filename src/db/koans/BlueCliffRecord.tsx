@@ -521,10 +521,17 @@ const BlueCliffRecord = [
 'Túc Tông nói, “Xin thầy cho tôi biết tháp ấy giống như thế nào?” / ' +
 'Quốc Sư im lặng hồi lâu hỏi, “Bệ hạ hiểu không?” / ' +
 'Túc Tông nói: “Không hiểu” / ' +
-'Quốc Sư nói: “Tôi có ngườ    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
-      '',
+'Quốc Sư nói: “Tôi có người đệ tử truyền Pháp là Trầm Nguyên rất hiểu việc này, xin Bệ Hạ vời người ấy vào mà hỏi.” Sau khi Quốc Sư mất, Túc Tông vời Trầm Nguyên vào hỏi ý nghĩa của việc trên. / ' +
+'Trầm Nguyên nói: / ' +
+'Phía nam Tương, phía bắc Đàm / ' +
+'Ở giữa có vàng cho cả nước / ' +
+'Dưới cây không bóng từng đoàn thuyền / ' +
+'Trong điện lưu ly không tri thức / ' +
+'Tuyết Đậu bình rằng: / ' +
+'Tiếng một bàn tay không kêu lớn / ' +
+'Cây trượng cổ quái / ' +
+'Biển yên sông trong / ' + 
+'Nêu lên rồi',
   },
 
   {
