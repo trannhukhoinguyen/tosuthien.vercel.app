@@ -8,20 +8,19 @@ const GatelessGate = [
       'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? ' + 
       'Hòa thượng Triệu Châu đáp: Không',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: ' +
-'Kẻ muốn tham thiền trước tiên phải vượt qua những ải chắn do các vị tổ sư đặt ra. Người muốn ngộ đạo một cách tuyệt diệu bắt buộc trải qua giai đoạn triệt để xóa sạch mọi ý thức. ' +
-'Nếu không vượt nổi ải chắn của tổ, không dẹp bỏ được mọi ý thức thì còn giống hồn phách phải nương tựa cây cỏ.  ' +
-'Thế thì cửa ải của các tổ là gì nào? Ở đây nó chỉ là một chữ Vô (Không) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. ' +
-'Muốn dùng một cái tên ngắn gọn thì gọi nó là cái “Ải tên là Vô” hay Ải không cửa của nhà Thiền. ' + 
-'Kẻ vượt được cái ải chắn này rồi, chẳng những có thể gặp gỡ hòa thượng Triệu Châu, mắt trong mắt, mà còn có thể kết nối lông mi lông mày với chư vị tổ sư, nhìn mọi vật bằng bằng con mắt của tổ, nghe mọi tiếng bằng lỗ tai của tổ.  ' +
-'Có phải thống khoái không? ' + 
-'Có ai muốn vượt qua cái cửa ải kỳ diệu này không? Nếu có thì hãy tổng động viên 365 khớp xương cùng với 84000 lỗ chân lông, toàn thân tụ thành một khối nghi ngờ lớn, rồi tham thiền bằng một chữ Vô. Ngày cũng như đêm không lúc nào quên đặt vấn đề. ' +
-'Không nên coi chữ Vô này trong cái nghĩa “vô của hư vô” và cũng không nên nên hiểu nó trong cái nghĩa vô của hữu vô. ' +
-'Hãy làm như mình đang ngậm một hòn thép nóng bỏng ở trong miệng, muốn khạc ra mà không khạc được, muốn nuốt vào mà nuốt không trôi. ' + 
-'Rửa cho sạch hết những kiến thức sai lầm và giác ngộ giả dối đã có, rồi cùng với thời gian, dần dần tu luyện thuần thục, để cho thế giới bên trong và bên ngoài hợp nhất, không còn phân biệt chúng được nữa. ' + 
-'Điều đó giống như gã câm nằm mộng, chỉ một mình mình hiểu được mà không thể thổ lộ cùng ai. ' +
-'Đến khi thình lình chữ Vô ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. ' + 
-'Đứng bên bờ sinh tử mà thong dong tự tại, ở chỗ nào trong cõi lục đạo tứ sinh, dù sanh về đâu hay trở thành cái gì cũng thấy mình đang rong chơi thanh thản. ' + 
+'Vô Môn nói rằng: / ' +
+'Kẻ muốn tham thiền trước tiên phải vượt qua những ải chắn do các vị tổ sư đặt ra. Người muốn ngộ đạo một cách tuyệt diệu bắt buộc trải qua giai đoạn triệt để xóa sạch mọi ý thức. / ' +
+'Nếu không vượt nổi ải chắn của tổ, không dẹp bỏ được mọi ý thức thì còn giống hồn phách phải nương tựa cây cỏ. / ' +
+'Thế thì cửa ải của các tổ là gì nào? Ở đây nó chỉ là một chữ Vô (Không) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. / ' +
+'Muốn dùng một cái tên ngắn gọn thì gọi nó là cái “Ải tên là Vô” hay Ải không cửa của nhà Thiền. / ' + 
+'Kẻ vượt được cái ải chắn này rồi, chẳng những có thể gặp gỡ hòa thượng Triệu Châu, mắt trong mắt, mà còn có thể kết nối lông mi lông mày với chư vị tổ sư, nhìn mọi vật bằng bằng con mắt của tổ, nghe mọi tiếng bằng lỗ tai của tổ. Có phải thống khoái không ? / ' +
+'Có ai muốn vượt qua cái cửa ải kỳ diệu này không? Nếu có thì hãy tổng động viên 365 khớp xương cùng với 84000 lỗ chân lông, toàn thân tụ thành một khối nghi ngờ lớn, rồi tham thiền bằng một chữ Vô. Ngày cũng như đêm không lúc nào quên đặt vấn đề. / ' +
+'Không nên coi chữ Vô này trong cái nghĩa “vô của hư vô” và cũng không nên nên hiểu nó trong cái nghĩa vô của hữu vô. / ' +
+'Hãy làm như mình đang ngậm một hòn thép nóng bỏng ở trong miệng, muốn khạc ra mà không khạc được, muốn nuốt vào mà nuốt không trôi.  / ' + 
+'Rửa cho sạch hết những kiến thức sai lầm và giác ngộ giả dối đã có, rồi cùng với thời gian, dần dần tu luyện thuần thục, để cho thế giới bên trong và bên ngoài hợp nhất, không còn phân biệt chúng được nữa. / ' + 
+'Điều đó giống như gã câm nằm mộng, chỉ một mình mình hiểu được mà không thể thổ lộ cùng ai. / ' +
+'Đến khi thình lình chữ Vô ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. / ' + 
+'Đứng bên bờ sinh tử mà thong dong tự tại, ở chỗ nào trong cõi lục đạo tứ sinh, dù sanh về đâu hay trở thành cái gì cũng thấy mình đang rong chơi thanh thản. / ' + 
 'Hỏi rằng tiếp thu chữ Vô này bằng cách nào à? Hãy dồn hết khí lực bình sinh nghiền ngẫm cho đến khi sức cùng lực kiệt, nếu nỗ lực không chút gián đoạn thì chỉ cần châm một mồi lửa nhỏ trên Phật đàn đã thấy được ánh sáng của Phật pháp bừng tỏa tức khắc',
     verseOriginal:
 'Cẩu tử Phật tính / ' +
@@ -40,28 +39,28 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
 'Cứ mỗi khi hòa thượng Bách Trượng thuyết pháp, thường có một lão già đi sau tăng chúng đến nghe. Khi các thiền sinh rút lui, lão cũng bước ra theo. ' + 
-'Thế rồi một hôm, lão bỗng không lui mà nán lại giảng đường. ' +
-'Lúc đó, Bách Trượng mới hỏi: Người đứng trước mặt ta, ông là ai vậy? ' +
-'Lão già thưa: Tôi không phải loài người. Xửa xưa, thời Phật Ca Diếp, tôi đã trụ trì ở núi này. ' +
+'Thế rồi một hôm, lão bỗng không lui mà nán lại giảng đường. / ' +
+'Lúc đó, Bách Trượng mới hỏi: Người đứng trước mặt ta, ông là ai vậy? / ' +
+'Lão già thưa: Tôi không phải loài người. Xửa xưa, thời Phật Ca Diếp, tôi đã trụ trì ở núi này. / ' +
 'Một hôm, đệ tử có người hỏi rằng người tu hành đạo Phật đến chỗ cao diệu vẫn còn có thể sa vào vòng nhân quả khổ đau hay không? ' +
-'Tôi mới trả lời là không, người như thế không sa vào vòng nhân quả. ' + 
-'Vì nói vậy mà suốt một thời gian dài tôi sa vào súc sinh đạo, bị đọa làm thân chồn hoang, cho đến nay đã trải qua 500 kiếp. ' +
-'Vậy xin thầy ban cho tôi một câu trả lời đúng để tôi có thể thoát ra khỏi kiếp chồn. ' +
-'Nói xong, lão đặt lại câu hỏi cho Bách Trượng: Thế thì người tu hành đạo Phật đến chỗ cao diệu vẫn còn có thể sa vào vòng nhân quả khổ đau hay sao? ' +
-'Hòa thượng mới trả lời: Không mê muội nhân quả. ' +
-'Lúc đó, lão già chợt đại ngộ, vái lạy hòa thượng Bách Trượng và nói: Như thế thì tôi đã thoát được kiếp chồn. ' + 
-'Xác của tôi bỏ lại nằm ở sau núi. Xin thầy hãy lấy lễ chư tăng mà chôn cất cho. ' +
-'Hòa thượng bèn lệnh cho tăng giữ chức duy na thông tin để chúng tăng tụ họp, báo rằng sau giờ cơm trưa sẽ làm lễ chôn cất một tăng sĩ vừa mới mất. ' +
-'Mọi người ngạc nhiên xôn xao: “Chúng ta mạnh khỏe như thế này, ở Niết Bàn Đường chẳng ai nằm bệnh cả, sao lại bảo thế”. ' +
-'Cơm nước xong hòa thượng hướng dẫn mọi người ra một cái hang đá phía sau núi, dùng trượng khều ra được xác chết một con chồn hoang, bèn hỏa táng ngay. ' +
+'Tôi mới trả lời là không, người như thế không sa vào vòng nhân quả. / ' + 
+'Vì nói vậy mà suốt một thời gian dài tôi sa vào súc sinh đạo, bị đọa làm thân chồn hoang, cho đến nay đã trải qua 500 kiếp. / ' +
+'Vậy xin thầy ban cho tôi một câu trả lời đúng để tôi có thể thoát ra khỏi kiếp chồn. / ' +
+'Nói xong, lão đặt lại câu hỏi cho Bách Trượng: Thế thì người tu hành đạo Phật đến chỗ cao diệu vẫn còn có thể sa vào vòng nhân quả khổ đau hay sao? / ' +
+'Hòa thượng mới trả lời: Không mê muội nhân quả. / ' +
+'Lúc đó, lão già chợt đại ngộ, vái lạy hòa thượng Bách Trượng và nói: Như thế thì tôi đã thoát được kiếp chồn. / ' + 
+'Xác của tôi bỏ lại nằm ở sau núi. Xin thầy hãy lấy lễ chư tăng mà chôn cất cho. / ' +
+'Hòa thượng bèn lệnh cho tăng giữ chức duy na thông tin để chúng tăng tụ họp, báo rằng sau giờ cơm trưa sẽ làm lễ chôn cất một tăng sĩ vừa mới mất. / ' +
+'Mọi người ngạc nhiên xôn xao: “Chúng ta mạnh khỏe như thế này, ở Niết Bàn Đường chẳng ai nằm bệnh cả, sao lại bảo thế”. / ' +
+'Cơm nước xong hòa thượng hướng dẫn mọi người ra một cái hang đá phía sau núi, dùng trượng khều ra được xác chết một con chồn hoang, bèn hỏa táng ngay. / ' +
 'Đến chiều, hòa thượng Bách Trượng tề chỉnh uy nghi bước lên bục giảng, thuật lại mọi sự xảy ra trong ngày cho chúng tăng. ' +
-'Đại đệ tử là Hoàng Bá nhân đó mới hỏi: Ngày xưa, lão già vì trả lời sai một câu hỏi mà bị đọa làm thân chồn hoang suốt 500 kiếp, nếu lão ta trả lời đúng thì liệu lão sẽ trở thành gì ạ? ' +
+'Đại đệ tử là Hoàng Bá nhân đó mới hỏi: Ngày xưa, lão già vì trả lời sai một câu hỏi mà bị đọa làm thân chồn hoang suốt 500 kiếp, nếu lão ta trả lời đúng thì liệu lão sẽ trở thành gì ạ? / ' +
 'Bách Trượng nói: Ngươi tới đây. Ta sẽ vì lão già trả lời cho! ' +
 'Hoàng Bá bèn tiến sát đến bên Bách Trượng, bất thần đưa tay tát vào mặt thầy. ' + 
 'Hòa thượng bèn vỗ tay cười, nói: Ta tưởng râu của lão Hồ màu đỏ! Chẳng dè ở đây lại có lão Hồ râu đỏ thật!',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: ' +
-'Bảo là “Không sa vào vòng nhân quả” thì bị đọa làm chồn hoang, còn nói “Không mê muội nhân quả” lại thoát được kiếp chồn hay sao? ' +
+'Vô Môn nói rằng: / ' +
+'Bảo là “Không sa vào vòng nhân quả” thì bị đọa làm chồn hoang, còn nói “Không mê muội nhân quả” lại thoát được kiếp chồn hay sao? / ' +
 'Nếu có con mắt thứ ba mà nhìn thấu suốt điểm quan trọng này thì mới biết lão già ở trong núi Bách Trượng kia đã được sống sung sướng thảnh thơi suốt ngàn vạn năm chứ có gì đâu.',
     verseOriginal:
 'Bất lạc bất muội / ' +
@@ -80,14 +79,14 @@ const GatelessGate = [
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
 'Hòa thượng Câu Chi, hễ có ai chất vấn về thiền, đều đưa một ngón tay lên.   ' +
-'Ở chỗ Câu Chi có một chú tiểu, khi nghe người khách lạ từ xa đến hỏi: “Hòa thượng chùa này giảng về những yếu quyết trong Phật pháp như thế nào?”, đã đưa ngay tức khắc một ngón tay lên.  ' +
-'Hòa thượng Câu Chi nghe được chuyện đó, cầm dao chặt phăng ngón tay của chú ta. Tiểu chịu đau không nổi khóc thét lên và bỏ chạy. Thấy thế, hòa thượng gọi với bảo dừng.   ' +
-'Chú ta bèn quay đầu lại thì thấy lúc đó, hòa thượng lại giơ một ngón tay của mình lên. Chú tiểu thoáng thấy đã ngộ đạo.   ' +
-'Khi Câu Chi lâm chung, ông cho gọi tất cả tăng chúng tụ tập lại, và nói: Khi ta tu với hòa thượng Thiên Long, học được kiểu thiền một ngón tay, thế mà dùng suốt đời vẫn chưa hết.  ' +
+'Ở chỗ Câu Chi có một chú tiểu, khi nghe người khách lạ từ xa đến hỏi: “Hòa thượng chùa này giảng về những yếu quyết trong Phật pháp như thế nào?”, đã đưa ngay tức khắc một ngón tay lên. / ' +
+'Hòa thượng Câu Chi nghe được chuyện đó, cầm dao chặt phăng ngón tay của chú ta. Tiểu chịu đau không nổi khóc thét lên và bỏ chạy. Thấy thế, hòa thượng gọi với bảo dừng.  / ' +
+'Chú ta bèn quay đầu lại thì thấy lúc đó, hòa thượng lại giơ một ngón tay của mình lên. Chú tiểu thoáng thấy đã ngộ đạo. /  ' +
+'Khi Câu Chi lâm chung, ông cho gọi tất cả tăng chúng tụ tập lại, và nói: Khi ta tu với hòa thượng Thiên Long, học được kiểu thiền một ngón tay, thế mà dùng suốt đời vẫn chưa hết. / ' +
 'Nói xong, trút hơi thở cuối cùng',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: ' +
-'Cả Câu Chi lẫn chú tiểu, không phải nhờ đưa một ngón tay lên mà ngộ đạo.   ' +
+'Vô Môn nói rằng: / ' +
+'Cả Câu Chi lẫn chú tiểu, không phải nhờ đưa một ngón tay lên mà ngộ đạo.  / ' +
 'Nếu các ngươi nhận ra được ý nghĩa thực sự của điểm này thì có thể xâu trọn từ hòa thượng Thiên Long, hòa thượng Câu Chi, chú tiểu và cả chính các ngươi nữa thành một chuỗi',
     verseOriginal:
 'Câu Chi độn trí lão Thiên Long / ' +
@@ -107,9 +106,9 @@ const GatelessGate = [
     main:
       'Hoặc Am hỏi: Lão Hồ ở Tây thiên vì lý do gì lại không râu vậy kìa?',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: ' + 
-'Nếu là kẻ tự lúc đầu đã có chí muốn tham thiền thì mục đích của tham thiền phải là sự chân thực. ' +
-'Hơn thế, nói đến giác ngộ thì phải là sự giác ngộ chân thực. Câu chuyện lão Hồ ở đây cũng vậy.  ' + 
+'Vô Môn nói rằng: / ' + 
+'Nếu là kẻ tự lúc đầu đã có chí muốn tham thiền thì mục đích của tham thiền phải là sự chân thực. / ' +
+'Hơn thế, nói đến giác ngộ thì phải là sự giác ngộ chân thực. Câu chuyện lão Hồ ở đây cũng vậy. / ' + 
 'Phải có một lần gặp gỡ nhìn người ấy tận mắt mới được. Nhưng nếu nói đi gặp tận mắt thì lại hỏng kiểu vì như thế mình và lão Hồ đã trở thành hai người mất rồi',
     verseOriginal:
 'Si nhân diện tiền / ' +   
@@ -127,15 +126,15 @@ const GatelessGate = [
     title: 'TẮC THỨ 5: Hương Nghiêm leo cây (Hương Nghiêm thượng thụ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Hương Nghiêm nói (với môn đệ) như sau: ' +
-'Cái quan trọng của thiền vốn giống người leo cây. Miệng ngoặm lấy cành cây, thân treo lủng lẳng, tay không bám tới cành, chân không đạp được cành. ' + 
-'Lúc đó nếu có người đứng bên dưới cây đặt câu hỏi: Lúc Đạt Ma ở Thiên Trúc qua thì bản tâm của ngài như thế nào ? ' +
+'Hòa thượng Hương Nghiêm nói (với môn đệ) như sau: / ' +
+'Cái quan trọng của thiền vốn giống người leo cây. Miệng ngoặm lấy cành cây, thân treo lủng lẳng, tay không bám tới cành, chân không đạp được cành. / ' + 
+'Lúc đó nếu có người đứng bên dưới cây đặt câu hỏi: Lúc Đạt Ma ở Thiên Trúc qua thì bản tâm của ngài như thế nào ? / ' +
 'Người đó không mở miệng trả lời thì phụ lòng kẻ hỏi, nhưng nếu trả lời sẽ rơi từ trên cây xuống mất mạng. Giữa lúc như thế, thử hỏi phải đáp làm sao?',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: ' + 
-'Kể cả người biết đối đáp thao thao bất tuyệt, trong trường hợp này đành để uổng tài. ' + 
-'Hơn nữa, có sức giảng được cả một pho Đại Tạng đi chăng, cũng chả đem đến kết quả nào. ' + 
-'Tìm được lối giải quyết phù hợp với hoàn cảnh này là có thể làm sống lại người đã chết và giết được kẻ hiện đang sống. ' + 
+'Vô Môn nói rằng: / ' + 
+'Kể cả người biết đối đáp thao thao bất tuyệt, trong trường hợp này đành để uổng tài. / ' + 
+'Hơn nữa, có sức giảng được cả một pho Đại Tạng đi chăng, cũng chả đem đến kết quả nào. / ' + 
+'Tìm được lối giải quyết phù hợp với hoàn cảnh này là có thể làm sống lại người đã chết và giết được kẻ hiện đang sống. / ' + 
 'Còn như không tìm ra giải đáp thì (sau khi Thích Ca nhập diệt, phải đợi thêm 56 ức 7 thiên vạn niên nữa mà) hỏi thẳng Bồ Tát Di Lặc vậy',
     verseOriginal:
 'Hương Nghiêm chân Đỗ soạn / ' + 
@@ -153,16 +152,16 @@ const GatelessGate = [
     title: 'TẮC THỨ 6: Phật chìa nhánh hoa (Thế Tôn niêm hoa)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Xưa Đức Thế Tôn trong một pháp hội trên núi Linh Thứu, cầm lấy một nhánh hoa rồi chìa ra trước mặt mọi người. ' + 
-'Không thấy ai phản ứng gì cả, chỉ có tôn giả Ca Diếp mặt rạng rỡ, miệng mỉm cười. ' +  
-'Đức Thế Tôn mới nói rằng: Ta có nhiều pháp môn vi diệu như Chính Pháp Nhãn Tạng, Niết Bàn Diệu Tâm, Thực Tướng Vô Tướng. ' + 
+'Xưa Đức Thế Tôn trong một pháp hội trên núi Linh Thứu, cầm lấy một nhánh hoa rồi chìa ra trước mặt mọi người. / ' + 
+'Không thấy ai phản ứng gì cả, chỉ có tôn giả Ca Diếp mặt rạng rỡ, miệng mỉm cười. / ' +  
+'Đức Thế Tôn mới nói rằng: Ta có nhiều pháp môn vi diệu như Chính Pháp Nhãn Tạng, Niết Bàn Diệu Tâm, Thực Tướng Vô Tướng. / ' + 
 'Bằng phương pháp bất lập văn tự, giáo ngoại biệt truyền, sẽ trao cả cho Ma Ha Ca Diếp',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: ' +
-'Cái lão Cồ Đàm (Gotama, tức Thích Ca) mặt vàng thật là bàng nhược vô nhân. Cứ như kiểu đó thì lão coi bên cạnh mình chẳng có ai cả, và xem bát phương đại chúng hiền lành như thể đám nô lệ. ' + 
-'Thuyết rằng mình còn để dành cái pháp “vị hiển chân thực” mà chìa nhành hoa là treo đầu dê để bán thịt chó đấy. Tưởng cao siêu lắm, hóa ra chỉ có chừng nớ. May lúc đó còn có Ca Diếp mỉm miệng cười. ' + 
-'Nếu Ca Diếp không cười thì cái Chính Pháp Nhãn Tạng làm cách nào mà truyền cho ai được. Còn nhỡ đại chúng tất cả đều cười thì lại hỏng chuyện mất! ' + 
-'Ông Thích Ca ơi, lúc đó đem Chính Pháp Nhãn Tạng truyền người nào bây giờ! Nếu bảo Chính Pháp Nhãn Tạng có thể truyền cho là ông đã đánh lừa lũ dân quê chất phác. ' + 
+'Vô Môn nói rằng: / ' +
+'Cái lão Cồ Đàm (Gotama, tức Thích Ca) mặt vàng thật là bàng nhược vô nhân. Cứ như kiểu đó thì lão coi bên cạnh mình chẳng có ai cả, và xem bát phương đại chúng hiền lành như thể đám nô lệ. / ' + 
+'Thuyết rằng mình còn để dành cái pháp “vị hiển chân thực” mà chìa nhành hoa là treo đầu dê để bán thịt chó đấy. Tưởng cao siêu lắm, hóa ra chỉ có chừng nớ. May lúc đó còn có Ca Diếp mỉm miệng cười. / ' + 
+'Nếu Ca Diếp không cười thì cái Chính Pháp Nhãn Tạng làm cách nào mà truyền cho ai được. Còn nhỡ đại chúng tất cả đều cười thì lại hỏng chuyện mất! / ' + 
+'Ông Thích Ca ơi, lúc đó đem Chính Pháp Nhãn Tạng truyền người nào bây giờ! Nếu bảo Chính Pháp Nhãn Tạng có thể truyền cho là ông đã đánh lừa lũ dân quê chất phác. / ' + 
 'Còn ngược lại, nếu bảo pháp ấy không thể đem truyền cho được, thế thì tại sao ông có thể chọn một mình Ca Diếp làm người thừa kế?',
     verseOriginal:
 'Niêm khởi hoa lai / ' + 
@@ -180,15 +179,15 @@ const GatelessGate = [
     title: 'TẮC THỨ 7: Triệu Châu rửa bát (Triệu Châu tẩy bát)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Một người đến học thiền sư Triệu Châu, ngỏ với ông rằng: Tôi là kẻ lưu lạc mới nhập môn ở đạo tràng. Dám xin lão sư chỉ dạy. ' +
-'Ông mới hỏi: Thế ngươi đã ăn xong cháo sáng chưa? ' +
-'Người ấy trả lời: Thưa đã. ' +
-'Thiền sư bèn nói: Thế thì đem bát rửa đi! ' +
+'Một người đến học thiền sư Triệu Châu, ngỏ với ông rằng: Tôi là kẻ lưu lạc mới nhập môn ở đạo tràng. Dám xin lão sư chỉ dạy. / ' +
+'Ông mới hỏi: Thế ngươi đã ăn xong cháo sáng chưa? / ' +
+'Người ấy trả lời: Thưa đã / ' +
+'Thiền sư bèn nói: Thế thì đem bát rửa đi ! / ' +
 'Người ấy bèn hiểu ra.',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: ' +
+'Vô Môn nói rằng: / ' +
 'Triệu Châu mở mồm ra là túi mật đã lộ, tim gan cũng phơi bày ra đấy cả. ' +
-'Tuy phơi ra tất cả, không dấu diếm điều gì mà chắc chi anh học trò này hiểu trọn chân ý của ông. ' + 
+'Tuy phơi ra tất cả, không dấu diếm điều gì mà chắc chi anh học trò này hiểu trọn chân ý của ông. / ' + 
 'Truyện chép “Người ấy bèn hiểu ra” nhưng biết đâu người ấy mới nhận thức hay chỉ hiểu chút đỉnh, nghe lời thầy như thấy cái chuông lại tưởng nó là cái chum',
     verseOriginal:
 'Chỉ vị phân minh cực / ' + 
@@ -206,10 +205,10 @@ const GatelessGate = [
     title: 'TẮC THỨ 8: Hề Trọng chế xe (Hề Trọng tạo xa)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Có bữa, hòa thượng Nguyệt Am hỏi một tăng sĩ: Hề Trọng là người chế một trăm cỗ xe nhưng ông lại đem tháo bánh lẫn trục xe ra mất. ' + 
+'Có bữa, hòa thượng Nguyệt Am hỏi một tăng sĩ: Hề Trọng là người chế một trăm cỗ xe nhưng ông lại đem tháo bánh lẫn trục xe ra mất. / ' + 
 'Thử hỏi, qua điều đó, ông ta muốn chứng minh chân lý nào?',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: ' +
+'Vô Môn nói rằng: / ' +
 'Nếu ai hiểu rõ được chuyện này cái một, thì con mắt của hắn phải sáng như sao sa, cơ trí của hắn phải nhanh như điện chớp',
     verseOriginal:
 'Cơ luân chuyển xứ / ' + 
@@ -227,14 +226,14 @@ const GatelessGate = [
     title: 'TẮC THỨ 9: Phật Đại Thông Trí Thắng (Đại Thông Trí Thắng)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Có một tăng sĩ hỏi hòa thượng Hưng Dương Thanh Nhượng: Nghe nói Phật Đại Thông Trí Thắng tu tọa thiền trong đạo trường lâu đến 10 kiếp nhưng Phật pháp không hiện ra trước mắt, Phật đạo cũng không thành tựu. Xin hỏi lý do tại sao? ' + 
-'Thanh Nhượng mới trả lời: Câu hỏi của ông đặt ra bắn trúng đích đấy! ' +  
-'Tăng bèn thưa: Ngài muốn nói: “Bởi vì tọa thiền trong đạo trường (nơi giác ngộ) cho nên đương nhiên là đã khai ngộ và thành tựu trong Phật đạo rồi, có lý do nào mà không thành tựu trong Phật đạo!” hay sao chứ? ' + 
+'Có một tăng sĩ hỏi hòa thượng Hưng Dương Thanh Nhượng: Nghe nói Phật Đại Thông Trí Thắng tu tọa thiền trong đạo trường lâu đến 10 kiếp nhưng Phật pháp không hiện ra trước mắt, Phật đạo cũng không thành tựu. Xin hỏi lý do tại sao ? / ' + 
+'Thanh Nhượng mới trả lời: Câu hỏi của ông đặt ra bắn trúng đích đấy ! / ' +  
+'Tăng bèn thưa: Ngài muốn nói: “Bởi vì tọa thiền trong đạo trường (nơi giác ngộ) cho nên đương nhiên là đã khai ngộ và thành tựu trong Phật đạo rồi, có lý do nào mà không thành tựu trong Phật đạo!” hay sao chứ? / ' + 
 'Thanh Nhượng lại đáp: Lý do là vị đó “tự mình” không thành Phật mà thôi',
     commentBeforeVerseExtra:
-'Vô Môn nói rằng: ' + 
-'Hãy chấp nhận cái trí tuệ Bát Nhã (chân tri = phân biệt cái vô phân biệt bằng sự giác ngộ qua thể nghiệm bản thân) của Lão Hồ (Thích Ca hay Tổ sư Đạt Ma) ' +  
-'nhưng không chấp nhận cái phân biệt tri giải (lý hội = tri thức phân biệt đơn thuần bằng đầu óc) của Lão Hồ. ' +  
+'Vô Môn nói rằng: / ' + 
+'Hãy chấp nhận cái trí tuệ Bát Nhã (chân tri = phân biệt cái vô phân biệt bằng sự giác ngộ qua thể nghiệm bản thân) của Lão Hồ (Thích Ca hay Tổ sư Đạt Ma) / ' +  
+'nhưng không chấp nhận cái phân biệt tri giải (lý hội = tri thức phân biệt đơn thuần bằng đầu óc) của Lão Hồ. / ' +  
 'Kẻ phàm phu chỉ cần được trí tuệ Bát Nhã, tức khắc sẽ thành thánh nhân. Còn bậc thánh nhân nếu bước sang chỗ phân biệt tri giải thì tức khắc sẽ thành kẻ phàm phu',
     verseOriginal:
 'Liễu thân hà tự liễu tâm hưu / ' + 
@@ -252,12 +251,12 @@ const GatelessGate = [
     title: 'TẮC THỨ 10: Sư Thanh Thoát nghèo khó (Thanh Thoát cô bần)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. ' + 
+'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. / ' + 
 'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' + 
-'Thoát bèn thưa: Vâng! ' + 
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao?',
+'Thoát bèn thưa: Vâng ! / ' + 
+'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao ?',
     commentBeforeVerseExtra:
-' Vô Môn nói rằng: ' + 
+' Vô Môn nói rằng: / ' + 
 'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +  
 'Tào Sơn lại là kẻ có con mắt soi thấu gan ruột kẻ đứng trước mặt. ' +  
 'Đành vậy, nhưng thử hỏi Thanh Thoát đã uống được thứ mỹ tửu đó ở đâu cơ?',
