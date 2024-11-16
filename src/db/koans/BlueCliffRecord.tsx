@@ -596,8 +596,7 @@ verse:
 
   {
     id: 21,
-    title: 'TẮC THỨ 21: HOA 
-SEN CỦA TRÍ MÔN',
+    title: 'TẮC THỨ 21: HOA SEN CỦA TRÍ MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -623,15 +622,33 @@ SEN CỦA TRÍ MÔN',
 
   {
     id: 22,
-    title: 'TẮC THỨ 22: ',
+    title: 'TẮC THỨ 22: CON RẮN MŨI RÙA CỦA TUYẾT PHONG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Tuyết Phong dạy chúng rằng: Nam sơn có một con rắn mũi rùa, các ông cần phải coi chừng. / ' +
+'Trường Khánh nói, “Hôm nay trong đại sảnh có người tang thân thất mạng” / ' +
+'Có ông tăng thuật lại cho Huyền Sa, Huyền Sa nói, “Phải là Lăng huynh thì nới nói như thế được tuy nhiên tôi thì lại không như thế” / ' + 
+'Ông tăng hỏi, “Hòa thượng thì như thế nào ?” Huyền Sa nói, “Cần gì phải Nam Sơn" / ' +
+'Vân Môn thì chỉ ném gậy xuống trước mặt Tuyết Phong làm ra vẻ sợ sệt',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Tượng cốt vách cao người không đến / ' +
+'Kẻ đến phải là tay bắt rắn / ' +
+'Thầy Lăng thầy Bị làm gì được ? / ' +
+'Tang thân thất mạng đã bao người / ' +
+'Thiều Dương biết / ' +
+'Lại vạch cỏ / ' +
+'Nam Bắc Đông Tây biết chỗ nào / ' +
+'Hốt nhiên lại tung chiếc gậy ra / ' + 
+'Ném trưóc Tuyết Phong há hốc miệng / ' +
+'Miệng há hốc hề giống điện chớp / ' +
+'Nhíu đôi lông mày còn không thấy / ' +
+'Giờ đây ẩn trên đỉnh Nhũ Phong / ' +
+'Kẻ đến từng người thấy phương tiện / ' +
+'Sư lớn tiếng quát rằng, “ nhìn dưới chân!”',
     verseTranslated:
       ' ',
     verseExtra: '',
