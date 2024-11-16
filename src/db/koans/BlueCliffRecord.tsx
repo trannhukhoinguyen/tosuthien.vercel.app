@@ -648,7 +648,7 @@ verse:
 'Nhíu đôi lông mày còn không thấy / ' +
 'Giờ đây ẩn trên đỉnh Nhũ Phong / ' +
 'Kẻ đến từng người thấy phương tiện / ' +
-'Sư lớn tiếng quát rằng, “ nhìn dưới chân!”',
+'Sư lớn tiếng quát rằng, “Nhìn dưới chân !”',
     verseTranslated:
       ' ',
     verseExtra: '',
@@ -659,15 +659,23 @@ verse:
 
   {
     id: 23,
-    title: 'TẮC THỨ 23: ',
+    title: 'TẮC THỨ 23: DIỆU PHONG ĐỈNH CỦA BẢO PHÚC',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Bảo Phúc và Trường Khánh đi chơi núi, Bảo Phúc lấy tay chỉ nói, “Đây chính là Diệu Phong Đỉnh” / ' +
+'Trường Khánh nói, “Đúng thế, song đáng tiếc thật!” / ' +
+'Tuyết Đậu phê bình rằng, “Hôm nay đi chơi núi với mấy tay kia để làm gì?”. Rồi lại nói thêm, “Trăm ngàn năm sau không nói là không có, chỉ là ít mà thôi” / ' +
+'Sau có người thuật lại cho Kính Thanh. Kính Thanh nói, “Nếu như không nhờ Tôn công (Bảo Phúc) thì hẳn chúng ta đã thấy đầu lâu 
+đầy đồng rồi”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Trên đỉnh Diệu Phong cỏ rậm rạp / ' +
+'Nêu ra rõ ràng để cho ai ? / ' +
+'Không nhờ Tôn công phân biện kỷ / ' +
+'Đầu lâu đầy đồng mấy ai hay ?',
     verseTranslated:
       ' ',
     verseExtra: '',
@@ -678,15 +686,21 @@ verse:
 
   {
     id: 24,
-    title: 'TẮC THỨ 24: ',
+    title: 'TẮC THỨ 24: QUI SƠN VÀ LƯU THIẾT MA',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Lưu thiết Ma đến gặp Qui Sơn. Qui Sơn nói, “Con bò cái kia đến đó hả !” / ' +
+'Lưu Thiết Ma nói, “Ngày mai trên Đài Sơn có trai hội lớn, hòa thượng có đi không?” / ' +
+'Qui Sơn nằm xuống, Lưu Thiết Ma bèn bỏ đi.',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Từng cưỡi ngựa sắt vào thành cao / ' +
+'Chiếu xuống truyền rằng sáu nước yên / ' +
+'Vẫn cầm roi vàng hỏi khách về / ' +
+'Đêm sâu ai cùng đi lối vua?',
     verseTranslated:
       ' ',
     verseExtra: '',
