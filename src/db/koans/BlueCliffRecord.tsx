@@ -664,7 +664,7 @@ verse:
     intro:
       '',
     main:
-      'Bảo Phúc và Trường Khánh đi chơi núi, Bảo Phúc lấy tay chỉ nói, “Đây chính là Diệu Phong Đỉnh” / ' +
+'Bảo Phúc và Trường Khánh đi chơi núi, Bảo Phúc lấy tay chỉ nói, “Đây chính là Diệu Phong Đỉnh” / ' +
 'Trường Khánh nói, “Đúng thế, song đáng tiếc thật!” / ' +
 'Tuyết Đậu phê bình rằng, “Hôm nay đi chơi núi với mấy tay kia để làm gì?”. Rồi lại nói thêm, “Trăm ngàn năm sau không nói là không có, chỉ là ít mà thôi” / ' +
 'Sau có người thuật lại cho Kính Thanh. Kính Thanh nói, “Nếu như không nhờ Tôn công (Bảo Phúc) thì hẳn chúng ta đã thấy đầu lâu 
@@ -700,7 +700,7 @@ verse:
 'Từng cưỡi ngựa sắt vào thành cao / ' +
 'Chiếu xuống truyền rằng sáu nước yên / ' +
 'Vẫn cầm roi vàng hỏi khách về / ' +
-'Đêm sâu ai cùng đi lối vua?',
+'Đêm sâu ai cùng đi lối vua ?',
     verseTranslated:
       ' ',
     verseExtra: '',
