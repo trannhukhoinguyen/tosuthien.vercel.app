@@ -346,17 +346,29 @@ const BlueCliffRecord = [
 
   {
     id: 12,
-    title: 'TẮC THỨ 12: ',
+    title: 'TẮC THỨ 12: BA CÂN GAI CỦA ĐỘNG SƠN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Động Sơn, “Phật là gì?” / ' +
+'Động Sơn nói, “Ba cân gai.”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Kim ô cấp / ' +
+'Ngọc thố / ' +
+'Đáp khéo làm sao có cơ suất ? / ' +
+'Triển sự hợp cơ thấy Động Sơn / ' +
+'Miết què rùa đui thung lũng trống / ' +
+'Hoa xum xuê / ' +
+'Rừng rậm rạp / ' +
+'Trúc phương nam hề phương bắc / ' +
+'Nghĩ tời Trường Khánh, Lục Đại Phu / ' +
+'Biết nói phải cười chứ không khóc / ' +
+'Ôi!',
     verseTranslated:
-      ' ',
+      '',
     verseExtra: '',
     verseExtraTranslated: '',
     commentAfter:
