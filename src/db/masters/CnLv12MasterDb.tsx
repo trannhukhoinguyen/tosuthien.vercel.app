@@ -48,8 +48,6 @@ const CnLv12MasterDb = [
     disciples: ['Yungai Shouzhi', 'Baofeng Kewen', 'Huitang Zuxin'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Long_Hu%E1%BB%87_Nam', ''],
-    youtubeId: [''],
-
   },
   {
     id: '45.12.3',
@@ -74,8 +72,30 @@ const CnLv12MasterDb = [
     disciples: ['Dagui Muzhe'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Cuiyan_Kezhen'],
-    youtubeId: [''],
-
+  },
+  {
+    id: '45.12.4',
+    hasContent: true,
+    name_en: 'Touzi Yiqing',
+    name_es: 'Touzi Yiqing',
+    name_de: 'Touzi Yiqing',
+    name_fr: 'Touzi Yiqing',
+    name_vi: 'Đầu Tử Nghĩa Thanh',
+    name_ru: 'Touzi Yiqing',
+    name_zh: '投子義青',
+    name_ja: 'Tōsu Gisei',
+    name_ko: '투자의청 T’uja Uich’ŏng',
+    name_ar: 'Touzi Yiqing',
+    birth_death_time: ['1032', '1083'],
+    records: '',
+    sect: ['Linji', 'Caodong'],
+    country: 'China',
+    place: '-',
+    teachers: ['Fushan Fayuan', 'Dayang Jingxuan (Taiyang Jingxuan)'],
+    successors: [''],
+    disciples: ['Dahong Bao\'en', 'Furong Daokai'],
+    image: '/images/avatar.png',
+    reference: ['https://pl.wikipedia.org/wiki/Cuiyan_Kezhen'],
   },
 ]
 export default CnLv12MasterDb;
