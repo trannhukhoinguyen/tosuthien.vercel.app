@@ -1,4 +1,4 @@
-const BlueCliffRecord = [
+aconst BlueCliffRecord = [
   {
       id: 1,
       title: 'TẮC THỨ 1: CÁI TRỐNG KHÔNG CỦA ĐẠT MA',
@@ -377,17 +377,25 @@ const BlueCliffRecord = [
 
   {
     id: 13,
-    title: 'TẮC THỨ 13: ',
+    title: 'TẮC THỨ 13: CHÉN BẠC CỦA BA LĂNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Ba Lăng, “Thế nào là tông của Đề Bà?” / ' +
+'Ba Lăng nói, “Tuyết đầy trong chén bạc.”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Lão Tân Khai / ' +
+'Ghê gớm thật / ' +
+'Biết nói trong chén bạc đầy tuyết / ' +
+'Chín mươi sáu loại cần tự biết / ' +
+'Không biết phải hỏi trăng trên trời / ' +
+'Đề Bà Tông, Đề Bà Tông / ' +
+'Dưới lá cờ đỏ gió phất phơ',
     verseTranslated:
-      ' ',
+      '',
     verseExtra: '',
     verseExtraTranslated: '',
     commentAfter:
