@@ -430,15 +430,23 @@ const BlueCliffRecord = [
 
   {
     id: 15,
-    title: 'TẮC THỨ 15: ',
+    title: 'TẮC THỨ 15: MỘT CÂU NÓI NGƯỢC CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      “Không phải là tâm cơ trước mắt, cũng chẳng phải là sự việc trước mắt, lúc ấy thì như thế nào?” / ' + 
+'Vân Môn nói, “Một câu nói ngược.”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Một lời ngược / ' +
+'Phân từng tiết / ' +
+'Đồng tử đồng sinh cùng quyết đoán / ' +
+'Tám vạn bốn ngàn phải lông phượng ? / ' +
+'Ba mươi ba người vào hang cọp / ' +
+'Đặc biệt thật ! / ' +
+'Bóng trăng trong dòng nước chảy xiết',
     verseTranslated:
       ' ',
     verseExtra: '',
