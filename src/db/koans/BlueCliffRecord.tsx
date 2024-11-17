@@ -970,15 +970,30 @@ verse:
 
   {
     id: 34,
-    title: 'TẮC THỨ 34: ',
+    title: 'TẮC THỨ 34: NGƯỠNG SƠN HỎI TỪ ĐÂU ĐẾN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Ngưỡng Sơn hỏi một ông tăng, “Ông mới từ đâu đến vậy ?” / ' +
+'Ông tăng nói, “Lô Sơn” / ' +
+'Ngưỡng Sơn nói, “Đã từng lên Ngũ Lão Phong chơi chưa ?” / ' +
+'Ông tăng nói, “ Chưa” / ' +
+'Ngưỡng Sơn nói, “Như thế là thầy chưa từng bao giờ đi chơi núi cả” / ' +
+'Vân Môn nói, “Những lời ấy là đều bởi vì từ bi, cho nên thầy ta mới có lời nói chuyện của kẻ ngã trên cỏ”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Ra cỏ vào cỏ / ' +
+'Ai biết mà tìm ? / ' +
+'Mây trắng chập chùng / ' +
+'Mặt trời rực rỡ / ' +
+'Nhìn bên trái không tì vết / ' +
+'Ngó bên phải đã già nua / ' +
+'Người không thấy Hàn Sơn Tử ? / ' +
+'Đi quá nhanh / ' +
+'Mười năm không về được / ' + 
+'Quên mất đường đã đến',
     verseTranslated:
       ' ',
     verseExtra: '',
@@ -989,15 +1004,28 @@ verse:
 
   {
     id: 35,
-    title: 'TẮC THỨ 35: ',
+    title: 'TẮC THỨ 35: VĂN THÙ VÀ VÔ TRƯỚC',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+'Văn Thù hỏi Vô Trước, “Thầy mới từ đâu đến vậy ?” / ' +
+'Vô Trước nói, “Từ phương Nam” / ' +
+'Văn Thù nói, “Phật pháp ở phương Nam như thế nào ?” / ' +
+'Vô Trước nói, “Các Tỳ khưu thời mạt pháp ít chịu tuân theo giới luật” / ' +
+'Văn Thù hỏi, “Chúng hội thường có bao nhiêu người ? / ' +
+'Vô Trước nói, “Từ 300 đến 500” / ' +
+'Vô Trước lại hỏi Văn Thù, “Ở đây thì Phật pháp trụ trì như thế nào ?” / ' +
+'Văn Thù nói, “Thánh phàm đồng cư, rồng rắn hỗn tạp” 
+'Vô Trước nói, “Chúng hội thường có bao nhiêu ngườ i?” / ' +
+'Văn Thù nói, “Tiền tam tam, hậu tam tam”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Ngàn đỉnh chập chùng mầu xanh lơ / ' +
+'Ai bảo Văn Thù cùng đối đàm ? / ' +
+'Nực cười Thanh Lương bao nhiêu chúng ? / ' +
+'Tiền tam tam với hậu tam tam',
     verseTranslated:
       ' ',
     verseExtra: '',
