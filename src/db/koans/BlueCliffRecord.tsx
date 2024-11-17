@@ -1274,9 +1274,24 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Lúc Tuyết Phong ở trong am, có 2 ông tăng đến đảnh lễ. Tuyết Phong thấy họ đến lấy tay đẩy cửa rồi ló người ra hỏi: “Cái gì đây ?”. Ông tăng cũng nói, “Cái gì đây ?”. Tuyết Phong cúi đầu đi vào am. / ' +
+'Sau đó ông tăng đến nơi của Nham Đầu. Nham Đầu hỏi, “Từ đâu đến vậy ?”. Ông tăng nói, “Từ Lĩnh Nam đến” / ' +
+'Nham Đầu hỏi, “Đã từng đến gặp Tuyết Phong chưa ?”. Ông tăng nói, “Rồi” / ' +
+'Nham Đầu hỏi, “Thầy ta có lời dạy gì ?". Ông tăng kể lại câu chuyện trên. / ' +
+'Nham Đầu nói, “Thầy ta nói gì ?”. Ông tăng nói, “Thầy ta chẳng nói gì cả mà chỉ cúi đầu đi vào am” / ' +
+'Nham Đầu nói, “Ôi , đáng tiếc lúc đầu ta lại không nói câu cuối cho thầy ta. Nếu như ta nói, người trong thiên hạ làm gì được lão Tuyết đây ? / ' +
+'Đến cuối hạ ông tăng kia lại đế cập đến câu chuyện nọ để xin chỉ thị. Nham Đầu nói, “Tại sao không hỏi từ trước ?”. Ông tăng nói, “Không dám xem nhẹ” / ' +
+'Nham Đầu nói, “Mặc dù Tuyết Phong cùng sinh trong một dòng với ta, song không cùng chết trong một dòng với ta. Nếu như ông muốn biết câu cuối cùng thì là cái này đây”',
     verse: 
-'',
+'Câu cuối cùng / ' +
+'Nói cho ông / ' +
+'Thời tiết của sáng tối song song / ' +
+'Cùng sinh một dòng cùng biết nhau / ' +
+'Không chết cùng dòng khác hẳn nhau / ' +
+'Khác hẳn nhau / ' +
+'Đầu vàng mắt xanh phải phân biệt / ' +
+'Nam bắc đông tây quay về đi / ' +
+'Đêm sau cùng ngắm tuyết ngàn đỉnh',
     verseExtra: '',
     commentAfter:
       '',
