@@ -944,15 +944,22 @@ verse:
 
   {
     id: 33,
-    title: 'TẮC THỨ 33: ',
+    title: 'TẮC THỨ 33: TRẦN THƯỢNG THƯ VIẾNG TỪ PHÚC',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Trần Tháo Thượng Thư đến viếng Từ Phúc. Từ Phúc thấy Trần Tháo đến bèn vẽ 1 vòng tròn. / ' +
+'Trần Tháo nói, “Đệ tử đến như thế này, vốn đã là bất tiện rồi, hà huống lại còn vẽ thêm 1 vòng tròn ?” / ' +
+'Từ Phúc bèn đóng cửa phương trượng. Tuyết Đậu nói, “Trần Tháo chỉ có một con mắt”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Châu chạy vòng vòng kêu như ngọc / ' + 
+'Ngựa bon lừa chạy lên thuyền sắt / ' +
+'Phân phó hải sơn vô sự khác / ' +
+'Lúc câu rùa thả một bẫy rập / ' +
+'Tuyết Đậu lại nói, “Các nạp tăng trong thiên hạ nhảy không ra”',
     verseTranslated:
       ' ',
     verseExtra: '',
