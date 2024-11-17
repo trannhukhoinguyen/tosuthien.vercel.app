@@ -1,7 +1,7 @@
 {
   "main": [
     { "name": "Trang chủ", "url": "/" },
-
+    { "name": "Blog", "url": "/blogs" },
     {
       "name": "Thiền sư",
       "url": "/masters",
