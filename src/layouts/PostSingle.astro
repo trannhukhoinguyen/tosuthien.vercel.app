@@ -22,7 +22,7 @@ if (!lang) {
 }
 
 const posts = await getSinglePage(
-  "masters" || "monasteries" || "teachings" || 'koans',
+  "masters" || "monasteries" || "teachings" || 'koans' || 'blogs',
   lang as keyof ContentEntryMap
 );
 const similarPosts = similarItems(post, posts);

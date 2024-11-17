@@ -130,7 +130,7 @@ const callToActionSchema = z.object({
 
 // Export collections
 export const collections = {
-blogs: blogsCollection,
+  blogs: blogsCollection,
   teachings: teachingsCollection,
   koans: koansCollection,
   masters: mastersCollection,
