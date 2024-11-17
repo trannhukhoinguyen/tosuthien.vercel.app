@@ -810,7 +810,7 @@ verse:
 'Nam Tuyền nói, “Không phải tâm, không phải Phật, không phải vật” / ' +
 'Bách Trượng nói, “Như thế là nói rồi” / ' +
 'Nam Tuyền nói, "Kẻ hèn này thì như thế, còn hòa thượng thì như thế nào?” / ' +
-Bách Trượng nói, “Tôi đã không phải là bậc thiện tri thức, làm sao biết là đã nói hay chưa nói” / ' +
+'Bách Trượng nói, “Tôi đã không phải là bậc thiện tri thức, làm sao biết là đã nói hay chưa nói” / ' +
 'Nam Tuyền nói, “Kẻ hèn này không hiểu” / ' +
 'Bách Trượng nói, “Tôi đã hết sức nói cho ông rồi”',
     commentBefore:
@@ -865,8 +865,7 @@ Bách Trượng nói, “Tôi đã không phải là bậc thiện tri thức, l
       '',
     main:
       'Có ông tăng hỏi Triệu Châu, “Nghe nói hòa thượng có đích thân gặp ngài Nam Tuyền rồi phải không ?” / ' +
-'Triệu Châu nói, “Trấn Châu sản xuất củ 
-cải lớn”',
+'Triệu Châu nói, “Trấn Châu sản xuất củ cải lớn”',
     commentBefore:
       '',
     verse: 
