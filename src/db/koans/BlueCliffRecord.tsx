@@ -770,15 +770,24 @@ verse:
 
   {
     id: 27,
-    title: 'TẮC THỨ 27: ',
+    title: 'TẮC THỨ 27: THỂ LỘ KIM PHONG CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Lúc cây khô lá rụng thì như thế nào ? / ' +
+'Vân Môn nói: “Thể lộ kim phong”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Hỏi đã có tông / ' +
+'Đáp cũng toàn đồng / ' +
+'Ba câu biện được / ' +
+'Một tên trên không / ' +
+'Đồng lớn hề gió lạnh vùn vụt / ' +
+'Trời cao hề mưa bụi lãng đãng / ' +
+'Người thấy chăng Thiếu Lâm ngồi lâu khách chưa về / ' +
+'Hùng Nhĩ êm đềm một tùng lâm',
     verseTranslated:
       ' ',
     verseExtra: '',
