@@ -1131,7 +1131,7 @@ verse:
       '',
     main:
       'Có ông tăng hỏi Triệu Châu, “Vạn pháp qui về một, một qui về đâu ?” / ' +  
-      'Triệu Châu nói, “Lúc ở Thanh Châu tôi có may một cái áo vải nặng bảy cân / ' + 
+      'Triệu Châu nói, “Lúc ở Thanh Châu tôi có may một cái áo vải nặng 7 cân',
     verse: 
 'Gói trọn sát lên mũi trùy cũ / ' + 
 'Chiếc áo bảy cân mấy người hay ? / ' + 
@@ -1152,9 +1152,10 @@ verse:
       'Kính Thanh hỏi ông tăng, “Ngoài cửa có tiếng gì vậy ?” / ' +  
       'Ông tăng nói, “Tiếng mưa rơi” / ' +  
       'Kính Thanh nói, “Chúng sinh điên đảo, mê mờ rồi đuổi theo sự vật” / ' +  
-      'Ông tăng hỏi, “Thế hòa thượng thì sao?” Kính Thanh nói, “Ta suýt nữa là không mê mờ chính mình rồi” / ' +  
+      'Ông tăng hỏi, “Thế hòa thượng thì sao ?” / ' +  
+      'Kính Thanh nói, “Ta suýt nữa là không mê mờ chính mình rồi” / ' +  
       'Ông tăng hỏi, “Suýt nữa là không mê mờ chính mình có nghĩa là gì ?” / ' +  
-      'Kính Thanh nói, “Xuất thân thì còn dễ, thoát thể mới là khó.”',
+      'Kính Thanh nói, “Xuất thân thì còn dễ, thoát thể mới là khó”',
     verse: 
 '',
     verseExtra: '',
