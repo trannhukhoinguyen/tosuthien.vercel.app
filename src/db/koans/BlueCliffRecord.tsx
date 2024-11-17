@@ -1053,9 +1053,20 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Bàng Cư Sĩ từ giả Dược Sơn, Dược Sơn sai mười Thiền khách tiễn ra tận cổng / ' +  
+      'Bàng Cư Sĩ chỉ tuyết trên không nói, “Từng phiến tuyết đẹp không rơi chỗ khác” / ' +  
+      'Lúc ấy có vị Thiền khách tên Toàn nói, “Rơi ở chỗ nào cơ ?”. Bàng Cư Sĩ bèn đánh một bạt tai / ' +  
+      'Toàn thiền khách nói, “Cư sĩ không nên thô lỗ như thế” / ' +  
+      'Bàng Cư Sĩ nói, “Làm sao ông tự gọi mình là Thiền khách được, Diêm Vương chưa có tha ông đâu” / ' +  
+      'Toàn thiền khách nói, “Thế cư sĩ thì sao?” Bàng Cư Sĩ lại đánh thêm cho một tát tai nữa, nói, “Mắt thấy mà như mù, miệng nói mà như câm” / ' +  
+      'Sau đó Tuyết Đậu nói, “Lúc ông ta mới hỏi phải vo tuyết lại mà ném ông ta mới phải”',
     verse: 
-'',
+'Vo tuyết ném, vo tuyết ném ! / ' +  
+'Cơ quan lão Bàng không nắm được / ' +  
+'Thiên thượng nhân gian không tự biết / ' +  
+'Trong mắt trong tai thật tiêu sái / ' +  
+'Thật tiêu sái / ' +  
+'Bích nhãn hồ tăng chẳng biện được',
     verseExtra: '',
     commentAfter:
       '',
@@ -1068,9 +1079,15 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Động Sơn, “Khi lạnh với nóng đến, phải làm sao để tránh đây ?” / ' +   
+      'Động Sơn nói, “Tại sao ông không đến nơi nào không có nóng với lạnh đó” / ' +   
+      'Ông tăng nói, “Đâu là chỗ không có nóng với lạnh ?” / ' +   
+      'Động Sơn nói, “Lúc lạnh thì lạnh chết thầy, lúc nóng thì nóng chết thầy”',
     verse: 
-'',
+'Thõng tay vẫn giống đỉnh vạn trượng / ' +  
+'Chính thiên hà tất phải an bài ? / ' +  
+'Điện cổ lưu ly chiếu trăng sáng / ' +  
+'Hàn Lô lăng xăng chạy lên thềm',
     verseExtra: '',
     commentAfter:
       '',
@@ -1083,9 +1100,19 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Hòa Sơn dạy rằng, “Học tập gọi là “văn” (nghe). Tuyệt học gọi là “lân” (gần). Vượt qua hai cái này mới đúng là thực sự vượt qua” / ' +
+      'Có ông tăng bước ra hỏi, “Thế nào là thực sự vượt qua?” Hòa Sơn nói, “Biết đánh trống.” 
+      'Ông tăng lại hỏi, “Thế nào là chân lý cứu cánh ?” Hòa Sơn nói, “Biết đánh trống” 
+      'Ông tăng lại hỏi, “Tâm là Phật- điều ấy không hỏi. Thế nào là không phải tâm không phải Phật?” Hòa Sơn nói, “Biết đánh trống.” Ông tăng lại hỏi, “ Người hướng thượng đến phải tiếp như thế nào?” Hòa Sơn nói, “Biết đánh trống.”',
     verse: 
-'',
+'Một kéo đá / ' +
+'Hai khiêng đất / ' +
+'Bật máy cần phải mười cánh cung / ' +
+'Tượng Cốt Lão Sư từng ném bóng / ' +
+'Sao giống Hòa Sơn biết đánh trống ? / ' +  
+'Cho ngài biết / ' +
+'Đừng sơ hốt / ' +
+'Ngọt thì ngọt hể đắng thì đắng !',
     verseExtra: '',
     commentAfter:
       '',
@@ -1098,9 +1125,13 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Triệu Châu, “Vạn pháp qui về một, một qui về đâu ?” / ' +  
+      'Triệu Châu nói, “Lúc ở Thanh Châu tôi có may một cái áo vải nặng bảy cân / ' + 
     verse: 
-'',
+'Gói trọn sát lên mũi trùy cũ / ' + 
+'Chiếc áo bảy cân mấy người hay ? / ' + 
+'Bây giờ ném nó xuống Tây Hồ / ' + 
+'Không mang gió mát, đem cho ai ?',
     verseExtra: '',
     commentAfter:
       '',
@@ -1113,7 +1144,12 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Kính Thanh hỏi ông tăng, “Ngoài cửa có tiếng gì vậy ?” / ' +  
+      'Ông tăng nói, “Tiếng mưa rơi” / ' +  
+      'Kính Thanh nói, “Chúng sinh điên đảo, mê mờ rồi đuổi theo sự vật” / ' +  
+      'Ông tăng hỏi, “Thế hòa thượng thì sao?” Kính Thanh nói, “Ta suýt nữa là không mê mờ chính mình rồi” / ' +  
+      'Ông tăng hỏi, “Suýt nữa là không mê mờ chính mình có nghĩa là gì ?” / ' +  
+      'Kính Thanh nói, “Xuất thân thì còn dễ, thoát thể mới là khó.”',
     verse: 
 '',
     verseExtra: '',
@@ -1128,9 +1164,15 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Vân Môn, “Pháp thân là gì?” / ' + 
+      'Vân Môn nói, “Sáu không thu',
     verse: 
-'',
+'Một hai ba bốn năm sáu / ' +
+'Bích nhãn hồ tăng đếm không đủ / ' +
+'Thiếu Lâm giả nói trao Thần Quang / ' +
+'Cuốn áo lại nói về Tây Trúc / ' +
+'Tây Trúc mênh mông chẳng nơi tìm / ' +
+'Đêm đến về nghỉ nơi Nhũ Phong',
     verseExtra: '',
     commentAfter:
       '',
@@ -1143,9 +1185,23 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Vương Thái Phó vào Chiêu Khánh Tự để nấu trà. Lúc ấy Lăng Thượng Tọa đang cầm ấm trà cho Minh Chiêu. Lãng Thượng Tọa lật ấm trà. / ' + 
+      'Thấy thế Vương Thái Phó hỏi Lãng Thượng Tọa: ”Dưới lò trà có gì vậy ?” / ' + 
+      'Lãng Thượng Tọa nói, “Thần hộ lò” / ' + 
+      'Vương Thái Phó nói, “Đã là thần hộ lò thì tại sao ấm trà lại lật ?” / ' + 
+      'Lãng Thượng Tọa nói, “Làm quan trăm ngày, mất chức một buổi”. Vương Thái Phó rũ áo bỏ ra. / ' + 
+'Minh Chiêu nói, “Lãng Thượng Tọa ăn cơm của Chiêu Khánh lại đi ra ngoài song mà nhặt củi” / ' + 
+'Lãng Thượng Tọa nói, “Thế hòa thượng thì sao ?” / ' + 
+'Minh Chiêu nói, “Thần được lợi” / ' +
+'Tuyết Đậu nói, “Lúc ấy phải đạp đổ lò trà mới phải”',
     verse: 
-'',
+'Đến hỏi như gió thổi / ' + 
+'Ứng cơ không thiện xảo / ' + 
+'Buồn thay Độc Nhãn Long ! / ' + 
+'Chưa phô bầy nanh vuốt / ' + 
+'Nanh vuốt mở / ' + 
+'Sinh sấm sét / ' + 
+'Con sóng ngược dòng mấy bận về',
     verseExtra: '',
     commentAfter:
       '',
@@ -1158,9 +1214,17 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Tam Thánh hỏi Tuyết Phong, “Con cá vàng vượt ra khỏi lưới, không hiểu lấy gì để ăn ?” / ' +  
+      'Tuyết Phong nói, “Đợi khi nào ông ra khỏi lưới tôi sẽ nói cho ông” / ' +  
+      'Tam Thánh nói, “Là thiện tri thức của 1500 người mà ngay cả một lời nói cũng không biết” / ' +  
+      'Tuyết Phong nói, “Việc trụ trì của Lão tăng bề bộn vô cùng”',
     verse: 
-'',
+'Cá vàng thoát lưới / ' + 
+'Đừng nói vương nước / ' + 
+'Cá kình ngàn thước thổi ba đào / ' + 
+'Một tiếng sấm sét gió nổi dậy / ' + 
+'Gió trong thổi / ' + 
+'Trên trời cõi người mấy ai biết ?',
     verseExtra: '',
     commentAfter:
       '',
@@ -1173,10 +1237,26 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Vân Môn, “Trần trần tam muội là gì ?” / ' +  
+      'Vân Môn nói, “Cơm trong bát, nước trong thùng”',
     verse: 
-'',
-    verseExtra: '',
+'Cơm trong bát nước trong thùng” / ' +  
+'Ông thầy lắm miệng khó mở mồm” / ' +  
+'Bắc đẩu Nam Tào vị không khác” / ' +  
+'Sóng cao tận trời dâng từ đất” / ' +  
+'Toan không toan” / ' +  
+'Thôi không thôi” / ' +  
+'Đều là con trưởng giả không khố',
+    verseExtra: 
+'Khắp nơi đều bị khổ” / ' +  
+'Thiên hạ bàn vu vơ” / ' +  
+'Có tài ném trong cỏ” / ' +  
+'Không thể đóng cửa lâu” / ' +  
+'Nhật hiện núi vẫn tối” / ' +  
+'Khói tan thung lũng mờ” / ' +  
+'Trong ấy con trưởng giả” / ' +  
+'Kẻ nào cũng không khố” / ' +  
+'(Hàn San Thi)',
     commentAfter:
       '',
   },
