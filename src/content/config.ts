@@ -12,6 +12,17 @@ const teachingsCollection = defineCollection({
     draft: z.boolean().optional(),
   }),
 });
+const blogsCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    tags: z.array(z.string()).default([""]),
+    draft: z.boolean().optional(),
+  }),
+});
 const koansCollection = defineCollection({
   schema: z.object({
     title: z.string(),
@@ -119,6 +130,7 @@ const callToActionSchema = z.object({
 
 // Export collections
 export const collections = {
+blogs: blogsCollection,
   teachings: teachingsCollection,
   koans: koansCollection,
   masters: mastersCollection,
