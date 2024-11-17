@@ -1304,9 +1304,15 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Triệu Châu, “Lâu nay nghe tiếng cầu đá của Triệu Châu, đến nơi lại chỉ thấy chiếc cầu khỉ” / ' +
+'Triệu Châu nói, “Ông chỉ thấy cầu khỉ, không thấy cầu đá” / ' +
+'Ông tăng hỏi, “Thế nào là cầu đá ?” / ' +
+'Triệu Châu nói, “Để lừa qua để ngựa qua”',
     verse: 
-'',
+'Không lập xa vời đạo mới cao / ' +
+'Xuống biển còn phải câu rùa lớn / ' +
+'Nực cười lão Quán Khê cùng thời / ' +
+'Biết nói”phóng tên” nhọc công thôi',
     verseExtra: '',
     commentAfter:
       '',
