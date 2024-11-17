@@ -710,18 +710,34 @@ verse:
 
   {
     id: 25,
-    title: 'TẮC THỨ 25: ',
+    title: 'TẮC THỨ 25: LIÊN HOA TRỤ TRƯỢNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+'Liên Hoa Phong Am Chủ dơ gậy lên dạy chúng rằng, “Cổ nhân đã đến đây, tại sao không chịu ở lại?” / ' +
+'Trong chúng không ai nói gì. / ' +
+'Am Chủ mới tự trả lời rằng, “Bởi vì họ không đắc lực trên đường” / ' +
+'Rồi lại nói tiếp, “Rốt cuộc như thế nào?” / ' +
+'Rồi lại tự trả lời, “Vác gậy trên vai chẳng màng ai, đi thẳng lên trăm ngàn đỉnh cao.”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'',
     verseTranslated:
       ' ',
-    verseExtra: '',
+    verseExtra: 
+'Ai kẻ gặp cơ duyên? / ' +
+'Nêu lên không lừa dối / ' +
+'Người như thế thật hiếm / ' +
+'Xô ngã cả đỉnh cao / ' +
+'Nấu chảy cả huyền vi / ' +
+'Trùng quan đã mở rộng / ' +
+'Chuyên gia chưa cùng về / ' +
+'Ngọc thỏ chợt tròn chợt khuyết / ' +
+'Kim ô bay mà không bay / ' +
+'Lão Lô không biết đi về đâu / ' +
+'Mây trắng nước trôi đều lưu luyến',
     verseExtraTranslated: '',
     commentAfter:
       '',
