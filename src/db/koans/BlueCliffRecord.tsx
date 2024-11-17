@@ -798,15 +798,31 @@ verse:
 
   {
     id: 28,
-    title: 'TẮC THỨ 28: ',
+    title: 'TẮC THỨ 28: CHƯ THÁNH CỦA NIẾT BÀN HÒA THƯỢNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+'Nam Tuyền đến tham kiến Niết Bàn Hòa Thượng ở núi Bách Trượng. / ' +
+'Bách Trượng hỏi, “Chư thánh từ xưa còn có Pháp nào chưa nói cho thiên hạ không?” / ' +
+'Nam Tuyền nói, “Có” / ' +
+'Bách Trượng nói, “Thế nào là Pháp chưa nói cho thiên hạ?” / ' +
+'Nam Tuyền nói, “Không phải tâm, không phải Phật, không phải vật” / ' +
+'Bách Trượng nói, “Như thế là nói rồi” / ' +
+'Nam Tuyền nói, "Kẻ hèn này thì như thế, còn hòa thượng thì như thế nào?” / ' +
+Bách Trượng nói, “Tôi đã không phải là bậc thiện tri thức, làm sao biết là đã nói hay chưa nói” / ' +
+'Nam Tuyền nói, “Kẻ hèn này không hiểu” / ' +
+'Bách Trượng nói, “Tôi đã hết sức nói cho ông rồi”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Tổ Phật xưa nay chẳng vì người / ' +
+'Nạp tăng xưa nay sánh vai đi / ' +
+'Gương sang trên khung ảnh biệt dị / ' +
+'Quay cả về nam nhìn bắc đẩu / ' +
+'Bắc đẩu nghiêng, / ' +
+'Không nơi tìm / ' +
+'Nhếch được mũi lên mất luôn miệng',
     verseTranslated:
       ' ',
     verseExtra: '',
