@@ -1100,10 +1100,15 @@ verse:
     intro:
       '',
     main:
-      'Hòa Sơn dạy rằng, “Học tập gọi là “văn” (nghe). Tuyệt học gọi là “lân” (gần). Vượt qua hai cái này mới đúng là thực sự vượt qua” / ' +
-      'Có ông tăng bước ra hỏi, “Thế nào là thực sự vượt qua?” Hòa Sơn nói, “Biết đánh trống.” 
-      'Ông tăng lại hỏi, “Thế nào là chân lý cứu cánh ?” Hòa Sơn nói, “Biết đánh trống” 
-      'Ông tăng lại hỏi, “Tâm là Phật- điều ấy không hỏi. Thế nào là không phải tâm không phải Phật?” Hòa Sơn nói, “Biết đánh trống.” Ông tăng lại hỏi, “ Người hướng thượng đến phải tiếp như thế nào?” Hòa Sơn nói, “Biết đánh trống.”',
+      'Hòa Sơn dạy rằng, “Học tập gọi là “văn” (nghe). Tuyệt học gọi là “lân” (gần). Vượt qua 2 cái này mới đúng là thực sự vượt qua” / ' +
+      'Có ông tăng bước ra hỏi, “Thế nào là thực sự vượt qua ?” / ' +   
+      'Hòa Sơn nói, “Ta chỉ biết đánh trống” / ' +   
+      'Ông tăng lại hỏi, “Thế nào là chân lý cứu cánh ?” / ' +   
+      'Hòa Sơn nói, “Ta chỉ biết đánh trống” / ' +   
+      'Ông tăng lại hỏi, “Tâm là Phật- điều ấy không hỏi. Thế nào là không phải tâm không phải Phật ?” / ' +   
+      'Hòa Sơn nói, “Ta chỉ biết đánh trống” / ' +   
+      'Ông tăng lại hỏi, “Người hướng thượng đến phải tiếp như thế nào ?” / ' +   
+      'Hòa Sơn nói, “Ta chỉ biết đánh trống”',
     verse: 
 'Một kéo đá / ' +
 'Hai khiêng đất / ' +
