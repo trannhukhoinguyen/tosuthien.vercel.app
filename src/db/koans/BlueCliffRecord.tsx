@@ -1029,14 +1029,18 @@ verse:
 
   {
     id: 41,
-    title: 'TẮC THỨ 41: ',
+    title: 'TẮC THỨ 41: NGƯỜI CHẾT LỚN CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Triệu Châu hỏi Đầu Tử, “Kẻ đã chết ngắc rồi lại sống dậy thì như thế nào ?” / ' +  
+      'Đầu Tử nói, “Không được đi đêm, ban ngày hãy tới”',
     verse: 
-'',
+'Trong sống có mắt giống như chết / ' + 
+'Thuốc kỵ làm sao thử chuyên gia ? / ' + 
+'Cổ Phật cũng bảo là chưa đến / ' + 
+'Không hiểu ai biết rải cát bụi',
     verseExtra: '',
     commentAfter:
       '',
@@ -1044,7 +1048,7 @@ verse:
 
   {
     id: 42,
-    title: 'TẮC THỨ 42: ',
+    title: 'TẮC THỨ 42: TỪNG PHIẾN TUYẾT CỦA BÀNG CƯ SĨ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1059,7 +1063,7 @@ verse:
 
   {
     id: 43,
-    title: 'TẮC THỨ 43: ',
+    title: 'TẮC THỨ 43: KHÔNG NÓNG KHÔNG LẠNH CỦA ĐỘNG SƠN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1074,7 +1078,7 @@ verse:
 
   {
     id: 44,
-    title: 'TẮC THỨ 44: ',
+    title: 'TẮC THỨ 44: HÒA SƠN BIẾT ĐÁNH TRỐNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1089,7 +1093,7 @@ verse:
 
   {
     id: 45,
-    title: 'TẮC THỨ 45: ',
+    title: 'TẮC THỨ 45: VẠN PHÁP QUI NHẤT CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1104,7 +1108,7 @@ verse:
 
   {
     id: 46,
-    title: 'TẮC THỨ 46: ',
+    title: 'TẮC THỨ 46: TIẾNG MƯA RƠI CỦA KÍNH THANH',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1119,7 +1123,7 @@ verse:
 
   {
     id: 47,
-    title: 'TẮC THỨ 47: ',
+    title: 'TẮC THỨ 47: SÁU KHÔNG THU CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1134,7 +1138,7 @@ verse:
 
   {
     id: 48,
-    title: 'TẮC THỨ 48: ',
+    title: 'TẮC THỨ 48: VƯƠNG THÁI PHÓ NẤU TRÀ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1149,7 +1153,7 @@ verse:
 
   {
     id: 49,
-    title: 'TẮC THỨ 49: ',
+    title: 'TẮC THỨ 49: TAM THÁNH LẤY GÌ ĐỂ ĂN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1164,7 +1168,7 @@ verse:
 
   {
     id: 50,
-    title: 'TẮC THỨ 50: ',
+    title: 'TẮC THỨ 50: TRẦN TRẦN TAM MUỘI CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1179,7 +1183,7 @@ verse:
 
   {
     id: 51,
-    title: 'TẮC THỨ 51: ',
+    title: 'TẮC THỨ 51: “CÁI GÌ ĐÂY?” CỦA TUYẾT PHONG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1194,7 +1198,7 @@ verse:
 
   {
     id: 52,
-    title: 'TẮC THỨ 52: ',
+    title: 'TẮC THỨ 52: CẦU ĐÁ CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1209,7 +1213,7 @@ verse:
 
   {
     id: 53,
-    title: 'TẮC THỨ 53: ',
+    title: 'TẮC THỨ 53: VỊT TRỜI CỦA MÃ ĐẠI SƯ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1224,7 +1228,7 @@ verse:
 
   {
     id: 54,
-    title: 'TẮC THỨ 54: ',
+    title: 'TẮC THỨ 54: “MỚI Ở ĐÂU TỚI” CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1239,7 +1243,7 @@ verse:
 
   {
     id: 55,
-    title: 'TẮC THỨ 55: ',
+    title: 'TẮC THỨ 55: ĐẠO NGÔ VÀ TIỆM NGUYÊN ĐI ĐIẾU TANG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1254,7 +1258,7 @@ verse:
 
   {
     id: 56,
-    title: 'TẮC THỨ 56: ',
+    title: 'TẮC THỨ 56: MỘT MŨI TÊN PHÁ BA ẢI CỦA KHÂM SƠN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1269,7 +1273,7 @@ verse:
 
   {
     id: 57,
-    title: 'TẮC THỨ 57: ',
+    title: 'TẮC THỨ 57: CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1284,7 +1288,7 @@ verse:
 
   {
     id: 58,
-    title: 'TẮC THỨ 58: ',
+    title: 'TẮC THỨ 58: TRIỆU CHÂU VÀ KHUÔN SÁO THỜI THƯỢNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1299,7 +1303,7 @@ verse:
 
   {
     id: 59,
-    title: 'TẮC THỨ 59: ',
+    title: 'TẮC THỨ 59: TRIỆU CHÂU VÀ “ĐỪNG SO ĐO”',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1314,7 +1318,7 @@ verse:
 
   {
     id: 60,
-    title: 'TẮC THỨ 60: ',
+    title: 'TẮC THỨ 60: CÂY GẬY CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1329,7 +1333,7 @@ verse:
 
   {
     id: 61,
-    title: 'TẮC THỨ 61: ',
+    title: 'TẮC THỨ 61: MỘT HẠT BỤI CỦA PHONG HUYỆT',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1344,7 +1348,7 @@ verse:
 
   {
     id: 62,
-    title: 'TẮC THỨ 62: ',
+    title: 'TẮC THỨ 62: VIÊN NGỌC CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1359,7 +1363,7 @@ verse:
 
   {
     id: 63,
-    title: 'TẮC THỨ 63: ',
+    title: 'TẮC THỨ 63: NAM TUYỀN GIẾT MÈO',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1374,7 +1378,7 @@ verse:
 
   {
     id: 64,
-    title: 'TẮC THỨ 64: ',
+    title: 'TẮC THỨ 64: NAM TUYỀN HỎI TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1389,7 +1393,7 @@ verse:
 
   {
     id: 65,
-    title: 'TẮC THỨ 65: ',
+    title: 'TẮC THỨ 65: NGOẠI ĐẠO HỎI PHẬT VỀ HỮU VÔ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1404,7 +1408,7 @@ verse:
 
   {
     id: 66,
-    title: 'TẮC THỨ 66: ',
+    title: 'TẮC THỨ 66: NHAM ĐẦU VÀ “TỪ ĐÂU TỚI”',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1419,7 +1423,7 @@ verse:
 
   {
     id: 67,
-    title: 'TẮC THỨ 67: ',
+    title: 'TẮC THỨ 67: LƯƠNG VŨ ĐẾ MỜI GIẢNG KIN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1434,7 +1438,7 @@ verse:
 
   {
     id: 68,
-    title: 'TẮC THỨ 68: ',
+    title: 'TẮC THỨ 68: NGƯỠNG SƠN HỎI TAM THÁNH',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1449,7 +1453,7 @@ verse:
 
   {
     id: 69,
-    title: 'TẮC THỨ 69: ',
+    title: 'TẮC THỨ 69: NAM TUYỀN BÁI TRUNG QUỐC SƯ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1464,7 +1468,7 @@ verse:
 
   {
     id: 70,
-    title: 'TẮC THỨ 70: ',
+    title: 'TẮC THỨ 70: QUI SƠN ĐỨNG HẦU BÁCH TRƯỢNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1479,7 +1483,7 @@ verse:
 
   {
     id: 71,
-    title: 'TẮC THỨ 71: ',
+    title: 'TẮC THỨ 71: BÁCH TRƯỢNG VÀ KHÔNG VỚI CỔ HỌNG VỚI MIỆNG MÔI',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1494,7 +1498,7 @@ verse:
 
   {
     id: 72,
-    title: 'TẮC THỨ 72: ',
+    title: 'TẮC THỨ 72: BÁCH TRƯỢNG HỎI VÂN NHAM',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1509,7 +1513,7 @@ verse:
 
   {
     id: 73,
-    title: 'TẮC THỨ 73: ',
+    title: 'TẮC THỨ 73: TỨ CÚ BÁCH PHI CỦA MÃ ĐẠI SƯ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1524,7 +1528,7 @@ verse:
 
   {
     id: 74,
-    title: 'TẮC THỨ 74: ',
+    title: 'TẮC THỨ 74: KIM NGƯU HÒA THƯỢNG CƯỜI HA HA',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1539,7 +1543,7 @@ verse:
 
   {
     id: 75,
-    title: 'TẮC THỨ 75: ',
+    title: 'TẮC THỨ 75: Ô CỮU HỎI PHÁP ĐẠO',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1554,7 +1558,7 @@ verse:
 
   {
     id: 76,
-    title: 'TẮC THỨ 76: ',
+    title: 'TẮC THỨ 76: ĐAN HÀ HỎI TỪ ĐÂU TỚI',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1569,7 +1573,7 @@ verse:
 
   {
     id: 77,
-    title: 'TẮC THỨ 77: ',
+    title: 'TẮC THỨ 77: BÁNH CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1584,7 +1588,7 @@ verse:
 
   {
     id: 78,
-    title: 'TẮC THỨ 78: ',
+    title: 'TẮC THỨ 78: MƯỜI SÁU BỒ TÁT ĐI TẮM',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1599,7 +1603,7 @@ verse:
 
   {
     id: 79,
-    title: 'TẮC THỨ 79: ',
+    title: 'TẮC THỨ 79: TẤT CẢ CÁC ÂM THANH CỦA ĐẦU TỬ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1614,7 +1618,7 @@ verse:
 
   {
     id: 80,
-    title: 'TẮC THỨ 80: ',
+    title: 'TẮC THỨ 80: HÀI TỬ THỨC CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1629,7 +1633,7 @@ verse:
 
   {
     id: 81,
-    title: 'TẮC THỨ 81: ',
+    title: 'TẮC THỨ 81: DƯỢC SƠN BẮN NAI',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1644,7 +1648,7 @@ verse:
 
   {
     id: 82,
-    title: 'TẮC THỨ 82: ',
+    title: 'TẮC THỨ 82: KIẾN CỐ PHÁP THÂN CỦA ĐẠI LONG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1659,7 +1663,7 @@ verse:
 
   {
     id: 83,
-    title: 'TẮC THỨ 83: ',
+    title: 'TẮC THỨ 83: CỔ PHẬT VÀ CỘT TRỤ CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1674,7 +1678,7 @@ verse:
 
   {
     id: 84,
-    title: 'TẮC THỨ 84: ',
+    title: 'TẮC THỨ 84: BẤT NHỊ PHÁP MÔN CỦA DUY MA CẬT',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1689,7 +1693,7 @@ verse:
 
   {
     id: 85,
-    title: 'TẮC THỨ 85: ',
+    title: 'TẮC THỨ 85: CON CỌP CỦA ĐỒNG PHONG AM CHỦ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1704,7 +1708,7 @@ verse:
 
   {
     id: 86,
-    title: 'TẮC THỨ 86: ',
+    title: 'TẮC THỨ 86: QUANG MINH CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1719,7 +1723,7 @@ verse:
 
   {
     id: 87,
-    title: 'TẮC THỨ 87: ',
+    title: 'TẮC THỨ 87: BỆNH VÀ THUỐC TRỊ LẪN NHAU CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1734,7 +1738,7 @@ verse:
 
   {
     id: 88,
-    title: 'TẮC THỨ 88: ',
+    title: 'TẮC THỨ 88: HUYỀN SA TIẾP VẬT LỢI SINH',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1749,7 +1753,7 @@ verse:
 
   {
     id: 89,
-    title: 'TẮC THỨ 89: ',
+    title: 'TẮC THỨ 90: TAY VÀ MẮT CỦA ĐẠI BI BỒ TÁT',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1764,7 +1768,7 @@ verse:
 
   {
     id: 90,
-    title: 'TẮC THỨ 90: ',
+    title: 'TẮC THỨ 90: BÁT NHÃ THỂ CỦA TRÍ MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
