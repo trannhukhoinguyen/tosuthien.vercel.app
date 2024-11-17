@@ -745,15 +745,21 @@ verse:
 
   {
     id: 26,
-    title: 'TẮC THỨ 26: ',
+    title: 'TẮC THỨ 26: BÁCH TRƯỢNG NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Bách Trượng: "Thế nào là sự việc kỳ đặc ?” / ' +
+'Bách Trượng nói, “Ngồi một mình trên đỉnh Đại Hùng” / ' +
+'Ông tăng lễ lậy, Bách Trượng bèn đánh',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Tổ vực tung hoành thiên mã câu / ' +
+'Cuốn mở phương tiện không cùng đường / ' +
+'Đá lửa điện chớp còn cơ biến / ' +
+'Nực cười người đến vuốt râu hùm',
     verseTranslated:
       ' ',
     verseExtra: '',
