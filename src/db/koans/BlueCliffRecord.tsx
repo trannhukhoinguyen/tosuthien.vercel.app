@@ -833,15 +833,22 @@ Bách Trượng nói, “Tôi đã không phải là bậc thiện tri thức, l
 
   {
     id: 29,
-    title: 'TẮC THỨ 29: ',
+    title: 'TẮC THỨ 29: HỎA KIẾP CỦA ĐẠI TÙY',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+'Có ông tăng hỏi, “Hỏa kiếp cháy suốt, đại thiên đều hoại. Chẳng hiểu cái này có bị hoại hay không?” / ' +
+'Đại Tùy nói, “Có bị hoại” / ' +
+'Ông tăng nói, “Vậy thì nó cũng giống như những cái kia” / ' +
+'Đại Tùy nói, “Cũng giống như những cái kia”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Trong lửa tận kiếp đặt câu hỏi / ' +
+'Nạp tăng vẫn vướng hai lớp quan / ' +
+'Thương thay một câu “giống như” kia / ' +
+'Vạn dặm thui thủi mình đi về',
     verseTranslated:
       ' ',
     verseExtra: '',
@@ -852,15 +859,23 @@ Bách Trượng nói, “Tôi đã không phải là bậc thiện tri thức, l
 
   {
     id: 30,
-    title: 'TẮC THỨ 30: ',
+    title: 'TẮC THỨ 30: CỦ CẢI CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Triệu Châu, “Nghe nói hòa thượng có đích thân gặp ngài Nam Tuyền rồi phải không ?” / ' +
+'Triệu Châu nói, “Trấn Châu sản xuất củ 
+cải lớn”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Trấn Châu sản xuất củ cải lớn / ' +
+'Nạp tăng coi đó là nguyên tắc/ ' +
+'Chỉ biết từ xưa cho đến nay / ' +
+'Ngỗng trắng quạ đen sao phân được? / ' +
+'Kẻ trộm, kẻ trộm ! / ' +
+'Nắm ngay lỗ mũi của nạp tăng',
     verseTranslated:
       ' ',
     verseExtra: '',
