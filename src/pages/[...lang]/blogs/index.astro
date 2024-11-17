@@ -18,7 +18,7 @@ export function getStaticPaths() {
   return paths;
 }
 const { lang } = Astro.params;
-const BLOG_FOLDER = "koans";
+const BLOG_FOLDER = "blogs";
 const postIndex = await getListPage(
   BLOG_FOLDER,
   lang as keyof ContentEntryMap
@@ -42,41 +42,6 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 
   <section class="section" style="padding-top: 0">
     <div class="container">
-      <div style="margin-block: 24px">
-        <h4>Pháp thân công án</h4>
-        <p>Chỉ các loại công án có thể giúp đỡ thiền sinh chỉ một bước một vượt thế giới nhị nguyên, lần đầu chứng ngộ trực tiếp Pháp thân, Phật tính theo Tâm kinh thì gọi là "Sắc tức là Không".
-          Rất nhiều công án trong các tập danh tiếng được xếp vào loại này mà nổi danh nhất có lẽ là công án thứ nhất của tập Vô môn quan với tên "Con chó của Triệu Châu" (Triệu Châu cẩu tử 趙州狗子).
-        </p>
-        <h4>Cơ quan công án</h4>
-        <p>Mục đích của các Pháp thân công án là thế giới bất phân biệt, nhưng thiền sinh chưa được dừng chân nơi đây.
-          Cơ quan công án hướng dẫn thiền sinh đến một bước nữa, phân biệt trong thế giới không phân biệt, ngộ được lý "Không tức là Sắc".
-          Được xếp vào loại này là công án 17 và 37 của Vô môn quan.
-        </p>
-        <h4>Ngôn thuyên công án</h4>
-        <p>Chỉ những công án mà thiền sinh phải tham quán ý nghĩa tột cùng của ngôn ngữ mà chư vị tiền bối sử dụng hoằng hoá (ngôn thuyên nghĩa là ngôn ngữ giải thích kĩ càng, trọn vẹn).
-          Các vị Thiền sư sử dụng ngôn ngữ rất tài tình, đầy thi vị nhưng điểm đặc sắc nhất là các ngôn ngữ này không hề dừng bước chỉ trong khuôn khổ thẩm mĩ mà vượt qua cả nó, bao hàm ý nghĩa cùng tột, trực chỉ chân lý.
-          Đại diện cho loại công án này chính là Bích nham lục của Thiền sư Viên Ngộ.
-          Một số công án trong Vô môn quan cũng được xếp vào loại này (21, 24, 27, 30, 33, 34).
-        </p>
-        <h4>Nan thấu công án</h4>
-        <p>Chỉ những công án rất khó (nan) lĩnh hội (thấu) vì những sự đối nghịch ngay trong trường hợp được trình bày.
-          Các công án thuộc loại này giúp thiền sinh khinh an thấu rõ được sự vô ngại của sự vật, có thể nói theo giáo lý của Hoa nghiêm tông là Sự sự vô ngại (zh. 事事無礙).
-          Chính sự chinh phục, thấu hiểu lý này là yếu tố của tâm tư khinh an, tự do tự tại mà các bậc giác ngộ thụ hưởng.
-          Thiền sư Bạch Ẩn Huệ Hạc thường nhắc đến tám công án thuộc loại này mà trong đó ba công án nằm trong tập Vô môn quan, đó là tắc 13, 35, 38.
-          Công án 38 như sau: "Ngũ Tổ Pháp Diễn hỏi chúng: Ví như con trâu đi qua khung cửa, đầu, sừng, bốn chân đều lọt, sao đuôi lại chẳng lọt được?"
-        </p>
-        <h4>Ngũ vị công án</h4>
-        <p>Chỉ các công án cuối cùng mà thiền sinh phải vượt qua. Các công án này có liên hệ trực tiếp với Ngũ vị quân thần (Động Sơn ngũ vị) của vị Khai tổ tông Tào Động là Thiền sư Động Sơn Lương Giới.
-          Kinh nghiệm giác ngộ của thiền sinh—đạt được qua bốn loại công án trước—được thử thách lần cuối.
-        </p>
-        <p style="margin-block: 12px">
-          Là một phương tiện tối trọng để đạt giác ngộ, phép quán công án đòi hỏi 3 yếu tố mà thiền sinh phải đạt được, đó là:
-        </p>
-        <h6>Đại phấn chí: là sự tinh tiến, kiên trì dũng mãnh</h6>
-        <h6>Đại nghi đoàn: không có nghĩa nghi ngờ bình thường mà chỉ trạng thái tập trung tư tưởng tuyệt đỉnh</h6>
-        <h6>Đại tín căn: được hiểu như là niềm tin tuyệt đối vào khả năng giác ngộ của chính mình</h6>
-        <p>Các điểm mâu thuẫn trong công án có nhiệm vụ gia tăng Đại nghi đoàn này và Thiền sư Bạch Ẩn bảo rằng: "Đại nghi - Đại ngộ" (zh. 大疑大悟), nghĩa là càng nghi nhiều, càng ngộ sâu.</p>
-      </div>
       <div class="row gx-5">
         <!-- blog posts -->
         <div class="lg:col-8">
