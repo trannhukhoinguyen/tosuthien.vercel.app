@@ -1246,22 +1246,22 @@ verse:
       'Có ông tăng hỏi Vân Môn, “Trần trần tam muội là gì ?” / ' +  
       'Vân Môn nói, “Cơm trong bát, nước trong thùng”',
     verse: 
-'Cơm trong bát nước trong thùng” / ' +  
-'Ông thầy lắm miệng khó mở mồm” / ' +  
-'Bắc đẩu Nam Tào vị không khác” / ' +  
-'Sóng cao tận trời dâng từ đất” / ' +  
-'Toan không toan” / ' +  
-'Thôi không thôi” / ' +  
+'Cơm trong bát nước trong thùng / ' +  
+'Ông thầy lắm miệng khó mở mồm / ' +   
+'Bắc đẩu Nam Tào vị không khác / ' +  
+'Sóng cao tận trời dâng từ đất / ' + 
+'Toan không toan / ' +  
+'Thôi không thôi / ' +  
 'Đều là con trưởng giả không khố',
     verseExtra: 
-'Khắp nơi đều bị khổ” / ' +  
-'Thiên hạ bàn vu vơ” / ' +  
-'Có tài ném trong cỏ” / ' +  
-'Không thể đóng cửa lâu” / ' +  
-'Nhật hiện núi vẫn tối” / ' +  
-'Khói tan thung lũng mờ” / ' +  
-'Trong ấy con trưởng giả” / ' +  
-'Kẻ nào cũng không khố” / ' +  
+'Khắp nơi đều bị khổ / ' +  
+'Thiên hạ bàn vu vơ / ' +  
+'Có tài ném trong cỏ / ' +  
+'Không thể đóng cửa lâu / ' +  
+'Nhật hiện núi vẫn tối / ' +  
+'Khói tan thung lũng mờ / ' +  
+'Trong ấy con trưởng giả / ' +  
+'Kẻ nào cũng không khố / ' +  
 '(Hàn San Thi)',
     commentAfter:
       '',
