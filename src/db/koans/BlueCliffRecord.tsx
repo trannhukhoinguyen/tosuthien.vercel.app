@@ -1325,9 +1325,21 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Một lần kia Mã Đại Sư tản bộ với Bách Trượng, thấy có bầy vịt trời bay qua. Mã Đại Sư hỏi, “Cái gì vậy ?” / ' +
+'Bách Trượng nói, “Vịt trời”. / ' +
+'Mã Đại Sư nói, “Bay đi đâu vậy ?” / ' +
+'Bách Trượng nói, “Bay đi mất rồi” / ' +
+'Mã Đại Sư bèn bẹo mũi Bách Trượng. Bách Trượng đau quá kêu lên. / ' +
+'Mã Đại Sư nói, “Đã từng bay đi đâu?”',
     verse: 
-'',
+'Bầy vịt trời / ' +
+'Biết về đâu / ' +
+'Mã Tổ thấy chúng nói với nhau / ' +
+'Nói về mây núi cùng trăng biển / ' +
+'Như xưa không hiểu bảo bay đi / ' +
+'Muốn bay đi / ' +
+'Lại giữ lại  / ' +
+'Nói, nói !',
     verseExtra: '',
     commentAfter:
       '',
