@@ -1,9 +1,9 @@
 {
   "site": {
-    "title": "Patriarchal Zen",
-    "meta_title": "Patriarchal Zen",
+    "title": "Tổ Sư Thiền - Patriarchal Zen",
+    "meta_title": "Tổ Sư Thiền - Patriarchal Zen",
     "meta_image": "/images/monocolor-unknown-zen-master.jpg",
-    "meta_description": "Patriarchal Zen Masters, Cautions, FAQs, Books, PDF, MP3, Youtube",
+    "meta_description": "Tổ Sư Thiền - Patriarchal Zen - Blogs, Koans, Teachings, Masters, Cautions, FAQs, Books, PDF, MP3, Youtube",
     "base_url": "https://patriarchalzen.quest",
     "base_path": "/",
     "trailing_slash": false,
@@ -12,7 +12,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Patriarchal Zen"
+    "logo_text": "Tổ Sư Thiền - Patriarchal Zen"
   },
 
   "settings": {
@@ -33,7 +33,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "TRY TO MEDITATE!"
+    "copyright": "HÃY THAM THIỀN ĐI! TRY TO MEDITATE!"
   },
 
   "navigation_button": {
@@ -43,8 +43,8 @@
   },
 
   "metadata": {
-    "meta_author": "Patriarchal Zen Masters",
+    "meta_author": "Tổ Sư Thiền - Patriarchal Zen Masters",
     "meta_image": "/images/monocolor-unknown-zen-master.jpg",
-    "meta_description": "Patriarchal Zen Masters, Cautions, FAQs, Books, PDF, MP3, Youtube"
+    "meta_description": "Tổ Sư Thiền - Patriarchal Zen - Blogs, Koans, Teachings, Masters, Cautions, FAQs, Books, PDF, MP3, Youtube"
   }
 }
