@@ -885,15 +885,29 @@ verse:
 
   {
     id: 31,
-    title: 'TẮC THỨ 31: ',
+    title: 'TẮC THỨ 31: MA CÓC CHỐNG GẬY',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+'Ma Cốc chống gậy đến gặp Chương Kính. Đi quanh giường Thiền 3 vòng, rồi chống gậy đứng sừng sững đó / ' +
+'Chương Kính nói, “Đúng, đúng” / ' +
+'Tuyết Đậu phê bình, “Sai!” / ' +
+'Ma Cốc lại đến gặp Nam Tuyền. Lại cũng đi quanh giường Thiền 3 vòng, rồi chống gậy đứng sừng sững đó / ' +
+'Nam Tuyền nói, “Không đúng, không đúng” / ' +
+'Ma Cốc hỏi: "Sao Chương huynh nói Đúng, còn huynh lại nói Không đúng ?" / ' +
+'Nam Tuyền nói, “Chương Kính thì đúng, ông mới là không đúng. Đây chính là cái bị sức gió chuyển động, cuối cùng thế nào cũng bại hoại”',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Đây sai kia sai / ' +
+'Kỵ nhất đừng lấy / ' +
+'Bốn bề sóng yên / ' +
+'Trăm sông triều xuống / ' +
+'Cổ sách phong cao thập nhị môn / ' +
+'Mỗi cửa có đường trống sơ xác / ' +
+'Không xơ xác / ' +
+'Chuyên gia phải kiếm thuốc không bệnh',
     verseTranslated:
       ' ',
     verseExtra: '',
@@ -904,15 +918,22 @@ verse:
 
   {
     id: 32,
-    title: 'TẮC THỨ 32: ',
+    title: 'TẮC THỨ 32: PHẬT PHÁP ĐẠI Ý CỦA LÂM TẾ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Định Thượng Tọa hỏi Lâm Tế, “Thế nào là đại ý của Phật Pháp ?” / ' +
+'Lâm Tế bước khỏi giường Thiền, nắm lấy Định Thượng Tọa tát cho một bạt tai rồi đẩy ra. Định Thượng Tọa đứng im đó / ' +
+'Có ông tăng đứng cạnh đó nói, “Định Thượng Tọa, tại sao không cúi lậy đi ?” / ' +
+'Định Thượng Tọa mới cúi lậy, rồi hốt nhiên đại ngộ',
     commentBefore:
       '',
-    verse: '',
+    verse: 
+'Đoạn tế toàn cơ theo dấu chân / ' +
+'Đem đến tại sao phải thung dung / ' +
+'Cự linh dơ tay chẳng nhiều nhặn / ' +
+'Phân phá Hoa Sơn ngàn vạn trùng',
     verseTranslated:
       ' ',
     verseExtra: '',
