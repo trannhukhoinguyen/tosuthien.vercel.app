@@ -6,16 +6,16 @@ const BlueCliffRecord = [
       intro:
         'Thấy khói bên kia núi biết là có lửa, thấy sừng bên kia tường biết là có trâu. Chỉ một hiểu ba, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ. Còn như cắt đứt các dòng nhánh, hiện lên ở phương đông, chìm đi ở phương tây, tung hoàng nghịch thuận, tự tại cho hay lấy, vào giây phút đó, thử nói xem là hành tung của kẻ nào? Thử nhìn vào những lời dây dưa của Tuyết Đậu',
       main:
-        'Lương Vũ Đế hỏi Đạt Ma Đại Sư, “Thế nào là sự thật cứu cánh siêu phàm?” ' +
-        'Đạt Ma nói, “Trống không chẳng có gì là siêu phàm”. ' +
-        'Vũ Đế hỏi, “Thế đối diện Trẫm là ai vậy?” ' +
-        'Đạt Ma nói “Không biết”. Vũ Đế không hiểu, Đạt Ma bèn sang sông qua nước Ngụy. ' +
-        'Sau đó Vũ Đế thuật lại câu chuyện trên cho Chí Công. ' +
-        'Chí Công hỏi , “Thế bệ hạ đã biết người ấy là ai chưa?” ' +
-        'Vũ Đế nói “ Không biết”. ' +
-        'Chí Công nói, “Đó chính là Bồ Tát Quan Âm đến để truyền tâm ấn của Phật.” ' +
-        'Vũ Đế lấy làm ân hận, bèn sai sứ đuổi theo để mời Đạt Ma trở lại. ' +
-        'Chí Công nói, “Đừng có nói là bệ hạ sai sứ đuổi theo, dù cho là cả nước có đuổi theo đi nữa người ấy cũng không trở lại đâu.”',
+        'Lương Vũ Đế hỏi Đạt Ma Đại Sư, “Thế nào là sự thật cứu cánh siêu phàm ?” / ' + 
+        'Đạt Ma nói, “Trống không chẳng có gì là siêu phàm” / ' + 
+        'Vũ Đế hỏi, “Thế đối diện Trẫm là ai vậy?”  / ' + 
+        'Đạt Ma nói “Không biết”. Vũ Đế không hiểu, Đạt Ma bèn sang sông qua nước Ngụy / ' + 
+        'Sau đó Vũ Đế thuật lại câu chuyện trên cho Chí Công / ' + 
+        'Chí Công hỏi , “Thế bệ hạ đã biết người ấy là ai chưa?” / ' + 
+        'Vũ Đế nói “ Không biết” / ' + 
+        'Chí Công nói, “Đó chính là Bồ Tát Quan Âm đến để truyền tâm ấn của Phật” / ' + 
+        'Vũ Đế lấy làm ân hận, bèn sai sứ đuổi theo để mời Đạt Ma trở lại / ' + 
+        'Chí Công nói, “Đừng có nói là bệ hạ sai sứ đuổi theo, dù cho là cả nước có đuổi theo đi nữa người ấy cũng không trở lại đâu”',
     verseExtra:
       'Một tên bình thường một ưng rơi / ' +
       'Lại thêm tên nữa mất công thôi / ' +
@@ -39,35 +39,35 @@ const BlueCliffRecord = [
       'Tự đáp: “Có” / ' +
       'Đến đây rửa chân cho lão tăng',
     commentAfterVerse:
-      'Tuyết Đậu tụng công án này, giống như y thể khéo múa Thái A Kiếm, uyển chuyển trong không, đương nhiên không phạm phải mũi nhọn. ' +
-      'Nếu như không có cái khả năng này, thì vừa nhặt kiếm lên tay hẳn đã bị mũi nhọn đả thương. ' +
+      'Tuyết Đậu tụng công án này, giống như y thể khéo múa Thái A Kiếm, uyển chuyển trong không, đương nhiên không phạm phải mũi nhọn / ' + 
+      'Nếu như không có cái khả năng này, thì vừa nhặt kiếm lên tay hẳn đã bị mũi nhọn đả thương / ' + 
       'Đối với những người đủ mắt để nhìn thấy thì một niệm, một xuyên, một khen, một chê, chỉ dùng tứ cú mà định đoán cả một tắc công án. ' +
-      'Phàm việc tụng cổ, thường là giảng về Thiền một cách vòng vo, nêu lên ý chính của vấn đề xưa, rồi theo các dữ kiện mà kết thúc công án, chỉ có thế thôi. ' +
-      'Tuyết Đậu giáp mặt trực tiếp với công án, lập tức tụng rằng, “Sự thật trống không, làm sao phân biện?” ' +
-      'Dưới câu đầu, Tuyết Đậu thêm một câu này, quả là kỳ đặc hết sức. ' +
-      'Thử nói xem, rốt cuộc phải phân biện như thế nào? Dù cho có mắt sắt người đồng đi nữa, cũng chẳng biết đường nào mà rờ rẫm. ' +
-      'Đến chổ này rồi, há có thể lấy tỉnh thức ra mà đắn đo được sao? Do đó mà Vân Môn nói, “ Như đánh đá lửa, giống ánh điện chớp”. ' +
-      'Vấn đề này không nằm trong sự suy nghĩ hay ý tưởng. ' +
-      'Đến lúc mà ông há miệng, thì đâu còn có công dụng gì nữa. Ngay lúc tính toán so đo vừa khởi, thì con chim cắt đã bay qua Tân La (Cao Ly) rồi. ' +
-      'Tuyết Đậu nói, “Các ông tăng trong thiên hạ, các ông phân biện vấn đề này như thế nào? Đối diện với trẫm là ai?” ' +
-      'Lại còn nói “không biết”. Đây chính là chỗ từ tâm của Tuyết Đậu, nổ lực không ngớt để giúp thiên hạ. ' +
-      'Thử nói xem “trống không” và “ không biết” là một hay hai. Nếu như người đủ khả năng hiểu, thế nào cũng phân nó làm hai. ' +
-      'Thiên hạ ở mọi nơi thường nói, “Tuyết Đậu cùng lắm chỉ nêu lại vấn đề lên một lần nữa mà thôi.” ' +
-      'Đâu có biết rằng, bốn câu tụng đã nói lên hết ý nghĩa của công án rồi. ' +
-      'Sau đó vì lòng từ bi, Tuyết Đậu mới tụng sự tích nhân duyên rằng, “ Do đó lén qua sông, há không sinh gai góc?” ' +
-      'Đạt Ma đến xứ này vốn để giải thoát thiên hạ khỏi chỗ dính dấp ràng buộc, nhổ đinh bạt chốt, cắt dọn gai góc. ' +
-      'Tại sao Tuyết Đậu lại đi nói rằng Đạt Ma làm gai góc sinh? Cũng không phải chỉ vào buổi ấy, mà ngày nay dưới chân mọi người gai góc cũng đã thâm đến mấy trượng. ' +
-      '“Cả nước đuổi theo cũng chẳng về, ngàn xưa ngàn sau nhớ mông suông”, đúng là không phải trượng phu. ' +
-      'Thử nói xem, Đạt Ma ở đâu? Nếu thấy được Dạt Ma thì sẽ thấy được chỗ vì người của Tuyết Đậu. ' +
-      'Tuyết Đậu lại sợ thiên hạ mải đuổi theo kiến thức thường tình, cho nên mở tung khóa chốt, để lộ chỗ thấy của mình mà nói rằng, “Đừng nhớ mong! Gió thổi mặt đất bao giờ ngưng.” ' +
-      'Nếu đã không nhớ mong, thì các chuyện dưới chân mình làm sao mà nảy sinh? Tuyết Đậu nói, hiện giờ ở đây, gió trong thổi mặt đất, trên trời dưới đất, có chỗ nào là cùng cực? ' +
-      'Tuyết Đậu đem tất cả các việc từ thiên cổ vạn cổ ném ngay ra trước mặt. ' +
-      'Không phải chỉ với một mình Tuyết Đậu, mà ngay hiện giờ có chỗ nào là cùng cực? Ngay cả nơi con người các ông,có chỗ nào là cùng cực? ' +
-      'Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này, cho nên lại mượn vào phương tiện, lớn tiếng nói, “Nơi này còn có Tổ Sư chăng?” Rồi tự trả lời, “Có”. ' +
-      'Ở đây Tuyết Đậu chẳng còn ngần ngại bộc lộ lòng dạ của mình cho thiên hạ. Lại tự nói, “Đến đây rửa chân cho lão tăng”. ' +
-      'Quả tình là hạ thấp quang huy của người ta một cách quá đáng, song lúc ấy Tuyết Đậu cũng đã cung hiến cả tay chân mình. ' +
-      'Thử nói xem, ý của Tuyết Đậu nằm ở chổ nào? Đến chổ này rồi thì có gọi là lừa cũng được, có gọi là ngựa cũng được, mà có gọi là Tổ Sư cũng được. ' +
-      'Song làm sao có thể gọi tên hay mô tả được? Ý kiến thông thường rằng Tuyết Đậu chỉ lợi dụng Tổ Sư, may thay chẳng có gì nhằm nhò với việc này cả. ' +
+      'Phàm việc tụng cổ, thường là giảng về Thiền một cách vòng vo, nêu lên ý chính của vấn đề xưa, rồi theo các dữ kiện mà kết thúc công án, chỉ có thế thôi / ' + 
+      'Tuyết Đậu giáp mặt trực tiếp với công án, lập tức tụng rằng, “Sự thật trống không, làm sao phân biện ?” / ' + 
+      'Dưới câu đầu, Tuyết Đậu thêm một câu này, quả là kỳ đặc hết sức / ' + 
+      'Thử nói xem, rốt cuộc phải phân biện như thế nào? Dù cho có mắt sắt người đồng đi nữa, cũng chẳng biết đường nào mà rờ rẫm / ' + 
+      'Đến chỗ này rồi, há có thể lấy tỉnh thức ra mà đắn đo được sao? Do đó mà Vân Môn nói, “ Như đánh đá lửa, giống ánh điện chớp” / ' + 
+      'Vấn đề này không nằm trong sự suy nghĩ hay ý tưởng / ' + 
+      'Đến lúc mà ông há miệng, thì đâu còn có công dụng gì nữa. Ngay lúc tính toán so đo vừa khởi, thì con chim cắt đã bay qua Tân La (Cao Ly) rồi / ' + 
+      'Tuyết Đậu nói, “Các ông tăng trong thiên hạ, các ông phân biện vấn đề này như thế nào? Đối diện với trẫm là ai?” / ' + 
+      'Lại còn nói “không biết”. Đây chính là chỗ từ tâm của Tuyết Đậu, nổ lực không ngớt để giúp thiên hạ / ' + 
+      'Thử nói xem “trống không” và “ không biết” là một hay hai. Nếu như người đủ khả năng hiểu, thế nào cũng phân nó làm hai / ' + 
+      'Thiên hạ ở mọi nơi thường nói, “Tuyết Đậu cùng lắm chỉ nêu lại vấn đề lên một lần nữa mà thôi” / ' + 
+      'Đâu có biết rằng, bốn câu tụng đã nói lên hết ý nghĩa của công án rồi / ' + 
+      'Sau đó vì lòng từ bi, Tuyết Đậu mới tụng sự tích nhân duyên rằng, “ Do đó lén qua sông, há không sinh gai góc?” / ' + 
+      'Đạt Ma đến xứ này vốn để giải thoát thiên hạ khỏi chỗ dính dấp ràng buộc, nhổ đinh bạt chốt, cắt dọn gai góc / ' + 
+      'Tại sao Tuyết Đậu lại đi nói rằng Đạt Ma làm gai góc sinh? Cũng không phải chỉ vào buổi ấy, mà ngày nay dưới chân mọi người gai góc cũng đã thâm đến mấy trượng / ' + 
+      '“Cả nước đuổi theo cũng chẳng về, ngàn xưa ngàn sau nhớ mông suông”, đúng là không phải trượng phu / ' + 
+      'Thử nói xem, Đạt Ma ở đâu? Nếu thấy được Dạt Ma thì sẽ thấy được chỗ vì người của Tuyết Đậu. / ' + 
+      'Tuyết Đậu lại sợ thiên hạ mải đuổi theo kiến thức thường tình, cho nên mở tung khóa chốt, để lộ chỗ thấy của mình mà nói rằng, “Đừng nhớ mong! Gió thổi mặt đất bao giờ ngưng” / ' + 
+      'Nếu đã không nhớ mong, thì các chuyện dưới chân mình làm sao mà nảy sinh? Tuyết Đậu nói, hiện giờ ở đây, gió trong thổi mặt đất, trên trời dưới đất, có chỗ nào là cùng cực ? / ' + 
+      'Tuyết Đậu đem tất cả các việc từ thiên cổ vạn cổ ném ngay ra trước mặt / ' + 
+      'Không phải chỉ với một mình Tuyết Đậu, mà ngay hiện giờ có chỗ nào là cùng cực? Ngay cả nơi con người các ông,có chỗ nào là cùng cực ? / ' + 
+      'Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này, cho nên lại mượn vào phương tiện, lớn tiếng nói, “Nơi này còn có Tổ Sư chăng?” Rồi tự trả lời, “Có” / ' + +
+      'Ở đây Tuyết Đậu chẳng còn ngần ngại bộc lộ lòng dạ của mình cho thiên hạ. Lại tự nói, “Đến đây rửa chân cho lão tăng” / ' + 
+      'Quả tình là hạ thấp quang huy của người ta một cách quá đáng, song lúc ấy Tuyết Đậu cũng đã cung hiến cả tay chân mình / ' + 
+      'Thử nói xem, ý của Tuyết Đậu nằm ở chỗ nào? Đến chỗ này rồi thì có gọi là lừa cũng được, có gọi là ngựa cũng được, mà có gọi là Tổ Sư cũng được / ' + 
+      'Song làm sao có thể gọi tên hay mô tả được? Ý kiến thông thường rằng Tuyết Đậu chỉ lợi dụng Tổ Sư, may thay chẳng có gì nhằm nhò với việc này cả / ' + 
       'Nhưng mà thử nói xem, rốt cuộc là chuyện gì đây? “Chỉ cho lão hồ biết, không cho lão hồ hiểu”',
   },
   {
@@ -75,7 +75,11 @@ const BlueCliffRecord = [
     title: 'TẮC THỨ 2: CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU',
     image: '/images/meta-image-square-1',
     intro:
-      'Trời đất hẹp, trăng sao tinh tú đồng thời tối ám. Dù cho là gậy giáng xuống như mưa sa, tiếng hét vang dội như sấm động, các ông vẫn chưa đảm đương được việc hướng thượng của tông môn. Dù cho là chư Phật của 3 đời, cũng chỉ có thể tự biết. Tổ Sư của các thế hệ cũng không thể đề cập rốt ráo được vấn đề. Cả một kho giáo lý cũng không giải thích hết, các tăng sĩ thông thái cũng không tự cứu được. Đã đến mức độ này rồi, làm thế nào còn xin chỉ đạo nữa được? Nói ra chữ “Phật” chẳng khác gì là lội trong nước bùn, nói ra chữ “ Thiền” cả mặt lúng túng. Bậc thượng sĩ có công tu tập lâu dài chẳng cần phải đợi ai nói, còn kẻ hậu học căn cơ thô thiển thì vẫn cần phải điều nghiên và hiểu thấu.',
+      'Trời đất hẹp, trăng sao tinh tú đồng thời tối ám. Dù cho là gậy giáng xuống như mưa sa, tiếng hét vang dội như sấm động, các ông vẫn chưa đảm đương được việc hướng thượng của tông môn / ' +  
+      'Dù cho là chư Phật của 3 đời, cũng chỉ có thể tự biết. Tổ Sư của các thế hệ cũng không thể đề cập rốt ráo được vấn đề / ' +  
+      'Cả một kho giáo lý cũng không giải thích hết, các tăng sĩ thông thái cũng không tự cứu được. Đã đến mức độ này rồi, làm thế nào còn xin chỉ đạo nữa được ? / ' +  
+      'Nói ra chữ “Phật” chẳng khác gì là lội trong nước bùn, nói ra chữ “ Thiền” cả mặt lúng túng / ' +  
+      'Bậc thượng sĩ có công tu tập lâu dài chẳng cần phải đợi ai nói, còn kẻ hậu học căn cơ thô thiển thì vẫn cần phải điều nghiên và hiểu thấu',
     main:
       'Triệu Châu dạy chúng nói, “Đạo lớn không khó miễn đừng so đo. Vừa có ngôn ngữ lập tức có lựa chọn so đo. Điều này hết sức minh bạch. Lão tăng này chẳng ở nơi minh bạch. Các ông có còn trì giữ gì chăng?” / ' +
 'Lúc ấy có ông tăng hỏi, “Không ở nơi minh bạch, thì thầy trì giữ cái gì?” / ' +
@@ -107,7 +111,7 @@ const BlueCliffRecord = [
 'Đầu lời tụng Tuyết Đậu có hơi đơn độc và lừng lững; khúc cuối lại cũng có phần lậu đậu không ít. Nếu như tham rõ ra thấy suốt được, thì nó giống như mùi vị của đề hồ / ' + 
 'Còn nếu như vẫn chưa dứt bỏ được cảm quan, thì chỉ thấy mơ hồ lúng túng, tuyệt nhiên không thể hiểu được lối nói chuyện này. / ' +
 '“Trong đầu ý cạn sao còn vui, cây khô điệu sáo vẫn chưa dứt” / ' + 
-'Đây chính là chổ phối hợp, các công án hỏi về Đạo của người xưa, Tuyết Đậu rút tỉa ra, xâu vào một chuỗi, rồi dùng mà tụng “đạo lớn không khó, miễn đừng so đo” / ' + 
+'Đây chính là chỗ phối hợp, các công án hỏi về Đạo của người xưa, Tuyết Đậu rút tỉa ra, xâu vào một chuỗi, rồi dùng mà tụng “đạo lớn không khó, miễn đừng so đo” / ' + 
 'Người bây giờ không hiểu ý cổ nhân, chỉ cắn chữ nhai câu, đến bao giờ mới hết đây? Phải là một người thông thạo lắm mới hiểu được lối nói chuyện này. / ' +
 'Chẳng lẽ chưa nghe có ông tăng hỏi Hương Nghiêm, “Thế nào là đạo?” Hương Nghiêm đáp, “Điệu sáo trong rừng cây khô” / ' +
 'Ông tăng hỏi, “Thế nào là người trong đạo?” Hương Nghiêm đáp, “Đôi mắt trong đầu lâu”. Sau đó ông tăng hỏi Thạch Sương, “ Thế nào là điệu sáo trong rừng cây khô ?” / ' + 
@@ -152,7 +156,7 @@ const BlueCliffRecord = [
 'Sau đó, Tuyết Đậu lại vụng về việc nổ lực tham thiền cả đời của thầy ta. “ Hai mười năm nay bao tân khổ, vì người mấy bận vào hang rồng” / ' + 
 'Tuyết Đậu giống cái gì? Giống như một người vào hang rồng để tìm ngọc. Sau đó mới phá tan vô minh / ' + 
 'Dù việc này có thể nói là kỳ đặc hết sức, nguyên lai chỉ giống như “Ngũ đế tam hoàng là cái gì ?" / ' +
-'Thử nói xem, cốt yếu của lời nói của Tuyết Đậu nằm ở chổ nào? Cần phải tự mình lui lại mà ngó, sau đó mới thấy được nó nằm ở chỗ nào ? / ' +
+'Thử nói xem, cốt yếu của lời nói của Tuyết Đậu nằm ở chỗ nào? Cần phải tự mình lui lại mà ngó, sau đó mới thấy được nó nằm ở chỗ nào ? / ' +
 'Đa số người ta không hiểu ý của Tuyết Đậu chỉ nói là thầy ta châm biếm quốc gia. Hiểu như thế, chỉ là tình kiến / ' + 
 'Đây là trích từ bài “Công Tử Hành Thi” của Thiền Nguyệt, “Áo gấm thêu, tay cầm chim cắt; lững thững mặt mày đầy khinh hốt / ' + 
 'Cấy gặt khó khăn nào hay biết, Ngũ đế tam hoàng là cái gì ?” / ' +
@@ -672,7 +676,7 @@ verse:
     main:
       'Có ông tăng hỏi Bách Trượng: "Thế nào là sự việc kỳ đặc ?” / ' +
 'Bách Trượng nói, “Ngồi một mình trên đỉnh Đại Hùng” / ' +
-'Ông tăng lễ lậy, Bách Trượng bèn đánh',
+'Ông tăng lễ lạy, Bách Trượng bèn đánh',
     verse: 
 'Tổ vực tung hoành thiên mã câu / ' +
 'Cuốn mở phương tiện không cùng đường / ' +
@@ -815,8 +819,8 @@ verse:
     main:
       'Định Thượng Tọa hỏi Lâm Tế, “Thế nào là đại ý của Phật Pháp ?” / ' +
 'Lâm Tế bước khỏi giường Thiền, nắm lấy Định Thượng Tọa tát cho một bạt tai rồi đẩy ra. Định Thượng Tọa đứng im đó / ' +
-'Có ông tăng đứng cạnh đó nói, “Định Thượng Tọa, tại sao không cúi lậy đi ?” / ' +
-'Định Thượng Tọa mới cúi lậy, rồi hốt nhiên đại ngộ',
+'Có ông tăng đứng cạnh đó nói, “Định Thượng Tọa, tại sao không cúi lạy đi ?” / ' +
+'Định Thượng Tọa mới cúi lạy, rồi hốt nhiên đại ngộ',
     verse: 
 'Đoạn tế toàn cơ theo dấu chân / ' +
 'Đem đến tại sao phải thung dung / ' +
@@ -1778,81 +1782,64 @@ verse:
     title: 'TẮC THỨ 91: TÊ GIÁC CỦA DIÊM QUAN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
-      'Siêu tình ly kiến, cởi giây gỡ dính, đề khởi hướng thượng tông thừa, chống đỡ chính pháp nhãn tạng. ' +
-      'Cần phải ứng đủ mười phương, rõ ràng tám hướng, đến thẳng cảnh giới như thế. ' +
+      'Siêu tình ly kiến, cởi giây gỡ dính, đề khởi hướng thượng tông thừa, chống đỡ chính pháp nhãn tạng / ' + 
+      'Cần phải ứng đủ mười phương, rõ ràng tám hướng, đến thẳng cảnh giới như thế / ' + 
       'Thử nói xem, còn có người cùng đắc cùng chứng cùng tử cùng sinh chăng? Thử nêu lên xem',
     main:
-      'Một hôm Diêm Quan gọi thị giả, “Đem cho tôi cái quạt sừng tê giác xem”. Thị giả nói, “Quạt bị gẫy rồi”. ' +
-      'Diêm Quan nói, “Nếu như quạt gẫy rồi thì ông đem tê giác lại cho tôi đi”. Thị giả không trả lời được. ' +
-      'Đầu Tử nói, “Không phải là tôi từ chối đem tới mà chỉ e rằng sừng trên đầu nó không toàn vẹn” ' +
-      'Tuyết Đậu niệm rằng, “Tôi muốn cặp sừng không toàn vẹn". ' +
-      'Thạch Sương nói, “Nếu như tôi đem nó lại cho hòa thượng thì tôi lại không có nữa” ' +
-      'Tuyết Đậu niệm rằng, “Con tê giác vẫn còn đó". ' +
-      'Từ Phúc vẽ một vòng tròn rồi viết một chữ “tê” trong ấy. ' +
-      'Tuyết Đậu niệm rằng, “Vừa rồi đây tại sao không dắt nó tới?" ' +
-      'Bảo Phúc nói, “Hòa thượng lớn tuổi rồi, đừng hỏi người khác nữa có hơn không?” ' +
+      'Một hôm Diêm Quan gọi thị giả, “Đem cho tôi cái quạt sừng tê giác xem”. Thị giả nói, “Quạt bị gẫy rồi” / ' + 
+      'Diêm Quan nói, “Nếu như quạt gẫy rồi thì ông đem tê giác lại cho tôi đi”. Thị giả không trả lời được / ' + 
+      'Đầu Tử nói, “Không phải là tôi từ chối đem tới mà chỉ e rằng sừng trên đầu nó không toàn vẹn” / ' + 
+      'Tuyết Đậu niệm rằng, “Tôi muốn cặp sừng không toàn vẹn" / ' + 
+      'Thạch Sương nói, “Nếu như tôi đem nó lại cho hòa thượng thì tôi lại không có nữa” / ' + 
+      'Tuyết Đậu niệm rằng, “Con tê giác vẫn còn đó" / ' + 
+      'Từ Phúc vẽ một vòng tròn rồi viết một chữ “tê” trong ấy / ' + 
+      'Tuyết Đậu niệm rằng, “Vừa rồi đây tại sao không dắt nó tới ?" / ' + 
+      'Bảo Phúc nói, “Hòa thượng lớn tuổi rồi, đừng hỏi người khác nữa có hơn không ?” / ' + 
       'Tuyết Đậu niệm rằng, “Tiếc thay mất công mà chẳng được gì cả”',
-    commentBefore:
-      'Một hôm Diêm Quan gọi thị giả, “Đem cái quạt sừng tê giác đến cho tôi xem.” ' +
-      'Việc này tuy không thuộc nơi ngôn ngữ, song nếu như muốn thử cái ý khí bình sinh của một người lại cũng cứ cần phải mượn vào ngôn ngữ mà hiển thị. ' +
-      'Vào ngày cuối cùng tháng cuối cùng, nếu như các ông vẫn còn ra sức được làm chủ tình thế được, ' +
-      'thì dù cho có vạn cảnh đi nữa các ông vẫn có thể dững dưng nhìn mà chẳng bị đã động, đây có thể được gọi là công dụng không công dụng, ' +
-      'sức mạnh không sức mạnh. Diêm Quan tức là Tề An Thiền Sư, lúc trước có một cái quạt làm bằng sừng tê giác. ' +
-      'Lúc đó há Diêm Quan lại không biết rằng cái quạt đã bị gẫy rồi sao? ' +
-      'Thầy ta vẫn cố tình hỏi thị giả, thị giả nói, “Quạt bị gẫy rồi”. ' +
-      'Nhìn xem cổ nhân suốt hăm bốn giờ một ngày lúc nào cũng ở trong ấy, luôn luôn tiếp xúc với nó. ' +
-      'Diêm Quan nói, “Nếu như quạt gẫy rồi thì ông đem tê giác lại cho tôi đi”' +
-      'Thử nói xem, Diêm Quan mướn tê giác để làm gì? Thầy ta chỉ muốn thử thách người khác xem họ có hiểu ý chỉ của công án hay không mà thôi. ' +
-      'Đầu Tử nói, “Không phải là tôi từ chối đem nó tới mà chỉ e rằng sừng trên đầu nó không toàn vẹn.” ' +
-      'Tuyết Đậu nói, “Tôi muốn cặp sừng không toàn vẹn.” Thầy ta cũng dùng cơ biến ra đối lại trong câu nói ấy. ' +
-      'Thạch Sương nói, “Nếu như tôi đem nó lại cho hòa thượng thì tôi lại không có nó nữa.” Tuyết Đậu nói, “Con tê giác vẫn còn đó”. ' +
-      'Từ Phúc vẽ một vòng tròn rồi viết một chữ “tê” trong ấy, bởi vì thầy ta là người thừa tự của Ngưỡng Sơn, cho nên bình sinh rất thích dùng cảnh để tiếp thiên hạ. ' +
-      'Tuyết Đậu nói, “ Vừa rồi đây tại sao không dắt nó tới?” Xỏ luôn cả lỗ mũi của Từ Phúc. ' +
-      'Bảo Phúc nói, “ Hòa thượng lớn tuổi rồi, đừng hỏi người khác nữa có hơn không?” ' +
-      'Lời nói nói ra một cách hết sức ẩn mật ổn thỏa. Ba lời trên vốn dễ thấy, chỉ có lời này là có ý nghĩa thâm sâu. ' +
-      'Tuyết Đậu cũng đã phả luôn cả nó. Sư núi tôi lúc ở nơi của Khánh Tàng Chủ đã hiểu được. ' +
-      'Thầy ta nói, “ Hòa thượng tuổi lớn già cả, được đầu quên đuôi, vừa rồi tìm cây quạt bây giờ lại kiếm tê giác. ' +
-      'Thật là khó mà chiều ỳ, cho nên Bảo Phúc mới nói, “Hòa thượng đừng hỏi người khác nữa có hơn không.” ' +
-      'Tuyết Đậu nói, “ Tiếc thay mất công mà chẳng được gì cả". ' +
-      'Tất cả những lời này đề thuộc vào cách thức “ hạ ngữ” (nhận xét). Các cổ nhân nhìn thấu sự việc này, tuy rằng mỗi người khác nhau, song mỗi khi nói ra là đều bách phát bách trùng, luôn luôn có con đường xuất thân, chẳng câu nào lạc mất huyết mạch (của tông môn) cả. Người thời nay mà bị hỏi là chỉ biết lý luận so đo, cho nên tôi mới muốn thiên hạ phải nhai nghiến vấn đề này suốt hăm bốn tiếng đồng hồ một ngày, khiến cho mọi giọt nước đều thành một giọt nước đá, tầm cầu chỗ chứng ngộ',
     verse: 
-'',
-    verseTranslated:
-      'Chiếc quạt tê giác dùng từ lâu, Hỏi đến té ra chẳng ai biết. Gió mát vô hạn với cặp sừng, Giống như mây mưa qua khó theo.',
+'Chiếc quạt tê giác dùng từ lâu / ' +  
+'Hỏi đến té ra chẳng ai biết / ' + 
+'Gió mát vô hạn với cặp sừng / ' + 
+'Giống như mây mưa qua khó theo',
     verseExtra: '',
     commentAfter:
-      'Tuyết Đậu lại nói, “Nếu như các ông muốn gió mát trở lại cặp sừng mọc lại , tôi xin mời các Thiền khách mỗi người nói một chuyển ngữ. ' +
-      'Quạt đã gẫy rồi tôi muốn các ông đem tê giác lại cho tôi. Lúc ấy có ông tăng bước ra nói, “Mời đại chúng vào cả tham Thiền đường đi.” ' +
-      'Tuyết Đậu hét nói, “Thả câu câu kình ngư lại bắt được nhái bén.” ' +
-      'Rồi xuống khỏi tòa. "Chiếc quạt tê giác dùng từ lâu, hỏi đến té ra chẳng ai biết.” ' +
-      'Ai cũng có một chiếc quạt sừng tê giác, suốt hăm bốn giờ một ngày đều được nó đắc lực, tại sao lúc hỏi đến lại chẳng ai biết? ' +
+      'Tuyết Đậu lại nói, “Nếu như các ông muốn gió mát trở lại cặp sừng mọc lại , tôi xin mời các Thiền khách mỗi người nói một chuyển ngữ / ' + 
+      'Quạt đã gẫy rồi tôi muốn các ông đem tê giác lại cho tôi. Lúc ấy có ông tăng bước ra nói, “Mời đại chúng vào cả tham Thiền đường đi” / ' + 
+      'Tuyết Đậu hét nói, “Thả câu câu kình ngư lại bắt được nhái bén” / ' + 
+      'Rồi xuống khỏi tòa. "Chiếc quạt tê giác dùng từ lâu, hỏi đến té ra chẳng ai biết” / ' + 
+      'Ai cũng có một chiếc quạt sừng tê giác, suốt hăm bốn giờ một ngày đều được nó đắc lực, tại sao lúc hỏi đến lại chẳng ai biết ? / ' + 
       'Thị giả, Đầu Tử cho đến Bảo Phúc chẳng một ai biết cả. ' +
-      'Tuyết Đậu có biết không? Há không nghe Vô Trước đến thăm Văn Thù, lúc họ đang uống trà, Văn Thù dơ chén pha lê lên hỏi, “Phương nam có có cái này không?” ' +
-      'Vô Trước nói, “Không”. Văn Thù nói, “Bình thường họ dùng gì để uống trà?” Vô Trước không nói gì được.' +
-      'Nếu như các ông hiểu được cốt yếu của công án này, các ông sẽ biết được rằng sừng tê giác có vô hạn gió mát, lại cũng thấy được cặp sừng lừng lững trên đầu tê giác. ' +
-      'Bốn lão hán này ăn nói như vầy giống nư mây sớm mưa chiều; một khi đã qua khó mà đuổi theo được. ' +
-      'Tuyết Đậu lại nói, "Nếu như các ông muốn gió mát trở lại cặp sừng mọc lại, tôi xin mời các Thiền khác mỗi người nói một chuyển ngữ. ' +
-      'Quạt đã gẫy rồi tôi muốn các ông đem tê giác lại cho tôi.” Lúc ấy một Thiền khách bước ra nói, “Mời đại chúng vào cả tham Thiền đường đi.” ' +
-      'Ông tăng này đoạt mất quyền bính của người chủ. ' +
-      'Tuy rằng ông ta nói được một cách hết sức là xít xao song lại chỉ mới nói được có tám phần mà thôi. ' +
-      'Nếu như các ông muốn cả mười phần, thì cứ lật đổ giường Thiền cho ông ta. ' +
-      'Thử nói xem, ông tăng này có hiểu tê giác hay không? ' +
-      'Nếu như không hiểu, ông lại biết cách nói như thế. ' +
-      'Nếu như ông ta hiểu, tại sao Tuyết Đậu lại không chịu chấp nhận ông ta? ' +
-      'Tại sao Tuyết Đậu lại nói, “Thả câu câu king ngư lại bắt được nhái bén?”' +
+      'Tuyết Đậu có biết không? Há không nghe Vô Trước đến thăm Văn Thù, lúc họ đang uống trà, Văn Thù dơ chén pha lê lên hỏi, “Phương nam có có cái này không?” / ' + 
+      'Vô Trước nói, “Không”. Văn Thù nói, “Bình thường họ dùng gì để uống trà?” Vô Trước không nói gì được / ' + 
+      'Nếu như các ông hiểu được cốt yếu của công án này, các ông sẽ biết được rằng sừng tê giác có vô hạn gió mát, lại cũng thấy được cặp sừng lừng lững trên đầu tê giác / ' + 
+      'Bốn lão hán này ăn nói như vầy giống nư mây sớm mưa chiều; một khi đã qua khó mà đuổi theo được / ' + 
+      'Tuyết Đậu lại nói, "Nếu như các ông muốn gió mát trở lại cặp sừng mọc lại, tôi xin mời các Thiền khác mỗi người nói một chuyển ngữ / ' + 
+      'Quạt đã gẫy rồi tôi muốn các ông đem tê giác lại cho tôi.” Lúc ấy một Thiền khách bước ra nói, “Mời đại chúng vào cả tham Thiền đường đi” / ' + 
+      'Ông tăng này đoạt mất quyền bính của người chủ / ' + 
+      'Tuy rằng ông ta nói được một cách hết sức là xít xao song lại chỉ mới nói được có tám phần mà thôi / ' + 
+      'Nếu như các ông muốn cả mười phần, thì cứ lật đổ giường Thiền cho ông ta / ' + 
+      'Thử nói xem, ông tăng này có hiểu tê giác hay không ? / ' + 
+      'Nếu như không hiểu, ông lại biết cách nói như thế. / ' + 
+      'Nếu như ông ta hiểu, tại sao Tuyết Đậu lại không chịu chấp nhận ông ta ? / ' + 
+      'Tại sao Tuyết Đậu lại nói, “Thả câu câu king ngư lại bắt được nhái bén?” / ' + 
       'Thử nói xem, rốt cuộc là như thế nào? Các ông cử chỉ nên vô sự, thử niêm xuyết xem sao',
   },
 
   {
     id: 92,
-    title: 'TẮC THỨ 92: ',
+    title: 'TẮC THỨ 92: THẾ TÔN MỘT HÔM THĂNG TÒA',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Thế Tôn một hôm thăng tòa / ' + 
+      'Văn Thù đánh trùy nói, “Quan sát cho kỹ Pháp của bậc Pháp Vương, Pháp của bậc Pháp Vương là như vầy đây” / ' + 
+      'Thế Tôn bèn xuống khỏi tòa',
     verse: 
-'',
+'Chuyên gia nếu biết trong rừng thánh / ' + 
+'Pháp vương pháp lệnh không như vậy / ' + 
+'Trong hội nếu có Tiên Đà khách / ' + 
+'Văn Thù hà tất đánh một trùy ?',
     verseExtra: '',
     commentAfter:
       '',
@@ -1860,14 +1847,21 @@ verse:
 
   {
     id: 93,
-    title: 'TẮC THỨ 93: ',
+    title: 'TẮC THỨ 93: ĐẠI QUANG SƯ NHẢY MÚA',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Đại Quang, “Trường Khánh nói, ‘Nhân thụ trai mà tán thán’ có nghĩa là gì ?” / ' + 
+      'Đại Quang bèn nhảy múa. Ông tăng cúi lạy / ' + 
+      'Đại Quang bèn nhảy múa. Ông tăng cúi lạy / ' + 
+      'Đại Quang nói, “Ông thấy được cái gì mà lạy vậy ?” Ông tăng bèn nhảy múa / ' + 
+      'Đại Quang nói, “Con chồn hoang quỉ này!”',
     verse: 
-'',
+'Tên trước còn nhẹ tên sau sâu / ' + 
+'Ai bảo lá vàng là vàng ròng ? / ' + 
+'Sóng nước Tào Khê nếu tương tự / ' + 
+'Biết bao người thường bị chìm đắm',
     verseExtra: '',
     commentAfter:
       '',
@@ -1875,14 +1869,19 @@ verse:
 
   {
     id: 94,
-    title: 'TẮC THỨ 94: ',
+    title: 'TẮC THỨ 94: THẤY CÁI KHÔNG THẤY TRONG KINH LĂNG NGHIÊM',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Kinh Lăng Nghiêm nói, “Lúc tôi không thấy, tại sao ông không thấy cái chỗ không thấy của tôi. / ' +  
+      'Nếu như ông thấy chỗ không thấy của tôi thì tự nhiên đó lại không phải là cái tướng của cái không thấy kia nữa. / ' +  
+      'Nếu như các ông không thấy cái không thấy của tôi, tự nhiên nó không phải là một vật nữa, tại sao đó lại không phải là ông ?”',
     verse: 
-'',
+'Toàn với toàn bò đều chướng mắt / ' + 
+'Các bậc chuyên gia cũng mô tả / ' + 
+'Nếu như muốn gặp lão mặt vàng / ' + 
+'Sát sát trần trần ở giữa đường',
     verseExtra: '',
     commentAfter:
       '',
@@ -1890,14 +1889,25 @@ verse:
 
   {
     id: 95,
-    title: 'TẮC THỨ 95: ',
+    title: 'TẮC THỨ 95: TAM ĐỘC CỦA TRƯỜNG KHÁNH',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Trường Khánh có lần nói, “Thà nói rằng A La Hán có tam độc chứ đừng nói là Như Lai có nhị chủng ngữ. / ' + 
+      'Tôi không nói rằng Như Lai vô ngữ mà chỉ nói là Như Lai không có nhị chủng ngữ mà thôi. / ' +
+'Bảo Phúc nói, “Thế nào là ngôn ngữ của Như Lai ?” / ' + 
+'Trường Khánh nói, “Người điếc làm sao nghe được ?” / ' + 
+'Bảo Phúc nói, “Tôi biết ông nói ở mức độ thứ 2" / ' + 
+'Trường Khánh nói, “Thế nào là ngôn ngữ của Như Lai ?” / ' + 
+'Bảo Phúc nói, “Đi uống trà đi !”',
     verse: 
-'',
+'Đầu hề đệ nhất đệ nhị / ' +
+'Ngọa long chẳng nhìn nước đọng / ' +
+'Nơi không, có trăng sóng trong / ' +
+'Nơi có, không gió sóng nổi / ' +
+'Lăng Thiền khách ! Lãng Thiền khách ! / ' +
+'Tháng ba cửa Ngu bị điểm ngạch',
     verseExtra: '',
     commentAfter:
       '',
@@ -1905,14 +1915,29 @@ verse:
 
   {
     id: 96,
-    title: 'TẮC THỨ 96: ',
+    title: 'TẮC THỨ 96: BA CHUYỂN NGỮ CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Triệu Châu dùng 3 chuyển ngữ để dạy chúng / ' +
+      'Phật bằng vàng không độ được lò / ' +
+      'Phật bằng gỗ không độ được lửa / ' +
+      'Phật bằng đất không độ được nước / ' +
+      'Sau khi dạy 3 chuyển ngữ xong, cuối cùng Triệu Châu nói, “Chân Phật ngồi trong nhà”',
     verse: 
-'',
+'Phật bùn không qua nước / ' +
+'Thần quang chiếu thiên địa / ' +
+'Trong tuyết nếu chưa thôi / ' +
+'Có ai không giả tạo ? / ' +
+'Phật vàng không qua lò / ' +
+'Người đến thăm Tử Hồ / ' +
+'Trên bảng một vài chữ / ' +
+'Gió mát chốn nào không ? / ' +
+'Phật gỗ không qua lửa / ' +
+'Thường nghĩ ông phá lò / ' +
+'Cây gậy hốt nhiên đánh / ' +
+'Mới hay cô phụ mình...',
     verseExtra: '',
     commentAfter:
       '',
@@ -1920,14 +1945,23 @@ verse:
 
   {
     id: 97,
-    title: 'TẮC THỨ 97: ',
+    title: 'TẮC THỨ 97: KIM CƯƠNG KINH KHINH TIỆN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
     main:
-      '',
+      'Kinh Kim Cương nói: / ' + 
+      '“Nếu một người bị kẻ khác khinh rẻ, người ấy kiếp trước có tội chướng đáng bị đọa vào ác đạo, song vì kiếp này bị khinh rẻ, tội nghiệp kiếp trước bèn được tiêu trừ”',
     verse: 
-'',
+'Ngọc sáng trong tay / ' +
+'Có công được thưởng / ' +
+'Hồ Hán không đến / ' +
+'Toàn vô kỹ lưỡng / ' +
+'Đã không kỹ lưỡng / ' +
+'Ba tuần lạc đường / ' +
+'Cồ Đàm, Cồ Đàm ! / ' +
+'Biết tôi hay không ? / ' +
+'Lại nói, “Khám phá ra rồi”',
     verseExtra: '',
     commentAfter:
       '',
@@ -1949,9 +1983,9 @@ verse:
 'Tham đầy một bụng dùng chẳng được, / ' +
 'Đáng buốn đáng cười lão Thiên Bình / ' +
 'Lại hận lúc đầu đã hành cước / ' +
-'Sai, sai! / ' +
+'Sai, sai ! / ' +
 'Gió mát Tây Viện tan chẩy ngay / ' +
-'Tuyết Đậu lại nói, “Nếu như có ông tăng bước ra nói, ‘Sai!’ Cái ‘sai” của Tuyết Đậu phải so sánh như thế nào với cái ‘sai’ của Thiên Bình.”',
+'Tuyết Đậu lại nói, “Nếu như có ông tăng bước ra nói, ‘Sai !’ Cái ‘sai” của Tuyết Đậu phải so sánh như thế nào với cái ‘Sai’ của Thiên Bình.”',
     verseExtra: '',
     commentAfter:
       '',
@@ -1964,12 +1998,19 @@ verse:
     intro:
       '',
     main:
-      'Túc Tông Hoàng Đế hỏi Huệ Trung Quốc Sư, “Thập thân điều ngự là gì?” / ' +
+      'Túc Tông Hoàng Đế hỏi Huệ Trung Quốc Sư, “Thập thân điều ngự là gì ?” / ' +
 'Quốc Sư nói, “Thí chủ bước trên đầu Tì Lô mà đi” / ' +
-'Túc Tông nói, “ Quả nhân không hiểu.” / ' +
-'Quốc Sư nói, “Đừng nhận thanh tịnh Pháp thân của mình.”',
+'Túc Tông nói, “ Quả nhân không hiểu” / ' +
+'Quốc Sư nói, “Đừng nhận thanh tịnh Pháp thân của mình”',
     verse: 
-'',
+'Thầy của một nước chỉ cưỡng danh / ' +
+'Chỉ mình Nam Dương lừng tiếng thơm / ' +
+'Đại Đường phò được chân thiên tử / ' +
+'Từng đi trên đỉnh đầu Tì Lô / ' +
+'Trùy sắt đập nát hoàng kim cốt / ' +
+'Giữa trời và đất là vật gì ? / ' +
+'Ba ngàn sát hải đêm lặng lẽ / ' +
+'Chẳng biết ai vào hang rồng xanh ?',
     verseExtra: '',
     commentAfter:
       '',
@@ -1982,10 +2023,17 @@ verse:
     intro:
       '',
     main:
-      'Có ông tăng hỏi Ba Lăng, “Kiếm sắc là gì?” / ' +
-'Ba Lăng nói, “Từng nhánh san hô chống đỡ mặt trăng”',
+      'Có ông tăng hỏi Ba Lăng: “Kiếm sắc là gì ?” / ' +
+'Ba Lăng nói: “Từng nhánh san hô chống đỡ mặt trăng”',
     verse: 
-'',
+'Bình cái bất bình / ' +
+'Khéo quá tựa vụng / ' +
+'Ngón tay bán tay / ' +
+'Dựa trời chiếu tuyết / ' +
+'Thợ hàn khéo chẳng dũa mài được / ' +
+'Thợ giỏi lau chùi mũi chưa xong / ' +
+'Đặc biệt / ' +
+'Từng nhánh san hô chống mặt trăng',
     verseExtra: '',
     commentAfter:
       '',
