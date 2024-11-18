@@ -120,8 +120,7 @@ const faqsDb = [
 {
   id: 6,
   ask:
-'Tham Thiền Phổ Thuyết nói “người thích vật hoặc theo tình cảm, xưng hô lễ phép ấy là tình; lời nói, vấn đáp kiến giải hiểu biết ấy là thức. ' +
-    'Chính tình thức làm cho thiền đường suy tệ”. Xin Sư Phụ khai thị?',
+'6. Tham Thiền Phổ Thuyết nói “người thích vật hoặc theo tình cảm, xưng hô lễ phép ấy là tình; lời nói, vấn đáp kiến giải hiểu biết ấy là thức. Chính tình thức làm cho thiền đường suy tệ”. Xin Sư Phụ khai thị ?',
   reply:
   '📌 Cuộc sống hàng ngày, tất cả đều dùng tình thức. Kinh Lăng Nghiêm nói “tình nhiều chừng nào đọa xuống nhiều chừng nấy”, tình chỉ có đọa, không có lên; tưởng có cái đọa, có cái lên. ' +
   '📌 Như thiền quán tưởng thì lên, tưởng bậy bạ thì đọa. Thức là phân biệt, tánh của mình muốn cái tốt chê cái xấu. ' +
@@ -136,6 +135,29 @@ const faqsDb = [
 id: 7,
 ask: 
 '7. Phương pháp tham Tổ sư thiền miên mật không có kẻ hở, nếu có kẻ hở thì vọng tưởng xen vào. Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không ?',
+reply:
+'Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. Khi nào 14 tiếng này tập tham thiền thành quen thuộc tự động. / ' +
+'Như tập xe đạp, ban đầu hai tay vịn nó cũng ngã lên ngã xuống, sau này hai tay vịn nó không ngã, sau này buông tay cũng không ngã, sau này quẹo khỏi cần tay cũng quẹo được. Cần tập cho quen được tự động, lúc đang làm việc tự động thì mình không biết; lúc ấy bộ óc không biết, nhưng cái biết của Phật tánh thay thế. Cho nên làm đúng hơn, nhanh và tỉ mỉ hơn.'
+},
+{
+id: 8,
+ask: 
+'8. Đường lối Tổ sư thiền là nghĩ đến câu thoại đầu phải không ?',
+reply:
+'Không phải nghĩ! Mà hỏi và nhìn. Đến thoại đầu, theo người ta cho là điên khùng, nhưng chỗ đó là sắp kiến tánh. Bây giờ, mình bắt đầu tham là mục đích đến thoại đầu, chưa đến thoại đầu là tham thoại đầu và khán thoại đầu. Chỉ giữ nghi tình mà không có niệm muốn đến thoại đầu thì mới đến thoại đầu.'
+},
+{
+id: 9,
+ask: 
+'9. Phương pháp tham Tổ sư thiền miên mật không có kẻ hở, nếu có kẻ hở thì vọng tưởng xen vào. Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không ?',
+reply:
+'Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. Khi nào 14 tiếng này tập tham thiền thành quen thuộc tự động. / ' +
+'Như tập xe đạp, ban đầu hai tay vịn nó cũng ngã lên ngã xuống, sau này hai tay vịn nó không ngã, sau này buông tay cũng không ngã, sau này quẹo khỏi cần tay cũng quẹo được. Cần tập cho quen được tự động, lúc đang làm việc tự động thì mình không biết; lúc ấy bộ óc không biết, nhưng cái biết của Phật tánh thay thế. Cho nên làm đúng hơn, nhanh và tỉ mỉ hơn.'
+},
+{
+id: 10,
+ask: 
+'10. Phương pháp tham Tổ sư thiền miên mật không có kẻ hở, nếu có kẻ hở thì vọng tưởng xen vào. Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không ?',
 reply:
 'Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. Khi nào 14 tiếng này tập tham thiền thành quen thuộc tự động. / ' +
 'Như tập xe đạp, ban đầu hai tay vịn nó cũng ngã lên ngã xuống, sau này hai tay vịn nó không ngã, sau này buông tay cũng không ngã, sau này quẹo khỏi cần tay cũng quẹo được. Cần tập cho quen được tự động, lúc đang làm việc tự động thì mình không biết; lúc ấy bộ óc không biết, nhưng cái biết của Phật tánh thay thế. Cho nên làm đúng hơn, nhanh và tỉ mỉ hơn.'
