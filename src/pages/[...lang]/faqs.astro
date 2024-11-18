@@ -34,7 +34,9 @@ const { lang } = Astro.params;
                 <p>{quest.ask}</p>
               </label>
               <div class="answers">
-                quest.reply.split(' / ').map(line => <p>{line}</p>
+{
+                quest.reply.split(' / ').map(line => <p>line</p>
+}
               </div>
             </div>
           )
