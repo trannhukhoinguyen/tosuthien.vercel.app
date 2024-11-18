@@ -1668,10 +1668,10 @@ verse:
     intro:
       '',
     main:
-      'Qui Sơn , Ngũ Phong và Vân Nham cùng đứng hầu Bách Trượng. / ' +
-      'Bách Trượng hỏi Qui Sơn, “Không có cổ họng với miệng môi, làm cách nào để nói đây?” / ' +
-      'Qui Sơn nói, “xin để hòa thượng nói vậy.” / ' +
-      'Bách Trượng nói, “Tôi không ngại gì mà không nói cho ông, song chỉ sợ sau này làm chết hết con cháu mà thôi.”',
+      'Qui Sơn, Ngũ Phong và Vân Nham cùng đứng hầu Bách Trượng. / ' +
+      'Bách Trượng hỏi Qui Sơn: “Không có cổ họng với miệng môi, làm cách nào để nói đây ?” / ' +
+      'Qui Sơn nói: “Xin để hòa thượng nói vậy.” / ' +
+      'Bách Trượng nói: “Tôi không ngại gì mà không nói cho ông, song, chỉ sợ sau này làm chết hết con cháu mà thôi !”',
     verse:
     'Xin để hoà thượng nói / ' +
     'Đầu cọp mọc sừng chốn cỏ hoang / ' +
@@ -1688,9 +1688,14 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Bách Trượng lại hỏi Ngũ Phong, “Không có cổ họng với miệng môi, làm thế nào để nói đây ?” / ' +
+      'Ngũ Phong nói, “Hòa thượng cũng nên im đi thôi”. / ' +
+      'Bách Trượng nói, “Ở chỗ không người tôi lấy tay che trên mắt mà nhìn ông”',
     verse:
-'',
+    'Hòa thượng cũng im đi / ' +
+    'Trên trận rồng rắn xem mưu lược / ' +
+    'Khiến người nhớ mãi Lý Tướng Quân / ' +
+    'Bên trời vạn dặm cánh Ngạc bay',
     verseExtra: '',
     commentAfter:
       '',
@@ -1702,9 +1707,14 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Bách Trượng lại hỏi Vân Nham, “Không có cổ họng với miệng môi, làm thế nào để nói đây ?” / ' +
+      'Vân Nham nói, “Hòa thượng đã có cách nói chưa ?” / ' +
+      'Bách Trượng nói, “Ta đã làm chết con cháu rồi”',
     verse:
-'',
+    'Hòa thượng có cách chưa ? / ' +
+    'Kim mao sư tử không ngồi xổm / ' +
+    'Hai hai ba ba trên đường cũ / ' +
+    'Dưới núi Đại Hùng búng tay không',
     verseExtra: '',
     commentAfter:
       '',
@@ -1716,9 +1726,20 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Mã Đại Sư, “Ly tứ cú tuyệt bách phi, xin thầy chỉ thẳng cho đệ tử ý chỉ của việc Tổ Sư từ Tây Trúc qua” / ' +
+      'Mã Đại Sư nói, “Hôm nay tôi mệt, không giải thích cho ông được. Ông cứ đi hỏi Trí Tạng đi” / ' +
+      'Ông tăng đến hỏi Trí Tạng, Trí Tạng nói, “Tại sao ông không hỏi hòa thượng ?” / ' +
+      'Ông tăng nói, “Hòa thượng dạy cho tôi đến đây hỏi thầy” / ' +
+      'Trí Tạng nói, “Hôm nay tôi bị nhức đầu, không giải thích cho ông được, ông đi hỏi Hải Huynh đi” / ' +
+      'Ông tăng đến hỏi Hải Huynh (Bách Trượng), Hải Huynh nói, “Đến chỗ này tôi chẳng hiểu gì cả” / ' +
+      'Ông tăng thuật lại cho Mã Đại Sư nói, “Tạng đầu trắng, Hải đầu đen”',
     verse:
-'',
+    'Tạng đầu trắng Hải đầu đen / ' +
+      'Nạp tăng mắt sáng hiểu không được / ' +
+      'Ngựa non đạp chết người thiên hạ / ' +
+      'Lâm Tế chưa phải quân cướp ngày / ' +
+      'Ly tứ cú tuyệt bách phi / ' +
+      'Thiên thượng nhân gian chỉ ta biết.',
     verseExtra: '',
     commentAfter:
       '',
@@ -1730,9 +1751,15 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Mỗi lúc đến giờ trai, Kim Ngưu hòa thượng ôm nồi cơm ra trước tăng đường múa rồi cười ha hả nói, “Các Bồ Tát mau ra ăn cơm !” / ' +
+      'Tuyết Đậu nói, “Tuy là thế, song chẳng phải là Kim Ngưu có hảo tâm” / ' +
+      'Có ông tăng hỏi Trường Khánh, “Cổ nhân nói, ‘Các Bồ Tát mau ra ăn cơm,’ ý chỉ như thế nào ?” / ' +
+      'Trường Khánh nói, “Cũng giống như thể nhân thụ trai mà tán thán vậy”',
     verse:
-'',
+    'Trong bóng mây trắng cười ha ha / ' +
+    'Hai tay cầm đến trao người ta / ' +
+    'Nếu là dòng dõi sư tử vàng / ' +
+    'Ngoài ba ngàn dặm vẫn nhìn ra',
     verseExtra: '',
     commentAfter:
       '',
@@ -1744,9 +1771,32 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng từ chúng hội của Định Châu hòa thượng đến gặp Ô Cữu. / ' +
+      'Ô Cữu hỏi, “Pháp đạo của Định Châu có giống ở đây không ?” / ' +
+      'Ông tăng nói, “Không khác” / ' +
+      'Ô Cữu nói, “Nếu không khác thì ông nên trở về đó đi.” Nói xong đánh ông tăng. / ' +
+      'Ông tăng nói, “Đầu gậy có mắt, thầy không được bừa bãi đánh người như thế” / ' +
+      'Ô Cữu nói, “Hôm nay ta đánh một người” / ' +
+      'Nói xong bèn đánh 3 lần. Ông tăng bèn bỏ ra. / ' +
+      'Ô Cữu nói, “Gậy oan lại có kẻ ăn” / ' +
+      'Ông tăng quay lại nói, “Làm sao được bây giờ khi mà cán ở trong tay hòa thượng ?” / ' +
+      'Ô Cữu nói, “Nếu như thầy muốn, sư núi tôi xin trao lại cho thầy” / ' +
+      'Ông tăng bước tới giật gậy trong tay Ô Cữu rồi đánh cho Ô Cữu ba lần. / ' +
+      'Ô Cữu nói, “Gậy oan, gậy oan !” / ' +
+      'Ông tăng nói, “Có kẻ đang chịu !” / ' +
+      'Ô Cữu nói, “Ta đánh gã này một cách bừa bãi”. Ông tăng bèn cúi lạy. / ' +
+      'Ô Cữu nói, “Ông chỉ như thế mà thôi”. / ' +
+      'Ông tăng cười lớn rồi bỏ ra. / ' +
+      'Ô Cữu nói, “Chỉ như thế mà thôi, chỉ như thế mà thôi”',
     verse:
-'',
+    'Gọi thì dễ / ' +
+    'Đuổi mới khó / ' +
+    'Hỗ hoán cơ phong nhìn kỹ xem / ' +
+    'Kiếp thạch kiên cố vẫn bị toại / ' +
+    'Đứng dưới chỗ sâu biển phải cạn / ' +
+    'Lão Ô Cữu lão Ô Cữu / ' +
+    'Bao nhiêu loại ? / ' +
+    'Trao cán cho người quá vô đoan',
     verseExtra: '',
     commentAfter:
       '',
@@ -1758,9 +1808,24 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Đan Hà hỏi một ông tăng, “Từ đâu tới ?” / ' +
+      'Ông tăng nói, “Từ dưới chân núi” / ' +
+      'Đan Hà hỏi, “Ăn cơm chưa ?” / ' +
+      'Ông tăng nói, “Ăn rồi”. / ' +
+      'Đan Hà nói, “Người mang cơm đến cho thầy ăn có mắt hay không ?” / ' +
+      'Ông tăng không nói gì được. / ' +
+      'Trường Khánh hỏi Bảo Phúc, “Đem cơm đến cho người khác ăn, kể như là biết trả ơn. Tại sao lại không có mắt được ?” / ' +
+      'Bảo Phúc nói, “Người cho và kẻ nhận cả hai đều mù cả”. / ' +
+      'Trường Khánh nói, “Nếu như họ vận dụng hết cả tâm cơ ra thì có còn mù chăng ?” / ' +
+      'Bảo Phúc nói, “Chẳng lẽ tôi mù sao ?”',
     verse:
-'',
+    'Hết cơ không thành mù / ' +
+    'Ấn đầu bò ăn cỏ / ' +
+    'Hăm tám và sáu bậc Tổ Sư / ' +
+    'Đem đồ quí đến thành có lỗi / ' +
+    'Lỗi quá nặng / ' +
+    'Không chỗ tìm / ' +
+    'Thiên thượng nhân gian chìm dưới dất',
     verseExtra: '',
     commentAfter:
       '',
@@ -1772,9 +1837,13 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Vân Môn, ”Thế nào là lời nói siêu Phật siêu Tổ ?” / ' +
+      'Vân Môn nói, “Bánh”',
     verse:
-'',
+    'Siêu đàm Thiền khách hỏi quá nhiều / ' +
+    'Những chỗ sơ hở có thấy chăng ? / ' +
+    'Lấy bánh nhồi vào cũng không thôi / ' +
+    'Đến giờ thiên hạ vẫn ngu ngơ',
     verseExtra: '',
     commentAfter:
       '',
@@ -1786,9 +1855,15 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Xưa có 16 vị Bồ Tát. Lúc đến giờ chư tăng đi tắm, các vị Bồ Tát ấy xếp hàng vào tắm. / ' +
+      'Hốt nhiên ngộ được thể tính của nước. / ' +
+      'Các vị Thiền đức, các vị hiểu như thế nào khi họ nói, “Diệu xúc tuyên minh, thành Phật tử trụ” ? / ' +
+      'Cần phải dùi mài lắm mới có thể hiểu được.',
     verse:
-'',
+    'Chỉ cần một tăng hiểu việc này / ' +
+    'Trên giường rộng cứ duỗi chân nằm / ' +
+    'Trong mộng từng nói ngộ viên thông / ' +
+    'Đã tắm nước thơm, nhổ vào mặt',
     verseExtra: '',
     commentAfter:
       '',
@@ -1800,9 +1875,19 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Đầu Tử, “Tất cả các âm thanh đều là âm thanh của Phật, phải không ?” Đầu Tử nói, “Phải”. / ' +
+      'Ông tăng nói, “Có phải hòa thượng vừa đánh rắm đó chăng ?” Đầu Tử đánh ông tăng. / ' +
+      'Ông tăng lại hỏi, “Thô ngôn và tế ngữ đều qui về đệ nhất nghĩa, phải không?”. Đầu Tử nói, “Phải”. / ' +
+      'Ông tăng nói, “Có thể gọi hòa thượng là một con lừa được không ?”. Đầu Tử bèn đánh ông tăng.',
     verse:
-'',
+    'Đầu Tử Đầu Tử / ' +
+    'Cơ luân vô ngại / ' +
+    'Buông một được hai / ' +
+    'Đồng bỉ đồng thử / ' +
+    'Thương thay vô hạn người chơi sóng / ' +
+    'Cuối cùng rơi vào sóng mà chết / ' +
+    'Hốt nhiên sống / ' +
+    'Trăm sông ào ào chảy ngược lại',
     verseExtra: '',
     commentAfter:
       '',
@@ -1814,9 +1899,15 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Triệu Châu, “Trẻ sơ sinh có thức thứ 6 hay không ?” / ' +
+      'Triệu Châu nói, “Giống như đánh cầu trên nước chảy xiết”. / ' +
+      'Ông tăng lại hỏi Đầu Tử, “Thế nào là đánh cầu trên nước chảy xiết ?” / ' +
+      'Đầu Tử nói, “Niệm niệm không ngừng chảy”',
     verse:
-'',
+    'Lục thức vô công hỏi một câu / ' +
+    'Chuyên gia từng cùng biện đầu mối / ' +
+    'Đánh cầu trên dòng nước chảy xiết / ' +
+    'Rơi xuống không dừng, ai biết xem ?',
     verseExtra: '',
     commentAfter:
       '',
@@ -1828,9 +1919,21 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Dược Sơn, trên đất bằng cỏ thấp, có từng bầy nai, làm thế nào để bắn được con nai của loài nai ? / ' +
+      'Dược Sơn nói, “Xem tên đây!” Ông tăng bèn ngã xuống. / ' +
+      'Dược Sơn nói, “Thị giả đâu kéo cái ngã chết này ra ngoài xem” / ' +
+      'Ông tăng bèn đi. / ' +
+      'Dược Sơn nói, “Những kẻ chơi với đất bùn như thế này đến bao giờ mới dứt” / ' +
+      'Tuyết Đậu niệm rằng, “3 bước tuy sống, 5 bước phải chết”',
     verse:
-'',
+    'Nai của nai / ' +
+    'Ngài nhìn xem / ' +
+    'Bắn một tên / ' +
+    'Chạy ba bước / ' +
+    'Năm bước nếu sống / ' +
+    'Thành bầy đuổi cọp / ' +
+    'Mắt chính xưa nay cho thợ săn / ' +
+    'Tuyết Đậu lớn tiếng bảo xem tênm !',
     verseExtra: '',
     commentAfter:
       '',
@@ -1842,9 +1945,21 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Đại Long, “Sắc thân bại hoại, thế nào là kiên cố Pháp Thân ?” / ' +
+      'Đại Long nói, “Hoa núi nở tựa gấm, nước khe trong như ngọc”.',
     verse:
-'',
+    'Hỏi mà không biết / ' +
+    'Đáp vẫn không hiểu / ' +
+    'Trăng lạnh gió cao / ' +
+    'Vách cổ thông lạnh / ' +
+    'Vui thay gặp được người đạt đạo / ' +
+    'Không dùng ngữ mặc đối / ' +
+    'Tay cầm roi ngọc trắng / ' +
+    'Đánh vỡ ngọc ly châu / ' +
+    'Không đập vỡ / ' +
+    'Thêm tì vết / ' +
+    'Nước có hiến chương / ' +
+    'Ba ngàn điều tội',
     verseExtra: '',
     commentAfter:
       '',
@@ -1856,9 +1971,17 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Vân Môn dạy chúng rằng, “Cổ Phật và cột trụ tương giao là cơ thứ mấy ?” / ' +
+      'Rồi lại tự đáp, “Nam Sơn mây nổi, Bắc Sơn mưa rơi.”',
     verse:
-'',
+    'Mây Nam Sơn / ' +
+    'Mưa Bắc Sơn / ' +
+    'Hăm tám và sáu thầy trước mặt / ' +
+    'Đã từng thượng đường ở Tân La / ' +
+    'Chưa từng đánh trống ở đại Đường / ' +
+    'Sướng trong khổ / ' +
+    'Khổ trong sướng / ' +
+    'Ai bảo vàng ròng giống như phân ?',
     verseExtra: '',
     commentAfter:
       '',
@@ -1870,9 +1993,21 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Duy Nam Cật hỏi Văn Thù Sư Lợi, “Thế nào là Bồ Tát nhập nhị pháp môn ?” / ' +
+      'Văn Thù nói, “Theo ý tôi thì ở nơi tất cả các pháp vô ngôn vô thuyết, vô thị vô thức, ly ngôn vấn đáp, đó chính là nhập bất nhị pháp môn”. / ' +
+      'Rồi Văn thù Sư Lợi lại hỏi Duy Ma Cật, “Chúng tôi ai nấy đều nói cả rồi, bây giờ nhân giả thử nói cho chúng tôi nghe xem thế nào là Bồ Tát nhập bất nhị pháp môn ?” / ' +
+      'Tuyết Đậu nói, “Duy Ma Cật nói gì vậy?” Lại nói, “Khám phá ra rồi”.',
     verse:
-'',
+    'Hét lão Duy Ma này / ' +
+    'Từ bi buồn vô ích / ' +
+    'Ốm nơi thành Vệ Xá / ' +
+    'Toàn thân khô héo đi / ' +
+    'Thầy của bẩy Phật tới / ' +
+    'Một phòng quét sạch mãi / ' +
+    'Hỏi bất nhị pháp môn / ' +
+    'Lập tức dựa rồi ngã / ' +
+    'Không dựa ngã / ' +
+    'Kim mao sư tử không chỗ tìm',
     verseExtra: '',
     commentAfter:
       '',
@@ -1884,9 +2019,19 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng đến nơi của Đồng Phong Am Chủ rồi hỏi, “Ở chỗ này nếu hốt nhiên gặp cọp thì phải làm như thế nào ?” / ' +
+      'Đồng Phong bèn gầm lên như cọp. Ông tăng bèn làm ra vẻ sợ hãi. Đồng Phong bật cười ha hả. / ' +
+      'Ông tăng nói, “Cái lão tặc này”. Đồng Phong nói, “Thế ông làm gì được lão tăng nào ?” / ' +
+      'Tuyết Đậu nói, “Kể ra thì cũng được, song 2 tên ác tặc này chỉ biết bịt tai để ăn trộm chuông mà thôi”.',
     verse:
-'',
+    'Thấy mà không nắm / ' +
+    'Ngàn dặm suy nghĩ / ' +
+    'Thật là sặc sỡ / ' +
+    'Chưa đủ móng răng / ' +
+    'Há không thấy Đại Hùng sơn hạ hốt tương phùng ? / ' +
+    'Âm thanh ánh sáng rung trời đất / ' +
+    'Đại trượng phu có thấy không ? / ' +
+    'Nắm đuôi cọp hề vuốt râu cọp.',
     verseExtra: '',
     commentAfter:
       '',
@@ -1898,9 +2043,17 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Vân Môn có lời dạy rằng, “Mọi người ai cũng có quang minh cả. Lúc nhìn thì không thấy gì mà chỉ thấy tối om om. / ' +
+      'Thế nào là cái quang minh trong mọi người?” / ' +
+      'Vân Môn tự trả lời rằng, “Nhà bếp và cổng tam quan.” / ' +
+      'Lại nói, “Việc tốt không bằng không.”',
     verse:
-'',
+    'Tự chiếu sáng một mình / ' +
+    'Vì ngài thông một lối / ' +
+    'Hoa rơi cây không bóng / ' +
+    'Lúc nhìn ai không thấy ? / ' +
+    'Thấy không thấy / ' +
+    'Cưỡi trâu ngược hề vào Phật điện.',
     verseExtra: '',
     commentAfter:
       '',
@@ -1912,9 +2065,14 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Vân Môn dạy chúng rằng, “Thuốc và bệnh trị lẫn nhau. Cả trời đất này là thuốc. Chính mình là gì?”',
     verse:
-'',
+    'Cả trời đất là thuốc / ' +
+    'Cổ kim sao lầm vậy ? / ' +
+    'Đóng cửa không làm xe / ' +
+    'Đường lối tự thênh thang / ' +
+    'Sai sai ! / ' +
+    'Mũi cao tận trời vẫn bị xỏ',
     verseExtra: '',
     commentAfter:
       '',
@@ -1926,9 +2084,32 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Huyền Sa dạy chúng rằng, “Các bậc lão túc ở khắp nơi đều nói về việc tiếp vật lợi sinh. / ' +
+      'Hốt nhiên gặp phải ba loại người bệnh phải tiếp họ như thế nào ? / ' +
+      'Gặp phải người mù thì dù mình có dơ trùy dựng phất trần họ cũng chẳng thấy. / ' +
+      'Gặp phải người điếc thì dù mình có nói về tam muội họ cũng chẳng nghe. / ' +
+      'Gặp phải người câm thì dù có bảo họ nói họ cũng chẳng nói được. / ' +
+      'Vậy thì phải tiếp những người ấy như thế nào ? / ' +
+      'Nếu như không tiếp được, hóa ra Phật pháp không linh nghiệm sao?” / ' +
+      'Có ông tăng hỏi Vân Môn về vấn đề trên. / ' +
+      'Vân Môn nói, “Ông lễ lạy đi cái đã”.  / ' +
+      'Ông tăng lạy xong đứng dậy. Vân Môn lấy gậy thọc vào người ông tăng, ông tăng lui lại. / ' +
+      'Vân Môn nói, “Ông đâu có bị mù”. / ' +
+      'Rồi Vân Môn lại gọi ông ta bước đến gần, ông tăng bước đến gần. / ' +
+      'Vân Môn nói, “Ông đâu có bị điếc.” ' +
+      'Vân Môn nói, “Ông có hiểu không ?” Ông tăng nói, “Không hiểu”. / ' +
+      'Vân Môn nói, “Ông đâu có bị câm.” Ông tăng bèn tỉnh ngộ.',
     verse:
-'',
+    'Đui mù câm điếc / ' +
+    'Tuyệt dứt cơ nghi / ' +
+    'Trên trời dưới trời / ' +
+    'Vui thay buồn thay / ' +
+    'Ly Lâu không biện chính sắc / ' +
+    'Sư Khoáng há hiểu huyền ty ? / ' +
+    'Sao bằng ngồi không dưới khung cửa / ' +
+    'Lá rụng hoa nở tự có thời / ' +
+    'Lại nói có hiểu hay không ? / ' +
+    'Trùy sắt không lỗ',
     verseExtra: '',
     commentAfter:
       '',
@@ -1940,9 +2121,26 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Vân Nham hỏi Đạo Ngô, “Từ Bi Bồ Tát dùng nhiều mắt và tay như thế để làm gì?” / ' +
+      'Đạo Ngô nói, “Giống như người nửa đêm đưa tay ra sau lưng để tìm gối”. / ' +
+      'Vân Nham nói, “ Tôi hiểu rồi”. / ' +
+      'Đạo Ngô nói, “Ông hiểu như thế nào?” / ' +
+      'Vân Nham nói, “Toàn thân là tay với mắt”. / ' +
+      'Đạo Ngô nói, “Ông nói hết sức là xít xao, song lại chỉ mới nói được có tám phần.” / ' +
+      'Vân Nham nói, “Thế theo sư huynh thì như thế nào ?” / ' +
+      'Đạo Ngô nói, “Khắp thân là tay với mắt”',
     verse:
-'',
+    'Toàn thân đúng / ' +
+      'Khắp thân đúng / ' +
+      'Niêm lên vẫn cách mười vạn dặm / ' +
+      'Tung cánh Bằng bay chín tầng mây / ' +
+      'Gây gió thổi tung nước bốn biển / ' +
+      'Bụi trần nào đó hốt nhiên sinh? / ' +
+      'Cụm Lông nào hề vẫn chưa ngừng? / ' +
+      'Há không thấy / ' +
+      'Lưới ngọc buông rủ ảnh chập chùng? / ' +
+      'Đôi mắt đầu gậy từ đâu sinh? / ' +
+      'Hét!',
     verseExtra: '',
     commentAfter:
       '',
@@ -1954,9 +2152,15 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Trí Môn, “Bát nhã thể là gì ?” / ' +
+      'Trí Môn nói, “Sò ngậm trăng sáng.” / ' +
+      'Ông tăng hỏi, “Bát nhã dụng là gì ? / ' +
+      'Trí Môn nói, “Con thỏ mang thai.”',
     verse:
-'',
+    'Một phiến hư không trên tình trần / ' +
+    'Người trời từ đó thấy Không Sinh  / ' +
+    'Sò ngậm thỏ huyền ý thâm sâu / ' +
+    'Tung gậy chiến tranh với Thiền gia',
     verseExtra: '',
     commentAfter:
       '',
