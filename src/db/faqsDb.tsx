@@ -50,5 +50,14 @@ const faqsDb = [
       'Các thiền của tôn giáo khác là mục đích bỏ nhiễm duyên lấy cái tịnh duyên cho là ngộ. Tịnh duyên đối với nhiễm duyên thì tốt, còn đối với bản thể Phật tánh là chướng ngại. Bởi vì đối  với nhiễm nên mới nói tịnh thì còn nằm trong tương đối, tức là những thứ ấy có thể dùng bộ óc để giải thích được. / ' +
 'Tổ Sư thiền không thể giải thích, tại bộ óc không thể tiếp xúc được, phải ngộ mới biết. Ngộ biết không phải cái biết của bộ óc là cái biết của Phật tánh, gọi là Bát Nhã. Ngộ là Phật tánh hiện lên, chứ không phải có năng ngộ sở ngộ. Nếu có năng ngộ sở ngộ thì không được, vì còn có 4 tướng (ngã tướng, nhân tướng, chúng sanh tướng, thọ giả tướng).',
   },
+{
+  id: 6,
+  ask: 
+'Tham Thiền Phổ Thuyết nói “người thích vật hoặc theo tình cảm, xưng hô lễ phép ấy là tình; lời nói, vấn đáp kiến giải hiểu biết ấy là thức. Chính tình thức làm cho thiền đường suy tệ”. Xin Sư Phụ khai thị?',
+  reply:
+'Cuộc sống hàng ngày, tất cả đều dùng tình thức. Kinh Lăng Nghiêm nói “tình nhiều chừng nào đọa xuống nhiều chừng nấy”, tình chỉ có đọa, không có lên; tưởng có cái đọa, có cái lên. Như thiền quán tưởng thì lên, tưởng bậy bạ thì đọa. Thức là phân biệt, tánh của mình muốn cái tốt chê cái xấu. Như bây giờ vì phân biệt mà xẩy ra chiến tranh đổ máu. / ' +
+'Cọp đối với con nó có tình thương mẹ con, nhưng phân biệt không phải con của nó, thì xé thịt cho con nó ăn. Người có kiến giải cao, nhưng ác hơn cọp không biết bao nhiêu lần. Cọp đói mới ăn thịt loại khác, con người chưa đói lại muốn hại người khác, vì muốn cho mình có nhiều tiền; do tiền mà anh em cha mẹ cũng hại được. / ' +
+'Cọp không bao giờ giết hại đồng loại, vì lợi ích nên con người giết hại đồng loại; có khi giết một cách thê thảm, đó là do kiến giải mà ra. Bởi kiến giải, họ tổ chức chính trị ra lịnh giết biết bao nhiêu triệu người.',
+
 ]
 export default faqsDb;
