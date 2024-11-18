@@ -24,6 +24,7 @@ const {
   severe_problem,
   tomorrow_death,
   after_cremated_nature,
+  after_death
 } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
@@ -37,6 +38,7 @@ const {
     <h1>{severe_problem}</h1>
     <h2>💀 {tomorrow_death} 💀</h2>
     <h2>🔥{after_cremated_nature}🔥</h2>
+    <h2>{after_death}</h2>
     <SevenThingsLeftBehind />
   </div>
   <HuaTou huatous={huatou[0]} />
