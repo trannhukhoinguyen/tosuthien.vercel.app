@@ -447,11 +447,12 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.22',
+    hasContent: true,
     name_en: 'Chuanzi Decheng',
     name_es: 'Chuanzi Decheng',
     name_de: 'Chuanzi Decheng',
     name_fr: 'Chuanzi Decheng',
-    name_vi: 'Thuyền Tự Đức Thành',
+    name_vi: 'Thuyền Tử Đức Thành',
     name_ru: 'Chuanzi Decheng',
     name_zh: '船字德誠',
     name_ja: 'Senji Tokujō',
