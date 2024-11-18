@@ -149,10 +149,11 @@ reply:
 {
 id: 9,
 ask: 
-'9. Phương pháp tham Tổ sư thiền miên mật không có kẻ hở, nếu có kẻ hở thì vọng tưởng xen vào. Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không ?',
+'9. Tâm không định làm sao tham thiền được ?',
 reply:
-'Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. Khi nào 14 tiếng này tập tham thiền thành quen thuộc tự động. / ' +
-'Như tập xe đạp, ban đầu hai tay vịn nó cũng ngã lên ngã xuống, sau này hai tay vịn nó không ngã, sau này buông tay cũng không ngã, sau này quẹo khỏi cần tay cũng quẹo được. Cần tập cho quen được tự động, lúc đang làm việc tự động thì mình không biết; lúc ấy bộ óc không biết, nhưng cái biết của Phật tánh thay thế. Cho nên làm đúng hơn, nhanh và tỉ mỉ hơn.'
+'Đừng để ý tâm định hay không định, nên phải tập tham, nếu tham thiền mỗi ngày tăng được 1 phút thì 1 tháng tăng được 30 phút, 1 năm được 6 giờ, 4 năm tham được 24 giờ trong 1 ngày đêm thì đến thoại đầu. Đến thoại đầu trong thời gian ngắn sẽ được kiến tánh. Nếu 1 ngày tăng được nửa phút thì 8 năm đến thoại đầu, 1 ngày tăng được ¼ phút thì 16 năm đến thoại đầu. / ' +
+'Tại sao dùng cái không biết để chấm dứt tất cả biết (tìm hiểu biết, suy nghĩ biết, ghi nhớ biết)? Vì cái biết đó là ý thức hoạt động. Ngũ Đình Tâm Quán của Tiểu thừa mục đích đình chỉ hoạt động của tâm, hiện nay có người đang tu Sổ Tức Quán, nhưng họ tu còn rất thô nên không được chứng quả. / ' +
+'Không biết là phiền não chướng, biết là sở tri chướng. Những người tu Sổ Tức Quán còn dùng cái biết thô, chưa đến chỗ vi tế. Vi tế sở tri ngu, còn tiến thêm là cực vi tế sở tri ngu. Vừa rồi nói sở tri chướng là ngu, nhưng người ta chưa tu đến mức đó.'
 },
 {
 id: 10,
