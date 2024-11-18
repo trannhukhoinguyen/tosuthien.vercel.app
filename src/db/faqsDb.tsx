@@ -58,6 +58,6 @@ const faqsDb = [
 'Cuộc sống hàng ngày, tất cả đều dùng tình thức. Kinh Lăng Nghiêm nói “tình nhiều chừng nào đọa xuống nhiều chừng nấy”, tình chỉ có đọa, không có lên; tưởng có cái đọa, có cái lên. Như thiền quán tưởng thì lên, tưởng bậy bạ thì đọa. Thức là phân biệt, tánh của mình muốn cái tốt chê cái xấu. Như bây giờ vì phân biệt mà xẩy ra chiến tranh đổ máu. / ' +
 'Cọp đối với con nó có tình thương mẹ con, nhưng phân biệt không phải con của nó, thì xé thịt cho con nó ăn. Người có kiến giải cao, nhưng ác hơn cọp không biết bao nhiêu lần. Cọp đói mới ăn thịt loại khác, con người chưa đói lại muốn hại người khác, vì muốn cho mình có nhiều tiền; do tiền mà anh em cha mẹ cũng hại được. / ' +
 'Cọp không bao giờ giết hại đồng loại, vì lợi ích nên con người giết hại đồng loại; có khi giết một cách thê thảm, đó là do kiến giải mà ra. Bởi kiến giải, họ tổ chức chính trị ra lịnh giết biết bao nhiêu triệu người.',
-
+},
 ]
 export default faqsDb;
