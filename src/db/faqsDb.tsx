@@ -29,5 +29,26 @@ const faqsDb = [
       '10 – CHÚ TRỌNG THỰC HÀNH:\n' +
       'Tổ Sư Thiền chỉ chú trọng thực hành không cần lý luận, nhưng khi đang thực hành sẽ tùy theo căn cơ trình độ khác biệt, tình chấp nặng nhẹ, kiến giải cao thấp và sự ham thích bất đồng của mỗi người mà sinh ra muôn ngàn lối tẻ sai biệt, cho nên quyển sách này chỉ được nêu ra những điều thực hành chung, còn nhiều chi tiết vi tế không thể kể hết ở trong này, phải tùy bệnh mà cho thuốc, vì thế mặc dù cách Tham thoại đầu rất dễ nhưng cũng phải có người lão Tham hướng dẫn mới được. Nếu tự làm tài khôn mà không đi đúng với tôn chỉ chính xác tủa Tổ Sư Thiền thì sẽ có thể trở thành phỉ báng Phật pháp, tạo tội địa ngục mà tự mình không biết, xin người học thiền để ý cho.',
   },
+{
+    id: 3,
+    ask: 'Tại sao pháp Tham Tổ Sư thiền dễ tu mà người ta không chịu tu?',
+    reply:
+      'Vì người ta khó tin, lại cứu lý tìm hiểu; Tổ Sư thiền là không cho cứu lý, không cho tìm hiểu. Nếu tin được thì dễ hơn các pháp môn khác. Nhưng nghịch với tư tưởng người ta, tức là không tin được tự tâm. Họ tưởng là biết nhiều chừng nào tốt chừng nấy, nhưng sự thật hiểu biết đó là chướng ngại, Phật pháp gọi là sở tri chướng. / ' +
+'Dẫu cho, hiểu biết của thế gian đã sạch, còn hiểu biết của xuất thế gian cũng là cực vi tế sở tri chướng. Bộ óc không hiểu gọi là phiền não chướng, hiểu rồi gọi là sở tri chướng. Cho nên, người ta khó lãnh hội được chỗ này. Vì cuộc sống hàng ngày đều phải dùng đến bộ óc, bây giờ bỏ hoạt động của bộ óc thì người ta không chịu.',
+  },
+{
+    id: 4,
+    ask: 'Xã hội ngày nay khoa học tiến bộ, con người không được rảnh rang như người xưa, nên không để ý sự tu, nhất là tu Tổ Sư thiền rất khó, vậy có phải không ?',
+    reply:
+      'Vì hiểu theo người thế gian, như nhà triết học, nhà khoa học,… thì sự tu của họ lại khó. Vì cuộc sống hằng ngày đều phải dùng bộ óc để nghiên cứu triết học hay nghiên cứu khoa học, bất cứ nghiên cứu cái gì đều cũng nhờ bộ óc. Nếu bây giờ chấm dứt hoạt động của bộ óc thì người ta phản đối, họ cho “đồ khùng”. Phải rồi, vì theo tư tưởng thế gian là vậy. / ' +
+'Cho nên, thiền giải đáp công án ở Nhật Bản dễ truyền khắp thế giới. Hiẹân nay người Trung Quốc cũng đi học thiền giải công án, rồi về dạy cho người Hoa. Chùa Cao Mân là Tổ đình của Thiền Tông nhưng cũng lọt vào kiến giải. Ngày xưa Ngài Lai Quả không cho người ta giảng công án, khi tôi ở đó thấy đêm nào có vị Trưởng lão đều giảng công án.',
+  },
+{
+    id: 5,
+    ask: 'Những pháp thiền của các tôn giáo khác là để ngưng hoạt động của bộ óc hay để im lặng, vậy có khác với cách tu của Tổ Sư thiền không ?',
+    reply:
+      'Các thiền của tôn giáo khác là mục đích bỏ nhiễm duyên lấy cái tịnh duyên cho là ngộ. Tịnh duyên đối với nhiễm duyên thì tốt, còn đối với bản thể Phật tánh là chướng ngại. Bởi vì đối  với nhiễm nên mới nói tịnh thì còn nằm trong tương đối, tức là những thứ ấy có thể dùng bộ óc để giải thích được. / ' +
+'Tổ Sư thiền không thể giải thích, tại bộ óc không thể tiếp xúc được, phải ngộ mới biết. Ngộ biết không phải cái biết của bộ óc là cái biết của Phật tánh, gọi là Bát Nhã. Ngộ là Phật tánh hiện lên, chứ không phải có năng ngộ sở ngộ. Nếu có năng ngộ sở ngộ thì không được, vì còn có 4 tướng (ngã tướng, nhân tướng, chúng sanh tướng, thọ giả tướng).',
+  },
 ]
 export default faqsDb;
