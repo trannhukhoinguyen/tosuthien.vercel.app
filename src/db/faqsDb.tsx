@@ -41,7 +41,7 @@ const faqsDb = [
     ask: 'Xã hội ngày nay khoa học tiến bộ, con người không được rảnh rang như người xưa, nên không để ý sự tu, nhất là tu Tổ Sư thiền rất khó, vậy có phải không ?',
     reply:
       'Vì hiểu theo người thế gian, như nhà triết học, nhà khoa học,… thì sự tu của họ lại khó. Vì cuộc sống hằng ngày đều phải dùng bộ óc để nghiên cứu triết học hay nghiên cứu khoa học, bất cứ nghiên cứu cái gì đều cũng nhờ bộ óc. Nếu bây giờ chấm dứt hoạt động của bộ óc thì người ta phản đối, họ cho “đồ khùng”. Phải rồi, vì theo tư tưởng thế gian là vậy. / ' +
-'Cho nên, thiền giải đáp công án ở Nhật Bản dễ truyền khắp thế giới. Hiẹân nay người Trung Quốc cũng đi học thiền giải công án, rồi về dạy cho người Hoa. Chùa Cao Mân là Tổ đình của Thiền Tông nhưng cũng lọt vào kiến giải. Ngày xưa Ngài Lai Quả không cho người ta giảng công án, khi tôi ở đó thấy đêm nào có vị Trưởng lão đều giảng công án.',
+'Cho nên, thiền giải đáp công án ở Nhật Bản dễ truyền khắp thế giới. Hiện nay người Trung Quốc cũng đi học thiền giải công án, rồi về dạy cho người Hoa. Chùa Cao Mân là Tổ đình của Thiền Tông nhưng cũng lọt vào kiến giải. Ngày xưa Ngài Lai Quả không cho người ta giảng công án, khi tôi ở đó thấy đêm nào có vị Trưởng lão đều giảng công án.',
   },
 {
     id: 5,
