@@ -322,7 +322,7 @@ const BlueCliffRecord = [
 'Đại Trung thiên tử từng coi nhẹ / ' +
 'Ba bận đích thân đụng móng vuốt',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -349,7 +349,7 @@ const BlueCliffRecord = [
     verseTranslated:
       '',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -372,7 +372,7 @@ const BlueCliffRecord = [
     verseTranslated:
       '',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -394,7 +394,7 @@ const BlueCliffRecord = [
     verseTranslated:
       '',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -415,7 +415,7 @@ const BlueCliffRecord = [
 'Đặc biệt thật ! / ' +
 'Bóng trăng trong dòng nước chảy xiết',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -439,7 +439,7 @@ const BlueCliffRecord = [
 'Bị đánh thêm / ' +
 'Thiên hạ nạp tăng mõ vô ích',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -457,7 +457,7 @@ const BlueCliffRecord = [
 'Xoay trái xoay phải theo sau đến / ' +
 'Tử Hồ muốn đánh Lưu Thiết Ma',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -505,7 +505,7 @@ verse:
 'Từng thả nhánh bè trong biển lớn / ' +
 'Sóng đêm đẩy tới con rùa mù',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -529,7 +529,7 @@ verse:
 'Thiền bản bồ đoàn không dùng được / ' +
 'Chỉ cần đem trao cho Lô công',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -549,7 +549,7 @@ verse:
 'Giang Bắc Giang Nam hỏi Vương lão / ' +
 'Một hồ nghi rồi một hồ nghi',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -580,7 +580,7 @@ verse:
 'Kẻ đến từng người thấy phương tiện / ' +
 'Sư lớn tiếng quát rằng, “Nhìn dưới chân !”',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -600,7 +600,7 @@ verse:
 'Không nhờ Tôn công phân biện kỷ / ' +
 'Đầu lâu đầy đồng mấy ai hay ?',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -619,7 +619,7 @@ verse:
 'Vẫn cầm roi vàng hỏi khách về / ' +
 'Đêm sâu ai cùng đi lối vua ?',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -648,7 +648,7 @@ verse:
 'Kim ô bay mà không bay / ' +
 'Lão Lô không biết đi về đâu / ' +
 'Mây trắng nước trôi đều lưu luyến',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -667,7 +667,7 @@ verse:
 'Đá lửa điện chớp còn cơ biến / ' +
 'Nực cười người đến vuốt râu hùm',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -689,7 +689,7 @@ verse:
 'Người thấy chăng Thiếu Lâm ngồi lâu khách chưa về / ' +
 'Hùng Nhĩ êm đềm một tùng lâm',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -718,7 +718,7 @@ verse:
 'Không nơi tìm / ' +
 'Nhếch được mũi lên mất luôn miệng',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -738,7 +738,7 @@ verse:
 'Thương thay một câu “giống như” kia / ' +
 'Vạn dặm thui thủi mình đi về',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -758,7 +758,7 @@ verse:
 'Kẻ trộm, kẻ trộm ! / ' +
 'Nắm ngay lỗ mũi của nạp tăng',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -785,7 +785,7 @@ verse:
 'Không xơ xác / ' +
 'Chuyên gia phải kiếm thuốc không bệnh',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -805,7 +805,7 @@ verse:
 'Cự linh dơ tay chẳng nhiều nhặn / ' +
 'Phân phá Hoa Sơn ngàn vạn trùng',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -825,7 +825,7 @@ verse:
 'Lúc câu rùa thả một bẫy rập / ' +
 'Tuyết Đậu lại nói, “Các nạp tăng trong thiên hạ nhảy không ra”',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -853,7 +853,7 @@ verse:
 'Mười năm không về được / ' +
 'Quên mất đường đã đến',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -879,7 +879,7 @@ verse:
 'Nực cười Thanh Lương bao nhiêu chúng ? / ' +
 'Tiền tam tam với hậu tam tam',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -906,7 +906,7 @@ verse:
 'Trường Sa vô hạn ý / ' +
 'Ôi',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -925,7 +925,7 @@ verse:
 'Một khúc hai khúc không người hiểu / ' +
 'Mưa tạnh hồ đêm nước thu sâu',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -953,7 +953,7 @@ verse:
 'Bên thành vua Sở nước triều lên / ' +
 'Hét lên làm nước chảy ngược chiều',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -975,7 +975,7 @@ verse:
 'Quá vô lý / ' +
 'Kim Mao Sư Tử mọi người nhìn',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -993,7 +993,7 @@ verse:
 'Trơi sương trăng rụng đêm gần nửa / ' +
 'Ai cùng hồ trong soi bóng lạnh',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1011,7 +1011,7 @@ verse:
 'Cổ Phật cũng bảo là chưa đến / ' +
 'Không hiểu ai biết rải cát bụi',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1036,7 +1036,7 @@ verse:
 'Thật tiêu sái / ' +
 'Bích nhãn hồ tăng chẳng biện được',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1056,7 +1056,7 @@ verse:
 'Điện cổ lưu ly chiếu trăng sáng / ' +
 'Hàn Lô lăng xăng chạy lên thềm',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1085,7 +1085,7 @@ verse:
 'Đừng sơ hốt / ' +
 'Ngọt thì ngọt hể đắng thì đắng !',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1103,7 +1103,7 @@ verse:
 'Bây giờ ném nó xuống Tây Hồ / ' +
 'Không mang gió mát, đem cho ai ?',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1123,7 +1123,7 @@ verse:
     verse:
 '',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1143,7 +1143,7 @@ verse:
 'Tây Trúc mênh mông chẳng nơi tìm / ' +
 'Đêm đến về nghỉ nơi Nhũ Phong',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1171,7 +1171,7 @@ verse:
 'Sinh sấm sét / ' +
 'Con sóng ngược dòng mấy bận về',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1193,7 +1193,7 @@ verse:
 'Gió trong thổi / ' +
 'Trên trời cõi người mấy ai biết ?',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1223,7 +1223,7 @@ verse:
 'Trong ấy con trưởng giả / ' +
 'Kẻ nào cũng không khố / ' +
 '(Hàn San Thi)',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1252,7 +1252,7 @@ verse:
 'Nam bắc đông tây quay về đi / ' +
 'Đêm sau cùng ngắm tuyết ngàn đỉnh',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1272,7 +1272,7 @@ verse:
 'Nực cười lão Quán Khê cùng thời / ' +
 'Biết nói”phóng tên” nhọc công thôi',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1298,7 +1298,7 @@ verse:
 'Lại giữ lại  / ' +
 'Nói, nói !',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1318,7 +1318,7 @@ verse:
     'Lại hỏi không biết quá nguy sao / ' +
     'Tuyết Đậu nói, “Bỏ qua một lần”',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1326,7 +1326,9 @@ verse:
     title: 'TẮC THỨ 55: ĐẠO NGÔ VÀ TIỆM NGUYÊN ĐI ĐIẾU TANG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
-      '',
+      'Ẩn mật toàn chân, lập tức thủ chứng. Lững thững chuyển vật, trực tiếp đảm đương. / ' +
+      'Còn việc như đá lửa điện chớp, cắt đứt lầm lạc, nắm đầu cọp đuôi cọp, đứng lừng lững như vách đá vạn trượng, những thứ ấy tạm gác qua một bên. / ' +
+      'Một con đường còn có chỗ vì người khác không? Thử nêu lên xem.',
     main:
       'Đạo Ngô và Tiệm Nguyên đến một nhà kia để điếu tang. / ' +
       'Tiệm Nguyên vỗ vào quan tài hỏi, “Sống sao chết sao?” / ' +
@@ -1345,8 +1347,20 @@ verse:
     'Không cho để / ' +
     'Chiếc dép về Tây cũng mất rồi',
     verseExtra: '',
-    commentAfter:
-      '',
+    commentAfterVerse:
+      'Tuyết Đậu rất khéo biết cách bỏ cước chú.Thầy ta là con cháu trong dòng của Vân Môn, có đủ cả búa kềm trong một câu đủ cả ba câu. / ' +
+      'Đối với những gì nói không được thầy ta nói rõ cả ra, những gì khai mở không được, thầy ta mở toang ra. / ' +
+      'Tụng ngay chỗ khẩn yếu ra rằng, “Thỏ ngựa có sừng, bò dê không sừng”. / ' +
+      'Thử nói xem tại sao thỏ ngựa có sừng, tại sao bò dê lại không có sừng ? / ' +
+      'Chỉ khi nào hiểu thấu được câu chuyện trên các ông mới thấy được chỗ vì người của Tuyết Đậu. / ' +
+      'Có người hiểu lầm nói rằng, “Không nói tức là nói, không câu là có câu. / ' +
+      'Thỏ ngựa không có sừng lại bảo là có sừng, bò dê có sừng lại bảo là không có sừng.” Song chẳng có gì là nhằm nhò cả. / ' +
+      'Đâu có biết rằng cổ nhân thiên biến vạn hóa, hiện thần thông như vậy, chẳng qua chỉ để đã phá cái hồn tinh hang quỉ của các ông mà thôi. / ' +
+      'Nếu như các ông hiểu được như thế, chẳng cần phải dùng đến chữ “Hiểu” nữa.” Thỏ ngựa có sừng, bò dê không sừng. Đứt lông đứt đuôi, giống núi giống đỉnh”. / ' +
+      '4 câu này giống như thể một viên ngọc ma-ni. Tuyết Đậu đề ra ngay trước mặt cho các ông. / ' +
+      'Đoạn cuối cùng của bài tụng là dựa vào sự kiện mà kết thúc công án. “Hoàng kim linh cốt hiện vẫn còn, ba đào tận trời biết để đâu ?” / ' +
+      'Câu này là để tụng lời của Thạch sương và Thái Nguyên Phù. Tại sao lại không có chỗ để ? “Chiếc dép về Tây cũng mất rồi.” Con rùa thần lê lết cái đuôi. / ' +
+      'Đây chính là chỗ Tuyết Đậu xoay trở vì người khác. Cổ nhân nói, “Chỉ tham câu sống, chứ không tham câu chết”. Đã mất rồi thì tại sao mấy tay này lại cứ tranh cãi với nhau vậy kìa ?',
   },
   {
     id: 56,
@@ -1375,7 +1389,7 @@ verse:
     'Huyền Sa có lời hề / ' +
     '“Đại trượng phu tiên thiên làm tâm tổ”',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1398,7 +1412,7 @@ verse:
       'So hề đo hề / ' +
       'Trống vải dưới hiên',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1418,7 +1432,7 @@ verse:
     'Nam bắc đông tây / ' +
     'Quạ bay thỏ chạy',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1446,7 +1460,7 @@ verse:
       'Sư bỗng dơ gậy rồi hạ tòa / ' +
       'Đại chúng lập tức tẩu tán',
     verseExtra: '',
-    commentAfter: '',
+    commentAfterVerse: '',
   },
   {
     id: 60,
@@ -1470,7 +1484,7 @@ verse:
     'Sư bỗng dơ gậy rồi hạ tòa / ' +
     'Đại chúng lập tức tẩu tán',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1488,7 +1502,7 @@ verse:
       'Mưu thần mãnh tướng giờ đâu hết ? / ' +
       'Vạn dặm gió mát chỉ tự biết',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1507,7 +1521,7 @@ verse:
     'Nước miên man / ' +
     'Hoa lau dưới trăng, hãy tự nhìn.',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1526,7 +1540,7 @@ verse:
       'May mà Nam Tuyền ra được lệnh / ' +
       'Một dao hai mảnh kệ thiên kiến',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1545,7 +1559,7 @@ verse:
       'Giầy cỏ đội đầu không ai hiểu / ' +
       'Về đến núi nhà bèn nghỉ ngơi',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1570,7 +1584,7 @@ verse:
       'Thiên lý truy phong gọi về được / ' +
       'Gọi về được, bung tay ba lần.',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1595,7 +1609,7 @@ verse:
       'Ba mươi gậy núi kể còn nhẹ / ' +
       'Được tiện nghi là mất tiện nghi',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1616,7 +1630,7 @@ verse:
     'Lúc ấy nếu không vì Chí Công / ' +
     'Đã phải vội vàng bỏ nước đi',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1637,7 +1651,7 @@ verse:
     'Cười rồi chẳng biết đi về đâu, / ' +
     'Chỉ là thiên cổ động bi phong',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1658,7 +1672,7 @@ verse:
     'Trên lối Tào Khê dừng bước chân / ' +
     'Lại nói, “Lối Tào Khê bằng Phẳng. Tại sao lại dừng bước chân?”',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1678,7 +1692,7 @@ verse:
     'Mười châu xuân tàn hoa rơi rụng / ' +
     'Mặt trời rực rỡ rừng san hô',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1697,7 +1711,7 @@ verse:
     'Khiến người nhớ mãi Lý Tướng Quân / ' +
     'Bên trời vạn dặm cánh Ngạc bay',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1716,7 +1730,7 @@ verse:
     'Hai hai ba ba trên đường cũ / ' +
     'Dưới núi Đại Hùng búng tay không',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1741,7 +1755,7 @@ verse:
       'Ly tứ cú tuyệt bách phi / ' +
       'Thiên thượng nhân gian chỉ ta biết.',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1761,7 +1775,7 @@ verse:
     'Nếu là dòng dõi sư tử vàng / ' +
     'Ngoài ba ngàn dặm vẫn nhìn ra',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1798,7 +1812,7 @@ verse:
     'Bao nhiêu loại ? / ' +
     'Trao cán cho người quá vô đoan',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1827,7 +1841,7 @@ verse:
     'Không chỗ tìm / ' +
     'Thiên thượng nhân gian chìm dưới dất',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1845,7 +1859,7 @@ verse:
     'Lấy bánh nhồi vào cũng không thôi / ' +
     'Đến giờ thiên hạ vẫn ngu ngơ',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1865,7 +1879,7 @@ verse:
     'Trong mộng từng nói ngộ viên thông / ' +
     'Đã tắm nước thơm, nhổ vào mặt',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1889,7 +1903,7 @@ verse:
     'Hốt nhiên sống / ' +
     'Trăm sông ào ào chảy ngược lại',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1909,7 +1923,7 @@ verse:
     'Đánh cầu trên dòng nước chảy xiết / ' +
     'Rơi xuống không dừng, ai biết xem ?',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1935,7 +1949,7 @@ verse:
     'Mắt chính xưa nay cho thợ săn / ' +
     'Tuyết Đậu lớn tiếng bảo xem tênm !',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1961,7 +1975,7 @@ verse:
     'Nước có hiến chương / ' +
     'Ba ngàn điều tội',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -1983,7 +1997,7 @@ verse:
     'Khổ trong sướng / ' +
     'Ai bảo vàng ròng giống như phân ?',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -2009,7 +2023,7 @@ verse:
     'Không dựa ngã / ' +
     'Kim mao sư tử không chỗ tìm',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -2033,7 +2047,7 @@ verse:
     'Đại trượng phu có thấy không ? / ' +
     'Nắm đuôi cọp hề vuốt râu cọp.',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -2055,7 +2069,7 @@ verse:
     'Thấy không thấy / ' +
     'Cưỡi trâu ngược hề vào Phật điện.',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -2074,7 +2088,7 @@ verse:
     'Sai sai ! / ' +
     'Mũi cao tận trời vẫn bị xỏ',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -2111,7 +2125,7 @@ verse:
     'Lại nói có hiểu hay không ? / ' +
     'Trùy sắt không lỗ',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -2142,7 +2156,7 @@ verse:
       'Đôi mắt đầu gậy từ đâu sinh? / ' +
       'Hét!',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -2162,7 +2176,7 @@ verse:
     'Sò ngậm thỏ huyền ý thâm sâu / ' +
     'Tung gậy chiến tranh với Thiền gia',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2191,7 +2205,7 @@ verse:
 'Gió mát vô hạn với cặp sừng / ' +
 'Giống như mây mưa qua khó theo',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       'Tuyết Đậu lại nói, “Nếu như các ông muốn gió mát trở lại cặp sừng mọc lại , tôi xin mời các Thiền khách mỗi người nói một chuyển ngữ / ' +
       'Quạt đã gẫy rồi tôi muốn các ông đem tê giác lại cho tôi. Lúc ấy có ông tăng bước ra nói, “Mời đại chúng vào cả tham Thiền đường đi” / ' +
       'Tuyết Đậu hét nói, “Thả câu câu kình ngư lại bắt được nhái bén” / ' +
@@ -2230,7 +2244,7 @@ verse:
 'Trong hội nếu có Tiên Đà khách / ' +
 'Văn Thù hà tất đánh một trùy ?',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2252,7 +2266,7 @@ verse:
 'Sóng nước Tào Khê nếu tương tự / ' +
 'Biết bao người thường bị chìm đắm',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2272,7 +2286,7 @@ verse:
 'Nếu như muốn gặp lão mặt vàng / ' +
 'Sát sát trần trần ở giữa đường',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2298,7 +2312,7 @@ verse:
 'Lăng Thiền khách ! Lãng Thiền khách ! / ' +
 'Tháng ba cửa Ngu bị điểm ngạch',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2328,7 +2342,7 @@ verse:
 'Cây gậy hốt nhiên đánh / ' +
 'Mới hay cô phụ mình...',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2352,7 +2366,7 @@ verse:
 'Biết tôi hay không ? / ' +
 'Lại nói, “Khám phá ra rồi”',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2376,7 +2390,7 @@ verse:
 'Gió mát Tây Viện tan chẩy ngay / ' +
 'Tuyết Đậu lại nói, “Nếu như có ông tăng bước ra nói, ‘Sai !’ Cái ‘sai” của Tuyết Đậu phải so sánh như thế nào với cái ‘Sai’ của Thiên Bình.”',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2401,7 +2415,7 @@ verse:
 'Ba ngàn sát hải đêm lặng lẽ / ' +
 'Chẳng biết ai vào hang rồng xanh ?',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2424,7 +2438,7 @@ verse:
 'Đặc biệt / ' +
 'Từng nhánh san hô chống mặt trăng',
     verseExtra: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 ]
