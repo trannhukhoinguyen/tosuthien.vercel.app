@@ -27,18 +27,16 @@ const { lang } = Astro.params;
       <div class="faq">
         {
           faqsDb.map((quest, index) =>
-            <div>
-              <input type="checkbox" id={`question${index}`} name="q" class="questions">
-              <div class="plus">+</div>
-              <label for={`question${index}`} class="question">
-                <p>{quest.ask}</p>
-              </label>
-              <div class="answers">
-{
-                quest.reply.split(' / ').map(line => <p>{line}</p>
-}
+              <div>
+                <input type="checkbox" id={`question${index}`} name="q" class="questions">
+                <div class="plus">+</div>
+                <label for={`question${index}`} class="question">
+                  <p>{ quest.ask }</p>
+                </label>
+                <div class="answers">
+                  <p>{ quest.reply }</p>
+                </div>
               </div>
-            </div>
           )
         }
       </div>

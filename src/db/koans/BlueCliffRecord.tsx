@@ -306,7 +306,6 @@ const BlueCliffRecord = [
     commentAfterVerse:
         '',
     },
-
   {
     id: 11,
     title: 'TẮC THỨ 11: KẺ UỐNG CẶN RƯỢU CỦA HOÀNG BÁ',
@@ -326,7 +325,6 @@ const BlueCliffRecord = [
     commentAfter:
       '',
   },
-
   {
     id: 12,
     title: 'TẮC THỨ 12: BA CÂN GAI CỦA ĐỘNG SƠN',
@@ -354,7 +352,6 @@ const BlueCliffRecord = [
     commentAfter:
       '',
   },
-
   {
     id: 13,
     title: 'TẮC THỨ 13: CHÉN BẠC CỦA BA LĂNG',
@@ -378,7 +375,6 @@ const BlueCliffRecord = [
     commentAfter:
       '',
   },
-
   {
     id: 14,
     title: 'TẮC THỨ 14: MỘT LỜI ĐÚNG CỦA VÂN MÔN',
@@ -401,7 +397,6 @@ const BlueCliffRecord = [
     commentAfter:
       '',
   },
-
   {
     id: 15,
     title: 'TẮC THỨ 15: MỘT CÂU NÓI NGƯỢC CỦA VÂN MÔN',
@@ -423,7 +418,6 @@ const BlueCliffRecord = [
     commentAfter:
       '',
   },
-
   {
     id: 16,
     title: 'TẮC THỨ 16: NGƯỜI TRONG CỎ CỦA KÍNH THANH',
@@ -448,7 +442,6 @@ const BlueCliffRecord = [
     commentAfter:
       '',
   },
-
   {
     id: 17,
     title: 'TẮC THỨ 17: HƯƠNG LÂM NGỒI LÂU',
@@ -467,7 +460,6 @@ const BlueCliffRecord = [
     commentAfter:
       '',
   },
-
   {
     id: 18,
     title: 'TẮC THỨ 18: TÚC TÔNG THỈNH PHÁP',
@@ -499,7 +491,6 @@ verse:
 'Bóng chập chùng / ' +
 'Thiên cổ vạn cổ cho người xem',
   },
-
   {
     id: 19,
     title: 'TẮC THỨ 19: NGÓN TAY THIỀN CỦA CÂU CHI',
@@ -517,7 +508,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 20,
     title: 'TẮC THỨ 20: LONG NHA VÀ Ý CỦA TỔ SƯ TỪ TÂY THIÊN QUA',
@@ -542,7 +532,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 21,
     title: 'TẮC THỨ 21: HOA SEN CỦA TRÍ MÔN',
@@ -563,7 +552,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 22,
     title: 'TẮC THỨ 22: CON RẮN MŨI RÙA CỦA TUYẾT PHONG',
@@ -595,7 +583,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 23,
     title: 'TẮC THỨ 23: DIỆU PHONG ĐỈNH CỦA BẢO PHÚC',
@@ -616,7 +603,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 24,
     title: 'TẮC THỨ 24: QUI SƠN VÀ LƯU THIẾT MA',
@@ -636,7 +622,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 25,
     title: 'TẮC THỨ 25: LIÊN HOA TRỤ TRƯỢNG',
@@ -666,7 +651,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 26,
     title: 'TẮC THỨ 26: BÁCH TRƯỢNG NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG',
@@ -686,7 +670,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 27,
     title: 'TẮC THỨ 27: THỂ LỘ KIM PHONG CỦA VÂN MÔN',
@@ -709,7 +692,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 28,
     title: 'TẮC THỨ 28: CHƯ THÁNH CỦA NIẾT BÀN HÒA THƯỢNG',
@@ -739,7 +721,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 29,
     title: 'TẮC THỨ 29: HỎA KIẾP CỦA ĐẠI TÙY',
@@ -760,7 +741,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 30,
     title: 'TẮC THỨ 30: CỦ CẢI CỦA TRIỆU CHÂU',
@@ -781,7 +761,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 31,
     title: 'TẮC THỨ 31: MA CÓC CHỐNG GẬY',
@@ -809,7 +788,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 32,
     title: 'TẮC THỨ 32: PHẬT PHÁP ĐẠI Ý CỦA LÂM TẾ',
@@ -830,7 +808,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 33,
     title: 'TẮC THỨ 33: TRẦN THƯỢNG THƯ VIẾNG TỪ PHÚC',
@@ -851,7 +828,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 34,
     title: 'TẮC THỨ 34: NGƯỠNG SƠN HỎI TỪ ĐÂU ĐẾN',
@@ -880,7 +856,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 35,
     title: 'TẮC THỨ 35: VĂN THÙ VÀ VÔ TRƯỚC',
@@ -907,7 +882,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 36,
     title: 'TẮC THỨ 36: TRƯỜNG SA MỘT HÔM ĐI CHƠI NÚI',
@@ -935,7 +909,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 37,
     title: 'TẮC THỨ 37: TAM GIỚI VÔ PHÁP CỦA BÀN SƠN',
@@ -955,7 +928,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 38,
     title: 'TẮC THỨ 38: TRÂU SẮT CỦA PHONG HUYỆT',
@@ -984,7 +956,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 39,
     title: 'TẮC THỨ 39: KIM MAO SƯ TỬ CỦA VÂN MÔN',
@@ -1007,7 +978,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 40,
     title: 'TẮC THỨ 40: “GIỐNG NHƯ MỘNG” CỦA NAM TUYỀN',
@@ -1026,7 +996,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 41,
     title: 'TẮC THỨ 41: NGƯỜI CHẾT LỚN CỦA TRIỆU CHÂU',
@@ -1045,7 +1014,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 42,
     title: 'TẮC THỨ 42: TỪNG PHIẾN TUYẾT CỦA BÀNG CƯ SĨ',
@@ -1071,7 +1039,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 43,
     title: 'TẮC THỨ 43: KHÔNG NÓNG KHÔNG LẠNH CỦA ĐỘNG SƠN',
@@ -1092,7 +1059,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 44,
     title: 'TẮC THỨ 44: HÒA SƠN BIẾT ĐÁNH TRỐNG',
@@ -1122,7 +1088,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 45,
     title: 'TẮC THỨ 45: VẠN PHÁP QUI NHẤT CỦA TRIỆU CHÂU',
@@ -1141,7 +1106,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 46,
     title: 'TẮC THỨ 46: TIẾNG MƯA RƠI CỦA KÍNH THANH',
@@ -1162,7 +1126,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 47,
     title: 'TẮC THỨ 47: SÁU KHÔNG THU CỦA VÂN MÔN',
@@ -1183,7 +1146,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 48,
     title: 'TẮC THỨ 48: VƯƠNG THÁI PHÓ NẤU TRÀ',
@@ -1212,7 +1174,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 49,
     title: 'TẮC THỨ 49: TAM THÁNH LẤY GÌ ĐỂ ĂN',
@@ -1235,7 +1196,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 50,
     title: 'TẮC THỨ 50: TRẦN TRẦN TAM MUỘI CỦA VÂN MÔN',
@@ -1266,7 +1226,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 51,
     title: 'TẮC THỨ 51: “CÁI GÌ ĐÂY?” CỦA TUYẾT PHONG',
@@ -1296,7 +1255,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 52,
     title: 'TẮC THỨ 52: CẦU ĐÁ CỦA TRIỆU CHÂU',
@@ -1317,7 +1275,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 53,
     title: 'TẮC THỨ 53: VỊT TRỜI CỦA MÃ ĐẠI SƯ',
@@ -1344,7 +1301,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 54,
     title: 'TẮC THỨ 54: “MỚI Ở ĐÂU TỚI” CỦA VÂN MÔN',
@@ -1357,15 +1313,14 @@ verse:
       ' Vân Môn đánh một tát. Tăng thưa: Thoại đầu của con còn. Vân Môn lại xòe ngửa hai bàn tay. / ' +
       'Tăng không nói được. Vân Môn liền đánh.',
     verse:
-'Đầu cọp đuôi cọp nắm một lượt / ' +
-'Oai phong lẫm liệt khắp mọi nơi / ' +
-'Lại hỏi không biết quá nguy sao / ' +
-'Tuyết Đậu nói, “Bỏ qua một lần”',
+    'Đầu cọp đuôi cọp nắm một lượt / ' +
+    'Oai phong lẫm liệt khắp mọi nơi / ' +
+    'Lại hỏi không biết quá nguy sao / ' +
+    'Tuyết Đậu nói, “Bỏ qua một lần”',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 55,
     title: 'TẮC THỨ 55: ĐẠO NGÔ VÀ TIỆM NGUYÊN ĐI ĐIẾU TANG',
@@ -1376,24 +1331,23 @@ verse:
       'Đạo Ngô và Tiệm Nguyên đến một nhà kia để điếu tang. / ' +
       'Tiệm Nguyên vỗ vào quan tài hỏi, “Sống sao chết sao?” / ' +
       'Đạo Ngô nói, “Không bảo là sống mà cũng chẳng bảo là chết” / ' +
-      'Tiệm Nguyên nói, “Tại sao lại không?” / ' +
+      'Tiệm Nguyên nói, “Tại sao lại không ?” / ' +
       'Đạo Ngô nói, “Không nói là không nói.” Lúc trở về đến nữa đường, / ' +
       'Tiệm Nguyên nói, “Hòa thượng mau nói cho tôi, nếu không tôi đánh hòa thượng đó”  / ' +
       'Đạo Ngô nói, “Đánh thì cứ việc đánh, nhưng mà nói vẫn không nói”. Tiệm Nguyên bèn đánh.',
     verse:
-'Thỏ ngựa có sừng,\n' +
-      'Bò dê không sừng.\n' +
-      'Đứt lông đứt đuôi,\n' +
-      'Giống núi giống đỉnh.\n' +
-      'Hoàng kim linh cốt hiện vẫn còn,\n' +
-      'Ba đào tận trời biết để đâu?\n' +
-      'Không cho để,\n' +
-      'Chiếc dép về Tây[4]cũng mất rồi.',
+    'Thỏ ngựa có sừng / ' +
+    'Bò dê không sừng / ' +
+    'Đứt lông đứt đuôi / ' +
+    'Giống núi giống đỉnh / ' +
+    'Hoàng kim linh cốt hiện vẫn còn / ' +
+    'Ba đào tận trời biết để đâu ? / ' +
+    'Không cho để / ' +
+    'Chiếc dép về Tây cũng mất rồi',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 56,
     title: 'TẮC THỨ 56: MỘT MŨI TÊN PHÁ BA ẢI CỦA KHÂM SƠN',
@@ -1401,14 +1355,29 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Lãng Thiền Khách hỏi Khâm Sơn, “Lúc một mũi tên phá ba ải thì như thế nào ?” / ' +
+      'Khâm Sơn nói, “đem vị chỉ huy trong ải ra đây xem !” / ' +
+      'Lãng Thiền Khách nói, “Như vậy có nghĩa là biết lỗi lầm phải sửa đổi” / ' +
+      'Khâm Sơn nói, “Vậy thì còn đợi đến bao giờ nữa ?” / ' +
+      'Lãng Thiền Khách nói, “Mũi tên bắn hay chẳng đúng đâu cả.” Rồi bỏ đi ra / ' +
+      'Khâm Sơn nói, ”Thầy đến đây một chút coi” / ' +
+      'Lãng Thiền Khách quay đầu lại, Khâm Sơn nắm lấy thầy ta nói, “Một mũi tên phá ba ải, tạm gác qua một bên / ' +
+      'Ông thử bắn một mũi tên ra cho Khâm Sơn xem coi !” / ' +
+      'Lãng Thiền Khách định cãi, Khâm Sơn đã đánh cho bảy gậy rồi nói, “Ta sẵn sàng nghe gã này nghi ngờ trong 30 năm nữa.”',
     verse:
-'',
+    'Đem vị giữ ải ra cho ông / ' +
+    'Những kẻ bắn tên đừng sơ hốt / ' +
+    'Lấy một mắt hề tai tất điếc / ' +
+    'Buông một tai hề đôi mắt mù / ' +
+    'Thương thay một tên phá ba ải / ' +
+    'Rõ rõ ràng ràng lối tên đi / ' +
+    'Há không nghe / ' +
+    'Huyền Sa có lời hề / ' +
+    '“Đại trượng phu tiên thiên làm tâm tổ”',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 57,
     title: 'TẮC THỨ 57: CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU',
@@ -1416,14 +1385,22 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Triệu Châu, “Đạo lớn không khó, chỉ đừng so đo" / ' +
+      'Thế nào là đừng so đo ?” Triệu Châu nói, “Thiên thượng thiên hạ duy ngã độc tôn” / ' +
+      'Ông tăng nói, “Đó vẫn còn là so đo” / ' +
+      'Triệu Châu nói, “Đồ nhà quê! So đo ở chỗ nào đâu ?” / ' +
+      'Ông tăng kia không nói gì được',
     verse:
-'',
+      'Sâu tựa như biển / ' +
+      'Kiên cố như núi / ' +
+      'Muỗi mòng bay lượn trong gió táp / ' +
+      'Kiến càng đòi lay cột trụ sắt / ' +
+      'So hề đo hề / ' +
+      'Trống vải dưới hiên',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 58,
     title: 'TẮC THỨ 58: TRIỆU CHÂU VÀ KHUÔN SÁO THỜI THƯỢNG',
@@ -1431,14 +1408,19 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Triệu Châu, “Đạo lớn không khó, chỉ đừng so đo, phải chăng là khuôn sáo của thiên hạ bây giờ ?” / ' +
+      'Triệu Châu nói, “Có người từng hỏi ta như thế, suốt 5 năm nay ta vẫn chưa biết phải giải thích như thế nào ?”',
     verse:
-'',
+    'Tượng vương rên rỉ / ' +
+    'Sư tử gầm rống / ' +
+    'Câu chuyện vô vị / ' +
+    'Làm nghẹn miệng người / ' +
+    'Nam bắc đông tây / ' +
+    'Quạ bay thỏ chạy',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 59,
     title: 'TẮC THỨ 59: TRIỆU CHÂU VÀ “ĐỪNG SO ĐO”',
@@ -1446,14 +1428,26 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Có ông tăng hỏi Triệu Châu, “Đạo lớn không khó, miễn đừng so đo. Vừa có ngôn ngữ là có so đo rồi, hòa thượng giúp người như thế nào ?” / ' +
+      'Triệu Châu nói, “Tại sao không dẫn hết cả câu ra ?” / ' +
+      'Ông tăng nói, “Đệ tử chỉ nhớ được đến đó thôi” / ' +
+      'Triệu Châu nói, “Chỉ có ‘đạo lớn không khó, miễn đừng so đo’ mà thôi”',
     verse:
-'',
+    'Cây gậy nuốt trọn trời đất / ' +
+      'Nói mãi hoa đào trên sóng / ' +
+      'Kẻ cháy đuôi không nói nắm mây bắt sương / ' +
+      'Kẻ hụt hơi sao phải thất kinh hồn vía ? / ' +
+      'Nêu lên rồi / ' +
+      'Có nghe không ? / ' +
+      'Cân phải tiêu sái tự tại / ' +
+      'Chớ nên bối rối phân vân / ' +
+      'Bảy mươi hai gậy vẫn tha thứ / ' +
+      'Một trăm năm mươi khó tha ông / ' +
+      'Sư bỗng dơ gậy rồi hạ tòa / ' +
+      'Đại chúng lập tức tẩu tán',
     verseExtra: '',
-    commentAfter:
-      '',
+    commentAfter: '',
   },
-
   {
     id: 60,
     title: 'TẮC THỨ 60: CÂY GẬY CỦA VÂN MÔN',
@@ -1461,14 +1455,24 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Vân Môn đưa gậy ra dạy chúng rằng, “Cây gậy đã hóa thành rồng, nuốt trọn cả trời đất rồi. Sơn hà đại địa, còn đâu mà có nữa ?”',
     verse:
-'',
+    'Cây gậy nuốt trọn trời đất / ' +
+    'Nói mãi hoa đào trên sóng / ' +
+    'Kẻ cháy đuôi không nói nắm mây bắt sương / ' +
+    'Kẻ hụt hơi sao phải thất kinh hồn vía? / ' +
+    'Nêu lên rồi / ' +
+    'Có nghe không ? / ' +
+    'Cân phải tiêu sái tự tại / ' +
+    'Chớ nên bối rối phân vân / ' +
+    'Bảy mươi hai gậy vẫn tha thứ / ' +
+    'Một trăm năm mươi khó tha ông / ' +
+    'Sư bỗng dơ gậy rồi hạ tòa / ' +
+    'Đại chúng lập tức tẩu tán',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 61,
     title: 'TẮC THỨ 61: MỘT HẠT BỤI CỦA PHONG HUYỆT',
@@ -1476,14 +1480,17 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Phong Huyệt dạy rằng, "Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạ bụi, nước nhà suy vong.” / ' +
+      'Tuyết Đậu dơ gậy lên nói, “Có còn các nạp tăng đồng sinh đồng tử không ?”',
     verse:
-'',
+      'Lão quê có thể không nhướng mày / ' +
+      'Mong rằng nhà nước được vững mạnh / ' +
+      'Mưu thần mãnh tướng giờ đâu hết ? / ' +
+      'Vạn dặm gió mát chỉ tự biết',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 62,
     title: 'TẮC THỨ 62: VIÊN NGỌC CỦA VÂN MÔN',
@@ -1491,14 +1498,18 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Vân Môn dạy chúng rằng , bên trong trời đất, ở giữa vũ trụ, có một viên ngọc, ẩn trong núi hình. / ' +
+      'Cầm đèn giấy đi vào Phật điện, đem tam môn đến đặt trên đèn.',
     verse:
-'',
+    'Nhìn nhìn ! / ' +
+    'Bến cũ ai kẻ cầm nhánh câu ? / ' +
+    'Mây chập chùng / ' +
+    'Nước miên man / ' +
+    'Hoa lau dưới trăng, hãy tự nhìn.',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 63,
     title: 'TẮC THỨ 63: NAM TUYỀN GIẾT MÈO',
@@ -1506,14 +1517,18 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Một hôm ở tự viện của Nam Tuyền, tăng chúng của đông đường và tây đường tranh nhau một con mèo. / ' +
+      'Nam Tuyền thấy thế bèn nắm lấy con mèo dơ lên nói, “Nếu như các ông nói được thì tôi sẽ không chém Mèo.” / ' +
+      'Chúng hội không ai nói được gì cả. Nam Tuyền bèn chặt con mèo ra làm đôi.',
     verse:
-'',
+      'Hai bên đều là Thiền giả mạo / ' +
+      'Quơ bụi cát lên chẳng được gì / ' +
+      'May mà Nam Tuyền ra được lệnh / ' +
+      'Một dao hai mảnh kệ thiên kiến',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 64,
     title: 'TẮC THỨ 64: NAM TUYỀN HỎI TRIỆU CHÂU',
@@ -1521,14 +1536,18 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Nam Tuyền lại nêu câu chuyện trên ra để hỏi Triệu Châu. / ' +
+      'Triệu Châu bèn cởi giầy cỏ ra đội lên đầu rồi bỏ đi. / ' +
+      'Nam Tuyền nói, “Nếu như có ông ở đây, hẳn ông đã cứu được mèo rồi.”',
     verse:
-'',
+      'Công án viên mãn hỏi Triệu Châu / ' +
+      'Trong thành Trường An cứ nhàn du / ' +
+      'Giầy cỏ đội đầu không ai hiểu / ' +
+      'Về đến núi nhà bèn nghỉ ngơi',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 65,
     title: 'TẮC THỨ 65: NGOẠI ĐẠO HỎI PHẬT VỀ HỮU VÔ',
@@ -1536,14 +1555,24 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Một ngoại đạo hỏi Phật, “Không hỏi hữu ngôn, không hỏi vô ngôn.” Đức Thế Tôn im lặng. / ' +
+      'Ngoại đạo tán than rằng, “Thế Tôn đại từ đại bi, khia mở mây mờ cho tôi, khiến tôi có được chỗ vào (đạo).” / ' +
+      'Sau khi ngoại đạo đi rồi, A Nan hỏi Phật, “Ngoại đạo chứng được gì mà nói có chỗ vào vậy ?” / ' +
+      'Đức Phật nói, “Giống như ngựa tốt, chỉ cần thấy bóng roi cũng chạy rồi.”',
     verse:
-'',
+      'Cơ luân chưa từng chuyển / ' +
+      'Chuyển ắt chạy hai phía / ' +
+      'Gương sáng bỗng lên đài / ' +
+      'Lập tức phân xấu đẹp / ' +
+      'Xấu đẹp phân hề may đen mở / ' +
+      'Cửa từ ở đâu sinh trần ai ? / ' +
+      'Nghĩ ngựa tốt thấy bóng roi / ' +
+      'Thiên lý truy phong gọi về được / ' +
+      'Gọi về được, bung tay ba lần.',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 66,
     title: 'TẮC THỨ 66: NHAM ĐẦU VÀ “TỪ ĐÂU TỚI”',
@@ -1551,14 +1580,24 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Nham Đầu hỏi ông tăng, “Từ đâu tới?” Ông tăng nói, “Từ Tây Kinh tới.” / ' +
+      'Nham Đầu nói, “Sau nạn Hoàng Sào còn thu được kiếm sao?” Ông tăng nói, “Thu được.” / ' +
+      'Nham Đầu nghển cổ tới trước hét lên. Ông tăng nói, “Đầu thầy rụng rồi.” Nham Đầu bật cười ha hả. / ' +
+      'Sau đó ông tăng kia đến gặp Tuyết Phong. / ' +
+      'Tuyết Phong hỏi, “Từ đâu tới?” / ' +
+      'Ông tăng nói, “Từ Nham Đầu tới.” / ' +
+      'Tuyết Phong nói, “Nham Đầu có lời dạy gì ?” / ' +
+      'Ông tăng thuật lại câu chuyện trên. / ' +
+      'Tuyết Phong đánh cho ba mươi gậy rồi đuổi ra.',
     verse:
-'',
+      'Sau nạn Hoàng Sào từng thu kiếm, / ' +
+      'Cười lớn phải cần chuyên gia hiểu / ' +
+      'Ba mươi gậy núi kể còn nhẹ / ' +
+      'Được tiện nghi là mất tiện nghi',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 67,
     title: 'TẮC THỨ 67: LƯƠNG VŨ ĐẾ MỜI GIẢNG KIN',
@@ -1566,14 +1605,20 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Lương Vũ Đế mời Phó Đại Sĩ giảng Kinh Kim Cương. / ' +
+      'Phó Đại Sĩ đứng trên tòa lay bàn một cái rồi xuống khỏi tòa. / ' +
+      'Vũ Đế ngạc nhiên. Chí Công hỏi, “Bệ hạ hiểu chứ?” / ' +
+      'Vũ Đế nói, “Không hiểu” / ' +
+      'Chí Công nói, “Đại Sĩ đã giảng xong kinh rồi.”',
     verse:
-'',
+    'Không dựa thân này nơi song lâm / ' +
+    'Lại vướng trần ai nơi đất Lương / ' +
+    'Lúc ấy nếu không vì Chí Công / ' +
+    'Đã phải vội vàng bỏ nước đi',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 68,
     title: 'TẮC THỨ 68: NGƯỠNG SƠN HỎI TAM THÁNH',
@@ -1581,14 +1626,20 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Ngưỡng Sơn hỏi Tam Thánh, "Thầy tên gì ?” / ' +
+      'Tam Thánh nói, “Huệ Tịch” / ' +
+      'Ngưỡng Sơn nói, “Huệ Tịch là tôi” / ' +
+      'Tam Thánh nói, “Tên tôi là Huệ Nhiên” / ' +
+      'Ngưỡng Sơn cười ầm lên',
     verse:
-'',
+    'Vừa thu vừa buông tông chỉ đâu ? / ' +
+    'Cưỡi cọp cần phải có tuyệt kỹ / ' +
+    'Cười rồi chẳng biết đi về đâu, / ' +
+    'Chỉ là thiên cổ động bi phong',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 69,
     title: 'TẮC THỨ 69: NAM TUYỀN BÁI TRUNG QUỐC SƯ',
@@ -1596,14 +1647,20 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Nam Tuyền, Qui Tông và Ma Cốc cùng đi tham bái Trung Quốc Sư. Đến nữa đường Nam Tuyền vẽ một vòng tròn trên mặt đất rồi nói,” Nếu như các ông nói được thì chúng mình tiếp tục đi.” Qui Tông ngồi xuống trong vòng tròn. ' +
+      'Ma Cốc thì cúi chào theo kiểu đàn bà. Nam Tuyền nói, ”Như vầy thì thôi chẳng đi nữa.” Qui Tông nói, “Đó là tâm hành gì vậy?”',
     verse:
-'',
+    'Tên Do Cơ bắn khỉ / ' +
+    'Vòng cây trực tiếp sao ! / ' +
+    'Ngàn kẻ và vạn kẻ / ' +
+    'Có ai từng bắn trúng ? / ' +
+    'Kêu nhau gọi nhau quay về thôi / ' +
+    'Trên lối Tào Khê dừng bước chân / ' +
+    'Lại nói, “Lối Tào Khê bằng Phẳng. Tại sao lại dừng bước chân?”',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 70,
     title: 'TẮC THỨ 70: QUI SƠN ĐỨNG HẦU BÁCH TRƯỢNG',
@@ -1611,14 +1668,19 @@ verse:
     intro:
       '',
     main:
-      '',
+      'Qui Sơn , Ngũ Phong và Vân Nham cùng đứng hầu Bách Trượng. / ' +
+      'Bách Trượng hỏi Qui Sơn, “Không có cổ họng với miệng môi, làm cách nào để nói đây?” / ' +
+      'Qui Sơn nói, “xin để hòa thượng nói vậy.” / ' +
+      'Bách Trượng nói, “Tôi không ngại gì mà không nói cho ông, song chỉ sợ sau này làm chết hết con cháu mà thôi.”',
     verse:
-'',
+    'Xin để hoà thượng nói / ' +
+    'Đầu cọp mọc sừng chốn cỏ hoang / ' +
+    'Mười châu xuân tàn hoa rơi rụng / ' +
+    'Mặt trời rực rỡ rừng san hô',
     verseExtra: '',
     commentAfter:
       '',
   },
-
   {
     id: 71,
     title: 'TẮC THỨ 71: BÁCH TRƯỢNG VÀ KHÔNG VỚI CỔ HỌNG VỚI MIỆNG MÔI',
@@ -1633,7 +1695,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 72,
     title: 'TẮC THỨ 72: BÁCH TRƯỢNG HỎI VÂN NHAM',
@@ -1648,7 +1709,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 73,
     title: 'TẮC THỨ 73: TỨ CÚ BÁCH PHI CỦA MÃ ĐẠI SƯ',
@@ -1663,7 +1723,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 74,
     title: 'TẮC THỨ 74: KIM NGƯU HÒA THƯỢNG CƯỜI HA HA',
@@ -1678,7 +1737,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 75,
     title: 'TẮC THỨ 75: Ô CỮU HỎI PHÁP ĐẠO',
@@ -1693,7 +1751,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 76,
     title: 'TẮC THỨ 76: ĐAN HÀ HỎI TỪ ĐÂU TỚI',
@@ -1708,7 +1765,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 77,
     title: 'TẮC THỨ 77: BÁNH CỦA VÂN MÔN',
@@ -1723,7 +1779,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 78,
     title: 'TẮC THỨ 78: MƯỜI SÁU BỒ TÁT ĐI TẮM',
@@ -1738,7 +1793,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 79,
     title: 'TẮC THỨ 79: TẤT CẢ CÁC ÂM THANH CỦA ĐẦU TỬ',
@@ -1753,7 +1807,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 80,
     title: 'TẮC THỨ 80: HÀI TỬ THỨC CỦA TRIỆU CHÂU',
@@ -1768,7 +1821,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 81,
     title: 'TẮC THỨ 81: DƯỢC SƠN BẮN NAI',
@@ -1783,7 +1835,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 82,
     title: 'TẮC THỨ 82: KIẾN CỐ PHÁP THÂN CỦA ĐẠI LONG',
@@ -1798,7 +1849,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 83,
     title: 'TẮC THỨ 83: CỔ PHẬT VÀ CỘT TRỤ CỦA VÂN MÔN',
@@ -1813,7 +1863,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 84,
     title: 'TẮC THỨ 84: BẤT NHỊ PHÁP MÔN CỦA DUY MA CẬT',
@@ -1828,7 +1877,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 85,
     title: 'TẮC THỨ 85: CON CỌP CỦA ĐỒNG PHONG AM CHỦ',
@@ -1843,7 +1891,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 86,
     title: 'TẮC THỨ 86: QUANG MINH CỦA VÂN MÔN',
@@ -1858,7 +1905,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 87,
     title: 'TẮC THỨ 87: BỆNH VÀ THUỐC TRỊ LẪN NHAU CỦA VÂN MÔN',
@@ -1873,7 +1919,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 88,
     title: 'TẮC THỨ 88: HUYỀN SA TIẾP VẬT LỢI SINH',
@@ -1888,7 +1933,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 89,
     title: 'TẮC THỨ 90: TAY VÀ MẮT CỦA ĐẠI BI BỒ TÁT',
@@ -1903,7 +1947,6 @@ verse:
     commentAfter:
       '',
   },
-
   {
     id: 90,
     title: 'TẮC THỨ 90: BÁT NHÃ THỂ CỦA TRÍ MÔN',

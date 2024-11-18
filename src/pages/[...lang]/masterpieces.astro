@@ -3,7 +3,6 @@ import Base from "@/layouts/Base.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import { site } from "@/config/config.json";
 import PageHeader from "../../layouts/partials/PageHeader.astro";
-import Candles from "../../layouts/components/Candles.astro";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -13,19 +12,6 @@ export function getStaticPaths() {
 }
 
 const { lang } = Astro.params;
-const extraContent = !lang || lang === 'vi'
-  ? `Một đêm, Thiền sư ĐỨC SƠN TUYÊN GIÁM đứng hầu thiền sư LONG ĐÀM SÙNG TÍN.
-    Thiền sư SÙNG TÍN bảo: Đêm khuya, sao chẳng xuống ngủ.
-    Sư kính chào bước ra, lại trở vào, thưa: Bên ngoài tối đen!
-    Thiền sư SÙNG TÍN thắp đèn cầy đưa Sư.
-    Sư toan tiếp lấy, Thiền sư SÙNG TÍN liền thổi tắt.
-    Ngay đó, Sư đại ngộ, liền lễ bái.`
-  : `One night, Zen Master DESHAN XUANJIAN stood and attended Zen master LONGTAN CHONGXIN.
-    Zen master CHONGXIN said: It's late at night, why don't you go to sleep?
-    The master DESHAN respectfully walked out, then came back in and said: It's dark outside!
-    Zen master CHONGXIN lit a candle for the master.
-    The master was about to take it, but Zen Master CHONGXIN immediately blew it out.
-    Right there, the master DESHAN was enlightened and immediately bowed.`;
 ---
 
   <Base
@@ -37,13 +23,10 @@ const extraContent = !lang || lang === 'vi'
   <PageHeader title={ !lang || lang === 'vi' ? 'Tuyệt tác' : 'Masterpieces' } />
   <section class="section-sm">
     <div class="container">
-      <div>
-        <Candles />
-      </div>
+
     </div>
   </section>
   </Base>
-<p class="marquee">{ extraContent }</p>
 
 <style>
   .marquee {
