@@ -1,13 +1,13 @@
 const faqsDb = [
   {
     id: 1,
-    ask: 'Tổ Sư Thiền là gì ?',
+    ask: '1. Tổ Sư Thiền là gì ?',
     reply:
       'Tổ-sư-thiền là pháp Thiền-trực-tiếp do phật Thích-ca đích thân truyền cho sơ Tổ Ma-ha-ca-diếp, rồi truyền cho nhị Tổ A-nan, tam Tổ Thương-na-hòa-tu, từ Tổ từ Tổ truyền xuống, đến Tổ thứ 28 là Bồ-đề-đạt-ma truyền sang Trung quốc làm sơ Tổ Trung-quốc rồi truyền cho người Trung quốc là nhị Tổ Huệ Khả, tam Tổ Tăng Xán, tứ Tổ Đạo Tín, ngũ Tổ Hoằng Nhẫn, lục Tổ Huệ Năng... Đến Thầy Thích Duy Lực là đời thứ 88 (kể từ Tổ Ca-diếp).',
   },
   {
     id: 2,
-    ask: 'Những Điều Cần Lưu Ý Khi Tham Tổ Sư Thiền',
+    ask: '2. Những Điều Cần Lưu Ý Khi Tham Tổ Sư Thiền',
     reply:
       '✅ 1 – PHÁ NGÃ CHẤP / ' +
       '📌 Theo Phật pháp, bất cứ Tiểu thừa, Trung thừa, Đại thừa, cho đến Tối thượng thừa, chẳng có thừa nào là không phá ngã chấp cả. / ' +
@@ -87,7 +87,7 @@ const faqsDb = [
   },
 {
     id: 3,
-    ask: 'Tại sao pháp Tham Tổ Sư thiền dễ tu mà người ta không chịu tu ?',
+    ask: '3. Tại sao pháp Tham Tổ Sư thiền dễ tu mà người ta không chịu tu ?',
     reply:
     '📌 Vì người ta khó tin, lại cứu lý tìm hiểu; Tổ Sư thiền là không cho cứu lý, không cho tìm hiểu. ' +
     '📌 Nếu tin được thì dễ hơn các pháp môn khác. Nhưng nghịch với tư tưởng người ta, tức là không tin được tự tâm. ' +
@@ -98,7 +98,7 @@ const faqsDb = [
   },
 {
     id: 4,
-    ask: 'Xã hội ngày nay khoa học tiến bộ, con người không được rảnh rang như người xưa, nên không để ý sự tu, nhất là tu Tổ Sư thiền rất khó, vậy có phải không ?',
+    ask: '4. Xã hội ngày nay khoa học tiến bộ, con người không được rảnh rang như người xưa, nên không để ý sự tu, nhất là tu Tổ Sư thiền rất khó, vậy có phải không ?',
     reply:
     '📌 Vì hiểu theo người thế gian, như nhà triết học, nhà khoa học,... thì sự tu của họ lại khó. ' +
     '📌 Vì cuộc sống hằng ngày đều phải dùng bộ óc để nghiên cứu triết học hay nghiên cứu khoa học, bất cứ nghiên cứu cái gì đều cũng nhờ bộ óc. ' +
@@ -109,7 +109,7 @@ const faqsDb = [
   },
 {
     id: 5,
-    ask: 'Những pháp thiền của các tôn giáo khác là để ngưng hoạt động của bộ óc hay để im lặng, vậy có khác với cách tu của Tổ Sư thiền không ?',
+    ask: '5. Những pháp thiền của các tôn giáo khác là để ngưng hoạt động của bộ óc hay để im lặng, vậy có khác với cách tu của Tổ Sư thiền không ?',
     reply:
     '📌 Các thiền của tôn giáo khác là mục đích bỏ nhiễm duyên lấy cái tịnh duyên cho là ngộ. ' +
     '📌 Tịnh duyên đối với nhiễm duyên thì tốt, còn đối với bản thể Phật tánh là chướng ngại. Bởi vì đối  với nhiễm nên mới nói tịnh thì còn nằm trong tương đối, tức là những thứ ấy có thể dùng bộ óc để giải thích được. / ' +
@@ -132,5 +132,13 @@ const faqsDb = [
   '📌 Cọp không bao giờ giết hại đồng loại, vì lợi ích nên con người giết hại đồng loại; có khi giết một cách thê thảm, đó là do kiến giải mà ra. ' +
   '📌 Bởi kiến giải, họ tổ chức chính trị ra lịnh giết biết bao nhiêu triệu người.',
 },
+{
+id: 7,
+ask: 
+'7. Phương pháp tham Tổ sư thiền miên mật không có kẻ hở, nếu có kẻ hở thì vọng tưởng xen vào. Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không ?',
+reply:
+'Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. Khi nào 14 tiếng này tập tham thiền thành quen thuộc tự động. / ' +
+'Như tập xe đạp, ban đầu hai tay vịn nó cũng ngã lên ngã xuống, sau này hai tay vịn nó không ngã, sau này buông tay cũng không ngã, sau này quẹo khỏi cần tay cũng quẹo được. Cần tập cho quen được tự động, lúc đang làm việc tự động thì mình không biết; lúc ấy bộ óc không biết, nhưng cái biết của Phật tánh thay thế. Cho nên làm đúng hơn, nhanh và tỉ mỉ hơn.'
+}
 ]
 export default faqsDb;
