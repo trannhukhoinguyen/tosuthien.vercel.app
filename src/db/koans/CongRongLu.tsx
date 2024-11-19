@@ -10,7 +10,7 @@ const CongRongLu = [
     main:
       'Một hôm Thế Tôn thăng tòa, Văn Thù bạch chùy nói: / ' +
       '“Quán rõ pháp của pháp vương, pháp của pháp vương như thế”. Thế Tôn liền xuống tòa.',
-    commentBefore:
+    commentBeforeVerse:
       'Sư nói: ' +
       ' Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +
       'Các vị chưa đến pháp đường, Vạn Tùng chưa ra phương trượng, nếu khi đó biết được, đã là rơi vào thứ 3, thứ 4 rồi. / ' +
@@ -18,22 +18,30 @@ const CongRongLu = [
       'Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham ? / ' +
       'Xưa, Đức Thế Tôn một hôm lên pháp tòa nói: “Hãy xem rõ pháp vương pháp. Pháp vương pháp như thế !” / ' +
       'Thế Tôn bèn xuống pháp tòa, lại cứu được một nữa, một nữa giao phó cho Thiên Đồng',
-    verse:
+    verseOriginal:
       'Nhất đoạn chân phong kiến dã. / ' +
       'Miên miên hóa mẫu lý cơ tuấn. / ' +
       'Cổ miên hoàm Xuân tượng. / ' +
       'Vô nại đông quân lộ tiết hà. ',
-    verseTranslated:
-      'Một đoạn của nhà có thấy không?. ' +
-      'Miên man trời đất chạy thoi nhanh. ' +
-      'Gấm cổ dẹt thành bao Xuân sắc. ' +
+    verse:
+      'Một đoạn của nhà có thấy không?. / ' +
+      'Miên man trời đất chạy thoi nhanh. / ' +
+      'Gấm cổ dẹt thành bao Xuân sắc. / ' +
       'Ngại gì tiết lộ bởi thần Xuân. ',
-    commentAfter:
+    commentAfterVerse:
       'Sư dạy: / ' +
       'Thiên Đồng nói: “Một đoạn của nhà có thấy không ?”. / ' +
-      'Lại là chổ Thế Tôn thăng tòa hay là một đoạn chân phong chổ Thiên Đồng nêu bài tụng là một đoạn chân phong hay là chỗ Vạn Tùng thưa thỉnh là một đoạn chân phong, như thế thì thành 3 đoạn rồi. Thế nào là một đoạn chân phong? Huống là mọi người đều có phần, cũng phải tham cho tường tận.' +
-      'Lại nói: “Miên man trời đất (hóa mẫu) chạy thoi nhanh”. Hóa mẫu là biệt hiệu của vật tạo hóa, Đạo giáo và Nho giáo đều có tôn chỉ nơi nhất khí, hàng nhà Phật lấy nhất tâm làm căn. Khuê Phong nói: “Nguyên khí cũng do tâm tạo ra, đều được tướng phần của A-lại-gia thức thu nhiếp”. Vạn Tùng nói: Đây là Chánh tông Tào Động. Mạng mạch của Phật Tổ, then chốt nơi miệng cửa, chổ chuyển sâu xa, sợi tơ nhã ra nơi bụng, khi dùng miên mật, đâu được đồng với nhân tà, nhân không ư? Sau đây tụng Thế Tôn chứa đựng tương lai nói: “ Gấm cổ dệt thành bao Xuân sắc”. Tuy là như con một gặm gỗ bỗng thành văn, đâu thể đóng cửa đẩy xe, ra cửa cùng vết. Sau này Văn Thù phân tích ngược.' +
-      'Lại nói: “ Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch chùy, Thế Tôn liền xuống tòa, lại đến Ca-diếp bạch chùy, liền hiện ra trăm ngàn vạn Văn Thù, cùng là thời tiết như nhau vì sao nhận, thả không đồng?' +
+      'Lại là chổ Thế Tôn thăng tòa hay là một đoạn chân phong chổ Thiên Đồng nêu bài tụng là một đoạn chân phong hay là chỗ Vạn Tùng thưa thỉnh là một đoạn chân phong, như thế thì thành 3 đoạn rồi. / ' +
+      'Thế nào là một đoạn chân phong? Huống là mọi người đều có phần, cũng phải tham cho tường tận. / ' +
+      'Lại nói: “Miên man trời đất (hóa mẫu) chạy thoi nhanh”. / ' +
+      'Hóa mẫu là biệt hiệu của vật tạo hóa, Đạo giáo và Nho giáo đều có tôn chỉ nơi nhất khí, hàng nhà Phật lấy nhất tâm làm căn. / ' +
+      'Khuê Phong nói: “Nguyên khí cũng do tâm tạo ra, đều được tướng phần của A-lại-gia thức thu nhiếp”. / ' +
+      'Vạn Tùng nói: Đây là Chánh tông Tào Động. / ' +
+      'Mạng mạch của Phật Tổ, then chốt nơi miệng cửa, chổ chuyển sâu xa, sợi tơ nhã ra nơi bụng, khi dùng miên mật, đâu được đồng với nhân tà, nhân không ư ? / ' +
+      'Sau đây tụng Thế Tôn chứa đựng tương lai nói: “ Gấm cổ dệt thành bao Xuân sắc”. / ' +
+      'Tuy là như con một gặm gỗ bỗng thành văn, đâu thể đóng cửa đẩy xe, ra cửa cùng vết. Sau này Văn Thù phân tích ngược. / ' +
+      'Lại nói: “ Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch chùy, Thế Tôn liền xuống tòa, lại đến Ca-diếp bạch chùy, / ' +
+      'liền hiện ra trăm ngàn vạn Văn Thù, cùng là thời tiết như nhau vì sao nhận, thả không đồng ? / ' +
       'Ông nói: cái nào là chổ để lộ chúa Xuân, ân cần là hiểu rõ đinh hương kết, cành lá mọc mùa Xuân tự tại.',
   },
   {
@@ -42,38 +50,51 @@ const CongRongLu = [
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       'Sư dạy chúng nói:' +
-      'Bóc Hòa Tam Hiến, chưa thoát khỏi hành hình, đến sáng chiếu vào người sáng, chẳng án kiếm, khách chết chủ không chết, thích hợp giả chẳng thích hợp chân, của báu quý giá không nắm được, chỉ vớ được đầu mèo chết.',
+      'Bóc Hòa Tam Hiến, chưa thoát khỏi hành hình, đến sáng chiếu vào người sáng, chẳng án kiếm, khách chết chủ không chết, / ' +
+      'thích hợp giả chẳng thích hợp chân, của báu quý giá không nắm được, chỉ vớ được đầu mèo chết.',
     main:
-      'Lương Võ Đế hỏi Đạt Đại Ma Sư: Thế nào là Thánh Đế Đệ nhất nghĩa?' +
-      'Đạt Ma đáp: Rỗng rang không Thánh.' +
-      'Võ Đế hỏi: Người đối trước mặt trẫm là ai?' +
-      'Đạt Ma đáp: Không biết' +
+      'Lương Võ Đế hỏi Đạt Đại Ma Sư: Thế nào là Thánh Đế Đệ nhất nghĩa ? / ' +
+      'Đạt Ma đáp: Rỗng rang không Thánh. / ' +
+      'Võ Đế hỏi: Người đối trước mặt trẫm là ai ? / ' +
+      'Đạt Ma đáp: Không biết / ' +
       'Đế không khế hợp, Đạt Ma bèn vượt sông đến Thiếu Lâm, xoay mặt vào tường 9 năm.',
-    commentBefore:
+    commentBeforeVerse:
       'Sư nói: ' +
-      'Bát-nhã Đa-la từng dặn cho Đạt Ma Đại Sư rằng: Sau khi ta diệt độ, 5 ông nên đến nước Chấn Đán bày ra Đại Pháp chỉ thẳng cho bậc thượng căn, cẩn thận nhanh chóng gặp nạn nên dừng ở Lạc Dương.' +
-      'Lại khi ông đến Phương Nam chổ ở, người ở đó chỉ tạo công đức, không thấy đạo lý của Phật, dẫu ông đến đó, cũng không thể ở lâu, quả nhiên sự việc đất Lương qua đất Ngụy định trị năm. Thời cận đại Từ Châu pháp phó chúc cho Nhân Sơn.' +
-      'Nhân Sơn nói: Con không phải là người như thế.' +
-      'Từ Châu nói: Không phải người như thế, tự mình không bị tai ương đến. Nhân Sơn vì pháp nhũ tình thâm, cúi đầu mà nhận.' +
-      'Từ Châu lại nói: Ông đã như vậy. Thứ nhất không được khinh thường xuất thế, nếu nhanh chóng rời bỏ, ở giữa ắt có sự trắc trở. Ở đây cùng với Đa La 3 lần phó chúc Đa Ma năm, cả 2 là cùng một lúc. Cho nên Vân Khê làm bài tụng rằng:' +
-      '“Qua Thu không tiếc sương, Phật giáo mãi một vị, dù cho bắt sống được, rút cuộc không mùi thơm”, có thể cho là người răn dạy.' +
-      'Nếu là bản sắc đạo nhân, lúc ra đời tự biết thời tiết. Võ Đế tuy không khế hợp, bỏ qua vấn đề hỏi, không ngại bén nhọn, đến nay các nơi, khai đường bạch chùy, còn nói: “Những vị kiết xuất trong pháp hội, nên quán Đệ nhất nghĩa, chỉ như Đệ Nhất Nghĩa Đế, chấp nhận quán hay không?”' +
-      'Vạn Tùng nói: Đệ nhất nghĩa hãy bỏ qua một bên, ông cần Thánh đế làm gì?' +
-      'Thiên Hoàng nói: Chỉ biết phàm tình, không phân biệt thánh giải. Kinh Lăng Nghiêm nói: Nếu làm thánh giải, lập tức bị các tà, chỉ có Đạt Ma này nói: “Rỗng rang không Thánh, trong ánh sáng đá lữa sấm chớp, không ngại tai mắt làm. Võ Đế ngoan cố không thối lui”. Lại nói “người trước mắt Trẫm là ai?” Ở nơi phần của Lương Vương cũng là tâm tốt.' +
-      'Thật không biết, phần Đạt Ma giống như xây mặt vào vách ngã, không thoát khỏi lại vâng theo người “không biết”, chính là hoa đẹp dễ tàn, đâu kham nổi trên tuyết thêm sương, Đạt Ma thấy y chớp mắt tức là chuyển thân, chớ đi theo con đường, người xưa có người đi, có người ở, có người im lặng, có người nói năng, tất cả đều là Phật sự. Về sau Võ Đế, quả nhiên suy nghĩ về quân tử, tự chọn bia văn khắc thấy mà không thấy, gặp mà không gặp, nay hoặc xưa, hối hận. Trẫm tuy là kẻ phàm phu, dám bắt chước sau này, từ sau Trần Võ Đế qua đời, Đạt Ma trở về Tây, Đệ nhất nghĩa đế không có người nêu, may mà có Thiên Đồng, vì chúng nêu ra, ',
+      'Bát-nhã Đa-la từng dặn cho Đạt Ma Đại Sư rằng: Sau khi ta diệt độ, 5 ông nên đến nước Chấn Đán bày ra Đại Pháp chỉ thẳng cho bậc thượng căn, / ' +
+      'cẩn thận nhanh chóng gặp nạn nên dừng ở Lạc Dương. / ' +
+      'Lại khi ông đến Phương Nam chổ ở, người ở đó chỉ tạo công đức, không thấy đạo lý của Phật, dẫu ông đến đó, cũng không thể ở lâu, / ' +
+      'quả nhiên sự việc đất Lương qua đất Ngụy định trị năm. Thời cận đại Từ Châu pháp phó chúc cho Nhân Sơn. / ' +
+      'Nhân Sơn nói: Con không phải là người như thế. / ' +
+      'Từ Châu nói: Không phải người như thế, tự mình không bị tai ương đến. Nhân Sơn vì pháp nhũ tình thâm, cúi đầu mà nhận. / ' +
+      'Từ Châu lại nói: Ông đã như vậy. Thứ nhất không được khinh thường xuất thế, nếu nhanh chóng rời bỏ, ở giữa ắt có sự trắc trở. / ' +
+      'Ở đây cùng với Đa La 3 lần phó chúc Đa Ma năm, cả 2 là cùng một lúc. Cho nên Vân Khê làm bài tụng rằng: / ' +
+      '“Qua Thu không tiếc sương, Phật giáo mãi một vị, dù cho bắt sống được, rút cuộc không mùi thơm”, có thể cho là người răn dạy. / ' +
+      'Nếu là bản sắc đạo nhân, lúc ra đời tự biết thời tiết. Võ Đế tuy không khế hợp, bỏ qua vấn đề hỏi, / ' +
+      'không ngại bén nhọn, đến nay các nơi, khai đường bạch chùy, còn nói: “Những vị kiết xuất trong pháp hội, / ' +
+      'nên quán Đệ nhất nghĩa, chỉ như Đệ Nhất Nghĩa Đế, chấp nhận quán hay không ?” / ' +
+      'Vạn Tùng nói: Đệ nhất nghĩa hãy bỏ qua một bên, ông cần Thánh đế làm gì ? / ' +
+      'Thiên Hoàng nói: Chỉ biết phàm tình, không phân biệt thánh giải. / ' +
+      'Kinh Lăng Nghiêm nói: Nếu làm thánh giải, lập tức bị các tà, chỉ có Đạt Ma này nói: “Rỗng rang không Thánh, trong ánh sáng đá lữa sấm chớp, không ngại tai mắt làm. / ' +
+      'Võ Đế ngoan cố không thối lui”. Lại nói “người trước mắt Trẫm là ai ?”. ' +
+      'Ở nơi phần của Lương Vương cũng là tâm tốt. ' +
+      'Thật không biết, phần Đạt Ma giống như xây mặt vào vách ngã, không thoát khỏi lại vâng theo người “không biết”, / ' +
+      'chính là hoa đẹp dễ tàn, đâu kham nổi trên tuyết thêm sương, Đạt Ma thấy y chớp mắt tức là chuyển thân, / ' +
+      'chớ đi theo con đường, người xưa có người đi, có người ở, có người im lặng, có người nói năng, tất cả đều là Phật sự. / ' +
+      'Về sau Võ Đế, quả nhiên suy nghĩ về quân tử, tự chọn bia văn khắc thấy mà không thấy, gặp mà không gặp, nay hoặc xưa, hối hận. / ' +
+      'Trẫm tuy là kẻ phàm phu, dám bắt chước sau này, / ' +
+      'từ sau Trần Võ Đế qua đời, Đạt Ma trở về Tây, Đệ nhất nghĩa đế không có người nêu, may mà có Thiên Đồng, vì chúng nêu ra, ',
     verse:
-      'Rỗng rang không thánh.' +
-      'Căn cơ xa tít.' +
-      'Được chẳng trúng nhằm mũi mà quơ búa. ' +
-      '    Mất không quày đầu mà rớt vào ống bễ lò. ' +
-      '    Lặng lẽ ngồi yên tại Thiếu Lâm. ' +
-      '    Im lặng Toàn nêu lên chánh lệch. ' +
-      '    Thu trong trăng chuyển sương vần. ' +
-      '    Ban đêm sao Bắc đẩu soi cán. ' +
-      '    Y bát truyền con cháu không ngừng. ' +
-      '    Từ đó thành thuốc bệnh của trời người. ',
-    verseTranslated:  '',
-    commentAfter:
+      'Rỗng rang không thánh / ' +
+      'Căn cơ xa tít / ' +
+      'Được chẳng trúng nhằm mũi mà quơ búa / ' +
+      'Mất không quày đầu mà rớt vào ống bễ lò / ' +
+      'Lặng lẽ ngồi yên tại Thiếu Lâm / ' +
+      'Im lặng Toàn nêu lên chánh lệch / ' +
+      'Thu trong trăng chuyển sương vần / ' +
+      'Ban đêm sao Bắc đẩu soi cán / ' +
+      'Y bát truyền con cháu không ngừng / ' +
+      'Từ đó thành thuốc bệnh của trời người.',
+    commentAfterVerse:
       'Sư nói: / ' +
       '“Rỗng rang không Thánh, căn cơ xa tít”.' +
       '    Câu này do Trang Tử đưa ra, phần nhiều khác nhau, không gần nhân tình, Sơ Tổ đương thời cũng thiếu một chút phương tiện, thật không biết, thuốc không huyễn hoặc, hoa mắt, nếu không thuốc thì bệnh không lành.' +
@@ -105,7 +126,7 @@ const CongRongLu = [
       'Đông Ấn Thổ Quốc Vương, thỉnh vị tổ 2 là Bát Nhã Ba La Mật Đa thọ trai. / ' +
       'Vua hỏi: Sao ông không xem kinh ? / ' +
       'Tổ đáp: Bần đạo thở vào không ở cõi âm, thở ra không tiếp cận các duyên, thường chuyển kinh như thế, trăm ngàn vạn ức quyển',
-    commentBefore:
+    commentBeforeVerse:
       'Sư nói:' +
       'Tổ 2 ban đầu tên là Đồng Anh Lạc, nhân tổ 2 không bằng Mật Đa, giống như nước Đông Ấn giữ xe cho vua đi. / ' +
       'Sư hỏi Đồng Tử: "Ông có thể nhờ việc trước kia không ?"' +
@@ -119,29 +140,29 @@ const CongRongLu = [
       'Lão già này cũng không có tướng đại nhân, cầm hồ lô, chuôi ngựa bay lên, vua liền lễ bái, biết rất là đau đớn. / ' +
       'Vạn Tùng nói: / ' +
       'Quốc Vương tham một hạt gạo của người Tôn giả sẽ mất lương thực vạn năm, chỉ biết cầm cây sắt chọc trời, bất giác đầu óc choáng váng, như muốn đỡ dậy ngoài Thiên Đồng.',
-    verse:
+    verseOriginal:
       'Vân tê ngọan nguyệt xán hàm huy. / ' +
       'Mộc mã du xuân tuần bất ly. / ' +
       'My để nhất song hàn bích nhã. / ' +
       'Khán kinh na đáo thấu ngưu bì. ',
-    verseTranslated:
+    verse:
     '      Trâu mây giỡn nguyệt sóng miên man. / ' +
       '    Ngựa gỗ chơi Xuân chẳng buộc ràng. / ' +
       '    Dưới mày ngọc lạnh xanh đôi mắt. / ' +
       '    Nào phủy da bò mới xem kinh. ',
-    verseExtra:
+    verseExtraOriginal:
     '      Minh bạch tâm khởi khoáng kiếp. / ' +
       '    Anh hùng phá trùng vi. / ' +
       '    Diệu viên xu khẩu chuyển linh cơ. / ' +
       '    Hàn Sơn vong khước lai thời lộ. / ' +
       '    Thập Đắc tương tương huề thủ quy.',
-    verseExtraTranslated:
+    verseExtra:
     '      Rõ ràng tâm siêu muôn kiếp trống. / ' +
       '    Anh hùng ra sức phá vòng vây. / ' +
       '    Trời nhiệm lời yếu chuyển linh cơ. / ' +
       '    Hàn Sơn quên mất đường xưa lại. / ' +
       '    Thập Đắc song song nắm tay về. ',
-    commentAfter:
+    commentAfterVerse:
       'Sư nói: / ' +
       '2 câu phá đề, bài Tụng không ở cõi âm, không theo các chuyển lại Tạng giáo Pháp số, có 5 ấm, 12 xứ, 1 giới, phân làm 3 khoa, / ' +
       'Tôn giả lược nêu đầu đuôi, tóm thâu trong đó. / ' +
@@ -196,7 +217,7 @@ const CongRongLu = [
     main:
       'Thế Tôn cùng đi với đại chúng, bổng Thế Tôn lấy tay chỉ xuống đất nói: / ' +
       'Chổ này nên xây dựng một ngôi chùa, Đế Thích đem một cọng cỏ cắm trên đất nói: “Xây dựng ngôi chùa xong rồi”. Thế Tôn mỉm cười.',
-    commentBefore:
+    commentBeforeVerse:
       'Sư nói: Thế Tôn nhờ trải tóc lấp bùn, dâng hoa cúng Phật Nhiên Đăng. / ' +
       'Phật chỉ nơi trải tóc nói: Nơi này nên xây dựng một ngôi chùa. / ' +
       'Bấy giờ có Hiền Thủ Trưởng Giả. / ' +
@@ -204,8 +225,7 @@ const CongRongLu = [
       'Thiên Đồng nói: Lớn đồng, nhỏ khác. / ' +
       'Vạn Tùng nói: Tổ nghiệp của Thế Tôn chuyển cho Nhiên Đăng, lại có trưởng giả đường đầu nhận. / ' +
       'Nay phó chúc cho Thiên Đồng, cần phải khế hợp với văn',
-    verse: '',
-    verseTranslated:
+    verse:
       ' Trên đầu trăm cỏ vô biên mùa Xuân, / ' +
       ' tiện tay nắm lấy thì dùng được, / ' +
       ' thân vàng trượng sáu, / ' +
@@ -215,9 +235,7 @@ const CongRongLu = [
       ' hóa ngoại tự đến làm khách mời, / ' +
       ' gặp phải cuộc đời tuy phải đủ, / ' +
       ' nhưng mánh khóe hiềm nghi bằng người',
-    verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       'Sư nói: / ' +
       'Thiên Đồng trước đem câu tụng làm công án, sau đó phô bày nét chính khai diễn hóa phong. / ' +
       'Triệu Châu cầm cọng cỏ, dùng làm thân vang trượng sáu, Thế Tôn tất nhiên chỉ rỏ, / ' +
@@ -234,14 +252,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -252,14 +270,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
   {
@@ -267,32 +285,35 @@ const CongRongLu = [
     title: 'TẮC THỨ 7: DƯỢC SƠN THĂNG TÒA',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      ' Sư dạy đại chúng rằng: ' +
-      ' Mắt tai mũi lưỡi, đều có một khả năng lông mày ở trên Sỉ, nông, công thương đều quy về một nhiệm vụ, người ngu thường nhàn rổi, bổn phận tông sư làm sao thi hành.',
+      ' Sư dạy đại chúng rằng: / ' +
+      ' Mắt tai mũi lưỡi, đều có một khả năng lông mày ở trên Sỉ, nông, công thương đều quy về một nhiệm vụ, / ' +
+      'người ngu thường nhàn rổi, bổn phận tông sư làm sao thi hành.',
     main:
-      'Dược Sơn lâu rồi không thăng tòa. ' +
-      'Viện chủ bạch rằng: Đại chúng từ lâu muốn được Hòa Thượng chỉ dạy, thỉnh Hòa Thượng thuyết pháp cho mọi người. ' +
-      'Dược Sơn bảo đánh chuông chúng vừa nhóm họp. ' +
-      'Dược Sơn Thăng tòa im lặng hồi lâu, lại xuống tòa trở về phương trượng. ' +
-      'Viện chủ theo sau hỏi: Hòa Thượng mới hứa thuyết pháp cho mọi người, tại sao không nói một lời. Dược Sơn nói: Kinh đã có kinh sư, luận đã có luận sư, sao lại trách lão Tăng?',
-    commentBefore:
-      ' Sư nói: ' +
-      ' Đói thì ăn, khát thì uống, cho nên Tam gia ngủ thỉnh, Bồ Tát thượng đường, nữa bài kệ toàn thân.' +
-      ' Dược Sơn thăng tòa, há sợ giáo pháp sao?' +
-      ' Thiền sư Hoàng Long Nam nói: ' +
-      '   Bởi người đời này, khinh dể Phật pháp, rất nhiều muốn như Hiền phu luôn luôn khô cạn khiến cho khô cạn sau đó tưới lên mới được tốt tươi.' +
-      '   Dược Sơn lâu rồi không thăng tòa, lại không như vậy.' +
-      ' Giáo phạm nói: ' +
-      '   Một am cất chứa lưỡi sấm rền, theo lời dạy vạn tượng tự phân. Vĩnh gia nói: Lúc im lặng thì nói, nói thì im lặng, đại thì mở cửa không tắc nghẻn, tất cả đều là viện chủ si lầm.' +
-      ' Bạch nói: ' +
-      '   Đại chúng muốn thỉnh Ngài chỉ dạy, thỉnh Hòa Thượng thuyết pháp cho đại chúng trong đạo nhân nghĩa. ' +
-        ' Chủ khách chưa cho là phân ngoại. Dược Sơn bảo đánh chuông, chí thấy tín hiệu lôi đình, chúng mới vân tập, há biết so Đẩu đốt văn chương. ' +
-        ' Dược Sơn thăng tòa im lặng hồi lâu, rồi xuống tòa trở về phương trượng, một phen thần thông, không giống nho nhỏ. ' +
-      ' Viện chủ theo sau hỏi rằng:' +
-      '   Hòa Thượng hứa đến thuyết pháp cho mọi người, sao không nói lời nào?' +
-      ' Thúy Nham Chi nói: ' +
-      '   Dược Sơn xuống tòa. Viện chủ lúc đầu sợ không thể thuyết pháp cho mọi người, có thể nói nhầm lẫn ba quân.' +
-      ' Vạn Tùng nói: ' +
+      'Ngài Dược Sơn lâu rồi không thăng tòa. / ' +
+      'Viện chủ bạch rằng: Đại chúng từ lâu muốn được Hòa Thượng chỉ dạy, thỉnh Hòa Thượng thuyết pháp cho mọi người. / ' +
+      'Ngài Dược Sơn bảo đánh chuông chúng vừa nhóm họp. / ' +
+      'Ngài Dược Sơn Thăng tòa im lặng hồi lâu, lại xuống tòa trở về phương trượng. / ' +
+      'Viện chủ theo sau hỏi: Hòa Thượng mới hứa thuyết pháp cho mọi người, tại sao không nói một lời. / ' +
+      'Ngài Dược Sơn nói: Kinh đã có kinh sư, luận đã có luận sư, sao lại trách lão Tăng ?',
+    commentBeforeVerse:
+      'Sư nói: ' +
+      'Đói thì ăn, khát thì uống, cho nên Tam gia ngủ thỉnh, Bồ Tát thượng đường, nữa bài kệ toàn thân. / ' +
+      'Dược Sơn thăng tòa, há sợ giáo pháp sao ? / ' +
+      'Thiền sư Hoàng Long Nam nói: / ' +
+      'Bởi người đời này, khinh dể Phật pháp, rất nhiều muốn như Hiền phu luôn luôn khô cạn khiến cho khô cạn sau đó tưới lên mới được tốt tươi. / ' +
+      'Dược Sơn lâu rồi không thăng tòa, lại không như vậy. / ' +
+      'Giáo phạm nói: / ' +
+      'Một am cất chứa lưỡi sấm rền, theo lời dạy vạn tượng tự phân. Vĩnh gia nói: Lúc im lặng thì nói, nói thì im lặng, / ' +
+      'đại thì mở cửa không tắc nghẻn, tất cả đều là viện chủ si lầm. / ' +
+      'Bạch nói: / ' +
+      'Đại chúng muốn thỉnh Ngài chỉ dạy, thỉnh Hòa Thượng thuyết pháp cho đại chúng trong đạo nhân nghĩa. / ' +
+        ' Chủ khách chưa cho là phân ngoại. Dược Sơn bảo đánh chuông, chí thấy tín hiệu lôi đình, chúng mới vân tập, há biết so Đẩu đốt văn chương. / ' +
+        ' Dược Sơn thăng tòa im lặng hồi lâu, rồi xuống tòa trở về phương trượng, một phen thần thông, không giống nho nhỏ. / ' +
+      ' Viện chủ theo sau hỏi rằng: / ' +
+      '   Hòa Thượng hứa đến thuyết pháp cho mọi người, sao không nói lời nào ? / ' +
+      ' Thúy Nham Chi nói: / ' +
+      '   Dược Sơn xuống tòa. Viện chủ lúc đầu sợ không thể thuyết pháp cho mọi người, có thể nói nhầm lẫn ba quân. / ' +
+      ' Vạn Tùng nói: / ' +
       '   Chính vì tướng không mạnh. ' +
       ' Dược Sơn nói: ' +
       '   Kinh có kinh Sư, luận có luận sư, sao lại trách lão tăng?' +
@@ -308,15 +329,15 @@ const CongRongLu = [
       '   Trượng thất chưa lìa đã nhận chịu, buồn rầu trở về thay đổi còn thản thương, kinh sư luận sư vẫn bảo nhau, nghi rõ ràng thì tự chiêu cảm.' +
       ' Vạn Tùng nói: ' +
       '   Tạo tự dể kham, công án chưa tròn, để giải thích cho Thiên Đồng, làm sao phân biệt được? ',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' Vòi vĩnh được tiền bé nín khe' +
       ' Ngựa hay rong ruổi bóng roi tre' +
       ' Trời quang dưới trăng hạc làm tổ' +
       ' Sương lạnh thấy xương chẳng ngủ nghê',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       ' Sư nói: ' +
       '   Kinh Niết Bàn nói: “Lúc đứa bé khóc, mẹ đem lá vàng, bảo cho con vàng này, đứa con hết khóc. ' +
       ' Bài tụng này là nói muốn được chỉ dạy sao ngài không nói lời? Ngoại đạo liền lễ Phật nói:' +
@@ -342,7 +363,7 @@ const CongRongLu = [
       '    Nay thỉnh Hòa Thượng đáp thay cho một chuyển ngữ' +
       '    Bách trượng nói: Chẳng muội nhân quả. ' +
       ' Ông già ngay nơi lời nói này liền đại ngộ',
-    commentBefore:
+    commentBeforeVerse:
       ' Sư nói: ' +
       ' Thiền sư Bách Trượng Sơn Đại Trí ở Hồng Châu mỗi một lần thăng đường, thường có 1 lão già, khi nghe pháp Phật Ca-diếp đã từng trụ trì núi này, đáp sai 1 chuyển ngữ cho người học, đến nay đọa làm thân con chồn, bởi mình dựa tường dính vách, đẩy người rơi xuống hầm rớt xuống vực sâu, thấy đại trí dùng thủ đoạn nhổ đinh tháo chốt, liền bỏ theo họ, thỉnh Đại Trí cho một lời chuyển ngữ. Đại Trí thì vô úy biện, từ từ nói: Không rỏ nhân quả,' +
       '    ông già ở nơi lời nói liền tỉnh ngộ. Căn cứ vào sự thật mà luận bàn, không rơi vào nhân quả là bác bỏ không đoạn kiến, không rỏ nhân quả, là tùy dòng nước mà được sự vi diệu, người có hiểu chút giáo lý, vừa nêu ra liền hiểu, muốn cởi áo lông giống như khoác áo vẩy. Không thấy Đạo Viên Thiền sư, ở trong hội Nam Thiền sư, nghe vị Tăng nêu lời này. Một vị Tăng nói: chỉ cấp không lầm nhân quả, cũng chưa thoát khỏi thân con chồn.' +
@@ -354,8 +375,8 @@ const CongRongLu = [
       '    Sơn nói: Cũng là thọ nhận ân sủng, cũng là tự tánh tông thông.' +
       '    Quy Sơn nói: Đúng thế! Đúng thế! Xem cha con Bách Trượng kia, du hành không sợ, như sư tử vương, há hướng về hang con chồn làm công việc. ' +
       ' Xương đuôi của Vạn Tùng đã lộ ra, lại làm nanh vuốt dối Thiên Đồng.',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' Một thước nước, một trượng sóng!' +
       '    Năm trăm năm kiếp trước chẳng hề gì?' +
       '    Chẳng “lạc” chẳng “mờ” thương lượng đi.' +
@@ -364,9 +385,9 @@ const CongRongLu = [
       '    Nào ngại ta ha hả cười hoài.' +
       '    Thần ca Thánh múa thành ra khúc' +
       '    Khoảng ấy vỗ tay hát lý la.',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       ' Sư nói: ' +
       ' Lập phần nhân quả tu chứng, “một thước nước, một trượng sóng.' +
       '    Năm trăm năm kiếp trước chẳng hề gì?” Am Tích Thúy có hai vị Tăng dẫu có tài biện luận kiểm điểm trong tương lai, chưa thoát khỏi gõ vào hang rối ren. Câu này của Thiên Đồng có chữ chưa ổn, sao không nói nương vào trước gõ vào hang con chồn.' +
@@ -399,7 +420,7 @@ const CongRongLu = [
       ' Chúng không trả lời Tuyền chặt con mèo làm 2 khúc. ' +
       ' Nam Tuyền lại nêu ra câu trước hỏi Triệu Châu. Triệu Châu liền cỡi giày ra, đội ở trên đầu.' +
       ' Nam Tuyền nói: Nếu có ông, thì cứu được con mèo.',
-    commentBefore:
+    commentBeforeVerse:
       'Sư nói: ' +
       ' Thiền sư Thiên Thông Tú ở Pháp Vân, thấy 2 vị Tăng đang đứng nói, liền xuống đất dộng gậy dộng một cái nói: Mượn hình ảnh nghiệp đạo, huống gì thủ chúng đo lường đường, tranh cãi về con mèo.' +
       '    Nam Tuyền cũng không khuyến khích cho hiểu rõ, cũng không trừng phạt bản sắc đạo nhân.' +
@@ -412,9 +433,9 @@ const CongRongLu = [
       '    tội nặng, Khả công tội nhẹ, Nam Tuyền vẫn như xưa, ở trong bầy trâu, lắc đầu vẫy đuôi, không thấy Thiền sư Phật Nhật uống trà cùng đại chúng thấy con mèo đến, ném con chim bồ câu trong tay áo ra cho nó, mèo liền tha đi.' +
       '    Phật Nhật nói: Tài giải sao không thể làm giả làm hư dụng. Nam Tuyền tự nghĩ, uyên thâm qua ít người hiểu được, nêu lời ấy hỏi Triệu Châu. Châu liền cởi giày đội ở trên đầu, quả nhiên vừa đi vừa hát, nhịp điệu hài hòa.' +
       '    Nam Tuyền nói: Nếu có ông thì cứu được con mèo, chút chổ tác dụng này tuy khó lãnh hội nhưng lại để thấy, chỉ cần ông dơ muỗng đưa đũa thì thấy phá, thì thấy giết con mèo, đội giày lại việc giống nhau, nếu không thì thấy Thiên Đồng làm việc kỹ lưỡng khác sao?',
-    verse:
+    verseOriginal:
       ' ',
-    verseTranslated:
+    verse:
       'Hai nhà mây nước lắm phiền hà' +
       'Vương lão sư tăng nghiệm chánh tà' +
       'Dao bén chặt lìa đều mất dấu' +
@@ -426,9 +447,9 @@ const CongRongLu = [
       'Đến trong chỗ khác toàn soi tỏ' +
       'Dép rơm đầu đội có chi sai' +
       'Chỉ có vàng ròng chẳng lẫn sa',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       ' Sư nói: ' +
       ' Hai đường mây nước đôi chiều, đến nay chưa từng định liên can. Nếu' +
       '    không phải Thiên Đồng biết Nam Tuyền thử nghiệm tìm ra đầu mối, thường thường tà chánh không phân biệt, khi tà chánh rõ ràng thì làm sao phán đoán? Kiến bén chặt đứt chôn chung 1 hầm, chẳng những đánh dẹp tạm thời chưa rõ công án, cũng cho rằng cả thế giới mát mẻ ở phía dưới ngọn gió của thời xưa, khi ấy Nam Tuyền là thầy thắng, trò mạnh, thấy đại chúng không nói, liền nêu lên cho Triệu Châu, biểu hiện rõ trong chúng có người. Triệu Châu cởi giày đội trên đầu đi ra, qua nhiên lời này chưa mất, tri ân đáng ưa.' +
@@ -463,7 +484,7 @@ const CongRongLu = [
       '    Bà già nói: Hay nhỉ ông Sư này đi như thế. Tăng nêu ra cho Triệu Châu.' +
       '    Triệu Châu nói: Đợi đấy. Cùng xem xét qua. ' +
       ' Triệu Châu cũng hỏi như trước đến ngày thượng nói: Ta cho ông tra xét đánh bà già.',
-    commentBefore:
+    commentBeforeVerse:
       ' Sư nói: ' +
       ' Đường đến Đài Sơn có 1 bà già, thói quen tuy không ra chùa vào chùa, tham cứu nhiều về Ngài Văn Thù trước ba sau ba phàm thấy vị Tăng hỏi đường đến Đài Sơn đi về hướng nào? Thì lập tức chỉ con đường lớn ở Trường An.' +
       '    Cứ đi thẳng, vị Tăng kia không nghi ngờ liền đi.' +
@@ -477,11 +498,11 @@ const CongRongLu = [
       '    Lang Da nói: Đại Tiểu Triệu Châu đi trong tay bà già này sẽ tan thân mất mạng' +
       '    Tuy như thế, nhiều người hiểu sai lầm. Vạn Tùng nói: Rất kỵ, suy bụng ta ra bụng người' +
       '    ',
+    verseOriginal: '',
     verse: '',
-    verseTranslated: '',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       'Quy Sơn sáng suốt nói: Nạp Tăng trong Thiên hạ chỉ biết hỏi đường bà già, lại không biết chân lún bùn, nếu không có lão già Triệu Châu, tranh cải hiểu hiện được công lao chiến đấu khó nhọc tuy phải nhờ Thiên Đồng ca dương mới được, Tụng rằng: (Tuổi lớn kinh nghiệm không truyền sai. Triệu Châu Cổ Phật nối Nam Tuyền.' +
       '    Rùa già mất mạng do tranh tượng. Ngựa hiền theo gió lụy dây cương, khám được Thiền của lão già thuyết phục người trước không cần đến tiền).' +
       '    Sư nói: Quỷ mị cho là yêu thông thành tịnh, Chú dược cho là y thông thành tịnh, Thiên long cho là báo thông thành tịnh, Hiền Thánh cho là thần thông thành tịnh, Phật Tổ cho là đạo thông thành tịnh. ' +
@@ -503,14 +524,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -522,14 +543,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -541,14 +562,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -560,14 +581,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -579,14 +600,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -598,14 +619,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -617,14 +638,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -636,14 +657,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -655,14 +676,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -674,14 +695,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -693,14 +714,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -712,14 +733,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -731,14 +752,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -750,14 +771,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -769,14 +790,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -788,14 +809,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -807,14 +828,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -826,14 +847,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -845,14 +866,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -864,14 +885,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -883,14 +904,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -902,14 +923,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -921,14 +942,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -940,14 +961,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -959,14 +980,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -978,14 +999,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -997,14 +1018,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1016,14 +1037,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1035,14 +1056,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1054,14 +1075,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1073,14 +1094,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1092,14 +1113,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1111,14 +1132,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1130,14 +1151,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1149,14 +1170,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1168,14 +1189,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1187,14 +1208,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1206,14 +1227,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1225,14 +1246,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1244,14 +1265,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1263,14 +1284,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1282,14 +1303,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1301,14 +1322,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1320,14 +1341,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1339,14 +1360,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1358,14 +1379,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1377,14 +1398,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1396,14 +1417,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1415,14 +1436,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1434,14 +1455,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1453,14 +1474,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1472,14 +1493,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1491,14 +1512,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1510,14 +1531,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1529,14 +1550,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1548,14 +1569,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1567,14 +1588,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1586,14 +1607,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1605,14 +1626,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1624,14 +1645,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1643,14 +1664,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1662,14 +1683,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1681,14 +1702,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1700,14 +1721,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1719,14 +1740,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1738,14 +1759,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1757,14 +1778,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1776,14 +1797,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1795,14 +1816,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1814,14 +1835,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1833,14 +1854,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1852,14 +1873,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1871,14 +1892,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1890,14 +1911,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1909,14 +1930,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1928,14 +1949,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1947,14 +1968,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1966,14 +1987,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -1985,14 +2006,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2004,14 +2025,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2023,14 +2044,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2042,14 +2063,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2061,14 +2082,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2080,14 +2101,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2099,14 +2120,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2118,14 +2139,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2137,14 +2158,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2156,14 +2177,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2175,14 +2196,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 
@@ -2194,14 +2215,14 @@ const CongRongLu = [
       '',
     main:
       '',
-    commentBefore:
+    commentBeforeVerse:
       '',
-    verse: '',
-    verseTranslated:
+    verseOriginal: '',
+    verse:
       ' ',
+    verseExtraOriginal: '',
     verseExtra: '',
-    verseExtraTranslated: '',
-    commentAfter:
+    commentAfterVerse:
       '',
   },
 ]
