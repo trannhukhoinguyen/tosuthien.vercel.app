@@ -2130,7 +2130,7 @@ verse:
   },
   {
     id: 89,
-    title: 'TẮC THỨ 90: TAY VÀ MẮT CỦA ĐẠI BI BỒ TÁT',
+    title: 'TẮC THỨ 89: TAY VÀ MẮT CỦA ĐẠI BI BỒ TÁT',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2177,7 +2177,27 @@ verse:
     'Tung gậy chiến tranh với Thiền gia',
     verseExtra: '',
     commentAfterVerse:
-      '',
+      '“Một phiến hư không trên tình trần.” Chỉ với một câu này mà Tuyết Đậu tụng được rất là hay, tự nhiên là thấy được ý của cổ nhân. / ' +
+      '6 căn trong trẻo là cái gì vậy? Chỉ là một phiến hư minh ngưng tịch này mà thôi. Các ông không cần phải lên trời để tìm nó, cũng không cần cầu nó ở nơi người khác. / ' +
+      'Thường quang lúc nào cũng hiển hiện trước mắt chúng ta, ở ngay chỗ này đây nó cao vời vợi như thể vách đá vạn trượng, siêu việt trên ngôn ngữ và cảm thức. / ' +
+      'Pháp Nhãn viết trong bài Tụng Viên Thành Thực tính rằng, “Lý cực quên tình trần, làm sao lập luận dụng? Khắp nơi trăng sương đêm, rơi trên suối trước mặt. / ' +
+      'Quả chín nặng bầy khỉ, núi xa giống lạc đường. Ngẩng đầu còng trăng tàn, hướng tây của nhà ta”. / ' +
+      'Cho nên mới có lời nói rằng, “Tâm là căn pháp là trần, cả hai giống như vết trên gương. Khi hết cáu bụi ánh sáng hiện, tâm pháp đều quên tính tức chân”. / ' +
+      'Lại cũng có lời nói rằng, “Ở mãi trong ba gian nhà cỏ, một đạo thần quang vạn cảnh nhàn. / ' +
+      'Đừng lấy thị phi phán đoán tôi, phù sinh xuyên tạc chẳng tương quan”. / ' +
+      'Mấy bài tụng này cốt ý chỉ để cho các ông thấy được ý nghĩa của câu “ một phiến hư không trên tình trần” mà thôi. / ' +
+      '“Người trời từ đó thấy Không Sinh.” Há không biết cái tích rằng Tu Bồ Đề đang ngồi tĩnh tọa trên vách đá, chư thiên rải hoa tán thán. / ' +
+      'Tu Bồ Đề nói, “Chẳng hay người rải hoa trên không rồi tán than. Tu Bồ Đề nói, “Chẳng hay người rải hoa trên không rồi tán thán là ai đó ?” / ' +
+      'Thiên Tử nói, “Tôi là Phạm Thiên.” Tu Bồ Đề hỏi, “Tại sao ngài lại tán thán ?” / ' +
+      'Phạm Thiên nói, “Tôi kính trọng tôn giả khéo giảng Bát Nhã Ba La Mật Đa”. / ' +
+      'Tu Bồ Đề nói, “Tôi chưa từng nói một chữ về Bát nhã, tại sao ngài lại tán thán ?” / ' +
+      'Phạm Thiên nói, “Tôn giả không nói tôi cũng không nghe, đó là Bát Nhã chân thực”. / ' +
+      'Rồi lại iếp tục làm đất rung chuyển và rải hoa xuống như mưa. / ' +
+      'Nhìn xem Tu Bồ Đề mới khéo giảng Bát nhã mà chẳng cần nói gì đến thể với dụng. / ' +
+      'Nếu như các ông thấy được chỗ này ắt các ông hiểu được câu nói của Trí Môn rằng, “Sò ngậm trăng sáng,” và “con thỏ mang thai”. / ' +
+      'Tuy rằng ý của cổ nhân không ở nơi ngôn cú, song trong câu trả lời của họ mới có ý nghĩa thâm sâu làm sao, khiến cho Tuyết Đậu phải nói rằng, “Sò ngậm thỏ huyền ý thâm sâu”. / ' +
+      'Đến chỗ này “tung gậy chiến tranh với Thiền gia”. Các người học Thiền trong thiên hạ vẫn cứ tránh cái ầm ĩ, song chưa có một người nào hiểu được dù là trong mộng. / ' +
+      'Nếu muốn cùng tham Thiền với Trí Môn và Tuyết Đậu cần phải ghé mắt nhìn mới được.',
   },
 
   {

@@ -4,21 +4,24 @@ const CongRongLu = [
     title: 'TẮC THỨ 1: THẾ TÔN THĂNG TÒA',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      'Sư dạy chúng nói:' +
-      '    Đóng cửa ngủ say, tiếp bậc căn cơ thượng đẳng, sử dụng ngữ cú để chỉ bày, là phương tiện, tiếp dẫn hàng trung hạ.' +
-      '    Đâu kham lên pháp đường, cố tình huyễn hoặc mọi người, có người bên cạnh không chịu ra, cũng không làm gì được Y.',
+    'Sư dạy chúng nói: / ' +
+    'Đóng cửa ngủ say, tiếp bậc căn cơ thượng đẳng, sử dụng ngữ cú để chỉ bày, là phương tiện, tiếp dẫn hàng trung hạ. / ' +
+    'Đâu kham lên pháp đường, cố tình huyễn hoặc mọi người, có người bên cạnh không chịu ra, cũng không làm gì được y.',
     main:
-      'Một hôm Thế Tôn thăng tòa, Văn Thù bạch chùy nói: “Quán rõ pháp của pháp vương, pháp của pháp vương như thế”. Thế Tôn liền xuống tòa.',
+      'Một hôm Thế Tôn thăng tòa, Văn Thù bạch chùy nói: / ' +
+      '“Quán rõ pháp của pháp vương, pháp của pháp vương như thế”. Thế Tôn liền xuống tòa.',
     commentBefore:
       'Sư nói: ' +
-      ' Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường.' +
-      'Các vị chưa đến pháp đường, Vạn Tùng chưa ra phương trượng, nếu khi đó biết được, đã là rơi vào thứ ba thứ tư rồi.' +
-      'Tuyết Đậu nói: “Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai. ' +
-      'Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham? Xưa, Đức Thế Tôn một hôm lên pháp tòa nói: “Hãy xem rõ pháp vương pháp. Pháp vương pháp như thế!” Thế Tôn bèn xuống pháp tòa, lại cứu được một nữa, một nữa giao phó cho Thiên Đồng',
+      ' Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +
+      'Các vị chưa đến pháp đường, Vạn Tùng chưa ra phương trượng, nếu khi đó biết được, đã là rơi vào thứ 3, thứ 4 rồi. / ' +
+      'Tuyết Đậu nói: “Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai. / ' +
+      'Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham ? / ' +
+      'Xưa, Đức Thế Tôn một hôm lên pháp tòa nói: “Hãy xem rõ pháp vương pháp. Pháp vương pháp như thế !” / ' +
+      'Thế Tôn bèn xuống pháp tòa, lại cứu được một nữa, một nữa giao phó cho Thiên Đồng',
     verse:
-      'Nhất đoạn chân phong kiến dã. ' +
-      'Miên miên hóa mẫu lý cơ tuấn. ' +
-      'Cổ miên hoàm Xuân tượng. ' +
+      'Nhất đoạn chân phong kiến dã. / ' +
+      'Miên miên hóa mẫu lý cơ tuấn. / ' +
+      'Cổ miên hoàm Xuân tượng. / ' +
       'Vô nại đông quân lộ tiết hà. ',
     verseTranslated:
       'Một đoạn của nhà có thấy không?. ' +
@@ -26,11 +29,12 @@ const CongRongLu = [
       'Gấm cổ dẹt thành bao Xuân sắc. ' +
       'Ngại gì tiết lộ bởi thần Xuân. ',
     commentAfter:
-      ' Sư dạy: ' +
-      ' Thiên Đồng nói: “Một đoạn của nhà có thấy không?”. Lại là chổ Thế Tôn thăng tòa hay là một đoạn chân phong chổ Thiên Đồng nêu bài tụng là một đoạn chân phong hay là chỗ Vạn Tùng thưa thỉnh là một đoạn chân phong, như thế thì thành 3 đoạn rồi. Thế nào là một đoạn chân phong? Huống là mọi người đều có phần, cũng phải tham cho tường tận.' +
-      '    Lại nói: “Miên man trời đất (hóa mẫu) chạy thoi nhanh”. Hóa mẫu là biệt hiệu của vật tạo hóa, Đạo giáo và Nho giáo đều có tôn chỉ nơi nhất khí, hàng nhà Phật lấy nhất tâm làm căn. Khuê Phong nói: “Nguyên khí cũng do tâm tạo ra, đều được tướng phần của A-lại-gia thức thu nhiếp”. Vạn Tùng nói: Đây là Chánh tông Tào Động. Mạng mạch của Phật Tổ, then chốt nơi miệng cửa, chổ chuyển sâu xa, sợi tơ nhã ra nơi bụng, khi dùng miên mật, đâu được đồng với nhân tà, nhân không ư? Sau đây tụng Thế Tôn chứa đựng tương lai nói: “ Gấm cổ dệt thành bao Xuân sắc”. Tuy là như con một gặm gỗ bỗng thành văn, đâu thể đóng cửa đẩy xe, ra cửa cùng vết. Sau này Văn Thù phân tích ngược.' +
-      '    Lại nói: “ Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch chùy, Thế Tôn liền xuống tòa, lại đến Ca-diếp bạch chùy, liền hiện ra trăm ngàn vạn Văn Thù, cùng là thời tiết như nhau vì sao nhận, thả không đồng?' +
-      '    Ông nói: cái nào là chổ để lộ chúa Xuân, ân cần là hiểu rõ đinh hương kết, cành lá mọc mùa Xuân tự tại.',
+      'Sư dạy: / ' +
+      'Thiên Đồng nói: “Một đoạn của nhà có thấy không ?”. / ' +
+      'Lại là chổ Thế Tôn thăng tòa hay là một đoạn chân phong chổ Thiên Đồng nêu bài tụng là một đoạn chân phong hay là chỗ Vạn Tùng thưa thỉnh là một đoạn chân phong, như thế thì thành 3 đoạn rồi. Thế nào là một đoạn chân phong? Huống là mọi người đều có phần, cũng phải tham cho tường tận.' +
+      'Lại nói: “Miên man trời đất (hóa mẫu) chạy thoi nhanh”. Hóa mẫu là biệt hiệu của vật tạo hóa, Đạo giáo và Nho giáo đều có tôn chỉ nơi nhất khí, hàng nhà Phật lấy nhất tâm làm căn. Khuê Phong nói: “Nguyên khí cũng do tâm tạo ra, đều được tướng phần của A-lại-gia thức thu nhiếp”. Vạn Tùng nói: Đây là Chánh tông Tào Động. Mạng mạch của Phật Tổ, then chốt nơi miệng cửa, chổ chuyển sâu xa, sợi tơ nhã ra nơi bụng, khi dùng miên mật, đâu được đồng với nhân tà, nhân không ư? Sau đây tụng Thế Tôn chứa đựng tương lai nói: “ Gấm cổ dệt thành bao Xuân sắc”. Tuy là như con một gặm gỗ bỗng thành văn, đâu thể đóng cửa đẩy xe, ra cửa cùng vết. Sau này Văn Thù phân tích ngược.' +
+      'Lại nói: “ Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch chùy, Thế Tôn liền xuống tòa, lại đến Ca-diếp bạch chùy, liền hiện ra trăm ngàn vạn Văn Thù, cùng là thời tiết như nhau vì sao nhận, thả không đồng?' +
+      'Ông nói: cái nào là chổ để lộ chúa Xuân, ân cần là hiểu rõ đinh hương kết, cành lá mọc mùa Xuân tự tại.',
   },
   {
     id: 2,
@@ -41,26 +45,26 @@ const CongRongLu = [
       'Bóc Hòa Tam Hiến, chưa thoát khỏi hành hình, đến sáng chiếu vào người sáng, chẳng án kiếm, khách chết chủ không chết, thích hợp giả chẳng thích hợp chân, của báu quý giá không nắm được, chỉ vớ được đầu mèo chết.',
     main:
       'Lương Võ Đế hỏi Đạt Đại Ma Sư: Thế nào là Thánh Đế Đệ nhất nghĩa?' +
-      '    Đạt Ma đáp: Rỗng rang không Thánh.' +
-      '    Võ Đế hỏi: Người đối trước mặt trẫm là ai?' +
-      '    Đạt Ma đáp: Không biết' +
-      '    Đế không khế hợp, Đạt Ma bèn vượt sông đến Thiếu Lâm, xoay mặt vào tường 9 năm.',
+      'Đạt Ma đáp: Rỗng rang không Thánh.' +
+      'Võ Đế hỏi: Người đối trước mặt trẫm là ai?' +
+      'Đạt Ma đáp: Không biết' +
+      'Đế không khế hợp, Đạt Ma bèn vượt sông đến Thiếu Lâm, xoay mặt vào tường 9 năm.',
     commentBefore:
-      '    Sư nói: ' +
-      ' Bát-nhã Đa-la từng dặn cho Đạt Ma Đại Sư rằng: Sau khi ta diệt độ, 5 ông nên đến nước Chấn Đán bày ra Đại Pháp chỉ thẳng cho bậc thượng căn, cẩn thận nhanh chóng gặp nạn nên dừng ở Lạc Dương.' +
-      '    Lại khi ông đến Phương Nam chổ ở, người ở đó chỉ tạo công đức, không thấy đạo lý của Phật, dẫu ông đến đó, cũng không thể ở lâu, quả nhiên sự việc đất Lương qua đất Ngụy định trị năm. Thời cận đại Từ Châu pháp phó chúc cho Nhân Sơn.' +
-      '    Nhân Sơn nói: Con không phải là người như thế.' +
-      '    Từ Châu nói: Không phải người như thế, tự mình không bị tai ương đến. Nhân Sơn vì pháp nhũ tình thâm, cúi đầu mà nhận.' +
-      '    Từ Châu lại nói: Ông đã như vậy. Thứ nhất không được khinh thường xuất thế, nếu nhanh chóng rời bỏ, ở giữa ắt có sự trắc trở. Ở đây cùng với Đa La 3 lần phó chúc Đa Ma năm, cả 2 là cùng một lúc. Cho nên Vân Khê làm bài tụng rằng:' +
-      '    “Qua Thu không tiếc sương, Phật giáo mãi một vị, dù cho bắt sống được, rút cuộc không mùi thơm”, có thể cho là người răn dạy.' +
-      '    Nếu là bản sắc đạo nhân, lúc ra đời tự biết thời tiết. Võ Đế tuy không khế hợp, bỏ qua vấn đề hỏi, không ngại bén nhọn, đến nay các nơi, khai đường bạch chùy, còn nói: “Những vị kiết xuất trong pháp hội, nên quán Đệ nhất nghĩa, chỉ như Đệ Nhất Nghĩa Đế, chấp nhận quán hay không?”' +
-      '    Vạn Tùng nói: Đệ nhất nghĩa hãy bỏ qua một bên, ông cần Thánh đế làm gì?' +
-      '    Thiên Hoàng nói: Chỉ biết phàm tình, không phân biệt thánh giải. Kinh Lăng Nghiêm nói: Nếu làm thánh giải, lập tức bị các tà, chỉ có Đạt Ma này nói: “Rỗng rang không Thánh, trong ánh sáng đá lữa sấm chớp, không ngại tai mắt làm. Võ Đế ngoan cố không thối lui”. Lại nói “người trước mắt Trẫm là ai?” Ở nơi phần của Lương Vương cũng là tâm tốt.' +
-      '    Thật không biết, phần Đạt Ma giống như xây mặt vào vách ngã, không thoát khỏi lại vâng theo người “không biết”, chính là hoa đẹp dễ tàn, đâu kham nổi trên tuyết thêm sương, Đạt Ma thấy y chớp mắt tức là chuyển thân, chớ đi theo con đường, người xưa có người đi, có người ở, có người im lặng, có người nói năng, tất cả đều là Phật sự. Về sau Võ Đế, quả nhiên suy nghĩ về quân tử, tự chọn bia văn khắc thấy mà không thấy, gặp mà không gặp, nay hoặc xưa, hối hận. Trẫm tuy là kẻ phàm phu, dám bắt chước sau này, từ sau Trần Võ Đế qua đời, Đạt Ma trở về Tây, Đệ nhất nghĩa đế không có người nêu, may mà có Thiên Đồng, vì chúng nêu ra, ',
+      'Sư nói: ' +
+      'Bát-nhã Đa-la từng dặn cho Đạt Ma Đại Sư rằng: Sau khi ta diệt độ, 5 ông nên đến nước Chấn Đán bày ra Đại Pháp chỉ thẳng cho bậc thượng căn, cẩn thận nhanh chóng gặp nạn nên dừng ở Lạc Dương.' +
+      'Lại khi ông đến Phương Nam chổ ở, người ở đó chỉ tạo công đức, không thấy đạo lý của Phật, dẫu ông đến đó, cũng không thể ở lâu, quả nhiên sự việc đất Lương qua đất Ngụy định trị năm. Thời cận đại Từ Châu pháp phó chúc cho Nhân Sơn.' +
+      'Nhân Sơn nói: Con không phải là người như thế.' +
+      'Từ Châu nói: Không phải người như thế, tự mình không bị tai ương đến. Nhân Sơn vì pháp nhũ tình thâm, cúi đầu mà nhận.' +
+      'Từ Châu lại nói: Ông đã như vậy. Thứ nhất không được khinh thường xuất thế, nếu nhanh chóng rời bỏ, ở giữa ắt có sự trắc trở. Ở đây cùng với Đa La 3 lần phó chúc Đa Ma năm, cả 2 là cùng một lúc. Cho nên Vân Khê làm bài tụng rằng:' +
+      '“Qua Thu không tiếc sương, Phật giáo mãi một vị, dù cho bắt sống được, rút cuộc không mùi thơm”, có thể cho là người răn dạy.' +
+      'Nếu là bản sắc đạo nhân, lúc ra đời tự biết thời tiết. Võ Đế tuy không khế hợp, bỏ qua vấn đề hỏi, không ngại bén nhọn, đến nay các nơi, khai đường bạch chùy, còn nói: “Những vị kiết xuất trong pháp hội, nên quán Đệ nhất nghĩa, chỉ như Đệ Nhất Nghĩa Đế, chấp nhận quán hay không?”' +
+      'Vạn Tùng nói: Đệ nhất nghĩa hãy bỏ qua một bên, ông cần Thánh đế làm gì?' +
+      'Thiên Hoàng nói: Chỉ biết phàm tình, không phân biệt thánh giải. Kinh Lăng Nghiêm nói: Nếu làm thánh giải, lập tức bị các tà, chỉ có Đạt Ma này nói: “Rỗng rang không Thánh, trong ánh sáng đá lữa sấm chớp, không ngại tai mắt làm. Võ Đế ngoan cố không thối lui”. Lại nói “người trước mắt Trẫm là ai?” Ở nơi phần của Lương Vương cũng là tâm tốt.' +
+      'Thật không biết, phần Đạt Ma giống như xây mặt vào vách ngã, không thoát khỏi lại vâng theo người “không biết”, chính là hoa đẹp dễ tàn, đâu kham nổi trên tuyết thêm sương, Đạt Ma thấy y chớp mắt tức là chuyển thân, chớ đi theo con đường, người xưa có người đi, có người ở, có người im lặng, có người nói năng, tất cả đều là Phật sự. Về sau Võ Đế, quả nhiên suy nghĩ về quân tử, tự chọn bia văn khắc thấy mà không thấy, gặp mà không gặp, nay hoặc xưa, hối hận. Trẫm tuy là kẻ phàm phu, dám bắt chước sau này, từ sau Trần Võ Đế qua đời, Đạt Ma trở về Tây, Đệ nhất nghĩa đế không có người nêu, may mà có Thiên Đồng, vì chúng nêu ra, ',
     verse:
-    '      Rỗng rang không thánh.' +
-      '    Căn cơ xa tít.' +
-      '    Được chẳng trúng nhằm mũi mà quơ búa. ' +
+      'Rỗng rang không thánh.' +
+      'Căn cơ xa tít.' +
+      'Được chẳng trúng nhằm mũi mà quơ búa. ' +
       '    Mất không quày đầu mà rớt vào ống bễ lò. ' +
       '    Lặng lẽ ngồi yên tại Thiếu Lâm. ' +
       '    Im lặng Toàn nêu lên chánh lệch. ' +
@@ -70,8 +74,8 @@ const CongRongLu = [
       '    Từ đó thành thuốc bệnh của trời người. ',
     verseTranslated:  '',
     commentAfter:
-      '    Sư nói: ' +
-      ' “___Rỗng rang không Thánh, căn cơ xa tít___”.' +
+      'Sư nói: / ' +
+      '“Rỗng rang không Thánh, căn cơ xa tít”.' +
       '    Câu này do Trang Tử đưa ra, phần nhiều khác nhau, không gần nhân tình, Sơ Tổ đương thời cũng thiếu một chút phương tiện, thật không biết, thuốc không huyễn hoặc, hoa mắt, nếu không thuốc thì bệnh không lành.' +
       '    Lúc đầu dù cho sét đánh bên mình, mà nay đã sớm nuông chìu theo việc riêng tư, cho nên chẳng đụng vào lỗ mũi mà múa rìu.' +
       '    Đưa đám Trang Tử, ngang qua mộ của Huệ Tử, quay nhìn lại nói với người đi theo rằng:' +
@@ -94,41 +98,41 @@ const CongRongLu = [
     title: 'TẮC THỨ 3: ĐÔNG ẤN THỈNH TỔ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      ' Sư dạy chúng rằng: Kiếp trước cơ phong chưa có điềm tốt, chim rùa theo lửa, một câu “Giáo ngoại biệt truyền miệng cối mọc hoa. Hãy nói còn có phân thọ trì đọc tụng không?',
+      'Sư dạy chúng rằng: / ' +
+      'Kiếp trước cơ phong chưa có điềm tốt, chim rùa theo lửa, một câu “Giáo ngoại biệt truyền miệng cối mọc hoa. / ' +
+      'Hãy nói còn có phân thọ trì đọc tụng không?',
     main:
-      ' Đông Ấn Thổ Quốc Vương, thỉnh vị tổ 2 là Bát Nhã Ba La Mật Đa thọ trai.' +
-      '    Vua hỏi: Sao ông không xem kinh?' +
-      '    Tổ đáp: Bần đạo thở vào không ở cõi âm, thở ra không tiếp cận các duyên, thường chuyển kinh như thế, trăm ngàn vạn ức quyển',
+      'Đông Ấn Thổ Quốc Vương, thỉnh vị tổ 2 là Bát Nhã Ba La Mật Đa thọ trai. / ' +
+      'Vua hỏi: Sao ông không xem kinh ? / ' +
+      'Tổ đáp: Bần đạo thở vào không ở cõi âm, thở ra không tiếp cận các duyên, thường chuyển kinh như thế, trăm ngàn vạn ức quyển',
     commentBefore:
-      ' Sư nói:' +
-      '   Tổ 2 ban đầu tên là Đồng Anh Lạc, nhân tổ 2 không bằng Mật Đa, giống như nước Đông Ấn giữ xe cho vua đi.' +
-      ' Sư hỏi Đồng Tử: ' +
-      '   Ông có thể nhờ việc trước kia không?' +
-      ' Đồng Tử đáp: ' +
-      '   Tôi nhớ xưa kia cùng sống với Sư, Sư giảng Ma Ha Bát Nhã, con thì thọ trì kinh điển sâu xa, cùng thay nhau giáo hóa, nên đợi Sư ở đây.' +
-      ' Tổ nói với vua rằng: ' +
-      '   Đây không phải tiểu Thánh mà là ứng thân của Đại Thế Chí, vua mời lên xe đến cung điện cúng dường, cho đến mặc áo nhuộm.' +
-      ' Tổ lấy việc của Bát Nhã Tu Đa La, mệnh danh là Bát Nhã Đa La triều đại nhà Lương cho Đạt Ma là Quán Âm, Ấn Độ cho Tổ Sư là Thế Chí, chỉ có Đức Phật A Di Đà đến nay vẫn không còn.' +
-      ' Im lặng hồi lâu Sư nói: ' +
-      '   Thật là lưỡi.' +
-      ' Về sau nhờ Hoàng gia mở hội, Tôn giả làm chủ tọa, lão già này tỏ ra mê hoặc người khác, bây giờ đáng đạp nhào, dứt sự giảng nói, dù hỏi Tôn giả sao không xem kinh, thật buông không được.' +
-      ' Lão già này cũng không có tướng đại nhân, cầm hồ lô, chuôi ngựa bay lên, vua liền lễ bái, biết rất là đau đớn.' +
-      ' Vạn Tùng nói: ' +
-      '   Quốc Vương tham một hạt gạo của người Tôn giả sẽ mất lương thực vạn năm, chỉ biết cầm cây sắt chọc trời, bất giác đầu óc choáng váng, như muốn đỡ dậy ngoài Thiên Đồng.',
+      'Sư nói:' +
+      'Tổ 2 ban đầu tên là Đồng Anh Lạc, nhân tổ 2 không bằng Mật Đa, giống như nước Đông Ấn giữ xe cho vua đi. / ' +
+      'Sư hỏi Đồng Tử: "Ông có thể nhờ việc trước kia không ?"' +
+      'Đồng Tử đáp: / ' +
+      'Tôi nhớ xưa kia cùng sống với Sư, Sư giảng Ma Ha Bát Nhã, con thì thọ trì kinh điển sâu xa, cùng thay nhau giáo hóa, nên đợi Sư ở đây. / ' +
+      'Tổ nói với vua rằng: / ' +
+      'Đây không phải tiểu Thánh mà là ứng thân của Đại Thế Chí, vua mời lên xe đến cung điện cúng dường, cho đến mặc áo nhuộm. / ' +
+      'Tổ lấy việc của Bát Nhã Tu Đa La, mệnh danh là Bát Nhã Đa La triều đại nhà Lương cho Đạt Ma là Quán Âm, Ấn Độ cho Tổ Sư là Thế Chí, chỉ có Đức Phật A Di Đà đến nay vẫn không còn. / ' +
+      'Im lặng hồi lâu Sư nói: Thật là lưỡi. / ' +
+      'Về sau nhờ Hoàng gia mở hội, Tôn giả làm chủ tọa, lão già này tỏ ra mê hoặc người khác, bây giờ đáng đạp nhào, dứt sự giảng nói, dù hỏi Tôn giả sao không xem kinh, thật buông không được. / ' +
+      'Lão già này cũng không có tướng đại nhân, cầm hồ lô, chuôi ngựa bay lên, vua liền lễ bái, biết rất là đau đớn. / ' +
+      'Vạn Tùng nói: / ' +
+      'Quốc Vương tham một hạt gạo của người Tôn giả sẽ mất lương thực vạn năm, chỉ biết cầm cây sắt chọc trời, bất giác đầu óc choáng váng, như muốn đỡ dậy ngoài Thiên Đồng.',
     verse:
-      '      Vân tê ngọan nguyệt xán hàm huy. ' +
-      '    Mộc mã du xuân tuần bất ly. ' +
-      '    My để nhất song hàn bích nhã. ' +
-      '    Khán kinh na đáo thấu ngưu bì. ',
+      'Vân tê ngọan nguyệt xán hàm huy. / ' +
+      'Mộc mã du xuân tuần bất ly. / ' +
+      'My để nhất song hàn bích nhã. / ' +
+      'Khán kinh na đáo thấu ngưu bì. ',
     verseTranslated:
-    '      Trâu mây giỡn nguyệt sóng miên man. ' +
-      '    Ngựa gỗ chơi Xuân chẳng buộc ràng. ' +
-      '    Dưới mày ngọc lạnh xanh đôi mắt. ' +
+    '      Trâu mây giỡn nguyệt sóng miên man. / ' +
+      '    Ngựa gỗ chơi Xuân chẳng buộc ràng. / ' +
+      '    Dưới mày ngọc lạnh xanh đôi mắt. / ' +
       '    Nào phủy da bò mới xem kinh. ',
     verseExtra:
     '      Minh bạch tâm khởi khoáng kiếp. ' +
       '    Anh hùng phá trùng vi. ' +
-      '    Diệu viên xu khẩu chuyển linh cơ. ' +
+      '    Diệu viên xu khẩu chuyển linh cơ. / ' +
       '    Hàn Sơn vong khước lai thời lộ. ' +
       '    Thập Đắc tương tương huề thủ quy.',
     verseExtraTranslated:
@@ -155,16 +159,16 @@ const CongRongLu = [
       'Tôn giả không gật đầu mà đi trước, chưa vặn mà tự xoay, bên này bên kia không thể không thể. ' +
       'Thiên Đồng rẻ các lựa vàng, phân tinh bẻ 2, phán xét hết, 2 câu sau lại vừa nói, lúc Hàn Sơn quên đường về, Thập Đắc dắt tay trở về, Đây là bài tụng Quốc Diên Hải chúng dùi giấy qua cửa sổ, Tôn giả Lão Bà lược nêu, Câu Liêm trở về Nhủ Yên, không chỉ đưa ra Si Đăng, dùng thơ Hàn Sơn, như tiết tấu phù hợp. ' +
       'Thơ ghi: “Muốn có nơi yên thân, Hàn Sơn có thể giữ lâu, gió nhẹ thổi cây tùng lay gần nghe càng thích, ở dưới có người già, Hoàng Lão đọc lẩm nhẫm, 10 năm về không được, quên mất lối nẽo về Lư khưu tìm hỏi sau này dẫn tay cùng Thập' +
-      '    Đắc ra cửa tùng lại không trở về chùa”.' +
-      '    Có bản ghi: “Hoàng Lão đọc lẩm nhẫm, bài tụng nói yếu chết quên về chỉ đường cho người mê”. ' +
+      'Đắc ra cửa tùng lại không trở về chùa”.' +
+      'Có bản ghi: “Hoàng Lão đọc lẩm nhẫm, bài tụng nói yếu chết quên về chỉ đường cho người mê”. ' +
       'Về sau Hoàng đế Trang Tông đời Đường, thỉnh Thiền sư Hưu Tỉnh ở Hoa Nghiêm vào cung thọ trai, Đại sư Đại đức đều xem kinh, chỉ một mình Sư im lặng.' +
-      '    Hoàng Đế hỏi: Sao Sư không xem kinh?' +
-      '    Tỉnh đáp: Nói yên bình mà không truyền lệnh cho Thiền Tử, lúc Thanh Hưu xướng bài ca Thái Bình.' +
-      '    Hoàng Đế nói: Một mình Sư không xem thì được, đồ chúng sao cũng không xem.' +
-      '    Tỉnh đáp: Trong hàng không có thú (….), chổ vi chúa đi không để lại dấu vết:' +
-      '    Vua hỏi: Đại Sư đại đức vì sao xem hết? ' +
+      'Hoàng Đế hỏi: Sao Sư không xem kinh?' +
+      'Tỉnh đáp: Nói yên bình mà không truyền lệnh cho Thiền Tử, lúc Thanh Hưu xướng bài ca Thái Bình.' +
+      'Hoàng Đế nói: Một mình Sư không xem thì được, đồ chúng sao cũng không xem.' +
+      'Tỉnh đáp: Trong hàng không có thú, chỗ vi chúa đi không để lại dấu vết:' +
+      'Vua hỏi: Đại Sư đại đức vì sao xem hết ? / ' +
       'Tỉnh đáp: Sứa nuốt vốn không có mắt, tìm cầu thức ăn phải nhờ vào tôm tép, Hoàng Đế rất vui vẻ, huống gì Tổ sư Tôn Giả từ kiếp xa xưa đến nay, hiện là Đại Thế Chí tụng rất nhiều Tu Đa La, nhân đây Sư được gọi là Bát Nhã Đa La. Vốn là tập khí xưa nay không thể từ bỏ.' +
-      '    Biếu Kinh Hoa Nghiêm cho người khác lại có nạp tăng lãnh hội, Vạn Tùng đến đây bất giác bậc cười. ' +
+      'Biếu Kinh Hoa Nghiêm cho người khác lại có nạp tăng lãnh hội, Vạn Tùng đến đây bất giác bậc cười. ' +
       'Hãy nói: Cười cái gì? Chổ La Hán Vân Cư vẫy tay áo là khi xấy lửa mở miệng bình trà.',
   },
   {
@@ -172,34 +176,39 @@ const CongRongLu = [
     title: 'TẮC THỨ 4: THẾ TÔN CHỈ XUỐNG ĐẤT',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      'Dạy đại chúng rằng: Một trần vừa khởi, thấu hết đại địa, một mình lẻ loi, khai mở đất đai, lại có thể tùy theo nơi mà làm chủ, gặp duyên tức tông chỉ là người thế nào?',
+      'Sư dạy đại chúng rằng: / ' +
+      'Một trần vừa khởi, thấu hết đại địa, một mình lẻ loi, khai mở đất đai, lại có thể tùy theo nơi mà làm chủ, gặp duyên tức tông chỉ là người thế nào ?',
     main:
-      'Thế Tôn cùng đi với đại chúng, bổng Thế Tôn lấy tay chỉ xuống đất nói: Chổ này nên xây dựng một ngôi chùa, Đế Thích đem một cọng cỏ cắm trên đất nói: “Xây dựng ngôi chùa xong rồi”. Thế Tôn mỉm cười.',
+      'Thế Tôn cùng đi với đại chúng, bổng Thế Tôn lấy tay chỉ xuống đất nói: / ' +
+      'Chổ này nên xây dựng một ngôi chùa, Đế Thích đem một cọng cỏ cắm trên đất nói: “Xây dựng ngôi chùa xong rồi”. Thế Tôn mỉm cười.',
     commentBefore:
-      'Sư nói: Thế Tôn nhờ trải tóc lấp bùn, dâng hoa cúng Phật Nhiên Đăng. ' +
-      'Phật chỉ nơi trải tóc nói: Nơi này nên xây dựng một ngôi chùa. ' +
-      'Bấy giờ có Hiền Thủ Trưởng Giả. ' +
-      'Cắm cọc nơi ấy nói rằng: Xây dựng chùa đã xong, Chư Thiên rải hoa, tán thán thứ tự có trí tuệ lớn.' +
-      'Thiên Đồng nói: Lớn đồng, nhỏ khác.' +
-      'Vạn Tùng nói: Tổ nghiệp của Thế Tôn chuyển cho Nhiên Đăng, lại có trưởng giả đường đầu nhận.' +
+      'Sư nói: Thế Tôn nhờ trải tóc lấp bùn, dâng hoa cúng Phật Nhiên Đăng. / ' +
+      'Phật chỉ nơi trải tóc nói: Nơi này nên xây dựng một ngôi chùa. / ' +
+      'Bấy giờ có Hiền Thủ Trưởng Giả. / ' +
+      'Cắm cọc nơi ấy nói rằng: Xây dựng chùa đã xong, Chư Thiên rải hoa, tán thán thứ tự có trí tuệ lớn. / ' +
+      'Thiên Đồng nói: Lớn đồng, nhỏ khác. / ' +
+      'Vạn Tùng nói: Tổ nghiệp của Thế Tôn chuyển cho Nhiên Đăng, lại có trưởng giả đường đầu nhận. / ' +
       'Nay phó chúc cho Thiên Đồng, cần phải khế hợp với văn',
     verse: '',
     verseTranslated:
-      ' Trên đầu trăm cỏ vô biên mùa Xuân, ' +
-      ' tiện tay nắm lấy thì dùng được, ' +
-      ' thân vàng trượng sáu, ' +
-      ' công đức tụ lại đợi nhàn rổi, ' +
-      ' nắm tay vào hồng trần ở trong trần, ' +
-      ' cảnh có thể làm chủ, ' +
-      ' hóa ngoại tự đến làm khách mời, ' +
-      ' gặp phải cuộc đời tuy phải đủ, ' +
+      ' Trên đầu trăm cỏ vô biên mùa Xuân, / ' +
+      ' tiện tay nắm lấy thì dùng được, / ' +
+      ' thân vàng trượng sáu, / ' +
+      ' công đức tụ lại đợi nhàn rổi, / ' +
+      ' nắm tay vào hồng trần ở trong trần, / ' +
+      ' cảnh có thể làm chủ, / ' +
+      ' hóa ngoại tự đến làm khách mời, / ' +
+      ' gặp phải cuộc đời tuy phải đủ, / ' +
       ' nhưng mánh khóe hiềm nghi bằng người',
     verseExtra: '',
     verseExtraTranslated: '',
     commentAfter:
-      'Sư nói: Thiên Đồng trước đem câu tụng làm công án, sau đó phô bày nét chính khai diễn hóa phong.' +
-      'Triệu Châu cầm cọng cỏ, dùng làm thân vang trượng sáu, Thế Tôn tất nhiên chỉ rỏ, Đế Thích tiện tay nắm lấy Thiên Đồng người cảnh giao thoa Tụng: “Chẳng phải chỉ có cổ thánh, ông lập tức ở trong trần cảnh này làm chủ, hóa ngoại cũng là chủ khách”.' +
-      'Hãy nói: Lưu phò mã ăn chơi, xây dựng viện Báo An này, cùng Đế Thích cắm cọng cỏ, giống hay khác?' +
+      'Sư nói: / ' +
+      'Thiên Đồng trước đem câu tụng làm công án, sau đó phô bày nét chính khai diễn hóa phong. / ' +
+      'Triệu Châu cầm cọng cỏ, dùng làm thân vang trượng sáu, Thế Tôn tất nhiên chỉ rỏ, / ' +
+      'Đế Thích tiện tay nắm lấy Thiên Đồng người cảnh giao thoa Tụng: / ' +
+      '“Chẳng phải chỉ có cổ thánh, ông lập tức ở trong trần cảnh này làm chủ, hóa ngoại cũng là chủ khách”. / ' +
+      'Hãy nói: Lưu phò mã ăn chơi, xây dựng viện Báo An này, cùng Đế Thích cắm cọng cỏ, giống hay khác ? / ' +
       'Sư dựng phất trần nói: Ngàn năm thường trụ nhất Triêu Tăng.',
   },
   {
