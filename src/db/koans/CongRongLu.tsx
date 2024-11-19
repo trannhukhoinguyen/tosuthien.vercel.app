@@ -14,20 +14,20 @@ const CongRongLu = [
       'Sư nói: ' +
       ' Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +
       'Các vị chưa đến pháp đường, Vạn Tùng chưa ra phương trượng, nếu khi đó biết được, đã là rơi vào thứ 3, thứ 4 rồi. / ' +
-      'Tuyết Đậu nói: “Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai. / ' +
+      'Tuyết Đậu nói: “Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai". / ' +
       'Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham ? / ' +
       'Xưa, Đức Thế Tôn một hôm lên pháp tòa nói: “Hãy xem rõ pháp vương pháp. Pháp vương pháp như thế !” / ' +
-      'Thế Tôn bèn xuống pháp tòa, lại cứu được một nữa, một nữa giao phó cho Thiên Đồng',
+      'Thế Tôn bèn xuống pháp tòa, lại cứu được một nữa, một nữa giao phó cho Thiên Đồng.',
     verseOriginal:
-      'Nhất đoạn chân phong kiến dã. / ' +
+      'Nhất đoạn chân phong kiến dã / ' +
       'Miên miên hóa mẫu lý cơ tuấn. / ' +
-      'Cổ miên hoàm Xuân tượng. / ' +
-      'Vô nại đông quân lộ tiết hà. ',
+      'Cổ miên hoàm Xuân tượng / ' +
+      'Vô nại đông quân lộ tiết hà ',
     verse:
-      'Một đoạn của nhà có thấy không?. / ' +
-      'Miên man trời đất chạy thoi nhanh. / ' +
-      'Gấm cổ dẹt thành bao Xuân sắc. / ' +
-      'Ngại gì tiết lộ bởi thần Xuân. ',
+      'Một đoạn của nhà có thấy không ? / ' +
+      'Miên man trời đất chạy thoi nhanh / ' +
+      'Gấm cổ dẹt thành bao Xuân sắc / ' +
+      'Ngại gì tiết lộ bởi thần Xuân',
     commentAfterVerse:
       'Sư dạy: / ' +
       'Thiên Đồng nói: “Một đoạn của nhà có thấy không ?”. / ' +
@@ -36,12 +36,10 @@ const CongRongLu = [
       'Lại nói: “Miên man trời đất (hóa mẫu) chạy thoi nhanh”. / ' +
       'Hóa mẫu là biệt hiệu của vật tạo hóa, Đạo giáo và Nho giáo đều có tôn chỉ nơi nhất khí, hàng nhà Phật lấy nhất tâm làm căn. / ' +
       'Khuê Phong nói: “Nguyên khí cũng do tâm tạo ra, đều được tướng phần của A-lại-gia thức thu nhiếp”. / ' +
-      'Vạn Tùng nói: Đây là Chánh tông Tào Động. / ' +
-      'Mạng mạch của Phật Tổ, then chốt nơi miệng cửa, chổ chuyển sâu xa, sợi tơ nhã ra nơi bụng, khi dùng miên mật, đâu được đồng với nhân tà, nhân không ư ? / ' +
-      'Sau đây tụng Thế Tôn chứa đựng tương lai nói: “ Gấm cổ dệt thành bao Xuân sắc”. / ' +
+      'Vạn Tùng nói: Đây là Chánh tông Tào Động. Mạng mạch của Phật Tổ, then chốt nơi miệng cửa, chổ chuyển sâu xa, sợi tơ nhã ra nơi bụng, khi dùng miên mật, đâu được đồng với nhân tà, nhân không ư ? / ' +
+      'Sau đây tụng Thế Tôn chứa đựng tương lai nói: “Gấm cổ dệt thành bao xuân sắc”. / ' +
       'Tuy là như con một gặm gỗ bỗng thành văn, đâu thể đóng cửa đẩy xe, ra cửa cùng vết. Sau này Văn Thù phân tích ngược. / ' +
-      'Lại nói: “ Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch chùy, Thế Tôn liền xuống tòa, lại đến Ca-diếp bạch chùy, / ' +
-      'liền hiện ra trăm ngàn vạn Văn Thù, cùng là thời tiết như nhau vì sao nhận, thả không đồng ? / ' +
+      'Lại nói: “Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch chùy, Thế Tôn liền xuống tòa, lại đến Ca-diếp bạch chùy, liền hiện ra trăm ngàn vạn Văn Thù, cùng là thời tiết như nhau vì sao nhận, thả không đồng ? / ' +
       'Ông nói: cái nào là chổ để lộ chúa Xuân, ân cần là hiểu rõ đinh hương kết, cành lá mọc mùa Xuân tự tại.',
   },
   {
@@ -49,9 +47,8 @@ const CongRongLu = [
     title: 'TẮC THỨ 2: RỖNG RANG KHÔNG THÁNH',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      'Sư dạy chúng nói:' +
-      'Bóc Hòa Tam Hiến, chưa thoát khỏi hành hình, đến sáng chiếu vào người sáng, chẳng án kiếm, khách chết chủ không chết, / ' +
-      'thích hợp giả chẳng thích hợp chân, của báu quý giá không nắm được, chỉ vớ được đầu mèo chết.',
+      'Sư dạy chúng nói: / ' +
+      'Bóc Hòa Tam Hiến, chưa thoát khỏi hành hình, đến sáng chiếu vào người sáng, chẳng án kiếm, khách chết chủ không chết, thích hợp giả chẳng thích hợp chân, của báu quý giá không nắm được, chỉ vớ được đầu mèo chết.',
     main:
       'Lương Võ Đế hỏi Đạt Đại Ma Sư: Thế nào là Thánh Đế Đệ nhất nghĩa ? / ' +
       'Đạt Ma đáp: Rỗng rang không Thánh. / ' +
@@ -59,7 +56,7 @@ const CongRongLu = [
       'Đạt Ma đáp: Không biết / ' +
       'Đế không khế hợp, Đạt Ma bèn vượt sông đến Thiếu Lâm, xoay mặt vào tường 9 năm.',
     commentBeforeVerse:
-      'Sư nói: ' +
+      'Sư nói: / ' +
       'Bát-nhã Đa-la từng dặn cho Đạt Ma Đại Sư rằng: Sau khi ta diệt độ, 5 ông nên đến nước Chấn Đán bày ra Đại Pháp chỉ thẳng cho bậc thượng căn, / ' +
       'cẩn thận nhanh chóng gặp nạn nên dừng ở Lạc Dương. / ' +
       'Lại khi ông đến Phương Nam chổ ở, người ở đó chỉ tạo công đức, không thấy đạo lý của Phật, dẫu ông đến đó, cũng không thể ở lâu, / ' +
@@ -70,8 +67,8 @@ const CongRongLu = [
       'Ở đây cùng với Đa La 3 lần phó chúc Đa Ma năm, cả 2 là cùng một lúc. Cho nên Vân Khê làm bài tụng rằng: / ' +
       '“Qua Thu không tiếc sương, Phật giáo mãi một vị, dù cho bắt sống được, rút cuộc không mùi thơm”, có thể cho là người răn dạy. / ' +
       'Nếu là bản sắc đạo nhân, lúc ra đời tự biết thời tiết. Võ Đế tuy không khế hợp, bỏ qua vấn đề hỏi, / ' +
-      'không ngại bén nhọn, đến nay các nơi, khai đường bạch chùy, còn nói: “Những vị kiết xuất trong pháp hội, / ' +
-      'nên quán Đệ nhất nghĩa, chỉ như Đệ Nhất Nghĩa Đế, chấp nhận quán hay không ?” / ' +
+      'không ngại bén nhọn, đến nay các nơi, khai đường bạch chùy, còn nói: / ' +
+      '“Những vị kiết xuất trong pháp hội, nên quán Đệ nhất nghĩa, chỉ như Đệ Nhất Nghĩa Đế, chấp nhận quán hay không ?” / ' +
       'Vạn Tùng nói: Đệ nhất nghĩa hãy bỏ qua một bên, ông cần Thánh đế làm gì ? / ' +
       'Thiên Hoàng nói: Chỉ biết phàm tình, không phân biệt thánh giải. / ' +
       'Kinh Lăng Nghiêm nói: Nếu làm thánh giải, lập tức bị các tà, chỉ có Đạt Ma này nói: “Rỗng rang không Thánh, trong ánh sáng đá lữa sấm chớp, không ngại tai mắt làm. / ' +
