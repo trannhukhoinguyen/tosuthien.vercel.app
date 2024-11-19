@@ -130,45 +130,60 @@ const CongRongLu = [
       '    Dưới mày ngọc lạnh xanh đôi mắt. / ' +
       '    Nào phủy da bò mới xem kinh. ',
     verseExtra:
-    '      Minh bạch tâm khởi khoáng kiếp. ' +
-      '    Anh hùng phá trùng vi. ' +
+    '      Minh bạch tâm khởi khoáng kiếp. / ' +
+      '    Anh hùng phá trùng vi. / ' +
       '    Diệu viên xu khẩu chuyển linh cơ. / ' +
-      '    Hàn Sơn vong khước lai thời lộ. ' +
+      '    Hàn Sơn vong khước lai thời lộ. / ' +
       '    Thập Đắc tương tương huề thủ quy.',
     verseExtraTranslated:
-    '      Rõ ràng tâm siêu muôn kiếp trống. ' +
-      '    Anh hùng ra sức phá vòng vây. ' +
-      '    Trời nhiệm lời yếu chuyển linh cơ. ' +
-      '    Hàn Sơn quên mất đường xưa lại. ' +
+    '      Rõ ràng tâm siêu muôn kiếp trống. / ' +
+      '    Anh hùng ra sức phá vòng vây. / ' +
+      '    Trời nhiệm lời yếu chuyển linh cơ. / ' +
+      '    Hàn Sơn quên mất đường xưa lại. / ' +
       '    Thập Đắc song song nắm tay về. ',
     commentAfter:
-      ' Sư nói: ' +
-      ' 2 câu phá đề, bài Tụng không ở cõi âm, không theo các chuyển lại Tạng giáo Pháp số, có 5 ấm, 12 xứ, 1 giới, phân làm 3 khoa, Tôn giả lược nêu đầu đuôi, tóm thâu trong đó.' +
-      '    Phạm ngữ là An Na Bát Na, Hán dịch là xuất tức nhập tức pháp kia có : 1) sổ, 2) tùy, 3) chỉ, 0 quán, 5) hoàn, ) tịnh. ' +
-      '    Đầy đủ như chỉ quán Thiên Thai, rỏ ràng người thông minh biết hết, Quy Sơn cảnh sách nói giáo lý chưa từng để trong lòng, huyền đạo không nhân khế ngộ luận Bảo Tạng có thể tiếc, của báu vô giá, ẩn nơi hang ấm nhập, lúc nào thì được linh quang sáng soi thoát khỏi căn trần, Thiên Đồng Vân dạo chơi với mặt trăng chiếu sáng rực rở, thơ xưa có Tê nhờ đạo chơi trăng mà vằn mọc sừng, thật đáng tiếc ngôn ngữ tính ra theo văn mới tình tư, ngựa gổ dạo chơi xuân chẳng buộc ràng. Đây là tụng ra vào không liên quan đến các duyên, có thể nói Thiện hạnh không để dấu vết. Dưới mày ngọc lạnh xanh đôi mắt.' +
-      '    Lạc Phó nói: Chỉ rõ pháp nhãn của mình là chưa rõ, người này phỉ đủ, nếu muốn có con mắt Viên minh chỉ trừ bỏ ở cõi âm liên quan đến các duyên trong rừng không có bóng, trăng trời treo cao không nảy trên cành, thiếu ánh sáng không phân biệt mùa Xuân, mùa Thu mới được, xem kinh đâu đến thủng da trâu.' +
-      '    Trường Khánh nói: Mắt có lỗi gì? ' +
-      'Kinh Lăng Nghiêm nói: Nay ông xem kỷ Thánh chúng trong hội này, dùng mắt theo dõi, mắt ấy thấy khắp, chỉ như trong gương không có phân biệt, ở đây sai lầm.' +
-      '    Dược Sơn nói: Da bò cũng phải lũng.' +
-      '    Vạn Tùng nói: Lại đủ Kim Cang Nhãn, rõ ràng tâm vượt qua nhiều kiếp.' +
-      '    Tam Tổ nói: Nhưng không có ghét thương bổng nhiên rõ ràng, một niệm vạn năm, thọ trì không hết.' +
-      '    Lộc Môn nói: Khắp đại địa là 1 quyển kinh của học nhân, hết thảy càn khôn là con mắt trí tuệ chân thật của học nhân, dùng con mắt này, đọc kinh như thế, ngàn vạn ức kiếp thường không gián đoạn.' +
-      '    Vạn Tùng nói: Xem đọc không dể, sức anh hùng phá lớp vây, về sau Hán Vương chạy đến Đế Vương, Tầm Vương Ấp đến Côn Dương, vây Quang Vỏ vài mươi lớp Quang Vỏ binh yếu mà muốn đầu hàng Tầm Ấp, Ấp không chịu, Quang Vỏ mới cũng cố các tướng, xuất binh đánh chiến. ' +
-      'Tầm Ấp đại bại, Tôn Giả văn vỏ song toàn, xuất tướng nhập tướng, cõi âm các duyên, không chỉ là lớp vây. “Diệu Viên Xu khẩu chuyển linh cơ”, gọi là chốt cửa cổ Nhĩ Nhũ.' +
-      '    Quách Phát Như nói: Cánh cửa là xu, nước chảy không nhục cánh cửa giữa không có một, nói đó là sống. ' +
-      'Tôn giả không gật đầu mà đi trước, chưa vặn mà tự xoay, bên này bên kia không thể không thể. ' +
-      'Thiên Đồng rẻ các lựa vàng, phân tinh bẻ 2, phán xét hết, 2 câu sau lại vừa nói, lúc Hàn Sơn quên đường về, Thập Đắc dắt tay trở về, Đây là bài tụng Quốc Diên Hải chúng dùi giấy qua cửa sổ, Tôn giả Lão Bà lược nêu, Câu Liêm trở về Nhủ Yên, không chỉ đưa ra Si Đăng, dùng thơ Hàn Sơn, như tiết tấu phù hợp. ' +
-      'Thơ ghi: “Muốn có nơi yên thân, Hàn Sơn có thể giữ lâu, gió nhẹ thổi cây tùng lay gần nghe càng thích, ở dưới có người già, Hoàng Lão đọc lẩm nhẫm, 10 năm về không được, quên mất lối nẽo về Lư khưu tìm hỏi sau này dẫn tay cùng Thập' +
-      'Đắc ra cửa tùng lại không trở về chùa”.' +
-      'Có bản ghi: “Hoàng Lão đọc lẩm nhẫm, bài tụng nói yếu chết quên về chỉ đường cho người mê”. ' +
-      'Về sau Hoàng đế Trang Tông đời Đường, thỉnh Thiền sư Hưu Tỉnh ở Hoa Nghiêm vào cung thọ trai, Đại sư Đại đức đều xem kinh, chỉ một mình Sư im lặng.' +
-      'Hoàng Đế hỏi: Sao Sư không xem kinh?' +
-      'Tỉnh đáp: Nói yên bình mà không truyền lệnh cho Thiền Tử, lúc Thanh Hưu xướng bài ca Thái Bình.' +
-      'Hoàng Đế nói: Một mình Sư không xem thì được, đồ chúng sao cũng không xem.' +
-      'Tỉnh đáp: Trong hàng không có thú, chỗ vi chúa đi không để lại dấu vết:' +
+      'Sư nói: / ' +
+      '2 câu phá đề, bài Tụng không ở cõi âm, không theo các chuyển lại Tạng giáo Pháp số, có 5 ấm, 12 xứ, 1 giới, phân làm 3 khoa, / ' +
+      'Tôn giả lược nêu đầu đuôi, tóm thâu trong đó. / ' +
+      'Phạm ngữ là An Na Bát Na, Hán dịch là xuất tức nhập tức pháp kia có : 1) sổ, 2) tùy, 3) chỉ, 0 quán, 5) hoàn, ) tịnh. / ' +
+      'Đầy đủ như chỉ quán Thiên Thai, rỏ ràng người thông minh biết hết, Quy Sơn cảnh sách nói giáo lý chưa từng để trong lòng, / ' +
+      'huyền đạo không nhân khế ngộ luận Bảo Tạng có thể tiếc, của báu vô giá, ẩn nơi hang ấm nhập, / ' +
+      'lúc nào thì được linh quang sáng soi thoát khỏi căn trần, Thiên Đồng Vân dạo chơi với mặt trăng chiếu sáng rực rỡ, / ' +
+      'thơ xưa có Tê nhờ đạo chơi trăng mà vằn mọc sừng, thật đáng tiếc ngôn ngữ tính ra theo văn mới tình tư, / ' +
+      'ngựa gỗ dạo chơi xuân chẳng buộc ràng. Đây là tụng ra vào không liên quan đến các duyên, / ' +
+      'có thể nói Thiện hạnh không để dấu vết. Dưới mày ngọc lạnh xanh đôi mắt. / ' +
+      'Lạc Phó nói: Chỉ rõ pháp nhãn của mình là chưa rõ, người này phỉ đủ, / ' +
+      'nếu muốn có con mắt Viên minh chỉ trừ bỏ ở cõi âm liên quan đến các duyên trong rừng không có bóng, / ' +
+      'trăng trời treo cao không nảy trên cành, thiếu ánh sáng không phân biệt mùa Xuân, mùa Thu mới được, xem kinh đâu đến thủng da trâu. / ' +
+      'Trường Khánh nói: Mắt có lỗi gì ? / ' +
+      'Kinh Lăng Nghiêm nói: Nay ông xem kỷ Thánh chúng trong hội này, dùng mắt theo dõi, mắt ấy thấy khắp, chỉ như trong gương không có phân biệt, ở đây sai lầm. / ' +
+      '    Dược Sơn nói: Da bò cũng phải lũng. / ' +
+      '    Vạn Tùng nói: Lại đủ Kim Cang Nhãn, rõ ràng tâm vượt qua nhiều kiếp. / ' +
+      '    Tam Tổ nói: Nhưng không có ghét thương bổng nhiên rõ ràng, một niệm vạn năm, thọ trì không hết. / ' +
+      '    Lộc Môn nói: Khắp đại địa là 1 quyển kinh của học nhân, hết thảy càn khôn là con mắt trí tuệ chân thật của học nhân, / ' +
+      'dùng con mắt này, đọc kinh như thế, ngàn vạn ức kiếp thường không gián đoạn. / ' +
+      '    Vạn Tùng nói: Xem đọc không dể, sức anh hùng phá lớp vây, về sau Hán Vương chạy đến Đế Vương, Tầm Vương Ấp đến Côn Dương, / ' +
+      'vây Quang Vỏ vài mươi lớp Quang Vỏ binh yếu mà muốn đầu hàng Tầm Ấp, Ấp không chịu, Quang Vỏ mới cũng cố các tướng, xuất binh đánh chiến. / ' +
+      'Tầm Ấp đại bại, Tôn Giả văn vỏ song toàn, xuất tướng nhập tướng, cõi âm các duyên, không chỉ là lớp vây. / ' +
+      '“Diệu Viên Xu khẩu chuyển linh cơ”, gọi là chốt cửa cổ Nhĩ Nhũ. / ' +
+      '    Quách Phát Như nói: Cánh cửa là xu, nước chảy không nhục cánh cửa giữa không có một, nói đó là sống. / ' +
+      'Tôn giả không gật đầu mà đi trước, chưa vặn mà tự xoay, bên này bên kia không thể không thể. / ' +
+      'Thiên Đồng rẻ các lựa vàng, phân tinh bẻ 2, phán xét hết, 2 câu sau lại vừa nói, lúc Hàn Sơn quên đường về, / ' +
+      'Thập Đắc dắt tay trở về, Đây là bài tụng Quốc Diên Hải chúng dùi giấy qua cửa sổ, Tôn giả Lão Bà lược nêu, / ' +
+      'Câu Liêm trở về Nhủ Yên, không chỉ đưa ra Si Đăng, dùng thơ Hàn Sơn, như tiết tấu phù hợp. / ' +
+      'Thơ ghi: “Muốn có nơi yên thân, Hàn Sơn có thể giữ lâu, gió nhẹ thổi cây tùng lay gần nghe càng thích, ở dưới có người già, / ' +
+      'Hoàng Lão đọc lẩm nhẫm, 10 năm về không được, quên mất lối nẽo về Lư khưu tìm hỏi sau này dẫn tay cùng Thập / ' +
+      'Đắc ra cửa tùng lại không trở về chùa”. / ' +
+      'Có bản ghi: “Hoàng Lão đọc lẩm nhẫm, bài tụng nói yếu chết quên về chỉ đường cho người mê”. / ' +
+      'Về sau Hoàng đế Trang Tông đời Đường, thỉnh Thiền sư Hưu Tỉnh ở Hoa Nghiêm vào cung thọ trai, Đại sư Đại đức đều xem kinh, chỉ một mình Sư im lặng. / ' +
+      'Hoàng Đế hỏi: Sao Sư không xem kinh ? / ' +
+      'Tỉnh đáp: Nói yên bình mà không truyền lệnh cho Thiền Tử, lúc Thanh Hưu xướng bài ca Thái Bình. / ' +
+      'Hoàng Đế nói: Một mình Sư không xem thì được, đồ chúng sao cũng không xem. / ' +
+      'Tỉnh đáp: Trong hàng không có thú, chỗ vi chúa đi không để lại dấu vết: / ' +
       'Vua hỏi: Đại Sư đại đức vì sao xem hết ? / ' +
-      'Tỉnh đáp: Sứa nuốt vốn không có mắt, tìm cầu thức ăn phải nhờ vào tôm tép, Hoàng Đế rất vui vẻ, huống gì Tổ sư Tôn Giả từ kiếp xa xưa đến nay, hiện là Đại Thế Chí tụng rất nhiều Tu Đa La, nhân đây Sư được gọi là Bát Nhã Đa La. Vốn là tập khí xưa nay không thể từ bỏ.' +
-      'Biếu Kinh Hoa Nghiêm cho người khác lại có nạp tăng lãnh hội, Vạn Tùng đến đây bất giác bậc cười. ' +
+      'Tỉnh đáp: Sứa nuốt vốn không có mắt, tìm cầu thức ăn phải nhờ vào tôm tép, Hoàng Đế rất vui vẻ, huống gì Tổ sư Tôn Giả từ kiếp xa xưa đến nay, / ' +
+      'hiện là Đại Thế Chí tụng rất nhiều Tu Đa La, nhân đây Sư được gọi là Bát Nhã Đa La. Vốn là tập khí xưa nay không thể từ bỏ. / ' +
+      'Biếu Kinh Hoa Nghiêm cho người khác lại có nạp tăng lãnh hội, Vạn Tùng đến đây bất giác bậc cười. / ' +
       'Hãy nói: Cười cái gì? Chổ La Hán Vân Cư vẫy tay áo là khi xấy lửa mở miệng bình trà.',
   },
   {
