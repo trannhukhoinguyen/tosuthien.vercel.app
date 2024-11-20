@@ -137,7 +137,7 @@ const faqsDb = [
       '7. Phương pháp tham Tổ sư thiền miên mật không có kẻ hở, nếu có kẻ hở thì vọng tưởng xen vào. / ' +
       'Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không ?',
     reply:
-      'Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. / ' +
+      '📌 Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. / ' +
       'Khi nào 14 tiếng này tập tham thiền thành quen thuộc tự động. / ' +
       'Như tập xe đạp, ban đầu hai tay vịn nó cũng ngã lên ngã xuống, sau này hai tay vịn nó không ngã, sau này buông tay cũng không ngã, / ' +
       'sau này quẹo khỏi cần tay cũng quẹo được. Cần tập cho quen được tự động, lúc đang làm việc tự động thì mình không biết; / ' +
@@ -148,7 +148,7 @@ const faqsDb = [
     ask:
     '8. Đường lối Tổ sư thiền là nghĩ đến câu thoại đầu phải không ?',
     reply:
-    'Không phải nghĩ! Mà hỏi và nhìn. Đến thoại đầu, theo người ta cho là điên khùng, nhưng chỗ đó là sắp kiến tánh. / ' +
+    '📌 Không phải nghĩ! Mà hỏi và nhìn. Đến thoại đầu, theo người ta cho là điên khùng, nhưng chỗ đó là sắp kiến tánh. / ' +
     'Bây giờ, mình bắt đầu tham là mục đích đến thoại đầu, chưa đến thoại đầu là tham thoại đầu và khán thoại đầu. / ' +
     'Chỉ giữ nghi tình mà không có niệm muốn đến thoại đầu thì mới đến thoại đầu.'
   },
@@ -157,7 +157,7 @@ const faqsDb = [
     ask:
       '9. Tâm không định làm sao tham thiền được ?',
     reply:
-      'Đừng để ý tâm định hay không định, nên phải tập tham, nếu tham thiền mỗi ngày tăng được 1 phút thì 1 tháng tăng được 30 phút, 1 năm được 6 giờ, 4 năm tham được 24 giờ trong 1 ngày đêm thì đến thoại đầu. / ' +
+      '📌 Đừng để ý tâm định hay không định, nên phải tập tham, nếu tham thiền mỗi ngày tăng được 1 phút thì 1 tháng tăng được 30 phút, 1 năm được 6 giờ, 4 năm tham được 24 giờ trong 1 ngày đêm thì đến thoại đầu. / ' +
       'Đến thoại đầu trong thời gian ngắn sẽ được kiến tánh. Nếu 1 ngày tăng được nửa phút thì 8 năm đến thoại đầu, 1 ngày tăng được ¼ phút thì 16 năm đến thoại đầu. / ' +
       'Tại sao dùng cái không biết để chấm dứt tất cả biết (tìm hiểu biết, suy nghĩ biết, ghi nhớ biết)? Vì cái biết đó là ý thức hoạt động. / ' +
       'Ngũ Đình Tâm Quán của Tiểu thừa mục đích đình chỉ hoạt động của tâm, hiện nay có người đang tu Sổ Tức Quán, nhưng họ tu còn rất thô nên không được chứng quả. / ' +
@@ -167,10 +167,98 @@ const faqsDb = [
   {
     id: 10,
     ask:
-      'Hỏi câu thoại đầu muốn hiểu, giải đáp ra thì như thế nào ?',
+      '10. Hỏi câu thoại đầu muốn hiểu, giải đáp ra thì như thế nào ?',
     reply:
-      'Tham thiền không dùng bộ óc tìm hiểu, cứ hỏi thầm trong bụng, có hỏi phải có đáp, hỏi không hiểu thì đáp không ra, tức lắm, hỏi nữa, khi nào thình lình đáp ra là kiến tánh. / ' +
+      '📌 Tham thiền không dùng bộ óc tìm hiểu, cứ hỏi thầm trong bụng, có hỏi phải có đáp, hỏi không hiểu thì đáp không ra, tức lắm, hỏi nữa, khi nào thình lình đáp ra là kiến tánh. / ' +
       'Đáp ra được không phải do bộ óc tìm hiểu mà đáp ra, đáp ra là thình lình bừng sáng khắp không gian thời gian, tức là hiện lên bản thể, không phải do lời nói mà đáp.',
+  },
+  {
+    id: 11,
+    ask:
+      '11. Thiết nghĩ, con đã trôi lăn trong biển sanh tử nhiều kiếp tạo nghiệp sâu dầy, nay tuy gặp chánh pháp, / ' +
+      'nếu chỉ có câu tham thoại đầu trừ vọng tưởng thì đủ giải thoát không ? / ' +
+      'Lại nữa, chư Tổ dạy tụng kinh, niệm Phật, trì chú để chúng sanh bớt nghiệp chướng, tạo thêm phúc đức trợ duyên trên đường tu hành. / ' +
+      'Vậy con có nên cùng tham thiền và tụng kinh, niệm Phật, trì chú được không ?',
+    reply:
+      '📌 Nói tham thiền để trừ vọng là sai lầm, vì vọng tưởng là vô minh mới có; chứ không phải Phật tánh có vọng tưởng, Phật tánh là bất nhị, siêu việt số lượng. / ' +
+      'Bản thể Phật tánh cùng khắp không gian thời gian. Nếu nổi vọng tưởng là có số lượng, có nổi tâm trừ vọng tưởng là hai lớp vọng. / ' +
+      'Cho nên tu hành trừ vọng tưởng là sai lầm lớn. / ' +
+      '📌 Tụng kinh là mục đích để biết ý của Phật dạy, mình theo đó để tu, chứ không phải tụng kinh để cho Phật nghe, mà nói là có công đức. / ' +
+      'Kinh là lời Phật dạy nên Phật đâu cần nghe ! / ' +
+      '📌 Dùng niệm Phật, niệm chú để trừ vọng tưởng sẽ phát lên nguy hiểm, vọng tưởng được trừ, có sức định cao thì sẽ bị tẩu hỏa nhập ma, phát điên, ói máu. ' +
+      'Sự thật tôi gặp người tu ở Việt Nam rất nhiều trong những trường hợp này. ' +
+      'Những người không biết ý của Phật dạy, tưởng là tu để trừ vọng tưởng, đó là sai lầm rất lớn; mà bây giờ rất phổ biến trong giới Phật tử, ấy rất nguy hiểm. ' +
+      'Tu hành uổng công, có quả không tốt. / ' +
+      '📌 Phật dạy mình tin tự tâm, tất cả thần thông trí huệ bằng như Phật, không kém hơn Phật một chút nào. / ' +
+      'Tham thiền là phát hiện cái mình sẵn có cùng khắp không gian thời gian, không có cái nào mà làm không được. ' +
+      'Con dơi có ra đa là bản năng đầu thai thành con dơi phải có ra đa, con ong có kiến trúc, nhà kiến trúc học kiến trúc của con ong. / ' +
+      'Kiến trúc của con ong không phải do học mà có, nó theo nghiệp mà có. Tham thiền không phải để tiêu nghiệp, nghiệp vốn không có, vì tâm mình tạo mới có. / ' +
+      'Ngưng tâm không tạo nữa thì nghiệp ở đâu? Khỏi cần tiêu mà nó tự tiêu. Tâm tạo rồi tiêu, tiêu rồi tạo nữa, khi nào mới tiêu hết ! / ' +
+      '📌 Tu hành không phải để tiêu nghiệp, nghiệp khỏi cần tiêu, vọng tưởng khỏi cần trừ. Tự tánh mình là bất nhị, không có vọng tưởng, không có nghiệp chướng. / ' +
+      'Thiền tông nói “nghiệp chướng bổn lai không” (nghiệp chướng vốn là không). / ' +
+      'Kệ truyền pháp của 7 Phật trước Phật Thích Ca nói “không có nghiệp chướng”. / ' +
+      '📌 Trong Thiền tông có công án: / ' +
+      'Tăng hỏi Tổ kiến tánh: muốn trừ nghiệp chướng phải làm sao? / ' +
+      'Tổ nói: nghiệp chướng bổn lai không. / ' +
+      'Tăng hỏi: thế nào là bổn lai không?  Tổ nói: nghiệp chướng.  Tăng hỏi: thế nào là nghiệp chướng? / ' +
+      'Tổ nói: bổn lai không. / ' +
+      '📌 Nếu thật có nghiệp chướng, mình từ vô thỉ đến bây giờ đã tạo biết bao nhiêu nghiệp chướng, làm sao trừ cho hết! / ' +
+      'Nhưng khỏi cần trừ, ngộ là xong. Nghiệp chướng ở trong chiêm bao, thức tỉnh chiêm bao thì nghiệp chướng đi đâu tìm! / ' +
+      'Người ta thật sự không tu hành nên không hiểu được nghĩa này; / ' +
+      'tự mình không biết rồi lấy cái sai lầm dạy người khác, thành ra vĩnh viễn ở trong biển khổ không ra được. / ' +
+      'Vì vọng tưởng làm sao trừ, nghiệp chướng làm sao tiêu? Tham thiền là phát hiện nghiệp chướng, vọng tưởng vốn không có. / ' +
+      'Không tạo nghiệp chướng, vọng tưởng thì không có nghiệp chướng, vọng tưởng. Do mình tạo nghiệp chướng, vọng tưởng nên mới có cái để trừ. / ' +
+      'Không có vọng tưởng để trừ và không có nghiệp chướng để tiêu. Cho nên chư Tổ nói “không cần phí sức”. / ' +
+      'Nếu đạt đến chỗ ít phí sức là được, có còn trừ vọng tưởng và tiêu nghiệp chướng là sai lầm lớn. / ' +
+      'Tham câu thoại đầu mặc dù không tiêu nghiệp chướng và không trừ vọng tưởng, nhưng tự nhiên automatic trừ vọng tưởng và tiêu nghiệp chướng. / ' +
+      '📌 Tại sao? Vì nghiệp chướng và vọng tưởng đều do bộ óc biết mới có, giữ không biết của bộ óc thì tự tiêu. / ' +
+      'Những người tụng kinh, niệm Phật cứ suy nghĩ hoài, tạo hoài, làm sao tiêu trừ được ! / ' +
+      'Giữ được nghi tình là không tạo nữa, khi nào ngộ thì vọng tưởng nghiệp chướng hết. / ' +
+      'Bát Nhã Tâm Kinh nói “vô vô minh diệc vô minh tận” (không có vô minh cũng không có hết vô minh), không có vô minh làm sao có vọng tưởng ? / ' +
+      'Có vô minh nên có vọng tưởng, có vô minh nên có nghiệp chướng. / ' +
+      'Không có hết vô minh, nếu có vô minh mới có hết vô minh; tức là không có hết vọng tưởng nghiệp chướng, vì vọng tưởng nghiệp chướng vốn không có. / ' +
+      '“Vô lão tử diệc vô lão tử tận” (không có già chết cũng không có hết già chết), sanh tử là chúng sanh, hết sanh tử là Phật. / ' +
+      '📌 Kinh nói rõ ràng không chịu tin, cứ tạo nghịch lại cho là đúng! Mình đã sai, mà lại trách người đúng. Tại sao Giáo môn tụng kinh rồi tụng Bát Nhã? / ' +
+      'Vì sợ người ta tụng kinh xong chấp kinh đó. Cho nên sau cùng một thời kinh, tụng Bát Nhã để quét sạch vừa rồi tụng. / ' +
+      'Tuy nhiên, người tụng chỉ biết nhắm mắt tụng, chứ không biết kinh nói gì; cho là tụng kinh để tiêu nghiệp chướng. / ' +
+      'Tại sao tụng kinh rồi không y theo mà làm, lại nghịch với kinh? Nghịch với kinh đã có tội, lại trách người đúng. / ' +
+      'Người ta y theo kinh cho là sai, nghịch với kinh cho là đúng. Rất điên đảo !'
+  },
+  {
+    id: 12,
+    ask:
+      '12. Khi mình đọc thoại đầu, bổng nhiên không còn nghi tình, mà nó giống như qua đi qua đi và trở thành trạng thái niệm thoại đầu. / ' +
+      'Như trong trường hợp đó phải như thế nào ?',
+    reply:
+      '📌 Niệm thoại đầu chỉ có thể trừ vọng tưởng, không đạt đến kiến tánh. / ' +
+      'Tham thiền không phải trừ vọng tưởng, vọng tưởng khỏi cần trừ. / ' +
+      'Niệm thoại đầu để trừ vọng tưởng là sai lầm. / ' +
+      '📌 Nếu không phát khởi nghi tình, nhưng cũng phải hỏi hoài thì sẽ phát khởi nghi tình. / ' +
+      'Bởi vì câu thoại đầu là có dấu hỏi. / ' +
+      '📌 Như câu “Khi chưa có trời đất ta là cái gì ?” / ' +
+      'Có trời có đất thì mình ngồi đây, chưa có trời đất mình ở đâu không biết ? / ' +
+      'Cái không biết là nghi tình tức tham thiền rồi, rất giản dị chỉ cần không biết, việc thế gian muốn biết rất khó, không biết thì dễ. / ' +
+      'Cho nên con nít 6, 7 tuổi cũng biết tham thiền. Hỏi câu thoại chứ không phải niệm câu thoại, hỏi đến khi nào thình lình đáp ra được, gọi là kiến tánh (chứng ngộ). / ' +
+      'Nhưng khi đáp ra không phải có gì đáp ra, tức là bùng nổ phát hiện bản thể mình cùng khắp không gian thời gian, không có chỗ nào không biết, không có lúc nào không biết. / ' +
+      '📌 Bộ óc ngủ mê không biết, chết giấc không biết, chết rồi không biết; cái biết Phật tánh gọi là chánh biến tri thì ngủ mê vẫn biết, chết rồi vẫn biết, chết giấc vẫn biết. / ' +
+      'Nếu chết rồi không biết thì không phải cái biết của Phật tánh. / ' +
+      'Cái biết Phật tánh khắp không gian thời gian, khắp không gian không có chỗ nào không biết. / ' +
+      'Nếu có một chỗ không biết, không phải cái biết của Phật tánh. / ' +
+      'Tham thiền là phát hiện cái biết Phật tánh thì phải dẹp cái biết của bộ óc. Vì cái biết Phật tánh bị cái biết bộ óc che khuất nên không hiện lên được. / ' +
+      '📌 Kinh Viên Giác thí dụ “vàng thật đã thành sẵn trong quặng, nhưng lộn với đất cát tạp chất, nên vàng thật không hiện ra; vì vậy phải luyện bỏ đất cát tạp chất, vàng thật mới hiện ra”. / ' +
+      'Nếu trong quặng không có vàng thật, luyện cách mấy cũng không có vàng thật hiện ra. / ' +
+      'Phật tánh của mình lộn với tham sân si, nên Phật tánh không hiện lên. / ' +
+      'Tham sân si là cái biết của bộ óc, dẹp hết tham sân si thì Phật tánh hiện lên.'
+  },
+  {
+    id: 13,
+    ask:
+      '13. Tham thoại đầu thường hay tìm ra giải pháp để trả lời câu thoại, làm sao để tránh trường hợp đó xảy ra',
+    reply:
+      '📌 Phải thống thiết việc sanh tử, giải quyết việc sanh tử là cần nhất. / ' +
+      'Cái năng biết của bộ óc sau khi chết đem thiêu thành tro, đi chôn thành đất. / ' +
+      'Như vậy còn biết để làm chi? Biết bao nhiêu cũng hết. / ' +
+      'Cái biết Phật tánh không thể biến thành tro thành đất, vĩnh viễn như vậy gọi là như như bất động, luôn luôn cùng khắp không gian thời gian, không có biến đổi, không có tiêu diệt.',
   }
 ]
 export default faqsDb;
