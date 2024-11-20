@@ -24,6 +24,7 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.2',
+    hasContent: true,
     name_en: 'Yunyan Tansheng',
     name_es: 'Yunyan Tansheng',
     name_de: 'Yunyan Tansheng',
@@ -43,10 +44,11 @@ const CnLv4MasterDb = [
     successors: ['Dongshan Liangjie'],
     disciples: ['Dongshan Liangjie'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Yunyan_Tansheng_Image_Zen.jpg/220px-Yunyan_Tansheng_Image_Zen.jpg',
-    reference: [''],
+    reference: ['https://blog.phapthihoi.org/gt-member/ts-van-nham-dam-thanh/'],
   },
   {
     id: '37.4.3',
+    hasContent: true,
     name_en: 'Longtan Chongxin',
     name_es: 'Longtan Chongxin',
     name_de: 'Longtan Chongxin',
@@ -70,6 +72,7 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.4',
+    hasContent: true,
     name_en: 'Guishan Lingyou',
     name_es: 'Guishan Lingyou',
     name_de: 'Guishan Lingyou',
@@ -118,6 +121,7 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.6',
+    hasContent: true,
     name_en: 'Cuiwei Wuxue',
     name_es: 'Cuiwei Wuxue',
     name_de: 'Cuiwei Wuxue',
