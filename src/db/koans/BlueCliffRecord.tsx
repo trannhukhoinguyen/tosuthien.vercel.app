@@ -1954,7 +1954,7 @@ verse:
   },
   {
     id: 82,
-    title: 'TẮC THỨ 82: KIẾN CỐ PHÁP THÂN CỦA ĐẠI LONG',
+    title: 'TẮC THỨ 82: KIÊN CỐ PHÁP THÂN CỦA ĐẠI LONG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',

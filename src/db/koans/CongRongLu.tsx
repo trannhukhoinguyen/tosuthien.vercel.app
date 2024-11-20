@@ -14,20 +14,20 @@ const CongRongLu = [
       'Sư nói: ' +
       ' Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +
       'Các vị chưa đến pháp đường, Vạn Tùng chưa ra phương trượng, nếu khi đó biết được, đã là rơi vào thứ 3, thứ 4 rồi. / ' +
-      'Tuyết Đậu nói: “Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai. / ' +
+      'Tuyết Đậu nói: “Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai". / ' +
       'Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham ? / ' +
       'Xưa, Đức Thế Tôn một hôm lên pháp tòa nói: “Hãy xem rõ pháp vương pháp. Pháp vương pháp như thế !” / ' +
-      'Thế Tôn bèn xuống pháp tòa, lại cứu được một nữa, một nữa giao phó cho Thiên Đồng',
+      'Thế Tôn bèn xuống pháp tòa, lại cứu được một nữa, một nữa giao phó cho Thiên Đồng.',
     verseOriginal:
-      'Nhất đoạn chân phong kiến dã. / ' +
+      'Nhất đoạn chân phong kiến dã / ' +
       'Miên miên hóa mẫu lý cơ tuấn. / ' +
-      'Cổ miên hoàm Xuân tượng. / ' +
-      'Vô nại đông quân lộ tiết hà. ',
+      'Cổ miên hoàm Xuân tượng / ' +
+      'Vô nại đông quân lộ tiết hà ',
     verse:
-      'Một đoạn của nhà có thấy không?. / ' +
-      'Miên man trời đất chạy thoi nhanh. / ' +
-      'Gấm cổ dẹt thành bao Xuân sắc. / ' +
-      'Ngại gì tiết lộ bởi thần Xuân. ',
+      'Một đoạn của nhà có thấy không ? / ' +
+      'Miên man trời đất chạy thoi nhanh / ' +
+      'Gấm cổ dẹt thành bao Xuân sắc / ' +
+      'Ngại gì tiết lộ bởi thần Xuân',
     commentAfterVerse:
       'Sư dạy: / ' +
       'Thiên Đồng nói: “Một đoạn của nhà có thấy không ?”. / ' +
@@ -36,12 +36,10 @@ const CongRongLu = [
       'Lại nói: “Miên man trời đất (hóa mẫu) chạy thoi nhanh”. / ' +
       'Hóa mẫu là biệt hiệu của vật tạo hóa, Đạo giáo và Nho giáo đều có tôn chỉ nơi nhất khí, hàng nhà Phật lấy nhất tâm làm căn. / ' +
       'Khuê Phong nói: “Nguyên khí cũng do tâm tạo ra, đều được tướng phần của A-lại-gia thức thu nhiếp”. / ' +
-      'Vạn Tùng nói: Đây là Chánh tông Tào Động. / ' +
-      'Mạng mạch của Phật Tổ, then chốt nơi miệng cửa, chổ chuyển sâu xa, sợi tơ nhã ra nơi bụng, khi dùng miên mật, đâu được đồng với nhân tà, nhân không ư ? / ' +
-      'Sau đây tụng Thế Tôn chứa đựng tương lai nói: “ Gấm cổ dệt thành bao Xuân sắc”. / ' +
+      'Vạn Tùng nói: Đây là Chánh tông Tào Động. Mạng mạch của Phật Tổ, then chốt nơi miệng cửa, chổ chuyển sâu xa, sợi tơ nhã ra nơi bụng, khi dùng miên mật, đâu được đồng với nhân tà, nhân không ư ? / ' +
+      'Sau đây tụng Thế Tôn chứa đựng tương lai nói: “Gấm cổ dệt thành bao xuân sắc”. / ' +
       'Tuy là như con một gặm gỗ bỗng thành văn, đâu thể đóng cửa đẩy xe, ra cửa cùng vết. Sau này Văn Thù phân tích ngược. / ' +
-      'Lại nói: “ Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch chùy, Thế Tôn liền xuống tòa, lại đến Ca-diếp bạch chùy, / ' +
-      'liền hiện ra trăm ngàn vạn Văn Thù, cùng là thời tiết như nhau vì sao nhận, thả không đồng ? / ' +
+      'Lại nói: “Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch chùy, Thế Tôn liền xuống tòa, lại đến Ca-diếp bạch chùy, liền hiện ra trăm ngàn vạn Văn Thù, cùng là thời tiết như nhau vì sao nhận, thả không đồng ? / ' +
       'Ông nói: cái nào là chổ để lộ chúa Xuân, ân cần là hiểu rõ đinh hương kết, cành lá mọc mùa Xuân tự tại.',
   },
   {
@@ -49,9 +47,8 @@ const CongRongLu = [
     title: 'TẮC THỨ 2: RỖNG RANG KHÔNG THÁNH',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      'Sư dạy chúng nói:' +
-      'Bóc Hòa Tam Hiến, chưa thoát khỏi hành hình, đến sáng chiếu vào người sáng, chẳng án kiếm, khách chết chủ không chết, / ' +
-      'thích hợp giả chẳng thích hợp chân, của báu quý giá không nắm được, chỉ vớ được đầu mèo chết.',
+      'Sư dạy chúng nói: / ' +
+      'Bóc Hòa Tam Hiến, chưa thoát khỏi hành hình, đến sáng chiếu vào người sáng, chẳng án kiếm, khách chết chủ không chết, thích hợp giả chẳng thích hợp chân, của báu quý giá không nắm được, chỉ vớ được đầu mèo chết.',
     main:
       'Lương Võ Đế hỏi Đạt Đại Ma Sư: Thế nào là Thánh Đế Đệ nhất nghĩa ? / ' +
       'Đạt Ma đáp: Rỗng rang không Thánh. / ' +
@@ -59,7 +56,7 @@ const CongRongLu = [
       'Đạt Ma đáp: Không biết / ' +
       'Đế không khế hợp, Đạt Ma bèn vượt sông đến Thiếu Lâm, xoay mặt vào tường 9 năm.',
     commentBeforeVerse:
-      'Sư nói: ' +
+      'Sư nói: / ' +
       'Bát-nhã Đa-la từng dặn cho Đạt Ma Đại Sư rằng: Sau khi ta diệt độ, 5 ông nên đến nước Chấn Đán bày ra Đại Pháp chỉ thẳng cho bậc thượng căn, / ' +
       'cẩn thận nhanh chóng gặp nạn nên dừng ở Lạc Dương. / ' +
       'Lại khi ông đến Phương Nam chổ ở, người ở đó chỉ tạo công đức, không thấy đạo lý của Phật, dẫu ông đến đó, cũng không thể ở lâu, / ' +
@@ -70,8 +67,8 @@ const CongRongLu = [
       'Ở đây cùng với Đa La 3 lần phó chúc Đa Ma năm, cả 2 là cùng một lúc. Cho nên Vân Khê làm bài tụng rằng: / ' +
       '“Qua Thu không tiếc sương, Phật giáo mãi một vị, dù cho bắt sống được, rút cuộc không mùi thơm”, có thể cho là người răn dạy. / ' +
       'Nếu là bản sắc đạo nhân, lúc ra đời tự biết thời tiết. Võ Đế tuy không khế hợp, bỏ qua vấn đề hỏi, / ' +
-      'không ngại bén nhọn, đến nay các nơi, khai đường bạch chùy, còn nói: “Những vị kiết xuất trong pháp hội, / ' +
-      'nên quán Đệ nhất nghĩa, chỉ như Đệ Nhất Nghĩa Đế, chấp nhận quán hay không ?” / ' +
+      'không ngại bén nhọn, đến nay các nơi, khai đường bạch chùy, còn nói: / ' +
+      '“Những vị kiết xuất trong pháp hội, nên quán Đệ nhất nghĩa, chỉ như Đệ Nhất Nghĩa Đế, chấp nhận quán hay không ?” / ' +
       'Vạn Tùng nói: Đệ nhất nghĩa hãy bỏ qua một bên, ông cần Thánh đế làm gì ? / ' +
       'Thiên Hoàng nói: Chỉ biết phàm tình, không phân biệt thánh giải. / ' +
       'Kinh Lăng Nghiêm nói: Nếu làm thánh giải, lập tức bị các tà, chỉ có Đạt Ma này nói: “Rỗng rang không Thánh, trong ánh sáng đá lữa sấm chớp, không ngại tai mắt làm. / ' +
@@ -503,7 +500,7 @@ const CongRongLu = [
     title: 'TẮC THỨ 10: BÁ TỬ ĐÀI SƠN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      ' Sư dạy đại chúng rằng: / ' +
+      'Sư dạy đại chúng rằng: / ' +
       '    Có nắm thì có buông / ' +
       '    Cây gậy tùy thân / ' +
       '    Hay giết hay tha / ' +
@@ -564,12 +561,18 @@ const CongRongLu = [
 
   {
     id: 11,
-    title: 'TẮC THỨ 11: ',
+    title: 'TẮC THỨ 11: HAI CĂN BỆNH CỦA VÂN MÔN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      '',
+      'Sư dạy đại chúng rằng: / ' +
+      'Người không có thân bệnh tật / ' +
+      'Người không có tay lấy thuốc / ' +
+      'Không người có miệng uống ăn / ' +
+      'Không người có nhận an lạc Hãy nói: Người bệnh nặng làm sao chữa trị ?',
     main:
-      '',
+      'Đại Sư Vân Môn nói: / ' +
+      'Anh sáng không thấu suốt có hai căn bệnh, (23) tất cả chỗ không rỏ ràng, vật trước mắt là một, thấu suốt được tất cả pháp không, giống như có vật gì dấu dưới đất, cũng chính là ánh sáng không thấu suốt. / ' +
+      'Lại nữa, pháp thân cũng có 2 căn bệnh, đắc được pháp thân là chấp pháp không quên, đã thấy tồn tại, và rơi vào bên pháp thân là một, mặt dấu thấu hiểu được những bỏ qua thì không thể, trong tương lai sẽ kiểm điểm tử tế, có hơi thở đó, cũng là bênh.',
     commentBeforeVerse:
       '',
     verseOriginal: '',
@@ -578,7 +581,36 @@ const CongRongLu = [
     verseExtraOriginal: '',
     verseExtra: '',
     commentAfterVerse:
-      '',
+      'Sư nói Hòa Thượng: Triệu Châu Càn phong nối pháp với Động Sơn, Ngộ Bổn. / ' +
+      'Vân Môn tham cứu khắc đã gặp Sư và Tào Sơn, Sơn tắc công án này có nguồn gốc trước tiên / ' +
+      'Càn phong bảo chúng rằng: Pháp thân có 3 thứ bệnh, 2 thứ ánh sáng, mà mỗi mỗi đều thông suốt được, lại nên biết chỗ thiện pháp chí cực vi diệu, Vân Môn ra giữa chúng nói: Chỉ như trong am, vì sao không biết việc ngoài am Phong cười ha hỏi Môn nói: Giống như chỗ nghi của học nhân. Tâm hạnh của ông là thế nào? / ' +
+      'Vân Môn nói: Cũng cần Hòa Thượng giúp đỡ cho. Phong nói: At phải làm như thế mới được ngồi yên. / ' +
+      'Vân Môn nói: kia kìa / ' +
+      'Càn Phong nói: Pháp thân có ba thứ bệnh. / ' +
+      'Vân Môn nói: Pháp thân có hai thứ bệnh / ' +
+      'Khi Vạn Tùng hành cước, khắp nơi luận bàn nói: Đi chưa đến đã đến ở, thong dong tự tại, là ba thứ bệnh / ' +
+      'Nay nói hai thứ: Ít chưa đến lại đi làm, hai thứ bệnh sau hiển nhiên đại đồng. / ' +
+      'Hòa Thượng Phật Nhãn nói: Cưỡi lừa là một, cưỡi lừa không chịu xuống cũng là bệnh, chính là hai thứ bệnh trước thiếu một thứ bệnh sau. / ' +
+      'Sư gia tạm thời mang bệnh trên mình, đều tùy phương tiện, hai thứ ánh sáng đó và ánh sáng không thấu suốt có hai thứ bệnh không phân biệt. Lại tất cả nơi không rõ ràng, các vật trước mắt là một. / ' +
+      'Động Sơn nói: Rõ ràng thấy mặt không biết chơn, đâu thể mê mờ. Quên đầu trở lại nhận bóng, nếu dùng định thấy trời đất, không sót một chút nào cả, mới được chút phần tương ứng. / ' +
+      'Lại nói: Thông suốt được tất cả pháp không, giống như có một vật ở dưới đất, cũng chính là ánh sáng không thông suốt. / ' +
+      'Quy Sơn đã nói: Không có một pháp nào đúng với tình, cái thấy còn ở nơi cảnh. / ' +
+      'Kinh Lăng Nghiêm nói: Dẫu diệt tất cả thấy, nghe, biết giữ gìn. Sự thanh vắng bên trong, như còn là việc pháp trần phân biệt bóng. / ' +
+      'Nam Viện Ngung nói: Lúc bấy giờ ta giống người đi trong bóng đèn, cho nên nói: Cũng là ánh sáng không thông suốt. / ' +
+      'Suốt lên tông phong tỉnh lặng chùm nước chết, nay lại quấy động lên, đó là thứ bệnh nhưng ông ra không được đáp ứng, vào không ở nơi hư không, ngoài không hay nhảy, trong không trụ ở định, tự nhiên là 3 bệnh. Hai ánh sáng thông suốt cùng một lúc, về sau thông suốt hay không thông suốt bỏ qua một bên, tương lai sẽ kiểm điểm kỹ, có hơi thở gì cũng là bệnh, làm sao được an vui rồi, lại thỉnh Thiên Đồng Cẩn hầu. / ' +
+      'Tụng rằng: Sum la Vạn tượng đều cao ngất, thấu suốt khắp nơi không ngại nhãn tình, quét sạch môn đình an có sức, ấn dấu trong người thành sự tình, thuyền ngang qua sông trùm trời Thu, mái chèo vào hoa lau chiếu so tuyết, lão ngủ xâu gấm để ở chợ, chiếc lá bay phất phới theo làn sóng. / ' +
+      'Sư nêu: Kinh Pháp Cú ghi: Sum la và vạn tượng đã ổn định pháp, một tức là vạn, vạn tức là một, chính là vật này, không phải vật khác, mặc cho cao ngất, ruộng hoang mà cỏ không mọc, đất sạch lại người mê. Mặc dầu thấu hiểu tất cả chính là chỗ ngăn ngại con mắt. / ' +
+      'Kinh Viên Giác nói: Đối với các vọng tâm cũng không dứt / ' +
+      'Động Sơn nói: Mạ linh cỏ thần, cha quê buồn rầu cày cấy: Sao phải quét sạch môn đình kia? Tất cả pháp của hư không / ' +
+      'Vân Môn nói: Khắp nơi nơi không rõ ràng, tất cả vật trước mắt là một, không phải dạy ông bỏ cảnh huyễn cảnh, diệt tâm huyễn, tìm riêng nơi thông suốt. / ' +
+      'Tam tổ nói: Sáu trần không ghét, thì trở lại đồng với chánh giác, và kinh Viên Giác biết huyễn lập tức xa lìa, không làm phương tiện, lìa huyễn tức là giác, cũng không tiệm thứ dần, liền thấy tác, chỉ, nhận, diệt như hộ pháp và người đất đều trái nhau. / ' +
+      'Lại nói: Dấu kín trong bụng người lần lần thành sự tình, bài tụng giống như tất cả vật chôn vùi dưới đất, chính là viên giác còn ngã biết ngã, thầm kế mạng Như Lai, bệnh của tướng vi tế, cho nên phổ giác nói: Xin nguyện Thế Tôn rủ lòng thương xót nhanh chóng nói về bệnh thiền, thuyền ngang qua sông trùm trời Thu. Bài tụng này là đắc được pháp thân, buộc thuyền ở nơi nguồn nước trong. / ' +
+      'Sơ Sơn lấy pháp thân làm cây khô, đây chính là cộc buộc lùa, chớ đợi mãi rồi quay thuyền lại, chưa thoát khỏi mái chèo, vào nơi hoa lau chiếu tuyết sáng, đến đấy thì ánh sáng chiếu vào mắt làm cho mọi người mê, rõ ràng xoay thân trở lại rơi vào địa vị. Bài tụng này du thông suốt được, phóng qua thì không thể. Đến đây Vân Môn nói hết, Thiên Đồng tụng thông suốt. Sau đó cần thấy yếu chỉ của Vân Môn, mắt của Thiên Đồng, ở đây lại là nơi mưu kế lợi hại. / ' +
+      'Yếu chỉ của Vân Môn là thế nào? Không thấy nói: Kiểm điểm kỹ xem có hơi thở như thế cũng là bệnh. Vân Môn chỉ bệnh đó mà không bày cách điều trị. / ' +
+      'Con mắt của Thiên Đồng là thế nào? Thuật lại phương pháp điều trị của Vân Môn. / ' +
+      'Vân Môn nói: Tâm của Lão Ngư Xuyến Linh để ở chợ, chiếc lá bay phất phơ theo làn sóng. / ' +
+      'Đại ý của Vân Môn, thỏng tay vào chợ không tránh phong ba, có thể nói bệnh của mình đã tiêu trừ, lại thương xót cái tật của người khác, trong sạch gọi là tâm có biết chăng? / ' +
+      'Người bệnh tật phần nhiều rành thuốc men, được kiểm hiệu mới giám truyền.',
   },
 
   {
