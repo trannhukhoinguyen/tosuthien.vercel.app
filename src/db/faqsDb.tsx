@@ -85,83 +85,92 @@ const faqsDb = [
       '📌 Nếu tự làm tài khôn mà không đi đúng với tôn chỉ chính xác tủa Tổ Sư Thiền thì sẽ có thể trở thành phỉ báng Phật pháp, ' +
       'tạo tội địa ngục mà tự mình không biết, xin người học thiền để ý cho.',
   },
-{
+  {
     id: 3,
     ask: '3. Tại sao pháp Tham Tổ Sư thiền dễ tu mà người ta không chịu tu ?',
     reply:
-    '📌 Vì người ta khó tin, lại cứu lý tìm hiểu; Tổ Sư thiền là không cho cứu lý, không cho tìm hiểu. ' +
-    '📌 Nếu tin được thì dễ hơn các pháp môn khác. Nhưng nghịch với tư tưởng người ta, tức là không tin được tự tâm. ' +
-    '📌 Họ tưởng là biết nhiều chừng nào tốt chừng nấy, nhưng sự thật hiểu biết đó là chướng ngại, Phật pháp gọi là sở tri chướng. / ' +
-    '📌 Dẫu cho, hiểu biết của thế gian đã sạch, còn hiểu biết của xuất thế gian cũng là cực vi tế sở tri chướng. ' +
-    '📌 Bộ óc không hiểu gọi là phiền não chướng, hiểu rồi gọi là sở tri chướng. Cho nên, người ta khó lãnh hội được chỗ này. ' +
-    '📌 Vì cuộc sống hàng ngày đều phải dùng đến bộ óc, bây giờ bỏ hoạt động của bộ óc thì người ta không chịu.',
+      '📌 Vì người ta khó tin, lại cứu lý tìm hiểu; Tổ Sư thiền là không cho cứu lý, không cho tìm hiểu. ' +
+      '📌 Nếu tin được thì dễ hơn các pháp môn khác. Nhưng nghịch với tư tưởng người ta, tức là không tin được tự tâm. ' +
+      '📌 Họ tưởng là biết nhiều chừng nào tốt chừng nấy, nhưng sự thật hiểu biết đó là chướng ngại, Phật pháp gọi là sở tri chướng. / ' +
+      '📌 Dẫu cho, hiểu biết của thế gian đã sạch, còn hiểu biết của xuất thế gian cũng là cực vi tế sở tri chướng. ' +
+      '📌 Bộ óc không hiểu gọi là phiền não chướng, hiểu rồi gọi là sở tri chướng. Cho nên, người ta khó lãnh hội được chỗ này. ' +
+      '📌 Vì cuộc sống hàng ngày đều phải dùng đến bộ óc, bây giờ bỏ hoạt động của bộ óc thì người ta không chịu.',
   },
-{
+  {
     id: 4,
     ask: '4. Xã hội ngày nay khoa học tiến bộ, con người không được rảnh rang như người xưa, nên không để ý sự tu, nhất là tu Tổ Sư thiền rất khó, vậy có phải không ?',
     reply:
-    '📌 Vì hiểu theo người thế gian, như nhà triết học, nhà khoa học,... thì sự tu của họ lại khó. ' +
-    '📌 Vì cuộc sống hằng ngày đều phải dùng bộ óc để nghiên cứu triết học hay nghiên cứu khoa học, bất cứ nghiên cứu cái gì đều cũng nhờ bộ óc. ' +
-    '📌 Nếu bây giờ chấm dứt hoạt động của bộ óc thì người ta phản đối, họ cho “đồ khùng”. Phải rồi, vì theo tư tưởng thế gian là vậy. / ' +
-    '📌 Cho nên, thiền giải đáp công án ở Nhật Bản dễ truyền khắp thế giới. Hiện nay người Trung Quốc cũng đi học thiền giải công án, rồi về dạy cho người Hoa. ' +
-    '📌 Chùa Cao Mân là Tổ đình của Thiền Tông nhưng cũng lọt vào kiến giải. ' +
-    '📌 Ngày xưa Ngài Lai Quả không cho người ta giảng công án, khi tôi ở đó thấy đêm nào có vị Trưởng lão đều giảng công án.',
+      '📌 Vì hiểu theo người thế gian, như nhà triết học, nhà khoa học,... thì sự tu của họ lại khó. ' +
+      '📌 Vì cuộc sống hằng ngày đều phải dùng bộ óc để nghiên cứu triết học hay nghiên cứu khoa học, bất cứ nghiên cứu cái gì đều cũng nhờ bộ óc. ' +
+      '📌 Nếu bây giờ chấm dứt hoạt động của bộ óc thì người ta phản đối, họ cho “đồ khùng”. Phải rồi, vì theo tư tưởng thế gian là vậy. / ' +
+      '📌 Cho nên, thiền giải đáp công án ở Nhật Bản dễ truyền khắp thế giới. Hiện nay người Trung Quốc cũng đi học thiền giải công án, rồi về dạy cho người Hoa. ' +
+      '📌 Chùa Cao Mân là Tổ đình của Thiền Tông nhưng cũng lọt vào kiến giải. ' +
+      '📌 Ngày xưa Ngài Lai Quả không cho người ta giảng công án, khi tôi ở đó thấy đêm nào có vị Trưởng lão đều giảng công án.',
   },
-{
+  {
     id: 5,
     ask: '5. Những pháp thiền của các tôn giáo khác là để ngưng hoạt động của bộ óc hay để im lặng, vậy có khác với cách tu của Tổ Sư thiền không ?',
     reply:
-    '📌 Các thiền của tôn giáo khác là mục đích bỏ nhiễm duyên lấy cái tịnh duyên cho là ngộ. ' +
-    '📌 Tịnh duyên đối với nhiễm duyên thì tốt, còn đối với bản thể Phật tánh là chướng ngại. Bởi vì đối  với nhiễm nên mới nói tịnh thì còn nằm trong tương đối, tức là những thứ ấy có thể dùng bộ óc để giải thích được. / ' +
-    '📌 Tổ Sư thiền không thể giải thích, tại bộ óc không thể tiếp xúc được, phải ngộ mới biết. ' +
-    '📌 Ngộ biết không phải cái biết của bộ óc là cái biết của Phật tánh, gọi là Bát Nhã. Ngộ là Phật tánh hiện lên, chứ không phải có năng ngộ sở ngộ. ' +
-    '📌 Nếu có năng ngộ sở ngộ thì không được, vì còn có 4 tướng (ngã tướng, nhân tướng, chúng sanh tướng, thọ giả tướng).',
+      '📌 Các thiền của tôn giáo khác là mục đích bỏ nhiễm duyên lấy cái tịnh duyên cho là ngộ. / ' +
+      '📌 Tịnh duyên đối với nhiễm duyên thì tốt, còn đối với bản thể Phật tánh là chướng ngại. Bởi vì đối  với nhiễm nên mới nói tịnh thì còn nằm trong tương đối, tức là những thứ ấy có thể dùng bộ óc để giải thích được. / ' +
+      '📌 Tổ Sư thiền không thể giải thích, tại bộ óc không thể tiếp xúc được, phải ngộ mới biết. / ' +
+      '📌 Ngộ biết không phải cái biết của bộ óc là cái biết của Phật tánh, gọi là Bát Nhã. Ngộ là Phật tánh hiện lên, chứ không phải có năng ngộ sở ngộ. ' +
+      '📌 Nếu có năng ngộ sở ngộ thì không được, vì còn có 4 tướng (ngã tướng, nhân tướng, chúng sanh tướng, thọ giả tướng).',
   },
-{
-  id: 6,
-  ask:
-'6. Tham Thiền Phổ Thuyết nói “người thích vật hoặc theo tình cảm, xưng hô lễ phép ấy là tình; lời nói, vấn đáp kiến giải hiểu biết ấy là thức. Chính tình thức làm cho thiền đường suy tệ”. Xin Sư Phụ khai thị ?',
-  reply:
-  '📌 Cuộc sống hàng ngày, tất cả đều dùng tình thức. Kinh Lăng Nghiêm nói “tình nhiều chừng nào đọa xuống nhiều chừng nấy”, tình chỉ có đọa, không có lên; tưởng có cái đọa, có cái lên. ' +
-  '📌 Như thiền quán tưởng thì lên, tưởng bậy bạ thì đọa. Thức là phân biệt, tánh của mình muốn cái tốt chê cái xấu. ' +
-  '📌 Như bây giờ vì phân biệt mà xẩy ra chiến tranh đổ máu. / ' +
-  '📌 Cọp đối với con nó có tình thương mẹ con, nhưng phân biệt không phải con của nó, thì xé thịt cho con nó ăn. ' +
-  '📌 Người có kiến giải cao, nhưng ác hơn cọp không biết bao nhiêu lần. ' +
-  '📌 Cọp đói mới ăn thịt loại khác, con người chưa đói lại muốn hại người khác, vì muốn cho mình có nhiều tiền; do tiền mà anh em cha mẹ cũng hại được. / ' +
-  '📌 Cọp không bao giờ giết hại đồng loại, vì lợi ích nên con người giết hại đồng loại; có khi giết một cách thê thảm, đó là do kiến giải mà ra. ' +
-  '📌 Bởi kiến giải, họ tổ chức chính trị ra lịnh giết biết bao nhiêu triệu người.',
-},
-{
-id: 7,
-ask: 
-'7. Phương pháp tham Tổ sư thiền miên mật không có kẻ hở, nếu có kẻ hở thì vọng tưởng xen vào. Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không ?',
-reply:
-'Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. Khi nào 14 tiếng này tập tham thiền thành quen thuộc tự động. / ' +
-'Như tập xe đạp, ban đầu hai tay vịn nó cũng ngã lên ngã xuống, sau này hai tay vịn nó không ngã, sau này buông tay cũng không ngã, sau này quẹo khỏi cần tay cũng quẹo được. Cần tập cho quen được tự động, lúc đang làm việc tự động thì mình không biết; lúc ấy bộ óc không biết, nhưng cái biết của Phật tánh thay thế. Cho nên làm đúng hơn, nhanh và tỉ mỉ hơn.'
-},
-{
-id: 8,
-ask: 
-'8. Đường lối Tổ sư thiền là nghĩ đến câu thoại đầu phải không ?',
-reply:
-'Không phải nghĩ! Mà hỏi và nhìn. Đến thoại đầu, theo người ta cho là điên khùng, nhưng chỗ đó là sắp kiến tánh. Bây giờ, mình bắt đầu tham là mục đích đến thoại đầu, chưa đến thoại đầu là tham thoại đầu và khán thoại đầu. Chỉ giữ nghi tình mà không có niệm muốn đến thoại đầu thì mới đến thoại đầu.'
-},
-{
-id: 9,
-ask: 
-'9. Tâm không định làm sao tham thiền được ?',
-reply:
-'Đừng để ý tâm định hay không định, nên phải tập tham, nếu tham thiền mỗi ngày tăng được 1 phút thì 1 tháng tăng được 30 phút, 1 năm được 6 giờ, 4 năm tham được 24 giờ trong 1 ngày đêm thì đến thoại đầu. Đến thoại đầu trong thời gian ngắn sẽ được kiến tánh. Nếu 1 ngày tăng được nửa phút thì 8 năm đến thoại đầu, 1 ngày tăng được ¼ phút thì 16 năm đến thoại đầu. / ' +
-'Tại sao dùng cái không biết để chấm dứt tất cả biết (tìm hiểu biết, suy nghĩ biết, ghi nhớ biết)? Vì cái biết đó là ý thức hoạt động. Ngũ Đình Tâm Quán của Tiểu thừa mục đích đình chỉ hoạt động của tâm, hiện nay có người đang tu Sổ Tức Quán, nhưng họ tu còn rất thô nên không được chứng quả. / ' +
-'Không biết là phiền não chướng, biết là sở tri chướng. Những người tu Sổ Tức Quán còn dùng cái biết thô, chưa đến chỗ vi tế. Vi tế sở tri ngu, còn tiến thêm là cực vi tế sở tri ngu. Vừa rồi nói sở tri chướng là ngu, nhưng người ta chưa tu đến mức đó.'
-},
-{
-id: 10,
-ask: 
-'10. Phương pháp tham Tổ sư thiền miên mật không có kẻ hở, nếu có kẻ hở thì vọng tưởng xen vào. Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không ?',
-reply:
-'Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. Khi nào 14 tiếng này tập tham thiền thành quen thuộc tự động. / ' +
-'Như tập xe đạp, ban đầu hai tay vịn nó cũng ngã lên ngã xuống, sau này hai tay vịn nó không ngã, sau này buông tay cũng không ngã, sau này quẹo khỏi cần tay cũng quẹo được. Cần tập cho quen được tự động, lúc đang làm việc tự động thì mình không biết; lúc ấy bộ óc không biết, nhưng cái biết của Phật tánh thay thế. Cho nên làm đúng hơn, nhanh và tỉ mỉ hơn.'
-}
+  {
+    id: 6,
+    ask:
+      '6. Tham Thiền Phổ Thuyết nói “người thích vật hoặc theo tình cảm, xưng hô lễ phép ấy là tình; lời nói, vấn đáp kiến giải hiểu biết ấy là thức. Chính tình thức làm cho thiền đường suy tệ”. Xin Sư Phụ khai thị ?',
+    reply:
+      '📌 Cuộc sống hàng ngày, tất cả đều dùng tình thức. Kinh Lăng Nghiêm nói “tình nhiều chừng nào đọa xuống nhiều chừng nấy”, tình chỉ có đọa, không có lên; tưởng có cái đọa, có cái lên. ' +
+      '📌 Như thiền quán tưởng thì lên, tưởng bậy bạ thì đọa. Thức là phân biệt, tánh của mình muốn cái tốt chê cái xấu. / ' +
+      '📌 Như bây giờ vì phân biệt mà xẩy ra chiến tranh đổ máu. / ' +
+      '📌 Cọp đối với con nó có tình thương mẹ con, nhưng phân biệt không phải con của nó, thì xé thịt cho con nó ăn. / ' +
+      '📌 Người có kiến giải cao, nhưng ác hơn cọp không biết bao nhiêu lần. / ' +
+      '📌 Cọp đói mới ăn thịt loại khác, con người chưa đói lại muốn hại người khác, vì muốn cho mình có nhiều tiền; do tiền mà anh em cha mẹ cũng hại được. / ' +
+      '📌 Cọp không bao giờ giết hại đồng loại, vì lợi ích nên con người giết hại đồng loại; có khi giết một cách thê thảm, đó là do kiến giải mà ra. / ' +
+      '📌 Bởi kiến giải, họ tổ chức chính trị ra lịnh giết biết bao nhiêu triệu người.',
+  },
+  {
+    id: 7,
+    ask:
+      '7. Phương pháp tham Tổ sư thiền miên mật không có kẻ hở, nếu có kẻ hở thì vọng tưởng xen vào. / ' +
+      'Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không ?',
+    reply:
+      'Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. / ' +
+      'Khi nào 14 tiếng này tập tham thiền thành quen thuộc tự động. / ' +
+      'Như tập xe đạp, ban đầu hai tay vịn nó cũng ngã lên ngã xuống, sau này hai tay vịn nó không ngã, sau này buông tay cũng không ngã, / ' +
+      'sau này quẹo khỏi cần tay cũng quẹo được. Cần tập cho quen được tự động, lúc đang làm việc tự động thì mình không biết; / ' +
+      'lúc ấy bộ óc không biết, nhưng cái biết của Phật tánh thay thế. Cho nên làm đúng hơn, nhanh và tỉ mỉ hơn.'
+  },
+  {
+    id: 8,
+    ask:
+    '8. Đường lối Tổ sư thiền là nghĩ đến câu thoại đầu phải không ?',
+    reply:
+    'Không phải nghĩ! Mà hỏi và nhìn. Đến thoại đầu, theo người ta cho là điên khùng, nhưng chỗ đó là sắp kiến tánh. / ' +
+    'Bây giờ, mình bắt đầu tham là mục đích đến thoại đầu, chưa đến thoại đầu là tham thoại đầu và khán thoại đầu. / ' +
+    'Chỉ giữ nghi tình mà không có niệm muốn đến thoại đầu thì mới đến thoại đầu.'
+  },
+  {
+    id: 9,
+    ask:
+      '9. Tâm không định làm sao tham thiền được ?',
+    reply:
+      'Đừng để ý tâm định hay không định, nên phải tập tham, nếu tham thiền mỗi ngày tăng được 1 phút thì 1 tháng tăng được 30 phút, 1 năm được 6 giờ, 4 năm tham được 24 giờ trong 1 ngày đêm thì đến thoại đầu. / ' +
+      'Đến thoại đầu trong thời gian ngắn sẽ được kiến tánh. Nếu 1 ngày tăng được nửa phút thì 8 năm đến thoại đầu, 1 ngày tăng được ¼ phút thì 16 năm đến thoại đầu. / ' +
+      'Tại sao dùng cái không biết để chấm dứt tất cả biết (tìm hiểu biết, suy nghĩ biết, ghi nhớ biết)? Vì cái biết đó là ý thức hoạt động. / ' +
+      'Ngũ Đình Tâm Quán của Tiểu thừa mục đích đình chỉ hoạt động của tâm, hiện nay có người đang tu Sổ Tức Quán, nhưng họ tu còn rất thô nên không được chứng quả. / ' +
+      'Không biết là phiền não chướng, biết là sở tri chướng. Những người tu Sổ Tức Quán còn dùng cái biết thô, chưa đến chỗ vi tế. / ' +
+      'Vi tế sở tri ngu, còn tiến thêm là cực vi tế sở tri ngu. Vừa rồi nói sở tri chướng là ngu, nhưng người ta chưa tu đến mức đó.'
+  },
+  {
+    id: 10,
+    ask:
+      'Hỏi câu thoại đầu muốn hiểu, giải đáp ra thì như thế nào ?',
+    reply:
+      'Tham thiền không dùng bộ óc tìm hiểu, cứ hỏi thầm trong bụng, có hỏi phải có đáp, hỏi không hiểu thì đáp không ra, tức lắm, hỏi nữa, khi nào thình lình đáp ra là kiến tánh. / ' +
+      'Đáp ra được không phải do bộ óc tìm hiểu mà đáp ra, đáp ra là thình lình bừng sáng khắp không gian thời gian, tức là hiện lên bản thể, không phải do lời nói mà đáp.',
+  }
 ]
 export default faqsDb;
