@@ -801,6 +801,121 @@ const ZenPracticeAlerts = {
     'Tham Thiền Cảnh Ngữ',
   paragraph50:
     'Tham Thiền Cảnh Ngữ',
+  paragraph51:
+    'KHAI THỊ VỀ GIẢI NGỘ VÀ CHỨNG NGỘ',
+  paragraph52:
+    'Một chữ ngộ, môn hạ Tổ Sư gọi là thuốc độc, hãy còn chẳng lưu lại, huống / ' +
+    'là ngộ ư? Nay chẳng tránh phạm húy, mà nói đến chữ ngộ, khiến trí ngu có / ' +
+    'chỗ so chọn, tông giáo có chỗ phân chia, hành giả chẳng sa vào con đường / ' +
+    'hiểm trở, thật là sự giúp ích trên đường tu hành. / ' +
+    'Luận về thiền có hai thứ ngộ môn: Một là từ trong văn tự ngữ ngôn được / ' +
+    'giải ngộ. Hai là từ trên phân minh tham cứu được triệt ngộ. Người giải ngộ / ' +
+    'sức yếu. Người triệt ngộ sức mạnh. Người giải ngộ như nghe người nói vật. / ' +
+    'Người triệt ngộ như chính con mắt mình thấy vật. Nghe, thấy tuy một, mà / ' +
+    'nghi và chẳng nghi, thật cách xa như trời với đất. Người từ trong văn tự giải / ' +
+    'chưa được triệt ngộ có hai thứ chướng: Một là văn tự chứng, hai là lý / ' +
+    'chướng. Văn tự chướng như người ăn mật, càng ăn càng thấy ngọt; tìm cầu / ' +
+    'chân lý sâu mầu ở trong mười hai phần giáo, không dính dáng gì với việc / ' +
+    'thoát ly sanh tử, cho nên gọi là chướng. Lý chướng nghĩa là thật tế đối với lý / ' +
+    'địa in tuồng rõ ràng, như toàn thân là châu báu song chẳng được thật dụng, / ' +
+    'đối với việc sanh tử cũng không dính dáng, cho nên gọi là chướng. / ' +
+    'Người trong văn tự giải chưa được triệt ngộ, có hai thứ mạn: Một là ngã / ' +
+    'mạn, hai là tăng thượng mạn. Ngã mạn nghĩa là cho rằng ta đã ngộ, chúng / ' +
+    'sanh ở trong mê, như chỗ ta thấy, người khác chẳng biết, do đây khởi mạn. / ' +
+    'Tăng thượng mạn nghĩa là cho rằng ta đã vào địa vị Thánh, trên không / ' +
+    'không có Phật để cầu, dưới không có chúng sanh để độ, một chữ Phật ta / ' +
+    'chẳng thích nghe, do đây khởi mạn. / ' +
+    'Người trong văn tự giải chưa được triệt ngộ áo hai thứ tâm khiếp nhược: / ' +
+    'Một là ta thấy lý đã tột, mà hạnh chẳng theo kịp, ở trong địa vị Hiền Thánh / ' +
+    'chưa được chỗ thực tiễn, do đây khởi tâm khiếp nhược. Hai là chỗ thấy của / ' +
+    'ta cùng Phật đồng mà thật chẳng được quả dụng Phật, nên ta không có diệu / ' +
+    'dụng thần thông quang minh, do đây khởi tâm khiếp nhược. / ' +
+    'Người trong văn tự giải chưa được triệt ngộ, có hai thứ tưởng an ổn: Một là / ' +
+    'cho rằng thật tế lý địa chẳng thọ nhứt trần, núi sông đất đai chẳng ngại nhãn / ' +
+    'quang; lại nói: “Tròn đồng thái hư, không thiếu không dư”, trong thể đại / ' +
+    'viên tìm sư sanh tử qua lại trọn chẳng thể được, do đây khởi tưởng an ổn. / ' +
+    'Hai là thấy lý tuy rõ mà chẳng thể thân chứng. Trong các giáo thừa phần / ' +
+    'đông quy hướng Tịnh Độ, cho rằng chỉ có niệm Phật vãng sanh là ổn đáng / ' +
+    'hơn hết, do đây khởi tưởng an ổn. / ' +
+    '(Từ trên đến đây đều là thiền bệnh). / ' +
+    'Người quả thật triệt ngộ chẳng lấy văn tự làm giải cho hai thứ thật thọ dụng: / ' +
+    'Một là được chư Phật hóa nghi. Hai là được chư Phật quả dụng. Hóa nghi / ' +
+    'nghĩa là trong cõi tịnh, cõi uế của chư Phật, quyến thuộc của Bồ tát, quyến / ' +
+    'thuộc Thanh văn, mây hương, mây hoa, mây tràng phan bảo cái và thiên / ' +
+    'long bát bộ cùng ta đồng đẳng không khác. Nếu chẳng như thế là chưa triệt / ' +
+    'ngộ, vì lý ấy có chừng ngằn. Hai là được chư Phật quả dụng, nghĩa là ba / ' +
+    'mươi hai tướng, tám mươi vẽ đẹp cho đến chín mươi bảy thứ và Pháp thân / ' +
+    'thanh tịnh và thần thông quang minh, thuyết pháp… cùng ta đồng đẳng, / ' +
+    'không hai, không khác. Nếu chẳng như thế là chưa triệt ngộ, vì lý ấy có / ' +
+    'chừng ngằn. / ' +
+    'Người quả thật triệt ngộ chẳng lấy văn tự làm giải, đầy đủ diệu hạnh của các / ' +
+    'Bồ tát, nghĩa là chư Bồ tát quá khứ, chư Bồ tát vị lai, chư Bồ tát hiện tại, / ' +
+    'diệu hạnh các Ngài đã làm trong số kiếp bất khả thuyết thời đồng, xứ đồng, / ' +
+    'thân đồng, hạnh đồng, trong khoảng một sát na, một vị trần thảy đều đầy đủ. / ' +
+    'Nếu chẳng như thế là chưa triệt ngộ, vì lý ấy có chừng ngằn. / ' +
+    'Người quả thật triệt ngộ chẳng lấy văn tự làm giải, cùng mười hai loại chúng / ' +
+    'sanh đồng một thể tánh, thân mình nhập vào thân người, thân người nhập / ' +
+    'vào thân mình, một thân nhập vào một thân, nhiều thân nhập vào một thân, / ' +
+    'thế giới kia nhập vào thế giới này, thế giới này nhập vào thế giới kia, thế / ' +
+    'giới nhập vào tự thân, tự thân nhập vào thế giới, nhập vào tự thân chẳng thấy / ' +
+    'có thế giới, nhập vào thế giới chẳng thấy có tự thân, nhiếp lẫn nhau, dung / ' +
+    'lẫn nhau, không hoại, không tạp. Lại ở trong phần chúng sanh đồng một bi / ' +
+    'ngưỡng. Lại ở trong phần chúng sanh khởi đồng thể đại bi, nghĩa là thiện và / ' +
+    'ác đều không tự tánh, đều là tự tâm hiện lượng, đã không có cảnh ngoài tâm, / ' +
+    'dùng vô tác để hứng từ vận bi chẳng ngại ở trong cái thể vô tánh mà giải / ' +
+    'thoát chúng sanh vô tánh. Nếu chẳng như thế là chưa triệt ngộ, vì lý ấy có / ' +
+    'chừng ngằn. / ' +
+    'Người quả thật triệt ngộ không lấy văn tự làm giải, cùng mười hai loài chúng / ' +
+    'sanh đồng một huyễn hóa, nghĩa là duyên sanh vô tánh, sanh vốn vô sanh; / ' +
+    'vô tánh duyên sanh, chúng sanh đâu có thật như huyễn hóa, ta cùng với / ' +
+    'chúng sanh ở chung. Nếu chẳng như thế chưa triệt ngộ, vì lý ấy có chừng / ' +
+    'ngằn. / ' +
+    '(Đoạn trên là nói sự thọ dụng của người ngộ tâm, chẳng phải người giải có / ' +
+    'thể biết). / ' +
+    'Lại nữa, người từ trong ngữ ngôn giải nên không được triệt ngộ sanh ra vô / ' +
+    'biên cuồng giải; có người lấy “Hằng ngày việc không khác, chỉ ta tự biết / ' +
+    'hay” ma sanh cuồng giải. Có người lấy “theo dòng nhận được tánh, không / ' +
+    'mừng cũng không lo” mà sanh cuồng giải. Có người lấy “thần thông và diệu / ' +
+    'dụng, gánh nước và bửa củi” mà sanh cuồng giải. Có người lấy “xưa nay / ' +
+    'không một vật, chỗ nào dính bụi nhơ” mà sanh cuồng giải. Có người lấy / ' +
+    '“đối cảnh tâm luôn khởi, Bồ đề làm sao lớn” mà sanh cuồng giải. Có người / ' +
+    'lấy “núi sông và đất đai, toàn lộ thân pháp vương” mà sanh cuồng giải. Có / ' +
+    'người lấy “thật tánh vô minh tức Phật tánh, thân không huyễn hóa tức pháp / ' +
+    'thân” mà sanh cuồng giải. Có người lấy “vào cửa liền đánh” mà sanh cuồng / ' +
+    'giải. Có người lấy “cơ phong đáp hỏi đầu môi lanh lợi” mà sanh cuồng giải. / ' +
+    'Có người lấy “chẳng cần tham cứu, ngay đó lập tức gánh vác” mà sanh / ' +
+    'cuồng giải. Có người lấy “vào cửa liền mừng” mà sanh cuồng giải. Có người / ' +
+    'lấy “tập học thi phú từ chương, công xảo, kỹ nghiệp” mà sanh cuồng giải. / ' +
+    'Có người lấy “buông bỏ lại buông bỏ, mở miệng tức là sai lầm” mà sanh / ' +
+    'cuồng giải',
+  paragraph53:
+    '',
+  paragraph54:
+    '',
+  paragraph55:
+    '',
+  paragraph56:
+    '',
+  paragraph57:
+    '',
+  paragraph58:
+    '',
+  paragraph59:
+    '',
+  paragraph60:
+    'thuốc độc. Do vì chánh pháp suy đồi, tà ma hưng thạnh quyến thuộc nối / ' +
+    'nhau đầy cả thế gian; người lưu tâm tới việc sanh tử chẳng thể chẳng trước / ' +
+    'tiên soi thấu cảnh giới hư vọng này. / ' +
+    'Lại có ba câu Cát đằng chẳng thể nói trắng ra cho cư sĩ rõ. Cổ Đức nói: / ' +
+    '1- Thế nào là thiền ? / ' +
+    '- Con khỉ leo cây quơ cái đuôi. / ' +
+    '2- Thế nào là thiền ? / ' +
+    '- Lửa hực đổ thêm dầu. / ' +
+    '3- Thế nào là thiền ? / ' +
+    '-Cục gạch / ' +
+    'Những lời này là cát đằng của Tổ Sư truyền, tuy nhiên phân minh như thế / ' +
+    'song nói với ông tưởng cũng rất khó. / ' +
+    '(Đáp Thái sư Ngô Quán Ngã hỏi về sự khác nhau giữa Tông và Giáo)',
   verse:
     '',
   }

@@ -41,10 +41,10 @@ const CnLv3MasterDb = [
     country: 'China',
     place: '-',
     teachers: ['Shitou Xiqian', 'Mazu Daoyi'],
-    successors: ['Yunyan Tansheng'],
+    successors: [],
     disciples: ['Yunyan Tansheng', 'Chuanzi Decheng', 'Daowu Yuanzhi'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Yaoshan_Weiyan_Image.jpg',
-    reference: ['https://pl.wikipedia.org/wiki/Danxia_Tianran'],
+    reference: ['https://pl.wikipedia.org/wiki/Yaoshan_Weiyan', 'https://terebess.hu/zen/yaoshan.html'],
   },
   {
     id: '36.3.3',
