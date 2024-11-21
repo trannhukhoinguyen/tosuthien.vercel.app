@@ -802,7 +802,7 @@ const ZenPracticeAlerts = {
   paragraph50:
     'Tham Thiền Cảnh Ngữ',
   paragraph51:
-    'KHAI THỊ VỀ GIẢI NGỘ VÀ CHỨNG NGỘ',
+    'PHỤ LỤC: KHAI THỊ VỀ GIẢI NGỘ VÀ CHỨNG NGỘ',
   paragraph52:
     'Một chữ ngộ, môn hạ Tổ Sư gọi là thuốc độc, hãy còn chẳng lưu lại, huống / ' +
     'là ngộ ư? Nay chẳng tránh phạm húy, mà nói đến chữ ngộ, khiến trí ngu có / ' +
