@@ -1,5 +1,6 @@
 const Sandokai = {
   title: "Tham Đồng Khế",
+  others: ['參同契'],
   youtubeId: "",
   subTitle: "Việt Dịch: Đỗ Đình Đồng",
   author: "[Thiền sư] Thạch Đầu Hy Thiên",
