@@ -431,14 +431,17 @@ const IronFlute = [
 
   {
     id: 15,
-    title: 'TẮC THỨ 15: ',
+    title: 'TẮC THỨ 15: ĐẠI TÙY TU BÊN TRONG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Đại Tùy nói với tăng chúng, “Này các anh em, thà đào bên trong một tấc còn hơn là thuyết Pháp bên ngoài một thước. Thà tu bên trong một phân còn hơn là giảng bên ngoài một tấc.” Để cân bằng và làm sáng tỏ câu nói này, Động Sơn nói, “Tôi giảng cái gì tôi không thể thiền định, và tôi thiền định cái gì tôi không thể giảng.”',
     commentBeforeVerse:
       '',
     commentAfterVerse:
-      '',
+      'Như Huyễn: Đại Từ, hay Thiền sư Khoan Trung, sống trong một ngôi chùa trên núi Đại Từ. Động Sơn là người đồng thời nhưng trẻ hơn hăm bảy tuổi. Trước khi học câu nói của Động Sơn, quí vị cần phải hiểu cặn kẽ lời của Đại Từ. Người Phật giáo Đại thừa muốn giác ngộ tất cả chúng sinh đau khổ vì vô minh. Động cơ thì vĩ đại, nhưng y không nên quên tự tu từng giây từng phút. Y nhập vào đoàn quân viễn chinh chinh phục vô minh và giác ngộ mọi người. Chư Phật và Tổ trong quá khứ và hiện tại cùng làm việc với y và sẽ tiếp tục công việc của họ trong vị lai. Nếu nhầm một bước là y bị lùi lại phiá sau. / ' + 
+'Nếu một người lặp lại cái gì y nghe từ người khác hay đọc trong sách, thì chẳng phải y đang truyền bá Pháp mà chỉ là giả mạo mà thôi. Ở Đông phương chúng tôi gọi người như thế là “học giả ba tấc.” Y chỉ đọc sách hay nghe người ta rồi nói, và khoảng cách giữa mắt hay miệng hay giữa tai và miệng cũng chỉ khoản ba tấc [Tàu]. Những ai diễn thuyết hay viết sách về Phật giáo mà bản thân họ không đạt được ánh sáng bên trong thì họ đang làm việc vô ích. / ' +
+'Một thanh niên Hy lạp ngày xưa có lần hỏi một đồng đội trên chiến trường anh ta có thể làm gì với thanh kiếm quá ngắn của mình. Đồng đội đáp, “Tôi sẽ tiến một bước nhanh hơn những người khác”. / ' +
+'Tất cả những gì anh ta có trên thế gian này là cây kiếm duy nhất đó; dù dài hay ngắn, anh ta cũng phải chiến đấu với nó. Cũng giống như chiến sĩ kia, người học Thiền không có ý nghĩ thứ nhì, do đó, y giảng trong lúc thiền định và thiền định trong lúc giảng. Muốn đạt đến cảnh giới Động Sơn nói, người ta phải đi từng bước một theo con đường Đại Từ dạy tăng chúng.',
   },
 
   {
