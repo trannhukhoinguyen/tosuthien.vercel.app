@@ -7,41 +7,148 @@ const Sandokai = {
   intro: 
    "",
   verse:
-    "Thân hư huyễn trong mộng / " +
+   'Trúc thổ đại tiên tâm (Tâm đại tiên Thiên trúc) / ' +
+   'Đông Tây mật tương phó (Bí mật Đông Tây trao) / ' +
+   'Nhân căn hữu lợi độn (Trí người có nhanh chậm) / ' +
+   'Đạo vô nam bắc tổ (Đạo Tổ không bắc nam) / ' +
+
+Linh nguyên minh kiểu khiết, Nguồn linh sáng tinh khiết,
+
+Chi phái ám lưu chú. Chi nhánh chảy âm u.
+
+Chấp sự nguyên thị mê, Bám theo vật là mê
+
+Khế lý diệc phi ngộ. Hiểu lí chưa phải ngộ.
+
+Môn môn nhất thiết cảnh, Cửa cửa, tất cả cảnh
+
+Hồi hỗ bất hồi hỗ. Trợ nhau, chẳng trợ nhau.
+
+Hồi nhi cánh tương thiệp, Trợ nhau nên giao thiệp,
+
+Bất nhĩ y lập trụ. Nếu không, tự trụ riêng.
+Sắc bổn thù chất tượng, Sắc vốn khác hình chất
+
+Thanh nguyên dị lạc khổ. Thanh không giống khổ vui.
+
+Ám hợp thượng trung ngôn, Lời cao, vừa ám hợp,
+
+Minh minh thanh trọc cú. Câu trong đục rõ ràng. 
+
+Tứ đại tánh tự phục, Bốn đại tự về tánh,
+
+Như tử đắc kỳ mẫu. Như con được mẹ hiền.
+
+Hoả nhiệt, phong động diêu, Lửa nóng, gió dao động,
+
+Thuỷ thấp, địa kiên cố. Nước ướt, đất vững bền.
+Nhãn sắc, nhĩ âm thanh, Mắt sắc, tai âm thanh,
+
+Tị hương, thiệt hàm thố. Mũi hương, lưỡi chua mặn.
+
+Nhiên y nhất nhất pháp, Pháp pháp vốn y nhiên,
+
+Y căn diệp phân bố. Lá phân ra từ gốc.
+
+Bản mạt tu qui tông, Gốc ngọn đều về cội,
+
+Tôn ti dụng kỳ ngữ. Cao thấp dùng lời riêng.
+
+Đương minh trung hữu ám, Trong sáng kia có tối,
+
+Vật dĩ ám tương đổ. Chớ lấy tối thấy nhau.
+
+Minh ám các tương đối, Sáng tối đều tương đối,
+
+Tỉ như tiền hậu bộ. Ví như bước trước sau.
+
+Vạn vật tự hữu công, Mỗi vật đều có công,
+
+Đương ngôn dụng cập xử. Dùng lời phải đúng chỗ.
+
+Sự tồn hàm cái hợp, Sự như nắp vừa hộp,
+
+Lí ứng tiễn phong trụ. Lí như tên chạm nhau.
+
+Thừa ngôn tu hội tông, Theo lời hiểu tông chỉ,
+
+Vật tự lập qui củ. Chớ lập qui củ riêng.
+
+ 
+
+Xúc mục bất hội đạo, Chạm mắt không thấy đạo,
+
+
+
+/ " +
     "Hình sắc giữa chốn không /  " +
+
     "Việc đã qua không cùng / " +
+
     "Việc về sau ai biết / " +
+
     "Sanh đây thác về kia / " +
+
     "Chìm nổi lăn lóc khổ / " +
+
     "Chưa thoát ngoài ba cõi / " +
+
     "Sao có thể nghỉ yên / " +
+
     "Tham luyến chốn thế gian / " +
+
     "Năm uẩn duyên hợp thành / " +
+
     "Sanh ra mãi đến già / " +
+
     "Rốt không được gì cả / " +
+
     "Gốc rễ tự vô minh / " +
+
     "Từ đó phải mê lầm / " +
+
     "Ngày tháng luống trôi qua / " +
+
     "Thời khắc không lường được / " +
+
     "Một đời này uổng phí / " +
+
     "Qua đời khác chẳng thông / " +
+
     "Tiếp nối mãi mê lầm / " +
+
     "Đều do sáu tên giặc / " +
+
     "Lăn lóc giữa sáu đường / " +
+
     "Loanh quanh trong ba cõi / " +
+
     "Sớm cầu bậc minh sư / " +
+
     "Gần gũi người đức hạnh / " +
+
     "Thân tâm khéo chọn lựa / " +
+
     "Quét hết bao gai góc / " +
+
     "Đời nổi trôi phù phiếm / " +
+
     "Sao để duyên thúc bức / " +
+
     "Phải xét cùng pháp lý / " +
+
     "Quyết chứng ngộ đạo mầu / " +
+
     "Tâm cảnh đều mất sạch / " +
-    "Không nhớ không tưởng đến / " +
-    "Sáu căn tùy tự nhiên / " +
-    "Đi ở đều vắng lặng / " +
-    "Tâm định không sanh khởi / " +
-    "Muôn pháp tự dứt lìa",
+
+    "Vận thị ma tri lộ (Làm sao biết đường đi ?) / " +
+
+    "Tiến thiệp phi cận viễn (Bước tới chẳng gần xa ) / " +
+
+    "Mê cách sơn hà cố (Mê thì sông núi cách) / " +
+
+    "Cẩn bạch tham huyền nhân (Nhắn nhủ người tham học) / " +
+
+    "Quang âm mạc hư độ (Ngày đêm chớ luống qua)",
 }
 export default Sandokai
