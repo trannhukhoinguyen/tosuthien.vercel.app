@@ -255,16 +255,25 @@ const IronFlute = [
       title: 'TẮC THỨ 10: DƯỢC SƠN NẮM GIỮ',
       image: '/images/iron-flute/iron-flute-cover.jpg',
       main:
-        'Quan tri phủ hỏi Dược Sơn, “Tôi hiểu rằng tất cả Phật tử phải có Giới, Định và Tuệ. / ' +
-        'Thầy có giữ giới không? Thầy có tu định không? Thầy có đạt tuệ không?” ' +
-        'Dược Sơn đáp, “Bần tăng không có những thứ rác rến như thế quanh đây.” ' +
-        'Quan tri phủ nói, “Thầy ắt có pháp thâm sâu, nhưng tôi chẳng hiểu pháp ấy.” ' +
-        'Dược Sơn tiếp, “Nếu muốn nắm giữ nó, ngài phải leo lên ngọn núi cao nhất và ngồi trên chóp đỉnh hoặc phải lặn xuống biển sâu nhất và bước đi nơi đáy nó. / ' +
-        'Vào giường riêng để ngủ mà tâm trĩu nặng, làm sao ngài có thể nắm giữ được Thiền của tôi?”',
+        'Quan tri phủ hỏi Dược Sơn: / ' +
+        '“Tôi hiểu rằng tất cả Phật tử phải có Giới, Định và Tuệ. Thầy có giữ giới không ? Thầy có tu định không? Thầy có đạt tuệ không ?” / ' +
+        'Dược Sơn đáp: / ' +
+        '“Bần tăng không có những thứ rác rến như thế quanh đây.” / ' +
+        'Quan tri phủ nói: / ' +
+        '“Thầy ắt có pháp thâm sâu, nhưng tôi chẳng hiểu pháp ấy.” / ' +
+        'Dược Sơn tiếp: / ' +
+        '“Nếu muốn nắm giữ nó, ngài phải leo lên ngọn núi cao nhất và ngồi trên chóp đỉnh hoặc phải lặn xuống biển sâu nhất và bước đi nơi đáy nó. Vào giường riêng để ngủ mà tâm trĩu nặng, làm sao ngài có thể nắm giữ được Thiền của tôi ?”',
       commentAfterVerseExtra:
         'Như Huyễn: / ' +
-        'Khi một người giữ giới luật, y có thể thiền định tốt; khi sự thiền định thành thục, y có thể đạt trí tuệ. Vì ba cái này, Giới, Định và Tuệ, tương quan và thiết yếu như nhau, không một cái nào trong ba cái này có thể thực hiện riêng rẽ như một cái học độc lập. Nhưng ông quan tri phủ đang cố gắng hiểu pháp như ông ta hiểu một cuộc khảo hạch nhiệm vụ công dân. Chính ông ta đã có đám người thường được tuyển chọn có thể khiếm khuyết một phẩm chất nào đó, miễn là họ mạnh về một phẩm chất khác. Những câu ông ta hỏi Dược Sơn thực ngu ngốc làm sao. Nếu một ông tăng khiếm khuyết về giữ giới, thì ông ta không thể hoàn thành thiền định được; nếu không hoàn thành được thiền định, thì ông ta chẳng bao giờ đạt được chân trí tuệ. Ông ta không thể chuyên tu một cái nào trong ba cái này. / ' +
-        'Ngày nay có những người học Phật viết sách mà không bao giờ tu thiền định hay sống cuộc sống đạo đức và những “sư” Thiền thiếu nhiều đạo hạnh giản dị hơn. Dù cho có cạo đầu, mặc áo vàng và tụng kinh, họ cũng không bao giờ biết chân nghĩa của Pháp. Quí vị có thể làm gì với những kẻ bắt chước này? ' +
+        'Khi một người giữ giới luật, y có thể thiền định tốt; khi sự thiền định thành thục, y có thể đạt trí tuệ. / ' +
+        'Vì 3 cái này (iới, Định và Tuệ) tương quan và thiết yếu như nhau, không một cái nào trong 3 cái này có thể thực hiện riêng rẽ như một cái học độc lập. / ' +
+        'Nhưng ông quan tri phủ đang cố gắng hiểu pháp như ông ta hiểu một cuộc khảo hạch nhiệm vụ công dân. / ' +
+        'Chính ông ta đã có đám người thường được tuyển chọn có thể khiếm khuyết một phẩm chất nào đó, miễn là họ mạnh về một phẩm chất khác. / ' +
+        'Những câu ông ta hỏi Dược Sơn thực ngu ngốc làm sao. / ' +
+        'Nếu một ông tăng khiếm khuyết về giữ giới, thì ông ta không thể hoàn thành thiền định được; nếu không hoàn thành được thiền định, thì ông ta chẳng bao giờ đạt được chân trí tuệ. ' +
+        'Ông ta không thể chuyên tu một cái nào trong ba cái này. / ' +
+        'Ngày nay có những người học Phật viết sách mà không bao giờ tu thiền định hay sống cuộc sống đạo đức và những “sư” Thiền thiếu nhiều đạo hạnh giản dị hơn. / ' +
+        'Dù cho có cạo đầu, mặc áo vàng và tụng kinh, họ cũng không bao giờ biết chân nghĩa của Pháp. Quí vị có thể làm gì với những kẻ bắt chước này? ' +
         'Ông quan tri phủ không thể hiểu Thiền vách đứng của Dược Sơn, nhưng ông ta chấp nhận nó. Dược Sơn thấy có hy vọng và đã chỉ dạy cho ông ta vài điểm.',
       commentBeforeVerse:
         'Genro: / ' +
