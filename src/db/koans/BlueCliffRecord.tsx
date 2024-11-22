@@ -2281,10 +2281,10 @@ verse:
       'Đại Quang nói, “Ông thấy được cái gì mà lạy vậy ?” Ông tăng bèn nhảy múa / ' +
       'Đại Quang nói, “Con chồn hoang quỉ này!”',
     verse:
-'Tên trước còn nhẹ tên sau sâu / ' +
-'Ai bảo lá vàng là vàng ròng ? / ' +
-'Sóng nước Tào Khê nếu tương tự / ' +
-'Biết bao người thường bị chìm đắm',
+    'Tên trước còn nhẹ tên sau sâu / ' +
+    'Ai bảo lá vàng là vàng ròng ? / ' +
+    'Sóng nước Tào Khê nếu tương tự / ' +
+    'Biết bao người thường bị chìm đắm',
     verseExtra: '',
     commentAfterVerse:
       '',
@@ -2301,10 +2301,10 @@ verse:
       'Nếu như ông thấy chỗ không thấy của tôi thì tự nhiên đó lại không phải là cái tướng của cái không thấy kia nữa. / ' +
       'Nếu như các ông không thấy cái không thấy của tôi, tự nhiên nó không phải là một vật nữa, tại sao đó lại không phải là ông ?”',
     verse:
-'Toàn với toàn bò đều chướng mắt / ' +
-'Các bậc chuyên gia cũng mô tả / ' +
-'Nếu như muốn gặp lão mặt vàng / ' +
-'Sát sát trần trần ở giữa đường',
+    'Toàn với toàn bò đều chướng mắt / ' +
+    'Các bậc chuyên gia cũng mô tả / ' +
+    'Nếu như muốn gặp lão mặt vàng / ' +
+    'Sát sát trần trần ở giữa đường',
     verseExtra: '',
     commentAfterVerse:
       '',
@@ -2317,20 +2317,20 @@ verse:
     intro:
       '',
     main:
-      'Trường Khánh có lần nói, “Thà nói rằng A La Hán có tam độc chứ đừng nói là Như Lai có nhị chủng ngữ. / ' +
-      'Tôi không nói rằng Như Lai vô ngữ mà chỉ nói là Như Lai không có nhị chủng ngữ mà thôi. / ' +
-'Bảo Phúc nói, “Thế nào là ngôn ngữ của Như Lai ?” / ' +
-'Trường Khánh nói, “Người điếc làm sao nghe được ?” / ' +
-'Bảo Phúc nói, “Tôi biết ông nói ở mức độ thứ 2" / ' +
-'Trường Khánh nói, “Thế nào là ngôn ngữ của Như Lai ?” / ' +
-'Bảo Phúc nói, “Đi uống trà đi !”',
+    'Trường Khánh có lần nói, “Thà nói rằng A La Hán có tam độc chứ đừng nói là Như Lai có nhị chủng ngữ. / ' +
+    'Tôi không nói rằng Như Lai vô ngữ mà chỉ nói là Như Lai không có nhị chủng ngữ mà thôi. / ' +
+    'Bảo Phúc nói, “Thế nào là ngôn ngữ của Như Lai ?” / ' +
+    'Trường Khánh nói, “Người điếc làm sao nghe được ?” / ' +
+    'Bảo Phúc nói, “Tôi biết ông nói ở mức độ thứ 2" / ' +
+    'Trường Khánh nói, “Thế nào là ngôn ngữ của Như Lai ?” / ' +
+    'Bảo Phúc nói, “Đi uống trà đi !”',
     verse:
-'Đầu hề đệ nhất đệ nhị / ' +
-'Ngọa long chẳng nhìn nước đọng / ' +
-'Nơi không, có trăng sóng trong / ' +
-'Nơi có, không gió sóng nổi / ' +
-'Lăng Thiền khách ! Lãng Thiền khách ! / ' +
-'Tháng ba cửa Ngu bị điểm ngạch',
+    'Đầu hề đệ nhất đệ nhị / ' +
+    'Ngọa long chẳng nhìn nước đọng / ' +
+    'Nơi không, có trăng sóng trong / ' +
+    'Nơi có, không gió sóng nổi / ' +
+    'Lăng Thiền khách ! Lãng Thiền khách ! / ' +
+    'Tháng ba cửa Ngu bị điểm ngạch',
     verseExtra: '',
     commentAfterVerse:
       '',
@@ -2349,18 +2349,18 @@ verse:
       'Phật bằng đất không độ được nước / ' +
       'Sau khi dạy 3 chuyển ngữ xong, cuối cùng Triệu Châu nói, “Chân Phật ngồi trong nhà”',
     verse:
-'Phật bùn không qua nước / ' +
-'Thần quang chiếu thiên địa / ' +
-'Trong tuyết nếu chưa thôi / ' +
-'Có ai không giả tạo ? / ' +
-'Phật vàng không qua lò / ' +
-'Người đến thăm Tử Hồ / ' +
-'Trên bảng một vài chữ / ' +
-'Gió mát chốn nào không ? / ' +
-'Phật gỗ không qua lửa / ' +
-'Thường nghĩ ông phá lò / ' +
-'Cây gậy hốt nhiên đánh / ' +
-'Mới hay cô phụ mình...',
+    'Phật bùn không qua nước / ' +
+    'Thần quang chiếu thiên địa / ' +
+    'Trong tuyết nếu chưa thôi / ' +
+    'Có ai không giả tạo ? / ' +
+    'Phật vàng không qua lò / ' +
+    'Người đến thăm Tử Hồ / ' +
+    'Trên bảng một vài chữ / ' +
+    'Gió mát chốn nào không ? / ' +
+    'Phật gỗ không qua lửa / ' +
+    'Thường nghĩ ông phá lò / ' +
+    'Cây gậy hốt nhiên đánh / ' +
+    'Mới hay cô phụ mình...',
     verseExtra: '',
     commentAfterVerse:
       '',
@@ -2376,15 +2376,15 @@ verse:
       'Kinh Kim Cương nói: / ' +
       '“Nếu một người bị kẻ khác khinh rẻ, người ấy kiếp trước có tội chướng đáng bị đọa vào ác đạo, song vì kiếp này bị khinh rẻ, tội nghiệp kiếp trước bèn được tiêu trừ”',
     verse:
-'Ngọc sáng trong tay / ' +
-'Có công được thưởng / ' +
-'Hồ Hán không đến / ' +
-'Toàn vô kỹ lưỡng / ' +
-'Đã không kỹ lưỡng / ' +
-'Ba tuần lạc đường / ' +
-'Cồ Đàm, Cồ Đàm ! / ' +
-'Biết tôi hay không ? / ' +
-'Lại nói, “Khám phá ra rồi”',
+    'Ngọc sáng trong tay / ' +
+    'Có công được thưởng / ' +
+    'Hồ Hán không đến / ' +
+    'Toàn vô kỹ lưỡng / ' +
+    'Đã không kỹ lưỡng / ' +
+    'Ba tuần lạc đường / ' +
+    'Cồ Đàm, Cồ Đàm ! / ' +
+    'Biết tôi hay không ? / ' +
+    'Lại nói, “Khám phá ra rồi”',
     verseExtra: '',
     commentAfterVerse:
       '',
@@ -2397,18 +2397,18 @@ verse:
     intro:
       '',
     main:
-      'Lúc Thiên Bình hòa thượng đi hành cước có đến tham kiến Tây Viện. Thường nói rằng, “Đừng nói là ông hiểu Phật pháp, tìm một người cử được thoại đầu cũng chẳng ra.” / ' +
-'Một hôm Tây Viện trông thấy Thiên Bình từ xa, gọi rằng, “ Tùng Ỷ!” Thiên Bình ngẩng đầu. Tây Viện nói, “ Sai!” Thiên Bình bước tới hai ba bước, Tây Viện lại nói, “ sai!”Thiên Bình bước đến gần; Tây Viện nói, “ Hai cái sai vừa rồi, là Tây Viện sai hay là thượng tọa sai?” Thiên Bình nói, “Tùng Ỷ sai.” Tây Viện nói, “Ở đây qua mùa hạ đi, rồi tôi sẽ cùng thượng tọa bàn về hai cái sai kia.” Thiên Bình lúc ấy vẫn bỏ đi. / ' +
-'Sau này lúc trụ viện, Thiên Bình nói với đại chúng rằng, “Ban đầu lúc tôi đi hành cước , bị gió nghiệp thổi đến tận chỗ Tử Minh Trưởng Lão, Trưởng Lão nói, “ Sai!” hai lần liên tiếp, rồi lại giữ tôi qua mùa hạ, để mà bàn luận. Không phải lúc đó tôi mới sai, ngay lúc khởi hành đi phương nam, tôi đã biết là sai rồi.”',
+    'Lúc Thiên Bình hòa thượng đi hành cước có đến tham kiến Tây Viện. Thường nói rằng, “Đừng nói là ông hiểu Phật pháp, tìm một người cử được thoại đầu cũng chẳng ra.” / ' +
+    'Một hôm Tây Viện trông thấy Thiên Bình từ xa, gọi rằng, “ Tùng Ỷ!” Thiên Bình ngẩng đầu. Tây Viện nói, “ Sai!” Thiên Bình bước tới hai ba bước, Tây Viện lại nói, “ sai!”Thiên Bình bước đến gần; Tây Viện nói, “ Hai cái sai vừa rồi, là Tây Viện sai hay là thượng tọa sai?” Thiên Bình nói, “Tùng Ỷ sai.” Tây Viện nói, “Ở đây qua mùa hạ đi, rồi tôi sẽ cùng thượng tọa bàn về hai cái sai kia.” Thiên Bình lúc ấy vẫn bỏ đi. / ' +
+    'Sau này lúc trụ viện, Thiên Bình nói với đại chúng rằng, “Ban đầu lúc tôi đi hành cước , bị gió nghiệp thổi đến tận chỗ Tử Minh Trưởng Lão, Trưởng Lão nói, “ Sai!” hai lần liên tiếp, rồi lại giữ tôi qua mùa hạ, để mà bàn luận. Không phải lúc đó tôi mới sai, ngay lúc khởi hành đi phương nam, tôi đã biết là sai rồi.”',
     verse:
-'Các Thiền gia, / ' +
-'Thích khinh bạc / ' +
-'Tham đầy một bụng dùng chẳng được, / ' +
-'Đáng buốn đáng cười lão Thiên Bình / ' +
-'Lại hận lúc đầu đã hành cước / ' +
-'Sai, sai ! / ' +
-'Gió mát Tây Viện tan chẩy ngay / ' +
-'Tuyết Đậu lại nói, “Nếu như có ông tăng bước ra nói, ‘Sai !’ Cái ‘sai” của Tuyết Đậu phải so sánh như thế nào với cái ‘Sai’ của Thiên Bình.”',
+    'Các Thiền gia, / ' +
+    'Thích khinh bạc / ' +
+    'Tham đầy một bụng dùng chẳng được, / ' +
+    'Đáng buốn đáng cười lão Thiên Bình / ' +
+    'Lại hận lúc đầu đã hành cước / ' +
+    'Sai, sai ! / ' +
+    'Gió mát Tây Viện tan chẩy ngay / ' +
+    'Tuyết Đậu lại nói, “Nếu như có ông tăng bước ra nói, ‘Sai !’ Cái ‘sai” của Tuyết Đậu phải so sánh như thế nào với cái ‘Sai’ của Thiên Bình.”',
     verseExtra: '',
     commentAfterVerse:
       '',
@@ -2421,19 +2421,19 @@ verse:
     intro:
       '',
     main:
-      'Túc Tông Hoàng Đế hỏi Huệ Trung Quốc Sư, “Thập thân điều ngự là gì ?” / ' +
-'Quốc Sư nói, “Thí chủ bước trên đầu Tì Lô mà đi” / ' +
-'Túc Tông nói, “ Quả nhân không hiểu” / ' +
-'Quốc Sư nói, “Đừng nhận thanh tịnh Pháp thân của mình”',
+    'Túc Tông Hoàng Đế hỏi Huệ Trung Quốc Sư, “Thập thân điều ngự là gì ?” / ' +
+    'Quốc Sư nói, “Thí chủ bước trên đầu Tì Lô mà đi” / ' +
+    'Túc Tông nói, “ Quả nhân không hiểu” / ' +
+    'Quốc Sư nói, “Đừng nhận thanh tịnh Pháp thân của mình”',
     verse:
-'Thầy của một nước chỉ cưỡng danh / ' +
-'Chỉ mình Nam Dương lừng tiếng thơm / ' +
-'Đại Đường phò được chân thiên tử / ' +
-'Từng đi trên đỉnh đầu Tì Lô / ' +
-'Trùy sắt đập nát hoàng kim cốt / ' +
-'Giữa trời và đất là vật gì ? / ' +
-'Ba ngàn sát hải đêm lặng lẽ / ' +
-'Chẳng biết ai vào hang rồng xanh ?',
+    'Thầy của một nước chỉ cưỡng danh / ' +
+    'Chỉ mình Nam Dương lừng tiếng thơm / ' +
+    'Đại Đường phò được chân thiên tử / ' +
+    'Từng đi trên đỉnh đầu Tì Lô / ' +
+    'Trùy sắt đập nát hoàng kim cốt / ' +
+    'Giữa trời và đất là vật gì ? / ' +
+    'Ba ngàn sát hải đêm lặng lẽ / ' +
+    'Chẳng biết ai vào hang rồng xanh ?',
     verseExtra: '',
     commentAfterVerse:
       '',
@@ -2446,17 +2446,17 @@ verse:
     intro:
       '',
     main:
-      'Có ông tăng hỏi Ba Lăng: “Kiếm sắc là gì ?” / ' +
-'Ba Lăng nói: “Từng nhánh san hô chống đỡ mặt trăng”',
+    'Có ông tăng hỏi Ba Lăng: “Kiếm sắc là gì ?” / ' +
+    'Ba Lăng nói: “Từng nhánh san hô chống đỡ mặt trăng”',
     verse:
-'Bình cái bất bình / ' +
-'Khéo quá tựa vụng / ' +
-'Ngón tay bán tay / ' +
-'Dựa trời chiếu tuyết / ' +
-'Thợ hàn khéo chẳng dũa mài được / ' +
-'Thợ giỏi lau chùi mũi chưa xong / ' +
-'Đặc biệt / ' +
-'Từng nhánh san hô chống mặt trăng',
+    'Bình cái bất bình / ' +
+    'Khéo quá tựa vụng / ' +
+    'Ngón tay bán tay / ' +
+    'Dựa trời chiếu tuyết / ' +
+    'Thợ hàn khéo chẳng dũa mài được / ' +
+    'Thợ giỏi lau chùi mũi chưa xong / ' +
+    'Đặc biệt / ' +
+    'Từng nhánh san hô chống mặt trăng',
     verseExtra: '',
     commentAfterVerse:
       '',
