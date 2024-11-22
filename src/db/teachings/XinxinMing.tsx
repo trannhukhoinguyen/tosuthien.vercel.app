@@ -1,6 +1,6 @@
 const XinxinMing = {
   title: "Tín Tâm Minh",
-  others: ['Hsin-hsin-ming', 'Shinjinmei', 'XinxinMing']
+  others: ['信心銘', 'Hsin-hsin-ming', 'Shinjinmei', 'XinxinMing']
   youtubeId: "",
   subTitle: "Việt Dịch: Đỗ Đình Đồng",
   author: "[Thiền sư] Tam Tổ Tăng Xán",
