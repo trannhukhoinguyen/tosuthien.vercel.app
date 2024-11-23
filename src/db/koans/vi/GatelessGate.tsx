@@ -24,7 +24,7 @@ const GatelessGate = [
 'Điều đó giống như gã câm nằm mộng, chỉ một mình mình hiểu được mà không thể thổ lộ cùng ai. / ' +
 'Đến khi thình lình chữ VÔ ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. / ' +
 'Đứng bên bờ sinh tử mà thong dong tự tại, ở chỗ nào trong cõi lục đạo tứ sinh, dù sanh về đâu hay trở thành cái gì cũng thấy mình đang rong chơi thanh thản. / ' +
-'Hỏi rằng tiếp thu chữ VÔaoô này bằng cách nào à? Hãy dồn hết khí lực bình sinh nghiền ngẫm cho đến khi sức cùng lực kiệt, nếu nỗ lực không chút gián đoạn thì chỉ cần châm một mồi lửa nhỏ trên Phật đàn đã thấy được ánh sáng của Phật pháp bừng tỏa tức khắc',
+'Hỏi rằng tiếp thu chữ VÔ này bằng cách nào à? Hãy dồn hết khí lực bình sinh nghiền ngẫm cho đến khi sức cùng lực kiệt, nếu nỗ lực không chút gián đoạn thì chỉ cần châm một mồi lửa nhỏ trên Phật đàn đã thấy được ánh sáng của Phật pháp bừng tỏa tức khắc',
     verseOriginal:
 'Cẩu tử Phật tính / ' +
 'Toàn đề chính lệnh / ' +
