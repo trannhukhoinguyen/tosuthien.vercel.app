@@ -8,8 +8,8 @@ const GatelessGate = [
     hashTag: 'gateless-gate-1',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-      'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? ' +
-      'Hòa thượng Triệu Châu đáp: Không',
+      'Nhân một người học thiền hỏi: "Con chó CÓ Phật tính hay KHÔNG ?" / ' +
+      'Hòa thượng Triệu Châu đáp: "KHÔNG"',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: / ' +
 'Kẻ muốn tham thiền trước tiên phải vượt qua những ải chắn do các vị tổ sư đặt ra. Người muốn ngộ đạo một cách tuyệt diệu bắt buộc trải qua giai đoạn triệt để xóa sạch mọi ý thức. / ' +
