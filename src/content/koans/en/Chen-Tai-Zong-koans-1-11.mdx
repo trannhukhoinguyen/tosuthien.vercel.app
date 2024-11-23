@@ -1,7 +1,7 @@
 ---
-title: "43 Công Án Trần Thái Tông (1 - 11)"
-meta_title: "43 Công Án Trần Thái Tông (1 - 11)"
-description: "43 Công Án Trần Thái Tông (1 - 11)"
+title: "43 Koans from Chen Tai Zong (1 - 11)"
+meta_title: "43 Koans from Chen Tai Zong (1 - 11)"
+description: "43 Koans from Chen Tai Zong (1 - 11)"
 date: 2024-11-23
 image: "/images/wide-images/dark-1.png"
 tags: ['Koan']
@@ -18,7 +18,7 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
       ?.filter(koan => koan.id >= 1 && koan.id <= 11)
       ?.map(koan => {
         if (koan.id%11 === 1) {
-          return <VintagePost bookTitle={'Công Án Trần Thái Tông (1 - 11)'} author={'Trần Thái Tông'}
+          return <VintagePost bookTitle={`${koan.bookTitle} (1 - 11)`} author={koan.author}
                        chapterTitle={koan.title} image={koan.image}
                        intro={koan.intro} main={koan.main}
                               commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
