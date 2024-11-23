@@ -14,17 +14,17 @@ const GatelessGate = [
 'Vô Môn nói rằng: / ' +
 'Kẻ muốn tham thiền trước tiên phải vượt qua những ải chắn do các vị tổ sư đặt ra. Người muốn ngộ đạo một cách tuyệt diệu bắt buộc trải qua giai đoạn triệt để xóa sạch mọi ý thức. / ' +
 'Nếu không vượt nổi ải chắn của tổ, không dẹp bỏ được mọi ý thức thì còn giống hồn phách phải nương tựa cây cỏ. / ' +
-'Thế thì cửa ải của các tổ là gì nào? Ở đây nó chỉ là một chữ Vô (Không) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. / ' +
-'Muốn dùng một cái tên ngắn gọn thì gọi nó là cái “Ải tên là Vô” hay Ải không cửa của nhà Thiền. / ' +
+'Thế thì cửa ải của các tổ là gì nào ? Ở đây nó chỉ là một chữ VÔ (KHÔNG) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. / ' +
+'Muốn dùng một cái tên ngắn gọn thì gọi nó là cái “Ải tên là VÔ” hay Ải KHÔNG cửa của nhà Thiền. / ' +
 'Kẻ vượt được cái ải chắn này rồi, chẳng những có thể gặp gỡ hòa thượng Triệu Châu, mắt trong mắt, mà còn có thể kết nối lông mi lông mày với chư vị tổ sư, nhìn mọi vật bằng bằng con mắt của tổ, nghe mọi tiếng bằng lỗ tai của tổ. Có phải thống khoái không ? / ' +
-'Có ai muốn vượt qua cái cửa ải kỳ diệu này không? Nếu có thì hãy tổng động viên 365 khớp xương cùng với 84000 lỗ chân lông, toàn thân tụ thành một khối nghi ngờ lớn, rồi tham thiền bằng một chữ Vô. Ngày cũng như đêm không lúc nào quên đặt vấn đề. / ' +
-'Không nên coi chữ Vô này trong cái nghĩa “vô của hư vô” và cũng không nên nên hiểu nó trong cái nghĩa vô của hữu vô. / ' +
+'Có ai muốn vượt qua cái cửa ải kỳ diệu này không? Nếu có thì hãy tổng động viên 365 khớp xương cùng với 84000 lỗ chân lông, toàn thân tụ thành một khối nghi ngờ lớn, rồi tham thiền bằng một chữ VÔ. Ngày cũng như đêm không lúc nào quên đặt vấn đề. / ' +
+'Không nên coi chữ VÔ này trong cái nghĩa “vô của hư vô” và cũng không nên nên hiểu nó trong cái nghĩa vô của hữu vô. / ' +
 'Hãy làm như mình đang ngậm một hòn thép nóng bỏng ở trong miệng, muốn khạc ra mà không khạc được, muốn nuốt vào mà nuốt không trôi.  / ' +
 'Rửa cho sạch hết những kiến thức sai lầm và giác ngộ giả dối đã có, rồi cùng với thời gian, dần dần tu luyện thuần thục, để cho thế giới bên trong và bên ngoài hợp nhất, không còn phân biệt chúng được nữa. / ' +
 'Điều đó giống như gã câm nằm mộng, chỉ một mình mình hiểu được mà không thể thổ lộ cùng ai. / ' +
-'Đến khi thình lình chữ Vô ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. / ' +
+'Đến khi thình lình chữ VÔ ấy nổ tung ra, nó sẽ làm kinh thiên động địa, có khí thế của kẻ đoạt được đại đao của Quan Vân Trường, gặp Phật thì giết Phật, gặp tổ sư thì giết tổ sư. / ' +
 'Đứng bên bờ sinh tử mà thong dong tự tại, ở chỗ nào trong cõi lục đạo tứ sinh, dù sanh về đâu hay trở thành cái gì cũng thấy mình đang rong chơi thanh thản. / ' +
-'Hỏi rằng tiếp thu chữ Vô này bằng cách nào à? Hãy dồn hết khí lực bình sinh nghiền ngẫm cho đến khi sức cùng lực kiệt, nếu nỗ lực không chút gián đoạn thì chỉ cần châm một mồi lửa nhỏ trên Phật đàn đã thấy được ánh sáng của Phật pháp bừng tỏa tức khắc',
+'Hỏi rằng tiếp thu chữ VÔaoô này bằng cách nào à? Hãy dồn hết khí lực bình sinh nghiền ngẫm cho đến khi sức cùng lực kiệt, nếu nỗ lực không chút gián đoạn thì chỉ cần châm một mồi lửa nhỏ trên Phật đàn đã thấy được ánh sáng của Phật pháp bừng tỏa tức khắc',
     verseOriginal:
 'Cẩu tử Phật tính / ' +
 'Toàn đề chính lệnh / ' +
