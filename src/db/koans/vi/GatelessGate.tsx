@@ -5,6 +5,7 @@ const GatelessGate = [
     bookTitle: 'Vô Môn Quan',
     author: 'Vô Môn Huệ Khai',
     title: 'TẮC THỨ 1: Con chó của Triệu Châu (Triệu Châu cẩu tử)',
+    hashTag: 'gateless-gate-1',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
       'Nhân một người học thiền hỏi: Con chó có Phật tính hay không? ' +
