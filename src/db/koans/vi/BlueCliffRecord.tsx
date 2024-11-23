@@ -2,6 +2,7 @@ const BlueCliffRecord = [
   {
       id: 1,
       title: 'TẮC THỨ 1: CÁI TRỐNG KHÔNG CỦA ĐẠT MA',
+      hashTag: 'blue-cliff-record-1',
       image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         'Thấy khói bên kia núi biết là có lửa, thấy sừng bên kia tường biết là có trâu. Chỉ một hiểu ba, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ. Còn như cắt đứt các dòng nhánh, hiện lên ở phương đông, chìm đi ở phương tây, tung hoàng nghịch thuận, tự tại cho hay lấy, vào giây phút đó, thử nói xem là hành tung của kẻ nào? Thử nhìn vào những lời dây dưa của Tuyết Đậu',
