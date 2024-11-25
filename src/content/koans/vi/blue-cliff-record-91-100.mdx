@@ -19,31 +19,33 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
       ?.map(koan => {
         if (koan.id%10 === 1) {
           return <VintagePost
-            bookTitle={'Bích Nham Lục - 碧巖錄 (1 - 10)'}
-            author={'[Thiền sư] Tuyết Đậu Trọng Hiển - [Thiền sư] Viên Ngộ Khắc Cần'}
-            translator={'[Thiền sư] Thích Mãn Giác'}
-                              chapterTitle={koan.title} image={koan.image}
-                              intro={koan.intro} main={koan.main}
-                              commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
-                              verseExtraOriginal={koan.verseExtraOriginal}
-                              verseExtra={koan.verseExtra}
-                              commentAfterVerseExtra={koan.commentAfterVerseExtra}
-                              commentBeforeVerse={koan.commentBeforeVerse}
-                              verseOriginal={koan.verseOriginal}
-                              verse={koan.verse}
-                              commentAfterVerse={koan.commentAfterVerse}
+                    bookTitle={`${koan.bookTitle} (91 - 100)`}
+                    author={koan.author}
+                    translator={koan.translator}
+                    chapterTitle={koan.title} image={koan.image}
+                    intro={koan.intro} main={koan.main}
+                    commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
+                    verseExtraOriginal={koan.verseExtraOriginal}
+                    verseExtra={koan.verseExtra}
+                    commentAfterVerseExtra={koan.commentAfterVerseExtra}
+                    commentBeforeVerse={koan.commentBeforeVerse}
+                    verseOriginal={koan.verseOriginal}
+                    verse={koan.verse}
+                    commentAfterVerse={koan.commentAfterVerse}
           />
         } else {
-          return <VintagePost chapterTitle={koan.title} image={koan.image}
-                              intro={koan.intro} main={koan.main}
-                              commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
-                              verseExtraOriginal={koan.verseExtraOriginal}
-                              verseExtra={koan.verseExtra}
-                              commentAfterVerseExtra={koan.commentAfterVerseExtra}
-                              commentBeforeVerse={koan.commentBeforeVerse}
-                              verseOriginal={koan.verseOriginal}
-                              verse={koan.verse}
-                              commentAfterVerse={koan.commentAfterVerse}
+          return <VintagePost
+                    chapterTitle={koan.title}
+                    image={koan.image}
+                    intro={koan.intro} main={koan.main}
+                    commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
+                    verseExtraOriginal={koan.verseExtraOriginal}
+                    verseExtra={koan.verseExtra}
+                    commentAfterVerseExtra={koan.commentAfterVerseExtra}
+                    commentBeforeVerse={koan.commentBeforeVerse}
+                    verseOriginal={koan.verseOriginal}
+                    verse={koan.verse}
+                    commentAfterVerse={koan.commentAfterVerse}
           />
         }
       })

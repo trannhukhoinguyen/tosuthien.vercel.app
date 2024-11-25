@@ -1,8 +1,9 @@
 const BlueCliffRecord = [
   {
       id: 1,
-      bookTitle: 'Iron Flute',
-      author: 'Genro - Nyogen Senzaki',
+      bookTitle: 'Blue Cliff Record',
+      author: '[Master] Xuedou Chongxian - [Master] Yuanwu Keqin',
+      translator: '',
       title: 'TẮC THỨ 1: CÁI TRỐNG KHÔNG CỦA ĐẠT MA',
       image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:

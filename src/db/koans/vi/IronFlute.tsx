@@ -4,7 +4,7 @@ const IronFlute = [
       bookTitle: 'Tiếng Sáo Thép',
       author: 'Genro - Thiên Khi Như Huyễn',
       title: 'TẮC THỨ 1: VĂN THÙ VÀO CỬA',
-      hashTag: /iron-flute-1',
+      hashTag: '/iron-flute-1',
       image: '/images/iron-flute/iron-flute-cover.jpg',
       main:
         ' Một hôm Bồ-tát Văn Thù đứng ngoài cửa thì đức Phật gọi: "Văn Thù, Văn Thù, sao không vào đi ?" / ' +

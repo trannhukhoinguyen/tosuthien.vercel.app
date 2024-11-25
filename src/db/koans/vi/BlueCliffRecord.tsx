@@ -1,6 +1,9 @@
 const BlueCliffRecord = [
   {
       id: 1,
+      bookTitle: 'Bích Nham Lục',
+      author: '[Thiền sư] Tuyết Đậu Trọng Hiển - [Thiền sư] Viên Ngộ Khắc Cần',
+      translator: '[Thiền sư] Thích Mãn Giác',
       title: 'TẮC THỨ 1: CÁI TRỐNG KHÔNG CỦA ĐẠT MA',
       hashTag: 'blue-cliff-record-1',
       image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
