@@ -2,6 +2,7 @@ const CongRongLu = [
   {
     id: 1,
     title: 'TẮC THỨ 1: THẾ TÔN THĂNG TÒA',
+    hashTag: 'cong-rong-lu-1',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
     'Sư dạy chúng nói: / ' +

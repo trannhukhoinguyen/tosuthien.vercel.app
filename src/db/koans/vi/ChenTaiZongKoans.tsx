@@ -3,6 +3,7 @@ const ChenTaiZongKoans = [
   {
     id: 1,
     title: 'TẮC THỨ 1: ',
+    hashTag: 'chen-tai-zong-1',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thế Tôn chưa rời cung Đâu Suất đã giáng sinh vương cung, / ' +
