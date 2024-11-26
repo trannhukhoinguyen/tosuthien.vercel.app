@@ -19,7 +19,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
 
 const lang = getLangFromUrl(Astro.url);
 const {
-  introduction, main_case, verse_original, verse_translated, comment,
+  introduction, main_case, poem_original, poem_translated, comment,
   } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
@@ -94,7 +94,7 @@ const {
       {
         verseExtraOriginal
           ? <hr/>
-          <h4>{verse_original}</h4>
+          <h4>{poem_original}</h4>
           : ''
       }
       {
@@ -106,7 +106,7 @@ const {
       {
         verseExtra
           ? <hr/>
-          <h4>{verse_translated}</h4>
+          <h4>{poem_translated}</h4>
           : ''
       }
       {
@@ -140,7 +140,7 @@ const {
       {
         verseOriginal
           ? <hr/>
-          <h4>{verse_original}</h4>
+          <h4>{poem_original}</h4>
           : ''
       }
       {
@@ -152,7 +152,7 @@ const {
       {
         verse
           ? <hr/>
-          <h4>{verse_translated}</h4>
+          <h4>{poem_translated}</h4>
           : ''
       }
       {
