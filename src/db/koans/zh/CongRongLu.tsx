@@ -1,6 +1,10 @@
 const CongRongLu = [
   {
     id: 1,
+    bookTitle: '萬松老評唱天童覺和尚 頌古從容庵錄',
+    author: '宏智正覺 - 萬松行秀',
+    translator: '',
+    reference: ['https://en.wikipedia.org/wiki/Book_of_Equanimity'],
     title: 'TẮC THỨ 1: THẾ TÔN THĂNG TÒA',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
@@ -12,7 +16,7 @@ const CongRongLu = [
       '“Quán rõ pháp của pháp vương, pháp của pháp vương như thế”. Thế Tôn liền xuống tòa.',
     commentBeforeVerse:
       'Sư nói: ' +
-      ' Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +
+      'Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +
       'Các vị chưa đến pháp đường, Vạn Tùng chưa ra phương trượng, nếu khi đó biết được, đã là rơi vào thứ 3, thứ 4 rồi. / ' +
       'Tuyết Đậu nói: “Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai". / ' +
       'Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham ? / ' +

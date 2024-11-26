@@ -4,6 +4,7 @@ const GatelessGate = [
     id: 1,
     bookTitle: 'Gateless Gate',
     author: 'Wumen Huìkai',
+    translator: '',
     title: 'TẮC THỨ 1: Con chó của Triệu Châu (Triệu Châu cẩu tử)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:

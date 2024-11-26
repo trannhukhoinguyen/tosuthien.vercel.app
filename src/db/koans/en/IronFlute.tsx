@@ -3,6 +3,7 @@ const IronFlute = [
       id: 1,
       bookTitle: 'Iron Flute',
       author: 'Genro - Nyogen Senzaki',
+      translator: '',
       title: 'TẮC THỨ 1: VĂN THÙ VÀO CỬA',
       image: '/images/iron-flute/iron-flute-cover.jpg',
       main:

@@ -2,8 +2,9 @@ const ChenTaiZongKoans = [
 
   {
     id: 1,
-    bookTitle: 'Iron Flute',
-    author: 'Genro - Nyogen Senzaki',
+    bookTitle: '43 Koans from Chen Tai Zong',
+    author: 'Chen Tai Zong',
+    translator: '',
     title: 'TẮC THỨ 1: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:

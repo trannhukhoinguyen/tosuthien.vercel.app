@@ -2,26 +2,30 @@
 title: "Những Công Án Nổi Tiếng"
 meta_title: "Những Công Án Nổi Tiếng"
 description: "Những Công Án Nổi Tiếng"
-date: 2024-11-23
+date: 2024-10-26
 image: "/images/wide-images/white-1.png"
 tags: ['Koan']
 draft: false
 ---
 
-import FamousKoans from "../../../db/koans/zh/FamousKoans.tsx";
+import FamousKoans from "../../../db/koans/vi/FamousKoans.tsx";
 import VintagePost from "../../../layouts/components/VintagePost.astro";
 
-<div class="container zh-koans">
+<div class="container vi-koans">
 
   {
     FamousKoans
       ?.filter(koan => koan.id >= 1 && koan.id <= 10)
       ?.map(koan => {
         if (koan.id%10 === 1) {
-          return <VintagePost chapterTitle={koan.title} author={koan.author}
-                       image={koan.image}
-                       main={koan.main}
-                       hashTag={koan.hashTag}
+          return <VintagePost
+                        bookTitle={koan.bookTitle}
+                        author={koan.author}
+                        translator={koan.translator}
+                        chapterTitle={koan.title}
+                        image={koan.image}
+                        main={koan.main}
+                        hashTag={koan.hashTag}
           />
         } else {
           return <VintagePost

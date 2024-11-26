@@ -18,7 +18,10 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
       ?.filter(koan => koan.id >= 23 && koan.id <= 33)
       ?.map(koan => {
         if (koan.id%11 === 1) {
-          return <VintagePost bookTitle={'Công Án Trần Thái Tông (23 - 33)'} author={'Trần Thái Tông'}
+          return <VintagePost
+            bookTitle={`${koan.bookTitle} (23 - 33)`}
+            author={koan.author}
+            translator={koan.translator}
                        chapterTitle={koan.title} image={koan.image}
                        intro={koan.intro} main={koan.main}
                               commentBeforeVerseExtra={koan.commentBeforeVerseExtra}

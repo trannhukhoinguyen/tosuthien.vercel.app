@@ -2,7 +2,8 @@ const FamousKoans = [
 
   {
     id: 1,
-    bookTitle: 'Iron Flute',
+    bookTitle: 'Famous Koans',
+    translator: '',
     title: 'TỊNH QUẢ TAM TU QUÍ (3 XẤU HỔ)',
     author: '[Thiền sư] Tịnh Quả',
     hashTag: 'Jingguo-3-shames',

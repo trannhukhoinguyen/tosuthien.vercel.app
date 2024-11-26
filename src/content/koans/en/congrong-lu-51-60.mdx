@@ -2,32 +2,26 @@
 title: "Thong Dong Lục - Tắc 51 đến Tắc 60"
 meta_title: "Thong Dong Lục (Thung Dung Lục) - Tắc 51 đến Tắc 60"
 description: "Thong Dong Lục (Thung Dung Lục) - Tắc 51 đến Tắc 60"
-date: 2024-11-23
+date: 2024-10-30
 image: "/images/wide-images/silver-5.png"
 tags: ['Koan']
 draft: false
 ---
 
-import CongRongLu from "../../../db/koans/en/CongRongLu.tsx";
+import CongRongLu from "../../../db/koans/vi/CongRongLu.tsx";
 import VintagePost from "../../../layouts/components/VintagePost.astro";
 
-<div class="container en-koans">
-
-  # THONG DONG LỤC (THUNG DUNG LỤC)
-  <h5><em>Tắc 51 - Tắc 60</em></h5>
-
-  <h4>[Thiền sư] <em>Hoằng Trí Chính Giác</em></h4>
-  <h4>[Thiền sư] <em>Vạn Tùng Hành Tú</em></h4>
-  <p>Vạn Tùng Lão Nhân Bình Xướng, Hòa Thượng Thiên Đồng Giác Tụng Cổ</p>
-
-  ***
+<div class="container vi-koans">
 
   {
     CongRongLu
       ?.filter(koan => koan.id >= 51 && koan.id <= 60)
       ?.map(koan => {
         if (koan.id%10 === 1) {
-          return <VintagePost bookTitle={'Thong Dong Lục'} author={'Hoằng Trí Chính Giác - Vạn Tùng Hành Tú'}
+          return <VintagePost
+            bookTitle={`${koan.bookTitle} (51 - 60)`}
+            author={koan.author}
+            translator={koan.translator}
                        chapterTitle={koan.title} image={koan.image}
                        intro={koan.intro} main={koan.main}
                               commentBeforeVerseExtra={koan.commentBeforeVerseExtra}

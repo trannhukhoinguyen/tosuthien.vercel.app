@@ -18,17 +18,20 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
       ?.filter(koan => koan.id >= 34 && koan.id <= 43)
       ?.map(koan => {
         if (koan.id%11 === 1) {
-          return <VintagePost bookTitle={'Công Án Trần Thái Tông (34 - 43)'} author={'Trần Thái Tông'}
-                       chapterTitle={koan.title} image={koan.image}
-                       intro={koan.intro} main={koan.main}
-                              commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
-                              verseExtraOriginal={koan.verseExtraOriginal}
-                              verseExtra={koan.verseExtra}
-                              commentAfterVerseExtra={koan.commentAfterVerseExtra}
-                              commentBeforeVerse={koan.commentBeforeVerse}
-                              verseOriginal={koan.verseOriginal}
-                              verse={koan.verse}
-                              commentAfterVerse={koan.commentAfterVerse}
+          return <VintagePost
+                    bookTitle={`${koan.bookTitle} (34 - 43)`}
+                    author={koan.author}
+                    translator={koan.translator}
+                    chapterTitle={koan.title} image={koan.image}
+                    intro={koan.intro} main={koan.main}
+                    commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
+                    verseExtraOriginal={koan.verseExtraOriginal}
+                    verseExtra={koan.verseExtra}
+                    commentAfterVerseExtra={koan.commentAfterVerseExtra}
+                    commentBeforeVerse={koan.commentBeforeVerse}
+                    verseOriginal={koan.verseOriginal}
+                    verse={koan.verse}
+                    commentAfterVerse={koan.commentAfterVerse}
           />
         } else {
           return <VintagePost chapterTitle={koan.title} image={koan.image}

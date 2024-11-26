@@ -1,8 +1,10 @@
 const CongRongLu = [
   {
     id: 1,
-    bookTitle: 'Iron Flute',
-    author: 'Genro - Nyogen Senzaki',
+    bookTitle: 'The Record of the Temple of Equanimity With the Classic Odes of Venerable Tiantong Jue and the Responsive Commentary of Old Man Wansong',
+    author: 'Hongzhi Zhengjue - Wansong Xingxiu',
+    translator: '',
+    reference: ['https://en.wikipedia.org/wiki/Book_of_Equanimity', 'https://pl.wikipedia.org/wiki/Congrong_lu'],
     title: 'TẮC THỨ 1: THẾ TÔN THĂNG TÒA',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:

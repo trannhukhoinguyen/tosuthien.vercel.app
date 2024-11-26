@@ -2,34 +2,26 @@
 title: "Tiếng Sáo Thép (31 - 40)"
 meta_title: "Tiếng Sáo Thép (Thiết Địch Đảo Xuy) (31 - 40)"
 description: "Tiếng Sáo Thép (Thiết Địch Đảo Xuy) (31 - 40)"
-date: 2024-11-23
+date: 2024-11-07
 image: "/images/wide-images/brown-3.png"
 tags: ['Koan']
 draft: false
 ---
 
-import IronFlute from '../../../db/koans/en/IronFlute.tsx';
+import IronFlute from '../../../db/koans/vi/IronFlute.tsx';
 import VintagePost from "../../../layouts/components/VintagePost.astro";
 
-<div class="container en-koans">
-
-  # TIẾNG SÁO THÉP (31 - 40)
-  ### Thiết Địch Đảo Xuy
-
-  #### [Thiền sư] <em>Genro</em>
-
-  #### Bình: [Thiền sư] <em>Thiên Khi Như Huyễn (Nyogen Senzaki)</em>
-
-  #### Việt dịch: <em>Đỗ Đình Đồng</em>
-
-  ***
+<div class="container vi-koans">
 
   {
     IronFlute
       ?.filter(koan => koan.id >= 31 && koan.id <= 40)
       ?.map(koan => {
         if (koan.id%10 === 1) {
-          return <VintagePost bookTitle={'Tiếng Sáo Thép'} author={'Genro - Thiên Khi Như Huyễn'}
+          return <VintagePost
+            bookTitle={`${koan.bookTitle} (31 - 40)`}
+            author={koan.author}
+            translator={koan.translator}
                               chapterTitle={koan.title} image={koan.image}
                               intro={koan.intro} main={koan.main}
                               commentBeforeVerseExtra={koan.commentBeforeVerseExtra}

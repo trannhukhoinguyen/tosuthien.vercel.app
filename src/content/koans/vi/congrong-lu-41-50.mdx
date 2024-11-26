@@ -13,21 +13,15 @@ import CongRongLu from "../../../db/koans/vi/CongRongLu.tsx";
 
 <div class="container vi-koans">
 
-  <h1>THONG DONG LỤC (THUNG DUNG LỤC)</h1>
-  <h5><em>Tắc 41 - Tắc 50</em></h5>
-
-  <h4>[Thiền sư] <em>Hoằng Trí Chính Giác</em></h4>
-  <h4>[Thiền sư] <em>Vạn Tùng Hành Tú</em></h4>
-  <p>Vạn Tùng Lão Nhân Bình Xướng, Hòa Thượng Thiên Đồng Giác Tụng Cổ</p>
-
-  ***
-
   {
     CongRongLu
       ?.filter(koan => koan.id >= 41 && koan.id <= 50)
       ?.map(koan => {
         if (koan.id%10 === 1) {
-          return <VintagePost bookTitle={'Thong Dong Lục'} author={'Hoằng Trí Chính Giác - Vạn Tùng Hành Tú'}
+          return <VintagePost
+            bookTitle={`${koan.bookTitle} (41 - 50)`}
+            author={koan.author}
+            translator={koan.translator}
                        chapterTitle={koan.title} image={koan.image}
                        intro={koan.intro} main={koan.main}
                               commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
