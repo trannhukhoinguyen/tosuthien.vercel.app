@@ -51,7 +51,7 @@ const CongRongLu = [
   },
   {
     id: 2,
-    title: 'TẮC THỨ 2: RỖNG RANG KHÔNG THÁNH',
+    title: 'CASE 2: RỖNG RANG KHÔNG THÁNH',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       'Sư dạy chúng nói: / ' +
@@ -120,7 +120,7 @@ const CongRongLu = [
   },
   {
     id: 3,
-    title: 'TẮC THỨ 3: ĐÔNG ẤN THỈNH TỔ',
+    title: 'CASE 3: ĐÔNG ẤN THỈNH TỔ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       'Sư dạy chúng rằng: / ' +
@@ -213,7 +213,7 @@ const CongRongLu = [
   },
   {
     id: 4,
-    title: 'TẮC THỨ 4: THẾ TÔN CHỈ XUỐNG ĐẤT',
+    title: 'CASE 4: THẾ TÔN CHỈ XUỐNG ĐẤT',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       'Sư dạy đại chúng rằng: / ' +
@@ -250,7 +250,7 @@ const CongRongLu = [
   },
   {
     id: 5,
-    title: 'TẮC THỨ 5: GIÁ GẠO CỦA THANH NGUYÊN',
+    title: 'CASE 5: GIÁ GẠO CỦA THANH NGUYÊN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -268,7 +268,7 @@ const CongRongLu = [
   },
   {
     id: 6,
-    title: 'TẮC THỨ 6: BẠCH HẮC MÃ TỔ',
+    title: 'CASE 6: BẠCH HẮC MÃ TỔ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -286,7 +286,7 @@ const CongRongLu = [
   },
   {
     id: 7,
-    title: 'TẮC THỨ 7: DƯỢC SƠN THĂNG TÒA',
+    title: 'CASE 7: DƯỢC SƠN THĂNG TÒA',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       ' Sư dạy đại chúng rằng: / ' +
@@ -356,7 +356,7 @@ const CongRongLu = [
   },
   {
     id: 8,
-    title: 'TẮC THỨ 8: BÁCH TRƯỢNG DÃ HỒ',
+    title: 'CASE 8: BÁCH TRƯỢNG DÃ HỒ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       'Sư dạy đại chúng rằng: ' +
@@ -426,7 +426,7 @@ const CongRongLu = [
   },
   {
     id: 9,
-    title: 'TẮC THỨ 9: NAM TUYỀN CHÉM MÈO',
+    title: 'CASE 9: NAM TUYỀN CHÉM MÈO',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       ' Sư dạy đại chúng rằng: / ' +
@@ -504,7 +504,7 @@ const CongRongLu = [
   },
   {
     id: 10,
-    title: 'TẮC THỨ 10: BÁ TỬ ĐÀI SƠN',
+    title: 'CASE 10: BÁ TỬ ĐÀI SƠN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       'Sư dạy đại chúng rằng: / ' +
@@ -568,7 +568,7 @@ const CongRongLu = [
 
   {
     id: 11,
-    title: 'TẮC THỨ 11: HAI CĂN BỆNH CỦA VÂN MÔN',
+    title: 'CASE 11: HAI CĂN BỆNH CỦA VÂN MÔN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       'Sư dạy đại chúng rằng: / ' +
@@ -622,7 +622,7 @@ const CongRongLu = [
 
   {
     id: 12,
-    title: 'TẮC THỨ 12: ',
+    title: 'CASE 12: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -641,7 +641,7 @@ const CongRongLu = [
 
   {
     id: 13,
-    title: 'TẮC THỨ 13: ',
+    title: 'CASE 13: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -660,7 +660,7 @@ const CongRongLu = [
 
   {
     id: 14,
-    title: 'TẮC THỨ 14: ',
+    title: 'CASE 14: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -679,7 +679,7 @@ const CongRongLu = [
 
   {
     id: 15,
-    title: 'TẮC THỨ 15: ',
+    title: 'CASE 15: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -698,7 +698,7 @@ const CongRongLu = [
 
   {
     id: 16,
-    title: 'TẮC THỨ 16: ',
+    title: 'CASE 16: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -717,7 +717,7 @@ const CongRongLu = [
 
   {
     id: 17,
-    title: 'TẮC THỨ 17: ',
+    title: 'CASE 17: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -736,7 +736,7 @@ const CongRongLu = [
 
   {
     id: 18,
-    title: 'TẮC THỨ 18: ',
+    title: 'CASE 18: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -755,7 +755,7 @@ const CongRongLu = [
 
   {
     id: 19,
-    title: 'TẮC THỨ 19: ',
+    title: 'CASE 19: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -774,7 +774,7 @@ const CongRongLu = [
 
   {
     id: 20,
-    title: 'TẮC THỨ 20: ',
+    title: 'CASE 20: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -793,7 +793,7 @@ const CongRongLu = [
 
   {
     id: 21,
-    title: 'TẮC THỨ 21: ',
+    title: 'CASE 21: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -812,7 +812,7 @@ const CongRongLu = [
 
   {
     id: 22,
-    title: 'TẮC THỨ 22: ',
+    title: 'CASE 22: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -831,7 +831,7 @@ const CongRongLu = [
 
   {
     id: 23,
-    title: 'TẮC THỨ 23: ',
+    title: 'CASE 23: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -850,7 +850,7 @@ const CongRongLu = [
 
   {
     id: 24,
-    title: 'TẮC THỨ 24: ',
+    title: 'CASE 24: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -869,7 +869,7 @@ const CongRongLu = [
 
   {
     id: 25,
-    title: 'TẮC THỨ 25: ',
+    title: 'CASE 25: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -888,7 +888,7 @@ const CongRongLu = [
 
   {
     id: 26,
-    title: 'TẮC THỨ 26: ',
+    title: 'CASE 26: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -907,7 +907,7 @@ const CongRongLu = [
 
   {
     id: 27,
-    title: 'TẮC THỨ 27: ',
+    title: 'CASE 27: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -926,7 +926,7 @@ const CongRongLu = [
 
   {
     id: 28,
-    title: 'TẮC THỨ 28: ',
+    title: 'CASE 28: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -945,7 +945,7 @@ const CongRongLu = [
 
   {
     id: 29,
-    title: 'TẮC THỨ 29: ',
+    title: 'CASE 29: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -964,7 +964,7 @@ const CongRongLu = [
 
   {
     id: 30,
-    title: 'TẮC THỨ 30: ',
+    title: 'CASE 30: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -983,7 +983,7 @@ const CongRongLu = [
 
   {
     id: 31,
-    title: 'TẮC THỨ 31: ',
+    title: 'CASE 31: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1002,7 +1002,7 @@ const CongRongLu = [
 
   {
     id: 32,
-    title: 'TẮC THỨ 32: ',
+    title: 'CASE 32: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1021,7 +1021,7 @@ const CongRongLu = [
 
   {
     id: 33,
-    title: 'TẮC THỨ 33: ',
+    title: 'CASE 33: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1040,7 +1040,7 @@ const CongRongLu = [
 
   {
     id: 34,
-    title: 'TẮC THỨ 34: ',
+    title: 'CASE 34: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1059,7 +1059,7 @@ const CongRongLu = [
 
   {
     id: 35,
-    title: 'TẮC THỨ 35: ',
+    title: 'CASE 35: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1078,7 +1078,7 @@ const CongRongLu = [
 
   {
     id: 36,
-    title: 'TẮC THỨ 36: ',
+    title: 'CASE 36: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1097,7 +1097,7 @@ const CongRongLu = [
 
   {
     id: 37,
-    title: 'TẮC THỨ 37: ',
+    title: 'CASE 37: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1116,7 +1116,7 @@ const CongRongLu = [
 
   {
     id: 38,
-    title: 'TẮC THỨ 38: ',
+    title: 'CASE 38: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1135,7 +1135,7 @@ const CongRongLu = [
 
   {
     id: 39,
-    title: 'TẮC THỨ 39: ',
+    title: 'CASE 39: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1154,7 +1154,7 @@ const CongRongLu = [
 
   {
     id: 40,
-    title: 'TẮC THỨ 40: ',
+    title: 'CASE 40: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1173,7 +1173,7 @@ const CongRongLu = [
 
   {
     id: 41,
-    title: 'TẮC THỨ 41: ',
+    title: 'CASE 41: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1192,7 +1192,7 @@ const CongRongLu = [
 
   {
     id: 42,
-    title: 'TẮC THỨ 42: ',
+    title: 'CASE 42: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1211,7 +1211,7 @@ const CongRongLu = [
 
   {
     id: 43,
-    title: 'TẮC THỨ 43: ',
+    title: 'CASE 43: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1230,7 +1230,7 @@ const CongRongLu = [
 
   {
     id: 44,
-    title: 'TẮC THỨ 44: ',
+    title: 'CASE 44: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1249,7 +1249,7 @@ const CongRongLu = [
 
   {
     id: 45,
-    title: 'TẮC THỨ 45: ',
+    title: 'CASE 45: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1268,7 +1268,7 @@ const CongRongLu = [
 
   {
     id: 46,
-    title: 'TẮC THỨ 46: ',
+    title: 'CASE 46: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1287,7 +1287,7 @@ const CongRongLu = [
 
   {
     id: 47,
-    title: 'TẮC THỨ 47: ',
+    title: 'CASE 47: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1306,7 +1306,7 @@ const CongRongLu = [
 
   {
     id: 48,
-    title: 'TẮC THỨ 48: ',
+    title: 'CASE 48: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1325,7 +1325,7 @@ const CongRongLu = [
 
   {
     id: 49,
-    title: 'TẮC THỨ 49: ',
+    title: 'CASE 49: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1344,7 +1344,7 @@ const CongRongLu = [
 
   {
     id: 50,
-    title: 'TẮC THỨ 50: ',
+    title: 'CASE 50: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1363,7 +1363,7 @@ const CongRongLu = [
 
   {
     id: 51,
-    title: 'TẮC THỨ 51: ',
+    title: 'CASE 51: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1382,7 +1382,7 @@ const CongRongLu = [
 
   {
     id: 52,
-    title: 'TẮC THỨ 52: ',
+    title: 'CASE 52: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1401,7 +1401,7 @@ const CongRongLu = [
 
   {
     id: 53,
-    title: 'TẮC THỨ 53: ',
+    title: 'CASE 53: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1420,7 +1420,7 @@ const CongRongLu = [
 
   {
     id: 54,
-    title: 'TẮC THỨ 54: ',
+    title: 'CASE 54: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1439,7 +1439,7 @@ const CongRongLu = [
 
   {
     id: 55,
-    title: 'TẮC THỨ 55: ',
+    title: 'CASE 55: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1458,7 +1458,7 @@ const CongRongLu = [
 
   {
     id: 56,
-    title: 'TẮC THỨ 56: ',
+    title: 'CASE 56: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1477,7 +1477,7 @@ const CongRongLu = [
 
   {
     id: 57,
-    title: 'TẮC THỨ 57: ',
+    title: 'CASE 57: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1496,7 +1496,7 @@ const CongRongLu = [
 
   {
     id: 58,
-    title: 'TẮC THỨ 58: ',
+    title: 'CASE 58: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1515,7 +1515,7 @@ const CongRongLu = [
 
   {
     id: 59,
-    title: 'TẮC THỨ 59: ',
+    title: 'CASE 59: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1534,7 +1534,7 @@ const CongRongLu = [
 
   {
     id: 60,
-    title: 'TẮC THỨ 60: ',
+    title: 'CASE 60: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1553,7 +1553,7 @@ const CongRongLu = [
 
   {
     id: 61,
-    title: 'TẮC THỨ 61: ',
+    title: 'CASE 61: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1572,7 +1572,7 @@ const CongRongLu = [
 
   {
     id: 62,
-    title: 'TẮC THỨ 62: ',
+    title: 'CASE 62: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1591,7 +1591,7 @@ const CongRongLu = [
 
   {
     id: 63,
-    title: 'TẮC THỨ 63: ',
+    title: 'CASE 63: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1610,7 +1610,7 @@ const CongRongLu = [
 
   {
     id: 64,
-    title: 'TẮC THỨ 64: ',
+    title: 'CASE 64: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1629,7 +1629,7 @@ const CongRongLu = [
 
   {
     id: 65,
-    title: 'TẮC THỨ 65: ',
+    title: 'CASE 65: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1648,7 +1648,7 @@ const CongRongLu = [
 
   {
     id: 66,
-    title: 'TẮC THỨ 66: ',
+    title: 'CASE 66: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1667,7 +1667,7 @@ const CongRongLu = [
 
   {
     id: 67,
-    title: 'TẮC THỨ 67: ',
+    title: 'CASE 67: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1686,7 +1686,7 @@ const CongRongLu = [
 
   {
     id: 68,
-    title: 'TẮC THỨ 68: ',
+    title: 'CASE 68: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1705,7 +1705,7 @@ const CongRongLu = [
 
   {
     id: 69,
-    title: 'TẮC THỨ 69: ',
+    title: 'CASE 69: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1724,7 +1724,7 @@ const CongRongLu = [
 
   {
     id: 70,
-    title: 'TẮC THỨ 70: ',
+    title: 'CASE 70: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1743,7 +1743,7 @@ const CongRongLu = [
 
   {
     id: 71,
-    title: 'TẮC THỨ 71: ',
+    title: 'CASE 71: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1762,7 +1762,7 @@ const CongRongLu = [
 
   {
     id: 72,
-    title: 'TẮC THỨ 72: ',
+    title: 'CASE 72: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1781,7 +1781,7 @@ const CongRongLu = [
 
   {
     id: 73,
-    title: 'TẮC THỨ 73: ',
+    title: 'CASE 73: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1800,7 +1800,7 @@ const CongRongLu = [
 
   {
     id: 74,
-    title: 'TẮC THỨ 74: ',
+    title: 'CASE 74: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1819,7 +1819,7 @@ const CongRongLu = [
 
   {
     id: 75,
-    title: 'TẮC THỨ 75: ',
+    title: 'CASE 75: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1838,7 +1838,7 @@ const CongRongLu = [
 
   {
     id: 76,
-    title: 'TẮC THỨ 76: ',
+    title: 'CASE 76: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1857,7 +1857,7 @@ const CongRongLu = [
 
   {
     id: 77,
-    title: 'TẮC THỨ 77: ',
+    title: 'CASE 77: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1876,7 +1876,7 @@ const CongRongLu = [
 
   {
     id: 78,
-    title: 'TẮC THỨ 78: ',
+    title: 'CASE 78: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1895,7 +1895,7 @@ const CongRongLu = [
 
   {
     id: 79,
-    title: 'TẮC THỨ 79: ',
+    title: 'CASE 79: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1914,7 +1914,7 @@ const CongRongLu = [
 
   {
     id: 80,
-    title: 'TẮC THỨ 80: ',
+    title: 'CASE 80: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1933,7 +1933,7 @@ const CongRongLu = [
 
   {
     id: 81,
-    title: 'TẮC THỨ 81: ',
+    title: 'CASE 81: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1952,7 +1952,7 @@ const CongRongLu = [
 
   {
     id: 82,
-    title: 'TẮC THỨ 82: ',
+    title: 'CASE 82: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1971,7 +1971,7 @@ const CongRongLu = [
 
   {
     id: 83,
-    title: 'TẮC THỨ 83: ',
+    title: 'CASE 83: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -1990,7 +1990,7 @@ const CongRongLu = [
 
   {
     id: 84,
-    title: 'TẮC THỨ 84: ',
+    title: 'CASE 84: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2009,7 +2009,7 @@ const CongRongLu = [
 
   {
     id: 85,
-    title: 'TẮC THỨ 85: ',
+    title: 'CASE 85: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2028,7 +2028,7 @@ const CongRongLu = [
 
   {
     id: 86,
-    title: 'TẮC THỨ 86: ',
+    title: 'CASE 86: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2047,7 +2047,7 @@ const CongRongLu = [
 
   {
     id: 87,
-    title: 'TẮC THỨ 87: ',
+    title: 'CASE 87: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2066,7 +2066,7 @@ const CongRongLu = [
 
   {
     id: 88,
-    title: 'TẮC THỨ 88: ',
+    title: 'CASE 88: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2085,7 +2085,7 @@ const CongRongLu = [
 
   {
     id: 89,
-    title: 'TẮC THỨ 89: ',
+    title: 'CASE 89: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2104,7 +2104,7 @@ const CongRongLu = [
 
   {
     id: 90,
-    title: 'TẮC THỨ 90: ',
+    title: 'CASE 90: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2123,7 +2123,7 @@ const CongRongLu = [
 
   {
     id: 91,
-    title: 'TẮC THỨ 91: ',
+    title: 'CASE 91: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2142,7 +2142,7 @@ const CongRongLu = [
 
   {
     id: 92,
-    title: 'TẮC THỨ 92: ',
+    title: 'CASE 92: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2161,7 +2161,7 @@ const CongRongLu = [
 
   {
     id: 93,
-    title: 'TẮC THỨ 93: ',
+    title: 'CASE 93: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2180,7 +2180,7 @@ const CongRongLu = [
 
   {
     id: 94,
-    title: 'TẮC THỨ 94: ',
+    title: 'CASE 94: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2199,7 +2199,7 @@ const CongRongLu = [
 
   {
     id: 95,
-    title: 'TẮC THỨ 95: ',
+    title: 'CASE 95: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2218,7 +2218,7 @@ const CongRongLu = [
 
   {
     id: 96,
-    title: 'TẮC THỨ 96: ',
+    title: 'CASE 96: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2237,7 +2237,7 @@ const CongRongLu = [
 
   {
     id: 97,
-    title: 'TẮC THỨ 97: ',
+    title: 'CASE 97: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2256,7 +2256,7 @@ const CongRongLu = [
 
   {
     id: 98,
-    title: 'TẮC THỨ 98: ',
+    title: 'CASE 98: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2275,7 +2275,7 @@ const CongRongLu = [
 
   {
     id: 99,
-    title: 'TẮC THỨ 99: ',
+    title: 'CASE 99: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',
@@ -2294,7 +2294,7 @@ const CongRongLu = [
 
   {
     id: 100,
-    title: 'TẮC THỨ 100: ',
+    title: 'CASE 100: ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       '',

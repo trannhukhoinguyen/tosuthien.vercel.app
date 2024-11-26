@@ -5,7 +5,7 @@ const ChenTaiZongKoans = [
     bookTitle: '43 Koans from Chen Tai Zong',
     author: 'Chen Tai Zong',
     translator: '',
-    title: 'TẮC THỨ 1: ',
+    title: 'CASE 1: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thế Tôn chưa rời cung Đâu Suất đã giáng sinh vương cung, / ' +
@@ -20,7 +20,7 @@ const ChenTaiZongKoans = [
   },
   {
     id: 2,
-    title: 'TẮC THỨ 2: ',
+    title: 'CASE 2: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thế Tôn khi sơ sinh, một tay chỉ trời một tay chỉ đất: “Trên trời dưới đất, duy ta độc tôn”.',
@@ -35,7 +35,7 @@ const ChenTaiZongKoans = [
   },
   {
     id: 3,
-    title: 'TẮC THỨ 3: ',
+    title: 'CASE 3: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thế Tôn cầm đóa hoa đưa lên, Ca Diếp mỉm cười.',
@@ -49,7 +49,7 @@ const ChenTaiZongKoans = [
   },
   {
       id: 4,
-      title: 'TẮC THỨ 4: ',
+      title: 'CASE 4: ',
       image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
       main:
         'Có nhà triết học ngoại đạo đến tham vấn Phật, nhưng không muốn nghe danh từ hữu cũng không muốn nghe danh từ vô',
@@ -63,7 +63,7 @@ const ChenTaiZongKoans = [
     },
   {
       id: 5,
-      title: 'TẮC THỨ 5: ',
+      title: 'CASE 5: ',
       image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
       main:
         'Thế Tôn vừa bước lên pháp tọa, Văn Thù đánh khánh bạch: / ' +
@@ -78,7 +78,7 @@ const ChenTaiZongKoans = [
     },
   {
       id: 6,
-      title: 'TẮC THỨ 6: ',
+      title: 'CASE 6: ',
       image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
       main:
         'Tần Quốc Vương cầm kiếm gọi Tôn Giả, Tổ thứ 24, hỏi rằng: "Sư chứng được pháp uẩn không chưa ?” ' +
@@ -99,7 +99,7 @@ const ChenTaiZongKoans = [
     },
   {
       id: 7,
-      title: 'TẮC THỨ 7: ',
+      title: 'CASE 7: ',
       image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
       main:
         'Đạt Ma đại sư tới Lạc Dương núi Thiếu Thất, 9 năm ngồi xoay mặt vào vách.',
@@ -113,7 +113,7 @@ const ChenTaiZongKoans = [
     },
   {
       id: 8,
-      title: 'TẮC THỨ 8: ',
+      title: 'CASE 8: ',
       image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
       main:
         'Nhị tổ xin Đạt Ma an tâm giùm. Đạt Ma nói: “Đem tâm tới đây ta an cho”. / ' +
@@ -129,7 +129,7 @@ const ChenTaiZongKoans = [
     },
   {
       id: 9,
-      title: 'TẮC THỨ 9: ',
+      title: 'CASE 9: ',
       image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
       main:
         'Văn Thù thấy một phụ nữ tọa tam muội một bên Phật. / ' +
@@ -145,7 +145,7 @@ const ChenTaiZongKoans = [
     },
   {
       id: 10,
-      title: 'TẮC THỨ 10: ',
+      title: 'CASE 10: ',
       image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
       main:
         'Thiền Sư Mã Tổ Đạo Nhất:' +
@@ -161,7 +161,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 11,
-    title: 'TẮC THỨ 11: ',
+    title: 'CASE 11: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Bách Trượng trở lại tham vấn Mã Tổ. / ' +
@@ -177,7 +177,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 12,
-    title: 'TẮC THỨ 12: ',
+    title: 'CASE 12: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Quốc Sư một hôm kêu thị giả 3 lần, thị giả dạ 3 lần. / ' +
@@ -193,7 +193,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 13,
-    title: 'TẮC THỨ 13: ',
+    title: 'CASE 13: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Đại Quy nói: “Khái niệm về có và về không như giây leo quấn cây lớn” / ' +
@@ -211,7 +211,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 14,
-    title: 'TẮC THỨ 14: ',
+    title: 'CASE 14: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Bách Trượng nói: “Thế nào gọi là pháp không vì người mà nói ?” / ' +
@@ -228,7 +228,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 15,
-    title: 'TẮC THỨ 15: ',
+    title: 'CASE 15: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Nam Tuyền nói: “Tâm không phải là Phật, trí không phải là đạo”',
@@ -243,7 +243,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 16,
-    title: 'TẮC THỨ 16: ',
+    title: 'CASE 16: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Hô hấp tất cả lý lẽ huyền vi, trên đường về bước dưới ánh trăng',
@@ -258,7 +258,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 17,
-    title: 'TẮC THỨ 17: ',
+    title: 'CASE 17: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Nam Tuyền nói: “Bình thường tâm thị đạo”',
@@ -273,7 +273,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 18,
-    title: 'TẮC THỨ 18: ',
+    title: 'CASE 18: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Triệu Châu nói: / ' +
@@ -289,7 +289,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 19,
-    title: 'TẮC THỨ 19: ',
+    title: 'CASE 19: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Có vị tăng hỏi Thiền Sư Lâm Tế: “Thế nào là vô vị chân nhân ?” / ' +
@@ -305,7 +305,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 20,
-    title: 'TẮC THỨ 20: ',
+    title: 'CASE 20: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Triệu Châu nói: “Ta đã khám phá ra được bà già ở Ngũ Đài Sơn rồi”',
@@ -320,7 +320,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 21,
-    title: 'TẮC THỨ 21: ',
+    title: 'CASE 21: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Triệu Châu nói: / ' +
@@ -339,7 +339,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 22,
-    title: 'TẮC THỨ 22: ',
+    title: 'CASE 22: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Triệu Châu nói: “Ở Thanh Châu, tôi làm được một chiếc áo gai bố nặng tới 7 cân”',
@@ -354,7 +354,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 23,
-    title: 'TẮC THỨ 23: ',
+    title: 'CASE 23: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Có vị tăng hỏi Thiền Sư Triệu Châu: “Con chó có Phật tính không ?” / ' +
@@ -372,7 +372,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 24,
-    title: 'TẮC THỨ 24: ',
+    title: 'CASE 24: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Triệu Châu nói: / ' +
@@ -388,7 +388,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 25,
-    title: 'TẮC THỨ 25: ',
+    title: 'CASE 25: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Thủ Sơn cầm chiếc gậy tre nói: / ' +
@@ -405,7 +405,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 26,
-    title: 'TẮC THỨ 26: ',
+    title: 'CASE 26: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Có vị tăng hỏi Thiền Sư Động Sơn: _Phật là gì ? / ' +
@@ -421,7 +421,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 27,
-    title: 'TẮC THỨ 27: ',
+    title: 'CASE 27: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Có vị tăng hỏi Hiện Tử hòa thượng về "Ý của Tổ sư từ Tây Vực tới". / ' +
@@ -437,7 +437,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 28,
-    title: 'TẮC THỨ 28: ',
+    title: 'CASE 28: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Vô Nghiệp quốc sư nói: / ' +
@@ -455,7 +455,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 29,
-    title: 'TẮC THỨ 29: ',
+    title: 'CASE 29: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Huyền Sa khai thị chúng: / ' +
@@ -473,7 +473,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 30,
-    title: 'TẮC THỨ 30: ',
+    title: 'CASE 30: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Thoại Nham thường tự gọi: / ' +
@@ -491,7 +491,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 31,
-    title: 'TẮC THỨ 31: ',
+    title: 'CASE 31: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       '    Thiền Sư Tam Thánh nói: “Ta gặp người thì ra, nhưng chẳng phải là ra vì người” / ' +
@@ -507,7 +507,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 32,
-    title: 'TẮC THỨ 32: ',
+    title: 'CASE 32: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Nam Tuyền thấy Thiền Sư Đặng Ẩn Phong tới, liền chỉ vào tịnh bình mà nói: “Tịnh bình là cảnh, ông không nên dính vào cảnh”',
@@ -522,7 +522,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 33,
-    title: 'TẮC THỨ 33: ',
+    title: 'CASE 33: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Thạch Đầu nói:' +
@@ -538,7 +538,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 34,
-    title: 'TẮC THỨ 34: ',
+    title: 'CASE 34: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Có vị tăng hỏi: “Cảnh giới Giáp Sơn thế nào?” / ' +
@@ -554,7 +554,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 35,
-    title: 'TẮC THỨ 35: ',
+    title: 'CASE 35: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Có vị tăng hỏi Thiền Sư Mục Châu: “Trong một hơi thở, có thể thông qua một đại tạng kinh không ?” / ' +
@@ -570,7 +570,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 36,
-    title: 'TẮC THỨ 36: ',
+    title: 'CASE 36: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Trong một kỳ chúng hội dưới sự chủ tọa của Thiền Sư Lâm Tế, cả 2 vị thủ tọa của 2 thiền đường đồng thời hét lớn. / ' +
@@ -587,7 +587,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 37,
-    title: 'TẮC THỨ 37: ',
+    title: 'CASE 37: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Huyền Sa nói: / ' +
@@ -603,7 +603,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 38,
-    title: 'TẮC THỨ 38: ',
+    title: 'CASE 38: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       ' Có vị tăng hỏi Thiền Sư Huệ Tư về đại ý Phật pháp. / ' +
@@ -620,7 +620,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 39,
-    title: 'TẮC THỨ 39: ',
+    title: 'CASE 39: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Có vị tăng hỏi Thiền sư Văn Thù: “Vạn pháp đi về 1, 1 đi về đâu ?” / ' +
@@ -636,7 +636,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 40,
-    title: 'TẮC THỨ 40: ',
+    title: 'CASE 40: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền sư Nam Tuyền hỏi Thiền sư Triệu Châu: “Chú là sa di có chủ hay sa di chưa có chủ ?” / ' +
@@ -655,7 +655,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 41,
-    title: 'TẮC THỨ 41: ',
+    title: 'CASE 41: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Có vị tăng hỏi Thiền sư Mật Am Kiệt: “Thế nào là nạp y hạ sự?” / ' +
@@ -671,7 +671,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 42,
-    title: 'TẮC THỨ 42: ',
+    title: 'CASE 42: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Bàng cư sĩ tuyên bố: “Đây là trường thi tuyển PHẬT, ai tâm KHÔNG thì trúng tuyển vinh quy”',
@@ -686,7 +686,7 @@ const ChenTaiZongKoans = [
 
   {
     id: 43,
-    title: 'TẮC THỨ 43: ',
+    title: 'CASE 43: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Từ Minh hỏi Chân Điểm Trụ: “Thế nào là đại ý Phật pháp?” / ' +

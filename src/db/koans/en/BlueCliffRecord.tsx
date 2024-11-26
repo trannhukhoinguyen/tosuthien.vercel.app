@@ -4,7 +4,7 @@ const BlueCliffRecord = [
       bookTitle: 'Blue Cliff Record',
       author: '[Master] Xuedou Chongxian - [Master] Yuanwu Keqin',
       translator: '',
-      title: 'TẮC THỨ 1: CÁI TRỐNG KHÔNG CỦA ĐẠT MA',
+      title: 'CASE 1: CÁI TRỐNG KHÔNG CỦA ĐẠT MA',
       image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         'Thấy khói bên kia núi biết là có lửa, thấy sừng bên kia tường biết là có trâu. Chỉ một hiểu ba, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ. Còn như cắt đứt các dòng nhánh, hiện lên ở phương đông, chìm đi ở phương tây, tung hoàng nghịch thuận, tự tại cho hay lấy, vào giây phút đó, thử nói xem là hành tung của kẻ nào? Thử nhìn vào những lời dây dưa của Tuyết Đậu',
@@ -75,7 +75,7 @@ const BlueCliffRecord = [
   },
   {
     id: 2,
-    title: 'TẮC THỨ 2: CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU',
+    title: 'CASE 2: CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU',
     image: '/images/meta-image-square-1',
     intro:
       'Trời đất hẹp, trăng sao tinh tú đồng thời tối ám. Dù cho là gậy giáng xuống như mưa sa, tiếng hét vang dội như sấm động, các ông vẫn chưa đảm đương được việc hướng thượng của tông môn / ' +
@@ -132,7 +132,7 @@ const BlueCliffRecord = [
   },
   {
     id: 3,
-    title: 'TẮC THỨ 3: MÃ SƯ BẤT AN',
+    title: 'CASE 3: MÃ SƯ BẤT AN',
     image: '/images/meta-image-square-1',
     intro:
       'Một cơ một cảnh, một lời một câu,phải tìm lối mà vào. Có một vết thương trên thịt, nó có thể thành hang thành động / ' +
@@ -169,7 +169,7 @@ const BlueCliffRecord = [
   },
   {
     id: 4,
-    title: 'TẮC THỨ 4: ĐỨC SƠN MANG BAO HÀNH TRANG',
+    title: 'CASE 4: ĐỨC SƠN MANG BAO HÀNH TRANG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       'Dưới thanh niên bạch nhật, không cần phải vạch đông chỉ tây. Song tùy thời tiết nhân duyên vẫn cần phải tùy bệnh cho thuốc / ' +
@@ -216,7 +216,7 @@ const BlueCliffRecord = [
     },
   {
       id: 5,
-      title: 'TẮC THỨ 5: HẠT GẠO CỦA TUYẾT PHONG',
+      title: 'CASE 5: HẠT GẠO CỦA TUYẾT PHONG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
@@ -229,7 +229,7 @@ const BlueCliffRecord = [
     },
   {
       id: 6,
-      title: 'TẮC THỨ 6: MỘT NGÀY ĐẸP CỦA VÂN MÔN',
+      title: 'CASE 6: MỘT NGÀY ĐẸP CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
@@ -243,7 +243,7 @@ const BlueCliffRecord = [
     },
   {
       id: 7,
-      title: 'TẮC THỨ 7: HUỆ SIÊU HỎI VỀ PHẬT',
+      title: 'CASE 7: HUỆ SIÊU HỎI VỀ PHẬT',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
@@ -257,7 +257,7 @@ const BlueCliffRecord = [
     },
   {
       id: 8,
-      title: 'TẮC THỨ 8: THÚY NHAM DẠY ĐỒ CHÚNG CUỐI HẠ',
+      title: 'CASE 8: THÚY NHAM DẠY ĐỒ CHÚNG CUỐI HẠ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
@@ -273,7 +273,7 @@ const BlueCliffRecord = [
     },
   {
       id: 9,
-      title: 'TẮC THỨ 9: BỐN CỬA CỦA TRIỆU CHÂU',
+      title: 'CASE 9: BỐN CỬA CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
@@ -290,7 +290,7 @@ const BlueCliffRecord = [
     },
   {
       id: 10,
-      title: 'TẮC THỨ 10: BA TIẾNG HÉT CỦA MỤC CHÂU',
+      title: 'CASE 10: BA TIẾNG HÉT CỦA MỤC CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
       intro:
         '',
@@ -311,7 +311,7 @@ const BlueCliffRecord = [
     },
   {
     id: 11,
-    title: 'TẮC THỨ 11: KẺ UỐNG CẶN RƯỢU CỦA HOÀNG BÁ',
+    title: 'CASE 11: KẺ UỐNG CẶN RƯỢU CỦA HOÀNG BÁ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -330,7 +330,7 @@ const BlueCliffRecord = [
   },
   {
     id: 12,
-    title: 'TẮC THỨ 12: BA CÂN GAI CỦA ĐỘNG SƠN',
+    title: 'CASE 12: BA CÂN GAI CỦA ĐỘNG SƠN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -357,7 +357,7 @@ const BlueCliffRecord = [
   },
   {
     id: 13,
-    title: 'TẮC THỨ 13: CHÉN BẠC CỦA BA LĂNG',
+    title: 'CASE 13: CHÉN BẠC CỦA BA LĂNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -380,7 +380,7 @@ const BlueCliffRecord = [
   },
   {
     id: 14,
-    title: 'TẮC THỨ 14: MỘT LỜI ĐÚNG CỦA VÂN MÔN',
+    title: 'CASE 14: MỘT LỜI ĐÚNG CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -402,7 +402,7 @@ const BlueCliffRecord = [
   },
   {
     id: 15,
-    title: 'TẮC THỨ 15: MỘT CÂU NÓI NGƯỢC CỦA VÂN MÔN',
+    title: 'CASE 15: MỘT CÂU NÓI NGƯỢC CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -423,7 +423,7 @@ const BlueCliffRecord = [
   },
   {
     id: 16,
-    title: 'TẮC THỨ 16: NGƯỜI TRONG CỎ CỦA KÍNH THANH',
+    title: 'CASE 16: NGƯỜI TRONG CỎ CỦA KÍNH THANH',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -447,7 +447,7 @@ const BlueCliffRecord = [
   },
   {
     id: 17,
-    title: 'TẮC THỨ 17: HƯƠNG LÂM NGỒI LÂU',
+    title: 'CASE 17: HƯƠNG LÂM NGỒI LÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -465,7 +465,7 @@ const BlueCliffRecord = [
   },
   {
     id: 18,
-    title: 'TẮC THỨ 18: TÚC TÔNG THỈNH PHÁP',
+    title: 'CASE 18: TÚC TÔNG THỈNH PHÁP',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -496,7 +496,7 @@ verse:
   },
   {
     id: 19,
-    title: 'TẮC THỨ 19: NGÓN TAY THIỀN CỦA CÂU CHI',
+    title: 'CASE 19: NGÓN TAY THIỀN CỦA CÂU CHI',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -513,7 +513,7 @@ verse:
   },
   {
     id: 20,
-    title: 'TẮC THỨ 20: LONG NHA VÀ Ý CỦA TỔ SƯ TỪ TÂY THIÊN QUA',
+    title: 'CASE 20: LONG NHA VÀ Ý CỦA TỔ SƯ TỪ TÂY THIÊN QUA',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -537,7 +537,7 @@ verse:
   },
   {
     id: 21,
-    title: 'TẮC THỨ 21: HOA SEN CỦA TRÍ MÔN',
+    title: 'CASE 21: HOA SEN CỦA TRÍ MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -557,7 +557,7 @@ verse:
   },
   {
     id: 22,
-    title: 'TẮC THỨ 22: CON RẮN MŨI RÙA CỦA TUYẾT PHONG',
+    title: 'CASE 22: CON RẮN MŨI RÙA CỦA TUYẾT PHONG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -588,7 +588,7 @@ verse:
   },
   {
     id: 23,
-    title: 'TẮC THỨ 23: DIỆU PHONG ĐỈNH CỦA BẢO PHÚC',
+    title: 'CASE 23: DIỆU PHONG ĐỈNH CỦA BẢO PHÚC',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -608,7 +608,7 @@ verse:
   },
   {
     id: 24,
-    title: 'TẮC THỨ 24: QUI SƠN VÀ LƯU THIẾT MA',
+    title: 'CASE 24: QUI SƠN VÀ LƯU THIẾT MA',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -627,7 +627,7 @@ verse:
   },
   {
     id: 25,
-    title: 'TẮC THỨ 25: LIÊN HOA TRỤ TRƯỢNG',
+    title: 'CASE 25: LIÊN HOA TRỤ TRƯỢNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -656,7 +656,7 @@ verse:
   },
   {
     id: 26,
-    title: 'TẮC THỨ 26: BÁCH TRƯỢNG NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG',
+    title: 'CASE 26: BÁCH TRƯỢNG NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -675,7 +675,7 @@ verse:
   },
   {
     id: 27,
-    title: 'TẮC THỨ 27: THỂ LỘ KIM PHONG CỦA VÂN MÔN',
+    title: 'CASE 27: THỂ LỘ KIM PHONG CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -697,7 +697,7 @@ verse:
   },
   {
     id: 28,
-    title: 'TẮC THỨ 28: CHƯ THÁNH CỦA NIẾT BÀN HÒA THƯỢNG',
+    title: 'CASE 28: CHƯ THÁNH CỦA NIẾT BÀN HÒA THƯỢNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -726,7 +726,7 @@ verse:
   },
   {
     id: 29,
-    title: 'TẮC THỨ 29: HỎA KIẾP CỦA ĐẠI TÙY',
+    title: 'CASE 29: HỎA KIẾP CỦA ĐẠI TÙY',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -746,7 +746,7 @@ verse:
   },
   {
     id: 30,
-    title: 'TẮC THỨ 30: CỦ CẢI CỦA TRIỆU CHÂU',
+    title: 'CASE 30: CỦ CẢI CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -766,7 +766,7 @@ verse:
   },
   {
     id: 31,
-    title: 'TẮC THỨ 31: MA CÓC CHỐNG GẬY',
+    title: 'CASE 31: MA CÓC CHỐNG GẬY',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -793,7 +793,7 @@ verse:
   },
   {
     id: 32,
-    title: 'TẮC THỨ 32: PHẬT PHÁP ĐẠI Ý CỦA LÂM TẾ',
+    title: 'CASE 32: PHẬT PHÁP ĐẠI Ý CỦA LÂM TẾ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -813,7 +813,7 @@ verse:
   },
   {
     id: 33,
-    title: 'TẮC THỨ 33: TRẦN THƯỢNG THƯ VIẾNG TỪ PHÚC',
+    title: 'CASE 33: TRẦN THƯỢNG THƯ VIẾNG TỪ PHÚC',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -833,7 +833,7 @@ verse:
   },
   {
     id: 34,
-    title: 'TẮC THỨ 34: NGƯỠNG SƠN HỎI TỪ ĐÂU ĐẾN',
+    title: 'CASE 34: NGƯỠNG SƠN HỎI TỪ ĐÂU ĐẾN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -861,7 +861,7 @@ verse:
   },
   {
     id: 35,
-    title: 'TẮC THỨ 35: VĂN THÙ VÀ VÔ TRƯỚC',
+    title: 'CASE 35: VĂN THÙ VÀ VÔ TRƯỚC',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -887,7 +887,7 @@ verse:
   },
   {
     id: 36,
-    title: 'TẮC THỨ 36: TRƯỜNG SA MỘT HÔM ĐI CHƠI NÚI',
+    title: 'CASE 36: TRƯỜNG SA MỘT HÔM ĐI CHƠI NÚI',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -914,7 +914,7 @@ verse:
   },
   {
     id: 37,
-    title: 'TẮC THỨ 37: TAM GIỚI VÔ PHÁP CỦA BÀN SƠN',
+    title: 'CASE 37: TAM GIỚI VÔ PHÁP CỦA BÀN SƠN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -933,7 +933,7 @@ verse:
   },
   {
     id: 38,
-    title: 'TẮC THỨ 38: TRÂU SẮT CỦA PHONG HUYỆT',
+    title: 'CASE 38: TRÂU SẮT CỦA PHONG HUYỆT',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -961,7 +961,7 @@ verse:
   },
   {
     id: 39,
-    title: 'TẮC THỨ 39: KIM MAO SƯ TỬ CỦA VÂN MÔN',
+    title: 'CASE 39: KIM MAO SƯ TỬ CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -983,7 +983,7 @@ verse:
   },
   {
     id: 40,
-    title: 'TẮC THỨ 40: “GIỐNG NHƯ MỘNG” CỦA NAM TUYỀN',
+    title: 'CASE 40: “GIỐNG NHƯ MỘNG” CỦA NAM TUYỀN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1001,7 +1001,7 @@ verse:
   },
   {
     id: 41,
-    title: 'TẮC THỨ 41: NGƯỜI CHẾT LỚN CỦA TRIỆU CHÂU',
+    title: 'CASE 41: NGƯỜI CHẾT LỚN CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1019,7 +1019,7 @@ verse:
   },
   {
     id: 42,
-    title: 'TẮC THỨ 42: TỪNG PHIẾN TUYẾT CỦA BÀNG CƯ SĨ',
+    title: 'CASE 42: TỪNG PHIẾN TUYẾT CỦA BÀNG CƯ SĨ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1044,7 +1044,7 @@ verse:
   },
   {
     id: 43,
-    title: 'TẮC THỨ 43: KHÔNG NÓNG KHÔNG LẠNH CỦA ĐỘNG SƠN',
+    title: 'CASE 43: KHÔNG NÓNG KHÔNG LẠNH CỦA ĐỘNG SƠN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1064,7 +1064,7 @@ verse:
   },
   {
     id: 44,
-    title: 'TẮC THỨ 44: HÒA SƠN BIẾT ĐÁNH TRỐNG',
+    title: 'CASE 44: HÒA SƠN BIẾT ĐÁNH TRỐNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1093,7 +1093,7 @@ verse:
   },
   {
     id: 45,
-    title: 'TẮC THỨ 45: VẠN PHÁP QUI NHẤT CỦA TRIỆU CHÂU',
+    title: 'CASE 45: VẠN PHÁP QUI NHẤT CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1111,7 +1111,7 @@ verse:
   },
   {
     id: 46,
-    title: 'TẮC THỨ 46: TIẾNG MƯA RƠI CỦA KÍNH THANH',
+    title: 'CASE 46: TIẾNG MƯA RƠI CỦA KÍNH THANH',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1131,7 +1131,7 @@ verse:
   },
   {
     id: 47,
-    title: 'TẮC THỨ 47: SÁU KHÔNG THU CỦA VÂN MÔN',
+    title: 'CASE 47: SÁU KHÔNG THU CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1151,7 +1151,7 @@ verse:
   },
   {
     id: 48,
-    title: 'TẮC THỨ 48: VƯƠNG THÁI PHÓ NẤU TRÀ',
+    title: 'CASE 48: VƯƠNG THÁI PHÓ NẤU TRÀ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1179,7 +1179,7 @@ verse:
   },
   {
     id: 49,
-    title: 'TẮC THỨ 49: TAM THÁNH LẤY GÌ ĐỂ ĂN',
+    title: 'CASE 49: TAM THÁNH LẤY GÌ ĐỂ ĂN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1201,7 +1201,7 @@ verse:
   },
   {
     id: 50,
-    title: 'TẮC THỨ 50: TRẦN TRẦN TAM MUỘI CỦA VÂN MÔN',
+    title: 'CASE 50: TRẦN TRẦN TAM MUỘI CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1231,7 +1231,7 @@ verse:
   },
   {
     id: 51,
-    title: 'TẮC THỨ 51: “CÁI GÌ ĐÂY?” CỦA TUYẾT PHONG',
+    title: 'CASE 51: “CÁI GÌ ĐÂY?” CỦA TUYẾT PHONG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1260,7 +1260,7 @@ verse:
   },
   {
     id: 52,
-    title: 'TẮC THỨ 52: CẦU ĐÁ CỦA TRIỆU CHÂU',
+    title: 'CASE 52: CẦU ĐÁ CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1280,7 +1280,7 @@ verse:
   },
   {
     id: 53,
-    title: 'TẮC THỨ 53: VỊT TRỜI CỦA MÃ ĐẠI SƯ',
+    title: 'CASE 53: VỊT TRỜI CỦA MÃ ĐẠI SƯ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1306,7 +1306,7 @@ verse:
   },
   {
     id: 54,
-    title: 'TẮC THỨ 54: “MỚI Ở ĐÂU TỚI” CỦA VÂN MÔN',
+    title: 'CASE 54: “MỚI Ở ĐÂU TỚI” CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1326,7 +1326,7 @@ verse:
   },
   {
     id: 55,
-    title: 'TẮC THỨ 55: ĐẠO NGÔ VÀ TIỆM NGUYÊN ĐI ĐIẾU TANG',
+    title: 'CASE 55: ĐẠO NGÔ VÀ TIỆM NGUYÊN ĐI ĐIẾU TANG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       'Ẩn mật toàn chân, lập tức thủ chứng. Lững thững chuyển vật, trực tiếp đảm đương. / ' +
@@ -1367,7 +1367,7 @@ verse:
   },
   {
     id: 56,
-    title: 'TẮC THỨ 56: MỘT MŨI TÊN PHÁ BA ẢI CỦA KHÂM SƠN',
+    title: 'CASE 56: MỘT MŨI TÊN PHÁ BA ẢI CỦA KHÂM SƠN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1397,7 +1397,7 @@ verse:
   },
   {
     id: 57,
-    title: 'TẮC THỨ 57: CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU',
+    title: 'CASE 57: CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1420,7 +1420,7 @@ verse:
   },
   {
     id: 58,
-    title: 'TẮC THỨ 58: TRIỆU CHÂU VÀ KHUÔN SÁO THỜI THƯỢNG',
+    title: 'CASE 58: TRIỆU CHÂU VÀ KHUÔN SÁO THỜI THƯỢNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1440,7 +1440,7 @@ verse:
   },
   {
     id: 59,
-    title: 'TẮC THỨ 59: TRIỆU CHÂU VÀ “ĐỪNG SO ĐO”',
+    title: 'CASE 59: TRIỆU CHÂU VÀ “ĐỪNG SO ĐO”',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1467,7 +1467,7 @@ verse:
   },
   {
     id: 60,
-    title: 'TẮC THỨ 60: CÂY GẬY CỦA VÂN MÔN',
+    title: 'CASE 60: CÂY GẬY CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1492,7 +1492,7 @@ verse:
   },
   {
     id: 61,
-    title: 'TẮC THỨ 61: MỘT HẠT BỤI CỦA PHONG HUYỆT',
+    title: 'CASE 61: MỘT HẠT BỤI CỦA PHONG HUYỆT',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1510,7 +1510,7 @@ verse:
   },
   {
     id: 62,
-    title: 'TẮC THỨ 62: VIÊN NGỌC CỦA VÂN MÔN',
+    title: 'CASE 62: VIÊN NGỌC CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1529,7 +1529,7 @@ verse:
   },
   {
     id: 63,
-    title: 'TẮC THỨ 63: NAM TUYỀN GIẾT MÈO',
+    title: 'CASE 63: NAM TUYỀN GIẾT MÈO',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1548,7 +1548,7 @@ verse:
   },
   {
     id: 64,
-    title: 'TẮC THỨ 64: NAM TUYỀN HỎI TRIỆU CHÂU',
+    title: 'CASE 64: NAM TUYỀN HỎI TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1567,7 +1567,7 @@ verse:
   },
   {
     id: 65,
-    title: 'TẮC THỨ 65: NGOẠI ĐẠO HỎI PHẬT VỀ HỮU VÔ',
+    title: 'CASE 65: NGOẠI ĐẠO HỎI PHẬT VỀ HỮU VÔ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1592,7 +1592,7 @@ verse:
   },
   {
     id: 66,
-    title: 'TẮC THỨ 66: NHAM ĐẦU VÀ “TỪ ĐÂU TỚI”',
+    title: 'CASE 66: NHAM ĐẦU VÀ “TỪ ĐÂU TỚI”',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1617,7 +1617,7 @@ verse:
   },
   {
     id: 67,
-    title: 'TẮC THỨ 67: LƯƠNG VŨ ĐẾ MỜI GIẢNG KIN',
+    title: 'CASE 67: LƯƠNG VŨ ĐẾ MỜI GIẢNG KIN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1638,7 +1638,7 @@ verse:
   },
   {
     id: 68,
-    title: 'TẮC THỨ 68: NGƯỠNG SƠN HỎI TAM THÁNH',
+    title: 'CASE 68: NGƯỠNG SƠN HỎI TAM THÁNH',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1659,7 +1659,7 @@ verse:
   },
   {
     id: 69,
-    title: 'TẮC THỨ 69: NAM TUYỀN BÁI TRUNG QUỐC SƯ',
+    title: 'CASE 69: NAM TUYỀN BÁI TRUNG QUỐC SƯ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1680,7 +1680,7 @@ verse:
   },
   {
     id: 70,
-    title: 'TẮC THỨ 70: QUI SƠN ĐỨNG HẦU BÁCH TRƯỢNG',
+    title: 'CASE 70: QUI SƠN ĐỨNG HẦU BÁCH TRƯỢNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1700,7 +1700,7 @@ verse:
   },
   {
     id: 71,
-    title: 'TẮC THỨ 71: BÁCH TRƯỢNG VÀ KHÔNG VỚI CỔ HỌNG VỚI MIỆNG MÔI',
+    title: 'CASE 71: BÁCH TRƯỢNG VÀ KHÔNG VỚI CỔ HỌNG VỚI MIỆNG MÔI',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1719,7 +1719,7 @@ verse:
   },
   {
     id: 72,
-    title: 'TẮC THỨ 72: BÁCH TRƯỢNG HỎI VÂN NHAM',
+    title: 'CASE 72: BÁCH TRƯỢNG HỎI VÂN NHAM',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1738,7 +1738,7 @@ verse:
   },
   {
     id: 73,
-    title: 'TẮC THỨ 73: TỨ CÚ BÁCH PHI CỦA MÃ ĐẠI SƯ',
+    title: 'CASE 73: TỨ CÚ BÁCH PHI CỦA MÃ ĐẠI SƯ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1763,7 +1763,7 @@ verse:
   },
   {
     id: 74,
-    title: 'TẮC THỨ 74: KIM NGƯU HÒA THƯỢNG CƯỜI HA HA',
+    title: 'CASE 74: KIM NGƯU HÒA THƯỢNG CƯỜI HA HA',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1783,7 +1783,7 @@ verse:
   },
   {
     id: 75,
-    title: 'TẮC THỨ 75: Ô CỮU HỎI PHÁP ĐẠO',
+    title: 'CASE 75: Ô CỮU HỎI PHÁP ĐẠO',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1820,7 +1820,7 @@ verse:
   },
   {
     id: 76,
-    title: 'TẮC THỨ 76: ĐAN HÀ HỎI TỪ ĐÂU TỚI',
+    title: 'CASE 76: ĐAN HÀ HỎI TỪ ĐÂU TỚI',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1849,7 +1849,7 @@ verse:
   },
   {
     id: 77,
-    title: 'TẮC THỨ 77: BÁNH CỦA VÂN MÔN',
+    title: 'CASE 77: BÁNH CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1867,7 +1867,7 @@ verse:
   },
   {
     id: 78,
-    title: 'TẮC THỨ 78: MƯỜI SÁU BỒ TÁT ĐI TẮM',
+    title: 'CASE 78: MƯỜI SÁU BỒ TÁT ĐI TẮM',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1887,7 +1887,7 @@ verse:
   },
   {
     id: 79,
-    title: 'TẮC THỨ 79: TẤT CẢ CÁC ÂM THANH CỦA ĐẦU TỬ',
+    title: 'CASE 79: TẤT CẢ CÁC ÂM THANH CỦA ĐẦU TỬ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1911,7 +1911,7 @@ verse:
   },
   {
     id: 80,
-    title: 'TẮC THỨ 80: HÀI TỬ THỨC CỦA TRIỆU CHÂU',
+    title: 'CASE 80: HÀI TỬ THỨC CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1931,7 +1931,7 @@ verse:
   },
   {
     id: 81,
-    title: 'TẮC THỨ 81: DƯỢC SƠN BẮN NAI',
+    title: 'CASE 81: DƯỢC SƠN BẮN NAI',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1957,7 +1957,7 @@ verse:
   },
   {
     id: 82,
-    title: 'TẮC THỨ 82: KIÊN CỐ PHÁP THÂN CỦA ĐẠI LONG',
+    title: 'CASE 82: KIÊN CỐ PHÁP THÂN CỦA ĐẠI LONG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -1983,7 +1983,7 @@ verse:
   },
   {
     id: 83,
-    title: 'TẮC THỨ 83: CỔ PHẬT VÀ CỘT TRỤ CỦA VÂN MÔN',
+    title: 'CASE 83: CỔ PHẬT VÀ CỘT TRỤ CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2005,7 +2005,7 @@ verse:
   },
   {
     id: 84,
-    title: 'TẮC THỨ 84: BẤT NHỊ PHÁP MÔN CỦA DUY MA CẬT',
+    title: 'CASE 84: BẤT NHỊ PHÁP MÔN CỦA DUY MA CẬT',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2031,7 +2031,7 @@ verse:
   },
   {
     id: 85,
-    title: 'TẮC THỨ 85: CON CỌP CỦA ĐỒNG PHONG AM CHỦ',
+    title: 'CASE 85: CON CỌP CỦA ĐỒNG PHONG AM CHỦ',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2055,7 +2055,7 @@ verse:
   },
   {
     id: 86,
-    title: 'TẮC THỨ 86: QUANG MINH CỦA VÂN MÔN',
+    title: 'CASE 86: QUANG MINH CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2077,7 +2077,7 @@ verse:
   },
   {
     id: 87,
-    title: 'TẮC THỨ 87: BỆNH VÀ THUỐC TRỊ LẪN NHAU CỦA VÂN MÔN',
+    title: 'CASE 87: BỆNH VÀ THUỐC TRỊ LẪN NHAU CỦA VÂN MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2096,7 +2096,7 @@ verse:
   },
   {
     id: 88,
-    title: 'TẮC THỨ 88: HUYỀN SA TIẾP VẬT LỢI SINH',
+    title: 'CASE 88: HUYỀN SA TIẾP VẬT LỢI SINH',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2133,7 +2133,7 @@ verse:
   },
   {
     id: 89,
-    title: 'TẮC THỨ 89: TAY VÀ MẮT CỦA ĐẠI BI BỒ TÁT',
+    title: 'CASE 89: TAY VÀ MẮT CỦA ĐẠI BI BỒ TÁT',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2164,7 +2164,7 @@ verse:
   },
   {
     id: 90,
-    title: 'TẮC THỨ 90: BÁT NHÃ THỂ CỦA TRÍ MÔN',
+    title: 'CASE 90: BÁT NHÃ THỂ CỦA TRÍ MÔN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2205,7 +2205,7 @@ verse:
 
   {
     id: 91,
-    title: 'TẮC THỨ 91: TÊ GIÁC CỦA DIÊM QUAN',
+    title: 'CASE 91: TÊ GIÁC CỦA DIÊM QUAN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       'Siêu tình ly kiến, cởi giây gỡ dính, đề khởi hướng thượng tông thừa, chống đỡ chính pháp nhãn tạng / ' +
@@ -2253,7 +2253,7 @@ verse:
 
   {
     id: 92,
-    title: 'TẮC THỨ 92: THẾ TÔN MỘT HÔM THĂNG TÒA',
+    title: 'CASE 92: THẾ TÔN MỘT HÔM THĂNG TÒA',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2273,7 +2273,7 @@ verse:
 
   {
     id: 93,
-    title: 'TẮC THỨ 93: ĐẠI QUANG SƯ NHẢY MÚA',
+    title: 'CASE 93: ĐẠI QUANG SƯ NHẢY MÚA',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2295,7 +2295,7 @@ verse:
 
   {
     id: 94,
-    title: 'TẮC THỨ 94: THẤY CÁI KHÔNG THẤY TRONG KINH LĂNG NGHIÊM',
+    title: 'CASE 94: THẤY CÁI KHÔNG THẤY TRONG KINH LĂNG NGHIÊM',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2315,7 +2315,7 @@ verse:
 
   {
     id: 95,
-    title: 'TẮC THỨ 95: TAM ĐỘC CỦA TRƯỜNG KHÁNH',
+    title: 'CASE 95: TAM ĐỘC CỦA TRƯỜNG KHÁNH',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2341,7 +2341,7 @@ verse:
 
   {
     id: 96,
-    title: 'TẮC THỨ 96: BA CHUYỂN NGỮ CỦA TRIỆU CHÂU',
+    title: 'CASE 96: BA CHUYỂN NGỮ CỦA TRIỆU CHÂU',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2371,7 +2371,7 @@ verse:
 
   {
     id: 97,
-    title: 'TẮC THỨ 97: KIM CƯƠNG KINH KHINH TIỆN',
+    title: 'CASE 97: KIM CƯƠNG KINH KHINH TIỆN',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2395,7 +2395,7 @@ verse:
 
   {
     id: 98,
-    title: 'TẮC THỨ 98: HAI CÁI SAI CỦA THIÊN BÌNH HÒA THƯỢNG',
+    title: 'CASE 98: HAI CÁI SAI CỦA THIÊN BÌNH HÒA THƯỢNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2419,7 +2419,7 @@ verse:
 
   {
     id: 99,
-    title: 'TẮC THỨ 99: THẬP THÂN ĐIỀU NGỰ CỦA TÚC TÔNG',
+    title: 'CASE 99: THẬP THÂN ĐIỀU NGỰ CỦA TÚC TÔNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
@@ -2444,7 +2444,7 @@ verse:
 
   {
     id: 100,
-    title: 'TẮC THỨ 100: KIẾM SẮC CỦA BA LĂNG',
+    title: 'CASE 100: KIẾM SẮC CỦA BA LĂNG',
     image: '/images/blue-cliff-record/blue-cliff-record-cover.jpg',
     intro:
       '',
