@@ -46,29 +46,29 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 {
   !lang || lang === 'vi'
 
-    ? <h4>Pháp thân công án</h4>
+    ? (<h4>Pháp thân công án</h4>
         <p>Chỉ các loại công án có thể giúp đỡ thiền sinh chỉ một bước một vượt thế giới nhị nguyên, lần đầu chứng ngộ trực tiếp Pháp thân, Phật tính theo Tâm kinh thì gọi là "Sắc tức là Không".
           Rất nhiều công án trong các tập danh tiếng được xếp vào loại này mà nổi danh nhất có lẽ là công án thứ nhất của tập Vô môn quan với tên "Con chó của Triệu Châu" (Triệu Châu cẩu tử).
         </p>
-        <h4>Cơ quan công án</h4>
+      <h4>Cơ quan công án</h4>
         <p>Mục đích của các Pháp thân công án là thế giới bất phân biệt, nhưng thiền sinh chưa được dừng chân nơi đây.
           Cơ quan công án hướng dẫn thiền sinh đến một bước nữa, phân biệt trong thế giới không phân biệt, ngộ được lý "Không tức là Sắc".
           Được xếp vào loại này là công án 17 và 37 của Vô môn quan.
         </p>
-        <h4>Ngôn thuyên công án</h4>
+      <h4>Ngôn thuyên công án</h4>
         <p>Chỉ những công án mà thiền sinh phải tham quán ý nghĩa tột cùng của ngôn ngữ mà chư vị tiền bối sử dụng hoằng hoá (ngôn thuyên nghĩa là ngôn ngữ giải thích kĩ càng, trọn vẹn).
           Các vị Thiền sư sử dụng ngôn ngữ rất tài tình, đầy thi vị nhưng điểm đặc sắc nhất là các ngôn ngữ này không hề dừng bước chỉ trong khuôn khổ thẩm mĩ mà vượt qua cả nó, bao hàm ý nghĩa cùng tột, trực chỉ chân lý.
           Đại diện cho loại công án này chính là Bích nham lục của Thiền sư Viên Ngộ.
           Một số công án trong Vô môn quan cũng được xếp vào loại này (21, 24, 27, 30, 33, 34).
         </p>
-        <h4>Nan thấu công án</h4>
+      <h4>Nan thấu công án</h4>
         <p>Chỉ những công án rất khó (nan) lĩnh hội (thấu) vì những sự đối nghịch ngay trong trường hợp được trình bày.
           Các công án thuộc loại này giúp thiền sinh khinh an thấu rõ được sự vô ngại của sự vật, có thể nói theo giáo lý của Hoa nghiêm tông là Sự sự vô ngại.
           Chính sự chinh phục, thấu hiểu lý này là yếu tố của tâm tư khinh an, tự do tự tại mà các bậc giác ngộ thụ hưởng.
           Thiền sư Bạch Ẩn Huệ Hạc thường nhắc đến tám công án thuộc loại này mà trong đó ba công án nằm trong tập Vô môn quan, đó là tắc 13, 35, 38.
-          Công án 38 như sau: "Ngũ Tổ Pháp Diễn hỏi chúng: Ví như con trâu đi qua khung cửa, đầu, sừng, bốn chân đều lọt, sao đuôi lại chẳng lọt được?"
+          Công án 38 như sau, "Ngũ Tổ Pháp Diễn hỏi chúng, Ví như con trâu đi qua khung cửa, đầu, sừng, bốn chân đều lọt, sao đuôi lại chẳng lọt được?"
         </p>
-        <h4>Ngũ vị công án</h4>
+      <h4>Ngũ vị công án</h4>
         <p>Chỉ các công án cuối cùng mà thiền sinh phải vượt qua. Các công án này có liên hệ trực tiếp với Ngũ vị quân thần (Động Sơn ngũ vị) của vị Khai tổ tông Tào Động là Thiền sư Động Sơn Lương Giới.
           Kinh nghiệm giác ngộ của thiền sinh đạt được qua 4 loại công án trước được thử thách lần cuối.
         </p>
@@ -78,11 +78,10 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
         <h6>🧨 ĐẠI PHẤN CHÍ </h6> là sự tinh tiến, kiên trì dũng mãnh
         <h6>🧨 ĐẠI TÍN CĂN </h6> có niềm tin tuyệt đối vào khả năng giác ngộ của chính mình
         <h6>🧨 ĐẠI NGHI ĐOÀN </h6> nghi ngờ trong trạng thái tập trung tư tưởng tuyệt đối
-        <p> <em> Các điểm mâu thuẫn trong công án có nhiệm vụ gia tăng Đại nghi đoàn này và Thiền sư Bạch Ẩn bảo rằng: "Đại nghi - Đại ngộ", nghĩa là càng nghi nhiều, càng ngộ sâu </em> </p>
-
+        <p> <em> Các điểm mâu thuẫn trong công án có nhiệm vụ gia tăng Đại nghi đoàn này và Thiền sư Bạch Ẩn bảo rằng "Đại nghi - Đại ngộ", nghĩa là càng nghi nhiều, càng ngộ sâu </em> </p>
+)
     : lang === 'zh'
-
-      ? <h4>法身公案</h4>
+      ? (<h4>法身公案</h4>
          <p>只有能够帮助修行者一步步超越二元世界，直接证悟《心经》所说的法身、佛性的公案，才称为“色空”。
            许多名著中的公案都属于这一类，其中最著名的可能是《五门关》卷中的第一部公案，名为“赵州狗”（赵州狗）。
          </p>
@@ -114,25 +113,25 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
          <h6>🧨 大忿心 (大奮心) </h6> 是勤奋、毅力和勇气
          <h6>🧨 大信心 </h6> 对自己开悟的能力有绝对的信心
          <h6>🧨 大疑群 </h6> 绝对专注状态下的怀疑
-         <p> <em>公案中的矛盾点有增加这群大疑的任务，巴赫安禅师说：“大疑-大悟”，意思是疑越多，悟越深</em > </p>
+         <p> <em>公案中的矛盾点有增加这群大疑的任务，巴赫安禅师说：“大疑-大悟”，意思是疑越多，悟越深</em > </p>)
 
-      : <h4>Dharma-body koans</h4>
+      : (<h4>Dharma-body koans</h4>
         <p>Only those koans can help Zen practitioners, one step at a time, transcend the world of duality, and directly realize the Dharma-body and Buddha-nature for the first time, according to the Heart Sutra, which is called "Form is Emptiness".
         Many koans in famous collections are classified into this category, the most famous of which is probably the first koan of the Gateless Gate collection, called "Zhao Zhou's Dog".
 
-</p>
-        <h4>The Koan's Body</h4>
+        </p>
+        <h4>Organs koans</h4>
         <p>The purpose of the Dharma-body koans is the world of non-discrimination, but Zen practitioners have not stopped here.
         The Koan's Body guides Zen practitioners to one more step, to discriminate in the world of non-discrimination, to realize the principle of "Emptiness is Form".
         Classified into this category are koans 17 and 37 of the Gateless Gate.
          </p>
-        <h4>Ngôn thưễn công cổ</h4>
+        <h4>Long-conversation koans</h4>
         <p>Referring to koans in which Zen students must contemplate the ultimate meaning of the language used by their predecessors to propagate the Dharma (ngôn thưễn means language that explains thoroughly and completely).
         Zen masters use language very skillfully and poetically, but the most special point is that these languages ​​do not stop within the aesthetic framework but go beyond it, containing the ultimate meaning, pointing directly to the truth.
         The representative of this type of koan is the Bích Nham Lục by Zen master Viên Ngộ.
         Some koans in Vô Môn Quan are also classified in this category (21, 24, 27, 30, 33, 34).
         </p>
-        <h4>Nan thua công cổ</h4>
+        <h4>Hard-understanding koans</h4>
         <p>Referring to koans that are very difficult (nan) to comprehend (thầu) because of the contradictions in the situation in which they are presented.
          Koans of this type help Zen practitioners to calmly and clearly understand the unobstructedness of things, which can be said according to the teachings of the Huayan sect as "the unobstructedness of things".
 
@@ -154,13 +153,10 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 
         </h5>
         <h6>🧨 STRONG ANGER </h6> is diligence, perseverance and courage
-
         <h6>🧨 STRONG FAITH</h6> has absolute faith in one's own ability to attain enlightenment
-
         <h6>🧨 STRONG FORMED DOUBT GROUP </h6> doubts in a state of absolute concentration
-
         <p> <em> The contradictory points in the koans have the task of increasing this Great Doubt Group and Zen Master Hakuin said: "Great Doubt - Great Enlightenment", meaning the more doubt, the deeper enlightenment </em> </p>
-
+)
   }
 
       </div>
