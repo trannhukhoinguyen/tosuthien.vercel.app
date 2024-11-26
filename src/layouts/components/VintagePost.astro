@@ -1,4 +1,7 @@
 ---
+import {getLangFromUrl, getTranslations} from "../../lib/utils/languageParser";
+import {ContentEntryMap} from "astro:content";
+
 const { bookTitle, author, hashTag, chapterTitle, image,
   intro, main,
   commentBeforeVerse, commentAfterVerse,
@@ -13,6 +16,11 @@ const { bookTitle, author, hashTag, chapterTitle, image,
   multiParagraph,
 
 } = Astro.props;
+
+const lang = getLangFromUrl(Astro.url);
+const {
+  introduction, main_case, verse_original, verse_translated, comment,
+  } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
 <script>
@@ -54,7 +62,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
 
       {
         main
-          ? <h4>CÔNG ÁN</h4>
+          ? <h4>{main_case}</h4>
           : ''
       }
       {
@@ -74,7 +82,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
 
       {
         commentBeforeVerseExtra
-          ? <h4>BÌNH</h4>
+          ? <h4>{comment}</h4>
           : ''
       }
       {
@@ -86,7 +94,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
       {
         verseExtraOriginal
           ? <hr/>
-          <h4>TỤNG</h4>
+          <h4>{verse_original}</h4>
           : ''
       }
       {
@@ -98,7 +106,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
       {
         verseExtra
           ? <hr/>
-          <h4>TỤNG</h4>
+          <h4>{verse_translated}</h4>
           : ''
       }
       {
@@ -109,7 +117,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
 
       {
         commentAfterVerseExtra
-            ? <h4>BÌNH</h4>
+            ? <h4>{comment}</h4>
             : ''
       }
       {
@@ -120,7 +128,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
 
       {
         commentBeforeVerse
-          ? <h4>BÌNH</h4>
+          ? <h4>{comment}</h4>
           : ''
       }
       {
@@ -132,7 +140,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
       {
         verseOriginal
           ? <hr/>
-          <h4>HÁN TỤNG</h4>
+          <h4>{verse_original}</h4>
           : ''
       }
       {
@@ -144,7 +152,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
       {
         verse
           ? <hr/>
-          <h4>VIỆT TỤNG</h4>
+          <h4>{verse_translated}</h4>
           : ''
       }
       {
@@ -155,7 +163,7 @@ const { bookTitle, author, hashTag, chapterTitle, image,
 
       {
         commentAfterVerse
-          ? <h4>BÌNH</h4>
+          ? <h4>{comment}</h4>
           : ''
       }
       {

@@ -5,15 +5,18 @@ const CongRongLu = [
     author: 'Hongzhi Zhengjue - Wansong Xingxiu',
     translator: '',
     reference: ['https://en.wikipedia.org/wiki/Book_of_Equanimity', 'https://pl.wikipedia.org/wiki/Congrong_lu'],
-    title: 'TẮC THỨ 1: THẾ TÔN THĂNG TÒA',
+    title: 'CASE 1: THE WORLD HONORED ONE ASCENDS THE SEAT',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-    'Sư dạy chúng nói: / ' +
-    'Đóng cửa ngủ say, tiếp bậc căn cơ thượng đẳng, sử dụng ngữ cú để chỉ bày, là phương tiện, tiếp dẫn hàng trung hạ. / ' +
-    'Đâu kham lên pháp đường, cố tình huyễn hoặc mọi người, có người bên cạnh không chịu ra, cũng không làm gì được y.',
+    'Introduction: / ' +
+    'Closing the door and sleeping is the way to receive those of highest potential; looking, reflecting, and stretching is a roundabout way for the middling and lesser. / ' +
+    'How can it bear sitting on the carved wood seat sporting devil eyes? If there is any bystander who does not agree, come forward. ' +
+    'You can not blame him either.',
     main:
-      'Một hôm Thế Tôn thăng tòa, Văn Thù bạch chùy nói: / ' +
-      '“Quán rõ pháp của pháp vương, pháp của pháp vương như thế”. Thế Tôn liền xuống tòa.',
+      'Case:' +
+      'One day the World Honored One ascended the seat. (Today he is not at rest) / ' +
+      'Manjusri struck the gravel and said, "Clearly observe the Dharma of the King of Dharma; the Dharma of the King of Dharma is thus." (I do not know what is going in his mind) / ' +
+      'The World Honored One then got down from the seat.(Deal again another day)',
     commentBeforeVerse:
       'Sư nói: ' +
       ' Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +

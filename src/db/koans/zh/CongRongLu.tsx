@@ -5,15 +5,12 @@ const CongRongLu = [
     author: '宏智正覺 - 萬松行秀',
     translator: '',
     reference: ['https://en.wikipedia.org/wiki/Book_of_Equanimity'],
-    title: 'TẮC THỨ 1: THẾ TÔN THĂNG TÒA',
+    title: '第一則: 佛陀登基弘法',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-    'Sư dạy chúng nói: / ' +
-    'Đóng cửa ngủ say, tiếp bậc căn cơ thượng đẳng, sử dụng ngữ cú để chỉ bày, là phương tiện, tiếp dẫn hàng trung hạ. / ' +
-    'Đâu kham lên pháp đường, cố tình huyễn hoặc mọi người, có người bên cạnh không chịu ra, cũng không làm gì được y.',
+    '示眾云。閉門打睡接上上機。顧鑑頻申。曲為中下。那堪上曲祿木弄鬼眼睛。有箇傍不肯底。出來。也怪伊不得。',
     main:
-      'Một hôm Thế Tôn thăng tòa, Văn Thù bạch chùy nói: / ' +
-      '“Quán rõ pháp của pháp vương, pháp của pháp vương như thế”. Thế Tôn liền xuống tòa.',
+      '舉。世尊一日陞座(今日不著便)。文殊白槌云。諦觀法王法。法王法如是(知佗是何心行)。世尊便下座(別日再商量)。',
     commentBeforeVerse:
       'Sư nói: ' +
       'Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +

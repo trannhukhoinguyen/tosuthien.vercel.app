@@ -62,5 +62,11 @@
   "vi_masters": "Vietnamese Masters",
   "jp_masters": "Japanese Masters",
   "level_": "Inheritance to the Sixth Patriarch",
-  "level__": "Inherited from the Sixth Patriarch - Generation"
+  "level__": "Inherited from the Sixth Patriarch - Generation",
+
+  "introduction": "介绍",
+  "main_case": "公案",
+  "poem_original": "原诗",
+  "poem_translated": "译诗",
+  "comment": "评论"
 }
