@@ -625,7 +625,11 @@ const IronFlute = [
     title: 'TẮC THỨ 25: NHAM ĐẦU THÙNG NƯỚC',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      'Ba ông tăng Tuyết Phong, Khâm Sơn và Nham Đầu gặp nhau trong vườn chùa. Tuyết Phong thấy một thùng nước liền chỉ. Khâm Sơn nói, “Nước trong, trăng soi bóng.” Tuyết Phong nói, “Chẳng phải nước, chẳng phải trăng.” Nham Đầu lật nhào thùng nước.',
+      'Ba ông tăng Tuyết Phong, Khâm Sơn và Nham Đầu gặp nhau trong vườn chùa. / ' +
+'Tuyết Phong thấy một thùng nước liền chỉ. / ' +
+'Khâm Sơn nói, “Nước trong, trăng soi bóng” / ' + 
+'Tuyết Phong nói, “Chẳng phải nước, chẳng phải trăng” / ' +
+'Nham Đầu lật nhào thùng nước.',
     commentBeforeVerseExtra:
       'Như Huyễn: Khi Tuyết Phong chỉ thùng nước, sư ám chỉ Phật thân nhuần khắp thế giới và Khâm Sơn cũng ở trong cùng một tâm thái như trong bài kệ xưa: / ' +
 'Trăng Bồ-tát / ' +
@@ -645,7 +649,7 @@ commentAfterVerse:
 'Genro: Trong vườn liễu và hoa / ' +
 'Bên cạnh tháp nhạc đẹp / ' +
 'Hai khách thưởng thức rượu / ' +
-"Tay nâng chiếc tách vàng / ' +
+'Tay nâng chiếc tách vàng / ' +
 'Dưới ánh trăng nhợt nhạt / ' +
 'Họa mi bỗng cất cánh / ' +
 'Từ trên một cành cây / ' +
@@ -656,14 +660,17 @@ commentAfterVerse:
 
   {
     id: 26,
-    title: 'TẮC THỨ 26: ',
+    title: 'TẮC THỨ 26: TUYẾT PHONG CHÍNH XÁC',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
-    commentBeforeVerse:
-      '',
-    commentAfterVerse:
-      '',
+      'Tuyết Phong làm đầu bếp trong chùa của Động Sơn. Sư ngày nào cũng chuẩn bị bữa ăn sáng rất đúng giờ. Một hôm Động Sơn hỏi, “Cái gì khiến ông giữ giờ giấc chính xác như vậy?” Tuyết Phong đáp, “Con nhìn trăng sao.” Động Sơn hỏi vặn, “Nếu trời mưa hay sương mù thì ông làm thế nào?” Tuyết Phong im lặng.',
+    commentBeforeVerseExtra:
+      'Như Huyễn: / ' +
+'Vào thời của Tuyết Phong không có đồng hồ báo giờ, nhưng tăng chúng thức dậy vào lúc bốn giờ sáng để thiền định khoảng một tiếng đồng hồ trước bữa ăn. Mặc dù Tuyết Phong chuẩn bị bữa điểm tâm trước khi có ánh nắng ban ngày, tiếng bảng báo giờ của Tuyết Phong luôn luôn không trễ không sớm. Khi Động Sơn hỏi câu hỏi ấy là sư ca ngợi ông tăng đầu bếp, và câu trả lời của Tuyết Phong rất trơn tru không có dấu vết của kiêu hãnh. E rằng các tăng nhân khác hiểu lầm, Động Sơn lại hỏi, “Nếu trời mưa hay sương mù thì sao?” Có thể tăng chúng đang suy nghĩ rằng Tuyết Phong nhờ vào trăng sao mà giữ đúng giờ giấc. Ngày nay chúng ta có đồng hồ báo giờ và các thiết bị khác nhắc giờ giấc cho chúng ta, nhưng chúng ta không làm việc đúng giờ, trừ phi chúng ta trau dồi Thiền của mình và làm chủ tình thế. Chúng ta phải lái thời gian mà không để thời gian lái chúng ta. Động Sơn muốn Tuyết Phong chia xẻ bí mật của mình với các tăng nhân khác. Quí vị có nghĩ rằng họ hiểu không?',
+    commentAfterVerseExtra:
+      'Genro: Nếu Động Sơn hỏi tôi sẽ làm gì nếu trời mưa hay sương mù, thì tôi sẽ trả lời rằng tôi nhìn trời mưa và thưởng thức sương mù',
+commentAfterVerse:
+      'Fugai: Xin lỗi thầy nhé, nhưng tôi cảm thấy thích dùng kéo cắt lưỡi thầy. Tuyết Phong đã trả lời rồi.',
   },
 
   {
