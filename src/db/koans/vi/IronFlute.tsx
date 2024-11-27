@@ -464,50 +464,86 @@ const IronFlute = [
 
   {
     id: 17,
-    title: 'TẮC THỨ 17: ',
+    title: 'TẮC THỨ 17: ĐẠI TÙY CON RÙA',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng thấy một con rùa trong vườn chùa của Đại Tùy, hỏi sư, “Tất cả chúng sinh đều có da thịt bọc xương. Tại sao chúng sinh này lại có xương bọc da thịt?” Hòa thượng Đại Tùy đáp bằng cách lấy đôi dép của mình che lên con rùa. ',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Ông tăng này có thói quen xấu là nhảy ngay vào kết luận. Ông ta nghĩ nếu một điều đã đúng vào lúc này thì cũng phải đúng vào mọi lúc và mọi nơi. Đại Tùy tìm cách cứu ông tăng ra khỏi loại phân biệt này và giúp ông tăng nhận ra nhất thể. / ' +
+'Khi quí vị thấy những điều bất thường, không nên kinh động. Trước hết hãy tẩy sạch những nhận thức sai, tự giới hạn của mình về sự vật và đối diện trọn vẹn với thực tại. Tử là gì? Sanh là gì? Phật là gì? Ngộ là gì? / ' +
+'Genro dẫn một bài thơ xưa ở cuối lời bình của sư; tôi sẽ dịch toàn bộ bài thơ để làm kết luận cho câu chuyện này.',
     commentAfterVerse:
-      '',
+      'Genro: Bạn bè thời thơ ấu, / '+
+'Giờ đây biết rõ ràng. / ' +
+'Họ luận bàn triết lý, / ' +
+'Viết luận văn, phê bình. / ' +
+'Tôi trở thành kẻ già, / ' +
+'Trở thành vô tích sự. / ' +
+'Chiều nay mưa là bạn. / ' +
+'Tôi thắp lên nén nhang, / ' +
+'Nằm dài trong hương ngát, / ' +
+'Tôi nghe tiếng gió thổi, / ' +
+'Cạnh cửa sổ rèm tre.',
   },
 
   {
     id: 18,
-    title: 'TẮC THỨ 18: ',
+    title: 'TẮC THỨ 18: LÂM TẾ TRỒNG TÙNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một hôm khi Lâm Tế đang trồng một cây tùng trong vườn chùa, thầy của sư là Hoàng Bá chợt đến chỗ sư. Hoàng Bá hỏi, “Chúng ta có cây tốt quanh chùa. Sao ông còn trồng thêm cây này?” Lâm Tế đáp, “Thứ nhất, giống trường xuân này sẽ làm đẹp cảnh chùa; thứ hai, làm chỗ trú cho tăng nhân thế hệ sau.” Lâm Tế nói xong liền dộng cuốc xuống đất ba lần để làm cho cây mới trồng thêm vững. Hoàng Bá nói, “Ông tự khẳng định không hợp ý tôi.” Lâm Tế làm ngơ lời thầy, và thì thầm, “Xong rồi,” và dộng cuốc xuống đất ba lần như trước. Hoàng Bá nói, “Ông sẽ làm cho giáo pháp của ta tồn tại trên thế gian này.”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Lâm Tế đang tạo biểu tượng cho Thiền của sư khi sư trồng cây ấy bên ngôi chùa, nơi sư đã thọ nhận Pháp, nhưng không muốn ai để ý đến nó cho đến khi nó già. Thầy của sư biết rất rõ sư nghĩ gì, nhưng muốn khám phá một cách trọn vẹn, vì thế đã nói làm như mình đang quan sát vườn chùa. Lâm Tế đã đáp theo cách không ám chỉ gì đến Thiền. Thiền nên được giữ gìn theo cách này. Ông thầy còn nói gì được nữa trừ lời khen ngợi.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 19,
-    title: 'TẮC THỨ 19: ',
+    title: 'TẮC THỨ 19: TRIỆU CHÂU VIẾNG CHÙA',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Triệu Châu định đi viếng một ngôi chùa trên núi, khi ấy một ông tăng trưởng lão viết một bài thơ cho sư: / ' +
+'Núi xanh nào chẳng là thánh địa / ' +
+'Sao còn vác gậy viếng Tịnh Lương ? / ' +
+'Nếu trong mây hiện sư tử lông vàng / ' +
+'Ấy chẳng phải là điềm lành chi hết / ' +
+'Sau khi đọc bài thơ, Triệu Châu hỏi, “Mắt nào là mắt chánh?” / ' +
+'Ông tăng không đáp.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: / ' +
+'Một bài thơ Đường nói: / ' +
+'Tất cả núi là chùa của Văn Thù. / ' +
+'Núi xanh xa và núi lục gần, / ' +
+'Mỗi mỗi đều có thờ Bồ Tát. / ' +
+'Nhọc công chi leo núi Tịnh Lương?
+'Kinh nói Văn Thù cưỡi sư tử lông vàng.
+'Ảo ảnh ấy thấy trong mây trên núi,
+'Chẳng phải thật với mắt Thiền tăng,
+'Cũng chẳng phải hạnh phúc y tìm.',
     commentAfterVerse:
-      '',
+      'Genro ca ngợi bài thơ của ông tăng cũng như câu hỏi sắc bén của Triệu Châu. Có một công án: Quan Âm ngàn mắt. Mắt nào là mắt chánh? / ' +
+'Ông tăng có thể đã trả lời bằng im lặng, nhưng nếu ông ta thích im lặng lắm thì tại sao ông ta không im lặng ngay từ đầu thay vì làm thơ? Nếu Triệu Châu đã có mắt chánh thì sư còn hỏi làm gì? Bây giờ, hãy nói tôi nghe thế nào là mắt chánh?',
   },
 
   {
     id: 20,
-    title: 'TẮC THỨ 20: ',
+    title: 'TẮC THỨ 20: ĐỨC SƠN HIỀN ĐỨC NGÀY XƯA',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Quách thị giả hầu thầy là Đức Sơn. Một hôm Quách thị giả hỏi, “Con cho rằng các bậc hiền đức ngày xưa đã đi đến một nơi nào đó. Hoà thượng có vui lòng nói cho con biết là các ngài đã trở thành gì không?” Đức Sơn đáp, “Tôi không biết họ ở chỗ nào.” Quách thị giả thất vọng, “Con đang mong câu trả lời giống ngựa phi, nhưng chỉ được câu giống rùa bò.” Đức Sơn im lặng tựa như người bị bại trận tranh luận. Hôm sau Đức Sơn đi tắm rồi đến phòng khách, Quách thị giả mời sư uống trà. Sư vỗ nhẹ lên lưng thị giả và hỏi, “Công án hôm qua thế nào rồi?” Thị giả đáp, “Thiền của hòa thượng khá hơn hôm qua.” Nhưng Đức Sơn chẳng nói gì, lại giống như kẻ bị bại trong cuộc tranh luận.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Quách thị giả hỏi về các sư ngày xưa như một số người nghĩ thiên đường như là một thế giới vinh quang. Nơi đó những người đã chết trên mặt đất tiếp tục việc làm của họ. Bao lâu ông thị giả còn trung thành phục vụ thầy, tại sao lại phải tự mình phiền nhiễu với những vấn đề như thế? Dù một đệ tử có thể nghĩ rằng thầy mình là “sư,” ông thầy không chấp nhận một danh hiệu như thế bởi vì Thiền của ông không tách lìa với Thiền của họ, và Pháp của ông là một thành phần tạo thành Pháp của họ. Đức Sơn rất tử tế với ông tăng, người có Thiền không khác hơn giấc mộng hôm qua. Có thể Đức Sơn đã nghĩ, “Dùng để làm gì,” nhưng sư vẫn im lặng.',
     commentAfterVerse:
-      '',
+      'Genro: / ' +
+'Tim cổ đức lạnh như sắt thép, / ' +
+'Mà phàm tình không thể xử phân. / ' +
+'Họ tới lui nhanh như ánh chớp, / ' +
+'Vào và ra giống như huyễn thuật. / ' +
+'Ai phê bình cũng chẳng động tâm. / ' +
+'Đỉnh núi cao còn có thể leo, / ' +
+'Đáy biển sâu không sao dò được. / ' +
+'Dưới chân sư phải nên ra sức, Đức Sơn, thị giả ăn chẳng chung bàn.',
   },
 
   {
