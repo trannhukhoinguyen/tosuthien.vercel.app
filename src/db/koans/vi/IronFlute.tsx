@@ -434,24 +434,30 @@ const IronFlute = [
 
   {
     id: 15,
-    title: 'TẮC THỨ 15: ',
+    title: 'TẮC THỨ 15: ĐẠI TÙY TU BÊN TRONG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Đại Tùy nói với tăng chúng, “Này các anh em, thà đào bên trong một tấc còn hơn là thuyết Pháp bên ngoài một thước. Thà tu bên trong một phân còn hơn là giảng bên ngoài một tấc.” Để cân bằng và làm sáng tỏ câu nói này, Động Sơn nói, “Tôi giảng cái gì tôi không thể thiền định, và tôi thiền định cái gì tôi không thể giảng.”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Đại Từ, hay Thiền sư Khoan Trung, sống trong một ngôi chùa trên núi Đại Từ. Động Sơn là người đồng thời nhưng trẻ hơn hăm bảy tuổi. Trước khi học câu nói của Động Sơn, quí vị cần phải hiểu cặn kẽ lời của Đại Từ. Người Phật giáo Đại thừa muốn giác ngộ tất cả chúng sinh đau khổ vì vô minh. Động cơ thì vĩ đại, nhưng y không nên quên tự tu từng giây từng phút. Y nhập vào đoàn quân viễn chinh chinh phục vô minh và giác ngộ mọi người. Chư Phật và Tổ trong quá khứ và hiện tại cùng làm việc với y và sẽ tiếp tục công việc của họ trong vị lai. Nếu nhầm một bước là y bị lùi lại phiá sau. / ' +
+'Nếu một người lặp lại cái gì y nghe từ người khác hay đọc trong sách, thì chẳng phải y đang truyền bá Pháp mà chỉ là giả mạo mà thôi. Ở Đông phương chúng tôi gọi người như thế là “học giả ba tấc.” Y chỉ đọc sách hay nghe người ta rồi nói, và khoảng cách giữa mắt hay miệng hay giữa tai và miệng cũng chỉ khoản ba tấc [Tàu]. Những ai diễn thuyết hay viết sách về Phật giáo mà bản thân họ không đạt được ánh sáng bên trong thì họ đang làm việc vô ích. / ' +
+'Một thanh niên Hy lạp ngày xưa có lần hỏi một đồng đội trên chiến trường anh ta có thể làm gì với thanh kiếm quá ngắn của mình. Đồng đội đáp, “Tôi sẽ tiến một bước nhanh hơn những người khác.” Tất cả những gì anh ta có trên thế gian này là cây kiếm duy nhất đó; dù dài hay ngắn, anh ta cũng phải chiến đấu với nó. Cũng giống như chiến sĩ kia, người học Thiền không có ý nghĩ thứ nhì, do đó, y giảng trong lúc thiền định và thiền định trong lúc giảng. Muốn đạt đến cảnh giới Động Sơn nói, người ta phải đi từng bước một theo con đường Đại Từ dạy tăng chúng.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 16,
-    title: 'TẮC THỨ 16: ',
+    title: 'TẮC THỨ 16: QUI SƠN THỜI GIAN',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Qui Sơn nói với tăng chúng, “Mùa đông, những ngày lạnh trở lại mỗi năm. Năm ngoái cũng lạnh như năm nay, và năm tới cũng sẽ lạnh y như vậy. Các ông hãy nói tôi biết những ngày nào trong năm đang tái diễn.” Ngưỡng Sơn, một đệ tử lâu năm, bước đến đứng bên thầy với bàn tay phải úp lên nắm tay trái đặt trước ngực. Qui Sơn bình, “Tôi biết ông không thể trả lời câu hỏi của tôi.” Rồi sư quay sang Hương Nghiêm, một đệ tử ít năm hơn, “Ông nói thế nào?” “Con tin chắc là con có thể trả lời câu hỏi của hòa thượng,” Hương Nghiêm đáp và bước đến đứng bên thầy với bàn tay phải úp lên nắm tay trái đặt trước ngực như vị tăng thâm niên kia đã làm. Nhưng Qui Sơn làm ngơ và nhận xét, “Tôi vui vì ông sư huynh đã không thể đáp được câu hỏi của tôi.”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Chùa của Qui Sơn trên núi là nơi tăng chúng cảm thấy cái lạnh khắc nghiệt của mùa đông. Một vài tăng nhân đã ở lại trong chùa trải qua những ngày tháng vô ích. Nhớ đến những ngày lạnh mùa đông, trẻ con nghĩ đến lễ Giáng Sinh. Qui Sơn đang cảnh cáo tăng chúng chớ lãng phí qua ngày mà chẳng ngộ đạt Thiền. / ' +
+'Thời gian là gì và nó bắt đầu khi nào? Khi nào nó chấm dứt? Quí vị học Thiền như thế nào? Thiền hằng ngày của quí vị trong thế giới thực tiễn như thế nào? / ' +
+'Không gian và thời gian là những đề tài biện luận của triết học qua các thời đại. Einstein đã đưa chúng vào lãnh vực toán học và khoa học. / ' +
+'Thời gian, do cá nhân kinh nghiệm ở nhiều thời kỳ trong cuộc đời y, thì khác với thời gian vật lý học, phát minh của con người dùng để ghi dấu các ngày. Khi Ngưỡng Sơn đứng trước thầy với bàn tay trái úp lên nắm tay phải đặt trên ngực, sư đang làm dấu hiệu chào để bày tỏ Thiền của sư. Đây là những gì các ngày của năm lặp đi lặp lại; sư đã nói lên triết lý của sư trong im lặng.  / ' +
+'Đối với nhà vật lý học, quá khứ và vị lai giống nhau, chỉ khác nhau về chiều hướng như các chiều hướng trên cái la bàn, nhưng đối với một người đang sống thì chúng khác nhau. Một người cuộn tròn quá khứ của mình và mang nó theo bất cứ chỗ nào y đi. Khi Qui Sơn nói, “Tôi biết ông không thể trả lời câu hỏi của tôi,” sư chỉ muốn thăm dò Ngưỡng Sơn có biếng nhác không. Sư chấp nhận kinh nghiệm của cả hai đệ tử, nhưng cũng bày tỏ Thiền của mình, phi thời gian và vô hình thể khi nó chớp lên.',
     commentAfterVerse:
       '',
   },
