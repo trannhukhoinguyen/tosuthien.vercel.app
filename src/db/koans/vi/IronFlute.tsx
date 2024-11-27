@@ -604,7 +604,7 @@ const IronFlute = [
 'Đủ bén để bửa đôi / ' +
 'Thân cây chỉ một nhát / ' +
 'Tuyết Phong dùng tích trượng / ' +
-"Làm cho lưỡi thêm bén',
+'Làm cho lưỡi thêm bén',
   },
 
   {
@@ -675,46 +675,81 @@ commentAfterVerse:
 
   {
     id: 27,
-    title: 'TẮC THỨ 27: ',
+    title: 'TẮC THỨ 27: NGƯỠNG SƠN NGÀN MUÔN CẢNH',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Ngưỡng Sơn hỏi Qui Sơn, “Khi ngàn muôn cảnh đến thì hòa thượng làm thế nào?” Qui Sơn đáp, “Vật xanh thì chẳng vàng. Vật dài thì chẳng ngắn. Mỗi vật tự có chỗ riêng. Can hệ gì đến ta chứ ?” Ngưỡng Sơn cúi đầu bái tạ.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Ngưỡng Sơn học Thiền dưới sự hướng dẫn của Qui Sơn, về sau nhận Pháp và trở thành người thừa kế. Đây là một trong hằng trăm câu chuyện xảy ra trong những năm tu tập đó. / ' +
+'Khi một người qui định và thọ nhận một hình ảnh của tâm trí, nó trở thành một cảnh (hay vật) đối với y. Phật giáo xếp loại các tâm cảnh chung với trần cảnh của thế giới năm giác quan nhận biết. Nếu vui và buồn đến cùng một lúc, nếu sướng và khổ tụ tập quanh mình thì làm thế nào điều khiển chúng. Nếu một người phán xét được và mất, thích và không thích cùng một lúc thì thực ra y nên làm gì? / ' +
+'Người học Thiền nên cố gắng mỗi lúc chỉ làm một việc thôi. Nếu quí vị có ai lục tìm một bài xã luận trong bàn giấy của mình, thì nên đóng cái ngăn kéo đã lục rồi mới mở ngăn kéo kế tiếp. Mỗi ngăn kéo chứa một cái gì đó quan trọng, nếu bài xã luận không có ở đó thì những thứ khác chẳng liên quan gì đến mình vào lúc đó. Quí vị có để mở tất cả các ngăn kéo hay đổ tất cả các thứ xuống sàn nhà không? Nhưng đó chính là điều nhiều người làm với tâm cảnh của họ. Những người ăn kẹo trong khi đọc hay nghe đài phát thanh trong lúc viết, theo tinh thần Thiền, chắc chắn là họ đã lạc bước.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 28,
-    title: 'TẮC THỨ 28: ',
+    title: 'TẮC THỨ 28: LONG NHA CẢNH GIỚI VÔ THƯỢNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng hỏi Long Nha, “Các sư ngày xưa đạt được gì khi các ngài nhập vào cảnh giới vô thượng?” Long Nha đáp, “Họ giống như kẻ trộm lẻn vào một căn nhà trống.”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: / ' +
+'Có lẽ ông tăng này nghĩ các sư có một cái gì đó mà những người khác không có. Thực ra họ không có cái gì mà người khác không có. Câu trả lời của Long Nha có vẻ kỳ quặc, nhưng đó là cách để cư xử ông tăng này. Ông ta tham hết công án này đến công án khác, cố trở thành một bậc sư và hỏi về công án tối hậu như là một cuộc khảo hạch cuối cùng. Ông ta đã không kiên nhẫn, thay vì phải đi từng bước. Với tâm bị quấy nhiễu thì dù ông có muốn nằm mộng đến cảnh giới vô thượng cũng không thể được, mà chỉ tham lam chụp lấy bất cứ thứ gì chợt thấy, vì thế Long Nha đã bỏ ông ta vào một căn nhà trống. / ' +
+'Một người khỏe mạnh không bao giờ nghĩ đến bệnh tật, và một người bị bệnh phải tranh đấu để được khỏe mạnh. Một người có lần được hỏi bên trong có cái gì, người ấy nhìn tỏ ra rất trầm tĩnh và hài lòng. Đến phiên anh ta hỏi lại người hỏi kia thì y nhìn tỏ ra rất bất an và không hài lòng. Một người bên trong không có gì thì luôn luôn hạnh phúc, nhưng một người có nhiều dục vọng thì không bao giờ thoát được cảnh khốn đốn.',
     commentAfterVerse:
-      '',
+      'Genro: / ' +
+'Y đi trên kiếm bén / ' +
+'Lòng ăn cắp chẳng còn / ' +
+'Trên dòng sông đóng băng/ ' +
+'Y vào căn nhà trống/ ' +
+'Y trở về quê cũ/ ' +
+'Thấy nắng đẹp ban mai/ ' +
+'Nhìn trăng sao gần gũi/ ' +
+'Y thong dong bước đi trên đường phố/ ' +
+"Đón gió hiền dịu nhẹ mơn man/ ' +
+'Cuối cùng y mở cửa kho tàng/ ' +
+'Đến khi ấy, y chẳng còn mộng nữa/ ' +
+'Xưa nay y vẫn có kho tàng này',
   },
 
   {
     id: 29,
-    title: 'TẮC THỨ 29: ',
+    title: 'TẮC THỨ 29: NGƯỠNG SƠN CHÀO THẦY',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Lúc hết thời gian an cư 100 ngày mùa hạ, Ngưỡng Sơn đón chào thầy là Qui Sơn, “Con chẳng thấy hòa thượng quanh đây suốt cả mùa hè.” / ' +
+'Qui Sơn hỏi, “Ông đã làm gì ?” / ' +
+'Ngưỡng Sơn đáp, “Con đã chăm sóc một miếng đất và sản xuất được một giỏ đầy hạt kê.” / ' + 
+'Qui Sơn phê bình, “Ông đã không lãng phí mùa hè này.” / ' + 
+'Ngưỡng Sơn hỏi lại, “Hòa thượng đã làm gì mùa hè này?” Vị tăng già đáp, “Ta đã ăn mỗi ngày một bữa trưa và ngủ vài giờ sau lúc nửa đêm.” “Vậy thì hòa thượng đã không lãng phí mùa hè này,”. wNgưỡng Sơn nói xong liền thè lưỡi ra. / ' +
+'Qui Sơn nhận xét, “Ông nên tự trọng một chút.”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Chùa của Qui Sơn có khoảng một ngàn năm trăm tăng chúng, đa số họ ở trong thiền đường ngày đêm ngồi thiền, trong khi một số chịu trách nhiệm lo việc nhà bếp và một số khác làm việc đồng áng. Mỗi người làm phần việc của mình để làm vinh quang Phật-Pháp. Phần của Ngưỡng Sơn là chăm sóc miếng đất để sản xuất một giỏ đầy hạt kê, và Qui Sơn sống cuộc sống của một tăng nhân lý tưởng. Trong toàn thể gia đình Thiền, không ai lãng phí mùa hè của mình. Theo cái nhìn thế gian thì đây là một cảnh chào mừng giữa thầy và trò với sự đánh giá lẫn nhau, nhưng trong Thiền người học trò vẫn còn cho thấy dấu vết của sự chứng đạt. Anh ta còn lảng vảng với cái bóng của được và mất. Anh ta đã nhận ra lời nói sai của mình trước khi chấm dứt, ông thầy, vì nhận thấy những gì đang diễn ra trong tâm người học trò, nên đã trách mắng y.',
     commentAfterVerse:
-      '',
+      'Genro: / ' +
+'Trong chùa Qui Sơn xưa / ' +
+'Không ai phí thì giờ / ' +
+'Mỗi tăng tôn vinh Pháp / ' +
+'Làm việc trong im lặng / ' +
+'Không kể được hay mất / ' +
+'Các chim chân sợi đỏ / ' +
+'Các sợi ấy vẫn còn / ' +
+'Dù bao nhiêu hấp dẫn / ' +
+'Các tăng không được bám/ ' +
+'Ngay cả sự tự do / ' +
+'Một anh thè luỡi ra / ' +
+'Để khỏi bị một gậy / ' +
+'Được từ bi ban cho / ' +
+'Dứt thân tâm các sợi',
   },
 
   {
     id: 30,
-    title: 'TẮC THỨ 30: ',
+    title: 'TẮC THỨ 30: THÁI TÔNG NẰM MỘNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Hoàng đế Thái Tông đời nhà Tống một đêm nằm mộng thấy một vị thần hiện ra khuyên vua phát tâm cầu giác ngộ vô thượng. Sáng hôm sau Hoàng đế hỏi vị Tăng lục, “Làm sao trẫm có thể phát khởi tâm cầu giác ngộ vô thượng?” Vị Tăng lục không lời để đáp.',
     commentBeforeVerse:
       '',
     commentAfterVerse:
