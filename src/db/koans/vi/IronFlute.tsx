@@ -548,38 +548,63 @@ const IronFlute = [
 
   {
     id: 21,
-    title: 'TẮC THỨ 21: ',
+    title: 'TẮC THỨ 21: PHẦN DƯƠNG CÂY GẬY',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Phần Dương giơ cây gậy lên và nói với tăng chúng, “Ai thấu suốt được cây gậy này thì việc hành cước cầu Thiền đã xong.”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn:  Thiền tăng thường du hành bằng chân, đôi khi phải leo những ngọn núi không có lối mòn và vượt qua những dòng sông không biết tên, họ đem theo cây gậy dài cao hơn họ. Phần Dương đã hành cước nhiều năm khi sư còn trẻ, viếng hơn bảy mươi bậc thầy, vì vậy đã giữ cây gậy của mình làm vật kỷ niệm. Trong câu chuyện sư dùng cây gậy bày tỏ Thiền của sư với tăng chúng. Nó chẳng phải là vật kỷ niệm. Nó chẳng phải là một biểu tượng. Nó là cái gì? Quí vị không thể thấy nó bằng mắt. Quí vị không thể nắm nó bằng tay. Quí vị không thể ngửi nó bằng mũi. Quí vị không thể nghe nó bằng tai. Quí vị không thể nếm nó bằng lưỡi. Quí vị không thể hình thành nó bằng ý nghĩ. Đây, nó đây!',
     commentAfterVerse:
-      '',
+      'Genro: Chư Phật quá khứ, hiện tại và vị lai nhập vào Phật giới khi các ngài hiểu cây gậy này. Tất cả chư Tổ đời này sang đời khác thành tựu qua cây gậy này. Lời Phần Dương nói đúng; không ai phủ nhận được. Tuy nhiên, tôi phải nói rằng ai hiểu được cây gậy sẽ bắt đầu hành cước thay vì chấm dứt hành cước. / ' +
+'Tích trượng dài bảy thước!/ ' +
+'Bất cứ ai hiểu được/ ' +
+'Có thể nuốt đất trời./ ' +
+'Kẻ đi nam hay bắc / ' +
+'Đều ở trong cửa ta / ' +
+'Trước khi rời cửa này, / ' +
+'Thì phải dứt hành cước / ' +
+'Cao Đình bên kia sông / ' +
+'Lễ Đức Sơn vẫy quạt / ' +
+'Ngay đó Cao Đình ngộ / ' +
+'Huyền Sa ráng leo núi / ' +
+'Để gặp thầy của mình, / ' +
+'Bị té chân chảy máu / ' +
+'Ngay lúc đó liền ngộ, / ' +
+'Và nói rằng “Đạt Ma / ' +
+'Chẳng có đến Trung hoa / ' +
+'Và kẻ thừa kế Tổ / ' +
+'Chưa từng đến Ấn độ.”',
   },
 
   {
     id: 22,
-    title: 'TẮC THỨ 22: ',
+    title: 'TẮC THỨ 22: BA LĂNG MẬT TRUYỀN',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng hỏi Ba Lăng, “Câu mật truyền đông tây có nghĩa là gì?” Ba Lăng vặn hỏi, “Đâu chẳng phải là lời dẫn từ thơ của Tam Tổ?” Ông tăng đáp, “Dạ, không phải. Đó là lời của Thạch Đầu.” Ba Lăng nhận lỗi, “Ấy là lỗi của tôi. Tôi già nua lẩm cẩm vậy.”',
     commentBeforeVerse:
-      '',
+      'Ba Lăng là người thừa kế Vân Môn, tổ thứ mười ba sau Bồ-đề Đạt-ma. Thạch Đầu là tổ thứ tám và bài thơ Tham Đồng Khế * của sư cũng nổi tiếng trong giới tăng nhân như bài Tín Tâm Minh* của tổ thứ ba vậy. Không một ông tăng hay sư nào có thể nhầm lẫn bài này với bài kia, nhưng Ba Lăng muốn nghe lời riêng của ông tăng, là người có thể nhận truyền ngay lúc ấy, chẳng phải đông tây gì cả mà là ngay lúc đó. / ' +
+'Tìm kiếm câu nói quí vị đã nghe trích dẫn từ sách nào để làm gì? Khi câu hỏi là của quí vị thì quí vị cũng sẽ tìm ra câu trả lời.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 23,
-    title: 'TẮC THỨ 23: ',
+    title: 'TẮC THỨ 23: TUYẾT PHONG CHẶT CÂY',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Tuyết Phong và đệ tử là Trường Sinh cùng vào rừng chặt cây. Sư cảnh giác, “Búa chưa tới lõi thì chớ ngừng.” Đệ tử đáp, “Nhưng con đã chặt đứt mất rồi.” Tuyết Phong nói tiếp, “Các sư ngày trước truyền pháp cho đệ tử bằng tâm truyền tâm. Còn ông thì thế nào?” Trường Sinh ném búa xuống đất, nói, “Đã truyền xong.” Tuyết Phong nhặt gậy lên đánh Trường Sinh, đệ tử quí của sư.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Tăng nhân là những người hợp tác đích thực, dù thiền định trong thiền đường hay cùng nhau làm các công việc hằng ngày. Chắc chắn hai người này đang mang ngọn đèn Pháp. Nhiều người Tây phương tìm chân lý, đến viếng hết các lớp học triết rồi lại đến học thiền định dưới sự hướng đẫn của các ông thầy Đông phương, nhưng có được bao nhiêu người trong bọn họ chặt cây đến lõi? Họ thường chỉ cào tróc lớp vỏ ngoài và đợi người khác chẻ thân cây cho họ. Thực là con nít nhỏng nhẻo! / ' +
+'Trường Sinh đã đạt Thiền trước khi thầy của sư dứt lời. Tuyết Phong rất hài lòng. Nhưng sau khi ông tăng ném cái búa xuống đất, tại sao lại nói, “Đã truyền xong” ? Ông ta thiệt là đáng đòn.',
     commentAfterVerse:
-      '',
+      'Genro: / ' +
+'Trường Sinh có búa tốt / ' +
+'Đủ bén để bửa đôi / ' +
+'Thân cây chỉ một nhát / ' +
+'Tuyết Phong dùng tích trượng / ' +
+"Làm cho lưỡi thêm bén',
   },
 
   {
