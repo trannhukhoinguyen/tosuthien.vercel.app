@@ -609,26 +609,49 @@ const IronFlute = [
 
   {
     id: 24,
-    title: 'TẮC THỨ 24: ',
+    title: 'TẮC THỨ 24: NAM TUYỀN TUỔI PHẬT',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một hôm Nam Tuyền trì hoãn ngồi vào chỗ của sư trong phòng ăn. Hoàng Bá, là đệ tử thủ tọa, ngồi vào chỗ của thầy thay vì ngồi vào chỗ của mình. Nam Tuyền bước vào, nói, “Chỗ đó thuộc về ông tăng già nhất trong chùa này. Theo Phật giáo thì ông bao nhiêu tuổi?” Hoàng Bá đáp, “Bằng tuổi Phật Tì-bà-thi.” Nam Tuyền nói, “Vậy thì ông là cháu nội tôi. Xuống đi.” Hoàng Bá trả lại chỗ cho thầy, mà ngồi vào chỗ kế chỗ dành cho ông.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn:  / ' +
+'Có lẽ tăng chúng trong chùa bám vào tư cách của thầy và vị tăng thủ tọa. Mỗi tăng nhân phải giữ chỗ ngồi của mình và là thầy của tình thế bất chấp tuổi tác hay địa vị, vì vậy Hoàng Bá muốn phá vỡ sự ràng buộc này của tăng chúng. Một Phật tử tính tuổi của mình từ ngày thọ giới qui y và một số tăng nhân rất hãnh diện về tuổi đạo của họ. Bất kể tuổi của Phật Tì-bà-thi là bao nhiêu, thời gian vẫn là có giới hạn và hữu cùng. Nam Tuyền sống trong thường hằng vô thủy vô chung, vì vậy sư bảo Hoàng Bá xuống đi. Nếu Hoàng Bá trở lại chỗ dành cho mình, tức là tự mâu thuẫn. Hoàng Bá ngồi vào một chỗ khác, như vậy sư đã nắm lại tình thế.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 25,
-    title: 'TẮC THỨ 25: ',
+    title: 'TẮC THỨ 25: NHAM ĐẦU THÙNG NƯỚC',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
-    commentBeforeVerse:
-      '',
+      'Ba ông tăng Tuyết Phong, Khâm Sơn và Nham Đầu gặp nhau trong vườn chùa. Tuyết Phong thấy một thùng nước liền chỉ. Khâm Sơn nói, “Nước trong, trăng soi bóng.” Tuyết Phong nói, “Chẳng phải nước, chẳng phải trăng.” Nham Đầu lật nhào thùng nước.',
+    commentBeforeVerseExtra:
+      'Như Huyễn: Khi Tuyết Phong chỉ thùng nước, sư ám chỉ Phật thân nhuần khắp thế giới và Khâm Sơn cũng ở trong cùng một tâm thái như trong bài kệ xưa: / ' +
+'Trăng Bồ-tát / ' +
+'Trong và mát / ' +
+'Trôi bồng bềnh / ' +
+'Trong hư không / ' +
+'Tâm chúng sinh / ' +
+'Nếu tự tĩnh / ' +
+'Như hồ yên / ' +
+'Thì ảnh đẹp / ' +
+'Của Bồ-đề / ' +
+'Sẽ hiện ra / ' +
+'Ngay ở đó / ' +
+'Không thời gian / ' +
+'Tuyết Phong nhấn mạnh vào thể tánh hơn là hiện tượng, khi sư nói, “Chẳng phải nước, chẳng phải trăng.” Nham Đầu lật nhào thùng nước xóa bỏ tất cả ngay cả sự phủ định của Tuyết Phong. Thiền chẳng phải triết học cũng chẳng phải tôn giáo.',
+commentAfterVerse:
+'Genro: Trong vườn liễu và hoa / ' +
+'Bên cạnh tháp nhạc đẹp / ' +
+'Hai khách thưởng thức rượu / ' +
+"Tay nâng chiếc tách vàng / ' +
+'Dưới ánh trăng nhợt nhạt / ' +
+'Họa mi bỗng cất cánh / ' +
+'Từ trên một cành cây / ' +
+'Rung sương rơi từ lá'
     commentAfterVerse:
-      '',
+      'Fugai: Họa mi? Không! Phượng hoàng!',
   },
 
   {
