@@ -1125,6 +1125,8 @@ const IronFlute = [
       '\n' +
       ' \n' +
       '\n' +
+      '',
+    commentBeforeVerse:
       'Như Huyễn:  Khi ông tăng đến để tham thiền, có nghĩa là ông ta muốn bày tỏ sự tự do tự tại của mình bằng cách không thích hợp với các qui củ vào ra Thiền đường, nhưng câu nói đầu tiên của Nam Tuyền làm ông ta nao núng và ông ta đã thay đổi thái độ. Như vậy, ông ta tự do ở chỗ nào? Thế gian đầy những người “thái quá” loại này hay loại kia, và có những người nghĩ rằng bằng cách đập phá ngẫu tượng là họ biểu hiện sự tự do. Tất cả những người ấy đều bị trói buộc. Một người tự do không phô bày sự tự do của mình. Người ấy tự do, vì vậy mà vượt qua hầu hết không bị chú ý. Vì y không bám vào cái gì cả, qui củ và sự điều hành không bao giờ làm phiền y. Y có thể cúi đầu lễ bái hay bước lùi ra sau, chẳng gì khác biệt.\n' +
       '\n' +
       ' \n' +
@@ -1154,8 +1156,6 @@ const IronFlute = [
       'Như Huyễn: Silas Hubbard có lần đã nói, “Khi tôi trở thành người già, tôi đơn giản hóa cả khoa học và tôn giáo của tôi. Đối với tôi sách trở nên ít ý nghĩa hơn; cầu nguyện trở nên ít ý nghiã hơn; thuốc nước, thuốc viên và cần sa ma túy trở nên ít ý nghiã hơn; nhưng sự bình yên, tình bạn, tình thương và một đời sống hữu dụng có ý nghĩa hơn... hơn một cách vô cùng.”\n' +
       '\n' +
       ' Ở đây chúng ta thấy một người Mỹ học Thiền một cách tự nhiên vào tuổi già. Nhưng tại sao người ta phải chờ đến khi già? Nhiều người không biết cách nào làm cho mình tự do với khoa học và tôn giáo. Họ càng học khoa học thì họ càng chế tạo năng lực hủy diệt. Tôn giáo của họ chỉ là chiếc áo khoác bên ngoài quá nặng nề khi họ bước đi trong gió xuân êm nhẹ. Sách là gánh nặng đối với họ và cầu nguyện chỉ là lời xin tha thứ đẹp đẽ. Họ tiêu thụ thuốc nước, thuốc viên, cần sa ma túy, nhưng họ không làm giảm được sự bịnh hoạn thể xác và tâm trí. Nếu thực sự họ muốn bình yên, tình bạn, tình thương và một đời sống hữu dụng thì họ phải làm trống tất cả những cái túi quí hóa chứa bụi và ảo tưởng để nhận ra tinh thần tự do, lý tưởng của đất nước này. ',
-    commentBeforeVerse:
-      '',
     commentAfterVerse:
       '',
   },
