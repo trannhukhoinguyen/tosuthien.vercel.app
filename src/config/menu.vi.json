@@ -8,6 +8,7 @@
       "hasChildren": true,
       "children": [
         { "name": "Thiền sư & Ngữ lục", "url": "/masters" },
+        { "name": "Ngữ lục Đối đáp", "url": "/conversations" },
         { "name": "Hỏi đáp", "url": "/faqs" }
       ]
     },
