@@ -1074,7 +1074,7 @@ const IronFlute = [
 
   {
     id: 42,
-    title: 'TẮC THỨ 42: NÚI NAM',
+    title: 'TẮC THỨ 42: THẠCH SƯƠNG NÚI NAM',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
       'Thạch Sương sống trên núi Nam và Quán Khê sống trên núi Bắc. / ' +
@@ -1099,21 +1099,23 @@ const IronFlute = [
     title: 'TẮC THỨ 43: ĐẠO LÝ TỐI HẬU CỦA THIỀN',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      'Một ông tăng hỏi Huyền Sa, “Khi các sư xưa giảng Pháp không lời bằng cái chùy hay cây phất tử, thì các ngài có chỉ bày đạo lý tối hậu của Thiền không?”' +
-      ' Huyền Sa đáp, “Không.” Ông tăng hỏi tiếp, “Vậy lúc ấy các ngài chỉ bày cái gì ?” ' +
-      'Huyền Sa giơ cây phất tử lên. Ông tăng hỏi, “Thế nào là đạo lý tối hậu của Thiền?” ' +
+      'Một ông tăng hỏi Huyền Sa, “Khi các sư xưa giảng Pháp không lời bằng cái chùy hay cây phất tử, thì các ngài có chỉ bày đạo lý tối hậu của Thiền không?” / ' +
+      'Huyền Sa đáp, “Không.” Ông tăng hỏi tiếp, “Vậy lúc ấy các ngài chỉ bày cái gì?” / ' +
+      'Huyền Sa giơ cây phất tử lên. Ông tăng hỏi, “Thế nào là đạo lý tối hậu của Thiền?” / ' +
       'Huyền Sa đáp, “Đợi đến khi ông ngộ đã.”',
     commentBeforeVerseExtra:
       'Như Huyễn: ' +
-      'Ông tăng này giống như những người khác, bám vào thành kiến của mình như là giải pháp khả hữu duy nhất. ' +
-      'Huyền Sa đã tìm cách thay đổi ý nghĩ này khi sư nói, “Không”. ' +
-      'Ông tăng vẫn không thể giải thoát mình khỏi quan niệm cứng ngắt này dù với lời chỉ dạy sống động ở ngay trước mặt. ' +
-      'Khi hỏi về đạo lý tối hậu của Thiền, ông ta giống như người đang đứng trước tòa thị sảnh mà hỏi thành phố ở chỗ nào. ' +
+      'Ông tăng này giống như những người khác, bám vào thành kiến của mình như là giải pháp khả hữu duy nhất. / ' +
+      'Huyền Sa đã tìm cách thay đổi ý nghĩ này khi sư nói, “Không”. / ' +
+      'Ông tăng vẫn không thể giải thoát mình khỏi quan niệm cứng ngắt này dù với lời chỉ dạy sống động ở ngay trước mặt. / ' +
+      'Khi hỏi về đạo lý tối hậu của Thiền, ông ta giống như người đang đứng trước tòa thị sảnh mà hỏi thành phố ở chỗ nào. / ' +
       'Huyền Sa bỏ cuộc và nói, “Đợi đến khi ông ngộ đã.”',
     commentAfterVerseExtra:
-      'Genro: Nếu tôi là Huyền Sa, tôi đã ném cây phất tử đi thay vì nói một câu nhạt nhẽo như vậy.',
+      'Genro: / ' +
+      'Nếu tôi là Huyền Sa, tôi đã ném cây phất tử đi thay vì nói một câu nhạt nhẽo như vậy.',
     commentBeforeVerse:
-      'Fugai: Lời của thầy tôi [Genro] có thể giúp Huyền Sa, nhưng tiếc thay ông đã dùng dao mổ trâu để chặt gà.',
+      'Fugai: / ' +
+      'Lời của thầy tôi [Genro] có thể giúp Huyền Sa, nhưng tiếc thay ông đã dùng dao mổ trâu để chặt gà.',
   },
 
   {
@@ -1121,67 +1123,83 @@ const IronFlute = [
     title: 'TẮC THỨ 44: NAM TUYỀN CHẲNG NHẬN CẢ TĂNG LẪN TỤC',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      'Một ông tăng đến Nam Tuyền, đứng ngay trước sư, với hai tay trước ngực. Nam Tuyền nói, “Ông cư sĩ quá.” Rồi ông tăng chắp hai tay lại. Nam tuyền nói, “Ông tăng nhân quá.” Ông tăng không nói được tiếng nào. Một sư khác nghe được chuyện này, nói với tăng chúng của mình, “Nếu tôi là ông tăng, tôi sẽ buông hai tay tự do và bước lùi đi ra.”\n' +
-      '\n' +
-      ' \n' +
-      '\n' +
-      '',
+      'Một ông tăng đến Nam Tuyền, đứng ngay trước sư, với hai tay trước ngực. / ' +
+      'Nam Tuyền nói, “Ông cư sĩ quá.” Rồi ông tăng chắp hai tay lại. / ' +
+      'Nam tuyền nói, “Ông tăng nhân quá”. / ' +
+      'Ông tăng không nói được tiếng nào. / ' +
+      'Một sư khác nghe được chuyện này, nói với tăng chúng của mình, “Nếu tôi là ông tăng, tôi sẽ buông hai tay tự do và bước lùi đi ra”.',
     commentBeforeVerse:
-      'Như Huyễn:  Khi ông tăng đến để tham thiền, có nghĩa là ông ta muốn bày tỏ sự tự do tự tại của mình bằng cách không thích hợp với các qui củ vào ra Thiền đường, nhưng câu nói đầu tiên của Nam Tuyền làm ông ta nao núng và ông ta đã thay đổi thái độ. Như vậy, ông ta tự do ở chỗ nào? Thế gian đầy những người “thái quá” loại này hay loại kia, và có những người nghĩ rằng bằng cách đập phá ngẫu tượng là họ biểu hiện sự tự do. Tất cả những người ấy đều bị trói buộc. Một người tự do không phô bày sự tự do của mình. Người ấy tự do, vì vậy mà vượt qua hầu hết không bị chú ý. Vì y không bám vào cái gì cả, qui củ và sự điều hành không bao giờ làm phiền y. Y có thể cúi đầu lễ bái hay bước lùi ra sau, chẳng gì khác biệt.\n' +
-      '\n' +
-      ' \n' +
-      '\n' +
-      'Genro: Nếu tôi là Nam Tuyền, tôi sẽ nói với ông tăng, “Ông kẻ ngốc quá,” và với ông thầy nói rằng buông thả hai tay bước lùi ra, tôi sẽ nói “Hòa thượng người điên qúa.” Chân giải thoát chẳng có vật để nắm giữ, chẳng có màu sắc để thấy, chẳng có âm thanh để nghe.\n' +
-      '\n' +
-      ' \n' +
-      '\n' +
-      ' Kẻ thực sự tự do\n' +
-      '\n' +
-      'Trong tay không một vật,\n' +
-      '\n' +
-      ' Chẳng có kế hoạch gì,\n' +
-      '\n' +
-      'Chỉ phản ứng tùy theo\n' +
-      '\n' +
-      'Hành động của kẻ khác.\n' +
-      '\n' +
-      'Tài thay sư Nam Tuyền\n' +
-      '\n' +
-      'Làm lỏng được cái nút\n' +
-      '\n' +
-      'Dây thừng của ông tăng.\n' +
-      '\n' +
-      ' \n' +
-      '\n' +
-      'Như Huyễn: Silas Hubbard có lần đã nói, “Khi tôi trở thành người già, tôi đơn giản hóa cả khoa học và tôn giáo của tôi. Đối với tôi sách trở nên ít ý nghĩa hơn; cầu nguyện trở nên ít ý nghiã hơn; thuốc nước, thuốc viên và cần sa ma túy trở nên ít ý nghiã hơn; nhưng sự bình yên, tình bạn, tình thương và một đời sống hữu dụng có ý nghĩa hơn... hơn một cách vô cùng.”\n' +
-      '\n' +
-      ' Ở đây chúng ta thấy một người Mỹ học Thiền một cách tự nhiên vào tuổi già. Nhưng tại sao người ta phải chờ đến khi già? Nhiều người không biết cách nào làm cho mình tự do với khoa học và tôn giáo. Họ càng học khoa học thì họ càng chế tạo năng lực hủy diệt. Tôn giáo của họ chỉ là chiếc áo khoác bên ngoài quá nặng nề khi họ bước đi trong gió xuân êm nhẹ. Sách là gánh nặng đối với họ và cầu nguyện chỉ là lời xin tha thứ đẹp đẽ. Họ tiêu thụ thuốc nước, thuốc viên, cần sa ma túy, nhưng họ không làm giảm được sự bịnh hoạn thể xác và tâm trí. Nếu thực sự họ muốn bình yên, tình bạn, tình thương và một đời sống hữu dụng thì họ phải làm trống tất cả những cái túi quí hóa chứa bụi và ảo tưởng để nhận ra tinh thần tự do, lý tưởng của đất nước này. ',
+      'Như Huyễn:  ' +
+      'Khi ông tăng đến để tham thiền, có nghĩa là ông ta muốn bày tỏ sự tự do tự tại của mình bằng cách không thích hợp với các qui củ vào ra Thiền đường, nhưng câu nói đầu tiên của Nam Tuyền làm ông ta nao núng và ông ta đã thay đổi thái độ. / ' +
+      'Như vậy, ông ta tự do ở chỗ nào? Thế gian đầy những người “thái quá” loại này hay loại kia, và có những người nghĩ rằng bằng cách đập phá ngẫu tượng là họ biểu hiện sự tự do. / ' +
+      'Tất cả những người ấy đều bị trói buộc. Một người tự do không phô bày sự tự do của mình. / ' +
+      'Người ấy tự do, vì vậy mà vượt qua hầu hết không bị chú ý. Vì y không bám vào cái gì cả, qui củ và sự điều hành không bao giờ làm phiền y. / ' +
+      'Y có thể cúi đầu lễ bái hay bước lùi ra sau, chẳng gì khác biệt. / ' +
+      'Silas Hubbard có lần đã nói, “Khi tôi trở thành người già, tôi đơn giản hóa cả khoa học và tôn giáo của tôi. / ' +
+      'Đối với tôi sách trở nên ít ý nghĩa hơn; cầu nguyện trở nên ít ý nghiã hơn; thuốc nước, thuốc viên và cần sa ma túy trở nên ít ý nghiã hơn; nhưng sự bình yên, tình bạn, tình thương và một đời sống hữu dụng có ý nghĩa hơn... hơn một cách vô cùng”. / ' +
+      'Ở đây chúng ta thấy một người Mỹ học Thiền một cách tự nhiên vào tuổi già. / ' +
+      'Nhưng tại sao người ta phải chờ đến khi già? Nhiều người không biết cách nào làm cho mình tự do với khoa học và tôn giáo. / ' +
+      'Họ càng học khoa học thì họ càng chế tạo năng lực hủy diệt. Tôn giáo của họ chỉ là chiếc áo khoác bên ngoài quá nặng nề khi họ bước đi trong gió xuân êm nhẹ. / ' +
+      'Sách là gánh nặng đối với họ và cầu nguyện chỉ là lời xin tha thứ đẹp đẽ. Họ tiêu thụ thuốc nước, thuốc viên, cần sa ma túy, nhưng họ không làm giảm được sự bịnh hoạn thể xác và tâm trí. / ' +
+      'Nếu thực sự họ muốn bình yên, tình bạn, tình thương và một đời sống hữu dụng thì họ phải làm trống tất cả những cái túi quí hóa chứa bụi và ảo tưởng để nhận ra tinh thần tự do, lý tưởng của đất nước này. ',
     commentAfterVerse:
-      '',
+      'Genro: ' +
+      'Nếu tôi là Nam Tuyền, tôi sẽ nói với ông tăng, “Ông kẻ ngốc quá,” và với ông thầy nói rằng buông thả hai tay bước lùi ra, tôi sẽ nói “Hòa thượng người điên qúa”. / ' +
+      'Chân giải thoát chẳng có vật để nắm giữ, chẳng có màu sắc để thấy, chẳng có âm thanh để nghe. / ' +
+      'Kẻ thực sự tự do / ' +
+      'Trong tay không một vật, / ' +
+      'Chẳng có kế hoạch gì, / ' +
+      'Chỉ phản ứng tùy theo / ' +
+      'Hành động của kẻ khác. / ' +
+      'Tài thay sư Nam Tuyền / ' +
+      'Làm lỏng được cái nút / ' +
+      'Dây thừng của ông tăng ',
   },
 
   {
     id: 45,
-    title: 'TẮC THỨ 45: ',
+    title: 'TẮC THỨ 45: VU ĐỊCH HỎI PHẬT',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
-    commentBeforeVerse:
-      '',
+      'Tể tướng Vu Địch hỏi sư Đạo Thông, “Thế nào là Phật?” ' +
+      'Sư gọi đột ngột, “Đại nhân!” ' +
+      '“Dạ,” vị tể tướng đáp một cách ngây thơ. ' +
+      'Rồi sư nói, “Ngài còn tìm gì khác?”',
+    commentBeforeVerseExtra:
+      'Như Huyễn: ' +
+      'Vu Địch góp nhặt những câu trả lời của các Thiền sư mà ông ta đến viếng với câu hỏi này như một người sưu tập tiền xu hay tem thư không còn dùng nữa. Kiến thức về Thiền của ông ta đủ để đánh giá vài câu trả lời, nhưng ông ta hoàn toàn không sẵn sàng cho câu đáp này, nó quá nhiều đến độ làm ông ta quên cả tại sao mình đối diện với ông thầy này. Tiếng “Dạ” của ông ta cũng đơn giản và tự nhiên như lời đáp tiếng mẹ gọi của đứa con. ',
+    commentAfterVerseExtra:
+      'Genro: ' +
+      'Hai tiếng “Đại nhân!” đã dội đầu ông ta vào một cái gì đó, nhưng tôi không chắc đó có phải là một ông Phật thật hay không.' +
+      ' Chớ nhằm ngọn cây tìm cá' +
+      ' Khi về nhà chớ nấu tre cây.' +
+      ' Phật-đà, Phật-đà, Phật-đà ...' +
+      ' Kẻ ngu giữ lấy dây xâu tiền.',
     commentAfterVerse:
-      '',
+      'Như Huyễn:  ' +
+      'Một người Trung hoa có lần thưởng thức một đĩa măng tre và được bảo rằng đó là tre nấu chín. Về nhà y cắt một khúc tre cây và nấu hằng giờ nhưng vô ích.\n' +
+      ' Ở Trung hoa và Nhật bản, người ta dùng sợi dây xỏ qua cái lỗ giữa các đồng xu thành một xâu để dễ mang đi. ' +
+      'Một người ngu có lần đã nắm chặc lấy sợi dây xâu sau khi các đồng xu đã tuột mất khỏi sợi dây. ' +
+      'Nhiều người vẫn bám vào sợi dây trống này mà tin rằng họ đang mang theo mình kho tàng thực sự. ',
   },
 
   {
     id: 46,
-    title: 'TẮC THỨ 46: ',
+    title: 'TẮC THỨ 46: CHỮ TÂM',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
-    commentBeforeVerse:
-      '',
+      'Một ông tăng già viết chữ “Tâm”, kiểu chữ Hán, tượng hình cho trái tim, lên cổng, cửa sổ và tường của ngôi nhà nhỏ của ông ta. ' +
+      'Pháp Nhãn nghĩ như vậy là sai và muốn sửa lại cho đúng, nói, “Cổng phải có chữ cổng, cửa sổ và tường mỗi cái phải có chữ riêng của nó.” ' +
+      'Huyền Giác nói, “Cổng tự nó hiện bày chẳng cần có chữ, cửa sổ và tường cũng vậy, chẳng cần bản hiệu gì cả.”',
+    commentBeforeVerseExtra:
+    'Như Huyễn: Ông tăng già thừa nhận rằng cổng, cửa sổ và tường là hiện thân của tâm. Ông ta giống như Hegel, thấy thế giới như là quá trình tư tưởng, cái khác nhau là Hegel tự nhốt mình trong suy lý còn ông tăng thì đã làm mình tự do với suy lý. Vả lại, chủ nghĩa lý tưởng có tính chất tuyệt đối của Hegel bám víu vào cái gì đó để thành hình trong thực tế, ông tăng thì đã vượt qua bên kia danh và tướng để ở trong ngôi nhà vô hình mà cổng, cửa sổ và tường của nó không là gì cả mà chỉ là tâm.\n' +
+      'Pháp Nhãn ủng hộ ông tăng một phần, tự mình tỏ ra có khác. Có thể sư đã nói, “Tôi hài lòng với cổng, cửa sổ và tường. Tại sao ông còn dán nhãn hiệu cho chúng nữa?” \n' +
+      'Huyền Giác cảm thấy rằng sự vật tự chúng bày tỏ chẳng cần tên gì cả.',
+    commentAfterVerseExtra:
+      'Genro: ' +
+      'Tôi sẽ viết chữ “cửa sổ” lên cổng, chữ “tường” lên cửa sổ, và chữ “cổng” lên tường.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: Tôi hiểu câu nói của Genro, nhưng quí vị không những chỉ vào nhà của ông tăng già đã sống mà còn để cho cái nhà ấy nhập vào quí vị.',
   },
 
   {
