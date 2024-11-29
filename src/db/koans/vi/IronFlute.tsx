@@ -1265,24 +1265,38 @@ const IronFlute = [
 
   {
     id: 49,
-    title: 'TẮC THỨ 49: ',
+    title: 'TẮC THỨ 49: HUYỀN SA GIẤY TRẮNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Huyền Sa bảo một ông tăng mang một lá thư đến thầy cũ của sư là Tuyết Phong. Tuyết Phong tập họp tăng chúng lại và mở lá thư ra trước mặt họ. Trong phong bì không chứa gì khác hơn là ba tờ giấy trắng. Tuyết Phong giơ ba tờ giấy lên và nói với tăng chúng, “Các ông hiểu không?” Không ai trả lời. Tuyết Phong nói tiếp, “Đứa con đi hoang của tôi viết đúng y như tôi nghĩ.” Khi ông tăng đưa thư trở về với Huyền Sa, kể sư nghe chuyện xảy ra tại chùa của Tuyết Phong, Huyền Sa nói, “Ông già tôi lẩm cẩm rồi.” ',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Huyền Sa là một người làm nghề đánh cá không biết chữ trước khi trở thành tăng nhân và đạt ngộ Thiền dưới sự hướng dẫn của Tuyết Phong. Sư là một bậc thầy nổi tiếng vào thời xảy ra câu chuyện này. Tuyết Phong hãnh diện vì sư, giơ lá thư cho tăng chúng xem. Tăng chúng mong là sẽ được xem một kiểu viết chữ đẹp, vì vậy khi Tuyết Phong hỏi họ hiểu không, không ai trả lời được. Là một Thiền sư, Tuyết Phong đã nói quá nhiều khi ca ngợi một người học trò cũ của mình. / ' +
+      'Thiền giống như ánh chớp. Mắt người không thể thấy được đấu vết của nó. Khi tăng chúng thoáng thấy tờ giấy trắng, thi bài học cho họ hôm đó đã xong, như vậy họ nên cúi đầu lễ bái và lui về thiền đường trước khi ông thầy có cơ hội khoe đứa con đi hoang của mình. Ông tăng đưa thư là một tên ngốc. Ông ta phải hỏi thư trả lời, thay vào đó ông ta tường trình cảnh Thiền vô vị kia với Huyền Sa để sư phải ra tay cứu giúp tình cảnh gia đình bằng câu nói, “Ông già của tôi lẩm cẩm rồi.” Toàn bộ dấu vết của suy nghĩ đã được quét sạch với tờ giấy trắng lãng quên. / ' +
+      'Ngày nay con người dùng đài phát thanh và vô tuyến truyền hình để gửi thông điệp đi khắp thế giới, nhưng vì con người không có Thiền nên dùng cách tuyên truyền vì những mục đích vị kỷ, gieo rắc thù hận và sợ hãi, vì thế nhân loại bất an cả ngày lẫn đêm. Có phải con người vẫn còn là đứa con đi hoang của trời hay không? Có phải nó đang đi vào sự già nua lẩm cẩm của văn minh hay không? Không. Nó chỉ uống thuốc ngủ quá liều và đang bị ác mộng khuấy động.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 50,
-    title: 'TẮC THỨ 50: ',
+    title: 'TẮC THỨ 50: NGHĨA TRUNG THUYẾT PHÁP',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Khi sư Nghĩa Trung lên tòa thuyết Pháp, một cư sĩ từ thính chúng bước ra và đi từ đông sang tây trước pháp tòa. / ' +
+      'Rồi một ông tăng chứng minh Thiền của mình bằng cách đi từ tây sang đông. Nhgĩa Trung nói, “Cư sĩ hiểu Thiền nhưng tăng nhân chẳng hiểu”. / ' +
+      'Cư sĩ liền tiến đến gần Nghĩa Trung và nói, “Cảm ơn hòa thượng ấn chứng.” Nhưng trước khi ông ta nói dứt câu đã bị Nghĩa Trung đánh một gậy. / ' +
+      'Ông tăng bèn tiến đến Nghĩa Trung và nói, “Xin hòa thượng chỉ dạy,” và cũng bị gậy đánh. / ' +
+      'Rồi Nghĩa Trung nói, “Ai sẽ kết thúc công án này?” Không ai trả lời. / ' +
+      'Câu hỏi được lặp lại hai lần, nhưng thính chúng chẳng ai đáp. / ' +
+      'Sư nói, “Thế thì tôi kết thúc vậy.” Sư ném gậy xuống đất và trở về phòng.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Thiền tăng thuyết Pháp khẩn trương. Càng ít lời càng tốt. Đôi khi một người trong thính chúng hỏi một câu và sư trả lời, những lúc khác có người tiến đến sư và biểu hiện sự đạt ngộ của mình. Sư ấn chứng hay không và bài học chấm dứt. / ' +
+      'Sư là người nghe và người nghe là sư. Toàn thể việc làm quan hệ tất cả mọi người có mặt, và không ai được miễn trừ trách nhiệm. / ' +
+      'Cả cư sĩ và ông tăng đều chứng minh sự tự do tự tại của mình và phải bảo vệ kho tàng của mình một cách không sợ hãi bất chấp lời thầy. Về cư sĩ, Fugai nói, “Mây sáng viếng hang núi.” Và về ông tăng, thì, “Mưa chiều gõ cửa am.” / ' +
+      'Không có sự giả vờ, nhân tạo gì cả, vì vậy có tự do tự tại. Đối với một Thiền sư, cảnh giới của cư sĩ là “cho đến hiện tại vẫn tốt,” nhưng tăng nhân không bao giờ hoàn hảo. / ' +
+      'Nghĩa Trung có thể đã nói, “Đường ngọt, tiêu nồng.” Cư sĩ đáng ăn gậy bởi vì ông ta bám vào sự ấn chứng, và ông tăng đáng đòn vì vội vàng muốn đạt ngộ. Chẳng ích dụng gì mà làm lớn chuyện ra nên thính chúng giữ im lặng.',
     commentAfterVerse:
       '',
   },
