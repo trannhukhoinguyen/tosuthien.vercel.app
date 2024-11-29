@@ -439,9 +439,9 @@ const IronFlute = [
     main:
       'Đại Tùy nói với tăng chúng, “Này các anh em, thà đào bên trong một tấc còn hơn là thuyết Pháp bên ngoài một thước. Thà tu bên trong một phân còn hơn là giảng bên ngoài một tấc.” Để cân bằng và làm sáng tỏ câu nói này, Động Sơn nói, “Tôi giảng cái gì tôi không thể thiền định, và tôi thiền định cái gì tôi không thể giảng.”',
     commentBeforeVerse:
-      'Như Huyễn: Đại Từ, hay Thiền sư Khoan Trung, sống trong một ngôi chùa trên núi Đại Từ. Động Sơn là người đồng thời nhưng trẻ hơn hăm bảy tuổi. Trước khi học câu nói của Động Sơn, quí vị cần phải hiểu cặn kẽ lời của Đại Từ. Người Phật giáo Đại thừa muốn giác ngộ tất cả chúng sinh đau khổ vì vô minh. Động cơ thì vĩ đại, nhưng y không nên quên tự tu từng giây từng phút. Y nhập vào đoàn quân viễn chinh chinh phục vô minh và giác ngộ mọi người. Chư Phật và Tổ trong quá khứ và hiện tại cùng làm việc với y và sẽ tiếp tục công việc của họ trong vị lai. Nếu nhầm một bước là y bị lùi lại phiá sau. / ' +
-'Nếu một người lặp lại cái gì y nghe từ người khác hay đọc trong sách, thì chẳng phải y đang truyền bá Pháp mà chỉ là giả mạo mà thôi. Ở Đông phương chúng tôi gọi người như thế là “học giả ba tấc.” Y chỉ đọc sách hay nghe người ta rồi nói, và khoảng cách giữa mắt hay miệng hay giữa tai và miệng cũng chỉ khoản ba tấc [Tàu]. Những ai diễn thuyết hay viết sách về Phật giáo mà bản thân họ không đạt được ánh sáng bên trong thì họ đang làm việc vô ích. / ' +
-'Một thanh niên Hy lạp ngày xưa có lần hỏi một đồng đội trên chiến trường anh ta có thể làm gì với thanh kiếm quá ngắn của mình. Đồng đội đáp, “Tôi sẽ tiến một bước nhanh hơn những người khác.” Tất cả những gì anh ta có trên thế gian này là cây kiếm duy nhất đó; dù dài hay ngắn, anh ta cũng phải chiến đấu với nó. Cũng giống như chiến sĩ kia, người học Thiền không có ý nghĩ thứ nhì, do đó, y giảng trong lúc thiền định và thiền định trong lúc giảng. Muốn đạt đến cảnh giới Động Sơn nói, người ta phải đi từng bước một theo con đường Đại Từ dạy tăng chúng.',
+    'Như Huyễn: Đại Từ, hay Thiền sư Khoan Trung, sống trong một ngôi chùa trên núi Đại Từ. Động Sơn là người đồng thời nhưng trẻ hơn hăm bảy tuổi. Trước khi học câu nói của Động Sơn, quí vị cần phải hiểu cặn kẽ lời của Đại Từ. Người Phật giáo Đại thừa muốn giác ngộ tất cả chúng sinh đau khổ vì vô minh. Động cơ thì vĩ đại, nhưng y không nên quên tự tu từng giây từng phút. Y nhập vào đoàn quân viễn chinh chinh phục vô minh và giác ngộ mọi người. Chư Phật và Tổ trong quá khứ và hiện tại cùng làm việc với y và sẽ tiếp tục công việc của họ trong vị lai. Nếu nhầm một bước là y bị lùi lại phiá sau. / ' +
+    'Nếu một người lặp lại cái gì y nghe từ người khác hay đọc trong sách, thì chẳng phải y đang truyền bá Pháp mà chỉ là giả mạo mà thôi. Ở Đông phương chúng tôi gọi người như thế là “học giả ba tấc.” Y chỉ đọc sách hay nghe người ta rồi nói, và khoảng cách giữa mắt hay miệng hay giữa tai và miệng cũng chỉ khoản ba tấc [Tàu]. Những ai diễn thuyết hay viết sách về Phật giáo mà bản thân họ không đạt được ánh sáng bên trong thì họ đang làm việc vô ích. / ' +
+    'Một thanh niên Hy lạp ngày xưa có lần hỏi một đồng đội trên chiến trường anh ta có thể làm gì với thanh kiếm quá ngắn của mình. Đồng đội đáp, “Tôi sẽ tiến một bước nhanh hơn những người khác.” Tất cả những gì anh ta có trên thế gian này là cây kiếm duy nhất đó; dù dài hay ngắn, anh ta cũng phải chiến đấu với nó. Cũng giống như chiến sĩ kia, người học Thiền không có ý nghĩ thứ nhì, do đó, y giảng trong lúc thiền định và thiền định trong lúc giảng. Muốn đạt đến cảnh giới Động Sơn nói, người ta phải đi từng bước một theo con đường Đại Từ dạy tăng chúng.',
     commentAfterVerse:
       '',
   },
@@ -453,11 +453,11 @@ const IronFlute = [
     main:
       'Qui Sơn nói với tăng chúng, “Mùa đông, những ngày lạnh trở lại mỗi năm. Năm ngoái cũng lạnh như năm nay, và năm tới cũng sẽ lạnh y như vậy. Các ông hãy nói tôi biết những ngày nào trong năm đang tái diễn.” Ngưỡng Sơn, một đệ tử lâu năm, bước đến đứng bên thầy với bàn tay phải úp lên nắm tay trái đặt trước ngực. Qui Sơn bình, “Tôi biết ông không thể trả lời câu hỏi của tôi.” Rồi sư quay sang Hương Nghiêm, một đệ tử ít năm hơn, “Ông nói thế nào?” “Con tin chắc là con có thể trả lời câu hỏi của hòa thượng,” Hương Nghiêm đáp và bước đến đứng bên thầy với bàn tay phải úp lên nắm tay trái đặt trước ngực như vị tăng thâm niên kia đã làm. Nhưng Qui Sơn làm ngơ và nhận xét, “Tôi vui vì ông sư huynh đã không thể đáp được câu hỏi của tôi.”',
     commentBeforeVerse:
-      'Như Huyễn: Chùa của Qui Sơn trên núi là nơi tăng chúng cảm thấy cái lạnh khắc nghiệt của mùa đông. Một vài tăng nhân đã ở lại trong chùa trải qua những ngày tháng vô ích. Nhớ đến những ngày lạnh mùa đông, trẻ con nghĩ đến lễ Giáng Sinh. Qui Sơn đang cảnh cáo tăng chúng chớ lãng phí qua ngày mà chẳng ngộ đạt Thiền. / ' +
-'Thời gian là gì và nó bắt đầu khi nào? Khi nào nó chấm dứt? Quí vị học Thiền như thế nào? Thiền hằng ngày của quí vị trong thế giới thực tiễn như thế nào? / ' +
-'Không gian và thời gian là những đề tài biện luận của triết học qua các thời đại. Einstein đã đưa chúng vào lãnh vực toán học và khoa học. / ' +
-'Thời gian, do cá nhân kinh nghiệm ở nhiều thời kỳ trong cuộc đời y, thì khác với thời gian vật lý học, phát minh của con người dùng để ghi dấu các ngày. Khi Ngưỡng Sơn đứng trước thầy với bàn tay trái úp lên nắm tay phải đặt trên ngực, sư đang làm dấu hiệu chào để bày tỏ Thiền của sư. Đây là những gì các ngày của năm lặp đi lặp lại; sư đã nói lên triết lý của sư trong im lặng.  / ' +
-'Đối với nhà vật lý học, quá khứ và vị lai giống nhau, chỉ khác nhau về chiều hướng như các chiều hướng trên cái la bàn, nhưng đối với một người đang sống thì chúng khác nhau. Một người cuộn tròn quá khứ của mình và mang nó theo bất cứ chỗ nào y đi. Khi Qui Sơn nói, “Tôi biết ông không thể trả lời câu hỏi của tôi,” sư chỉ muốn thăm dò Ngưỡng Sơn có biếng nhác không. Sư chấp nhận kinh nghiệm của cả hai đệ tử, nhưng cũng bày tỏ Thiền của mình, phi thời gian và vô hình thể khi nó chớp lên.',
+    'Như Huyễn: Chùa của Qui Sơn trên núi là nơi tăng chúng cảm thấy cái lạnh khắc nghiệt của mùa đông. Một vài tăng nhân đã ở lại trong chùa trải qua những ngày tháng vô ích. Nhớ đến những ngày lạnh mùa đông, trẻ con nghĩ đến lễ Giáng Sinh. Qui Sơn đang cảnh cáo tăng chúng chớ lãng phí qua ngày mà chẳng ngộ đạt Thiền. / ' +
+    'Thời gian là gì và nó bắt đầu khi nào? Khi nào nó chấm dứt? Quí vị học Thiền như thế nào? Thiền hằng ngày của quí vị trong thế giới thực tiễn như thế nào? / ' +
+    'Không gian và thời gian là những đề tài biện luận của triết học qua các thời đại. Einstein đã đưa chúng vào lãnh vực toán học và khoa học. / ' +
+    'Thời gian, do cá nhân kinh nghiệm ở nhiều thời kỳ trong cuộc đời y, thì khác với thời gian vật lý học, phát minh của con người dùng để ghi dấu các ngày. Khi Ngưỡng Sơn đứng trước thầy với bàn tay trái úp lên nắm tay phải đặt trên ngực, sư đang làm dấu hiệu chào để bày tỏ Thiền của sư. Đây là những gì các ngày của năm lặp đi lặp lại; sư đã nói lên triết lý của sư trong im lặng.  / ' +
+    'Đối với nhà vật lý học, quá khứ và vị lai giống nhau, chỉ khác nhau về chiều hướng như các chiều hướng trên cái la bàn, nhưng đối với một người đang sống thì chúng khác nhau. Một người cuộn tròn quá khứ của mình và mang nó theo bất cứ chỗ nào y đi. Khi Qui Sơn nói, “Tôi biết ông không thể trả lời câu hỏi của tôi,” sư chỉ muốn thăm dò Ngưỡng Sơn có biếng nhác không. Sư chấp nhận kinh nghiệm của cả hai đệ tử, nhưng cũng bày tỏ Thiền của mình, phi thời gian và vô hình thể khi nó chớp lên.',
     commentAfterVerse:
       '',
   },
@@ -469,21 +469,22 @@ const IronFlute = [
     main:
       'Một ông tăng thấy một con rùa trong vườn chùa của Đại Tùy, hỏi sư, “Tất cả chúng sinh đều có da thịt bọc xương. Tại sao chúng sinh này lại có xương bọc da thịt?” Hòa thượng Đại Tùy đáp bằng cách lấy đôi dép của mình che lên con rùa. ',
     commentBeforeVerse:
-      'Như Huyễn: Ông tăng này có thói quen xấu là nhảy ngay vào kết luận. Ông ta nghĩ nếu một điều đã đúng vào lúc này thì cũng phải đúng vào mọi lúc và mọi nơi. Đại Tùy tìm cách cứu ông tăng ra khỏi loại phân biệt này và giúp ông tăng nhận ra nhất thể. / ' +
-'Khi quí vị thấy những điều bất thường, không nên kinh động. Trước hết hãy tẩy sạch những nhận thức sai, tự giới hạn của mình về sự vật và đối diện trọn vẹn với thực tại. Tử là gì? Sanh là gì? Phật là gì? Ngộ là gì? / ' +
-'Genro dẫn một bài thơ xưa ở cuối lời bình của sư; tôi sẽ dịch toàn bộ bài thơ để làm kết luận cho câu chuyện này.',
+    'Như Huyễn: ' +
+       'Ông tăng này có thói quen xấu là nhảy ngay vào kết luận. Ông ta nghĩ nếu một điều đã đúng vào lúc này thì cũng phải đúng vào mọi lúc và mọi nơi. Đại Tùy tìm cách cứu ông tăng ra khỏi loại phân biệt này và giúp ông tăng nhận ra nhất thể. / ' +
+    'Khi quí vị thấy những điều bất thường, không nên kinh động. Trước hết hãy tẩy sạch những nhận thức sai, tự giới hạn của mình về sự vật và đối diện trọn vẹn với thực tại. Tử là gì? Sanh là gì? Phật là gì? Ngộ là gì? / ' +
+    'Genro dẫn một bài thơ xưa ở cuối lời bình của sư; tôi sẽ dịch toàn bộ bài thơ để làm kết luận cho câu chuyện này.',
     commentAfterVerse:
-      'Genro: Bạn bè thời thơ ấu, / '+
-'Giờ đây biết rõ ràng. / ' +
-'Họ luận bàn triết lý, / ' +
-'Viết luận văn, phê bình. / ' +
-'Tôi trở thành kẻ già, / ' +
-'Trở thành vô tích sự. / ' +
-'Chiều nay mưa là bạn. / ' +
-'Tôi thắp lên nén nhang, / ' +
-'Nằm dài trong hương ngát, / ' +
-'Tôi nghe tiếng gió thổi, / ' +
-'Cạnh cửa sổ rèm tre.',
+    'Genro: Bạn bè thời thơ ấu, / '+
+    'Giờ đây biết rõ ràng. / ' +
+    'Họ luận bàn triết lý, / ' +
+    'Viết luận văn, phê bình. / ' +
+    'Tôi trở thành kẻ già, / ' +
+    'Trở thành vô tích sự. / ' +
+    'Chiều nay mưa là bạn. / ' +
+    'Tôi thắp lên nén nhang, / ' +
+    'Nằm dài trong hương ngát, / ' +
+    'Tôi nghe tiếng gió thổi, / ' +
+    'Cạnh cửa sổ rèm tre.',
   },
 
   {
@@ -737,20 +738,20 @@ const IronFlute = [
       'Như Huyễn: Chùa của Qui Sơn có khoảng một ngàn năm trăm tăng chúng, đa số họ ở trong thiền đường ngày đêm ngồi thiền, trong khi một số chịu trách nhiệm lo việc nhà bếp và một số khác làm việc đồng áng. Mỗi người làm phần việc của mình để làm vinh quang Phật-Pháp. Phần của Ngưỡng Sơn là chăm sóc miếng đất để sản xuất một giỏ đầy hạt kê, và Qui Sơn sống cuộc sống của một tăng nhân lý tưởng. Trong toàn thể gia đình Thiền, không ai lãng phí mùa hè của mình. Theo cái nhìn thế gian thì đây là một cảnh chào mừng giữa thầy và trò với sự đánh giá lẫn nhau, nhưng trong Thiền người học trò vẫn còn cho thấy dấu vết của sự chứng đạt. Anh ta còn lảng vảng với cái bóng của được và mất. Anh ta đã nhận ra lời nói sai của mình trước khi chấm dứt, ông thầy, vì nhận thấy những gì đang diễn ra trong tâm người học trò, nên đã trách mắng y.',
     commentAfterVerse:
       'Genro: / ' +
-'Trong chùa Qui Sơn xưa / ' +
-'Không ai phí thì giờ / ' +
-'Mỗi tăng tôn vinh Pháp / ' +
-'Làm việc trong im lặng / ' +
-'Không kể được hay mất / ' +
-'Các chim chân sợi đỏ / ' +
-'Các sợi ấy vẫn còn / ' +
-'Dù bao nhiêu hấp dẫn / ' +
-'Các tăng không được bám/ ' +
-'Ngay cả sự tự do / ' +
-'Một anh thè luỡi ra / ' +
-'Để khỏi bị một gậy / ' +
-'Được từ bi ban cho / ' +
-'Dứt thân tâm các sợi',
+    'Trong chùa Qui Sơn xưa / ' +
+    'Không ai phí thì giờ / ' +
+    'Mỗi tăng tôn vinh Pháp / ' +
+    'Làm việc trong im lặng / ' +
+    'Không kể được hay mất / ' +
+    'Các chim chân sợi đỏ / ' +
+    'Các sợi ấy vẫn còn / ' +
+    'Dù bao nhiêu hấp dẫn / ' +
+    'Các tăng không được bám / ' +
+    'Ngay cả sự tự do / ' +
+    'Một anh thè luỡi ra / ' +
+    'Để khỏi bị một gậy / ' +
+    'Được từ bi ban cho / ' +
+    'Dứt thân tâm các sợi',
   },
 
   {
@@ -1192,8 +1193,11 @@ const IronFlute = [
       'Pháp Nhãn nghĩ như vậy là sai và muốn sửa lại cho đúng, nói, “Cổng phải có chữ cổng, cửa sổ và tường mỗi cái phải có chữ riêng của nó.” ' +
       'Huyền Giác nói, “Cổng tự nó hiện bày chẳng cần có chữ, cửa sổ và tường cũng vậy, chẳng cần bản hiệu gì cả.”',
     commentBeforeVerseExtra:
-    'Như Huyễn: Ông tăng già thừa nhận rằng cổng, cửa sổ và tường là hiện thân của tâm. Ông ta giống như Hegel, thấy thế giới như là quá trình tư tưởng, cái khác nhau là Hegel tự nhốt mình trong suy lý còn ông tăng thì đã làm mình tự do với suy lý. Vả lại, chủ nghĩa lý tưởng có tính chất tuyệt đối của Hegel bám víu vào cái gì đó để thành hình trong thực tế, ông tăng thì đã vượt qua bên kia danh và tướng để ở trong ngôi nhà vô hình mà cổng, cửa sổ và tường của nó không là gì cả mà chỉ là tâm.\n' +
-      'Pháp Nhãn ủng hộ ông tăng một phần, tự mình tỏ ra có khác. Có thể sư đã nói, “Tôi hài lòng với cổng, cửa sổ và tường. Tại sao ông còn dán nhãn hiệu cho chúng nữa?” \n' +
+    'Như Huyễn: Ông tăng già thừa nhận rằng cổng, cửa sổ và tường là hiện thân của tâm. ' +
+      'Ông ta giống như Hegel, thấy thế giới như là quá trình tư tưởng, cái khác nhau là Hegel tự nhốt mình trong suy lý còn ông tăng thì đã làm mình tự do với suy lý. ' +
+      'Vả lại, chủ nghĩa lý tưởng có tính chất tuyệt đối của Hegel bám víu vào cái gì đó để thành hình trong thực tế, ông tăng thì đã vượt qua bên kia danh và tướng để ở trong ngôi nhà vô hình mà cổng, cửa sổ và tường của nó không là gì cả mà chỉ là tâm.\n' +
+      'Pháp Nhãn ủng hộ ông tăng một phần, tự mình tỏ ra có khác. Có thể sư đã nói, “Tôi hài lòng với cổng, cửa sổ và tường. ' +
+      'Tại sao ông còn dán nhãn hiệu cho chúng nữa?”' +
       'Huyền Giác cảm thấy rằng sự vật tự chúng bày tỏ chẳng cần tên gì cả.',
     commentAfterVerseExtra:
       'Genro: ' +
