@@ -1162,26 +1162,26 @@ const IronFlute = [
     title: 'TẮC THỨ 45: VU ĐỊCH HỎI PHẬT',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      'Tể tướng Vu Địch hỏi sư Đạo Thông, “Thế nào là Phật?” ' +
-      'Sư gọi đột ngột, “Đại nhân!” ' +
-      '“Dạ,” vị tể tướng đáp một cách ngây thơ. ' +
+      'Tể tướng Vu Địch hỏi sư Đạo Thông, “Thế nào là Phật?” / ' +
+      'Sư gọi đột ngột, “Đại nhân!” / ' +
+      '“Dạ,” vị tể tướng đáp một cách ngây thơ. / ' +
       'Rồi sư nói, “Ngài còn tìm gì khác?”',
     commentBeforeVerseExtra:
       'Như Huyễn: ' +
       'Vu Địch góp nhặt những câu trả lời của các Thiền sư mà ông ta đến viếng với câu hỏi này như một người sưu tập tiền xu hay tem thư không còn dùng nữa. Kiến thức về Thiền của ông ta đủ để đánh giá vài câu trả lời, nhưng ông ta hoàn toàn không sẵn sàng cho câu đáp này, nó quá nhiều đến độ làm ông ta quên cả tại sao mình đối diện với ông thầy này. Tiếng “Dạ” của ông ta cũng đơn giản và tự nhiên như lời đáp tiếng mẹ gọi của đứa con. ',
     commentAfterVerseExtra:
       'Genro: ' +
-      'Hai tiếng “Đại nhân!” đã dội đầu ông ta vào một cái gì đó, nhưng tôi không chắc đó có phải là một ông Phật thật hay không.' +
-      ' Chớ nhằm ngọn cây tìm cá' +
-      ' Khi về nhà chớ nấu tre cây.' +
-      ' Phật-đà, Phật-đà, Phật-đà ...' +
-      ' Kẻ ngu giữ lấy dây xâu tiền.',
+      'Hai tiếng “Đại nhân!” đã dội đầu ông ta vào một cái gì đó, nhưng tôi không chắc đó có phải là một ông Phật thật hay không. / ' +
+      'Chớ nhằm ngọn cây tìm cá / ' +
+      'Khi về nhà chớ nấu tre cây / ' +
+      'Phật-đà, Phật-đà, Phật-đà / ' +
+      'Kẻ ngu giữ lấy dây xâu tiền',
     commentAfterVerse:
-      'Như Huyễn:  ' +
-      'Một người Trung hoa có lần thưởng thức một đĩa măng tre và được bảo rằng đó là tre nấu chín. Về nhà y cắt một khúc tre cây và nấu hằng giờ nhưng vô ích.\n' +
-      ' Ở Trung hoa và Nhật bản, người ta dùng sợi dây xỏ qua cái lỗ giữa các đồng xu thành một xâu để dễ mang đi. ' +
-      'Một người ngu có lần đã nắm chặc lấy sợi dây xâu sau khi các đồng xu đã tuột mất khỏi sợi dây. ' +
-      'Nhiều người vẫn bám vào sợi dây trống này mà tin rằng họ đang mang theo mình kho tàng thực sự. ',
+      'Như Huyễn: / ' +
+      'Một người Trung hoa có lần thưởng thức một đĩa măng tre và được bảo rằng đó là tre nấu chín. Về nhà y cắt một khúc tre cây và nấu hằng giờ nhưng vô ích. / ' +
+      ' Ở Trung hoa và Nhật bản, người ta dùng sợi dây xỏ qua cái lỗ giữa các đồng xu thành một xâu để dễ mang đi. / ' +
+      'Một người ngu có lần đã nắm chặc lấy sợi dây xâu sau khi các đồng xu đã tuột mất khỏi sợi dây. / ' +
+      'Nhiều người vẫn bám vào sợi dây trống này mà tin rằng họ đang mang theo mình kho tàng thực sự.',
   },
 
   {
@@ -1189,45 +1189,78 @@ const IronFlute = [
     title: 'TẮC THỨ 46: CHỮ TÂM',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      'Một ông tăng già viết chữ “Tâm”, kiểu chữ Hán, tượng hình cho trái tim, lên cổng, cửa sổ và tường của ngôi nhà nhỏ của ông ta. ' +
-      'Pháp Nhãn nghĩ như vậy là sai và muốn sửa lại cho đúng, nói, “Cổng phải có chữ cổng, cửa sổ và tường mỗi cái phải có chữ riêng của nó.” ' +
-      'Huyền Giác nói, “Cổng tự nó hiện bày chẳng cần có chữ, cửa sổ và tường cũng vậy, chẳng cần bản hiệu gì cả.”',
+      'Một ông tăng già viết chữ “Tâm”, kiểu chữ Hán, tượng hình cho trái tim, lên cổng, cửa sổ và tường của ngôi nhà nhỏ của ông ta. / ' +
+      'Pháp Nhãn nghĩ như vậy là sai và muốn sửa lại cho đúng, nói, “Cổng phải có chữ cổng, cửa sổ và tường mỗi cái phải có chữ riêng của nó.”  / ' +
+      'Huyền Giác nói, “Cổng tự nó hiện bày chẳng cần có chữ, cửa sổ và tường cũng vậy, chẳng cần bản hiệu gì cả”.',
     commentBeforeVerseExtra:
-    'Như Huyễn: Ông tăng già thừa nhận rằng cổng, cửa sổ và tường là hiện thân của tâm. ' +
-      'Ông ta giống như Hegel, thấy thế giới như là quá trình tư tưởng, cái khác nhau là Hegel tự nhốt mình trong suy lý còn ông tăng thì đã làm mình tự do với suy lý. ' +
-      'Vả lại, chủ nghĩa lý tưởng có tính chất tuyệt đối của Hegel bám víu vào cái gì đó để thành hình trong thực tế, ông tăng thì đã vượt qua bên kia danh và tướng để ở trong ngôi nhà vô hình mà cổng, cửa sổ và tường của nó không là gì cả mà chỉ là tâm.\n' +
-      'Pháp Nhãn ủng hộ ông tăng một phần, tự mình tỏ ra có khác. Có thể sư đã nói, “Tôi hài lòng với cổng, cửa sổ và tường. ' +
-      'Tại sao ông còn dán nhãn hiệu cho chúng nữa?”' +
+      'Như Huyễn: Ông tăng già thừa nhận rằng cổng, cửa sổ và tường là hiện thân của tâm. / ' +
+      'Ông ta giống như Hegel, thấy thế giới như là quá trình tư tưởng, cái khác nhau là Hegel tự nhốt mình trong suy lý còn ông tăng thì đã làm mình tự do với suy lý. / ' +
+      'Vả lại, chủ nghĩa lý tưởng có tính chất tuyệt đối của Hegel bám víu vào cái gì đó để thành hình trong thực tế, ông tăng thì đã vượt qua bên kia danh và tướng để ở trong ngôi nhà vô hình mà cổng, cửa sổ và tường của nó không là gì cả mà chỉ là tâm. / ' +
+      'Pháp Nhãn ủng hộ ông tăng một phần, tự mình tỏ ra có khác. Có thể sư đã nói, “Tôi hài lòng với cổng, cửa sổ và tường. / ' +
+      'Tại sao ông còn dán nhãn hiệu cho chúng nữa?” / ' +
       'Huyền Giác cảm thấy rằng sự vật tự chúng bày tỏ chẳng cần tên gì cả.',
     commentAfterVerseExtra:
-      'Genro: ' +
+      'Genro: / ' +
       'Tôi sẽ viết chữ “cửa sổ” lên cổng, chữ “tường” lên cửa sổ, và chữ “cổng” lên tường.',
     commentAfterVerse:
-      'Như Huyễn: Tôi hiểu câu nói của Genro, nhưng quí vị không những chỉ vào nhà của ông tăng già đã sống mà còn để cho cái nhà ấy nhập vào quí vị.',
+      'Như Huyễn: / ' +
+      'Tôi hiểu câu nói của Genro, nhưng quí vị không những chỉ vào nhà của ông tăng già đã sống mà còn để cho cái nhà ấy nhập vào quí vị.',
   },
 
   {
     id: 47,
-    title: 'TẮC THỨ 47: ',
+    title: 'TẮC THỨ 47: TRIỆU CHÂU ĐO NƯỚC',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một hôm Triệu Châu viếng pháp đường của sư đệ là Thù Du. / ' +
+      'Sư bước lên đàn, vẫn mang theo gậy, nhìn từ đông sang tây rồi từ tây sang đông. / ' +
+      'Vị sư đệ hỏi, “Sư huynh làm gì vậy?”. / ' +
+      'Triệu Châu đáp, “Tôi đang đo nước”. / ' +
+      'Vị sư đệ hỏi, “Ở đây không có nước. Một giọt cũng không. Sư huynh đo thế nào?”. / ' +
+      'Triệu Chân dựa cây gậy vào tường và bỏ đi.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: ' +
+      'Một Thiền Tăng khi đi hành cước mang theo cây gậy dài, dùng để dò chỗ sâu cạn nếu phải đi qua sông. / ' +
+      'Thù Du là sư đệ của Triệu Châu, vừa mở pháp đường cho thính chúng, Triệu Châu nóng lòng muốn biết Thù Du đã ngộ đạt Thiền thực hay chưa. / ' +
+      'Sư mang cây gậy theo để nhắc nhớ lại những ngày trước kia họ đã cùng nhau. Sư không cảm thấy có bầu không khí đạt ngộ khi sư quay đầu từ đông sang tây và sẽ để cây gậy lại làm vật ghi nhớ nếu như Thù Du không hỏi sư đang làm gì. / ' +
+      'Trong Kinh Kim Cang quí vị đọc sẽ thấy, / ' +
+      '“Này Tu-bồ-đề, ông nghĩ thế nào? Một vị Tu-đa-hoàn có nghĩ như vầy: Ta đã đạt quả Tu-đa-hoàn không? / ' +
+      'Tu-bồ-đề nói: ‘Dạ không, bạch Thế Tôn, ông ta không nghĩ như vậy. Vì sao? Bởi vì Tu-đa-hoàn có nghĩa là vào dòng, mà ở đây không có vào. Ông ta không vào thế giới của sắc, thanh, hương, vị, xúc hay phân biệt thì gọi là Tu-đa-hoàn’”. / ' +
+      'Thù Du đã đắc cái vô đắc nên nói, “Ở đây không có nước. Một giọt cũng không.” Triệu Châu sung sướng, dựa cây gậy vào tường và bỏ đi. / ' +
+      'Thiền không thể thêm gì cho văn hóa Tây phương, nhưng người học Thiền sẽ được cái không được và theo dòng thời gian, một vài người khiêm tốn với sức ảnh hưởng không màu sắc, không âm thanh của họ sẽ sản sinh ra những người nam và nữ của các tiêu chuẩn cao hơn.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 48,
-    title: 'TẮC THỨ 48: ',
+    title: 'TẮC THỨ 48: ĐỊA TẠNG PHẬT PHÁP',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một hôm Địa Tạng tiếp một đệ tử của Bảo Phước như một vị khách và hỏi ông ta, “Thầy ông chỉ dạy ông như thế nào trong Phật pháp?” ' +
+      'Ông tăng đáp, “Thầy chúng con bảo chúng con nhắm mắt lại, chớ thấy điều ác; bịt tai lại, chớ nghe tiếng ác; dừng tâm suy nghĩ lại, chớ tạo ý nghĩ sai lầm.” ' +
+      'Địa Tạng nói, “Tôi không đòi hỏi ông bịt mắt lại, mà không thấy điều ác. ' +
+      'Tôi không đòi hỏi ông bịt tai lại, mà không nghe tiếng ác. ' +
+      'Tôi không đòi hỏi ông dừng tâm suy nghĩ, mà không tạo ý nghĩ sai lầm nào cả.”',
+    commentBeforeVerseExtra:
+      'Như Huyễn: ' +
+      'Có lẽ ông tăng này còn rất trẻ cả tuổi đời lẫn tuổi đạo. ' +
+      'Tâm của ông ta lúc nào cũng vươn tới, bám vào những điều chẳng tốt và vô ích. ' +
+      'Bổn sư của ông thương xót và dạy cho ông bài học Phật giáo vỡ lòng, nhưng vì những chỉ dạy Thiền luôn luôn là cho cá nhân, ông ta nên nói như vầy, “Thầy con bảo con . . .” Những lời chỉ dạy của Địa Tạng chắc chắn quá khó đối với người trẻ tuổi này. Nếu quí vị không vướng mắt vào cái gì mình thấy, thì nó sẽ chỉ phản chiếu nơi mắt quí vị và biến mất không lưu lại vết tích trên tâm gương quí vị. Nếu quí vị không chú ý đến cái gì mình nghe, sẽ không có âm thanh nào ở lại với quí vị. Hôm qua quí vị có thể nghĩ rằng cái này đúng và cái kia sai, nhưng hôm nay quí vị không còn mang cùng cái tâm ảnh trong quá khứ ấy vào hiện tại. Không có gì để thấy, trừ phi quí vị tạo ra hình ảnh riêng của mình. Không có âm thanh nào để nghe, trừ phi quí vị tự ghi âm thanh riêng của mình. ',
     commentBeforeVerse:
-      '',
+      'Genro: ' +
+      'Tôi không đòi hỏi ông nhắm mắt. Tôi không đòi hỏi ông không nhắm mắt. ' +
+      'Chỉ cần cho tôi biết cái gì là mắt ông. ' +
+      'Tôi không đòi hỏi ông bịt tai. Chỉ cần cho tôi biết cái gì là tai ông. ' +
+      'Tôi không đòi hỏi ông dừng tâm suy nghĩ. ' +
+      'Chỉ cần cho tôi biết cái gì là tâm. ',
     commentAfterVerse:
-      '',
+      'Như Huyễn: ' +
+      'Một số quí vị đây nhắm mắt khi thiền định. ' +
+      'Tại sao quí vị không “nhắm” luôn lỗ tai? Tại sao quí vị không dừng luôn tâm suy nghĩ? ' +
+      'Một số quí vị không nhắm mắt trong khi thiền định. ' +
+      'Tại sao quí vị không nghe âm-thanh-không-âm thanh? ' +
+      'Tại sao quí vị không hình thành ý nghĩ không hình tướng? ',
   },
 
   {

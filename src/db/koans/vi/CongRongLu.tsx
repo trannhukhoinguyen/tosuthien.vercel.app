@@ -875,25 +875,25 @@ const CongRongLu = [
       'Hãy nói: Đó là tam muội gì?',
     main:
       ' Ma cốc cầm tích Trượng đến Chương Kính nhiểu quanh thiền sành 3 vòng rồi động tích trượng xuống đứng lặng nói: / ' +
-      '  Đúng thế, đúng thế có đến Nam Tuyền, nhiễu quanh thiền sàng 3 vòng dộng tích trượng 1 cái đứng lặng\n' +
-      '  Nam Tuyền nói: Không phải, không phải\n' +
-      '  Cốc nói: Chương kính nói đúng, Hòa Thượng vì sao nói không đúng?\n' +
+      '  Đúng thế, đúng thế có đến Nam Tuyền, nhiễu quanh thiền sàng 3 vòng dộng tích trượng 1 cái đứng lặng' +
+      '  Nam Tuyền nói: Không phải, không phải' +
+      '  Cốc nói: Chương kính nói đúng, Hòa Thượng vì sao nói không đúng?' +
       '  Nam Tuyền nói: Chương Kính thì đúng, còn ông không đúng, đây chính là bị sức gió chuyển rút cuộc thành bại hoại',
     commentBeforeVerse:
-      'Sư nói: Ngày xưa Ngưỡng Sơn đến tạ giới Trung Ấp, Ấp ở trên giường vỗ tay nói: A da, a da Ngưỡng từ Tây sang Đông, từ Đông sang Tây: Lại trở về đứng ở giữa. \n' +
-      '  Sau đó tạ giới, Ap nói: Tam Muội này ở đâu?\n' +
-      '  Ngưỡng Sơn nói: Ở Tào con được Khê ấn khả\n' +
-      '  Ấp hỏi: Ông nói Tam Muội Tào Khê tiếp nhận người nào?\n' +
-      '  Ngưỡng đáp: Tiếp nhận thức 1 đêm\n' +
-      '  Ngưỡng lại nói: Hòa Thượng được Tam Muội này ở đâu?\n' +
-      '  Ap nói: Được Tam Muội nơi Mã Đạo Sư\n' +
-      '  Thiền sư Bồ Châu Ma Cốc Bảo Triệt giống như Vĩnh Gia ban đầu gặp Lục Tổ, cầm tích trượng đến. \n' +
-      '  Chương Kính, nhiễu quanh thiền sàng 3 vòng rồi dộng xuống 1 cái đứng lặng cũng như học ấn khả ở Tào Khê đến. \n' +
-      '  Đây gọi là Tam Muội Vương Tam Muội tất cả Tam Muội đều sinh ra từ đây.\n' +
-      '  Chương Kính nói: Đúng thế, đúng thế Vạn Tùng nói: Có gì không đúng?\n' +
-      '  Hòa Thượng Thắng Mặt Quang nói: \n' +
-      '  Là đúng hay là sai, phi không chơn không thị phi vô chủ. \n' +
-      '  Vạn Thiện Đồng quay, chim gà đêm ngày chỉ có tự chia lìa. Ta có 3 tấc ba ba gọi là rùa, Ca-diếp không chịu, để cho cạo lông mày.\n' +
+      'Sư nói: Ngày xưa Ngưỡng Sơn đến tạ giới Trung Ấp, Ấp ở trên giường vỗ tay nói: A da, a da Ngưỡng từ Tây sang Đông, từ Đông sang Tây: Lại trở về đứng ở giữa. ' +
+      '  Sau đó tạ giới, Ap nói: Tam Muội này ở đâu?' +
+      '  Ngưỡng Sơn nói: Ở Tào con được Khê ấn khả' +
+      '  Ấp hỏi: Ông nói Tam Muội Tào Khê tiếp nhận người nào?' +
+      '  Ngưỡng đáp: Tiếp nhận thức 1 đêm' +
+      '  Ngưỡng lại nói: Hòa Thượng được Tam Muội này ở đâu?' +
+      '  Ap nói: Được Tam Muội nơi Mã Đạo Sư' +
+      '  Thiền sư Bồ Châu Ma Cốc Bảo Triệt giống như Vĩnh Gia ban đầu gặp Lục Tổ, cầm tích trượng đến. ' +
+      '  Chương Kính, nhiễu quanh thiền sàng 3 vòng rồi dộng xuống 1 cái đứng lặng cũng như học ấn khả ở Tào Khê đến. ' +
+      '  Đây gọi là Tam Muội Vương Tam Muội tất cả Tam Muội đều sinh ra từ đây.' +
+      '  Chương Kính nói: Đúng thế, đúng thế Vạn Tùng nói: Có gì không đúng?' +
+      '  Hòa Thượng Thắng Mặt Quang nói: ' +
+      '  Là đúng hay là sai, phi không chơn không thị phi vô chủ. ' +
+      '  Vạn Thiện Đồng quay, chim gà đêm ngày chỉ có tự chia lìa. Ta có 3 tấc ba ba gọi là rùa, Ca-diếp không chịu, để cho cạo lông mày.' +
       '  Vạn Tùng nói: Buồn chiều mau già, Ma Cốc phải khám phá đồng với mọi người. / ' +
       '  Ma Cốc từng đến chổ Sư Trung Quốc, nhiễu quanh thiền sàng 3 vòng chấn tích trượng đứng. / ' +
       '  Quốc Sư nói: Đã hay như thế, đâu cần gặp bần đạo? / ' +
@@ -920,7 +920,7 @@ const CongRongLu = [
       '  cười ngã cái dùi xưa của lão Am Trung / ' +
       '  Giác phạm nói: Xé lời nói của ông, có thể thấy được pháp hỷ du hý lúc ấy. / ' +
       '  Vạn Tùng nói: Ma Cốc, Chương Kính, Nam Tuyền cũng hưng cũng không suy. / ' +
-      '  Nếu nghe đây là bị sức gió chuyển rút cuộc thành bại hoại, cùng cười Vương Lão Sư này, không chỉ xác định được càn khôn, có cả con đường thoát thân. \n' +
+      '  Nếu nghe đây là bị sức gió chuyển rút cuộc thành bại hoại, cùng cười Vương Lão Sư này, không chỉ xác định được càn khôn, có cả con đường thoát thân. ' +
       '  Hòa Thượng bảo Ninh Dĩnh tụng rằng: / ' +
       '  Nhan sắc tầm cở như là chơn, / ' +
       '  trước người bắt làm vượt qua ánh sáng, / ' +
@@ -945,25 +945,25 @@ const CongRongLu = [
     verseExtraOriginal: '',
     verseExtra: '',
     commentAfterVerse:
-      'Sư nói: Công án này, đều là ở nơi đó đúng và không đúng, bấy giờ hết thảy mọi người nói: Ma Cốc bị Chương Kính, Nam Tuyền, mê hoặc. \n' +
-      '  Chỉ có Đại Quy Triệt nói: Chương Kính nói đúng, là rơi vào vỏ của Ma Cốc, như chổ kim cương bảo đối với ánh sáng mặt trời màu sắc không nhất định.\n' +
-      '  Thiên Đồng nói: Thích xem cái chán, vã lại Ma Cốc rơi vào trong chén, Nam Tuyền rơi vào trong chén, như trầm như bổng, khó anh khó em\n' +
-      '  Thiên Đồng nói: Vừa thấy đến, như trầm như bổng, kiểm điểm xem. Khó anh khó em. \n' +
-      '  Đông Hán Trần Nguyên Phương Tử Trường Văn tức là Đồng Qúy Phương Tử Hiếu Quang, đều bàn về công đức của cha mình, tranh cải không dứt, hỏi với Thái Khưu. \n' +
-      '  Thái Khưu chính là Trần Thực là cha của Nguyên Phương Qúy Phương Thái Khưu nói: Nguyên Phương khó làm anh, Quý Phương khó làm em. \n' +
-      '  Đây nói là nửa cân mắt trái của Chương Kính, lượng mắt phải của Nam Tuyền gậy vàng chưa dộng chấn động ngọn núi Cô?\n' +
-      '  Kinh Vĩnh Gia chứng đạo nói: Không phải nêu trị việc hư huyển tung tích gậy báu Như Lai:\n' +
-      '  Tuyết Đậu nói: Cổ sách phong cao có 12 cử, mỗi một cửa có con đường trống tẻ.\n' +
-      '  Kinh Tích Trượng nói: 12 Vòng là dùng niệm 12 nhân duyên, tu hành 12 môn Thiền, 12 nhân duyên dể biết.\n' +
-      '  12 môn là: Tứ Thiền, tứ vô lượng, tứ vô sắc\n' +
-      '  định, cổ sách phong cao tức là ngọn Thái Cô.\n' +
-      '  Lục Tổ cũng nói: Phàm Sa môn phải đầy đủ 3 ngàn oai nghi, vạn tế hạnh, đại đức ở phương nào mà lại sinh đại ngã mạn?\n' +
-      '  Y của Thiền Đồng nói: Không thể nêu hình thể, chẳng phải ngã mạn, giường dây dạo chơi 3 vòng. Chương Kính nói đúng, Nam Tuyền nói không đúng, tùng lâm nổi loạn, đi trong thị phi. Nếu không dùng con mắt định càn khôn, đâu là trước đầu lâu thấy ma, không thấy. Tăng hỏi Cửu Phong: Thế nào là dùng con mắt định được càn khôn?\n' +
-      '  Phong nói: Chấp nhận ở trong trời đất?\n' +
-      '  Tăng hỏi: Con mắt càn khôn ở đâu?\n' +
-      '  Phong nói: Chính là con mắt càn khôn\n' +
-      '  Tăng hỏi: Vừa mới đến vì sao nói chấp nhận ở trong càn khôn?\n' +
-      '  Phong nói: Nếu không như thế, trước đầu lâu thấy ma vô số. Vạn Tùng ở đây có sự cầm chóng gậy 1 cái nói mau mau như luật lệnh.\n',
+      'Sư nói: Công án này, đều là ở nơi đó đúng và không đúng, bấy giờ hết thảy mọi người nói: Ma Cốc bị Chương Kính, Nam Tuyền, mê hoặc. ' +
+      '  Chỉ có Đại Quy Triệt nói: Chương Kính nói đúng, là rơi vào vỏ của Ma Cốc, như chổ kim cương bảo đối với ánh sáng mặt trời màu sắc không nhất định.' +
+      '  Thiên Đồng nói: Thích xem cái chán, vã lại Ma Cốc rơi vào trong chén, Nam Tuyền rơi vào trong chén, như trầm như bổng, khó anh khó em' +
+      '  Thiên Đồng nói: Vừa thấy đến, như trầm như bổng, kiểm điểm xem. Khó anh khó em. ' +
+      '  Đông Hán Trần Nguyên Phương Tử Trường Văn tức là Đồng Qúy Phương Tử Hiếu Quang, đều bàn về công đức của cha mình, tranh cải không dứt, hỏi với Thái Khưu. ' +
+      '  Thái Khưu chính là Trần Thực là cha của Nguyên Phương Qúy Phương Thái Khưu nói: Nguyên Phương khó làm anh, Quý Phương khó làm em. ' +
+      '  Đây nói là nửa cân mắt trái của Chương Kính, lượng mắt phải của Nam Tuyền gậy vàng chưa dộng chấn động ngọn núi Cô?' +
+      '  Kinh Vĩnh Gia chứng đạo nói: Không phải nêu trị việc hư huyển tung tích gậy báu Như Lai:' +
+      '  Tuyết Đậu nói: Cổ sách phong cao có 12 cử, mỗi một cửa có con đường trống tẻ.' +
+      '  Kinh Tích Trượng nói: 12 Vòng là dùng niệm 12 nhân duyên, tu hành 12 môn Thiền, 12 nhân duyên dể biết.' +
+      '  12 môn là: Tứ Thiền, tứ vô lượng, tứ vô sắc' +
+      '  định, cổ sách phong cao tức là ngọn Thái Cô.' +
+      '  Lục Tổ cũng nói: Phàm Sa môn phải đầy đủ 3 ngàn oai nghi, vạn tế hạnh, đại đức ở phương nào mà lại sinh đại ngã mạn?' +
+      '  Y của Thiền Đồng nói: Không thể nêu hình thể, chẳng phải ngã mạn, giường dây dạo chơi 3 vòng. Chương Kính nói đúng, Nam Tuyền nói không đúng, tùng lâm nổi loạn, đi trong thị phi. Nếu không dùng con mắt định càn khôn, đâu là trước đầu lâu thấy ma, không thấy. Tăng hỏi Cửu Phong: Thế nào là dùng con mắt định được càn khôn?' +
+      '  Phong nói: Chấp nhận ở trong trời đất?' +
+      '  Tăng hỏi: Con mắt càn khôn ở đâu?' +
+      '  Phong nói: Chính là con mắt càn khôn' +
+      '  Tăng hỏi: Vừa mới đến vì sao nói chấp nhận ở trong càn khôn?' +
+      '  Phong nói: Nếu không như thế, trước đầu lâu thấy ma vô số. Vạn Tùng ở đây có sự cầm chóng gậy 1 cái nói mau mau như luật lệnh.',
   },
 
   {
