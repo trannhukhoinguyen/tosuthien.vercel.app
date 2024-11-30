@@ -22,8 +22,8 @@ const CongRongLu = [
       ' Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +
       'Các vị chưa đến pháp đường, Vạn Tùng chưa ra phương trượng, nếu khi đó biết được, đã là rơi vào thứ 3, thứ 4 rồi. / ' +
       'Tuyết Đậu nói: “Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai". / ' +
-      'Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham ? / ' +
-      'Xưa, Đức Thế Tôn một hôm lên pháp tòa nói: “Hãy xem rõ pháp vương pháp. Pháp vương pháp như thế !” / ' +
+      'Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham? / ' +
+      'Xưa, Đức Thế Tôn một hôm lên pháp tòa nói: “Hãy xem rõ pháp vương pháp. Pháp vương pháp như thế!” / ' +
       'Thế Tôn bèn xuống pháp tòa, lại cứu được một nữa, một nữa giao phó cho Thiên Đồng.',
     verseOriginal:
       'Nhất đoạn chân phong kiến dã / ' +
@@ -31,22 +31,22 @@ const CongRongLu = [
       'Cổ miên hoàm Xuân tượng / ' +
       'Vô nại đông quân lộ tiết hà ',
     verse:
-      'Một đoạn của nhà có thấy không ? / ' +
+      'Một đoạn của nhà có thấy không? / ' +
       'Miên man trời đất chạy thoi nhanh / ' +
       'Gấm cổ dẹt thành bao Xuân sắc / ' +
       'Ngại gì tiết lộ bởi thần Xuân',
     commentAfterVerse:
       'Sư dạy: / ' +
-      'Thiên Đồng nói: “Một đoạn của nhà có thấy không ?”. / ' +
+      'Thiên Đồng nói: “Một đoạn của nhà có thấy không?”. / ' +
       'Lại là chổ Thế Tôn thăng tòa hay là một đoạn chân phong chổ Thiên Đồng nêu bài tụng là một đoạn chân phong hay là chỗ Vạn Tùng thưa thỉnh là một đoạn chân phong, như thế thì thành 3 đoạn rồi. / ' +
       'Thế nào là một đoạn chân phong? Huống là mọi người đều có phần, cũng phải tham cho tường tận. / ' +
       'Lại nói: “Miên man trời đất (hóa mẫu) chạy thoi nhanh”. / ' +
       'Hóa mẫu là biệt hiệu của vật tạo hóa, Đạo giáo và Nho giáo đều có tôn chỉ nơi nhất khí, hàng nhà Phật lấy nhất tâm làm căn. / ' +
       'Khuê Phong nói: “Nguyên khí cũng do tâm tạo ra, đều được tướng phần của A-lại-gia thức thu nhiếp”. / ' +
-      'Vạn Tùng nói: Đây là Chánh tông Tào Động. Mạng mạch của Phật Tổ, then chốt nơi miệng cửa, chổ chuyển sâu xa, sợi tơ nhã ra nơi bụng, khi dùng miên mật, đâu được đồng với nhân tà, nhân không ư ? / ' +
+      'Vạn Tùng nói: Đây là Chánh tông Tào Động. Mạng mạch của Phật Tổ, then chốt nơi miệng cửa, chổ chuyển sâu xa, sợi tơ nhã ra nơi bụng, khi dùng miên mật, đâu được đồng với nhân tà, nhân không ư? / ' +
       'Sau đây tụng Thế Tôn chứa đựng tương lai nói: “Gấm cổ dệt thành bao xuân sắc”. / ' +
       'Tuy là như con một gặm gỗ bỗng thành văn, đâu thể đóng cửa đẩy xe, ra cửa cùng vết. Sau này Văn Thù phân tích ngược. / ' +
-      'Lại nói: “Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch chùy, Thế Tôn liền xuống tòa, lại đến Ca-diếp bạch chùy, liền hiện ra trăm ngàn vạn Văn Thù, cùng là thời tiết như nhau vì sao nhận, thả không đồng ? / ' +
+      'Lại nói: “Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch chùy, Thế Tôn liền xuống tòa, lại đến Ca-diếp bạch chùy, liền hiện ra trăm ngàn vạn Văn Thù, cùng là thời tiết như nhau vì sao nhận, thả không đồng? / ' +
       'Ông nói: cái nào là chổ để lộ chúa Xuân, ân cần là hiểu rõ đinh hương kết, cành lá mọc mùa Xuân tự tại.',
   },
   {
@@ -57,9 +57,9 @@ const CongRongLu = [
       'Sư dạy chúng nói: / ' +
       'Bóc Hòa Tam Hiến, chưa thoát khỏi hành hình, đến sáng chiếu vào người sáng, chẳng án kiếm, khách chết chủ không chết, thích hợp giả chẳng thích hợp chân, của báu quý giá không nắm được, chỉ vớ được đầu mèo chết.',
     main:
-      'Lương Võ Đế hỏi Đạt Đại Ma Sư: Thế nào là Thánh Đế Đệ nhất nghĩa ? / ' +
+      'Lương Võ Đế hỏi Đạt Đại Ma Sư: Thế nào là Thánh Đế Đệ nhất nghĩa? / ' +
       'Đạt Ma đáp: Rỗng rang không Thánh. / ' +
-      'Võ Đế hỏi: Người đối trước mặt trẫm là ai ? / ' +
+      'Võ Đế hỏi: Người đối trước mặt trẫm là ai? / ' +
       'Đạt Ma đáp: Không biết / ' +
       'Đế không khế hợp, Đạt Ma bèn vượt sông đến Thiếu Lâm, xoay mặt vào tường 9 năm.',
     commentBeforeVerse:
@@ -75,11 +75,11 @@ const CongRongLu = [
       '“Qua Thu không tiếc sương, Phật giáo mãi một vị, dù cho bắt sống được, rút cuộc không mùi thơm”, có thể cho là người răn dạy. / ' +
       'Nếu là bản sắc đạo nhân, lúc ra đời tự biết thời tiết. Võ Đế tuy không khế hợp, bỏ qua vấn đề hỏi, / ' +
       'không ngại bén nhọn, đến nay các nơi, khai đường bạch chùy, còn nói: / ' +
-      '“Những vị kiết xuất trong pháp hội, nên quán Đệ nhất nghĩa, chỉ như Đệ Nhất Nghĩa Đế, chấp nhận quán hay không ?” / ' +
-      'Vạn Tùng nói: Đệ nhất nghĩa hãy bỏ qua một bên, ông cần Thánh đế làm gì ? / ' +
+      '“Những vị kiết xuất trong pháp hội, nên quán Đệ nhất nghĩa, chỉ như Đệ Nhất Nghĩa Đế, chấp nhận quán hay không?” / ' +
+      'Vạn Tùng nói: Đệ nhất nghĩa hãy bỏ qua một bên, ông cần Thánh đế làm gì? / ' +
       'Thiên Hoàng nói: Chỉ biết phàm tình, không phân biệt thánh giải. / ' +
       'Kinh Lăng Nghiêm nói: Nếu làm thánh giải, lập tức bị các tà, chỉ có Đạt Ma này nói: “Rỗng rang không Thánh, trong ánh sáng đá lữa sấm chớp, không ngại tai mắt làm. / ' +
-      'Võ Đế ngoan cố không thối lui”. Lại nói “người trước mắt Trẫm là ai ?”. ' +
+      'Võ Đế ngoan cố không thối lui”. Lại nói “người trước mắt Trẫm là ai?”. ' +
       'Ở nơi phần của Lương Vương cũng là tâm tốt. ' +
       'Thật không biết, phần Đạt Ma giống như xây mặt vào vách ngã, không thoát khỏi lại vâng theo người “không biết”, / ' +
       'chính là hoa đẹp dễ tàn, đâu kham nổi trên tuyết thêm sương, Đạt Ma thấy y chớp mắt tức là chuyển thân, / ' +
@@ -128,12 +128,12 @@ const CongRongLu = [
       'Hãy nói còn có phân thọ trì đọc tụng không?',
     main:
       'Đông Ấn Thổ Quốc Vương, thỉnh vị tổ 2 là Bát Nhã Ba La Mật Đa thọ trai. / ' +
-      'Vua hỏi: Sao ông không xem kinh ? / ' +
+      'Vua hỏi: Sao ông không xem kinh? / ' +
       'Tổ đáp: Bần đạo thở vào không ở cõi âm, thở ra không tiếp cận các duyên, thường chuyển kinh như thế, trăm ngàn vạn ức quyển',
     commentBeforeVerse:
       'Sư nói:' +
       'Tổ 2 ban đầu tên là Đồng Anh Lạc, nhân tổ 2 không bằng Mật Đa, giống như nước Đông Ấn giữ xe cho vua đi. / ' +
-      'Sư hỏi Đồng Tử: "Ông có thể nhờ việc trước kia không ?"' +
+      'Sư hỏi Đồng Tử: "Ông có thể nhờ việc trước kia không?"' +
       'Đồng Tử đáp: / ' +
       'Tôi nhớ xưa kia cùng sống với Sư, Sư giảng Ma Ha Bát Nhã, con thì thọ trì kinh điển sâu xa, cùng thay nhau giáo hóa, nên đợi Sư ở đây. / ' +
       'Tổ nói với vua rằng: / ' +
@@ -180,7 +180,7 @@ const CongRongLu = [
       'Lạc Phó nói: Chỉ rõ pháp nhãn của mình là chưa rõ, người này phỉ đủ, / ' +
       'nếu muốn có con mắt Viên minh chỉ trừ bỏ ở cõi âm liên quan đến các duyên trong rừng không có bóng, / ' +
       'trăng trời treo cao không nảy trên cành, thiếu ánh sáng không phân biệt mùa Xuân, mùa Thu mới được, xem kinh đâu đến thủng da trâu. / ' +
-      'Trường Khánh nói: Mắt có lỗi gì ? / ' +
+      'Trường Khánh nói: Mắt có lỗi gì? / ' +
       'Kinh Lăng Nghiêm nói: Nay ông xem kỷ Thánh chúng trong hội này, dùng mắt theo dõi, mắt ấy thấy khắp, chỉ như trong gương không có phân biệt, ở đây sai lầm. / ' +
       '    Dược Sơn nói: Da bò cũng phải lũng. / ' +
       '    Vạn Tùng nói: Lại đủ Kim Cang Nhãn, rõ ràng tâm vượt qua nhiều kiếp. / ' +
@@ -201,11 +201,11 @@ const CongRongLu = [
       'Đắc ra cửa tùng lại không trở về chùa”. / ' +
       'Có bản ghi: “Hoàng Lão đọc lẩm nhẫm, bài tụng nói yếu chết quên về chỉ đường cho người mê”. / ' +
       'Về sau Hoàng đế Trang Tông đời Đường, thỉnh Thiền sư Hưu Tỉnh ở Hoa Nghiêm vào cung thọ trai, Đại sư Đại đức đều xem kinh, chỉ một mình Sư im lặng. / ' +
-      'Hoàng Đế hỏi: Sao Sư không xem kinh ? / ' +
+      'Hoàng Đế hỏi: Sao Sư không xem kinh? / ' +
       'Tỉnh đáp: Nói yên bình mà không truyền lệnh cho Thiền Tử, lúc Thanh Hưu xướng bài ca Thái Bình. / ' +
       'Hoàng Đế nói: Một mình Sư không xem thì được, đồ chúng sao cũng không xem. / ' +
       'Tỉnh đáp: Trong hàng không có thú, chỗ vi chúa đi không để lại dấu vết: / ' +
-      'Vua hỏi: Đại Sư đại đức vì sao xem hết ? / ' +
+      'Vua hỏi: Đại Sư đại đức vì sao xem hết? / ' +
       'Tỉnh đáp: Sứa nuốt vốn không có mắt, tìm cầu thức ăn phải nhờ vào tôm tép, Hoàng Đế rất vui vẻ, huống gì Tổ sư Tôn Giả từ kiếp xa xưa đến nay, / ' +
       'hiện là Đại Thế Chí tụng rất nhiều Tu Đa La, nhân đây Sư được gọi là Bát Nhã Đa La. Vốn là tập khí xưa nay không thể từ bỏ. / ' +
       'Biếu Kinh Hoa Nghiêm cho người khác lại có nạp tăng lãnh hội, Vạn Tùng đến đây bất giác bậc cười. / ' +
@@ -217,7 +217,7 @@ const CongRongLu = [
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       'Sư dạy đại chúng rằng: / ' +
-      'Một trần vừa khởi, thấu hết đại địa, một mình lẻ loi, khai mở đất đai, lại có thể tùy theo nơi mà làm chủ, gặp duyên tức tông chỉ là người thế nào ?',
+      'Một trần vừa khởi, thấu hết đại địa, một mình lẻ loi, khai mở đất đai, lại có thể tùy theo nơi mà làm chủ, gặp duyên tức tông chỉ là người thế nào?',
     main:
       'Thế Tôn cùng đi với đại chúng, bổng Thế Tôn lấy tay chỉ xuống đất nói: / ' +
       'Chổ này nên xây dựng một ngôi chùa, Đế Thích đem một cọng cỏ cắm trên đất nói: “Xây dựng ngôi chùa xong rồi”. Thế Tôn mỉm cười.',
@@ -245,7 +245,7 @@ const CongRongLu = [
       'Triệu Châu cầm cọng cỏ, dùng làm thân vang trượng sáu, Thế Tôn tất nhiên chỉ rỏ, / ' +
       'Đế Thích tiện tay nắm lấy Thiên Đồng người cảnh giao thoa Tụng: / ' +
       '“Chẳng phải chỉ có cổ thánh, ông lập tức ở trong trần cảnh này làm chủ, hóa ngoại cũng là chủ khách”. / ' +
-      'Hãy nói: Lưu phò mã ăn chơi, xây dựng viện Báo An này, cùng Đế Thích cắm cọng cỏ, giống hay khác ? / ' +
+      'Hãy nói: Lưu phò mã ăn chơi, xây dựng viện Báo An này, cùng Đế Thích cắm cọng cỏ, giống hay khác? / ' +
       'Sư dựng phất trần nói: Ngàn năm thường trụ nhất Triêu Tăng.',
   },
   {
@@ -298,11 +298,11 @@ const CongRongLu = [
       'Ngài Dược Sơn bảo đánh chuông chúng vừa nhóm họp. / ' +
       'Ngài Dược Sơn Thăng tòa im lặng hồi lâu, lại xuống tòa trở về phương trượng. / ' +
       'Viện chủ theo sau hỏi: Hòa Thượng mới hứa thuyết pháp cho mọi người, tại sao không nói một lời. / ' +
-      'Ngài Dược Sơn nói: Kinh đã có kinh sư, luận đã có luận sư, sao lại trách lão Tăng ?',
+      'Ngài Dược Sơn nói: Kinh đã có kinh sư, luận đã có luận sư, sao lại trách lão Tăng?',
     commentBeforeVerse:
       'Sư nói: ' +
       'Đói thì ăn, khát thì uống, cho nên Tam gia ngủ thỉnh, Bồ Tát thượng đường, nữa bài kệ toàn thân. / ' +
-      'Dược Sơn thăng tòa, há sợ giáo pháp sao ? / ' +
+      'Dược Sơn thăng tòa, há sợ giáo pháp sao? / ' +
       'Thiền sư Hoàng Long Nam nói: / ' +
       'Bởi người đời này, khinh dể Phật pháp, rất nhiều muốn như Hiền phu luôn luôn khô cạn khiến cho khô cạn sau đó tưới lên mới được tốt tươi. / ' +
       'Dược Sơn lâu rồi không thăng tòa, lại không như vậy. / ' +
@@ -314,13 +314,13 @@ const CongRongLu = [
       'Chủ khách chưa cho là phân ngoại. Dược Sơn bảo đánh chuông, chí thấy tín hiệu lôi đình, chúng mới vân tập, há biết so Đẩu đốt văn chương. / ' +
       'Dược Sơn thăng tòa im lặng hồi lâu, rồi xuống tòa trở về phương trượng, một phen thần thông, không giống nho nhỏ. / ' +
       'Viện chủ theo sau hỏi rằng: / ' +
-      'Hòa Thượng hứa đến thuyết pháp cho mọi người, sao không nói lời nào ? / ' +
+      'Hòa Thượng hứa đến thuyết pháp cho mọi người, sao không nói lời nào? / ' +
       'Thúy Nham Chi nói: / ' +
       'Dược Sơn xuống tòa. Viện chủ lúc đầu sợ không thể thuyết pháp cho mọi người, có thể nói nhầm lẫn ba quân. / ' +
       'Vạn Tùng nói: / ' +
       'Chính vì tướng không mạnh. / ' +
       'Dược Sơn nói: / ' +
-      'Kinh có kinh Sư, luận có luận sư, sao lại trách lão tăng ? / ' +
+      'Kinh có kinh Sư, luận có luận sư, sao lại trách lão tăng? / ' +
       'Lang Da Giác nói: / ' +
       'Dược Sơn xuống tòa, không ngại nghi ngờ. Viện chủ đẩy ra mất đi con mắt trí tuệ chân thật. / ' +
       'Vạn Tùng nói: ' +
@@ -332,7 +332,7 @@ const CongRongLu = [
       'Vô Dư tụng rang: / ' +
       'Trượng thất chưa lìa đã nhận chịu, buồn rầu trở về thay đổi còn thản thương, kinh sư luận sư vẫn bảo nhau, nghi rõ ràng thì tự chiêu cảm. / ' +
       'Vạn Tùng nói: ' +
-      'Tạo tự dể kham, công án chưa tròn, để giải thích cho Thiên Đồng, làm sao phân biệt được ? ',
+      'Tạo tự dể kham, công án chưa tròn, để giải thích cho Thiên Đồng, làm sao phân biệt được? ',
     verseOriginal: '',
     verse:
       'Vòi vĩnh được tiền bé nín khe / ' +
@@ -349,7 +349,7 @@ const CongRongLu = [
       'Ngoại đạo đi rồi A Nan hỏi Phật: Ngoại đạo thấy đạo lý gì mà nói được vào. / ' +
       'Phật nói: Như ngựa hay thấy bóng roi liền chạy Dược Sơn và Thế Tôn, đưa cây roi tre giống nhau. / ' +
       'Viện chủ dạy chúng Tăng lễ tán có phần, lại trách không nói lời, có thể nói nạp tăng Đông Độ không bằng ngoại đạo Ấn Độ. / ' +
-      'Thiên Đồng tụng như thế ? / ' +
+      'Thiên Đồng tụng như thế? / ' +
       'Vạn Tùng nói như thế là hết khóc bởi là vàng, chỉ vì các người ở trong mộng chưa tỉnh, người tỉnh ngủ gọi tiếng liền tỉnh, / ' +
       'người ngủ nhiều hay lay mới giật mình lại có phen đánh đập, lục soát giống như tự lừa bịp so với Dược Sơn, trời tạnh hạc làm tổ, / ' +
       'sương xuống không ngủ nghê được sương, bùn có sự ngăn cách, tuy như vậy, ăn nói rất nhiều.',
@@ -361,11 +361,11 @@ const CongRongLu = [
     intro:
       'Sư dạy đại chúng rằng: ' +
       'Nhớ rõ chữ đầu tiên, ở trong lòng thì rơi vào địa ngục như tên bắn, một chút: / ' +
-      '“Dã hồ tinh” đàm dãi con chồn, nuốt vào 30 năm nhã không ra, không phải lĩnh nghiêm của Tây Thiên, chỉ bị nghiệp chó dại, đã có người phạm tội chăng ?',
+      '“Dã hồ tinh” đàm dãi con chồn, nuốt vào 30 năm nhã không ra, không phải lĩnh nghiêm của Tây Thiên, chỉ bị nghiệp chó dại, đã có người phạm tội chăng?',
     main:
-      'Bách trượng thượng đường, thường có một lão nhân đến nghe pháp rồi theo chúng tản đi, (232) vào một ngày nọ không đi. Bách Trượng mới hỏi người đứng đó là ai ? / ' +
+      'Bách trượng thượng đường, thường có một lão nhân đến nghe pháp rồi theo chúng tản đi, (232) vào một ngày nọ không đi. Bách Trượng mới hỏi người đứng đó là ai? / ' +
       'Lão nhân nói: Vào thời Quá khứ Ca Diếp Phật, tôi từng trụ núi này. / ' +
-      'Có học nhân hỏi tôi: Bậc đại tu hành còn rơi vào nhân quả chăng ? / ' +
+      'Có học nhân hỏi tôi: Bậc đại tu hành còn rơi vào nhân quả chăng? / ' +
       'Tôi trả lời không rơi vào nhân quả, đọa làm thân chồn 500 đời. / ' +
       'Nay thỉnh Hòa Thượng đáp thay cho một chuyển ngữ / ' +
       'Bách trượng nói: Chẳng muội nhân quả. / ' +
@@ -388,7 +388,7 @@ const CongRongLu = [
       'một cây gậy tha hồ tung hoành, con chồn nhảy vào đội lông vàng. Nam Công cười to, xem như thế nhân lúc thấy đạo. / ' +
       'Xin Hòa Thượng đáp thay cho một chuyển ngữ, chỉ thích nói không rơi vào nhân quả, không được khiến cho tâm ban đầu rơi vào hầm kiến giải. / ' +
       'Bách Trượng đến tối mới thượng đường nêu ra nhân duyên trước Hoàng Bá liền hỏi: / ' +
-      'Người xưa trả lời sai một chuyển ngữ, năm trăm kiếp đọa vào thân chồn, chuyển không đúng hợp làm gì ? / ' +
+      'Người xưa trả lời sai một chuyển ngữ, năm trăm kiếp đọa vào thân chồn, chuyển không đúng hợp làm gì? / ' +
       'Trượng đáp: Trước mắt nói cho ông Bá đến trước mặt đánh Trượng tát. / ' +
       'Trượng vỗ đáp cười rồi nói: Nói có hồ thì đỏ, lại có đỏ thì có hồ. / ' +
       'Ngưỡng Sơn nói: Bách Trượng được đại cơ, Hoàng Bá được đại dụng, gọi là được không huống uổng. / ' +
@@ -398,10 +398,10 @@ const CongRongLu = [
       'Xương đuôi của Vạn Tùng đã lộ ra, lại làm nanh vuốt dối Thiên Đồng.',
     verseOriginal: '',
     verse:
-      'Một thước nước, một trượng sóng ! / ' +
-      'Năm trăm năm kiếp trước chẳng hề gì ? / ' +
+      'Một thước nước, một trượng sóng! / ' +
+      'Năm trăm năm kiếp trước chẳng hề gì? / ' +
       'Chẳng “lạc” chẳng “mờ” thương lượng đi / ' +
-      'Xưa rớt vừa bộng cát đằng ha ha ha hiểu vậy chăng ? / ' +
+      'Xưa rớt vừa bộng cát đằng ha ha ha hiểu vậy chăng? / ' +
       'Nếu mà ông liên miên lỗi lạc / ' +
       'Nào ngại ta ha hả cười hoài / ' +
       'Thần ca Thánh múa thành ra khúc / ' +
@@ -411,15 +411,15 @@ const CongRongLu = [
     commentAfterVerse:
       'Sư nói: ' +
       'Lập phần nhân quả tu chứng, “một thước nước, một trượng sóng. / ' +
-      'Năm trăm năm kiếp trước chẳng hề gì ?” / ' +
+      'Năm trăm năm kiếp trước chẳng hề gì?” / ' +
       'Am Tích Thúy có 2 vị Tăng dẫu có tài biện luận kiểm điểm trong tương lai, chưa thoát khỏi gõ vào hang rối ren. / ' +
       'Câu này của Thiên Đồng có chữ chưa ổn, sao không nói nương vào trước gõ vào hang con chồn. / ' +
-      '“Ha ha ha”, bài tụng này nói chổ giác ngộ của Bách Trượng, để lộ ra cái khát vọng lãnh hội của mình sao ? / ' +
-      'Chỉ hỏi Thiên Đồng lãnh hội được chưa ? / ' +
-      'Nếu may mắn có một cõi âm, không vì người khác lao nhọc sao ? / ' +
+      '“Ha ha ha”, bài tụng này nói chổ giác ngộ của Bách Trượng, để lộ ra cái khát vọng lãnh hội của mình sao? / ' +
+      'Chỉ hỏi Thiên Đồng lãnh hội được chưa? / ' +
+      'Nếu may mắn có một cõi âm, không vì người khác lao nhọc sao? / ' +
       'Bô lô ba la, Nhi nói không chân thật. / ' +
       'Lại Pháp Hoa Thích Thiêm nói: Phần nhiều tướng học hành, tiếng tập ngữ oa oa. / ' +
-      'Kinh Niết Bàn nói: Có lệnh hành, anh Nhi hạnh ? Có bản nói: Bà bà! hòa hòa. / ' +
+      'Kinh Niết Bàn nói: Có lệnh hành, anh Nhi hạnh? Có bản nói: Bà bà! hòa hòa. / ' +
       'Thiền sư Thiện Đạo ở Thạch Thất nói: Trong 1 hạnh của Kinh Niết Bàn, anh Nhi hạnh là hơn hết, lúc bô lô ba la, / ' +
       'dụ người học đạo kia phân biệt duyên lấy tâm tả, nêu thôn cả xả múa, đều là một ý. / ' +
       'Hãy nói: Thế nào là điệu hát? Vạn lại cố ý nghe mà không được, Hồ Nham không có lổ lại nghe được.',
@@ -437,7 +437,7 @@ const CongRongLu = [
       ' Chấp hành nghiêm chỉnh / ' +
       ' Giống như bán đề / ' +
       ' Đại dụng đều rõ ràng / ' +
-      ' Thi thiết để làm gì ?',
+      ' Thi thiết để làm gì?',
     main:
       ' Vào một ngày nọ, thấy 2 đường tranh con mèo, Nam Tuyền thấy liền cầm lên nói: Nói được thì không chém. / ' +
       ' Chúng không trả lời Tuyền chặt con mèo làm 2 khúc. / ' +
@@ -466,7 +466,7 @@ const CongRongLu = [
       'Triệu Châu liền cởi giày đội ở trên đầu, quả nhiên vừa đi vừa hát, nhịp điệu hài hòa. / ' +
       'Nam Tuyền nói: Nếu có ông thì cứu được con mèo, chút chổ tác dụng này tuy khó lãnh hội nhưng lại để thấy, / ' +
       'chỉ cần ông dơ muỗng đưa đũa thì thấy phá, thì thấy giết con mèo, đội giày lại việc giống nhau, / ' +
-      'nếu không thì thấy Thiên Đồng làm việc kỹ lưỡng khác sao ?',
+      'nếu không thì thấy Thiên Đồng làm việc kỹ lưỡng khác sao?',
     verseOriginal:
       ' ',
     verse:
@@ -515,7 +515,7 @@ const CongRongLu = [
       '    Ngoài quỷ thần lao / ' +
       '    Đều chỉ tay hô / ' +
       '    Sơn Hà đại địa đều thành đồ chơi. / ' +
-      ' Hãy nói: Đó là cảnh giới ?',
+      ' Hãy nói: Đó là cảnh giới?',
     main:
       ' Trên đường đến Đài Sơn có bà già. Có vị Tăng hỏi:' +
       '    Đường đến Đài Sơn đi về hướng nào?' +
@@ -533,7 +533,7 @@ const CongRongLu = [
       'Triệu Châu dựa vào trước để hỏi như thế. Còn bà già dựa vào trước trả lời như thế đã biết trước mà nói bị đánh cho 2 gậy. / ' +
       'Đoạn trước điểm vị Tăng này giúp đỡ bà già, đoạn sau điểm bà già giúp đỡ Triệu Châu. / ' +
       '    Chỉ có Huyền Giác nói: Trước vị Tăng hỏi đáp như thế, sau Triệu Châu đến hỏi đáp như thế / ' +
-      '    Hãy nói: Chỗ nào là chỗ để khám phá ? / ' +
+      '    Hãy nói: Chỗ nào là chỗ để khám phá? / ' +
       '    Vạn Tùng nói: Khám phá rồi / ' +
       '    Lại nói: Không những bị Triệu Châu khám phá, mà cũng bị vị Tăng này khám phá / ' +
       '    Vạn Tùng nói: không những lụy đến Huyền Giác mà cũng liên lụy đến Vạn Tùng. / ' +
@@ -559,7 +559,7 @@ const CongRongLu = [
       'Tông Nguyên quân nằm mộng thấy có người xuất gia nói: / ' +
       'Ta từ vực sâu của con đường khổ đầu, ta bị Thanh Giang bắt đến chỗ Hà Bá. Tôi được thức ăn của người đánh cá, xem kỹ nó là con rùa vàng, người đánh cá quả thực có thức ăn, giăng lưới bắt được con rùa trắng, nó dài 5 thước, vua muốn cứu sống nó, xem bói nói: / ' +
       'Rùa chết cho là điềm lành, mới mổ rùa ra, 2 cái khoan mà không tiếc kế sách, chính là việc đó vậy. / ' +
-      'Lạc nói: Muốn biết kẻ thượng lưu, không được đem ngôn giáo của Phật Tổ dán ở trên trán, như rùa mạng mưu kế là điềm báo mất mạng, chim phượng sa lưới vàng hướng về trời cao, thì còn mong muốn gì nữa ? / ' +
+      'Lạc nói: Muốn biết kẻ thượng lưu, không được đem ngôn giáo của Phật Tổ dán ở trên trán, như rùa mạng mưu kế là điềm báo mất mạng, chim phượng sa lưới vàng hướng về trời cao, thì còn mong muốn gì nữa? / ' +
       'Con ngựa quý của Chu Mục Vương, cởi mây mà đi nhanh hơn cả chim bay, cho nên ngựa hiền theo gió. / ' +
       'Bài tụng này nói Bà Già hay khám phá lão Tăng, mà không thoát khỏi sự khám phá của Triệu Châu, Triệu Châu có thể khám phá không tránh khỏi sự kiểm điểm của Lang Da. / ' +
       'Thiều Tông gọi đó là pháp vàng phân, không hiểu như vàng, khám phá như phân. / ' +
@@ -575,7 +575,7 @@ const CongRongLu = [
       'Người không có thân bệnh tật / ' +
       'Người không có tay lấy thuốc / ' +
       'Không người có miệng uống ăn / ' +
-      'Không người có nhận an lạc Hãy nói: Người bệnh nặng làm sao chữa trị ?',
+      'Không người có nhận an lạc Hãy nói: Người bệnh nặng làm sao chữa trị?',
     main:
       'Đại Sư Vân Môn nói: / ' +
       'Anh sáng không thấu suốt có hai căn bệnh, (23) tất cả chỗ không rỏ ràng, vật trước mắt là một, thấu suốt được tất cả pháp không, giống như có vật gì dấu dưới đất, cũng chính là ánh sáng không thấu suốt. / ' +

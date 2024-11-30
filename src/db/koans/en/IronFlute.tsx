@@ -7,21 +7,21 @@ const IronFlute = [
       title: 'TẮC THỨ 1: VĂN THÙ VÀO CỬA',
       image: '/images/iron-flute/iron-flute-cover.jpg',
       main:
-        ' Một hôm Bồ-tát Văn Thù đứng ngoài cửa thì đức Phật gọi: "Văn Thù, Văn Thù, sao không vào đi ?" / ' +
-        ' Văn Thù đáp: "Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào ?"',
+        ' Một hôm Bồ-tát Văn Thù đứng ngoài cửa thì đức Phật gọi: "Văn Thù, Văn Thù, sao không vào đi?" / ' +
+        ' Văn Thù đáp: "Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào?"',
       commentBeforeVerse:
         '',
       commentAfterVerse:
         'Như Huyễn: Những câu chuyện Thiền là những vấn đề của cuộc sống, chủ đề của thiền định. Không nhất thiết phải là đối thoại giữa Phật và Văn Thù.  / ' +
-        'Giả sử có ai trong quí vị lưỡng lự không bước vào Thiền đường này, tôi nói: “Sao không vào đi ?”  / ' +
-        'Nếu là người tỉnh giác trong lúc đó, sẽ nói: “Tôi chẳng thấy cái gì ở ngoài cửa. Tại sao tôi phải vào ?”  / ' +
+        'Giả sử có ai trong quí vị lưỡng lự không bước vào Thiền đường này, tôi nói: “Sao không vào đi?”  / ' +
+        'Nếu là người tỉnh giác trong lúc đó, sẽ nói: “Tôi chẳng thấy cái gì ở ngoài cửa. Tại sao tôi phải vào?”  / ' +
         'Y chẳng thấy vật gì tách rời Thiền đường; trong và ngoài là những chữ để so sánh. / ' +
         'Nhất thiết y chẳng nghe gì, chẳng thấy gì, chẳng sờ gì, chẳng ngửi gì, chẳng nếm gì, và chẳng nghĩ gì mà chỉ từ tốn đến chỗ của mình ngồi xuống. / ' +
         'Thế thì tôi còn có thể làm gì khác hơn là ca ngợi một người hoàn toàn tự do tự tại như vậy? / ' +
         'Con người vẫn còn trẻ và ngu dại. Thay vì học tính hợp nhất từ các tôn giáo, y học lấy tính nhị nguyên. / ' +
         'Với ảo tưởng của mình, nếu có dịp, y liền dựng lên cái cửa, rồi thấy có vật ở bên ngoài cửa.  / ' +
         'Y nghe, ngửi, nếm, sờ và nghĩ theo lập trường vị kỷ. Y nói về bốn biển đều là anh em, nhưng chẳng hiểu nguyên lý của nó.  / ' +
-        'Thế giới cần Văn Thù mà không cần chúa cứu thế, không cần đấng tiên tri. Văn Thù là ai ? / ' +
+        'Thế giới cần Văn Thù mà không cần chúa cứu thế, không cần đấng tiên tri. Văn Thù là ai? / ' +
         'Văn Thù biểu tượng cho trí tuệ Phật. Văn Thù cưỡi sư tử, diệt tất cả mê hoặc, với thanh kiếm bén chém đứt tất cả ràng buộc, vướng mắc ngăn chặn sự giải thoát. / ' +
         'Một số Phật tử nghĩ rằng Văn Thù là đệ tử của Phật Thích Ca Mâu Ni; một số khác nói về kiếp trước và kiếp này của Văn Thù được phép lạ mật khải. / ' +
         'Hãy để họ nằm mộng thế nào tùy thích. Người học Thiền phải gặp Vằn Thù trong chính mình. / ' +
@@ -33,8 +33,8 @@ const IronFlute = [
         'Thế giới thứ tư của kinh Hoa Nghiêm đôi khi được nói đến như là “Thiên Quốc” / ' +
         'Muốn vào cảnh giới này, người ta phải học sống trong thế giới hài hòa của lý và sự. / ' +
         'Gặp Văn Thù mặt đối mặt trong thời đại của chúng ta rất là quan thiết. / ' +
-        'Văn Thù nói, “Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào ?”  / ' +
-        'Bây giờ, cái cửa ấy ở đâu? Quí vị đang trong cửa hay ngoài cửa đây ?',
+        'Văn Thù nói, “Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào?”  / ' +
+        'Bây giờ, cái cửa ấy ở đâu? Quí vị đang trong cửa hay ngoài cửa đây?',
   },
   {
     id: 2,
@@ -58,7 +58,7 @@ const IronFlute = [
       'Nếu Mân Vương thuộc hàng cao nhân trong Thiền, ông ta sẽ không tỏ ra thất vọng vì đã để mất bài pháp của La Sơn, dù ông ta hiểu đúng ý chỉ im lặng của sư. / ' +
       'Sự trưởng thành của một thiền viện cũng chậm chạp và vô hình như cây cỏ chung quanh nó. / ' +
       'Sư, tăng và đàn-na tín thí chỉ gieo hạt và không bao giờ thấy được sự hoàn thành đầy đủ. / ' +
-      'Tại sao họ không chỉ vui vẻ hiến dâng ngày hôm nay cho thiền định ? / ' +
+      'Tại sao họ không chỉ vui vẻ hiến dâng ngày hôm nay cho thiền định? / ' +
       'Đây là pháp mà La Sơn thừa kế từ Phật truyền xuống qua nhiều thế hệ đệ tử. / ' +
       'Lần đầu tiên khi tôi dời đến căn nhà khiêm tốn này, trong Thiền đường không có ảnh Phật, trong nhà cũng không có bàn ghế gì cả chỉ trừ chiếc ghế để ngồi chơi đàn dương cầm. / ' +
       'Tôi chắp hai tay ngồi im lặng trên chiếc ghế này. / ' +
@@ -77,7 +77,7 @@ const IronFlute = [
       'Ông cư sĩ này muốn biết khả năng thành Phật của mình. Nếu không thể thành Phật, thì ông ta giống như một hòn đá. / ' +
       'Ông nghĩ thầy ông, Nam Tuyền sẽ ca ngợi ý định tốt của ông. / ' +
       'Tuy nhiên, Nam tuyền chỉ nói, “Được, ông làm được.” ' +
-      'Khi Lục Cắng nói: “Con không thể làm được ư ?”, ý ông muốn biết chắc chắn và mong Nam Tuyền cho ông sự khẳng định. / ' +
+      'Khi Lục Cắng nói: “Con không thể làm được ư?”, ý ông muốn biết chắc chắn và mong Nam Tuyền cho ông sự khẳng định. / ' +
       'Thiền của Nam Tuyền dùng lý tưởng làm cửa vào. / ' +
       'Một người muốn chạm đá làm tượng Phật thì phải tự mình làm lấy, dù người khác có chấp thuận hay không. / ' +
       'Nếu y có chút nghi ngờ về khả năng ấy thì y sẽ không bao giờ làm. / ' +
@@ -112,7 +112,7 @@ const IronFlute = [
         'Như Nam Nhạc nói, “Nếu nói một vật tức chẳng nhằm.” / ' +
         'Không có gì để nghi ngờ rằng cả ông tăng và cư sĩ đã ngộ Thiền của Nam Nhạc. / ' +
         'Tuy nhiên, vị cư sĩ vẫn còn dấu vết của sự đạt ngộ, còn ông tăng thì hoàn toàn tự do. / ' +
-        'Rennyo, trụ trì chùa Bổn Nguyện, hỏi Nhất Hưu, một Thiền sư đương thời, “Tôi nghe nói rằng ông đã ngộ, có đúng vậy không ?” ' +
+        'Rennyo, trụ trì chùa Bổn Nguyện, hỏi Nhất Hưu, một Thiền sư đương thời, “Tôi nghe nói rằng ông đã ngộ, có đúng vậy không?” ' +
         'Nhất Hưu đáp, “Tôi chưa từng làm chuyện tệ hại như vậy.” ' +
         'Có lẽ bày tỏ cái rạng rỡ của Thiền cho vị trụ trì ấy là vô ích, nhưng nó chứng minh hành động của Bách Linh trong câu chuyện. / ' +
         'Đông phương có câu tục ngữ nói, “Công đâu khoe vàng với mèo.” ' +
@@ -137,12 +137,12 @@ const IronFlute = [
       title: 'TẮC THỨ 5: THIỀU SƠN MỘT CÂU',
       image: '/images/iron-flute/iron-flute-cover.jpg',
       main:
-        'Một hôm có ông tăng hỏi Thiều Sơn, “Có câu nói nào không không đúng cũng không sai chăng ?” / ' +
+        'Một hôm có ông tăng hỏi Thiều Sơn, “Có câu nói nào không không đúng cũng không sai chăng?” / ' +
         'Thiều Sơn đáp, “Một mảng mây trắng chẳng khoe xấu xí.”',
       commentBeforeVerse:
         'Như Huyễn: / ' +
         'Thiều Sơn thừa kế Giáp Sơn. Trong giới chùa chiền, ai cũng biết tính nghiêm khắc của Giáp Sơn nhưng khi vượt qua được sự nghiêm khắc của Giáp Sơn, sư có khả nằng truyền giáo pháp thâm sâu chỉ bằng một chữ hay một câu ngắn. / ' +
-        'Ông tăng thực ra đang hỏi, “Tự tại hay giải thoát thực sự là gì ?” / ' +
+        'Ông tăng thực ra đang hỏi, “Tự tại hay giải thoát thực sự là gì?” / ' +
         'Phần đông chúng ta vật lộn với sự vướng mắc vào phải và trái, tốt và xấu, thích và không thích mà Thiền thì siêu việt các ý nghĩ nhị nguyên này. / ' +
         'Tuy nhiên, giây phút một người nói về Thiền của mình thì một cặp quỉ lóe mắt đằng trước y. / ' +
         'Thiều Sơn không đá động gì đến chơn như tuyệt đối hay nhất thể cũng không dùng đến bất cứ đặc ngữ tôn giáo nào. / ' +
@@ -182,9 +182,9 @@ const IronFlute = [
       title: 'TẮC THỨ 7: VÂN MÔN TIỆC Ở MIẾU THẦN',
       image: '/images/iron-flute/iron-flute-cover.jpg',
       main:
-        'Một hôm khi Vân Môn nói pháp với tăng chúng, sư hỏi, “Các ông có muốn làm quen với các Tổ, sư xưa không ?” / ' +
+        'Một hôm khi Vân Môn nói pháp với tăng chúng, sư hỏi, “Các ông có muốn làm quen với các Tổ, sư xưa không?” / ' +
         'Trước khi có người trả lời, sư cầm gậy chỉ tăng chúng nói, “Chư Tổ xưa đang nhảy trên đầu các ông đó.” / ' +
-        'Rồi sư hỏi, “Các ông có muốn thấy mắt của các sư xưa không ?” / ' +
+        'Rồi sư hỏi, “Các ông có muốn thấy mắt của các sư xưa không?” / ' +
         'Sư chỉ xuống đất dưới chân tăng chúng và tự đáp, “Họ ở ngay dưới gót chân các ông đó.” / ' +
         'Sau khi dừng lại một chút sư nói như là nói với chính mình, “Tôi đã làm tiệc ở miếu thần nhưng mấy ông thần đói chẳng thoả mãn.”',
       commentBeforeVerse:
@@ -195,13 +195,13 @@ const IronFlute = [
         'Chỉ một mình quốc gia này thôi cũng đã có hàng ngàn người hàng ngày đang bị bọn phỉnh gạt, khuyến khích những sản phẩm tưởng tượng điên cuồng vô lý nhất lừa đảo. / ' +
         'Nhưng việc này không thể đến độ như vậy, nếu không phải là một số người tin vào tôn giáo, nghiên cứu một triết lý, không thỏa mãn với bữa tiệc có thực. / ' +
         'Họ giống như những ngẫu tượng trong miếu thờ thần của Trung quốc; mùi hương giác ngộ bồng bềnh chung quanh mà họ không có mũi để ngửi. / ' +
-        'Sách trong thư viện, kinh trong chùa, hàng trăm và hàng ngàn, đang toi công đãi bữa tiệc chân thực cho những ngẫu tượng có máu thịt ! / ' +
+        'Sách trong thư viện, kinh trong chùa, hàng trăm và hàng ngàn, đang toi công đãi bữa tiệc chân thực cho những ngẫu tượng có máu thịt! / ' +
         'Rốt cuộc Vân Môn đã phí lời trong bài pháp vĩ đại của sư.',
       commentAfterVerse:
         'Genro: Trên đầu chỉ có một bầu trời xanh. Các Tổ, sư xưa ở đâu? Dưới chân chỉ có một quả đất lành. / ' +
-        'Mắt của các Tổ,sư xưa ở đâu ? Bữa tiệc của Vân Môn chỉ là cái bóng, đâu có gì lạ, các vị thần không thể thỏa mãn cái đói của họ. / ' +
+        'Mắt của các Tổ,sư xưa ở đâu? Bữa tiệc của Vân Môn chỉ là cái bóng, đâu có gì lạ, các vị thần không thể thỏa mãn cái đói của họ. / ' +
         'Các ông muốn biết tôi làm tiệc ở miếu thần như thế nào không? Tôi đóng cửa lại, nằm dài xuống sàn nhà, sải tay duỗi chân ra, ngủ một giấc. / ' +
-        'Tại sao ? Bởi vì có câu nói, “Tách đầy đến miệng không chứa thêm trà. Đất tốt chẳng từng sinh người đói.”',
+        'Tại sao? Bởi vì có câu nói, “Tách đầy đến miệng không chứa thêm trà. Đất tốt chẳng từng sinh người đói.”',
     },
   {
       id: 8,
@@ -259,13 +259,13 @@ const IronFlute = [
       image: '/images/iron-flute/iron-flute-cover.jpg',
       main:
         'Quan tri phủ hỏi Dược Sơn: / ' +
-        '“Tôi hiểu rằng tất cả Phật tử phải có Giới, Định và Tuệ. Thầy có giữ giới không ? Thầy có tu định không? Thầy có đạt tuệ không ?” / ' +
+        '“Tôi hiểu rằng tất cả Phật tử phải có Giới, Định và Tuệ. Thầy có giữ giới không? Thầy có tu định không? Thầy có đạt tuệ không?” / ' +
         'Dược Sơn đáp: / ' +
         '“Bần tăng không có những thứ rác rến như thế quanh đây.” / ' +
         'Quan tri phủ nói: / ' +
         '“Thầy ắt có pháp thâm sâu, nhưng tôi chẳng hiểu pháp ấy.” / ' +
         'Dược Sơn tiếp: / ' +
-        '“Nếu muốn nắm giữ nó, ngài phải leo lên ngọn núi cao nhất và ngồi trên chóp đỉnh hoặc phải lặn xuống biển sâu nhất và bước đi nơi đáy nó. Vào giường riêng để ngủ mà tâm trĩu nặng, làm sao ngài có thể nắm giữ được Thiền của tôi ?”',
+        '“Nếu muốn nắm giữ nó, ngài phải leo lên ngọn núi cao nhất và ngồi trên chóp đỉnh hoặc phải lặn xuống biển sâu nhất và bước đi nơi đáy nó. Vào giường riêng để ngủ mà tâm trĩu nặng, làm sao ngài có thể nắm giữ được Thiền của tôi?”',
       commentAfterVerseExtra:
         'Như Huyễn: / ' +
         'Khi một người giữ giới luật, y có thể thiền định tốt; khi sự thiền định thành thục, y có thể đạt trí tuệ. / ' +
@@ -281,9 +281,9 @@ const IronFlute = [
       commentBeforeVerse:
         'Genro: / ' +
         'Dược Sơn dùng núi và biển làm minh họa. Nếu các ông bám vào đỉnh núi hay đáy biển là các ông tạo ra mê hoặc. / ' +
-        'Làm sao các ông có thể hiểu “nó” trên đỉnh hay dưới đáy ? ' +
+        'Làm sao các ông có thể hiểu “nó” trên đỉnh hay dưới đáy? ' +
         'Đỉnh cao nhất không có chóp để các ông ngồi, đáy sâu nhất không có chỗ cho các ông đặt chân. / ' +
-        'Dù cho lời này không diễn đạt chân lý. Thì các ông làm gì ? ' +
+        'Dù cho lời này không diễn đạt chân lý. Thì các ông làm gì? ' +
         'Sư quay lại tăng chúng. Hãy ra vườn làm việc hay đi chặt củi vậy.',
       commentAfterVerse:
         'Fugai: / ' +
@@ -306,7 +306,7 @@ const IronFlute = [
       'Khi có vị nào hỏi một câu về Thiền thì tôi sẽ trả lời bằng Thiền của tôi. / ' +
       'Điều quan trọng nhất là quí vị trở thành Thiền và Thiền trở thành quí vị. Xưa nay tôi không từng là ai cả, nhưng tôi có thể khuyến khích quí vị thiền định hay giải quyết những nghi ngờ của quí vị. Đừng vội vàng tham hết công án này đến công án khác như quí vị giải các bài toán đại số học, cũng đừng tiếp tục sự thiền định trầm trệ không có sự kích thích của hướng dẫn cá nhân. / ' +
       ' Có lẽ vào một đêm lạnh lẽo và Triệu Châu đã phủ lên đầu sư chiếc y đã nặng vì mạn vá nhiều. / ' +
-      'Vì ông tăng không có quyền vào phòng thầy vì bất cứ điều gì trừ Thiền, tại sao ông ta do dự và rút lui ? ' +
+      'Vì ông tăng không có quyền vào phòng thầy vì bất cứ điều gì trừ Thiền, tại sao ông ta do dự và rút lui? ' +
       'Fugai nói, “Ông tăng là một gã ngu muội, nghĩ rằng sư đang ngủ như những kẻ đãng trí khác. Nhưng dù con cọp có ngủ cũng có âm ba mạnh mẽ vây quanh. Ông tăng giống như kẻ đi ngang qua mỏ kim cương với hai bàn tay trắng. Xem lòng từ bi sáng ngời của Triệu Châu khi sư nói, ‘Huynh đệ, chớ nói rằng tôi không nhận huynh đệ tham thiền đấy nhé.’ Ông tăng ngay lúc đó nên cúi đầu bái tạ và thọ nhận Pháp. Thương thay, ông ta vừa điếc lại vừa mù.”' +
       ' Trong kinh Kim Cang, Phật nói, “Này Tu-bồ-đề, nếu có người nói rằng Như Lai hoặc đến hoặc đi, hoặc nằm hoặc ngồi, người ấy không hiểu nghĩa lời ta dạy. / ' +
       'Vì sao? Như Lai không từ đâu đến, không đi về đâu; do đó nên gọi là Như Lai.”' +
@@ -330,7 +330,7 @@ const IronFlute = [
       'Lâm Tế là một Đại Thiền sư đời nhà Đường, tịch ngày mồng 10 tháng giêng, năm 867. / ' +
       'Ngay trước khi tịch, sư nói, “Sau khi ta đi rồi, chớ có diệt mất Thiền của ta. Các ông hãy cùng nhau giữ gìn giáo pháp.” ' +
       'Tam Thánh, là một trong các đệ tử, hỏi “Ai dám diệt Thiền của hòa thượng”. / ' +
-      'Lâm Tế hỏi, “Nếu có người hỏi ông Thiền là gì, ông nói thế nào ?” ' +
+      'Lâm Tế hỏi, “Nếu có người hỏi ông Thiền là gì, ông nói thế nào?” ' +
       'Tam Thánh hét, “Kat!” Sư hài lòng với câu đáp này và bình, “Ai nói Thiền của ta sẽ diệt dưới con lừa mù này?” Nói hết câu, sư tịch. / ' +
       'Phật giáo dùng lời nói phủ định để diễn đạt thực tại. Ấy là cách duy nhất tránh được sự vướng kẹt ngôn từ. / ' +
       'Khi Lâm Tế nói không diệt Thiền của ta, sư đang phát biểu Thiền theo cách nhị nguyên, vì thế Tam Thánh cùng tham gia với sư trong cùng một cách diễn đạt. / ' +
@@ -362,9 +362,9 @@ const IronFlute = [
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
       'Tiệm Nguyên ngồi phiá sau một tấm rèm giấy. Một ông tăng đến tham thiền, vén rèm lên, chào sư, “Thật là lạ.” ' +
-      'Sư đưa mắt nhìn ông tăng rồi nói, “Ông hiểu không ?” ' +
+      'Sư đưa mắt nhìn ông tăng rồi nói, “Ông hiểu không?” ' +
       'Ông tăng đáp, “Dạ, con không hiểu.” ' +
-      'Sư nói, “Trước khi 7 Phật ra đời, thì cũng giống y như giây phút này. Tại sao ông không hiểu ?” ' +
+      'Sư nói, “Trước khi 7 Phật ra đời, thì cũng giống y như giây phút này. Tại sao ông không hiểu?” ' +
       'Sau đó ông tăng đem chuyện này kể lại với Thạch Sương, một Thiền sư cùng dòng Pháp. / ' +
       'Thạch Sương ca ngợi Tiệm Nguyên, nói, “Sư huynh Tiệm Nguyên giống như ông thầy bắn cung. / ' +
       'Chẳng bao giờ bắn một mũi tên không trúng đích.”',
@@ -397,7 +397,7 @@ const IronFlute = [
       'Đây đó, không hơn kém / ' +
       'Nói rằng bảy vị Phật / ' +
       'Đang chuẩn bị dây thừng / ' +
-      'Sau khi trộm chạy mất !',
+      'Sau khi trộm chạy mất!',
   },
 
   {
