@@ -1303,60 +1303,107 @@ const IronFlute = [
 
   {
     id: 51,
-    title: 'TẮC THỨ 51: ',
+    title: 'TẮC THỨ 51: BẢO PHÚC CÁI CHÙA',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một hôm Bảo Phúc nói với tăng chúng, “Khi một người đi qua phía sau chùa thì gặp họ Trương và họ Lý, nhưng nếu y đi phiá trước chùa thì chẳng gặp ai. Tại sao vậy? ' +
+      'Trong hai đường, đường nào có lợi cho y?” Một ông tăng đáp, “Chắc mắt của y bị gì rồi. Không thấy thì có lợi gì?” ' +
+      'Sư mắng ông tăng, “Đồ ngu! Cái chùa lúc nào chẳng như vậy.” ' +
+      'Ông tăng nói, “Nếu chẳng phải cái chùa, người ta phải thấy cái gì chứ?” ' +
+      'Sư nói, “Tôi đang nói cái chùa, chẳng nói vật gì khác.”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: ' +
+      'Cái chùa là thực tại. Khi một người đối diện với nó, y chẳng thấy bất cứ vật gì. Nó siêu việt tất cả mọi phân biệt. Ví dụ, quí vị có thể cùng đi với một đám đông không nhận ra họ là ai và quên cả mình là ai. Đây là những gì Bảo Phúc muốn nói “phiá trước chùa.” Nhưng lúc quí quí vị thấy một người quen, gật đầu và mỉm cười, hay ngay cả dừng lại để chào, là quí vị đang đi “phiá sau cái chùa.” Nếu trong lúc thiền định quí vị tạo ra hình ảnh một người bạn, là quí vị đang mơ mộng chứ không phải thiền định. Bảo Phúc không mắng quí vị vì chuyện này mà sư đang chỉ cho quí vị cách nhập vào và bỏ đi một cách tự do không bám vào con đường nào cả. Câu hỏi của sư, “Tại sao như vậy?” là câu trả lời. Ông tăng đã không nhập vào thực tại mà chỉ lý giải về thấy và không thấy. Ông tăng ngoan cố bám vào thế giới giới hạn và nói, “Nếu chẳng phải là chùa, người ta phải thấy cái gì chứ?” Ông ta nên bỏ Thiền mà đi học luật.',
     commentAfterVerse:
-      '',
+      'Thích Tông Diễn nói, ' +
+      '“Thế giới được biểu trưng bằng biến đổi và vô thường; những người không vượt lên bên trên tính thế gian sẽ bị tung lên và rớt xuống trong lốc xoáy của phiền não. Nhưng những người biết sự vật được cấu thành như thế nào sẽ thấy vô cùng trong hữu cùng, siêu hiện tượng trong hiện tượng và được an lạc giữa đau khổ và phiền não.”',
   },
 
   {
     id: 52,
-    title: 'TẮC THỨ 52: ',
+    title: 'TẮC THỨ 52: HOA NGHIÊM TRỞ LẠI THẾ GIAN MÊ HOẶC',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng hỏi Hoa Nghiêm, “Người giác ngộ trở lại thế gian mê hoặc như thế nào?” ' +
+      'Sư đáp: “Gương vỡ không phản chiếu, Hoa rơi chẳng về cành.”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn:' +
+      'Ông tăng này đã đi quá kinh nghiệm của mình và tưởng tượng ra một người giác ngộ. Tại sao ông ta không tự mình trở thành một người giác ngộ, rồi ông ta sẽ biết câu trả lời. Câu đáp của Hoa Nghiêm có thể dễ bị hiểu lầm. Sư không có ý ám chỉ rằng một người giác ngộ trở lại với mê hoặc thì không còn là một nhân vật cao quí nữa, thay vào đó, minh họa của sư là một hiện tượng thực tế của tâm giác ngộ.\n' +
+      '\n' +
+      ' Phật (Giác Ngộ) là mục đích của văn hóa, nhưng Bồ-tát là hoạt động của Phật tánh. Dưới mắt ngài, không có hai thế giới mê hoặc và không mê hoặc và ngài sống cuộc sống độ tất cả chúng sinh. Giống như hoa sen, ngài có thể nở hoa trong nước bùn.\n' +
+      '\n' +
+      ' John Galsworth có lần đã nói, “Một người được yêu cầu định nghĩa đặc trưng của một người hiền - dùng từ ấy theo nghĩa rộng nhất - sẽ trả lời rằng, ‘Ý chí muốn đặt mình vào địa vị của người khác; nỗi kinh hãi phải cưỡng ép người khác vào chỗ mà tự mình sẽ rút lui; quyền lực để làm những gì đối với ông ta dường như là đúng, không quan tâm đến những gì người khác có thể nói hay nghĩ.’”',
     commentAfterVerse:
-      '',
+      'Genro: ' +
+      'Để minh họa câu chuyện này, tôi sẽ dẫn một bài thơ Trung hoa:\n' +
+      '\n' +
+      ' Kìa! Ánh chiều đang nâng\n' +
+      '\n' +
+      ' Bức tường đá trên hồ.\n' +
+      '\n' +
+      ' Đám mây cuộn về rừng\n' +
+      '\n' +
+      ' Ngôi làng bị nuốt chửng.',
   },
 
   {
     id: 53,
-    title: 'TẮC THỨ 53: ',
+    title: 'TẮC THỨ 53: HUỆ TRUNG ĐÁNH ĐUỔI ĐỆ TỬ',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Đan Hà đến viếng Huệ Trung nhằm lúc sư đang ngủ trưa. Đan Hà hỏi thị giả, “Quốc sư có ở nhà không?” ' +
+      'Thị giả đáp, “Dạ có, nhưng không muốn gặp ai.” ' +
+      'Đàn Hà nói, “Lời nói sâu xa thay.” ' +
+      'Thị giả nói, “Đừng nói vậy. Dù có Phật đến, hòa thượng cũng chẳng muốn gặp.” ' +
+      '“Huynh là đệ tử giỏi. Thầy huynh chắc hãnh diễn lắm,” nói xong câu này, Đan Hà bỏ đi. ' +
+      'Khi Huệ Trung thức dậy, Đam Nguyên, tức ông tăng thị giả, thuật lại cuộc đối thoại. Sư lấy gậy đánh và đuổi ông ta ra khỏi chùa. \n',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: ' +
+      'Ông tăng thị giả bày tỏ Thiền mới đạt, nó tự hiện ra vào dịp đầu tiên, thay vì giữ nó không màu sắc. Đan Hà liền nắm lấy tình thế và lời sư nói phải khiến cho ông thị giả im lặng mà hổ thẹn thay vì hãnh diện thuật lại cuộc đối thoại cho thầy nghe để bị thầy đánh đuổi ra khỏi chùa. Thực tế về sau Đam Nguyên đã thừa kế Huệ Trung làm quốc sư, đơn giản chứng tỏ rằng không có trường hợp nào là vô hy vọng, vì tất cả chúng sinh đều có Phật tánh. \n' +
+      '\n' +
+      ' Khi một người nghĩ rằng mình có Thiền thì y liền mất nó. Tại sao y không tu tập lời dạy một cách không màu mè, không ồn ào?\n' +
+      '\n' +
+      ' Sau đó, khi Đan Hà nghe Huệ Trung đối xử thô bạo với đệ tử, sư nói, “Huệ Trung đáng gọi là Quốc sư.”',
     commentAfterVerse:
       '',
   },
 
   {
     id: 54,
-    title: 'TẮC THỨ 54: ',
+    title: 'TẮC THỨ 54: NHAM ĐẦU HAI BỮA ĂN',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Khâm Sơn đến viếng Nham Đầu trong lúc Nham Đầu đang an cư. Khâm Sơn hỏi, “Sư huynh, anh ăn ngày hai bữa bình thường chứ?” Nham Đầu nói, “Ông con thứ tư nhà họ Trương chu cấp cho tôi, tôi mang ơn ông ta nhiều lắm.” Khâm Sơn cảnh cáo, “Nếu sư huynh không làm tốt phần mình thì kiếp tới sẽ sanh làm con trâu và phải trả lại y những gì huynh nợ trong kiếp này.” Nham Đầu để hai nắm tay lên trước trán nhưng chẳng nói gì. Khâm Sơn nói, “Nếu sư huynh muốn mọc sừng thì phải giơ hai ngón tay lên đầu chớ.” Khâm Sơn chưa nói dứt câu thì Nham Đầu đã hét, “Hê, Khâm Sơn chẳng hiểu ý ta.” Khâm Sơn hỏi, “Nếu sư huynh biết được điều gì sâu xa hơn, sao không giải thích cho đệ.” Nham Đầu khịt một cái rồi nói, “Sư đệ cũng học Phật pháp ba chục năm như tôi mà vẫn cứ lang thang quanh quẩn. Tôi chẳng có việc gì với sư đệ. Hãy cút đi.” Vừa nói dứt lời, Nham Đầu đóng sầm cửa lại ngay mặt Khâm Sơn. Người con trai thứ tư của nhà họ Trương chợt đi ngang qua đó, động lòng thương hại, đem Khâm Sơn về nhà ông ta ở gần đó. Khâm Sơn buồn bã nói, “Chúng tôi là bạn thân đã ba chục năm, nhưng nay anh ta sở đắc điều gì đó cao hơn tôi, và sẽ không truyền cho tôi.” Đêm đó Khâm Sơn không ngủ được, cuối cùng chổi dậy, đến am của Nham Đầu, nói, “Sư huynh hãy từ bi giảng Pháp ấy cho đệ đi.” Nham Đầu mở cửa và nói cho Khâm Sơn biết. Sáng hôm sau ông khách trở về nhà với hạnh phúc đạt được.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: ' +
+      'Khâm Sơn chưa từng tuyền bố mình là sư, nhưng tăng chúng tụ tập quanh ông để nghe ông nói, và dần dần ông nghĩ rằng mình có khả năng dạy người khác. Khi ông nghe tin người bạn cũ của ông là Nham Đầu đang sống cô tịch ở một miền đất xa xôi trong nước, ông đến thăm Nham Đầu xem Nham Đầu có cần gì không. Ở Trung hoa vào vào thời đó, người con trai trưởng trong gia đình sẽ được nhận phần di sản nhiều nhất và mỗi người con trai kế tiếp lãnh ít dần đi, như vậy người con trai thứ tư này không thể có được nhiều lắm dù cho ông ta có thể biếu Nham Đầu thức ăn và chỗ ở. Một tăng nhân sẽ cảm thấy mang ơn trừ phi ông ta sống cuộc sống Thiền đúng đắn. Nham Đầu đã khiêm tốn nhắc đến ơn huệ này, nhưng thân của sư chính là Pháp thân và sư đang sống với chư Phật và Bồ-tát. Khâm Sơn không thấy điều này, vì vậy ông ta dẫn ra sự mê tín rằng một tăng nhân nhận của bố thí mà không có giác ngộ trong kiếp này thì kiếp sau sẽ sanh làm con trâu để kéo cày trả nợ kiếp trước. Nham Đầu đã cho Khâm Sơn thấy sự sống thực chưa từng sinh và sẽ không bao giờ chết; hai nắm tay và cái trán chẳng dính dáng gì đến thực tướng vô tướng kia; sư chỉ đơn giản dùng chúng để chỉ bày Pháp thân mà thôi. Khâm Sơn đáng thương đã không hiểu mà còn bám vào huyền thoại minh họa luân hồi dù nó hoàn toàn xa lạ với giáo lý của Phật.\n' +
+      '\n' +
+      'Sự hối tiếc và lầm lẫn của Khâm Sơn sau đó đã đưa ông ta vào ngõ cụt. Khi ông ta trở lại Nham Đầu với lòng chân thật và hai bàn tay trắng, ông ta đã có thể nhận được Pháp. Đây là cái gì và làm sao được nó, quí vị chỉ có thể tự tìm thấy trong kinh nghiệm riêng của mình.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 55,
-    title: 'TẮC THỨ 55: ',
+    title: 'TẮC THỨ 55: MỤC CHÂU KẺ ĐỘN CĂN',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Khi Mục Châu và một ông tăng lạ mặt gặp nhau trên đường, Mục Châu gọi, “Thượng tọa!” Ông tăng quay lại. “Kẻ độn căn,” Mục Châu nhận xét, rồi cả hai lại tiếp tục bước đi. \n' +
+      '\n' +
+      'Câu chuyện dật sử này được vài tăng nhân ghi lại và mấy năm sau đó, Tuyết Đậu phê bình, “Mục Châu ngu muội đã sai. Ông tăng ấy không quay lại đó sao? Tại sao gọi ông ta là kẻ độn căn?”\n' +
+      '\n' +
+      'Sau này, Hối Đường bình lời của Tuyết Đậu, “Tuyết Đậu ngu muội đã sai. Ông tăng ấy không quay lại đó sao? Tại sao không gọi ông ta là kẻ độn căn?”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: ' +
+      'Ở Trung Hoa, tăng nhân gọi nhau bằng “Huynh đệ” và đối với một người lạ thì gọi là “Thượng tọa.” Nhưng dù là chào hỏi bằng cách nào thì cũng phải được bày tỏ trong Thiền sự sáng lạng của chân tánh riêng của một người. Tăng nhân không chịu lãng phí thì giờ trong việc khen nhau không cần thiết. \n' +
+      '\n' +
+      'Khi Mục Châu nói, ý nghĩ là tiếng nói và tiếng nói là ý nghĩ. Nếu một ông tăng khác bám vào tiếng nói, thì hầu như chắc chắn là ông ta là kẻ độn căn.\n' +
+      '\n' +
+      'Tuyết Đậu truy dấu vết Thiền của ông tăng nơi hành động quay lại, vì thế sư trách mắng Mục Châu. Nhưng Hối Đường sợ sự chấp nhận của Tuyết Đậu có thể khiến người ta hiểu lầm nên khéo léo xóa đi lời nói ấy trong ngữ lục.\n' +
+      '\n' +
+      'Phần quan trọng của công án là mối đe dọa đối với người đọc. Có thể nói rằng im lặng là câu đáp tốt nhất, nhưng đôi khi im lặng là câu đáp quá vụng về đối với một câu hỏi Thiền. Chỉ ngưỡng mộ im lặng thôi thì không đủ, người ta phải sống với nó. Carlyle có lần đã nói, “Nhìn quanh sự trống rỗng ồn ào của thế giới, . . . lời nói với chút ý nghĩa, hành động với chút ít giá trị, . . . người ta yêu thích suy tư về đại Vương Quốc Im Lặng, cao hơn tất cả các vì tinh tú, sâu hơn Vương Quốc của Tử Thần! Một mình nó vĩ đại; tất cả những thứ khác đều nhỏ bé.” Nói đẹp lắm, nhưng ông ta đã nói quá nhiều, phá vỡ im lặng. \n' +
+      '\n' +
+      'Ngũ Tổ nói, “Trên đường khi gặp một Thiền sư, không nói cũng không im. Ông làm sao đối đãi?” Quí vị có thể nói với Mục Châu, nếu quí vị không bám vào ngôn ngữ. Quí vị có thể im lặng đối diện với Mục Châu, nếu quí vị không bị im lặng ràng buộc. Nếu quí vị có Thiền thì dù gặp ai và dù thấy gì, thì cũng là đồng đạo của quí vị, không có ngoại lệ.',
     commentAfterVerse:
       '',
   },
