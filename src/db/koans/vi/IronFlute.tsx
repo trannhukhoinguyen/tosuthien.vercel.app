@@ -451,13 +451,27 @@ const IronFlute = [
     title: 'TẮC THỨ 16: QUI SƠN THỜI GIAN',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      'Qui Sơn nói với tăng chúng, “Mùa đông, những ngày lạnh trở lại mỗi năm. Năm ngoái cũng lạnh như năm nay, và năm tới cũng sẽ lạnh y như vậy. Các ông hãy nói tôi biết những ngày nào trong năm đang tái diễn.” Ngưỡng Sơn, một đệ tử lâu năm, bước đến đứng bên thầy với bàn tay phải úp lên nắm tay trái đặt trước ngực. Qui Sơn bình, “Tôi biết ông không thể trả lời câu hỏi của tôi.” Rồi sư quay sang Hương Nghiêm, một đệ tử ít năm hơn, “Ông nói thế nào?” “Con tin chắc là con có thể trả lời câu hỏi của hòa thượng,” Hương Nghiêm đáp và bước đến đứng bên thầy với bàn tay phải úp lên nắm tay trái đặt trước ngực như vị tăng thâm niên kia đã làm. Nhưng Qui Sơn làm ngơ và nhận xét, “Tôi vui vì ông sư huynh đã không thể đáp được câu hỏi của tôi.”',
+      'Qui Sơn nói với tăng chúng, “Mùa đông, những ngày lạnh trở lại mỗi năm. / ' +
+      'Năm ngoái cũng lạnh như năm nay, và năm tới cũng sẽ lạnh y như vậy. / ' +
+      'Các ông hãy nói tôi biết những ngày nào trong năm đang tái diễn”. / ' +
+      'Ngưỡng Sơn, một đệ tử lâu năm, bước đến đứng bên thầy với bàn tay phải úp lên nắm tay trái đặt trước ngực. / ' +
+      'Qui Sơn bình, “Tôi biết ông không thể trả lời câu hỏi của tôi”. / ' +
+      'Rồi sư quay sang Hương Nghiêm, một đệ tử ít năm hơn, “Ông nói thế nào?” / ' +
+      '“Con tin chắc là con có thể trả lời câu hỏi của hòa thượng,” Hương Nghiêm đáp và bước đến đứng bên thầy với bàn tay phải úp lên nắm tay trái đặt trước ngực như vị tăng thâm niên kia đã làm. / ' +
+      'Nhưng Qui Sơn làm ngơ và nhận xét, “Tôi vui vì ông sư huynh đã không thể đáp được câu hỏi của tôi”.',
     commentBeforeVerse:
-    'Như Huyễn: Chùa của Qui Sơn trên núi là nơi tăng chúng cảm thấy cái lạnh khắc nghiệt của mùa đông. Một vài tăng nhân đã ở lại trong chùa trải qua những ngày tháng vô ích. Nhớ đến những ngày lạnh mùa đông, trẻ con nghĩ đến lễ Giáng Sinh. Qui Sơn đang cảnh cáo tăng chúng chớ lãng phí qua ngày mà chẳng ngộ đạt Thiền. / ' +
+    'Như Huyễn: Chùa của Qui Sơn trên núi là nơi tăng chúng cảm thấy cái lạnh khắc nghiệt của mùa đông. / ' +
+      'Một vài tăng nhân đã ở lại trong chùa trải qua những ngày tháng vô ích. Nhớ đến những ngày lạnh mùa đông, trẻ con nghĩ đến lễ Giáng Sinh. / ' +
+      'Qui Sơn đang cảnh cáo tăng chúng chớ lãng phí qua ngày mà chẳng ngộ đạt Thiền. / ' +
     'Thời gian là gì và nó bắt đầu khi nào? Khi nào nó chấm dứt? Quí vị học Thiền như thế nào? Thiền hằng ngày của quí vị trong thế giới thực tiễn như thế nào? / ' +
     'Không gian và thời gian là những đề tài biện luận của triết học qua các thời đại. Einstein đã đưa chúng vào lãnh vực toán học và khoa học. / ' +
-    'Thời gian, do cá nhân kinh nghiệm ở nhiều thời kỳ trong cuộc đời y, thì khác với thời gian vật lý học, phát minh của con người dùng để ghi dấu các ngày. Khi Ngưỡng Sơn đứng trước thầy với bàn tay trái úp lên nắm tay phải đặt trên ngực, sư đang làm dấu hiệu chào để bày tỏ Thiền của sư. Đây là những gì các ngày của năm lặp đi lặp lại; sư đã nói lên triết lý của sư trong im lặng.  / ' +
-    'Đối với nhà vật lý học, quá khứ và vị lai giống nhau, chỉ khác nhau về chiều hướng như các chiều hướng trên cái la bàn, nhưng đối với một người đang sống thì chúng khác nhau. Một người cuộn tròn quá khứ của mình và mang nó theo bất cứ chỗ nào y đi. Khi Qui Sơn nói, “Tôi biết ông không thể trả lời câu hỏi của tôi,” sư chỉ muốn thăm dò Ngưỡng Sơn có biếng nhác không. Sư chấp nhận kinh nghiệm của cả hai đệ tử, nhưng cũng bày tỏ Thiền của mình, phi thời gian và vô hình thể khi nó chớp lên.',
+    'Thời gian, do cá nhân kinh nghiệm ở nhiều thời kỳ trong cuộc đời y, thì khác với thời gian vật lý học, phát minh của con người dùng để ghi dấu các ngày. / ' +
+      'Khi Ngưỡng Sơn đứng trước thầy với bàn tay trái úp lên nắm tay phải đặt trên ngực, sư đang làm dấu hiệu chào để bày tỏ Thiền của sư. / ' +
+      'Đây là những gì các ngày của năm lặp đi lặp lại; sư đã nói lên triết lý của sư trong im lặng. / ' +
+    'Đối với nhà vật lý học, quá khứ và vị lai giống nhau, chỉ khác nhau về chiều hướng như các chiều hướng trên cái la bàn, nhưng đối với một người đang sống thì chúng khác nhau. / ' +
+      'Một người cuộn tròn quá khứ của mình và mang nó theo bất cứ chỗ nào y đi. / ' +
+      'Khi Qui Sơn nói, “Tôi biết ông không thể trả lời câu hỏi của tôi,” sư chỉ muốn thăm dò Ngưỡng Sơn có biếng nhác không. / ' +
+      'Sư chấp nhận kinh nghiệm của cả hai đệ tử, nhưng cũng bày tỏ Thiền của mình, phi thời gian và vô hình thể khi nó chớp lên.',
     commentAfterVerse:
       '',
   },
@@ -467,14 +481,19 @@ const IronFlute = [
     title: 'TẮC THỨ 17: ĐẠI TÙY CON RÙA',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      'Một ông tăng thấy một con rùa trong vườn chùa của Đại Tùy, hỏi sư, “Tất cả chúng sinh đều có da thịt bọc xương. Tại sao chúng sinh này lại có xương bọc da thịt?” Hòa thượng Đại Tùy đáp bằng cách lấy đôi dép của mình che lên con rùa. ',
+      'Một ông tăng thấy một con rùa trong vườn chùa của Đại Tùy, hỏi sư, “Tất cả chúng sinh đều có da thịt bọc xương. / ' +
+      'Tại sao chúng sinh này lại có xương bọc da thịt?” / ' +
+      'Hòa thượng Đại Tùy đáp bằng cách lấy đôi dép của mình che lên con rùa.',
     commentBeforeVerse:
-    'Như Huyễn: ' +
-       'Ông tăng này có thói quen xấu là nhảy ngay vào kết luận. Ông ta nghĩ nếu một điều đã đúng vào lúc này thì cũng phải đúng vào mọi lúc và mọi nơi. Đại Tùy tìm cách cứu ông tăng ra khỏi loại phân biệt này và giúp ông tăng nhận ra nhất thể. / ' +
-    'Khi quí vị thấy những điều bất thường, không nên kinh động. Trước hết hãy tẩy sạch những nhận thức sai, tự giới hạn của mình về sự vật và đối diện trọn vẹn với thực tại. Tử là gì? Sanh là gì? Phật là gì? Ngộ là gì? / ' +
-    'Genro dẫn một bài thơ xưa ở cuối lời bình của sư; tôi sẽ dịch toàn bộ bài thơ để làm kết luận cho câu chuyện này.',
+    'Như Huyễn:. / ' +
+     'Ông tăng này có thói quen xấu là nhảy ngay vào kết luận. Ông ta nghĩ nếu một điều đã đúng vào lúc này thì cũng phải đúng vào mọi lúc và mọi nơi. / ' +
+    'Đại Tùy tìm cách cứu ông tăng ra khỏi loại phân biệt này và giúp ông tăng nhận ra nhất thể. / ' +
+    'Khi quí vị thấy những điều bất thường, không nên kinh động. / ' +
+    'Trước hết hãy tẩy sạch những nhận thức sai, tự giới hạn của mình về sự vật và đối diện trọn vẹn với thực tại. / ' +
+    'Tử là gì? Sanh là gì? Phật là gì? Ngộ là gì?',
     commentAfterVerse:
-    'Genro: Bạn bè thời thơ ấu, / '+
+    'Genro dẫn một bài thơ xưa ở cuối lời bình của sư; tôi sẽ dịch toàn bộ bài thơ để làm kết luận cho câu chuyện này: / ' +
+    'Bạn bè thời thơ ấu, / ' +
     'Giờ đây biết rõ ràng. / ' +
     'Họ luận bàn triết lý, / ' +
     'Viết luận văn, phê bình. / ' +
@@ -665,10 +684,12 @@ const IronFlute = [
     title: 'TẮC THỨ 26: TUYẾT PHONG CHÍNH XÁC',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-    'Tuyết Phong làm đầu bếp trong chùa của Động Sơn. Sư ngày nào cũng chuẩn bị bữa ăn sáng rất đúng giờ. Một hôm Động Sơn hỏi, “Cái gì khiến ông giữ giờ giấc chính xác như vậy?” Tuyết Phong đáp, “Con nhìn trăng sao.” Động Sơn hỏi vặn, “Nếu trời mưa hay sương mù thì ông làm thế nào?” Tuyết Phong im lặng.',
+    'Tuyết Phong làm đầu bếp trong chùa của Động Sơn. Sư ngày nào cũng chuẩn bị bữa ăn sáng rất đúng giờ. Một hôm Động Sơn hỏi, “Cái gì khiến ông giữ giờ giấc chính xác như vậy?” / ' +
+      'Tuyết Phong đáp, “Con nhìn trăng sao.” Động Sơn hỏi vặn, “Nếu trời mưa hay sương mù thì ông làm thế nào?” Tuyết Phong im lặng.',
     commentBeforeVerseExtra:
     'Như Huyễn: / ' +
-    'Vào thời của Tuyết Phong không có đồng hồ báo giờ, nhưng tăng chúng thức dậy vào lúc bốn giờ sáng để thiền định khoảng một tiếng đồng hồ trước bữa ăn. Mặc dù Tuyết Phong chuẩn bị bữa điểm tâm trước khi có ánh nắng ban ngày, tiếng bảng báo giờ của Tuyết Phong luôn luôn không trễ không sớm. Khi Động Sơn hỏi câu hỏi ấy là sư ca ngợi ông tăng đầu bếp, và câu trả lời của Tuyết Phong rất trơn tru không có dấu vết của kiêu hãnh. E rằng các tăng nhân khác hiểu lầm, Động Sơn lại hỏi, “Nếu trời mưa hay sương mù thì sao?” Có thể tăng chúng đang suy nghĩ rằng Tuyết Phong nhờ vào trăng sao mà giữ đúng giờ giấc. Ngày nay chúng ta có đồng hồ báo giờ và các thiết bị khác nhắc giờ giấc cho chúng ta, nhưng chúng ta không làm việc đúng giờ, trừ phi chúng ta trau dồi Thiền của mình và làm chủ tình thế. Chúng ta phải lái thời gian mà không để thời gian lái chúng ta. Động Sơn muốn Tuyết Phong chia xẻ bí mật của mình với các tăng nhân khác. Quí vị có nghĩ rằng họ hiểu không?',
+    'Vào thời của Tuyết Phong không có đồng hồ báo giờ, nhưng tăng chúng thức dậy vào lúc bốn giờ sáng để thiền định khoảng một tiếng đồng hồ trước bữa ăn. / ' +
+      'Mặc dù Tuyết Phong chuẩn bị bữa điểm tâm trước khi có ánh nắng ban ngày, tiếng bảng báo giờ của Tuyết Phong luôn luôn không trễ không sớm. Khi Động Sơn hỏi câu hỏi ấy là sư ca ngợi ông tăng đầu bếp, và câu trả lời của Tuyết Phong rất trơn tru không có dấu vết của kiêu hãnh. E rằng các tăng nhân khác hiểu lầm, Động Sơn lại hỏi, “Nếu trời mưa hay sương mù thì sao?” Có thể tăng chúng đang suy nghĩ rằng Tuyết Phong nhờ vào trăng sao mà giữ đúng giờ giấc. Ngày nay chúng ta có đồng hồ báo giờ và các thiết bị khác nhắc giờ giấc cho chúng ta, nhưng chúng ta không làm việc đúng giờ, trừ phi chúng ta trau dồi Thiền của mình và làm chủ tình thế. Chúng ta phải lái thời gian mà không để thời gian lái chúng ta. Động Sơn muốn Tuyết Phong chia xẻ bí mật của mình với các tăng nhân khác. Quí vị có nghĩ rằng họ hiểu không?',
     commentAfterVerseExtra:
       'Genro: Nếu Động Sơn hỏi tôi sẽ làm gì nếu trời mưa hay sương mù, thì tôi sẽ trả lời rằng tôi nhìn trời mưa và thưởng thức sương mù',
     commentAfterVerse:
@@ -680,11 +701,18 @@ const IronFlute = [
     title: 'TẮC THỨ 27: NGƯỠNG SƠN NGÀN MUÔN CẢNH',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-    'Ngưỡng Sơn hỏi Qui Sơn, “Khi ngàn muôn cảnh đến thì hòa thượng làm thế nào?” Qui Sơn đáp, “Vật xanh thì chẳng vàng. Vật dài thì chẳng ngắn. Mỗi vật tự có chỗ riêng. Can hệ gì đến ta chứ?” Ngưỡng Sơn cúi đầu bái tạ.',
+    'Ngưỡng Sơn hỏi Qui Sơn, “Khi ngàn muôn cảnh đến thì hòa thượng làm thế nào?” Qui Sơn đáp, “Vật xanh thì chẳng vàng. Vật dài thì chẳng ngắn. / ' +
+      'Mỗi vật tự có chỗ riêng. Can hệ gì đến ta chứ?” Ngưỡng Sơn cúi đầu bái tạ.',
     commentBeforeVerse:
-    'Như Huyễn: Ngưỡng Sơn học Thiền dưới sự hướng dẫn của Qui Sơn, về sau nhận Pháp và trở thành người thừa kế. Đây là một trong hằng trăm câu chuyện xảy ra trong những năm tu tập đó. / ' +
-    'Khi một người qui định và thọ nhận một hình ảnh của tâm trí, nó trở thành một cảnh (hay vật) đối với y. Phật giáo xếp loại các tâm cảnh chung với trần cảnh của thế giới năm giác quan nhận biết. Nếu vui và buồn đến cùng một lúc, nếu sướng và khổ tụ tập quanh mình thì làm thế nào điều khiển chúng. Nếu một người phán xét được và mất, thích và không thích cùng một lúc thì thực ra y nên làm gì? / ' +
-    'Người học Thiền nên cố gắng mỗi lúc chỉ làm một việc thôi. Nếu quí vị có ai lục tìm một bài xã luận trong bàn giấy của mình, thì nên đóng cái ngăn kéo đã lục rồi mới mở ngăn kéo kế tiếp. Mỗi ngăn kéo chứa một cái gì đó quan trọng, nếu bài xã luận không có ở đó thì những thứ khác chẳng liên quan gì đến mình vào lúc đó. Quí vị có để mở tất cả các ngăn kéo hay đổ tất cả các thứ xuống sàn nhà không? Nhưng đó chính là điều nhiều người làm với tâm cảnh của họ. Những người ăn kẹo trong khi đọc hay nghe đài phát thanh trong lúc viết, theo tinh thần Thiền, chắc chắn là họ đã lạc bước.',
+    'Như Huyễn: Ngưỡng Sơn học Thiền dưới sự hướng dẫn của Qui Sơn, về sau nhận Pháp và trở thành người thừa kế. / ' +
+      'Đây là một trong hằng trăm câu chuyện xảy ra trong những năm tu tập đó. / ' +
+    'Khi một người qui định và thọ nhận một hình ảnh của tâm trí, nó trở thành một cảnh (hay vật) đối với y. / ' +
+      'Phật giáo xếp loại các tâm cảnh chung với trần cảnh của thế giới năm giác quan nhận biết. Nếu vui và buồn đến cùng một lúc, nếu sướng và khổ tụ tập quanh mình thì làm thế nào điều khiển chúng. / ' +
+      'Nếu một người phán xét được và mất, thích và không thích cùng một lúc thì thực ra y nên làm gì? / ' +
+    'Người học Thiền nên cố gắng mỗi lúc chỉ làm một việc thôi. Nếu quí vị có ai lục tìm một bài xã luận trong bàn giấy của mình, thì nên đóng cái ngăn kéo đã lục rồi mới mở ngăn kéo kế tiếp. / ' +
+      'Mỗi ngăn kéo chứa một cái gì đó quan trọng, nếu bài xã luận không có ở đó thì những thứ khác chẳng liên quan gì đến mình vào lúc đó. / ' +
+      'Quý vị có để mở tất cả các ngăn kéo hay đổ tất cả các thứ xuống sàn nhà không? Nhưng đó chính là điều nhiều người làm với tâm cảnh của họ. / ' +
+      'Những người ăn kẹo trong khi đọc hay nghe đài phát thanh trong lúc viết, theo tinh thần Thiền, chắc chắn là họ đã lạc bước.',
     commentAfterVerse:
       '',
   },
@@ -728,14 +756,22 @@ const IronFlute = [
     title: 'TẮC THỨ 29: NGƯỠNG SƠN CHÀO THẦY',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      'Lúc hết thời gian an cư 100 ngày mùa hạ, Ngưỡng Sơn đón chào thầy là Qui Sơn, “Con chẳng thấy hòa thượng quanh đây suốt cả mùa hè.” / ' +
-'Qui Sơn hỏi, “Ông đã làm gì?” / ' +
-'Ngưỡng Sơn đáp, “Con đã chăm sóc một miếng đất và sản xuất được một giỏ đầy hạt kê.” / ' +
-'Qui Sơn phê bình, “Ông đã không lãng phí mùa hè này.” / ' +
-'Ngưỡng Sơn hỏi lại, “Hòa thượng đã làm gì mùa hè này?” Vị tăng già đáp, “Ta đã ăn mỗi ngày một bữa trưa và ngủ vài giờ sau lúc nửa đêm.” “Vậy thì hòa thượng đã không lãng phí mùa hè này,”. wNgưỡng Sơn nói xong liền thè lưỡi ra. / ' +
-'Qui Sơn nhận xét, “Ông nên tự trọng một chút.”',
+    'Lúc hết thời gian an cư 100 ngày mùa hạ, Ngưỡng Sơn đón chào thầy là Qui Sơn, “Con chẳng thấy hòa thượng quanh đây suốt cả mùa hè.” / ' +
+    'Qui Sơn hỏi, “Ông đã làm gì?” / ' +
+    'Ngưỡng Sơn đáp, “Con đã chăm sóc một miếng đất và sản xuất được một giỏ đầy hạt kê.” / ' +
+    'Qui Sơn phê bình, “Ông đã không lãng phí mùa hè này.” / ' +
+    'Ngưỡng Sơn hỏi lại, “Hòa thượng đã làm gì mùa hè này?” Vị tăng già đáp, “Ta đã ăn mỗi ngày một bữa trưa và ngủ vài giờ sau lúc nửa đêm.” “Vậy thì hòa thượng đã không lãng phí mùa hè này”. ' +
+    'Ngưỡng Sơn nói xong liền thè lưỡi ra. / ' +
+    'Qui Sơn nhận xét, “Ông nên tự trọng một chút”.',
     commentBeforeVerse:
-      'Như Huyễn: Chùa của Qui Sơn có khoảng một ngàn năm trăm tăng chúng, đa số họ ở trong thiền đường ngày đêm ngồi thiền, trong khi một số chịu trách nhiệm lo việc nhà bếp và một số khác làm việc đồng áng. Mỗi người làm phần việc của mình để làm vinh quang Phật-Pháp. Phần của Ngưỡng Sơn là chăm sóc miếng đất để sản xuất một giỏ đầy hạt kê, và Qui Sơn sống cuộc sống của một tăng nhân lý tưởng. Trong toàn thể gia đình Thiền, không ai lãng phí mùa hè của mình. Theo cái nhìn thế gian thì đây là một cảnh chào mừng giữa thầy và trò với sự đánh giá lẫn nhau, nhưng trong Thiền người học trò vẫn còn cho thấy dấu vết của sự chứng đạt. Anh ta còn lảng vảng với cái bóng của được và mất. Anh ta đã nhận ra lời nói sai của mình trước khi chấm dứt, ông thầy, vì nhận thấy những gì đang diễn ra trong tâm người học trò, nên đã trách mắng y.',
+      'Như Huyễn: Chùa của Qui Sơn có khoảng một ngàn năm trăm tăng chúng, đa số họ ở trong thiền đường ngày đêm ngồi thiền, ' +
+      'trong khi một số chịu trách nhiệm lo việc nhà bếp và một số khác làm việc đồng áng. / ' +
+      'Mỗi người làm phần việc của mình để làm vinh quang Phật-Pháp. / ' +
+      'Phần của Ngưỡng Sơn là chăm sóc miếng đất để sản xuất một giỏ đầy hạt kê, và Qui Sơn sống cuộc sống của một tăng nhân lý tưởng. / ' +
+      'Trong toàn thể gia đình Thiền, không ai lãng phí mùa hè của mình. / ' +
+      'Theo cái nhìn thế gian thì đây là một cảnh chào mừng giữa thầy và trò với sự đánh giá lẫn nhau, nhưng trong Thiền người học trò vẫn còn cho thấy dấu vết của sự chứng đạt. / ' +
+      'Anh ta còn lảng vảng với cái bóng của được và mất. / ' +
+      'Anh ta đã nhận ra lời nói sai của mình trước khi chấm dứt, ông thầy, vì nhận thấy những gì đang diễn ra trong tâm người học trò, nên đã trách mắng y.',
     commentAfterVerse:
       'Genro: / ' +
     'Trong chùa Qui Sơn xưa / ' +
@@ -1130,7 +1166,7 @@ const IronFlute = [
       'Ông tăng không nói được tiếng nào. / ' +
       'Một sư khác nghe được chuyện này, nói với tăng chúng của mình, “Nếu tôi là ông tăng, tôi sẽ buông hai tay tự do và bước lùi đi ra”.',
     commentBeforeVerse:
-      'Như Huyễn:  ' +
+      'Như Huyễn: / ' +
       'Khi ông tăng đến để tham thiền, có nghĩa là ông ta muốn bày tỏ sự tự do tự tại của mình bằng cách không thích hợp với các qui củ vào ra Thiền đường, nhưng câu nói đầu tiên của Nam Tuyền làm ông ta nao núng và ông ta đã thay đổi thái độ. / ' +
       'Như vậy, ông ta tự do ở chỗ nào? Thế gian đầy những người “thái quá” loại này hay loại kia, và có những người nghĩ rằng bằng cách đập phá ngẫu tượng là họ biểu hiện sự tự do. / ' +
       'Tất cả những người ấy đều bị trói buộc. Một người tự do không phô bày sự tự do của mình. / ' +
@@ -1355,7 +1391,7 @@ const IronFlute = [
       'Như Huyễn: ' +
       'Ông tăng thị giả bày tỏ Thiền mới đạt, nó tự hiện ra vào dịp đầu tiên, thay vì giữ nó không màu sắc. Đan Hà liền nắm lấy tình thế và lời sư nói phải khiến cho ông thị giả im lặng mà hổ thẹn thay vì hãnh diện thuật lại cuộc đối thoại cho thầy nghe để bị thầy đánh đuổi ra khỏi chùa. Thực tế về sau Đam Nguyên đã thừa kế Huệ Trung làm quốc sư, đơn giản chứng tỏ rằng không có trường hợp nào là vô hy vọng, vì tất cả chúng sinh đều có Phật tánh. ' +
       ' Khi một người nghĩ rằng mình có Thiền thì y liền mất nó. Tại sao y không tu tập lời dạy một cách không màu mè, không ồn ào?' +
-      ' Sau đó, khi Đan Hà nghe Huệ Trung đối xử thô bạo với đệ tử, sư nói, “Huệ Trung đáng gọi là Quốc sư.”',
+      ' Sau đó, khi Đan Hà nghe Huệ Trung đối xử thô bạo với đệ tử, sư nói, “Huệ Trung đáng gọi là Quốc sư”.',
     commentAfterVerse:
       '',
   },
@@ -1564,7 +1600,7 @@ const IronFlute = [
       'Một sáng nọ, một viên chức nhà nước đến viếng sư và hỏi, “Các quả thánh của thầy bây giờ đã thật chín chưa?” / ' +
       'Vân Môn đáp, “Không một quả nào từng có ai gọi là xanh”.',
     commentBeforeVerseExtra:
-      'Như Huyễn: ' +
+      'Như Huyễn: / ' +
       'Phải mất 3 năm mới thấy quả đầu tiên của cây đào và tám năm với cây hồng. / ' +
       'Cây nào gọi là “thánh” thì phải được trồng trong vườn chùa. / ' +
       'Viên chức nhà nước Trung hoa này đã biết rằng tên các cây duy để chỉ quả trí và muốn thấy Thiền của Vân Môn hiện thực lúc đó. / ' +
@@ -1573,7 +1609,7 @@ const IronFlute = [
       'Cái biết của nhận thức có thể đạt được một cách dần dần như người ta nhìn nó từ màu xanh biến thành màu đỏ, nhưng sự giác ngộ Thiền đến với hình dáng trưởng thành và màu sắc thuần thục. / ' +
       'Thiền đường này, theo danh từ, phải có thứ Thiền nào đó. / ' +
       'Khi có ai hỏi quí vị ông được loại Thiền gì ở đây, quí vị trả lời câu hỏi này như thế nào? / ' +
-      'Chúng ta không mang theo Thiền của chúng ta khi dọn vào chỗ trú này. Chúng ta không bỏ lại Thiền của chúng ta ở chỗ trú trước kia. ' +
+      'Chúng ta không mang theo Thiền của chúng ta khi dọn vào chỗ trú này. Chúng ta không bỏ lại Thiền của chúng ta ở chỗ trú trước kia. / ' +
       'Chúng ta không chia nó với nhau, mỗi người đút vào túi mình một miếng. / ' +
       'Khi chúng ta bật đèn lên và thắp nhang, thì Thiền của chúng lóe lên đầy phòng từ sàn đến trần và thấm nhuần khắp các góc. / ' +
       'Hãy tỏ sự kính trọng đối với người hỏi hay bắt tay người ấy. / ' +
