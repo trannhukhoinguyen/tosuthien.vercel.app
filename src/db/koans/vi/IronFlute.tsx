@@ -2125,249 +2125,798 @@ const IronFlute = [
 
   {
     id: 75,
-    title: 'TẮC THỨ 75: ',
+    title: 'TẮC THỨ 75: ÔNG TĂNG NGỒI THIỀN',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Người quản thủ thư viện thấy một ông tăng ngồi thiền trong thư viện một thời gian khá lâu. / ' +
+      'Người quản thủ thư viện hỏi, “Tại sao ông không đọc kinh?” / ' +
+      'Ông tăng đáp, “Tôi không biết đọc.” / ' +
+      'Người quản thủ thư viện gợi ý, “Sao ông không hỏi người nào biết?” / ' +
+      'Ông tăng đứng dậy, nhã nhặn hỏi, “Cái gì đây?” / ' +
+      'Người quản thủ thư viện im lặng.',
     commentBeforeVerse:
-      '',
+      'Fugai: ' +
+      '# Ông ta chẳng phải là tăng ư? / ' +
+      '# Tôi muốn nói với ông tăng câu này, “Chẳng phải ông ngồi thiền sai chỗ rồi sao?”.' +
+      'Tôi cũng muốn hỏi ông quản thủ thư viện ông muốn nói loại kinh gì? / ' +
+      '# Thật là một người mù chữ dễ thương! / ' +
+      '# Kìa, ông bị trượt rồi. / ' +
+      '# Cây sồi độc! / ' +
+      '# Bắt chước giỏi! / ' +
+      '# Cũng may có đủ ánh sáng để soi bóng tối / ' +
+      '# Chẳng thể dịch được / ' +
+      '# Tại sao phải giữ vật đã có? / ' +
+      '# Kinh gì mà không ai đọc được? / ' +
+      'Thầy tôi nói câu này chậm mất rồi.',
     commentAfterVerse:
-      '',
+      'Genro: / ' +
+      'Ông tăng đứng và người quản thủ thư viện im lặng. / ' +
+      'Đây không phải là những quyển kinh viết rất hay sao? / ' +
+      'Đọc kinh đâu cần ánh sáng đặc biệt / ' +
+      'Mỗi chữ chiếu rõ ràng. / ' +
+      'Đứng không chạm sách, / ' +
+      'Năm ngàn bộ kinh đọc trong chớp mắt.',
   },
 
   {
     id: 76,
-    title: 'TẮC THỨ 76: ',
+    title: 'TẮC THỨ 76: ĐỊA TẠNG HOA MẪU ĐƠN',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Địa Tạng, Trường Khánh và Bảo Phước, 3 huynh đệ cùng nhau đi xem bức tranh nổi tiếng vẽ hoa mẫu đơn trên tấm bình phong. / ' +
+      'Bảo Phúc nói, “Mẫu đơn đẹp!” / ' +
+      'Trường Khánh nói, “Chớ quá tin mắt ông”. / ' +
+      'Địa Tạng nói, “Bậy quá. Bức tranh hỏng rồi”.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      'Bảo Phúc thích thú khi thấy tranh đẹp. / ' +
+      'Trường Khánh mất cơ hội thưởng thức bởi vì ông ta đang chú tâm đến việc khác. / ' +
+      'Khi Địa Tạng nói, “Bậy quá, bức tranh hỏng rồi,” là sư nhập bọn với Bảo Phước hay đang kết tội Trường Khánh? / ' +
+      'Trường Khánh khéo vẽ tranh vua của loài hoa. / ' +
+      'Gấm sặc sỡ mở ra hương ngào ngạt bay lên. / ' +
+      'Ong bướm lượn quanh hoa thích thú. / ' +
+      'Ba thầy tăng có thật nói chuyện tranh hoa?',
     commentBeforeVerse:
-      '',
+      'Fugai: ' +
+      '# Chư tăng, phải quét sạch tranh ảnh ra khỏi mắt nhé. / ' +
+      '# Chớ để mắt ông lừa ông. / ' +
+      '# Tôi nói, “Chớ tin tai của ông”. / ' +
+      '# Miệng gây tất cả phiền não. / ' +
+      '# Bức tranh cần đánh bóng / ' +
+      'Hương cay nồng thì có gì thích thú / ' +
+      'Người cũng dùng hoa dụ côn trùng / ' +
+      'Hãy xem bảng hiệu, CẤM SỜ!',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Tăng nhân không có chuyện đi xem tranh. Nhưng một khi thấy tranh ảnh, thì họ phải hiểu là vải bố. / ' +
+      'Mấy năm trước, một Thiền sư phái Tào Động đến Chicago, nơi đây ông được một người bạn mời tham quan một lò sát sinh. / ' +
+      'Ông ta đã ngất xỉu trước khi hoàn tất cuộc tham quan. / ' +
+      'Khi trở lại San Francisco, ông ta kể cho tôi nghe chuyện xảy ra, tôi nói với ông ta là tăng nhân không nên đến những nơi như thế, nhưng một khi đã đến, thì phải xem tất cả. / ' +
+      'Lời khuyên của tôi không làm ông ta hài lòng lắm bởi vì ông ta tự coi mình rất từ bi, và là trụ trì của một ngôi chùa lớn ở Nhật bản, ông ta không cảm kích những lời này của một ông tăng vô danh ở Mỹ như tôi.',
   },
 
   {
     id: 77,
-    title: 'TẮC THỨ 77: ',
+    title: 'TẮC THỨ 77: ĐỘNG SƠN KHUYÊN TĂNG CHÚNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Động Sơn nói với tăng chúng, “Các ông tăng nhân nên biết trong Phật pháp còn có đạo lý cao hơn”. / ' +
+      'Một ông tăng bước tới hỏi, “Thế nào là Phật pháp thượng thừa?” / ' +
+      'Động Sơn đáp, “Chẳng phải Phật.”',
     commentBeforeVerse:
-      '',
+      'Genro: / ' +
+      '# Động Sơn thật là từ bi. Sư giống như ông lão vui tánh quên mất vẻ trang nghiêm, chơi với lũ trẻ mà không để ý đến người xem chế diễu. / ' +
+      'Người theo giáo lý của sư phải nhớ điều này và biết ơn để đáp lại lòng từ bi của sư. / ' +
+      '# Thiền Động Sơn trang nghiêm đạo hạnh, / ' +
+      'Không nhằm đưa lạc đường người. / ' +
+      'Cần câu quơ bóng cỏ, / ' +
+      'Đánh độc kẻ uống rượu nho.',
+    commentBeforeVerseExtra:
+      'Fugai: / ' +
+      '# Khi người ta cố biết cái cao hơn thì liền té xuống thấp. / ' +
+      '# Ông tăng đó bị Phật và Tổ lừa. / ' +
+      '# Treo đầu heo mà bán thịt chó! / ' +
+      '# Khi một người cố trả nợ là chính y gây nên nợ nặng.' +
+      '# Ấy là vô giá / ' +
+      '# Ông ấy già quá rồi / ' +
+      '# Cũng may biết là bóng',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Một Thiền tăng cố gắng cực nhọc để đạt cái gì đó cao hơn Phật giáo bình thường. / ' +
+      'Ông ta giống như một con ngựa phi nước đại để với lấy nắm cỏ khô trên đầu cây sào buộc trước mũi ngựa. / ' +
+      'Cách duy nhất cho con ngựa là ngừng chạy để nắm cỏ từ cây sào tuột xuống mà ăn. / ' +
+      'Động Sơn chỉ muốn khuyến khích những người mới bắt đầu nhằm mục đích đạt ngộ, nhưng sư phải đáp, “Chẳng phải Phật. / ' +
+      'Ở đây Phật tượng trưng cho giác ngộ và không phải cho người đã đạt giác ngộ ở Ấn độ hai mươi lăm thế kỷ qua.',
   },
 
   {
     id: 78,
-    title: 'TẮC THỨ 78: ',
+    title: 'TẮC THỨ 78: VÂN CƯ TẶNG Y',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Vân Cư là sư của một ngôi chùa lớn, gửi một chiếc y mặc trong cho ông tăng sống một mình trong cái am gần chùa. ' +
+      'Sư nghe nói ông tăng ngồi thiền hằng giờ mà không có gì để che đôi chân.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Tôi sẽ thay ông tăng đáp Vân Cư, “Chẳng ngại trình hòa thượng, chỉ ngại hòa thượng không có chỗ để”. / ' +
+      '# Tám mươi bốn thùng xá lợi / ' +
+      'Không qua một chữ che trời che đất. / ' +
+      'Áo quần của mẹ - Thương thay! / ' +
+      'Không che được cái vô hình hiện tại.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Một món lợi cho người ốm. Cái y mặc trong đó phải là vật truyền xuống từ Bồ-đề-đạt-ma. / ' +
+      '# Tăng tốt! “Nếu ông có, tôi sẽ cho ông. Nếu ông không có thì tôi lấy lại”. / ' +
+      '# Vân Cư lại gửi áo mới. / ' +
+      '# Hai chân ông ở đâu?' +
+      '# Nhà nước cấm tình cảm. Không thể lừa chân sư. / ' +
+      '# Nói hay lắm, nhưng chẳng phải ý ông tăng. / ' +
+      '# Mùi thối lắm! / ' +
+      'Nhà tây gửi nhà đông lời chia buồn / ' +
+      'Ông chẳng biết ơn mẹ / ' +
+      'Con trai triệu phú chết đói trần truồng',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Chùa nào thịnh vượng thì gọi là “mập,” và chùa nào nghèo thì gọi là “ốm”. / ' +
+      'Quan niệm này có tính cách vật chất và thiếu tinh thần Thiền. Lần đầu tiên khi tôi trở thành tăng nhân, tôi quyết định không ở trong chùa “mập” mà sống trong một cái am nhỏ giống như ông tăng trong câu chuyện này. ',
   },
 
   {
     id: 79,
-    title: 'TẮC THỨ 79: ',
+    title: 'TẮC THỨ 79: ĐỨC SƠN GIÁO PHÁP TỘT CÙNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Tuyết Phong hỏi Đức Sơn,”Giáo pháp tột cùng của chư Tổ con cũng có phần chăng?” / ' +
+      'Đức Sơn đánh một hèo, hỏi, “Ông nói cái gì?” / ' +
+      'Tuyết Phong chẳng hiểu ý Đức Sơn, vì thế hôm sau Tuyết Phong lặp lại câu hỏi. / ' +
+      'Đức Sơn đáp,”Thiền không lời, cũng không có gì để cho”. / ' +
+      'Nham Đầu nghe chuyện, liền nói, “Đức Sơn có xương sống thép, nhưng lời nói dịu dàng làm hỏng Thiền”.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Đức Sơn ăn trộm cừu có Nham Đầu làm chứng. Cha nào con nấy! Rất hợp nhau. / ' +
+      '# Đầu rồng và đuôi rắn! / ' +
+      'Đồ chơi dỗ con nít. / ' +
+      'Nham Đầu, kẻ ngoài cuộc, / ' +
+      'Đổ cả cho Đức Sơn.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Ông ta vẫn còn tật ăn cắp. / ' +
+      '# Sư từ bi như bà nội! / ' +
+      '# Một cái đầu chẳng đủ sao? / ' +
+      '# Nói nghe nghèo quá. / ' +
+      '# Một người thổi sáo, một người múa. / ' +
+      '# Ôi là một quái vật! / ' +
+      'Đồ chơi có giá trị! / ' +
+      'Kẻ ngoài cuộc có thể thấy / ' +
+      'Chỉ trả thuế thập phân thôi',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Một nhà quí tộc có lần đã kể với Không Tử về một người thuộc hạ lương thiện đã làm chứng trước tòa rằng cha anh ta đã ăn cắp cừu. / ' +
+      'Genro đã lấy lời bình này từ sách Luận Ngữ. Một người ở trước pháp luật sẽ thay mặt cho pháp luật mà không quan tâm đến tình cảm. / ' +
+      'Thầy giỏi không bao giờ dung thứ trò giỏi. ',
   },
 
   {
     id: 80,
-    title: 'TẮC THỨ 80: ',
+    title: 'TẮC THỨ 80: BA TIÊU KHÔNG DẠY',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng hỏi Ba Tiêu, “Nếu có người không tránh sinh tử, không nhận niết bàn, hòa thượng có dạy y chăng?” / ' +
+      'Ba Tiêu đáp, “Tôi chẳng dạy y”. / ' +
+      'Ông tăng lại hỏi, “Tại sao hòa thượng chẳng dạy?” / ' +
+      'Ba Tiêu đáp, “Lão tăng này biết tốt xấu” / ' +
+      'Cuộc vấn đáp giữa Ba Tiêu và ông tăng được người ta thuật lại ở các chùa khác. / ' +
+      'Một hôm Thiên Đồng nói, “Ba Tiêu có thể biết tốt xấu, nhưng không biết lấy trâu của người cày, lấy cơm của người đói. / ' +
+      'Nếu ông tăng ấy hỏi tôi một câu như thế, trước khi y dứt lời tôi đã đánh y một gậy. / ' +
+      'Vì sao? / ' +
+      'Bởi vì xưa nay tôi chẳng quan tâm tốt xấu.”',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      'Ba Tiêu vẫn dùng pháp tiệm, trong khi Thiên Đồng dùng pháp đốn chớp nhoáng. Pháp của Thiên Đồng có thể dễ hiểu, nhưng ít ai thấy rõ việc làm của Ba Tiêu. / ' +
+      'Một bịnh nhiều thuốc chữa. / ' +
+      'Bắt người không dùng còng; / ' +
+      'Phải biết kỹ đạn dược. / ' +
+      'Xuân lan và thu cúc.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Chớ ông đang nói cái gì vậy? / ' +
+      '# Thầy giỏi không phí lời. / ' +
+      '#  Ông đang nói gì vậy? / ' +
+      '# Ông lão này mất lưỡi rồi. / ' +
+      '# Cái nồi kêu cái ấm đen. / ' +
+      '# Tôi sẽ nói gì về việc làm của sư? / ' +
+      '# Kẻ cắp trong thời bình! / ' +
+      'Anh hùng trong thời chiến! / ' +
+      'Thiên đường chẳng cần thuật ấy. / ' +
+      'Hoa đẹp quá làm nghẹt vườn.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Ba Tiêu là một Thiền sư Trung hoa, tên là Kế Triệt. / ' +
+      'Ông tăng đã phát biểu về một người tự tại không mê không ngộ và muốn biết có giáo lý nào cao hơn để giác ngộ một người như thế. / ' +
+      'Fugai thấy giả thuyết này vô lý nên đã cảnh cáo ông tăng. / ' +
+      'Ba Tiêu nói, “Tôi chẳng dạy y,” dùng ngay chữ “dạy” của ông tăng, thật chẳng phí lời. / ' +
+      'Khi ông tăng không hiểu và hỏi sư tại sao không dạy, lời đáp của Ba Tiêu cho thấy sư có thể nhận biết người nào cần dạy và người nào không cần. / ' +
+      'Fugai nói Ba Tiêu mất lưỡi là ca ngợi câu trả lời hồn nhiên này của Ba Tiêu. / ' +
+      'Thiên Đồng được nhắc đến ở đây là một nhà thơ, đã căn cứ vào Thung Dung Lục khi sáng tác bài thơ này. / ' +
+      'Tên thật của sư là Hoằng Trí. Lời dẫn của sư về trâu và cơm là phương tiện nhanh nhất để lột bỏ mê hoặc cho người học, và đây là lý do tại sao sư nói đánh ông tăng mà không bàn tốt xấu. / ' +
+      'Lời bình có vẻ miệt thị của Fugai thật ra là lời ca ngợi Ba Tiêu và Thiên Đồng.',
   },
 
   {
     id: 81,
-    title: 'TẮC THỨ 81: ',
+    title: 'TẮC THỨ 81: CAO ĐÌNH ĐÁNH TĂNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng từ Giáp Sơn đến lễ bái Cao Đình. / ' +
+      'Cao Đình liền đánh ông tăng. / ' +
+      'Ông tăng nói, “Con đến đây lễ bái hòa thượng. Tại sao hòa thượng đánh con?” / ' +
+      'Cao Đình lại đánh ông tăng và đuổi ông ta ra khỏi chùa. / ' +
+      'Ông tăng trở về với thầy là Giáp Sơn và kể lại sự tình. / ' +
+      'Giáp Sơn hỏi, “Ông hiểu không?” / ' +
+      'Ông tăng đáp, “Dạ, con không hiểu.” / ' +
+      'Giáp Sơn nói tiếp, “May là ông không hiểu. Nếu ông hiểu, tôi thành người ngu.”',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      'Tăng lễ bái thì Cao Đình đánh; / ' +
+      'Thật là phép lịch sự mới trong chùa. / ' +
+      'Chẳng những Giáp Sơn ngậm miệng, / ' +
+      'Mà bánh xe Pháp cũng tiêu điều.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Ông làm cái gì vậy! / ' +
+      '# Công án sống ở chỗ này. / ' +
+      '# Ông nói cái gì? Sao không lễ bái nữa đi? / ' +
+      '# Vàng ròng có ánh vàng. / ' +
+      '# Có người để nói chuyện là tốt rồi. / ' +
+      '# Ông có thể làm gì với con rắn chết? / ' +
+      '# Lời nói hay nhưng chẳng phải của ông. / ' +
+      '#  Hay! Chọi lại được việc làm của Cao Đình. / ' +
+      '# Ông sẽ làm gì nếu ông tăng / ' +
+      'không lễ bái và ông không đánh? / ' +
+      'Qui củ độc lập. / ' +
+      'Bảo hiểm gấp đôi. / ' +
+      'Tỏ lòng biết ơn.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Thiền Mỹ đang chạy trên lề đường: viết sách, diễn thuyết, trích dẫn thần học, tâm lý học, và gì nữa. / ' +
+      'Người nào sẽ đứng lên đập nát toàn bộ thì chánh Pháp mới duy trì được trên miền đất tự do và chánh trực này. ',
   },
 
   {
     id: 82,
-    title: 'TẮC THỨ 82: ',
+    title: 'TẮC THỨ 82: NHAM ĐẦU CÁI BÚA',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Đức Sơn, thầy của Nham Đầu, có lần bảo Nham Đầu, “Trong chùa này có hai ông tăng đã ở với tôi nhiều năm. Hãy đi khám nghiệm xem”. / ' +
+      'Nham Đầu vác một chiếc búa đến cái am nhỏ nơi hai ông tăng đang thiền định.  / ' +
+      'Nham Đầu giơ búa lên nói, “Nếu các ông nói một chữ Thiền, tôi sẽ chém đầu các ông. Nhưng nếu các ông không nói gì cả, tôi sẽ chặt đầu các ông.” / ' +
+      'Hai ông tăng tiếp tục thiền định, để mặc Nham Đầu. / ' +
+      'Nham Đầu ném búa xuống, nói, “Các ông đúng là người học Thiền.” / ' +
+      'Rồi Nham Đầu trở lại, kể sự tình cho Đức Sơn nghe.  / ' +
+      'Đức Sơn đồng ý, “Tôi thấy rõ phiá ông, còn phiá kia thế nào?” / ' +
+      'Nham Đầu đáp, “Động Sơn nhận nhưng Đức Sơn chẳng nhận.”',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Tại sao Nham Đầu bảo hai ông tăng nên ở trong tông môn của Động Sơn mà không thích nghi với tông môn của Đức Sơn? ' +
+      'Độc giả thực sự của Thiết Địch Đảo Xuy [tức ‘Tiếng Sáo Thép’] nên tham lời đáp này. / ' +
+      '# Hai thanh sắt chận cửa, / ' +
+      'Một mũi tên xuyên qua. / ' +
+      'Chẳng nói pháp Đức Sơn; / ' +
+      'Rốt cuộc, sư đã bỏ.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Tại sao ông không tự mình đi ? / ' +
+      '# Ông đã lau mắt sạch chưa vậy? / ' +
+      '# Không gió mà dậy sóng. / ' +
+      '# Mấy ông Phật đá. / ' +
+      '# Nham Đầu tự mua tự bán. / ' +
+      '# Tướng bại trận chẳng nên bàn chiến lợi phẩm. / ' +
+      '# Ai là phía kia? / ' +
+      '# Người ta có nên đến xứ muỗi vì chẳng thích xứ bọ chét không? / ' +
+      '# Tại sao Genro bảo người đọc nên tham thiền? / ' +
+      '# Ông làm sao mở được? / ' +
+      'Tên đó không đủ mạnh. / ' +
+      'Rất ư là khó thấy. / ' +
+      'Chó nhà đôi khi cắn.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      '# Động Sơn thường thiền định với tăng chúng, thỉnh thoảng dùng công án, còn Đức Sơn dồn họ vào góc tường bằng đe dọa. ' +
+      'Tôi nhập bọn với Fugai khi hỏi, “Ông đã lau mắt sạch chưa vậy?” Chỉ vì Thiền chia thành hai tông chính nhưng không có nghĩa là tông này chẳng bao giờ dùng phương pháp của tông kia. / ' +
+      '# Thay vì bảo Nham Đầu đi, Đức Sơn nên bằng lòng với hai ông tăng. Nham Đầu luôn luôn gây phiền phức. ' +
+      'Theo ý tôi, Đức Sơn bị bại, chẳng phải Nham Đầu. ' +
+      'Khi tôi tiếp một vị khách thích tranh luận, tôi đãi trà, không để cho ông ta nói nhiều trong lúc chúng tôi uống trà, và ông ta đã bỏ đi sau tách trà thứ ba.',
   },
 
   {
     id: 83,
-    title: 'TẮC THỨ 83: ',
+    title: 'TẮC THỨ 83: NGƯỠNG SƠN VẼ MỘT ĐƯỜNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Qui Sơn nói với đệ tử là Ngưỡng Sơn, “Suốt ngày ông với tôi đều nói chuyện Thiền. Cuối cùng chúng ta đã làm được gì?” / ' +
+      'Ngưỡng Sơn dùng ngón tay vẽ một đường trong hư không. / ' +
+      'Qui Sơn nói tiếp, “Đối với tôi thì tốt đấy. Ông có thể lừa người khác.”',
+    commentBeforeVerseExtra:
+      'Genro: ' +
+      '# Có hàng trăm hàng ngàn phép định tam muội và vô số đạo lý trong Phật pháp, nhưng tất cả gồm trọn trong đường vẽ của Ngưỡng Sơn. ' +
+      'Nếu ai muốn biết cái gì ở bên kia các phép định tam muội hay sàn lọc lấy đạo lý hay nhất, hãy xem những gì tôi đang làm đây. / ' +
+      '# Thần thông của hai ông / ' +
+      'Hơn cả Mục-kiền-liên. / ' +
+      'Suốt ngày mê trận giả; / ' +
+      'Rốt cuộc làm được gì? / ' +
+      'Một ngón tay xoi lỗ / ' +
+      'Ngay vào trong hư không.',
     commentBeforeVerse:
-      '',
+      'Fugai: Cả hai vị đều có lưỡi chứ? / ' +
+      '# Lời nói vô hình. / ' +
+      '# Sao ông lại mang phiền phức như thế? / ' +
+      '# Ông thầy chơi thua rồi. / ' +
+      '# Bắt chước dở quá! / ' +
+      '# Cả hai đều là ảo tưởng. / ' +
+      'Chiến trường ngay tại chỗ. / ' +
+      'Không lời, không ý nghĩ / ' +
+      'Vụng nhất thiên hạ. / ' +
+      'Khi mây tan, bầu trời vô hạn.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: ' +
+      'Một hôm Qui Sơn đang ngủ trưa thì Ngưỡng Sơn đến tham bái. / ' +
+      'Qui Sơn còn ngái ngủ quay mặt vào tường. / ' +
+      'Ngưỡng Sơn hỏi, “Sao hòa thượng làm vậy?” / ' +
+      'Qui Sơn đáp, “Tôi vừa có một giấc mộng, ông có thể giải thích được chăng?” / ' +
+      'Ngưỡng Sơn bỏ đi ra khỏi phòng, rồi vài phút sau trở lại với thau nước lạnh cho thầy rửa mặt. / ' +
+      'Chẳng bao lâu sau đó Hương Nghiêm cũng đến chào thầy, ngay đó Qui Sơn hỏi, “Sư huynh của ông vừa giải thích giấc mộng của tôi. / ' +
+      'Ông giải thích thế nào?” Hương Nghiêm lặng lẽ bỏ đi và trở lại với tách nước trà cho thầy. / ' +
+      'Qui Sơn phê bình, “Hai ông tăng các ông đã biểu diễn thần thông giống như Mục-kiền-liên. / ' +
+      'Người ta cho rằng Mục-kiền-liên biểu diễn thần thông, nhưng tôi phải mừng Phật Thích Ca Mâu Ni có hai đệ tử giỏi như vậy ở Trung hoa hai ngàn năm sau khi nhập diệt.”',
   },
 
   {
     id: 84,
-    title: 'TẮC THỨ 84: ',
+    title: 'TẮC THỨ 84: CÀN PHONG MỘT ĐƯỜNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng hỏi Càn Phong, “Một đường Niết bàn duy nhất dẫn vào đất Phật mười phương. Đường ấy bắt đầu ở đâu?” / ' +
+      'Càn Phong giơ gậy lên vạch một đường trong hư không và nói, “Ở đây”. / ' +
+      'Sau đó, ông tăng này đem câu hỏi ấy đến hỏi Vân Môn. / ' +
+      'Vân Môn giơ cây quạt lên nói, “Cây quạt này nhảy một cái đến từng trời thứ ba mươi ba, đụng nhằm lỗ mũi Đế Thích, rơi xuống biển Đông đụng phải cá chép hóa rồng làm mưa như trút./”.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Câu đáp của Càn Phong gọi kẻ ngây ngô vô ích; tiếng Vân Môn rột rạt như đậu khô trong hộp. Nếu ai hỏi tôi câu này, tôi sẽ nói, “Ông không thể thấy chăng, hỡi ông mù ngu dốt?” / ' +
+      '#  Trăm hoa theo hoa đầu / ' +
+      ' Kết tràng hoa vườn ruộng / ' +
+      ' Gió đông thổi nhẹ khắp nơi / ' +
+      ' Mỗi cành sắc xuân tuyệt hảo',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      'Một đám mây trắng làm tối đường. / ' +
+      '# Kẻ lắm lời giữa trời xanh gây bão. / ' +
+      '# Tôi sẽ nói với ông tăng, “Tôi kính trọng ông vì đã từ xa đến”. / ' +
+      '# Cho ai? / ' +
+      '# Chúng ta hãy dạo chơi. / ' +
+      '# Chớ quên mùa không mùa. / ' +
+      '# Tranh đẹp của cảnh tiên.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Càn Phong chỉ con đường Thiền, còn Vân Môn khoa trương hành động. Người Trung hoa đôi khi có khuynh hướng phóng đại. Lãnh vực của kính hiển vi cũng cho thấy đất Phật. Tại sao không bắt đầu với con đường của trùng a-míp? Nếu có ai hỏi tôi một câu ngu như thế, tôi sẽ đáp, “Hãy bước cẩn thận.”',
   },
 
   {
     id: 85,
-    title: 'TẮC THỨ 85: ',
+    title: 'TẮC THỨ 85: HUYỀN SA THUYỀN SẮT',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Khi Huyền Sa học Thiền với Tuyết Phong, một ông tăng huynh đệ tên là Quang nói, “Nếu huynh ngộ được Thiền, tôi sẽ làm một cái thuyền sắt dong buồm ra biển khơi”. / ' +
+      'Mấy năm sau, Huyền Sa trở thành Thiền sư và ông tăng tên Quang học Thiền với sư với tư cách thị giả. Một hôm Huyền Sa nói, “Ông đóng thuyền sắt xong chưa?” / ' +
+      'Quang im lặng.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Nếu tôi là Quang, tôi sẽ nói, “Hòa thượng đã ngộ Thiền chưa?” / ' +
+      '# Thuyền sắt đóng băng trên biển. / ' +
+      'Đừng nói Quang im lặng; / ' +
+      'Chú Huyền Sa ngộ chưa?',
+    commentAfterVerseExtra:
+      'Fugai: / ' +
+      '# Ông đang cố dìm cái thuyền ấy sao? / ' +
+      '# Cái thuyền nổi an toàn. / ' +
+      '# Ha! Ha! / ' +
+      '# Tôi không thích đi cái thuyền đó' +
+      '# Đừng nhắc lại quá khứ, hãy sống với  hiện tại. / ' +
+      '# Ông ta có thể làm gì?',
     commentBeforeVerse:
-      '',
+      'Đại Huệ nói, “Sau 18 cái ngộ, tất cả ngộ đua nhau nẩy nở”.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Huyền Sa thọ giới làm tăng khi sư đã 30 tuổi. / ' +
+      'Trước đó, sư là một người giản dị làm nghề đánh cá. / ' +
+      'Một vài ông tăng khinh thị gọi sư là “Kẻ Bất Khả Đắc.” Lời phê bình của ông tăng tên Quang có giọng điệu này bởi vì vào thời đó tàu làm bằng sắt, nói tóm, là không thể có được. / ' +
+      'Có lẽ nhận xét của ông ta đã khuyến khích Huyền Sa trong thiền định, vì vậy Huyền Sa đã nợ Quang về khía cạnh này. / ' +
+      'Khi Huyền Sa hoàn tất sự học, Quang nhập vào chùa của sư và phục vụ sư. / ' +
+      'Tôi ngưỡng mộ tính khiêm tốn và lòng kiên trì của ông ta và không tin Huyền Sa đã hỏi câu này để trả thù mà dùng những chữ ấy như là những từ đồng nghĩa với sự đạt ngộ. / ' +
+      'Ấy chỉ là đàm thoại thân mật trong gia đình.',
   },
 
   {
     id: 86,
-    title: 'TẮC THỨ 86: ',
+    title: 'TẮC THỨ 86: NGƯỠNG SƠN NGỒI THIỀN',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Khi Ngưỡng Sơn đang ngồi thiền thì một ông tăng lặng lẽ đến đứng bên cạnh. / ' +
+      'Ngưỡng Sơn nhận ra ông tăng, vì vậy sư vẽ một vòng tròn trên mặt đất với chữ “thủy”* bên dưới vòng tròn, rồi nhìn ông tăng. / ' +
+      'Ông tăng không đáp được.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      'Ông tăng này mắc tội ăn cắp vặt và không chạy thoát được hành vi của mình. / ' +
+      'Ngưỡng Sơn thì lúc nào cũng sẵn sàng thắp lên ngọn nến. Hỡi ôi! Cơ hội qua rồi. / ' +
+      'Chữ “nước” không làm đã khát; / ' +
+      'Bánh vẽ chẳng làm no bụng. / ' +
+      'Ngưỡng Sơn làm việc không công. / ' +
+      'Sao không cho ông tăng một gậy?',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Kế ấy không nhằm nhò gì. / ' +
+      '# Loại bùa gì đó? / ' +
+      '# Người chạy nước rút té rồi. / ' +
+      '# Nhưng tôi thấy sóng thần đang dâng. / ' +
+      'Đây một mâm đầy bánh.] / ' +
+      'Đó là Thiền thật. / ' +
+      'Vậy thì quá trễ. Gậy đã bị gãy rồi.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Thái độ của Ngưỡng Sơn giống như kẻ ngắm cảnh trên bờ biển lặng lẽ nhìn sóng cuộn và để chân mình bị ướt. / ' +
+      'Nếu tôi là ông tăng, tôi sẽ tự mình làm Ngưỡng Sơn, vén áo lên và bước ra khỏi nước; hoặc đẩy Ngưỡng Sơn ra khỏi chỗ ngồi thiền, nói, “Sóng! Sóng!”',
   },
 
   {
     id: 87,
-    title: 'TẮC THỨ 87: ',
+    title: 'TẮC THỨ 87: THIỀN NGUYỆT KHẢY MÓNG TAY',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Thiền Nguyệt là một Thiền tăng thi sĩ, viết một bài thơ trong đó có hai câu như sau: / ' +
+      '“Khi Thiền tăng gặp nhau liền khảy móng tay. / ' +
+      'Nhưng ít ai biết như vậy có nghĩa gì.” / ' +
+      'Đại Huệ nghe bài thơ này, gặp Thiền Nguyệt và hỏi, “Nghĩa là gì?”  / ' +
+      'Thiền Nguyệt không đáp.',
+    commentBeforeVerseExtra:
+      'Genro: ' +
+      '# Nếu tôi là Thiền Nguyệt, tôi liền khảy móng tay với Đại Huệ. / ' +
+      '# Một cái khảy móng tay chẳng dễ phê bình, / ' +
+      'Khi chưa qua hết 110 thành trì, chớ khảy. / ' +
+      'Tôi phải hỏi bà lão già cụm rụm bán giày, / ' +
+      'Sao không đi chân trần đến kinh đô, hã cụ?',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Chớ có xem đại khái nhé. / ' +
+      '# Ông biết chăng, nó là kiếm cắt lưỡi người ta. / ' +
+      '# Khi thấy thỏ xuất hiện thì ó liền rượt theo.  / ' +
+      '# Chẳng phải tôi đã nói trước rồi sao, ông ta không biết mà. / ' +
+      '# Đến đây vẫn tốt, nhưng thay vì vậy, không ai hiểu được. / ' +
+      '# Cắt ngón tay đi. / ' +
+      'Ông muốn đợi đến khi gặp Di Lặc ư? / ' +
+      'Bà ta không hiểu được cảm giác của bàn chân người khác. / ' +
+      'Lưng mình khó rửa].',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Trong kinh Hoa Nghiêm chép rằng Thiện Tài Đồng Tử đi qua tất cả 110 thành trì tìm thầy học đạo. / ' +
+      'Đồng Tử gặp và lễ bái nhiều người, cuối cùng đến cổng của Di Lặc, Đồng Tử khảy móng tay một cái, cổng liền mở, và ở đó Đồng Tử đã gặp Phổ Hiền, người đã chấm dứt cuộc hành hương cầu đạo. / ' +
+      'Tục ngữ Trung hoa có câu, “Bà lão già lụm cụm lúc nào cũng nói dép rơm mình bán êm chân.” ' +
+      'Fugai lanh lẹ nhắc đến chuyện lưng mình khó rửa, nhưng sư sẽ nói thế nào đối với phương thức tôi mượn của Woolworth vì mục đích này? ',
   },
 
   {
     id: 88,
-    title: 'TẮC THỨ 88: ',
+    title: 'TẮC THỨ 88: DƯỢC SƠN CÁI HỒ',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Dược Sơn hỏi một ông tăng mới đến, “Từ đâu đến?”  / ' +
+      'Ông tăng đáp, “Từ Hồ nam.” / ' +
+      'Dược Sơn hỏi, “Hồ có đầy không?” / ' +
+      'Ông tăng đáp, “Dạ chưa.” / ' +
+      'Dược Sơn nói, “Mưa nhiều lắm, sao lại không đầy?” / ' +
+      'Ông tăng im lặng.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Nếu tôi là ông tăng, tôi sẽ nói với Dược Sơn, “Con sẽ chờ đến khi hòa thượng sửa xong cái đáy.”  / ' +
+      '# Chỉ Nghiệp xuyên tất cả; / ' +
+      'Nhận thức tạo chướng ngại. / ' +
+      'Tăng nghèo hỏi về hồ, / ' +
+      'Tưởng ra đường lên trời.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Ông có thích không khí ở đó không? / ' +
+      '# Cho thấy thoáng qua cảnh hồ. / ' +
+      '# Ông còn thích hồ chứ? / ' +
+      '#  Thoáng nhìn hồ. / ' +
+      '# Thực tế, Dược Sơn mời ông tăng xem hồ. / ' +
+      '# Ông ta hẳn đã chết chìm. / ' +
+      '# Bất cứ cái gì cũng có thể dùng làm công án. / ' +
+      'Nếu nhìn phía sau thì chẳng có chướng ngại]. / ' +
+      'Đi! Hãy nhảy xuống bơi. / ' +
+      'Ông đang đứng ở chỗ nào?',
     commentAfterVerse:
-      '',
+      'Như Huyễn: ' +
+      '# Thiền tăng thích sống thân mật với thiên nhiên. Đa số các chùa và tu viện của Trung hoa được xây cất trên núi hay bên cạnh hồ. ' +
+      'Thiền ghi lại nhiều cuộc vấn đáp giữa sư và tăng về vẻ đẹp của thiên nhiên, nhưng cũng có nhiều tăng nhân chẳng bao giờ đặt câu hỏi mà chỉ đơn giản hòa mình với thiên nhiên. ' +
+      'Họ là những người ủng hộ Thiền chân thực hơn là những kẻ lắm lời, thùng rỗng kêu to. / ' +
+      '#  Thỉnh thoảng Genro nói nghe đáng nghi vì chẳng cần thiết phải tranh luận.',
   },
 
   {
     id: 89,
-    title: 'TẮC THỨ 89: ',
+    title: 'TẮC THỨ 89: TUYẾT PHONG QUẢ CẦU GỖ',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một hôm Tuyết Phong bắt đầu nói pháp với tăng chúng tụ tập quanh một cái đàn nhỏ bằng cách lăn một quả cầu bằng gỗ xuống đàn. / ' +
+      'Huyền Sa đi theo quả cầu, nhặt nó lên và đặt trên bệ.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Tuyết Phong bắt đầu nhưng không kết thúc; Huyền Sa kết thúc nhưng không bắt đầu. Cả hai đều chẳng đầy đủ. Bây giờ, chư tăng, hãy nói xem cách nào tốt hơn? / ' +
+      '# Nắm lại hay buông ra. / ' +
+      'Thầy trò trái nghịch nhau. / ' +
+      'Thiền tăng của thế gian / ' +
+      'Chớ lấy đây làm mẫu.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Trái dưa leo cong. / ' +
+      '# Trái dưa gan tròn. / ' +
+      '# Khi nước chảy qua rừng tre thì có màu xanh. Khi nước chảy qua hoa, thì mỗi hơi thở đều thơm. / ' +
+      '# Không hơn không kém. / ' +
+      'Thực là đồng nhất. / ' +
+      'Thiền sinh chân chánh chẳng bao giờ học. / ' +
+      'Thí dụ đẹp.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      '# Khi Viên Ngộ thuyết giảng các công án do Tuyết Đậu tuyển chọn và làm lời tụng, sư phê bình từng câu một rồi xuất bản thành sách nhan đề là Bích Nham Tập. ' +
+      'Sau khi sư tịch, đệ tử của sư là Đại Huệ gom hết tất cả bản in ra trước sân chùa cho một mồi lửa đốt sạch. ' +
+      'Những gì ông thầy dựng thành hình thì học trò phải hủy diệt đi để giữ giáo pháp khỏi trở thành cái kệ trống. ' +
+      'Các triết gia Tây phương tạo ra triết thuyết của họ, rồi những kẻ theo triết lý đó tiếp tục sửa lại cấu trúc bên ngoài cho đến khi nó không còn giống nguyên tác.' +
+      'Trong Thiền chúng tôi nói, “Giết Phật giết Tổ, là chỉ khi nào quí vị có thể ban cho họ sự sống vĩnh cửu.” ' +
+      '# Chẳng cách nào tốt.',
   },
 
   {
     id: 90,
-    title: 'TẮC THỨ 90: ',
+    title: 'TẮC THỨ 90: CÁI MÂM VỠ',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Ngày xưa, có một ông tăng sống ba mươi năm trong một cái am nhỏ gọi là Phì Điền, có nghĩa là “ruộng mầu mỡ”. / ' +
+      'Ông ta chỉ có một cái mâm làm bằng đất sét. / ' +
+      'Một hôm một ông tăng khác ở học với ông ta, lỡ tay làm bể cái mâm. / ' +
+      'Mỗi ngày ông thầy bắt học trò thay cái mâm. / ' +
+      'Mỗi khi người đệ tử đem cái mâm mới đến, ông thầy liền ném nó đi và nói, “Cái này chẳng phải. Trả lại cho tôi cái cũ.”',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Nếu tôi là người đệ tử, tôi sẽ nói, “Hãy đợi khi nào mặt trời mọc hướng tây.” / ' +
+      '# Bể rồi; / ' +
+      'Chạy nhanh theo nó đi. / ' +
+      'Đệ tử không hiểu nó. / ' +
+      'Gọi ấm thiết là chuông.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Có thể ông ta không biết chỗ nào khác để dọn đi. / ' +
+      ' Fugai: Vật đắt tiền chẳng phải luôn luôn là đồ quí. / ' +
+      ' Fugai: Nhờ bị bể mà kho tàng hiện ra. / ' +
+      ' Fugai:  Tại sao ông muốn cái khác. / ' +
+      'Fugai: Tôi sẽ giơ hai bàn tay ra và cười lớn. / ' +
+      'Fugai: Tôi sẽ đi tìm nó trước khi tôi sinh ra đời. / ' +
+      '[Fugai: Cái mâm còn nguyên đó.] / ' +
+      '[Thanh kiếm biến mất trong nước.] / ' +
+      '[Nó đã trở lại với ông ta rồi.] / ' +
+      '[Ông có thể gọi đất là trời. . . có gì là sai?]',
     commentAfterVerse:
       '',
   },
 
   {
     id: 91,
-    title: 'TẮC THỨ 91: ',
+    title: 'TẮC THỨ 91: PHÁP NHÃN GIỌT NƯỚC',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng hỏi Pháp Nhãn, “Thế nào là một giọt nước Tào khê? / ' +
+      'Pháp Nhãn nói, “Là một giọt nuớc Tào khê.”',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Pháp Nhãn không bao giờ hạ giá đã định. / ' +
+      '# Giọt nước này từ nguồn; / ' +
+      'Không có gì độc hơn. . . / ' +
+      'Chớ nói biết nóng lạnh. / ' +
+      'Bao nhiêu người uống được?',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      'Ông ta dùng độc trị độc. / ' +
+      'Fugai: Chẳng có giá nhất định. / ' +
+      '[Fugai: Hoàng hà ô nhiễm tại nguồn.] / ' +
+      '[Ai uống vào ắt mất mạng.] / ' +
+      '[Ai biết vị ấy.] / ' +
+      '[Tôi đã uống rồi.]',
     commentAfterVerse:
       '',
   },
 
   {
     id: 92,
-    title: 'TẮC THỨ 92: ',
+    title: 'TẮC THỨ 92: TÀO SƠN BỐN KHÔNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Tào Sơn nói, / ' +
+      'Không theo đường tâm của chim. / ' +
+      'Không mặc áo cho mình trước khi sinh. / ' +
+      'Không nói phút giây hiện tại là vĩnh cửu. / ' +
+      'Không diễn tả mình trước khi sinh.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      'Cứ như Tào Sơn nói, tôi sẽ hỏi tăng nhân các ông: / ' +
+      ' [Fugai: Hỏi đi! Tôi sẽ đáp từng câu.] / ' +
+      'Thứ nhất, các ông có thể đi bất cứ chỗ nào tùy thích, nhưng thế nào là đường chim? / ' +
+      '[Đông hay tây?]. / ' +
+      'Thứ nhì, bây giờ các ông có thể mặc áo gì tùy thích, nhưng các ông mặc áo gì trước khi các ông sinh ra? / ' +
+      '[Người văn minh không trần truồng đi dạo phố]. / ' +
+      'Thứ ba, hãy nói bất cứ điều gì tùy ý, nhưng thế nào là hiện tại? / ' +
+      '[Như Huyễn: Lời bình của Fugai về câu này không đáng dịch. Tôi nói thay sư, “Câu hỏi hay quá chẳng thể trả lời.”] / ' +
+      'Thứ tư, các ông có thể diễn tả cái gì tùy thích, nhưng trước khi sinh ra thì các ông ở chỗ nào? / ' +
+      '[Fugai: Phù thủy biết trò ảo thuật]. / ' +
+      ' Genro: Thuốc nhà Tào Sơn cay. / ' +
+      ' [Fugai: Còn dịu hơn mật ong]. / ' +
+      ' Mục đích là giết người. / ' +
+      '[Khi tất cả bị giết chết, một người sống / ' +
+      ' sinh ra.] / ' +
+      ' Kiếm ba tấc lấp lánh; / ' +
+      ' [Phật và Tổ sẽ sợ đến chết mất.] / ' +
+      ' Mỗi nhát chém bén hơn.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      'Ông thích nay đây mai đó hơn chăng? / ' +
+      ' Như Huyễn: Quí vị từng nghe Kontiki chưa? / ' +
+      ' Không mặc áo cho mình trước khi sinh. / ' +
+      'Fugai: Sự trần truồng mang lại hạnh phúc chăng? / ' +
+      'Như Huyễn: Vũ nữ Tokuyae mặc y phục dày trong lúc múa, nét hiền diệu chan hòa trong chiếc y. / ' +
+      ' Không nói phút giây hiện tại là vĩnh cửu. / ' +
+      'Fugai: Ông chỉ cần lộ mặt ra. / ' +
+      'Như Huyễn: Tôi không thích cái mặt đó. / ' +
+      ' Không diễn tả mình trước khi sinh. / ' +
+      ' Fugai: Người ta nên đọc không chữ. / ' +
+      'Như Huyễn:  Tôi hiểu mười ngàn chữ Hán nhưng chúng chẳng làm tôi phiền. / ' +
+      'Genro: Cứ như Tào Sơn nói, tôi sẽ hỏi tăng nhân các ông: / ' +
+      ' [Fugai: Hỏi đi! Tôi sẽ đáp từng câu.] / ' +
+      'Thứ nhất, các ông có thể đi bất cứ chỗ nào tùy thích, nhưng thế nào là đường chim? / ' +
+      '[Đông hay tây?]. / ' +
+      'Thứ nhì, bây giờ các ông có thể mặc áo gì tùy thích, nhưng các ông mặc áo gì trước khi các ông sinh ra? / ' +
+      '[Người văn minh không trần truồng đi dạo phố]. / ' +
+      'Thứ ba, hãy nói bất cứ điều gì tùy ý, nhưng thế nào là hiện tại? / ' +
+      '[Như Huyễn: Lời bình của Fugai về câu này không đáng dịch. Tôi nói thay sư, “Câu hỏi hay quá chẳng thể trả lời.”] / ' +
+      'Thứ tư, các ông có thể diễn tả cái gì tùy thích, nhưng trước khi sinh ra thì các ông ở chỗ nào? / ' +
+      '[Fugai: Phù thủy biết trò ảo thuật]. / ' +
+      ' Genro: Thuốc nhà Tào Sơn cay. / ' +
+      ' [Fugai: Còn dịu hơn mật ong]. / ' +
+      ' Mục đích là giết người. / ' +
+      '[Khi tất cả bị giết chết, một người sống / ' +
+      ' sinh ra.] / ' +
+      ' Kiếm ba tấc lấp lánh; / ' +
+      ' [Phật và Tổ sẽ sợ đến chết mất.] / ' +
+      ' Mỗi nhát chém bén hơn. / ' +
+      ' [Chớ tự chém mình nhé!]',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Quí vị từng nghe Kontiki chưa? / ' +
+      ' Không mặc áo cho mình trước khi sinh. / ' +
+      'Fugai: Sự trần truồng mang lại hạnh phúc chăng? / ' +
+      'Như Huyễn: Vũ nữ Tokuyae mặc y phục dày trong lúc múa, nét hiền diệu chan hòa trong chiếc y. / ' +
+      ' Không nói phút giây hiện tại là vĩnh cửu. / ' +
+      'Fugai: Ông chỉ cần lộ mặt ra. / ' +
+      'Như Huyễn: Tôi không thích cái mặt đó. / ' +
+      ' Không diễn tả mình trước khi sinh. / ' +
+      ' Fugai: Người ta nên đọc không chữ. / ' +
+      'Như Huyễn:  Tôi hiểu mười ngàn chữ Hán nhưng chúng chẳng làm tôi phiền. / ' +
+      'Genro: Cứ như Tào Sơn nói, tôi sẽ hỏi tăng nhân các ông: / ' +
+      ' [Fugai: Hỏi đi! Tôi sẽ đáp từng câu.] / ' +
+      'Thứ nhất, các ông có thể đi bất cứ chỗ nào tùy thích, nhưng thế nào là đường chim? / ' +
+      '[Đông hay tây?]. / ' +
+      'Thứ nhì, bây giờ các ông có thể mặc áo gì tùy thích, nhưng các ông mặc áo gì trước khi các ông sinh ra? / ' +
+      '[Người văn minh không trần truồng đi dạo phố]. / ' +
+      'Thứ ba, hãy nói bất cứ điều gì tùy ý, nhưng thế nào là hiện tại? / ' +
+      '[Như Huyễn: Lời bình của Fugai về câu này không đáng dịch. Tôi nói thay sư, “Câu hỏi hay quá chẳng thể trả lời.”] / ' +
+      'Thứ tư, các ông có thể diễn tả cái gì tùy thích, nhưng trước khi sinh ra thì các ông ở chỗ nào?',
   },
 
   {
     id: 93,
-    title: 'TẮC THỨ 93: ',
+    title: 'TẮC THỨ 93: ĐỨC SƠN SƯ TỬ',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một hôm, Đức Sơn đang làm việc trong vườn chùa, thấy một ông tăng đang đi đến ở đầu đường, sư liền đóng cổng chùa lại. / ' +
+      'Ông tăng gõ cổng. / ' +
+      'Đức Sơn hỏi, “Ai đấy?” / ' +
+      'Ông tăng đáp, “Sư tử con.” / ' +
+      'Đức Sơn mở cổng. / ' +
+      'Ông tăng lễ bái thầy. ',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Ban đầu tôi nghĩ ông ta là sư tử con thật, nhưng bây giờ tôi thấy sức ông ta không bằng một con cáo. Ông ta phải nhảy lên Đức Sơn ngay lúc cổng vừa mở, ghì sư xuống hết cơ cứu vãn. / ' +
+      '# Tự gọi mình sư tử, / ' +
+      'đến viếng kẻ thuần thú. / ' +
+      'Tiếng gầm bể tự viện. / ' +
+      'Sư tử thành chú lừa, / ' +
+      'Bại trước khi đá được.  / ',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Tham vấn đã xong. / ' +
+      '# Hành động trễ nãi. / ' +
+      '# Một quái vật! / ' +
+      '# Sư tử con lọt vào hang cáo. / ' +
+      '# Ông ta đưa đầu vào miệng sư tử. / ' +
+      '# Bộ lông chẳng giống sư tử. / ' +
+      '#  Đó là cách nuôi sư tử con. / ' +
+      '# Đồ súc sanh. / ' +
+      '# Đang rống như sư tử. / ' +
+      'Tiếng vang từ lũng đồi / ' +
+      '[Nên học cách nhào lộn. / ' +
+      '[Sau sấm, không có mưa.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Kangetsu nói đó là một cảnh hay. Nên hạ màn để kết thúc. / ' +
+      'Tôi đồng ý với Kangetsu. Genro giống như một lão nhà quê vô vị, ồn ào mà chẳng được tích sự gì. Gió nhẹ giữa mùa hè thổi vào phòng, Kangetsu và tôi cùng nhau làm việc. / ' +
+      'Tại sao chúng tôi không hỏi gió nhẹ? Nó là cái gì? Nó từ đâu đến? Chỉ chào đón nó, không gọi nó là ác quỉ hay thiên thần. / ',
   },
 
   {
     id: 94,
-    title: 'TẮC THỨ 94: ',
+    title: 'TẮC THỨ 94: SỐNG MỘT MÌNH',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
+      'Một ông tăng đến hỏi Vân Cư, “Làm thế nào con có thể sống một mình trên đỉnh núi?” / ' +
+      'Vân Cư đáp, “Sao ông không bỏ thiền đường dưới thung lũng đi lên núi?” / ',
+    commentBeforeVerseExtra:
       '',
     commentBeforeVerse:
       '',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      '# Những người bạn Mỹ thường hỏi tôi làm thế nào tìm được “nơi yên tĩnh để thiền định?”. / ' +
+      '# Câu trả lời thông thường của tôi là, “Trong nhà anh có chỗ nào yên tĩnh không?” ' +
+      'Trong đời sống hàng ngày dù có bận rộn đến đâu, người ta cũng có thể tìm được những giờ phút nào đó để thiền định và một chỗ nào đó để ngồi yên. / ' +
+      'Chỉ khăng khăng tìm một chỗ yên tĩnh bên ngoài ngôi nhà mình ở là hoàn toàn sai. / ' +
+      'Ông tăng này không hòa mình được với những tăng nhân khác trong thiền viện và muốn sống một mình trên đỉnh núi. / ' +
+      'Dù cho Vân Cư đã dồn ông tăng vào thế kẹt bằng câu hỏi ấy, cũng không lạ gì Fugai cho phương pháp của Vân Cư quá nhạt nhẽo. / ' +
+      '# Fugai giống như người vô chính phủ. ' +
+      'Tôi không muốn làm người đồng đạo với ông tăng cấp tiến này. Câu nói đầu tiên của Genro thật sáng giá. Tại sao sư thêm câu cuối? ' +
+      'Hãy xem các đồng đạo của tôi! Tất cả những người đó đều là những nhà kinh doanh và nội trợ giỏi. Không ai chểnh mảng việc đeo đuổi Thiền của mình. / ' +
+      'Bất cứ lời dạy nào tách rời khỏi cuộc sống hàng ngày thì chẳng phải là lời dạy chân thực. / ' +
+      'Như Huyễn: Hê!',
   },
 
   {
     id: 95,
-    title: 'TẮC THỨ 95: ',
+    title: 'TẮC THỨ 95: LÂM TẾ MẮT CHÁNH',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
+      'Ma Cốc hỏi Lâm Tế, “Quan Âm ngàn tay, mỗi tay có một mắt, mắt nào là mắt chánh?” / ' +
+      'Fugai: Mắt nào chẳng phải mắt chánh? / ' +
+      'Lâm Tế đáp, “Quan Âm ngàn tay mỗi tay có một mắt, mắt nào là mắt chánh? Nói mau! Nói mau!” / ' +
+      ' Fugai: Kẻ địch bị vũ khí của mình đánh bại. / ' +
+      'Ma Cốc kéo Lâm Tế xuống khỏi tòa và lên ngồi vào chỗ của Lâm Tế. / ' +
+      ' Fugai: Sao chổi đến gần chòm sao khác. / ' +
+      'Lâm Tế đứng lên hỏi, “Vì sao?” / ' +
+      ' Fugai: Cả đoàn quân theo lệnh rút lui. / ' +
+      ' Kangetsu: Ma Cốc không giữ vững mục tiêu. / ' +
+      'Lâm Tế hét, “Katz!” và kéo Ma Cốc ra khỏi tòa. / ' +
+      ' Fugai: Con rồng nằm. / ' +
+      ' Như Huyễn: Cầm thương của địch tấn công địch. / ' +
+      'Ma Cốc lặng lẽ bỏ đi. / ' +
+      ' Fugai: Hai tướng hiểu nhau. / ' +
+      ' Như Huyễn: Trong lịch sử Trung hoa, Khổng Minh là một tướng tài nổi tiếng, bỗng nhiên bị quân địch dưới sự chỉ huy của Trung Đạt bao vây. Lúc đó chỉ có một mình Khổng Minh, quân của Khổng Minh đang đi nghỉ phép. Khổng Minh bước ra trên bao lơn của một cái tháp nhìn qua phía địch và chơi đàn. Trung Đạt biết chiến thuật thượng đẳng của Khổng Minh, sợ rằng người của Khổng Minh đang mai phục chuẩn bị tấn công, đột nhiên ra lệnh cho quân của mình rút lui. Khổng Minh nổi tiếng là Ngọa Long Tiên Sinh [Ông Thầy Rồng Nằm], người không ai đánh bại được. Lời bình của Fugai chỉ câu chuyện này. / ' +
+      ' Quan Thế Âm có một ngàn con mắt nhưng chỉ có một mắt là thật. Con mắt chánh đó tự hóa hiện thành một ngàn con mắt. Giống như mặt trăng đồng thời phản ảnh trong một ngàn cái hồ. Có phải các hồ mời mặt trăng hay là mặt trăng đi xuống cái hồ? Cái nào là chủ, cái nào là khách? Lâm Tế tinh ranh đặt câu hỏi có dụng ý, “Vì sao?” trước khi hét, “Kat!” Ma Cốc nên hét trả lại và đột ngột bỏ đi. Dở quá, thua trận thật không vinh quang.  / ' +
+      ' Genro: Câu hỏi, “Vì sao?” của Lâm Tế khiến người ta do dự. Nếu trong tăng nhân các ông có ai đáp đúng được, thì có thể hai tay đánh đường xa mà đi. Đây là mật truyền của giáo lý Lâm Tế. / ' +
+      'Fugai: Chớ đứng trên nóc nhà mà hét! / ' +
+      'Genro: Điền Đan chiến sĩ thật tài ba. / ' +
+      '[Fugai: Tướng giỏi khó tìm.] / ' +
+      'Kế trận bày ra khiếp quỉ ma. / ' +
+      '[Con đường vô thượng ngàn thánh chẳng / ' +
+      'thể theo.] / ' +
+      'Cho bò mang lửa xông vào địch, / ' +
+      '[Trăm trận, trăm thắng.] / ' +
+      'Một lúc được luôn bảy chục thành. / ' +
+      '[Xưa nay chưa từng thua.] / ' +
+      'Như Huyễn: Điền Đan là một chiến sĩ khác của Trung hoa. Khi bị thiếu quân, ông ta đã dùng bò đánh giặc bằng cách buộc những bó lửa trên lưng bò, và nhờ thế đã chuyển thất bại thành thắng lợi vinh quang.  / ' +
+      'Tăng nhân không nên nói chiến tranh và đánh nhau. Điều đó trái với giới luật Phật giáo. Có nhiều thí dụ khác có thể dùng hay hơn các thí dụ này; một cành hoa cũng thành một minh họa tốt hơn. Trong tương lai, vào khoảng năm 2001, người học Thiền có thể quên chiến tranh là gì và thưởng thức Thiền của họ trong những khu vườn thanh bình đầy gió xuân êm dịu. ',
+    commentBeforeVerseExtra:
       '',
     commentBeforeVerse:
       '',
@@ -2377,9 +2926,30 @@ const IronFlute = [
 
   {
     id: 96,
-    title: 'TẮC THỨ 96: ',
+    title: 'TẮC THỨ 96: NHAM ĐẦU BA GIỚI',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
+      'Một ông tăng hỏi Nham Đầu, “Khi ba giới ập đến thì làm thế nào?” / ' +
+      'Fugai: Hãy vác chúng lên vai. / ' +
+      'Nham Đầu đáp, “Hãy ngồi xuống.” / ' +
+      ' Fugai: Ông lại cho ông ta một gánh nặng nữa. / ' +
+      'Ông tăng nói, “Con không hiểu.” / ' +
+      ' Fugai: Ông còn chưa biết mình đã bị trượt. / ' +
+      'Nham Đầu bảo, “Mang hòn núi kia đến đây, rồi tôi sẽ nói cho.” / ' +
+      'Fugai: Một người biến mình thành Phật, cũng liền biến người khác thành Phật! / ' +
+      'Genro: Nếu Nham Đầu không có câu thứ hai, người ta sẽ nghi ngờ Thiền của sư.  / ' +
+      'Như Huyễn: Người ta có thể nghĩ sư có ý nói ngồi trên ba giới, hay bảo ông tăng ngồi. Kangetsu-san, chúng ta hãy uống trà đi. / ' +
+      'Genro: Nếu ông tăng hỏi tôi khi ba giới ập đến thì làm thế nào, tôi sẽ đáp, “Dục giới, sắc giới và vô sắc giới.” Nếu lúc ấy ông tăng nói con không hiểu, tôi sẽ đáp, “Núi đông đứng trên sông.” / ' +
+      ' Fugai: Để tôi tham công án của tôi: Nếu ông tăng hỏi tôi, tôi sẽ nói, “Một giọt sương.” Nếu ông tăng vẫn không chịu hiểu, tôi sẽ nói, “Nó biến thành ngọc trên lá sen.” / ' +
+      'Genro: Ba thế giới chồng chất; / ' +
+      ' [Fugai: Sóng bủa trên trời.] / ' +
+      ' Thiền tăng ngồi bồ đoàn. / ' +
+      ' [Ném cái bồ đoàn ấy đi!] / ' +
+      ' Nham Đầu mở miệng nói, / ' +
+      ' [Thế giới vẫn ở trong tai tôi.] / ' +
+      ' Mang núi kia lại đây. / ' +
+      ' [Núi ấy tối hôm qua bị trộm lấy mất rồi.]',
+    commentBeforeVerseExtra:
       '',
     commentBeforeVerse:
       '',
@@ -2389,9 +2959,31 @@ const IronFlute = [
 
   {
     id: 97,
-    title: 'TẮC THỨ 97: ',
+    title: 'TẮC THỨ 97: THÂN PHẬT',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
+      ' Khi Phật đang giảng kinh Niết Bàn, / ' +
+      ' Fugai: Chưa đầy đủ. Trước đó ông ở đâu? Chẳng phải ông lúc nào cũng ở đó sao? / ' +
+      'Như Huyễn: Ông ta chưa từng ở chỗ nào hết. Nếu ông nghĩ rằng ông ta từng ở, ông phải nhận một phần đất Ấn. Sao ông không chờ đến lúc ông ta nói xong? / ' +
+      'Ngài lấy tay xoa ngực nói, “Các ông nên nhìn kỹ thân vàng của tôi, nếu không về sau sẽ hối tiếc.” / ' +
+      'Như Huyễn: Phật mong nhập Niết bàn vậy thì đây là dấu hiệu. / ' +
+      'Fugai: Suỵt! Con cáo, nhà ngươi đã lừa nhiều người, bây giờ lại cố xóa bỏ lỗi lầm. / ' +
+      'Như Huyễn: Tôi đã bảo ông lắng nghe cho kỹ. / ' +
+      'Nếu ông nói, “Phật nhập Đại niết bàn, ông chẳng phải là đệ tử của tôi.” / ' +
+      'Fugai: Tôi sẽ nói to, “Phật nhập Đại niết bàn! Phật nhập Đại niết bàn!”  / ' +
+      'Nếu ông nói, “Phật không nhập Đại niết bàn, ông cũng không phải là đệ tử của tôi.” / ' +
+      'Fugai: Tôi sẽ nói to, “Phật không nhập Đại niết bàn! Phật không nhập Đại niết bàn!” / ' +
+      'Genro: Phật đã nhập diệt cả ngàn năm rồi. Nếu ông bảo ngài vẫn còn ở đây, là ông đang chấp nhận rằng ngài không có nhập Niết bàn. Nếu ông nói rằng ngài không có ở đây là ông đang chấp nhận rằng ngài đã nhập Niết bàn. Nếu ông nói rằng ngài không nhập Đại niết bàn cũng không phải không nhập Đại niết bàn, thì ông phải chấp nhận rằng Ngài không ở đây cũng chẳng phải Ngài không ở đây. Vậy, thân vàng của Ngài ở đâu? Các ông mỗi người hãy về phòng mình nghỉ cho khỏe. / ' +
+      ' Fugai: Thầy ơi, thầy hãy về phòng thầy trước đi. / ' +
+      ' Genro: Thầy già quá bận trước khi đi. / ' +
+      ' Fugai: Sao chẳng chịu chuẩn bị trước?] / ' +
+      ' Nên đã lộ ra ánh sáng vàng; / ' +
+      ' [Ai thấy liền bị mù.] / ' +
+      ' Thầy đã bịt mồm chư đệ tử. / ' +
+      ' [Chưa từng có gì để nói.] / ' +
+      ' Chuyện xấu trong nhà nên giữ im. / ' +
+      ' [Trước khi ăn cắp hãy bịt tai lại.]',
+    commentBeforeVerseExtra:
       '',
     commentBeforeVerse:
       '',
@@ -2401,36 +2993,179 @@ const IronFlute = [
 
   {
     id: 98,
-    title: 'TẮC THỨ 98: ',
+    title: 'TẮC THỨ 98: HƯU TỊNH DÙNG TRÒ CHƠI',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Hưu Tịnh làm giám viện cho Lạc Phố. / ' +
+      'Một hôm Hưu Tịnh gõ chùy ra lệnh, “Chư tăng từ tòa thứ nhất đến tòa giữa, hãy ra đồng làm việc. Chư tăng còn lại, hãy vào núi đốn củi.” / ' +
+      'Ông tăng thủ tọa hỏi, “Còn Văn Thù làm gì?” / ' +
+      ' Ông tăng giám viện đáp, “Lệnh tôi chỉ đến các tăng ngồi trên tọa cụ. Chẳng dính dáng gì đến Văn Thù.” / ' +
+      'Như Huyễn: Chúng ta đọc trong kinh Kim Cang, “Này Tu- bồ-đề, nếu có người nói rằng Như Lai hoặc đến, hoặc đi, hoặc nằm, hoặc ngồi, người ấy chẳng hiểu nghĩa lời tôi dạy.” / ' +
+      ' Sau này Viên Ngộ bình rằng, “Hưu Tịnh tạo điều kỳ đặc. Pháp của ông tăng thủ tọa tuyệt hảo xỏ xâu được chín cái vỏ ốc.” / ' +
+      ' “Thế ấy được rồi, nhưng để mở vòng xích, tôi có pháp riêng.” / ' +
+      'Viên Ngộ nói tiếp, “Nếu tôi bị ông tăng thủ tọa hỏi cách ấy, tôi sẽ đáp, ‘Đường ấy giống như tấm gương. Nó không tự chuyển mà chiếu tất cả những gì hiện đến’.” / ',
+    commentBeforeVerseExtra:
+      'Genro: ' +
+      '# Nếu ai hỏi tôi - không chỉ xâu chín cái vỏ ốc hay mở các vòng xích - Văn Thù phải làm gì, tôi sẽ đánh y trước khi hỏi hết câu. Vì sao? Vì người cày ruộng và người đốn củi cũng chỉ làm theo lệnh. / ' +
+      '# Xỏ xâu chín vỏ ốc, / ' +
+      'Đập nát các vòng khoen, / ' +
+      ' Bánh xe Pháp tự chuyển. / ' +
+      ' Khổng Tử là hiền triết, / ' +
+      'Chẳng thắng được đàn bà. / ' +
+      'Cây thông già mọc trên, / ' +
+      'Tảng đá có tuyết phủ. / ' +
+      'Hoa mai sớm đón xuân, / ' +
+      'Mỉm cười trong hàng giậu.',
     commentBeforeVerse:
-      '',
+      'Fugai: ' +
+      'Một địa vị trọng trách. / ' +
+      '# Tướng ra lịnh cho ba quân. / ' +
+      '# Đúng là tăng thủ tọa. / ' +
+      '# Ông ta hiểu rõ địa vị của mình.  / ' +
+      '# Chẳng có gì tuyệt hảo đối với tôi. / ' +
+      '# Hãy xem nào. / ' +
+      '# Hãy đập cái gương đi. / ' +
+      '# Hưu Tịnh bày Pháp thân (Dharmakaya), Viên Ngộ nói Hóa thân (Nirmakaya), và Genro tả Báo thân (Sambogakaya). ' +
+      '# Chơn trí vận hành không suy nghĩ. / ' +
+      'Đại trí giống đại ngu. / ' +
+      'Bẩm sinh, không do tạo tác. / ' +
+      'Nó làm tôi rùng mình. / ' +
+      'Tôi yêu mùi thơm đó.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: ' +
+      '# Mỗi Thiền đường có một pho tượng hay một bức tranh Văn-thù hay Bồ-đề-đạt-ma. / ' +
+      '# Chúng ta đọc trong kinh Kim Cang, “Này Tu- bồ-đề, nếu có người nói rằng Như Lai hoặc đến, hoặc đi, hoặc nằm, hoặc ngồi, người ấy chẳng hiểu nghĩa lời tôi dạy.” / ' +
+      '# Có người hỏi Không Tử làm thế nào xỏ xâu được chín cái vỏ ốc, nhưng Khổng Tử không đáp được. / ' +
+      'Một người đàn bà bảo Khổng Tử đổ mật ong vào một đầu và cho một con kiến mang sợi chỉ từ đầu bên kia bò qua. / ' +
+      '# Ở Trung hoa còn có một câu hỏi khác là làm sao mở các vòng xích khóa lại với nhau. Không một ông thông thái nào giải đáp được, nhưng một người đàn bà đã dùng búa đập nát các vòng xích đó. / ' +
+      '# Thực ra đó là lệnh của Văn Thù.',
   },
 
   {
     id: 99,
-    title: 'TẮC THỨ 99: ',
+    title: 'TẮC THỨ 99: ĐẠI ĐIÊN BAO NHIÊU TUỔI',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Hàn Thối Chi * hỏi Đại Điên là người có ngôi chùa ở chỗ Hàn Thối Chi bị đày đến, “Hòa thượng bao nhiêu tuổi?” / ' +
+      'Đại Điên giơ xâu chuỗi ra, nói, “Ông hiểu không?” / ' +
+      'Hàn Thối Chi nói, “Không, tôi không hiểu”. / ' +
+      'Đại Điên đáp, “Ban ngày một trăm lẻ tám hạt chuỗi, ban đêm cũng một trăm lẻ tám hạt chuỗi”. / ' +
+      'Hàn Thối Chi rất bực mình vì không hiểu được ông tăng già này, và trở về nhà. / ' +
+      'Về đến nhà, vợ ông ta hỏi, “Có việc gì mà ông không hài lòng?” / ' +
+      'Lúc ấy nhà học giả kể cho vợ nghe tất cả chuyện đã xảy ra. / ' +
+      'Bà vợ gợi ý, “Sao ông không trở lại chùa hỏi ông tăng già ấy ông ta muốn nói gì?” / ' +
+      'Hôm sau, trời vừa sáng nhà Khổng học đã đến chùa và gặp ông tăng thủ tọa tại cổng. / ' +
+      'Ông tăng thủ tọa hỏi, “Sao ngài đến đây sớm vậy?” / ' +
+      'Hàn Thối Chi đáp, “Tôi muốn gặp thầy của huynh để hỏi một câu.” / ' +
+      '“Ngài có chuyện gì với hòa thượng?” Ông tăng thủ tọa hỏi, vì thế nhà Khổng học lặp lại câu chuyện. / ' +
+      'Ông tăng thủ tọa hỏi, “Sao ngài không hỏi tôi?” / ' +
+      'Lúc ấy Hàn Thối Chi hỏi, “Ngày một trăm lẻ tám hạt chuỗi, đêm một trăm lẻ tám hạt chuỗi, có nghĩa là gì?” / ' +
+      'Ông tăng thủ tọa nhịp răng 3 lần. / ' +
+      'Cuối cùng Hàn Thối Chi gặp Đại Điên và một lần nữa hỏi lại câu hỏi ấy, ngay đó ông thầy cũng nhịp răng 3 lần. / ' +
+      'Nhà Khổng học nói, “Tôi biết tất cả Phật pháp đều giống nhau.” / ' +
+      'Đại Điên đáp, “Ông không nói như vậy.” / ' +
+      'Hàn Thối Chi đáp, “Có. Vài phút trước đây tôi đã gặp ông thủ tọa ngoài cổng và cũng hỏi ông ta câu này. Ông ta trả lời tôi cũng y như vậy”. / ' +
+      'Đại Điên cho gọi ông tăng thủ tọa đến và nói, “Tôi hiểu vài phút trước đây ông đã chỉ bày Phật pháp. Có đúng không?” / ' +
+      'Ông tăng thủ tọa đáp, “Dạ đúng”. / ' +
+      'Đại Điên đánh ông thủ tọa và đuổi liền ra khỏi chùa.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      'Tại sao ông tăng thủ tọa bị trục xuất? Nếu đó là hình phạt, thì chính ông thầy cũng phải chịu y như vậy, tại sao ông thầy không tự trừng phạt mình? / ' +
+      'Nếu không phải ông ta bị trừng phạt, thì tại sao bị trục xuất? Đây là bí mật của giáo lý Thiền đã được truyền từ thế hệ này sang thế hệ khác. / ' +
+      'Nếu lúc đó Đại Điên bày tỏ Thiền của sư, thì không những sư làm hỏng người khác mà còn giết chết sự sống trí tuệ. / ' +
+      'Chư tăng, chớ để bị sấm sét kinh động thì sau đó các ông sẽ thấy sao trời vô số. ',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Ông ta tuổi khác ông. / ' +
+      '# Ông dùng thứ nữ trang ấy sao? / ' +
+      '# Ông không biết xâu chuỗi này là gì ư? / ' +
+      '# Ông không biết cách nào tốt hơn để xử lý ông học trò này sao? / ' +
+      '# Ông đang cố đóng đinh vào hư không chăng? / ' +
+      '# Đây chẳng phải chuyện đàn bà. / ' +
+      '# Như vậy thì có gì hay? Sao ông không tranh luận trường hợp của ông như ông đã phản kháng hoàng đế?  / ' +
+      '# May mắn là ông có được vợ hiền. / ' +
+      '# Bất hạnh quanh quẩn bước chân ông. / ' +
+      '# Sao không? / ' +
+      '# Ông biết ông ta ở đâu không? / ' +
+      '# Thầy chẳng bao giờ nói những lời này. Ông đang phỉ báng thầy. / ' +
+      '# Hãy tìm kinh Dịch. / ' +
+      '# Ông đang mời phiền phức đến. / ' +
+      '# Chớ nghĩ rằng ông thấy Thiền. / ' +
+      '# Mặt trăng chỉ là một, nhưng chiếu khắp núi, khe khác nhau. / ' +
+      '# Ông chuẩn bị vây máu chưa? / ' +
+      '# Ông nói cái gì? Chuyện này trước kia chưa bao giờ xảy ra. / ' +
+      '# Mặt trận động rồi. / ' +
+      '# Kẻ ngu này chẳng biết cách chuyển mình. / ' +
+      '# Giáp giết người mà Ất bị treo cổ. / ' +
+      '# Cuối cùng, Đại Điên đã có bạn. / ' +
+      '# Nó kết thúc và khởi đầu. / ' +
+      'Mặt đối mặt thấy rõ ràng. / ' +
+      'Đã có cơ hội tốt.] / ' +
+      'Khi đổi đất thì luôn luôn như vậy. / ' +
+      'Tấm gương của ông không được đánh / ' +
+      'Bóng kỹ lưỡng. / ' +
+      'Ông ta nghĩ rằng nó được nhập cảng, / ' +
+      'nhưng thực ra nó được làm ở Trung hoa.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: Lên rồi!',
   },
 
   {
     id: 100,
-    title: 'TẮC THỨ 100: ',
+    title: 'TẮC THỨ 100: QUI SƠN PHƯƠNG TRƯỢNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Trên tường phòng của Qui Sơn có một bài kệ: / ' +
+      '“Phương trượng của Qui Sơn, / ' +
+      'Dốc quá không thể trèo / ' +
+      'Nếu có ai vào đó, / ' +
+      'Sẽ thành đại tướng quân.” / ' +
+      'Vân Phong nói về bài kệ, “Qui Sơn sanh ra đã là Thiền sư”. / ' +
+      'Một ông tăng hỏi Vân Phong, “Hòa thượng sắp làm thơ gì cho phòng của hòa thượng?” / ' +
+      'Vân Phong đáp bằng cách giơ ra bài thơ của sư:  / ' +
+      '“Phương trượng của Thúy Nham / ' +
+      'Không bao giờ có cửa. / ' +
+      'Tăng nào vào trong đó, / ' +
+      'Tức khắc thấy Thúy Nham”. / ' +
+      'Ông tăng lễ bái và đứng lên. / ' +
+      'Vân Nham nói, “Ông có thấy Thúy Nham không?” / ' +
+      'Ông tăng ngập ngừng. / ' +
+      'Vân Nham đánh phất tử vào miệng ông tăng.',
+    commentBeforeVerseExtra:
+      'Genro: / ' +
+      '# Phòng của Qui Sơn khó thấy nhưng dễ vào. / ' +
+      'Phòng của Thúy Nham dễ thấy nhưng khó vào. / ' +
+      'Trong phòng của tôi cũng có một bài thơ: / ' +
+      'Trống không chẳng trong, ngoài. / ' +
+      'Nếu chẳng có trong, ngoài, / ' +
+      'Tôi hỏi tăng các ông, / ' +
+      'Làm sao mà vào được? / ' +
+      '# Vách đứng ngón chân bám; / ' +
+      'Đất bằng dấu bẩy cọp. / ' +
+      'Mỗi mỗi lập chùa riêng, / ' +
+      'Tùy theo thói nhà họ. / ' +
+      'Nghiệp vàng còn lấp lánh.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Nó được xây lúc nào? / ' +
+      '# Tôi có thể bước đi như trên đất bằng. / ' +
+      '# Hãy bước cẩn thận. / ' +
+      '# Chớ quên còn một đại tướng quân khác nữa. / ' +
+      '# Táo ngào đường! / ' +
+      '# Hỏi hay lắm. / ' +
+      '#  Kẻ bắt chước! / ' +
+      '# Khó vào đó. / ' +
+      'Ông ta đang đi trên lưỡi kiếm / ' +
+      'Đang trượt băng / ' +
+      '# Ông ta có gì để nói? / ' +
+      '# Chung quanh toàn là kẽm gai. / ' +
+      '# Tôi đã nói rồi, ông ta không thể vào được. / ' +
+      '# Kìa! Cửa mở rồi. / ' +
+      '# Tôi chẳng vào phòng đó. / ' +
+      '# Trên dốc dứng có phần bằng. / ' +
+      'Trên đất bằng có chỗ dốc đứng. / ' +
+      'Phải làm những hành động ngu ngốc để độ kẻ khác. / ' +
+      'Đời này sang đời khác mang phiền phức bất tận. ',
     commentAfterVerse:
       '',
   },
