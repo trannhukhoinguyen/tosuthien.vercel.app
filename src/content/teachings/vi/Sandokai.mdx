@@ -1,0 +1,25 @@
+---
+title: "THAM ĐỒNG KHẾ"
+meta_title: "THAM ĐỒNG KHẾ"
+description: "THAM ĐỒNG KHẾ"
+date: 2024-11-04
+image: "/images/meta-image-wide.jpg"
+tags: ['Alert']
+draft: false
+---
+
+import VintagePost from "../../../layouts/components/VintagePost.astro";
+import Sandokai from "../../../db/teachings/vi/Sandokai.tsx";
+
+<div style="width: 50%; margin: auto">
+  <Youtube client:load id={Sandokai?.youtubeId} title={Sandokai?.title} />
+</div>
+
+<VintagePost
+  hasMultiParagraph={true}
+  bookTitle={ Sandokai?.title }
+  author={ Sandokai?.author }
+  image={ Sandokai?.image }
+  intro={ Sandokai?.intro }
+  longVerse={ Sandokai?.verse }
+/>

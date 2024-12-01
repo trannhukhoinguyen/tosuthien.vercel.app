@@ -1,5 +1,6 @@
 const XinxinMing = {
-  title: "Tín Tâm Minh",
+  title: "TÍN TÂM MINH",
+  youtubeId: "",
   subTitle: "Việt Dịch: Đỗ Đình Đồng",
   author: "[Thiền sư] Tam Tổ Tăng Xán",
   image: "/images/teachings/xinxinming-wide.jpg" || "/images/teachings/xinxinming-tall.jpg",

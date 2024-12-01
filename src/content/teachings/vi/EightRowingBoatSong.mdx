@@ -1,0 +1,25 @@
+---
+title: "BÁT TRẠO CA"
+meta_title: "BÁT TRẠO CA"
+description: "BÁT TRẠO CA"
+date: 2024-11-04
+image: "/images/meta-image-wide.jpg"
+tags: ['Alert']
+draft: false
+---
+
+import VintagePost from "../../../layouts/components/VintagePost.astro";
+import EightRowingBoatSong from "../../../db/teachings/vi/EightRowingBoatSong.tsx";
+
+<div style="width: 50%; margin: auto">
+  <Youtube client:load id={EightRowingBoatSong?.youtubeId} title={EightRowingBoatSong?.title} />
+</div>
+
+<VintagePost
+  hasMultiParagraph={true}
+  bookTitle={ EightRowingBoatSong?.title }
+  author={ EightRowingBoatSong?.author }
+  image={ EightRowingBoatSong?.image }
+  intro={ EightRowingBoatSong?.intro }
+  longVerse={ EightRowingBoatSong?.verse }
+/>

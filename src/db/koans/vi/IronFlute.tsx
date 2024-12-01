@@ -577,24 +577,24 @@ const IronFlute = [
       'Như Huyễn:  Thiền tăng thường du hành bằng chân, đôi khi phải leo những ngọn núi không có lối mòn và vượt qua những dòng sông không biết tên, họ đem theo cây gậy dài cao hơn họ. Phần Dương đã hành cước nhiều năm khi sư còn trẻ, viếng hơn bảy mươi bậc thầy, vì vậy đã giữ cây gậy của mình làm vật kỷ niệm. Trong câu chuyện sư dùng cây gậy bày tỏ Thiền của sư với tăng chúng. Nó chẳng phải là vật kỷ niệm. Nó chẳng phải là một biểu tượng. Nó là cái gì? Quí vị không thể thấy nó bằng mắt. Quí vị không thể nắm nó bằng tay. Quí vị không thể ngửi nó bằng mũi. Quí vị không thể nghe nó bằng tai. Quí vị không thể nếm nó bằng lưỡi. Quí vị không thể hình thành nó bằng ý nghĩ. Đây, nó đây!',
     commentAfterVerse:
       'Genro: Chư Phật quá khứ, hiện tại và vị lai nhập vào Phật giới khi các ngài hiểu cây gậy này. Tất cả chư Tổ đời này sang đời khác thành tựu qua cây gậy này. Lời Phần Dương nói đúng; không ai phủ nhận được. Tuy nhiên, tôi phải nói rằng ai hiểu được cây gậy sẽ bắt đầu hành cước thay vì chấm dứt hành cước. / ' +
-'Tích trượng dài bảy thước!/ ' +
-'Bất cứ ai hiểu được/ ' +
-'Có thể nuốt đất trời./ ' +
-'Kẻ đi nam hay bắc / ' +
-'Đều ở trong cửa ta / ' +
-'Trước khi rời cửa này, / ' +
-'Thì phải dứt hành cước / ' +
-'Cao Đình bên kia sông / ' +
-'Lễ Đức Sơn vẫy quạt / ' +
-'Ngay đó Cao Đình ngộ / ' +
-'Huyền Sa ráng leo núi / ' +
-'Để gặp thầy của mình, / ' +
-'Bị té chân chảy máu / ' +
-'Ngay lúc đó liền ngộ, / ' +
-'Và nói rằng “Đạt Ma / ' +
-'Chẳng có đến Trung hoa / ' +
-'Và kẻ thừa kế Tổ / ' +
-'Chưa từng đến Ấn độ.”',
+    'Tích trượng dài bảy thước!/ ' +
+    'Bất cứ ai hiểu được/ ' +
+    'Có thể nuốt đất trời./ ' +
+    'Kẻ đi nam hay bắc / ' +
+    'Đều ở trong cửa ta / ' +
+    'Trước khi rời cửa này, / ' +
+    'Thì phải dứt hành cước / ' +
+    'Cao Đình bên kia sông / ' +
+    'Lễ Đức Sơn vẫy quạt / ' +
+    'Ngay đó Cao Đình ngộ / ' +
+    'Huyền Sa ráng leo núi / ' +
+    'Để gặp thầy của mình, / ' +
+    'Bị té chân chảy máu / ' +
+    'Ngay lúc đó liền ngộ, / ' +
+    'Và nói rằng “Đạt Ma / ' +
+    'Chẳng có đến Trung hoa / ' +
+    'Và kẻ thừa kế Tổ / ' +
+    'Chưa từng đến Ấn độ.”',
   },
 
   {
@@ -1617,30 +1617,28 @@ const IronFlute = [
     commentAfterVerseExtra:
       'Genro: / ' +
         'Thiền của ông ta chưa chín. Lời nói vô vị. / ' +
-      '',
+      'Cây thánh không rễ / ' +
+      'Mà mang quả thánh / ' +
+      'Có bao nhiêu vậy? / ' +
+      'Một, hai, ba . . . / ' +
+      'Quả thì không đỏ / ' +
+      'Quả cũng không xanh / ' +
+      'Tự ra tay lấy / ' +
+      'Quả cứng như sắt / ' +
+      'Khi viên chức kia / ' +
+      'Cố ra sức cắn / ' +
+      'Quả của Vân Môn / ' +
+      'Ở trong Am Thánh / ' +
+      'Y mất hết răng / ' +
+      'Ở trong quả ấy / ' +
+      'Y không biết nó / ' +
+      'Lớn đủ để che / ' +
+      'Cả đất lẫn trời. / ' +
+      'Tất cả chúng sanh / ' +
+      'Trọn chứa trong đó.',
     commentBeforeVerse:
-      'Fugai: ' +
-      'Tôi yêu quả xanh đó.',
-    commentAfterVerse:
-    'Cây thánh không rễ / ' +
-    'Mà mang quả thánh / ' +
-    'Có bao nhiêu vậy? / ' +
-    'Một, hai, ba . . . / ' +
-    'Quả thì không đỏ / ' +
-    'Quả cũng không xanh / ' +
-    'Tự ra tay lấy / ' +
-    'Quả cứng như sắt / ' +
-    'Khi viên chức kia / ' +
-    'Cố ra sức cắn / ' +
-    'Quả của Vân Môn / ' +
-    'Ở trong Am Thánh / ' +
-    'Y mất hết răng / ' +
-    'Ở trong quả ấy / ' +
-    'Y không biết nó / ' +
-    'Lớn đủ để che / ' +
-    'Cả đất lẫn trời. / ' +
-    'Tất cả chúng sanh / ' +
-    'Trọn chứa trong đó.',
+      'Fugai: Tôi yêu quả xanh đó.',
+
   },
 
   {
@@ -1648,155 +1646,481 @@ const IronFlute = [
     title: 'TẮC THỨ 62: NAM TUYỀN AM NHỎ',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      'Một hôm, khi Nam Tuyền đang ở trong một cái am nhỏ trên núi, một ông tăng lạ mặt đến viếng lúc sư đang chuẩn bị ra rẫy làm việc. Nam Tuyên mời đón ông tăng, “Xin hãy tự nhiên. Cứ nấu bất cứ thứ gì huynh thích để ăn trưa. Rồi mang cho tôi thức ăn còn lại, đi theo con đường chỉ đi tới chỗ tôi làm.” Nam Tuyền làm việc cực nhọc cho đến chiều rồi trở về am, bụng rất đói. Ông tăng lạ đã nấu xong, thưởng thức bữa ăn một mình, vất hết thức ăn còn lại và đập bể tất cả nồi niêu. Nam Tuyền thấy ông tăng ngủ yên lành trong am trống, nhưng khi sư nằm sải tấm thân mệt nhọc bên cạnh người khách lạ, thì y chổi dậy và đi mất. Mấy năm sau, Nam Tuyền kể lại câu chuyện dật sử này cho tăng chúng nghe với lời bình rằng, “Y là một ông tăng tốt, ngay cả bây giờ tôi vẫn nhớ y.”',
+      'Một hôm, khi Nam Tuyền đang ở trong một cái am nhỏ trên núi, một ông tăng lạ mặt đến viếng lúc sư đang chuẩn bị ra rẫy làm việc. / ' +
+      'Nam Tuyên mời đón ông tăng, “Xin hãy tự nhiên. Cứ nấu bất cứ thứ gì huynh thích để ăn trưa. / ' +
+      'Rồi mang cho tôi thức ăn còn lại, đi theo con đường chỉ đi tới chỗ tôi làm.” / ' +
+      'Nam Tuyền làm việc cực nhọc cho đến chiều rồi trở về am, bụng rất đói. / ' +
+      'Ông tăng lạ đã nấu xong, thưởng thức bữa ăn một mình, vất hết thức ăn còn lại và đập bể tất cả nồi niêu. / ' +
+      'Nam Tuyền thấy ông tăng ngủ yên lành trong am trống, nhưng khi sư nằm sải tấm thân mệt nhọc bên cạnh người khách lạ, thì y chổi dậy và đi mất. / ' +
+      'Mấy năm sau, Nam Tuyền kể lại câu chuyện dật sử này cho tăng chúng nghe với lời bình rằng, “Y là một ông tăng tốt, ngay cả bây giờ tôi vẫn nhớ y.”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Chắc chắn Nam Tuyền đã sống thích thú với cô tịch, hình thành thứ Thiền riêng của sư. / ' +
+      'Ông tăng lạ mặt muốn sư tự do tự tại với tất cả các hình thức quan niệm, nhưng biết rằng tranh luận sẽ không bao giờ thuyết phục được Nam Tuyền. / ' +
+      'Nam Tuyền nhận thức được những gì ông tăng lạ mặt cố gắng chỉ bày cho sư, vì thế nằm xuống ngủ trong am trống, nhưng cái trống không này không phải là nhà thật cho Thiền tăng. / ' +
+      'Ông tăng lạ mặt kia ra đi để lại Nam Tuyền trong thế giới mới của sáng tạo. / ' +
+      'Thiền đoạt lấy thức ăn của người đói, đoạt lấy kiếm của chiến sĩ. Bất cứ thứ gì mà một người tự ràng buộc mình vào đó nhiều nhất là nguyên nhân đích thực của đau khổ. / ' +
+      'Ông tăng lạ mặt không muốn cho Nam Tuyền thứ gì hết trừ sự giải thoát. ' +
+      'Sau này, khi Nam Tuyền nói cho tăng chúng biết sư nhớ cái tên ăn cắp vặt ngày xưa như thế nào, sư đã sống thích thú với sự giải thoát chân thực với lòng biết ơn mãi mãi đối với vị thầy vô danh này.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 63,
-    title: 'TẮC THỨ 63: ',
+    title: 'TẮC THỨ 63: DƯỢC SƠN THUYẾT PHÁP',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một thời gian qua, không thấy Dược Sơn nói pháp cho tăng chúng, cuối cùng ông tăng thủ tọa đến nói với sư, “Tăng chúng nhớ hòa thượng nói pháp”. / ' +
+      'Dược Sơn bảo, “Vậy thì đánh chuông đi.” ' +
+      'Khi tất cả tăng chúng tụ tập trong pháp đường, Dược Sơn liền trở về phòng không nói một lời. / ' +
+      'Ông tăng thủ tọa đi theo sư, nói, “Hòa thượng bảo sẽ nói pháp. Sao chẳng nói?” / ' +
+      'Dược Sơn đáp, “Kinh có pháp sư giảng, luận có luận sư nói. Tại sao còn phiền đến lão tăng này?”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Một Thiền sư là thí dụ cụ thể cho những gì kinh điển dạy, luận là lời giải thích về kinh. / ' +
+      'Nếu một người có thể sống như Phật đã dạy, thì kinh và luận không còn ý nghĩa gì đối với y. / ' +
+      'Dược Sơn đã nói pháp cho những người mới bắt đầu - ngón tay chỉ mặt trăng - nhưng từ sáng đến tối và từ tối đến sáng, cách sống của sư đã là một bài pháp thường xuyên cho tăng chúng. ' +
+      'Bài pháp này là bài pháp chân thực. Nếu có tăng nhân nào bỏ qua, không nhìn thấy bài pháp không lời này thì y không đáng học Thiền. Ông tăng thủ tọa đáng nhận ba chục hèo. / ' +
+      'Khi Đức Sơn ngộ được đạo lý Thiền, sư lập tức đem tất cả bộ sớ sao về kinh Kim Cương mà sư đã có thời gian coi là vô giá và bất khả ly thân, ném vào lửa. / ' +
+      'Khi chúng cháy thành tro, sư nói, “Dù cho tri thức về triết lý tuyệt đối của ông thâm sâu bao nhiêu thì cũng chỉ như mảnh lông đặt trong hư không mênh mông. / ' +
+      'Dù cho kinh nghiệm thế gian của ông quan trọng đến đâu thì cũng chỉ như giọt nước ném vào hố thẳm không đáy”. / ' +
+      'Hồng Xuyên Tông Ôn, là thầy của Thích Tông Diễn, đã nói, “Dù cho một triệu quyển kinh cũng chỉ là ánh sáng của ngọn đèn cầy so với mặt trời khi ông so sánh chúng với kinh nghiệm ngộ thực tế”. / ' +
+      'Tôi không có ý làm quí vị chán nản việc học Phật giáo qua sách vở. / ' +
+      'Tây phương ngày nay cần có pháp sư và luận sư. Nó cũng cần một cách cấp thiết người tu Thiền thường xuyên như Dược Sơn.',
     commentAfterVerse:
-      '',
+      'Genro: / ' +
+      'Thiền của Dược Sơn / ' +
+      'Giống như trăng rằm / ' +
+      'Ánh sáng bàng bạc / ' +
+      'Xuyên thấu ngàn dặm / ' +
+      'Kẻ ngu bịt mắt / ' +
+      'Không thấy đạo Thiền / ' +
+      'Tiếng chuông gọi chúng / ' +
+      'Thầy già về hưu / ' +
+      'Một bức tranh Thiền / ' +
+      'Thật đẹp làm sao! / ' +
+      'Một bài pháp Thiền / ' +
+      'Thâm sâu vi diệu!',
   },
 
   {
     id: 64,
-    title: 'TẮC THỨ 64: ',
+    title: 'TẮC THỨ 64: CẢNH THANH GẬY TO',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Cảnh Thanh hỏi một ông tăng mới, từ đâu đến. / ' +
+      'Ông tăng đáp, “Từ Tam Sơn đến”. / ' +
+      'Rồi Cảnh Thanh hỏi, “Mùa an cư vừa rồi ở đâu?” / ' +
+      'Ông tăng đáp, “Ở Ngũ Nhạc”. / ' +
+      'Cảnh Thanh nói, “Tôi sẽ đánh ông 30 gậy bự này” / ' +
+      'Ông tăng hỏi, “Tại sao con đáng ăn gậy của hòa thượng?” / ' +
+      'Cảnh Thanh đáp, “Tại vì ông bỏ chùa này tới chùa kia.”',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Khi một tăng nhân mới đến chùa gặp thầy, ông ta thường được hỏi là ông từ đâu đến. / ' +
+      'Ông tăng trong câu chuyện này nghĩ rằng không cần thiết phải thông báo tin tức này vì nó là chuyện riêng của ông ta. / ' +
+      'Ông ta đáp, “Tam sơn”, “Ngũ nhạc” là nói bừa, chẳng phải địa danh. Một tăng nhân phải ở lại chùa từ ngày 15 tháng tư đến ngày 15 tháng bảy, để an cư thiền định. / ' +
+      'Từ 15 tháng bảy đến 15 tháng mười, ông ta được hành cước tự do theo ý muốn và tự chọn bất cứ một ngôi chùa nào ông thích để cho mùa an cư kế tiếp từ 15 tháng mười đến 15 tháng giêng năm sau. / ' +
+      'Rồi từ 15 tháng tư trở đi ông ta lại được tự do đến, đi tùy ý. / ' +
+      ' Ông tăng này là người lương thiện, chắc chắn tuân theo giới luật. / ' +
+      'Ông ta nghĩ mình tự do lang thang theo sở thích chừng nào còn hợp giới luật, mà rốt cùng, ông ta là tăng nhân, không phải là một tên la cà vất vưởng. / ' +
+      'Tên của chúng ta chỉ là để nhận diện với nhau, nhưng khi một người tự đặt cho cái tên nào đó, y trở thành gắn chặt với nó. / ' +
+      'Một người không có tên, cũng như một chỗ không có tên, sẽ không hiện hữu khi đưa vào so sánh. / ' +
+      'Không phải ông tăng này đang bám vào sự tự do tưởng tượng hay sao? / ' +
+      'Mặc dù giáo lý của sư nhằm đạt sự giải thoát tuyệt đối, Bồ- đề-đạt-ma rất nghiêm khắc trong việc quản lý các đệ tử.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 65,
-    title: 'TẮC THỨ 65: ',
+    title: 'TẮC THỨ 65: VẬT KỲ DIỆU NHẤT',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng đến hỏi Bách Trượng, “Vật gì kỳ diệu nhất thế gian?” / ' +
+      'Bách Trượng đáp, “Tôi ngồi trên đỉnh núi này”. / ' +
+      'Ông tăng chắp tay lễ bái. / ' +
+      'Ngay lúc đó Bách Trượng đánh ông tăng một gậy.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Ông tăng đến Bách Trượng mong được nghe một lời dạy phi thường hay được chứng kiến một hiện tượng phép lạ, ' +
+      'nhưng Bách Trượng tiếp ông ta trong một căn phòng trống với quan cảnh bình thường, “Tôi ngồi trên đỉnh núi này”. / ' +
+      'Đây không phải là vật kỳ diệu nhất trên thế gian sao? Trong Chứng Đạo Ca, đại sư Vĩnh Gia nói, “Khi vào thế giới vô sắc sẽ cùng Như Lai thấy nhau”. / ' +
+      'Ông tăng chắp tay lễ bái ông Phật sống, nhưng ngay lúc ấy Bách Trượng đánh ông ta một gậy để đánh tan hình ảnh ấy. / ' +
+      'Từ đỉnh núi đến lời nói, “Kẻ vô minh chấp chứa những ý nghĩ dừng và không dừng, trong khi người giác ngộ chẳng có thích hay không thích. / ' +
+      'Tất cả mọi hình thức là do kẻ vô minh tự bày ra. / ' +
+      'Chúng giống như cái thấy hoa đốm trong hư không. / ' +
+      'Tại sao chúng tự gánh lấy phiền não mà chấp giữ chúng? / ' +
+      'Được và mất, đúng và sai; tất cả những cái đó, hãy một lần buông sạch”.' +
+      'Mừng cho quí vị!',
     commentAfterVerse:
       '',
   },
 
   {
     id: 66,
-    title: 'TẮC THỨ 66: ',
+    title: 'TẮC THỨ 66: ĐẠO NGÔ ĐẠO LÝ THÂM SÂU',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Đạo Ngô đang thiền định trên tòa cao thì một ông tăng đến hỏi, “Thế nào là đạo lý thâm sâu vĩ đại nhất?” / ' +
+      'Đạo Ngô liền bước xuống tòa, quì trên sàn và nói,“Ông từ xa đến đây, nhưng xin lỗi, tôi không có gì để đáp ông”.',
+    commentBeforeVerseExtra:
+      'Genro: ' +
+      '# Coi kìa, sư huynh! Huynh đang tự dìm mình trong biển sâu. / ' +
+      'Tôi sẽ nói rằng Đạo Ngô chắc chắn có đạo lý thâm sâu vĩ đại trong Thiền của sư. / ' +
+      '# Biển sâu vĩ đại! / ' +
+      'Bốn hướng không biên / ' +
+      'Đạo Ngô bước xuống / ' +
+      'Từ trên tòa cao, / ' +
+      'Không có độ sâu / ' +
+      'Cũng không có nước',
     commentBeforeVerse:
-      '',
+      'Như Huyễn:  ' +
+      '# Vâng, đúng vậy. Ông tăng này không nhận ra mình đang trong nguy hiểm, dù cho ông ta sắp chết đuối. / ' +
+      'Toàn bộ không khí ngôi chùa của Đạo Ngô là độ sâu vĩ đại nhất của Thiền, nhưng ông tăng đã phát biểu nó như là một vật ở tận nơi nào. / ' +
+      'Tại sao ông ta không tham gia thiền định cùng với những người khác? / ' +
+      'Đầu tiên ông ta có thể không thấy gì cả, nhưng dần dần đám mù mê hoặc sẽ tan đi trong hơi ấm mặt trời. / ' +
+      'Ông thầy rất từ bi, nhưng vì giáo lý không cao cũng không thấp, không có bề mặt cũng không có đáy, không có gì để cho ông xem. / ' +
+      '# Lời tán gẫu trong gia đình như thế khiến tôi hổ thẹn! Ước gì ngay từ đầu không ai nói tiếng nào.',
     commentAfterVerse:
-      '',
+      'Fugai:' +
+      '# Tôi phải nói rằng thầy tôi biết chiều sâu Thiền của Đạo Ngô. / ' +
+      '# Bên kia lớn nhỏ / ' +
+      'Bên trên nông sâu / ' +
+      'Tôi sợ thầy yêu / ' +
+      'Nguy hiểm vì chìm / ' +
+      'Bởi tim ông lớn / ' +
+      'Yêu khắp chúng sanh',
   },
 
   {
     id: 67,
-    title: 'TẮC THỨ 67: ',
+    title: 'TẮC THỨ 67: CÀN PHONG LUÂN HỒI',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Can Phong hỏi, “Những người luân hồi trong 5 giới có loại mắt gì?”',
+    commentBeforeVerseExtra:
+      'Như Huyễn: / ' +
+      'Trong Tọa Thiền Hòa Tán, Bạch Ẩn nói, “Lý do chúng ta luân hồi trong năm giới là vì chúng ta bị lạc mất trong vô minh.” / ' +
+      'Vốn ở Ấn độ 5 giới được xếp loại như là những giai đoạn tâm lý, nhưng trong các bản dịch của Trung hoa vào các thời kỳ sớm nhất đã nhầm những danh từ tiêu biểu cho những cá nhân sống trong 5 thế giới khác nhau. / ' +
+      'Một cách vắn tắt, 5 giới là: / ' +
+      'Manusya, hoàn cảnh bình thường của tâm, giai đoạn của người; / ' +
+      'Asurya, khi chúng ta mất thăng bằng trong tình cảm và ham muốn; / ' +
+      'Tiryagyoni, tâm thú vật, khi năng lực lý trí biến mất và năm giác quan ngự trị; / ' +
+      'Preta, quỉ đói; / ' +
+      'Naraka, quỉ khổ. / ' +
+      'Càn Phong hỏi tăng chúng câu này là nỗ lực tiêu diệt mê hoặc của họ.',
+    commentAfterVerseExtra:
+      'Fugai: / ' +
+      'Những người không luân hồi trong năm giới có loại mắt gì?',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Một người có thể có nụ cười đáng yêu vào buổi sáng và bộ mặt giận giữ vào buổi chiều, là y đi từ thế giới người đến thế giới súc sinh trong một ngày. / ' +
+      'Mắt của y đầy tử tế vào buổi sáng và đầy oán ghét vào buổi chiều, nhưng Thiền không bàn đến loại mắt này. / ' +
+      'Meister Eckhart nói, “Tôi thấy Thượng đế với con mắt nào thì Thượng đế thấy tôi với con mắt ấy”. / ' +
+      'Quí vị sẽ nói, “Vậy thì, phải có hai loại mắt”. / ' +
+      'Không! Không! Dù Quan Thế Âm ngàn mắt cũng chỉ có một mắt chánh. / ' +
+      'Kẻ vô minh bị mê hoặc lừa, còn thánh nhân biết làm thế nào vào các các giai đoạn để độ chúng sinh thoát khổ. / ' +
+      'Một Bồ-tát sẽ không sợ hãi khi đi qua bãi chiến trường hay tay nắm tay cùng bước với quỉ đói ở tận đáy của thế giới quỉ khổ.',
     commentAfterVerse:
-      '',
+      'Genro: / ' +
+      'Thế giới là vườn tôi / ' +
+      'Chim hát bài hát tôi / ' +
+      'Gió thổi là hơi thở tôi / ' +
+      'Khỉ múa điệu múa tôi / ' +
+      'Cá bơi là tự do của tôi / ' +
+      'Trăng chiều đang phản chiếu / ' +
+      'Trên một ngàn cái hồ / ' +
+      'Nhưng khi bị núi che / ' +
+      'Tất cả ảnh đều mất / ' +
+      'Bóng không còn trên nước / ' +
+      'Tôi yêu từng đóa hoa xuân / ' +
+      'Từng chiếc lá thu vàng / ' +
+      'Mừng luân hồi vui vẻ!',
   },
 
   {
     id: 68,
-    title: 'TẮC THỨ 68: ',
+    title: 'TẮC THỨ 68: VÂN MÔN BA NGÀY',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
-    commentBeforeVerse:
-      '',
+      'Một hôm Vân Môn nói với tăng chúng, “Có câu nói rằng, ‘3 ngày có thể làm một người đổi khác’. / ' +
+      'Còn các ông thế nào?” Trước khi người ta có thể trả lời, sư lặng lẽ nói, “Một ngàn”.',
+    commentBeforeVerseExtra:
+      'Như Huyễn: / ' +
+      '# Câu nói này rất phổ biến trong giới văn học Trung hoa từ thế kỷ thứ ba sau Tây lịch, phát xuất từ câu chuyện một vị tướng quân có một người phụ tá ngu nhất xứ. / ' +
+      'Có lần vị tướng quân đề nghị người ngu kia đọc thêm sách. / ' +
+      'Không bao lâu sau đó vị tướng quân có công việc phải đi vắng, và khi trở về ông ta thấy rằng người phụ tá của mình không còn ngu nữa, với quan niệm thay đổi và tin tức nhiều hơn đã có được trong lúc xa nhau. / ' +
+      'Vị tướng quân rất hài lòng và ca ngợi người phụ tá, “Ba ngày có thể làm một người đổi khác”. / ' +
+      'Ignacy Paferewshi có lần nhận xét, / ' +
+      '“Nếu tôi không thực hành một ngày, tôi có thể nói ra sự đổi khác; ' +
+      'nếu tôi không thực hành hai ngày, người phê bình của tôi có thể nói ra sự đổi khác; ' +
+      'nếu tôi không thực hành 3 ngày, mọi người có thể nói ra sự đổi khác.” / ' +
+      'Số ngày không dính dáng gì với công án. / ' +
+      'Vào lúc đó một số tăng nhân dưới Vân Môn có thể hãnh diện về sự tiến nhanh của họ trong Thiền trong thời gian an cư và một số khác có thể hổ thẹn vì sự thiền định chậm tiến của họ bất chấp số năm họ đã ở với Vân Môn. / ' +
+      'Khi Vân Môn nói, “Một ngàn,” sư cũng không viện dẫn thời gian hay con số. / ' +
+      'Sư là một học giả Hoa Nghiêm dựa vào triết lý cho rằng một phút chứa trọn một ngàn năm và một ngàn năm chỉ là một phút. / ' +
+      'Câu trả lời của sư có tính cách chỉ dạy hơn khuyến khích. / ' +
+      '# Lúc ấy nếu có tôi ở đó, tôi có thể đứng lên cúi đầu lễ bái Vân Môn và chúc thọ lão sư vạn sự như ý. / ' +
+      '# Một thầy giáo dạy học luôn luôn đón mừng các học trò cũ đã trở thành học giả vĩ đại hay thương gia giàu có. / ' +
+      'Ngay từ đầu ông thầy đã biết học trò không phải là kẻ địch, mà sau này họ có thể cho ông uy tín vì phần của ông huấn luyện họ. / ' +
+      'Các Thiền sư - những người có thể có khuynh hướng làm mất uy tín các đồng nghiệp xưa trong các ngôi chùa cũ - nên tham đi tham lại công án này.',
+    commentAfterVerseExtra:
+      'Fugai: / ' +
+      'Nếu tôi có ở đó, tôi sẽ tát vào má Vân Môn một cái. / ' +
+      'Chẳng phải 3 ngày mà mọi hơi hít vào và thở ra đều có thể thay đổi một người. / ' +
+      '(Rồi, sau cái “1000” của Vân Môn) / ' +
+      'Vân Môn vẫn có cùng bộ mặt xưa.',
     commentAfterVerse:
-      '',
+      'Genro: / ' +
+      'Vân Môn mở cửa hàng tự mua tự bán, như vậy chẳng lời chẳng lỗ. / ' +
+      'Không trả giá được cái “Một ngàn” của sư. / ' +
+      'Tôi thà nói, “Vào thời của sư thì được còn như ngày nay thì chẳng được”. / ' +
+      'Ông không thể thấy ba ngày thay đổi một người sao?',
   },
 
   {
     id: 69,
-    title: 'TẮC THỨ 69: ',
+    title: 'TẮC THỨ 69: QUAN THƯỢNG THƯ',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Thượng thư Trần Tháo đi lên cầu thang với những người trong ban tham mưu của ông. / ' +
+      'Khi thấy một nhóm tăng nhân đi ngang qua dưới đường lộ, một trong các quan thuộc hạ hỏi, “Họ có phải là tăng nhân hành cước không?” / ' +
+      'Trần Tháo đáp, “Không”. / ' +
+      'Viên chức ấy hỏi, “Làm sao đại nhân biết họ không phải là tăng hành cước?” / ' +
+      '“Để khám nghiệm xem,” Trần Tháo đáp xong liền kêu to, “Này! chư tăng!” / ' +
+      'Nghe tiếng gọi, tất cả nhìn lên cửa sổ. / ' +
+      'Trần Tháo nói, “Đó! Không phải tôi đã nói với ông như vậy sao?”',
+    commentBeforeVerseExtra:
+      'Như Huyễn: / ' +
+      'Trần Tháo là đệ tử lâu năm trong Thiền và cũng là một quan chức cao cấp, trong khi đó các quan chức kém hơn ông ta đều là những đệ tử mới học Thiền. / ' +
+      'Ông ta muốn chỉ dạy họ về Thiền, như vậy đã đưa cuộc đối thoại này đến chỗ kết thúc đó. / ' +
+      'Câu chuyện này xảy ra trong một ngôi chùa hơn là trong một cơ quan chính quyền như vậy câu chuyện dật sử này chỉ nói đến Thiền và không nói đến điều gì khác. / ' +
+      'Một trong các viên chức nhận thức các ông tăng đang đi ngang đó với tâm phân biệt, đáng trách mắng vào lúc đó. / ' +
+      'Tiếng “Không” của Trần Tháo phủ nhận vô số sự phân biệt với tiếng “không” trường tồn; thuộc hạ của ông ta chỉ tranh luận về sự đồng nhất bề ngoài của những người hành cước. / ' +
+      'Nếu tôi là Trần Tháo, tôi sẽ nói, “Không,” nhưng Trần Tháo đã tử tế nói, “Để khám nghiệm xem”. / ' +
+      'Khi các ông tăng nhìn lên vì tiếng la của Trần Tháo, ông quan thuộc hạ có thể đã nghĩ, “Không phải tôi đã nói với ông như vậy sao?” / ' +
+      'Để đánh tan ý nghĩ ấy, Trần Tháo nói, “Đó! Không phải tôi đã nói với ông như vậy sao?” ',
     commentBeforeVerse:
-      '',
+      'Genro: / ' +
+      'Trần Tháo mắt nhìn nam mà tâm nghĩ bắc.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Một hôm Thích Tông Diễn tiếp một người khách là một nhà báo nổi tiếng. / ' +
+      'Trong khi uống trà, Thích Tông Diễn nói về chính trị và tình hình thế giới, cuối cùng ông khách nói, “Tôi biết tất cả những điều đó. Tôi đến đây học Thiền. / ' +
+      'Xin vui lòng cho tôi nghe về Thiền.” Thích Tông Diễn điềm nhiên đáp, “Đó là những gì tôi đang nói”. / ' +
+      'Lúc ấy nhà báo hiểu việc làm của sư và nhận tham thiền vào sáng và chiều, phát triển tánh cách siêu việt tất cả chuyện thế gian của tâm. / ' +
+      'Mấy năm qua tôi đã tiếp tục an cư trong phòng một khách sạn ở Seattle, tiếp khách đến tham gia thiền định với tôi. / ' +
+      'Một hôm khi một người say rượu bước vào nói, “Tôi hiểu các Thiền tăng hét, ‘Katz!’ Tôi muốn nghe ông hét.” Tôi đáp, “Ông không xứng đáng vào thiền định khi trong người ông có rượu. / ' +
+      'Làm ơn bước ra cho”. / ' +
+      'Ngày hôm sau ông ta lại đến, tham gia thiền định và tiếp tục suốt tuần lễ. Chúng tôi không nói mà cùng nhau thiền định. / ' +
+      'Năm sau tôi trở lại khách sạn đó và một lần nữa ông ta lại xuất hiện. Lần này chúng tôi thăm viếng và cùng nhau nghiên cứu. / ' +
+      'Tôi đặt tên cho ông ta là Cổ Đăng (Koto) có nghĩa là “Đèn Xưa.” Rồi nhiều năm trôi qua, không thêm một lời nào nữa cho đến khi tôi đọc về cái chết của ông ta trên báo. / ' +
+      'Bài xã luận nói là ông ta được giao trách nhiệm coi nhà máy cưa và đã chết trong khi chữa lửa để cứu một dụng cụ nào đó. / ' +
+      'Công ty của ông đã tôn vinh ông ta vì cái chết ấy, và tôi chắp hai tay lại nói, “Cổ Đăng vẫn còn cháy”. / ' +
+      'Tôi không bao giờ biểu diễn cho ông ta nghe tiếng hét bắt chước và ông ta cũng không bao giờ yêu cầu nữa.',
   },
 
   {
     id: 70,
-    title: 'TẮC THỨ 70: ',
+    title: 'TẮC THỨ 70: TRIỆU CHÂU TRỤ CHỖ NÀO',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một hôm khi Triệu Châu đến viếng thì Vân Cư nói, “Già rồi sao không tìm chỗ trụ đi”. / ' +
+      'Triệu Châu hỏi, “Trụ chỗ nào bây giờ?” / ' +
+      'Vân Cư đề nghị, “Phía sau núi có cái chùa cũ đổ nát.. / ' +
+      'Triệu Châu hỏi lại, “Sao ông không trụ ở đó đi?” / ' +
+      'Vân Cư không đáp. / ' +
+      'Sau đó Triệu Châu đến viếng Thù Du. / ' +
+      'Thù Du hỏi, “Già rồi sao không tìm chỗ trụ đi?” / ' +
+      'Triệu Châu lại hỏi như trước, “Trụ chỗ nào bây giờ?” / ' +
+      'Thù Du phản đối, “Ông còn không biết chỗ trụ trong lúc tuổi già nữa sao?” / ' +
+      'Lúc ấy Triệu Châu nói, “30 cưỡi ngựa chẳng sao, bữa nay lại bị té lừa”. ',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: Triệu Châu đi viếng hết sư này đến sư khác lúc sư đã sáu mươi tuổi và vẫn tiếp tục đi như một ông tăng hành cước đến khi sư tám mươi tuổi. / ' +
+      'Thiền của sư đã chín và dịu ngọt như rượu nho lâu năm, nhưng một vài tăng nhân và bậc thầy nghĩ rằng nó chưa đúng mùa. / ' +
+      'Khi Vân Cư đề nghị sư an trụ, Triệu Châu đã biết nhà thật của sư và không chỗ nào nằm bên ngoài nó, vì thế sư đáp, “Trụ ở đâu bây giờ,” là khôi hài. / ' +
+      'Triệu Châu, nhận thấy Vân Cư còn thiếu cái hiểu đầy đủ khi bám vào ấn tượng đầu tiên, đề nghị Vân Cư trụ ở cái chùa đổ nát đó. Vân Cư im lặng là chấp nhận sự đạt ngộ của Triệu Châu. / ' +
+      'Về sau Triệu Châu sống trong một Thiền viện và dạy nhiều tăng nhân, sư sống đến một trăm hai chục tuổi. / ' +
+      'Sư chẳng dùng “gậy to” cũng chẳng hò hét như các sư khác, lời sư nói ít nhưng đầy Thiền. / ' +
+      'Các Thiền sư Trung hoa và Nhật bản sống ở các chùa hay viện do các nhà quí tộc trợ cấp. / ' +
+      'Những ông tăng ngu bám vào sự hào nhoáng và danh vọng của những chỗ trú tạm thời không lưu tâm đến sự đạt ngộ của ông thầy. / ' +
+      'Triệu Châu đã tự giải thoát mình ra khỏi những tiêu chuẩn giả dối này khi sư trắc nghiệm cái hiểu của các ông thầy đã thành danh trong lúc sư hành cước. / ' +
+      'Có điều hầu như đáng tiếc là về sau sư đã sống trong một Thiền viện và không còn tiếp tục trôi nổi bồng bềnh như một đám mây trời. / ' +
+      'Trên thế giới, cùng với tín đồ Phật giáo là những người dấu sự đạt ngộ của họ nhưng ảnh hưởng tới người khác như các thầy Sufi, Rinds hay Dervishes đã làm. ',
     commentAfterVerse:
       '',
   },
 
   {
     id: 71,
-    title: 'TẮC THỨ 71: ',
+    title: 'TẮC THỨ 71: VÂN MÔN NẾP NHÀ',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng hỏi Vân Môn, “Thế nào là nếp nhà của hòa thượng?” / ' +
+      'Vân Môn đáp, “Ông chẳng nghe học sinh đến nhà này học đọc học viết sao?"',
+    commentBeforeVerseExtra:
+      'Như Huyễn: / ' +
+      '# Mỗi Thiền sư tiếp người đến học Thiền theo cách riêng của họ. Ở Nhật, những người thừa kế Bạch Ẩn nhận người học từng người một và dùng công án để khảo nghiệm cái hiểu của họ. / ' +
+      'Độc Viên thường tiếp tục hút thuốc khi người học vào phòng tham thiền, mỉm cười với người học, không nói một lời hay bỗng nhiên cười lớn khi người học trình cái thấy của mình về công án, rồi rung chuông cho lui trước khi người học có thể lễ bái lần thứ nhì. / ' +
+      'Kando thì để cây gậy ngay trước chỗ ngồi và bảo người học, “Hãy đến gần hơn. Tôi già rồi nghe khó lắm”. / ' +
+      'Khi người học đến vừa tầm, sư liền lấy gậy đánh. / ' +
+      'Tôi đã có lần kinh nghiệm gia phong của sư trong lúc tham thiền, khi sư bảo tôi đến gần hơn, tôi tiến đến vừa đủ để nắm lấy cây gậy của sư khi tôi trình kiến giải của tôi về công án. / ' +
+      'Thích Tông Diễn thường thay đổi chỗ ngồi, nhất là vào buổi chiều, vì vậy người học không thể thấy sư ngay. / ' +
+      ' Vào thời của Vân Môn không có phương pháp ổn định khi nhận tham thiền. Các ông tăng tiến đến gần sư bất cứ khi nào có cơ hội: ngoài vườn, trong hành lang, hay ngay cả lúc sư đang tắm. / ' +
+      'Câu chuyện này xảy ra gần cổng ngoài, nơi đây trẻ con đang đi ngang qua trên đường đến trường. / ' +
+      'Vân Môn tiếp tất cả người trong thiên hạ như đệ tử của sư, ngay cả trẻ con trong trường học cũng bắt đầu nhận sự hướng dẫn của sư mặc dù chưa từng gặp hay biết sư. / ' +
+      'Ở đây sư chỉ bày triết lý Hoa Nghiêm: Một là nhiều và nhiều là một. / ' +
+      ' Nếu đọc những cuộc đối thoại Thiền thời nhà Đường hay nhà Tống, quí vị sẽ thấy sau khi nói pháp các sư ban sự hướng dẫn cá nhân cho những ai bước lên đặt câu hỏi. / ' +
+      'Theo kinh điển thì Phật cũng dạy theo cách này, nhưng khi giáo lý truyền đến Nhật bản, phương pháp này dần dần trở thành một phần của nghi thức hay nghi lễ, tạo nên sự phù phiếm và tham vọng trong giới đệ tử cố đẩy ông thầy vào góc tường, hay dàn cảnh. / ' +
+      'Nó giống như một màn biểu diễn rẻ tiền trên đường phố. Để tránh tình trạng này, Bạch Ẩn bắt đầu biện pháp bắt buộc đệ tử đến phòng tham thiền của sư riêng từng người một, buổi sáng và buổi chiều, dù họ có kiến giải hay không. / ' +
+      'Tuy nhiên, phương pháp này cuối cùng cũng đến phiên trở thành nghi thức đối với những đệ tử quan tâm đến sự đậu rớt trong các kỳ thi. Thật là lạc xa tư tưởng Thiền. / ' +
+      ' Vào thời Vân Môn, các nhà Khổng học cống hiến sự giáo dục thông thường, nhấn mạnh luân lý hơn là học thức. / ' +
+      'Vân Môn nhấn mạnh một cách có mục đích quan điểm đạo đức khích lệ tăng nhân giữ giới luật hằng ngày trước khi phát biểu triết lý siêu việt. / ' +
+      '# Nếu một Thiền tăng không làm gì khác hơn là chiếm chỗ của thầy giáo nhà trường, thì ông ta là một Thiền tăng lý tưởng. / ' +
+      'Ông ta không cần che dấu gia phong dể dụ mấy ông tăng hành cước.',
     commentBeforeVerse:
-      '',
+      'Genro: / ' +
+      'Vân Môn sẽ không có nhiều đệ tử bằng cách này khi họ đến để lượm lặt các thứ gia phong hấp dẫn. ',
     commentAfterVerse:
-      '',
+      'Fugai: / ' +
+      'Có lẽ Vân Môn không làm gì hơn là chiếm lấy chỗ của thầy giáo nhà trường.',
   },
 
   {
     id: 72,
-    title: 'TẮC THỨ 72: ',
+    title: 'TẮC THỨ 72: BẢO THỌ QUAY LƯNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Triệu Châu đến viếng Bảo Thọ. / ' +
+      'Chợt thấy Triệu Châu, Bảo Thọ liền quay lưng về phiá Triệu Châu. / ' +
+      'Triệu Châu trải tọa cụ mang theo xuống lễ bái Bảo Thọ. / ' +
+      'Bảo Thọ liền đứng lên quay mặt lại Triệu Châu. / ' +
+      'Triệu Châu nhặt tọa cụ lên và bỏ đi.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Ở Ấn độ, một ông tăng có y trong, y ngoài và một tấm nệm làm mền đắp ban đêm hay làm vật để ngồi vào ban ngày. / ' +
+      'Mặc dù tấm nệm này đủ cho thời tiết ở Ấn độ và Tích lan, nhưng nó đã trở thành một biểu tượng nghi thức cho tăng nhân ở vùng lạnh phía bắc Trung hoa. / ' +
+      ' Thiền của Bảo Thọ đã tinh luyện. / ' +
+      'Sư đã biến mình thành một viên thủy tinh không có phía trước không có phía sau. / ' +
+      'Triệu Châu đã nhận ra điều đó nên chuẩn bị lễ bái, lúc đó Bảo Thọ liền bỏ đi bởi vì không cần thiết phải xem qui ước bên ngoài của cái hiểu tâm với tâm. Lúc ấy Triệu Châu cũng bỏ đi. / ' +
+      ' Khi Hàn Sơn nhận một ông tăng từ một chùa khác đến, sư hỏi, “Ông từ đâu đến?” / ' +
+      'Ông tăng nói tên chùa mình. Hàn Sơn hỏi, “Ở đó ông học được gì?” / ' +
+      'Ông tăng đáp, “Thiền định”. / ' +
+      'Hàn Sơn bảo, “Chỉ cho tôi cách thiền định”. / ' +
+      'Ông tăng đáp bằng cách xếp tréo chân ngồi thẳng như tượng Phật. Hàn Sơn hét ông tăng, “Này! Ông ngốc ơi! Hãy cút đi! Chùa chúng tôi ở đây có đủ Phật đá rồi.” / ' +
+      'Ông tăng này có phiá sau và phiá trước rời nhau. / ' +
+      'Khi thiền định thì ông ta giống như ông Phật đá, khi ăn cơm thì ông ta giống như quỉ đói, và đôi khi ông ta còn giống như A-tu-la nữa. / ' +
+      'Chẳng lạ gì Hàn Sơn không muốn ông ta ở lại chùa. / ' +
+      'Tuy nhiên, có thể quí vị hỏi, “Không phải ông thầy đã bảo ông tăng chỉ cách thiền định sao?” / ' +
+      'Ông tăng thiền định thật sự sẽ không bao giờ ngồi, không bao giờ đứng, không bao giờ nằm, và không bao giờ nói. / ' +
+      'Bây giờ, thế nào là thiền định đúng cách? Nhưng quí vị không được bắt chước Bảo Thọ và Triệu Châu.',
     commentAfterVerse:
       '',
   },
 
   {
     id: 73,
-    title: 'TẮC THỨ 73: ',
+    title: 'TẮC THỨ 73: TUYẾT PHONG TỪ CHỐI ÔNG TĂNG',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Một ông tăng đến Tuyết Phong và lễ bái. / ' +
+      'Tuyết Phong đánh ông tăng 5 gậy. / ' +
+      'Lúc đó ông tăng hỏi, “Con lỗi ở chỗ nào?” / ' +
+      'Sư đánh ông tăng 5 gậy nữa và hét to đuổi ông tăng ra ngoài.',
+    commentBeforeVerseExtra:
+      'Fugai: / ' +
+      '# Ông ta đang dùng bài học đầu tiên cho con nít. / ' +
+      '# Công án nháng lửa lên rồi. / ' +
+      '# Ông chẳng biết thí chủ của ông. / ' +
+      '# Cưng quá khiến con hư. / ' +
+      '# Tuyết Phong cố thọc gậy vuông vào lỗ tròn.',
     commentBeforeVerse:
-      '',
+      'Như Huyễn: / ' +
+      '# Ông ta muốn gọi ông tăng là người mới bắt đầu hay đang xem cuộc gặp gỡ chính thức bắt đầu? / ' +
+      '# Trẻ con Trung hoa đầu tiên được dạy cho một câu chữ Hán đơn giản như vầy, / ' +
+      '“Đức thánh Khổng Phu tử ngày xưa có ba ngàn học trò, trong đó có 70 học trò giỏi. / ' +
+      'Các con những trẻ em tám 9 tuổi nên biết lễ phép với nhau”. Đây giống như các chữ A, B, C trong tiếng Anh. / ' +
+      'Ông tăng bắt đầu rất ư lễ phép nhưng Tuyết Phong xem ông ta như một người mới bắt đầu trong Thiền, như lời bình của Fugai chỉ rõ. / ' +
+      'hững ai học sâu cũng sẽ lễ bái thầy như khi gặp lần đầu tiên. Lỗi duy nhất của ông tăng là sự khớp sợ trong phút giây đầu tiên ở trước thầy và đáng nhận một gậy. / ' +
+      'Nếu ông ta nhận thức được điều này thì sẽ không hỏi lỗi mình ở chỗ nào. ' +
+      'Chắc chắn ông ta không biết người ban lợi ích thực sự cho ông ta đang ở ngay trước mặt. ' +
+      'Ông ta nên lễ bái lần nữa trước khi bị Tuyết Phong đuổi ra ngoài.' +
+      '# Tôi không tin Tuyết Phong hét chút nào. Ai tả câu chuyện này đã không biết ngôn ngữ hàng ngày của người Trung hoa. / ' +
+      'Trong ngôn ngữ Trung hoa ngày nay, câu cuối cùng của công án này sẽ đọc mà không cho tiếng “Hát!” nghĩa gì cả, mặc dù những người theo Lâm Tế dường như xem đây là một biểu hiện bất ly thân. / ' +
+      '# Một hôm một người ngu đánh rơi thanh kiếm của y qua lườn tàu, liền cẩn thận đánh dấu vào hông tàu chỗ kiếm rơi để chỉ chỗ cho viên thuyền trưởng bắt đầu cuộc tìm kiếm mà không ý thức tàu đang giương buồm chạy. / ' +
+      'Các giáo sư đại học diễn giảng trong lớp học về các triết lý thời cổ mà không cho loài người tiến bộ qua năm tháng sự thực là đang cố tìm thanh kiếm đã bị mất theo dấu khắc vào mạn tàu. / ' +
+      'Lâm Tế hỏi Hoàng Bá thế nào là đại ý Phật pháp, và nhận câu trả lời của Hoàng Bá là một cú đánh bằng gậy. / ' +
+      'Lâm Tế đến hỏi Hoàng Bá cùng câu hỏi ấy hai lần nữa và cũng nhận cùng một loại câu trả lời. / ' +
+      'Hầu như đã sẵn sàng bỏ cuộc tìm cầu, sư đến Đại Ngu phàn nàn về sự thất bại của mình. ' +
+      'Khi nghe câu chuyện, Đại Ngu nói, “Hoàng Bá thật là quá tử tế. Kẻ ngu như ông làm sao thấy được”. / ' +
+      'Trước khi Đại Ngu dứt lời, ngộ đến với Lâm Tế như một tia chớp. Lâm Tế liền cho Đại Ngu ba đấm ngay sườn. / ' +
+      'Bài thơ này cũng là khắc dấu vào mạn thuyền. / ' +
+      'Không lạ gì, sau câu thơ cuối cùng, Fugai nói, “Ông không thể bắt một con thỏ hai lần trong cùng một cái hang.”',
     commentAfterVerse:
-      '',
+      'Genro: ' +
+      '# Tiếng hét sau cùng của Tuyết Phong chẳng có chút giá trị gì. / ' +
+      '# Thiền Tuyết Phong như bà nội hiền từ. / ' +
+      'Khắc mạn thuyền để tìm thanh kiếm mất. / ' +
+      'Giống chuyện xưa khi Lâm Tế được rồi, / ' +
+      'Liền cho Đại Ngu ngay hông ba đấm.',
   },
 
   {
     id: 74,
-    title: 'TẮC THỨ 74: ',
+    title: 'TẮC THỨ 74: CHỌN NGƯỜI KHAI SÁNG MỘT NGÔI CHÙA',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      '',
+      'Khi Qui Sơn học Thiền dưới sự hướng dẫn của Bách Trượng, sư làm việc như một đầu bếp của chùa. / ' +
+      'Tư Mã Đầu Đà đến chùa nói với Bách Trượng rằng ông ta đã tìm được một cảnh đất rất tốt để lập một ngôi chùa trên núi Đại Qui và muốn chọn một vị sư mới cho chùa trước khi xây xong. / ' +
+      'Bách Trượng hỏi, “Tôi thế nào?” / ' +
+      'Tư Mã Đầu Đà đáp, “Núi ấy có số được chùa thịnh đạt. Hòa thượng sinh ra bần hàn, như vậy nếu hòa thượng ở đó thì có thể chỉ có độ 500 tăng”. / ' +
+      'Chùa ấy sẽ có hơn 1000 tăng. / ' +
+      'Bách Trượng nói, “Trong tăng chúng ở đây ông thấy có người nào thích hợp không?” / ' +
+      'Tư Mã Đầu Đà nói tiếp, “Tôi nghĩ điển tọa Qui Sơn sẽ là người đó.” / ' +
+      'Lúc ấy Bách Trượng gọi Qui Sơn bảo sư đi lập chùa mới. / ' +
+      'Ông tăng thủ tọa chợt nghe chuyện liền đi thẳng đến Bách Trượng, nói, “Không ai có thể bảo điển tọa giỏi hơn thủ tọa”. / ' +
+      'Lúc ấy Bách Trượng gọi tăng chúng tụ tập lại, nói cho họ nghe tình hình, và bảo rằng hễ ai trả lời đúng câu hỏi của sư thì được chọn. / ' +
+      'Bách Trượng chỉ cái tịnh bình đặt trên sàn nhà và hỏi, “Không được gọi nó là tịnh bình, vậy gọi nó là gì?” / ' +
+      'Ông tăng thủ tọa nói, “Không thể gọi nó là chiếc giày gỗ.” / ' +
+      'Khi không còn ai khác trả lời, Bách Trượng quay sang Qui Sơn. Qui Sơn bước tới, đá đổ tịnh rồi bỏ đi. / ' +
+      'Bách Trượng mỉm cười, “Thủ tọa thua rồi”. / ' +
+      'Qui Sơn được cử làm trụ trì ngôi chùa mới và dạy Thiền cho hơn 1000 tăng nhân.',
+    commentBeforeVerseExtra:
+      'Genro: ' +
+      'Chỉ nhặt tịnh bình lên, đo xem dài ngắn, / ' +
+      'Như vậy, vượt kích thước, / ' +
+      'hiển lộ toàn nội dung. / ' +
+      'Hãy xem bàn chân làm được chuyện gì! / ' +
+      'Một đá dựng thành chùa Qui Sơn.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Một gia đình Thiền đang bình yên làm sao! / ' +
+      '# Có người không thể ở được sao? / ' +
+      '# Chớ có nói đùa. / ' +
+      '# Làm sao ông biết được? / ' +
+      '# Chỉ có thế à ? / ' +
+      '# Con mắt chọn tăng của thầy ở đâu? / ' +
+      '# Vô lý! / ' +
+      '# Đi dễ vậy sao! / ' +
+      '# Ông chẳng tự biết mình. / ' +
+      '# Phán quyết ngay thẳng! / ' +
+      '# Tôi có thể thấy được sư đang nháy mắt. / ' +
+      '# Ôi là thủ tọa! / ' +
+      '# Chẳng có gì mới mẻ hết. / ' +
+      '# Phán quyết ngay thẳng! / ' +
+      '# Không những chỉ hơn một mgàn tăng chúng mà còn tất cả chư Phật quá khứ, hiện tại, vị lai và tất cả Bồ-tát mười phương. / ' +
+      '# Tôi sẽ đá ông thầy / ' +
+      '# Thầy làm gì nó vậy? Nó không có kích thước; làm sao thầy có thể gọi nó là ngắn hay dài? / ' +
+      'Đó là những gì tôi nói! / ' +
+      'Bàn chân quí vô song! / ' +
+      'Bàn chân ấy sẽ nghiền hư không thành bụi',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Dù cho tất cả tăng chúng đều ngu không ai nói nó là chiếc “Giày gỗ,” khi chỉ hòn núi Nam. / ' +
+      'Khi Fugai nói, “Tôi sẽ đá ông thầy,” có lẽ sư muốn nói cả Bách Trượng lẫn Genro. / ' +
+      'Nếu tôi là Genro, tôi sẽ chỉ cây chổi tre để bên ngoài cửa sổ và bảo tăng chúng gọi nó mà không phải bằng tên của nó. / ' +
+      'Quí vị không thể gọi nó cái đồ xúc bụi và cũng không thể đá cây chổi. / ' +
+      'Nếu tôi là Fugai, tôi sẽ lấy cây chổi, đi quét nhà.',
   },
 
   {

@@ -1,0 +1,25 @@
+---
+title: "TÍN TÂM MINH"
+meta_title: "TÍN TÂM MINH"
+description: "TÍN TÂM MINH"
+date: 2024-11-04
+image: "/images/meta-image-wide.jpg"
+tags: ['Alert']
+draft: false
+---
+
+import VintagePost from "../../../layouts/components/VintagePost.astro";
+import XinxinMing from "../../../db/teachings/vi/XinxinMing.tsx";
+
+<div style="width: 50%; margin: auto">
+  <Youtube client:load id={XinxinMing?.youtubeId} title={XinxinMing?.title} />
+</div>
+
+<VintagePost
+  hasMultiParagraph={true}
+  bookTitle={ XinxinMing?.title }
+  author={ XinxinMing?.author }
+  image={ XinxinMing?.image }
+  intro={ XinxinMing?.intro }
+  longVerse={ XinxinMing?.verse }
+/>

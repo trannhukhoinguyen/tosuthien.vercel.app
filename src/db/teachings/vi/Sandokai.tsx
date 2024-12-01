@@ -1,5 +1,6 @@
 const Sandokai = {
-  title: "Tham Đồng Khế",
+  title: "THAM ĐỒNG KHẾ",
+  youtubeId: "",
   subTitle: "Việt Dịch: Đỗ Đình Đồng",
   author: "[Thiền sư] Thạch Đầu Hy Thiên",
   image: "/images/teachings/sandokai-wide.jpg" || "/images/teachings/sandokai-tall.jpg",
