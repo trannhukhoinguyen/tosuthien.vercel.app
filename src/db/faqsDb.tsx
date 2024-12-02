@@ -1,7 +1,7 @@
 const faqsDb = [
   {
     id: 1,
-    ask: '1. Tổ Sư Thiền là gì ?',
+    ask: '1. Tổ Sư Thiền là gì?',
     reply:
       'Tổ-sư-thiền là pháp Thiền-trực-tiếp do phật Thích-ca đích thân truyền cho sơ Tổ Ma-ha-ca-diếp, rồi truyền cho nhị Tổ A-nan, tam Tổ Thương-na-hòa-tu, từ Tổ từ Tổ truyền xuống, đến Tổ thứ 28 là Bồ-đề-đạt-ma truyền sang Trung quốc làm sơ Tổ Trung-quốc rồi truyền cho người Trung quốc là nhị Tổ Huệ Khả, tam Tổ Tăng Xán, tứ Tổ Đạo Tín, ngũ Tổ Hoằng Nhẫn, lục Tổ Huệ Năng... Đến Thầy Thích Duy Lực là đời thứ 88 (kể từ Tổ Ca-diếp).',
   },
@@ -19,7 +19,7 @@ const faqsDb = [
       '📌 Khi NGHI TÌNH mạnh tới cùng tột, thình lình bùng nổ gọi là KIẾN TÁNH. Kiến tánh là giác ngộ, là biết được chính mình mới làm chủ được mình. / ' +
       '📌 Tự làm chủ được mới tự do tự tại được. Tự do tự tại là vĩnh viễn giải thoát tất cả khổ, cho nên gọi là KIẾN TÁNH THÀNH PHẬT. / ' +
       '📌 Còn hồ nghi là lấy tâm đi tìm hiểu, hoặc giải thích câu thoại đầu cho ra đáp án, đó không phải là tham thiền, hồ nghi chỉ có thể được giải ngộ, chứ không được chứng ngộ, / ' +
-      'cũng như nhà khoa học Newton thấy trái táo từ trên cây rơi xuống mà sanh ra Nghi vấn: Tại sao trái táo rớt xuống đất mà không bay lên trời ? / ' +
+      'cũng như nhà khoa học Newton thấy trái táo từ trên cây rơi xuống mà sanh ra Nghi vấn: Tại sao trái táo rớt xuống đất mà không bay lên trời? / ' +
       '📌 Từ đó, ông lấy tâm đi nghiên cứu tìm hiểu, cuối cùng ngộ được: Lực hấp dẫn vạn vật. Đó là hồ nghi. / ' +
       '📌 Hồ nghi chỉ có thể phát minh được đồ dùng của thế gian, chỉ có giá trị đối với thế gian vì không ngộ được chính mình nên không làm chủ mình được, ' +
       'không đạt đến tự do tự tại được. / ' +
@@ -87,7 +87,7 @@ const faqsDb = [
   },
   {
     id: 3,
-    ask: '3. Tại sao pháp Tham Tổ Sư thiền dễ tu mà người ta không chịu tu ?',
+    ask: '3. Tại sao pháp Tham Tổ Sư thiền dễ tu mà người ta không chịu tu?',
     reply:
       '📌 Vì người ta khó tin, lại cứu lý tìm hiểu; Tổ Sư thiền là không cho cứu lý, không cho tìm hiểu. ' +
       '📌 Nếu tin được thì dễ hơn các pháp môn khác. Nhưng nghịch với tư tưởng người ta, tức là không tin được tự tâm. ' +
@@ -98,7 +98,7 @@ const faqsDb = [
   },
   {
     id: 4,
-    ask: '4. Xã hội ngày nay khoa học tiến bộ, con người không được rảnh rang như người xưa, nên không để ý sự tu, nhất là tu Tổ Sư thiền rất khó, vậy có phải không ?',
+    ask: '4. Xã hội ngày nay khoa học tiến bộ, con người không được rảnh rang như người xưa, nên không để ý sự tu, nhất là tu Tổ Sư thiền rất khó, vậy có phải không?',
     reply:
       '📌 Vì hiểu theo người thế gian, như nhà triết học, nhà khoa học,... thì sự tu của họ lại khó. ' +
       '📌 Vì cuộc sống hằng ngày đều phải dùng bộ óc để nghiên cứu triết học hay nghiên cứu khoa học, bất cứ nghiên cứu cái gì đều cũng nhờ bộ óc. ' +
@@ -109,7 +109,7 @@ const faqsDb = [
   },
   {
     id: 5,
-    ask: '5. Những pháp thiền của các tôn giáo khác là để ngưng hoạt động của bộ óc hay để im lặng, vậy có khác với cách tu của Tổ Sư thiền không ?',
+    ask: '5. Những pháp thiền của các tôn giáo khác là để ngưng hoạt động của bộ óc hay để im lặng, vậy có khác với cách tu của Tổ Sư thiền không?',
     reply:
       '📌 Các thiền của tôn giáo khác là mục đích bỏ nhiễm duyên lấy cái tịnh duyên cho là ngộ. / ' +
       '📌 Tịnh duyên đối với nhiễm duyên thì tốt, còn đối với bản thể Phật tánh là chướng ngại. Bởi vì đối  với nhiễm nên mới nói tịnh thì còn nằm trong tương đối, tức là những thứ ấy có thể dùng bộ óc để giải thích được. / ' +
@@ -120,7 +120,7 @@ const faqsDb = [
   {
     id: 6,
     ask:
-      '6. Tham Thiền Phổ Thuyết nói “người thích vật hoặc theo tình cảm, xưng hô lễ phép ấy là tình; lời nói, vấn đáp kiến giải hiểu biết ấy là thức. Chính tình thức làm cho thiền đường suy tệ”. Xin Sư Phụ khai thị ?',
+      '6. Tham Thiền Phổ Thuyết nói “người thích vật hoặc theo tình cảm, xưng hô lễ phép ấy là tình; lời nói, vấn đáp kiến giải hiểu biết ấy là thức. Chính tình thức làm cho thiền đường suy tệ”. Xin Sư Phụ khai thị?',
     reply:
       '📌 Cuộc sống hàng ngày, tất cả đều dùng tình thức. Kinh Lăng Nghiêm nói “tình nhiều chừng nào đọa xuống nhiều chừng nấy”, tình chỉ có đọa, không có lên; tưởng có cái đọa, có cái lên. ' +
       '📌 Như thiền quán tưởng thì lên, tưởng bậy bạ thì đọa. Thức là phân biệt, tánh của mình muốn cái tốt chê cái xấu. / ' +
@@ -135,7 +135,7 @@ const faqsDb = [
     id: 7,
     ask:
       '7. Phương pháp tham Tổ sư thiền miên mật không có kẻ hở, nếu có kẻ hở thì vọng tưởng xen vào. / ' +
-      'Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không ?',
+      'Vậy những người tham thiền ở công sở phải suy nghĩ thì có thích hợp với họ không?',
     reply:
       '📌 Thích hợp, ngày đêm là 24 tiếng, nếu có 10 tiếng làm việc thì cứ làm việc, đừng tập tham thiền; còn lại 14 tiếng thì tập tham thiền. / ' +
       'Khi nào 14 tiếng này tập tham thiền thành quen thuộc tự động. / ' +
@@ -146,7 +146,7 @@ const faqsDb = [
   {
     id: 8,
     ask:
-    '8. Đường lối Tổ sư thiền là nghĩ đến câu thoại đầu phải không ?',
+    '8. Đường lối Tổ sư thiền là nghĩ đến câu thoại đầu phải không?',
     reply:
     '📌 Không phải nghĩ! Mà hỏi và nhìn. Đến thoại đầu, theo người ta cho là điên khùng, nhưng chỗ đó là sắp kiến tánh. / ' +
     'Bây giờ, mình bắt đầu tham là mục đích đến thoại đầu, chưa đến thoại đầu là tham thoại đầu và khán thoại đầu. / ' +
@@ -155,7 +155,7 @@ const faqsDb = [
   {
     id: 9,
     ask:
-      '9. Tâm không định làm sao tham thiền được ?',
+      '9. Tâm không định làm sao tham thiền được?',
     reply:
       '📌 Đừng để ý tâm định hay không định, nên phải tập tham, nếu tham thiền mỗi ngày tăng được 1 phút thì 1 tháng tăng được 30 phút, 1 năm được 6 giờ, 4 năm tham được 24 giờ trong 1 ngày đêm thì đến thoại đầu. / ' +
       'Đến thoại đầu trong thời gian ngắn sẽ được kiến tánh. Nếu 1 ngày tăng được nửa phút thì 8 năm đến thoại đầu, 1 ngày tăng được ¼ phút thì 16 năm đến thoại đầu. / ' +
@@ -167,7 +167,7 @@ const faqsDb = [
   {
     id: 10,
     ask:
-      '10. Hỏi câu thoại đầu muốn hiểu, giải đáp ra thì như thế nào ?',
+      '10. Hỏi câu thoại đầu muốn hiểu, giải đáp ra thì như thế nào?',
     reply:
       '📌 Tham thiền không dùng bộ óc tìm hiểu, cứ hỏi thầm trong bụng, có hỏi phải có đáp, hỏi không hiểu thì đáp không ra, tức lắm, hỏi nữa, khi nào thình lình đáp ra là kiến tánh. / ' +
       'Đáp ra được không phải do bộ óc tìm hiểu mà đáp ra, đáp ra là thình lình bừng sáng khắp không gian thời gian, tức là hiện lên bản thể, không phải do lời nói mà đáp.',
@@ -176,15 +176,15 @@ const faqsDb = [
     id: 11,
     ask:
       '11. Thiết nghĩ, con đã trôi lăn trong biển sanh tử nhiều kiếp tạo nghiệp sâu dầy, nay tuy gặp chánh pháp, / ' +
-      'nếu chỉ có câu tham thoại đầu trừ vọng tưởng thì đủ giải thoát không ? / ' +
+      'nếu chỉ có câu tham thoại đầu trừ vọng tưởng thì đủ giải thoát không? / ' +
       'Lại nữa, chư Tổ dạy tụng kinh, niệm Phật, trì chú để chúng sanh bớt nghiệp chướng, tạo thêm phúc đức trợ duyên trên đường tu hành. / ' +
-      'Vậy con có nên cùng tham thiền và tụng kinh, niệm Phật, trì chú được không ?',
+      'Vậy con có nên cùng tham thiền và tụng kinh, niệm Phật, trì chú được không?',
     reply:
       '📌 Nói tham thiền để trừ vọng là sai lầm, vì vọng tưởng là vô minh mới có; chứ không phải Phật tánh có vọng tưởng, Phật tánh là bất nhị, siêu việt số lượng. / ' +
       'Bản thể Phật tánh cùng khắp không gian thời gian. Nếu nổi vọng tưởng là có số lượng, có nổi tâm trừ vọng tưởng là hai lớp vọng. / ' +
       'Cho nên tu hành trừ vọng tưởng là sai lầm lớn. / ' +
       '📌 Tụng kinh là mục đích để biết ý của Phật dạy, mình theo đó để tu, chứ không phải tụng kinh để cho Phật nghe, mà nói là có công đức. / ' +
-      'Kinh là lời Phật dạy nên Phật đâu cần nghe ! / ' +
+      'Kinh là lời Phật dạy nên Phật đâu cần nghe! / ' +
       '📌 Dùng niệm Phật, niệm chú để trừ vọng tưởng sẽ phát lên nguy hiểm, vọng tưởng được trừ, có sức định cao thì sẽ bị tẩu hỏa nhập ma, phát điên, ói máu. ' +
       'Sự thật tôi gặp người tu ở Việt Nam rất nhiều trong những trường hợp này. ' +
       'Những người không biết ý của Phật dạy, tưởng là tu để trừ vọng tưởng, đó là sai lầm rất lớn; mà bây giờ rất phổ biến trong giới Phật tử, ấy rất nguy hiểm. ' +
@@ -193,7 +193,7 @@ const faqsDb = [
       'Tham thiền là phát hiện cái mình sẵn có cùng khắp không gian thời gian, không có cái nào mà làm không được. ' +
       'Con dơi có ra đa là bản năng đầu thai thành con dơi phải có ra đa, con ong có kiến trúc, nhà kiến trúc học kiến trúc của con ong. / ' +
       'Kiến trúc của con ong không phải do học mà có, nó theo nghiệp mà có. Tham thiền không phải để tiêu nghiệp, nghiệp vốn không có, vì tâm mình tạo mới có. / ' +
-      'Ngưng tâm không tạo nữa thì nghiệp ở đâu? Khỏi cần tiêu mà nó tự tiêu. Tâm tạo rồi tiêu, tiêu rồi tạo nữa, khi nào mới tiêu hết ! / ' +
+      'Ngưng tâm không tạo nữa thì nghiệp ở đâu? Khỏi cần tiêu mà nó tự tiêu. Tâm tạo rồi tiêu, tiêu rồi tạo nữa, khi nào mới tiêu hết! / ' +
       '📌 Tu hành không phải để tiêu nghiệp, nghiệp khỏi cần tiêu, vọng tưởng khỏi cần trừ. Tự tánh mình là bất nhị, không có vọng tưởng, không có nghiệp chướng. / ' +
       'Thiền tông nói “nghiệp chướng bổn lai không” (nghiệp chướng vốn là không). / ' +
       'Kệ truyền pháp của 7 Phật trước Phật Thích Ca nói “không có nghiệp chướng”. / ' +
@@ -212,9 +212,9 @@ const faqsDb = [
       'Nếu đạt đến chỗ ít phí sức là được, có còn trừ vọng tưởng và tiêu nghiệp chướng là sai lầm lớn. / ' +
       'Tham câu thoại đầu mặc dù không tiêu nghiệp chướng và không trừ vọng tưởng, nhưng tự nhiên automatic trừ vọng tưởng và tiêu nghiệp chướng. / ' +
       '📌 Tại sao? Vì nghiệp chướng và vọng tưởng đều do bộ óc biết mới có, giữ không biết của bộ óc thì tự tiêu. / ' +
-      'Những người tụng kinh, niệm Phật cứ suy nghĩ hoài, tạo hoài, làm sao tiêu trừ được ! / ' +
+      'Những người tụng kinh, niệm Phật cứ suy nghĩ hoài, tạo hoài, làm sao tiêu trừ được! / ' +
       'Giữ được nghi tình là không tạo nữa, khi nào ngộ thì vọng tưởng nghiệp chướng hết. / ' +
-      'Bát Nhã Tâm Kinh nói “vô vô minh diệc vô minh tận” (không có vô minh cũng không có hết vô minh), không có vô minh làm sao có vọng tưởng ? / ' +
+      'Bát Nhã Tâm Kinh nói “vô vô minh diệc vô minh tận” (không có vô minh cũng không có hết vô minh), không có vô minh làm sao có vọng tưởng? / ' +
       'Có vô minh nên có vọng tưởng, có vô minh nên có nghiệp chướng. / ' +
       'Không có hết vô minh, nếu có vô minh mới có hết vô minh; tức là không có hết vọng tưởng nghiệp chướng, vì vọng tưởng nghiệp chướng vốn không có. / ' +
       '“Vô lão tử diệc vô lão tử tận” (không có già chết cũng không có hết già chết), sanh tử là chúng sanh, hết sanh tử là Phật. / ' +
@@ -222,21 +222,21 @@ const faqsDb = [
       'Vì sợ người ta tụng kinh xong chấp kinh đó. Cho nên sau cùng một thời kinh, tụng Bát Nhã để quét sạch vừa rồi tụng. / ' +
       'Tuy nhiên, người tụng chỉ biết nhắm mắt tụng, chứ không biết kinh nói gì; cho là tụng kinh để tiêu nghiệp chướng. / ' +
       'Tại sao tụng kinh rồi không y theo mà làm, lại nghịch với kinh? Nghịch với kinh đã có tội, lại trách người đúng. / ' +
-      'Người ta y theo kinh cho là sai, nghịch với kinh cho là đúng. Rất điên đảo !'
+      'Người ta y theo kinh cho là sai, nghịch với kinh cho là đúng. Rất điên đảo!'
   },
   {
     id: 12,
     ask:
       '12. Khi mình đọc thoại đầu, bổng nhiên không còn nghi tình, mà nó giống như qua đi qua đi và trở thành trạng thái niệm thoại đầu. / ' +
-      'Như trong trường hợp đó phải như thế nào ?',
+      'Như trong trường hợp đó phải như thế nào?',
     reply:
       '📌 Niệm thoại đầu chỉ có thể trừ vọng tưởng, không đạt đến kiến tánh. / ' +
       'Tham thiền không phải trừ vọng tưởng, vọng tưởng khỏi cần trừ. / ' +
       'Niệm thoại đầu để trừ vọng tưởng là sai lầm. / ' +
       '📌 Nếu không phát khởi nghi tình, nhưng cũng phải hỏi hoài thì sẽ phát khởi nghi tình. / ' +
       'Bởi vì câu thoại đầu là có dấu hỏi. / ' +
-      '📌 Như câu “Khi chưa có trời đất ta là cái gì ?” / ' +
-      'Có trời có đất thì mình ngồi đây, chưa có trời đất mình ở đâu không biết ? / ' +
+      '📌 Như câu “Khi chưa có trời đất ta là cái gì?” / ' +
+      'Có trời có đất thì mình ngồi đây, chưa có trời đất mình ở đâu không biết? / ' +
       'Cái không biết là nghi tình tức tham thiền rồi, rất giản dị chỉ cần không biết, việc thế gian muốn biết rất khó, không biết thì dễ. / ' +
       'Cho nên con nít 6, 7 tuổi cũng biết tham thiền. Hỏi câu thoại chứ không phải niệm câu thoại, hỏi đến khi nào thình lình đáp ra được, gọi là kiến tánh (chứng ngộ). / ' +
       'Nhưng khi đáp ra không phải có gì đáp ra, tức là bùng nổ phát hiện bản thể mình cùng khắp không gian thời gian, không có chỗ nào không biết, không có lúc nào không biết. / ' +

@@ -15,8 +15,8 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
 
   {
     GatelessGate
-      ?.filter(koan => koan.id >= 37 && koan.id <= 48)
-      ?.map(koan => {
+     ?.filter(koan => koan.id >= 37 && koan.id <= 48)
+     ?.map(koan => {
         if (koan.id%12 === 1) {
           return <VintagePost
             bookTitle={`${koan.bookTitle} (37 - 48)`}

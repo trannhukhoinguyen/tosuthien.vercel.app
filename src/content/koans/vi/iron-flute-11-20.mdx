@@ -15,8 +15,8 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
 
   {
     IronFlute
-      ?.filter(koan => koan.id >= 11 && koan.id <= 20)
-      ?.map(koan => {
+     ?.filter(koan => koan.id >= 11 && koan.id <= 20)
+     ?.map(koan => {
         if (koan.id%10 === 1) {
           return <VintagePost
             bookTitle={`${koan.bookTitle} (11 - 20)`}

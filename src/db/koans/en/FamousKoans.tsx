@@ -69,7 +69,7 @@ const FamousKoans = [
       'Tức tâm tức Phật còn dễ lý giải; chẳng phải tâm chẳng phải Phật thì rất ít người có thể đạt đến giai đoạn này. ' +
       '“⚡️ Ta chỉ biết đánh trống”. Thiền sư Hòa Sơn lại trả lời như vậy, khác nào trên băng lại đổ thêm dầu, thử hỏi ai có thể đi trên đó được. ' +
       'Chớ nói đường băng trơn, mà có người trượt băng. ' +
-      'Thiền tăng thứ tư lên pháp đường hỏi rằng: “Nếu như một người đã tu chứng, đã giải thoát, chứng đắc huệ quả vô thượng đi đến, thì nên hướng dẫn ông ta như thế nào ?” ' +
+      'Thiền tăng thứ tư lên pháp đường hỏi rằng: “Nếu như một người đã tu chứng, đã giải thoát, chứng đắc huệ quả vô thượng đi đến, thì nên hướng dẫn ông ta như thế nào?” ' +
       'Thiền sư Hòa Sơn vẫn trả lời như thế: “⚡️ Ta chỉ biết đánh trống”. ',
   },
   {

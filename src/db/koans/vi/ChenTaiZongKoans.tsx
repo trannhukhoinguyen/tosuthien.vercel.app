@@ -57,7 +57,7 @@ const ChenTaiZongKoans = [
         'Cửa lao khôn buộc, nào ai biết / ' +
         'Ngôn ngữ mất rồi, níu tựa đâu? / ' +
         'Chẳng phải ngựa hay trên cõi thế / ' +
-        'Bỗng dưng sao có được cơ mầu ?',
+        'Bỗng dưng sao có được cơ mầu?',
     },
   {
       id: 5,
@@ -79,11 +79,11 @@ const ChenTaiZongKoans = [
       title: 'TẮC THỨ 6: ',
       image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
       main:
-        'Tần Quốc Vương cầm kiếm gọi Tôn Giả, Tổ thứ 24, hỏi rằng: "Sư chứng được pháp uẩn không chưa ?” ' +
+        'Tần Quốc Vương cầm kiếm gọi Tôn Giả, Tổ thứ 24, hỏi rằng: "Sư chứng được pháp uẩn không chưa?” ' +
         'Tổ nói: “Chứng”. / ' +
         'Vua hỏi: “Lìa sinh tử chưa?” / ' +
         'Tổ nói: “Lìa”. / ' +
-        'Vua hỏi: “Có bố thí cho ta đầu Sư được không ?” / ' +
+        'Vua hỏi: “Có bố thí cho ta đầu Sư được không?” / ' +
         'Tổ nói: “Thân còn không phải là của ta, huống là đầu”. / ' +
         'Vua bèn chém. Sữa trắng tuôn lên. / ' +
         'Tay vua tự rớt xuống.',
@@ -120,8 +120,8 @@ const ChenTaiZongKoans = [
       commentBeforeVerse:
         'Đứa trẻ lên ba thì múa trống, ông già tám chục lại chơi cầu.',
       verse:
-        'Tâm đã là không, nói với ai ? / ' +
-        'Hồn nhiên đâu lúc ở bào thai ? / ' +
+        'Tâm đã là không, nói với ai? / ' +
+        'Hồn nhiên đâu lúc ở bào thai? / ' +
         'Lão tăng nói khoác: “An rồi đó” / ' +
         'Lừa kẻ bàng quan mà không hay',
     },
@@ -139,7 +139,7 @@ const ChenTaiZongKoans = [
         'Trước Phật sao còn niệm sơ, thân / ' +
         'Định ấy còn chưa được chính chân / ' +
         'Nếu quả hóa công không hậu bạc / ' +
-        'Xuân về, đâu lại chẳng mùa Xuân ?',
+        'Xuân về, đâu lại chẳng mùa Xuân?',
     },
   {
       id: 10,
@@ -154,7 +154,7 @@ const ChenTaiZongKoans = [
         'Lưu Linh đã lỡ nên bầu bạn / ' +
         'Nhà là quán rượu ngủ quanh năm / ' +
         'Dù tự khoe mình trang hảo hán / ' +
-        'Đóng vai mất áo giữa đường chăng ?',
+        'Đóng vai mất áo giữa đường chăng?',
     },
 
   {
@@ -195,7 +195,7 @@ const ChenTaiZongKoans = [
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Đại Quy nói: “Khái niệm về có và về không như giây leo quấn cây lớn” / ' +
-      'Thiền Sư Sơ Sơn hỏi: “Cây lớn ngã, giây quấn khô, thì có và không đi về đâu ?”' +
+      'Thiền Sư Sơ Sơn hỏi: “Cây lớn ngã, giây quấn khô, thì có và không đi về đâu?”' +
       'Nói rồi cười ha ha.',
     commentBeforeVerse:
       'Nước tuy chảy đi nhưng vẫn còn nơi biển cả / ' +
@@ -212,7 +212,7 @@ const ChenTaiZongKoans = [
     title: 'TẮC THỨ 14: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
-      'Thiền Sư Bách Trượng nói: “Thế nào gọi là pháp không vì người mà nói ?” / ' +
+      'Thiền Sư Bách Trượng nói: “Thế nào gọi là pháp không vì người mà nói?” / ' +
       'Thiền Sư Nam Tuyền trả lời: “Không phải tâm, không phải Phật, cũng không phải vật”',
     commentBeforeVerse:
       'Cả ngàn vị thánh đi tìm dấu chân nó cũng không được / ' +
@@ -282,7 +282,7 @@ const ChenTaiZongKoans = [
       'Rồng thiêng cọp dữ nên thuần thục / ' +
       '24 giờ vâng phép một ngày / ' +
       'Biến sắt thành vàng dù phép lạ / ' +
-      'Ai đem tiết lộ cho người hay ?',
+      'Ai đem tiết lộ cho người hay?',
   },
 
   {
@@ -290,7 +290,7 @@ const ChenTaiZongKoans = [
     title: 'TẮC THỨ 19: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
-      'Có vị tăng hỏi Thiền Sư Lâm Tế: “Thế nào là vô vị chân nhân ?” / ' +
+      'Có vị tăng hỏi Thiền Sư Lâm Tế: “Thế nào là vô vị chân nhân?” / ' +
       'Thiền Sư Lâm Tế nói: “Cọng cứt khô”',
     commentBeforeVerse:
       'Bắn chim sẻ thì sợ mất đạn, đập chuột lại sợ dơ gậy',
@@ -313,7 +313,7 @@ const ChenTaiZongKoans = [
       'Đài Sơn nháy mắt không còn nữa / ' +
       'Chẳng cần bước mệt vẫn về nhà / ' +
       'Giặc hết, không ai chủ chiến / ' +
-      'Gươm báu cần chi phải tuốt ra ?',
+      'Gươm báu cần chi phải tuốt ra?',
   },
 
   {
@@ -327,7 +327,7 @@ const ChenTaiZongKoans = [
       'Phật bằng đất không độ được nước. / ' +
       'Phật chân chính ngồi trong nhà',
     commentBeforeVerse:
-      'Sơn là sơn, thủy là thủy. Phật ở đâu ?',
+      'Sơn là sơn, thủy là thủy. Phật ở đâu?',
     verse:
       'Võng Xuyên cảnh ấy đã thành tranh / ' +
       'Xưa cậy Vương Duy mới đắc danh / ' +
@@ -355,7 +355,7 @@ const ChenTaiZongKoans = [
     title: 'TẮC THỨ 23: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
-      'Có vị tăng hỏi Thiền Sư Triệu Châu: “Con chó có Phật tính không ?” / ' +
+      'Có vị tăng hỏi Thiền Sư Triệu Châu: “Con chó có Phật tính không?” / ' +
       'Thiền Sư Triệu Châu đáp: “Không” / ' +
       'Rồi có kẻ hỏi trở lại câu hỏi đó. / ' +
       'Thiền Sư Triệu Châu đáp: “Có”',
@@ -396,7 +396,7 @@ const ChenTaiZongKoans = [
       'Đừng cựa quậy; ai cựa quậy sẽ lảnh đủ 30 gậy',
     verse:
       'Phải trái đôi bên phải rạch ròi / ' +
-      'Nói cho minh bạch, đấy là ai ? / ' +
+      'Nói cho minh bạch, đấy là ai? / ' +
       'Tuy là đường rộng thênh thang đó / ' +
       'Vẫn còn lận đận lắm chông gai',
   },
@@ -406,7 +406,7 @@ const ChenTaiZongKoans = [
     title: 'TẮC THỨ 26: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
-      'Có vị tăng hỏi Thiền Sư Động Sơn: _Phật là gì ? / ' +
+      'Có vị tăng hỏi Thiền Sư Động Sơn: _Phật là gì? / ' +
       'Thiền Sư Động Sơn nói: "3 cân gai trên vách"',
     commentBeforeVerse:
       'Gọi là 1 vật rốt cũng không đúng',
@@ -448,7 +448,7 @@ const ChenTaiZongKoans = [
       'Lời nói vẫn còn chưa khí phách / ' +
       'Cần chi đập bụi để xà kinh / ' +
       'Trường An lối cũ đà thông thạo / ' +
-      'Thì hỏi thăm chi nữa lộ trình ?',
+      'Thì hỏi thăm chi nữa lộ trình?',
   },
 
   {
@@ -458,7 +458,7 @@ const ChenTaiZongKoans = [
     main:
       'Thiền Sư Huyền Sa khai thị chúng: / ' +
       '"Các vị lão túc nói thường hết lòng tiếp vật độ sinh; / ' +
-      'Giả sử có một kẻ vừa mù vừa câm vừa điếc đi tới, làm sao tiếp độ ? / ' +
+      'Giả sử có một kẻ vừa mù vừa câm vừa điếc đi tới, làm sao tiếp độ? / ' +
       'Cầm chùy đưa phất trần lên thì kẻ kia không thấy, giảng thiền tam muội thì kẻ kia không nghe, dạy đọc kinh thì kẻ kia mở miệng không được"',
     commentBeforeVerse:
       'Khát thì uống, đói thì ăn, lạnh thì choàng áo, nóng thì phẩy quạt',
@@ -466,7 +466,7 @@ const ChenTaiZongKoans = [
       'Buồn thì xịu xuống; vui, cười lên / ' +
       'Mũi giọc mày ngang lẽ tự nhiên / ' +
       'Nóng lạnh đói no tùy xử sự / ' +
-      'Nghi ngờ chi nữa luống ưu phiền ?',
+      'Nghi ngờ chi nữa luống ưu phiền?',
   },
 
   {
@@ -475,8 +475,8 @@ const ChenTaiZongKoans = [
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Thiền Sư Thoại Nham thường tự gọi: / ' +
-      'Này chủ nhân ông! Tỉnh tỉnh dậy ! / ' +
-      'Từ nay về sau đừng để cho người ta khinh khi nữa !',
+      'Này chủ nhân ông! Tỉnh tỉnh dậy! / ' +
+      'Từ nay về sau đừng để cho người ta khinh khi nữa!',
     commentBeforeVerse:
       'Kêu được thì chỉ chảy máu miệng ra thôi, nào có ích gì đâu / ' +
       'Chẳng bằng ngậm miệng lại mà đợi mùa Xuân tàn',
@@ -484,7 +484,7 @@ const ChenTaiZongKoans = [
       'Tài lược trầm cơ đã dụng công / ' +
       'Ngờ đâu chưa đáng mặt anh hùng / ' +
       'Nếu quả tướng tài vô địch thật / ' +
-      'Mặt trời bắn thử rớt hay không ?',
+      'Mặt trời bắn thử rớt hay không?',
   },
 
   {
@@ -510,7 +510,7 @@ const ChenTaiZongKoans = [
     main:
       'Thiền Sư Nam Tuyền thấy Thiền Sư Đặng Ẩn Phong tới, liền chỉ vào tịnh bình mà nói: “Tịnh bình là cảnh, ông không nên dính vào cảnh”',
     commentBeforeVerse:
-      'Nói rằng có cảnh, nhưng dính vào đâu ?',
+      'Nói rằng có cảnh, nhưng dính vào đâu?',
     verse:
       'Gương trong thanh tịnh, bụi đâu ra, / ' +
       'Lau rửa mà chi nhọc sức ta / ' +
@@ -555,7 +555,7 @@ const ChenTaiZongKoans = [
     title: 'TẮC THỨ 35: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
-      'Có vị tăng hỏi Thiền Sư Mục Châu: “Trong một hơi thở, có thể thông qua một đại tạng kinh không ?” / ' +
+      'Có vị tăng hỏi Thiền Sư Mục Châu: “Trong một hơi thở, có thể thông qua một đại tạng kinh không?” / ' +
       'Thiền Sư Mục Châu nói: “Có anh chàng bán bánh Tất La thì dắt tới đây mau”',
     commentBeforeVerse:
       'Buông xuôi hai tay mà về được tới nhà, không cần bước mỏi',
@@ -563,7 +563,7 @@ const ChenTaiZongKoans = [
       'Kinh tạng chuyển hồi trong hơi thở / ' +
       'Tìm cành nhặt lá để làm chi / ' +
       'Diệu nghĩa thâm uyên đà hiện sáng / ' +
-      'Tham vấn sơn tăng được ích gì ?',
+      'Tham vấn sơn tăng được ích gì?',
   },
 
   {
@@ -572,7 +572,7 @@ const ChenTaiZongKoans = [
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       'Trong một kỳ chúng hội dưới sự chủ tọa của Thiền Sư Lâm Tế, cả 2 vị thủ tọa của 2 thiền đường đồng thời hét lớn. / ' +
-      'Có vị tăng hỏi: “Như thế còn có chủ khách nữa thôi ?” / ' +
+      'Có vị tăng hỏi: “Như thế còn có chủ khách nữa thôi?” / ' +
       'Thiền Sư Lâm Tế nói: “Thì chủ khách rõ ràng đó”',
     commentBeforeVerse:
       'Cũng chỉ là khỉ bạch nói lăng nhăng',
@@ -605,7 +605,7 @@ const ChenTaiZongKoans = [
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
       ' Có vị tăng hỏi Thiền Sư Huệ Tư về đại ý Phật pháp. / ' +
-      '    Thiền sư Huệ Tư nói: “Gạo ở Lư Lăng giá bao nhiêu ?”',
+      '    Thiền sư Huệ Tư nói: “Gạo ở Lư Lăng giá bao nhiêu?”',
     commentBeforeVerse:
       'Bóng trúc quét thềm, bụi trên thềm không lay động / ' +
       'Vầng trăng chiếu nước, mặt nước không vết ghi',
@@ -621,7 +621,7 @@ const ChenTaiZongKoans = [
     title: 'TẮC THỨ 39: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
-      'Có vị tăng hỏi Thiền sư Văn Thù: “Vạn pháp đi về 1, 1 đi về đâu ?” / ' +
+      'Có vị tăng hỏi Thiền sư Văn Thù: “Vạn pháp đi về 1, 1 đi về đâu?” / ' +
       'Thiền sư Văn Thù nói: “Sông Hoàng Hà 9 khúc”',
     commentBeforeVerse:
       'Có lúc vì trăng sáng quá, chẳng biết rằng thuyền đã vượt quá Thương Châu',
@@ -629,7 +629,7 @@ const ChenTaiZongKoans = [
       'Chín khúc sông Hoàng khai tuệ nhãn / ' +
       'Đường xa không bước vẫn về nhà / ' +
       'Mở mắt bao lần quan sát lưới / ' +
-      'Không dè chim hạc đã bay qua !',
+      'Không dè chim hạc đã bay qua!',
   },
 
   {
@@ -637,9 +637,9 @@ const ChenTaiZongKoans = [
     title: 'TẮC THỨ 40: ',
     image: '/images/chen-tai-zong/chen-tai-zong-cover.jpg',
     main:
-      'Thiền sư Nam Tuyền hỏi Thiền sư Triệu Châu: “Chú là sa di có chủ hay sa di chưa có chủ ?” / ' +
+      'Thiền sư Nam Tuyền hỏi Thiền sư Triệu Châu: “Chú là sa di có chủ hay sa di chưa có chủ?” / ' +
       'Thiền sư Triệu Châu nói: “Có chủ” / ' +
-      'Thiền sư Nam Tuyền hỏi: “Chủ là ai ?” / ' +
+      'Thiền sư Nam Tuyền hỏi: “Chủ là ai?” / ' +
       'Thiền sư Triệu Châu chấp tay trước ngực nói: “Hôm nay trời lạnh, mong hòa thượng giây phút nào cũng có hạnh phúc”',
     commentBeforeVerse:
       'Khéo tay thì dùi cũng như kim' +

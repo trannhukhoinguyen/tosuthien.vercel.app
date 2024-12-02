@@ -22,7 +22,7 @@ const iconLibraries: { [key: string]: IconMap } = {
 
 const DynamicIcon: FC<IDynamicIcon> = ({ icon, ...props }) => {
   const IconLibrary = getIconLibrary(icon);
-  const Icon = IconLibrary ? IconLibrary[icon] : undefined;
+  const Icon = IconLibrary? IconLibrary[icon] : undefined;
 
   if (!Icon) {
     return <span className="text-sm">Icon not found</span>;

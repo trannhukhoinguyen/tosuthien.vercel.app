@@ -122,35 +122,35 @@ const booksOther = books?.filter(book => !book.type);
                 }
                 {
                   book.link2
-                    ? <button class='simple'>
+                   ? <button class='simple'>
                       <a href={book.link2} target="_blank" title="PDF P2">PDF 2</a>
                     </button>
                     : ''
                 }
                 {
                   book.linkAudio
-                    ? <button class='simple'>
+                   ? <button class='simple'>
                       <a href={book.linkAudio} target="_blank" title="Audios">📼</a>
                     </button>
                     : ''
                 }
                 {
                   book.linkAudio1
-                    ? <button class='simple'>
+                   ? <button class='simple'>
                       <a href={book.linkAudio1} target="_blank" title="Audios P1">📼 1</a>
                     </button>
                     : ''
                 }
                 {
                   book.linkAudio2
-                    ? <button class='simple'>
+                   ? <button class='simple'>
                       <a href={book.linkAudio2} target="_blank" title="Audios P2">📼 2</a>
                     </button>
                     : ''
                 }
                 {
                   book.saveAudio
-                    ? <button class='simple'>
+                   ? <button class='simple'>
                       <a href={ book.saveAudio } download="" title="Download Audio">⇩ Audio</a>
                     </button>
                     : ''
@@ -158,14 +158,14 @@ const booksOther = books?.filter(book => !book.type);
               </div>
             </div>
           return book.id === 1
-            ? <div class='card flex-row open'>{ item }</div>
+           ? <div class='card flex-row open'>{ item }</div>
             : <div class='card flex-row'>{ item }</div>
         })
       }
 
       {
-        !lang || lang === 'vi'
-          ? <h2>KHÁC</h2>
+       !lang || lang === 'vi'
+         ? <h2>KHÁC</h2>
           : <div></div>
       }
       {

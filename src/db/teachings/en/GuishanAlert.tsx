@@ -14,7 +14,7 @@ const GuishanAlert = {
     "Thân thể từ cha mẹ sanh ra, vốn thật chỉ là giả hợp các duyên. " +
     "Dù là nương nơi bốn đại mà tồn tại, nhưng bốn đại ấy chẳng lúc nào là không xung khắc. " +
     "Chuyện vô thường già chết không hề hẹn trước. " +
-    "Sớm còn tối mất, thoắt chốc  đã sang đời khác, như sương như móc, thoạt có thoạt không, như cây ven bờ vực, như dây leo vách giếng, có chi bền chắc ? " +
+    "Sớm còn tối mất, thoắt chốc  đã sang đời khác, như sương như móc, thoạt có thoạt không, như cây ven bờ vực, như dây leo vách giếng, có chi bền chắc? " +
     "Niệm niệm nhanh chóng nối nhau, chỉ trong chớp mắt, trút hơi thở đã qua kiếp khác. " +
     "Sao lại có thể yên lòng mà bỏ phí cuộc đời trôi qua vô ích?",
   paragraph2:
@@ -36,19 +36,19 @@ const GuishanAlert = {
     "Phật trước kia chế định giới luật, mở bày chỉ dạy người tăm tối, oai nghi phép tắc trong sạch như băng tuyết. " +
     "Kẻ mới phát tâm nương theo đó mà ngăn chặn mọi điều sai phạm. " +
     "Phép tắc tinh vi, dẹp bỏ hết những điều tồi tệ. " +
-    "Nơi truyền dạy giới luật chưa từng lạm được nương theo,2 pháp rốt ráo thượng thừa làm sao hiểu thấu ? " +
+    "Nơi truyền dạy giới luật chưa từng lạm được nương theo,2 pháp rốt ráo thượng thừa làm sao hiểu thấu? " +
     "Thật đáng tiếc thay, bỏ phí một đời trôi qua vô ích, sau dù hối tiếc cũng không còn kịp nữa. " +
     "Lời Phật dạy không chịu ghi lòng tạc dạ thì đạo nhiệm mầu không thể do đâu mà tỏ ngộ. " +
     "Cho đến khi tuổi tác về già, dù xuất gia trải đã nhiều năm mà trong tâm thật chẳng được gì. " +
     "Vì chẳng chịu gần gũi học người hiền đức, chỉ biết ngông nghênh cao ngạo. " +
     "Chưa thông giới luật, chẳng biết tự chế phục mình. " +
-    "To tiếng nặng lời khoác lác huyênh hoang, chẳng biết kính nhường kẻ trên người dưới, so ra khác gì ngoại đạo ? " +
+    "To tiếng nặng lời khoác lác huyênh hoang, chẳng biết kính nhường kẻ trên người dưới, so ra khác gì ngoại đạo? " +
     "Đến bữa ăn khua bát ồn ào, ăn vội vàng đứng dậy đi trước. " +
     "Đi ở không tuân phép tắc, chẳng ra dáng vẻ bậc xuất gia, đứng ngồi hoảng loạn, náo động tâm người khác. " +
     "Phép tắc ít nhiều chẳng giữ, oai nghi lớn nhỏ đều không, chẳng dựa vào đâu để răn đe kẻ dưới, " +
     "mà người mới nhập đạo nhìn vào cũng chẳng thấy có gì để noi theo học.",
   paragraph4:
-    "Như có ai vừa chỉ ra chỗ sai sót, liền bảo rằng: Như ta đây mới thật bậc ẩn tu ! " +
+    "Như có ai vừa chỉ ra chỗ sai sót, liền bảo rằng: Như ta đây mới thật bậc ẩn tu! " +
     "Chưa nghe làm theo lời Phật dạy, chỉ một lòng ôm giữ tánh tình thô thiển. " +
     "Chỗ thấy biết như vậy, chung quy cũng là vì khi mới nhập đạo biếng nhác chẳng tinh cần, tham đắm thế tục, lần lữa qua ngày. " +
     "Thấm thoát hết đời thành ra buông lung thô lỗ. " +
@@ -58,7 +58,7 @@ const GuishanAlert = {
     "Bấy giờ mới sớm tối lo sợ, tâm tưởng hoang mang. Đường sắp tới u ám mê mờ chẳng biết về đâu! " +
     "Trong lòng hối tiếc cũng không còn kịp nữa, như kẻ khát nước mới đi đào giếng, có ích lợi gì? " +
     "Tự hận mình trước đã không sớm lo tu tập, để khi tuổi già chất chứa đầy tội lỗi. " +
-    "Cái chết gần kề trong thoáng chốc, hãi hùng khiếp sợ biết bao !",
+    "Cái chết gần kề trong thoáng chốc, hãi hùng khiếp sợ biết bao!",
   paragraph5:
     "Trút hơi thoát khỏi cuộc đời, như con chim bay xuyên qua dải lụa, nghiệp lực dắt dẫn thần thức trôi lăn. " +
     "Như người nhiều nợ lắm chủ theo đòi, ai mạnh được trước, tạo nghiệp đã nhiều, phải tùy theo chỗ nặng nề nhất mà thọ thân gánh chịu. " +
@@ -70,17 +70,17 @@ const GuishanAlert = {
   paragraph6:
     "Đáng buồn là chúng ta sanh ra cuối thời tượng pháp, cách xa các bậc thánh hiền, pháp  Phật  chẳng mấy ai am hiểu, nhiều người giải đãi. " +
     "Vì vậy lược nói ra đây đôi chút thấy biết hẹp hòi để khuyên răn những người hậu học. " +
-    "Nếu chẳng từ bỏ sự kiêu căng cao ngạo, nết cũ thật khó chuyển đổi ! " +
+    "Nếu chẳng từ bỏ sự kiêu căng cao ngạo, nết cũ thật khó chuyển đổi! " +
     "Người đã xuất gia, cất bước vượt lên cao xa, tâm tánh, cốt cách khác người thế tục. " +
     "Tiếp nối mà làm hưng thịnh đạo pháp, nhiếp phục hết thảy những thói hư tật xấu. " +
     "Lấy việc ấy mà báo đáp bốn ơn, bạt khổ cứu nguy khắp trong ba cõi. " +
     "Nếu không được vậy, chỉ là kẻ lạm mang hình tướng xuất gia, lời nói việc làm phóng túng lơ đễnh, uổng nhận sự cúng dường của thập phương tín thí.",
   paragraph7:
-    "Như người giậm chân tại chỗ, dù nhiều năm qua một tấc chẳng dời ! " +
-    "Mơ màng thoắt chốc qua hết một đời, chẳng biết nương vào đâu làm chỗ dựa ! " +
+    "Như người giậm chân tại chỗ, dù nhiều năm qua một tấc chẳng dời! " +
+    "Mơ màng thoắt chốc qua hết một đời, chẳng biết nương vào đâu làm chỗ dựa! " +
     "Huống chi, đường đường mang hình tướng của một vị tăng, dáng vẻ tốt đẹp, đều là quả báo có được nhờ căn lành gieo trồng từ thuở trước. " +
-    "Lẽ đâu lại khoanh tay ngồi yên để thời gian trôi qua không hối tiếc? Sự nghiệp nếu chẳng chuyên cần, dựa vào đâu mà mong thành đạo quả ? " +
-    "Chẳng những một đời vô ích, cho đến kiếp sau cũng chẳng được gì ! " +
+    "Lẽ đâu lại khoanh tay ngồi yên để thời gian trôi qua không hối tiếc? Sự nghiệp nếu chẳng chuyên cần, dựa vào đâu mà mong thành đạo quả? " +
+    "Chẳng những một đời vô ích, cho đến kiếp sau cũng chẳng được gì! " +
     "Quyết tâm rời bỏ mẹ cha, khoác áo nâu sòng là ý muốn vượt trên thế tục.",
   paragraph8:
     "Sớm tối khắc ghi việc ấy, lẽ đâu để luống ngày qua? Nguyện làm được bậc trụ cột trong Phật pháp, nêu gương hậu thế. " +
@@ -94,7 +94,7 @@ const GuishanAlert = {
     "Được gần người hiền như đi giữa đám hơi sương, tuy không ướt áo nhưng lúc nào cũng được ẩm mát. " +
     "Gần kẻ ác thì nuôi lớn thêm điều ác trong chỗ thấy biết, sớm tối làm việc ác liền phải chịu lấy quả báo trước mắt. " +
     "Sau khi chết rồi phải chịu chìm đắm, thân người một khi mất đi, muôn kiếp khó lòng được lại. " +
-    "Lời nói thẳng trái tai, sao không khắc ghi vào tâm khảm ? " +
+    "Lời nói thẳng trái tai, sao không khắc ghi vào tâm khảm? " +
     "Theo đó liền có thể lắng sạch tâm trí, nuôi dưỡng đức hạnh, lui về chỗ vắng vẻ không còn hình tích danh tánh, " +
     "giữ lòng chuyên chú trong sạch mà dứt hết sự ồn ào nhiễu loạn.",
   paragraph10:
@@ -126,7 +126,7 @@ const GuishanAlert = {
     "Đời đời kiếp kiếp về sau nhờ đó mà được hưởng quả phước rất nhiệm mầu.",
   paragraph14:
     "Không nên nhàn nhã để phí ngày qua, biếng nhác bỏ đi thời khắc. " +
-    "Thời gian quý giá biết bao, sao chẳng cầu vươn tới ? " +
+    "Thời gian quý giá biết bao, sao chẳng cầu vươn tới? " +
     "Uổng nhận của thập phương tín thí, lại phụ cả bốn ơn. " +
     "Phiền lụy chất chứa càng nhiều, bụi trần khuất lấp tâm trí, đường tới thành ra ngăn lấp, người người đều khinh chê.",
   paragraph15:

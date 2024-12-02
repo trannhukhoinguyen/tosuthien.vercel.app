@@ -16,7 +16,7 @@ const GatelessGate = [
 'Nếu không vượt nổi ải chắn của tổ, không dẹp bỏ được mọi ý thức thì còn giống hồn phách phải nương tựa cây cỏ. / ' +
 'Thế thì cửa ải của các tổ là gì nào? Ở đây nó chỉ là một chữ Vô (Không) mà thôi, nhưng chính ra đối với tông môn, đó là một ải chắn vô cùng quan trọng. / ' +
 'Muốn dùng một cái tên ngắn gọn thì gọi nó là cái “Ải tên là Vô” hay Ải không cửa của nhà Thiền. / ' +
-'Kẻ vượt được cái ải chắn này rồi, chẳng những có thể gặp gỡ hòa thượng Triệu Châu, mắt trong mắt, mà còn có thể kết nối lông mi lông mày với chư vị tổ sư, nhìn mọi vật bằng bằng con mắt của tổ, nghe mọi tiếng bằng lỗ tai của tổ. Có phải thống khoái không ? / ' +
+'Kẻ vượt được cái ải chắn này rồi, chẳng những có thể gặp gỡ hòa thượng Triệu Châu, mắt trong mắt, mà còn có thể kết nối lông mi lông mày với chư vị tổ sư, nhìn mọi vật bằng bằng con mắt của tổ, nghe mọi tiếng bằng lỗ tai của tổ. Có phải thống khoái không? / ' +
 'Có ai muốn vượt qua cái cửa ải kỳ diệu này không? Nếu có thì hãy tổng động viên 365 khớp xương cùng với 84000 lỗ chân lông, toàn thân tụ thành một khối nghi ngờ lớn, rồi tham thiền bằng một chữ Vô. Ngày cũng như đêm không lúc nào quên đặt vấn đề. / ' +
 'Không nên coi chữ Vô này trong cái nghĩa “vô của hư vô” và cũng không nên nên hiểu nó trong cái nghĩa vô của hữu vô. / ' +
 'Hãy làm như mình đang ngậm một hòn thép nóng bỏng ở trong miệng, muốn khạc ra mà không khạc được, muốn nuốt vào mà nuốt không trôi.  / ' +
@@ -131,7 +131,7 @@ const GatelessGate = [
     main:
 'Hòa thượng Hương Nghiêm nói (với môn đệ) như sau: / ' +
 'Cái quan trọng của thiền vốn giống người leo cây. Miệng ngoặm lấy cành cây, thân treo lủng lẳng, tay không bám tới cành, chân không đạp được cành. / ' +
-'Lúc đó nếu có người đứng bên dưới cây đặt câu hỏi: Lúc Đạt Ma ở Thiên Trúc qua thì bản tâm của ngài như thế nào ? / ' +
+'Lúc đó nếu có người đứng bên dưới cây đặt câu hỏi: Lúc Đạt Ma ở Thiên Trúc qua thì bản tâm của ngài như thế nào? / ' +
 'Người đó không mở miệng trả lời thì phụ lòng kẻ hỏi, nhưng nếu trả lời sẽ rơi từ trên cây xuống mất mạng. Giữa lúc như thế, thử hỏi phải đáp làm sao?',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: / ' +
@@ -185,7 +185,7 @@ const GatelessGate = [
 'Một người đến học thiền sư Triệu Châu, ngỏ với ông rằng: Tôi là kẻ lưu lạc mới nhập môn ở đạo tràng. Dám xin lão sư chỉ dạy. / ' +
 'Ông mới hỏi: Thế ngươi đã ăn xong cháo sáng chưa? / ' +
 'Người ấy trả lời: Thưa đã / ' +
-'Thiền sư bèn nói: Thế thì đem bát rửa đi ! / ' +
+'Thiền sư bèn nói: Thế thì đem bát rửa đi! / ' +
 'Người ấy bèn hiểu ra.',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: / ' +
@@ -229,8 +229,8 @@ const GatelessGate = [
     title: 'CASE 9: Phật Đại Thông Trí Thắng (Đại Thông Trí Thắng)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Có một tăng sĩ hỏi hòa thượng Hưng Dương Thanh Nhượng: Nghe nói Phật Đại Thông Trí Thắng tu tọa thiền trong đạo trường lâu đến 10 kiếp nhưng Phật pháp không hiện ra trước mắt, Phật đạo cũng không thành tựu. Xin hỏi lý do tại sao ? / ' +
-'Thanh Nhượng mới trả lời: Câu hỏi của ông đặt ra bắn trúng đích đấy ! / ' +
+'Có một tăng sĩ hỏi hòa thượng Hưng Dương Thanh Nhượng: Nghe nói Phật Đại Thông Trí Thắng tu tọa thiền trong đạo trường lâu đến 10 kiếp nhưng Phật pháp không hiện ra trước mắt, Phật đạo cũng không thành tựu. Xin hỏi lý do tại sao? / ' +
+'Thanh Nhượng mới trả lời: Câu hỏi của ông đặt ra bắn trúng đích đấy! / ' +
 'Tăng bèn thưa: Ngài muốn nói: “Bởi vì tọa thiền trong đạo trường (nơi giác ngộ) cho nên đương nhiên là đã khai ngộ và thành tựu trong Phật đạo rồi, có lý do nào mà không thành tựu trong Phật đạo!” hay sao chứ? / ' +
 'Thanh Nhượng lại đáp: Lý do là vị đó “tự mình” không thành Phật mà thôi',
     commentBeforeVerseExtra:
@@ -256,8 +256,8 @@ const GatelessGate = [
     main:
 'Hòa thượng Tào Sơn nhân có một tăng sĩ hỏi: Thanh Thoát tôi nghèo khó cô đơn. Dám xin đại sư có gì chẩn tế cho. / ' +
 'Tào Sơn bèn gọi: Nầy thầy Thanh Thoát! ' +
-'Thoát bèn thưa: Vâng ! / ' +
-'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao ?',
+'Thoát bèn thưa: Vâng! / ' +
+'Tào Sơn lúc đó mới bảo: Rượu ngon Thanh Nguyên của họ Bạch, đã uống cạn ba bát lớn rồi mà thầy vẫn chưa thấy môi mình ướt hay sao?',
     commentBeforeVerseExtra:
 ' Vô Môn nói rằng: / ' +
 'Thanh Thoát thoạt nhìn ra vẻ nghiêm trang nhưng đang vụng về mánh mung thử thách chi đây. ' +

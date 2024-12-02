@@ -50,7 +50,7 @@ if (disabledLanguages.includes(lang)) {
         />
         {theme_switcher && (
           <ImageMod
-            src={srcDarkmode ? srcDarkmode : logo_darkmode}
+            src={srcDarkmode? srcDarkmode : logo_darkmode}
             class={"hidden dark:inline-block"}
             width={logo_width.replace("px", "") * 2}
             height={logo_height.replace("px", "") * 2}
@@ -63,7 +63,7 @@ if (disabledLanguages.includes(lang)) {
           />
         )}
       </>
-    ) : logo_text ? (
+    ) : logo_text? (
       logo_text
     ) : (
       title

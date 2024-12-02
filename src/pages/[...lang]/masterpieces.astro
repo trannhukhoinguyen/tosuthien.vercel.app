@@ -15,12 +15,12 @@ const { lang } = Astro.params;
 ---
 
   <Base
-    title={ site.title + !lang || lang === 'vi' ? 'Tuyệt tác' : ' - Masterpieces' }
-    meta_title={ site.meta_title + !lang || lang === 'vi' ? 'Tuyệt tác' : ' - Masterpieces' }
-    description={ site.meta_description + !lang || lang === 'vi' ? 'Tuyệt tác' : ' - Masterpieces' }
+    title={ site.title +!lang || lang === 'vi'? 'Tuyệt tác' : ' - Masterpieces' }
+    meta_title={ site.meta_title +!lang || lang === 'vi'? 'Tuyệt tác' : ' - Masterpieces' }
+    description={ site.meta_description +!lang || lang === 'vi'? 'Tuyệt tác' : ' - Masterpieces' }
     image={'/images/meta-image-square-1.jpg'}
   >
-  <PageHeader title={ !lang || lang === 'vi' ? 'Tuyệt tác' : 'Masterpieces' } />
+  <PageHeader title={!lang || lang === 'vi'? 'Tuyệt tác' : 'Masterpieces' } />
   <section class="section-sm">
     <div class="container">
 

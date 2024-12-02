@@ -61,7 +61,7 @@ const getData = (folder, groupDepth, langIndex = 0) => {
     })
     .flat();
 
-  const publishedPages = getPaths.filter((page) => !page.frontmatter?.draft);
+  const publishedPages = getPaths.filter((page) =>!page.frontmatter?.draft);
   return publishedPages;
 };
 

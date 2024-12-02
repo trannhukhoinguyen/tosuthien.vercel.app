@@ -62,19 +62,19 @@ const {
 
       {
         main
-          ? <h4>{main_case}</h4>
+         ? <h4>{main_case}</h4>
           : ''
       }
       {
         main?.split(' / ').length
-          ? main?.split(' / ').map(line => <p>{line}</p>)
+         ? main?.split(' / ').map(line => <p>{line}</p>)
           : main
       }
 
       {
         hasMultiParagraph && multiParagraph?.length
-          ? multiParagraph?.map(paragraph => paragraph.includes(' / ')
-              ? paragraph?.split(' / ').map(line => <p>{line}</p>)
+         ? multiParagraph?.map(paragraph => paragraph.includes(' / ')
+             ? paragraph?.split(' / ').map(line => <p>{line}</p>)
               : <p>{paragraph}</p>
           )
           : null
@@ -82,99 +82,99 @@ const {
 
       {
         commentBeforeVerseExtra
-          ? <h4>{comment}</h4>
+         ? <h4>{comment}</h4>
           : ''
       }
       {
         commentBeforeVerseExtra?.split(' / ').length
-          ? commentBeforeVerseExtra?.split(' / ').map(comment => <p>{comment}</p>)
+         ? commentBeforeVerseExtra?.split(' / ').map(comment => <p>{comment}</p>)
           : commentBeforeVerseExtra
       }
 
       {
         verseExtraOriginal
-          ? <hr/>
+         ? <hr/>
           <h4>{poem_original}</h4>
           : ''
       }
       {
         verseExtraOriginal?.split(' / ').length
-          ? verseExtraOriginal?.split(' / ').map(line => <p>{line}</p>)
+         ? verseExtraOriginal?.split(' / ').map(line => <p>{line}</p>)
           : ''
       }
 
       {
         verseExtra
-          ? <hr/>
+         ? <hr/>
           <h4>{poem_translated}</h4>
           : ''
       }
       {
         verseExtra?.split(' / ').length
-          ? verseExtra?.split(' / ').map(line => <p>{line}</p>)
+         ? verseExtra?.split(' / ').map(line => <p>{line}</p>)
           : ''
       }
 
       {
         commentAfterVerseExtra
-            ? <h4>{comment}</h4>
+           ? <h4>{comment}</h4>
             : ''
       }
       {
         commentAfterVerseExtra?.split(' / ').length
-            ? commentAfterVerseExtra?.split(' / ').map(comment => <p>{comment}</p>)
+           ? commentAfterVerseExtra?.split(' / ').map(comment => <p>{comment}</p>)
             : commentAfterVerseExtra
       }
 
       {
         commentBeforeVerse
-          ? <h4>{comment}</h4>
+         ? <h4>{comment}</h4>
           : ''
       }
       {
         commentBeforeVerse?.split(' / ').length
-          ? commentBeforeVerse?.split(' / ').map(comment => <p>{comment}</p>)
+         ? commentBeforeVerse?.split(' / ').map(comment => <p>{comment}</p>)
           : commentBeforeVerse
       }
 
       {
         verseOriginal
-          ? <hr/>
+         ? <hr/>
           <h4>{poem_original}</h4>
           : ''
       }
       {
         verseOriginal?.split(' / ').length
-          ? verseOriginal?.split(' / ').map(line => <p>{line}</p>)
+         ? verseOriginal?.split(' / ').map(line => <p>{line}</p>)
           : ''
       }
 
       {
         verse
-          ? <hr/>
+         ? <hr/>
           <h4>{poem_translated}</h4>
           : ''
       }
       {
         verse?.split(' / ').length
-          ? verse?.split(' / ').map(line => <p>{line}</p>)
+         ? verse?.split(' / ').map(line => <p>{line}</p>)
           : ''
       }
 
       {
         commentAfterVerse
-          ? <h4>{comment}</h4>
+         ? <h4>{comment}</h4>
           : ''
       }
       {
         commentAfterVerse?.split(' / ').length
-          ? commentAfterVerse?.split(' / ').map(comment => <p>{comment}</p>)
+         ? commentAfterVerse?.split(' / ').map(comment => <p>{comment}</p>)
           : commentAfterVerse
       }
 
       {
         longVerse?.split(' / ').length
-          ? longVerse?.split(' / ')?.map(line => <p>{line}</p>)
+         ? longVerse?.split(' / ')?.map(line => <p>{line}</p>)
           : ''
       }
 

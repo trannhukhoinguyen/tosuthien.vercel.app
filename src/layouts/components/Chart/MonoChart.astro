@@ -44,8 +44,8 @@ const masterData = flatMasterData.map(masterLv0 =>
           ?.filter(masterLv2 => masterLv2.id === 3)
           ?.map(masterLv2 => ({
             id: flatMasterData
-              ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 3))
-              ?.find(person=> masterLv1.disciples?.includes(person.name_en))?.id,
+             ?.filter(masterLv1 => (masterLv1.id + '')?.slice(0, (masterLv1.id + '')?.indexOf('.') === 3))
+             ?.find(person=> masterLv1.disciples?.includes(person.name_en))?.id,
             level: 3,
             name: masterLv2?.name_en,
       })),

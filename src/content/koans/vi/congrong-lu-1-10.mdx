@@ -15,8 +15,8 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
 
   {
     CongRongLu
-      ?.filter(koan => koan.id >= 1 && koan.id <= 10)
-      ?.map(koan => {
+     ?.filter(koan => koan.id >= 1 && koan.id <= 10)
+     ?.map(koan => {
         if (koan.id%10 === 1) {
           return <VintagePost
             bookTitle={`${koan.bookTitle} (1 - 10)`}

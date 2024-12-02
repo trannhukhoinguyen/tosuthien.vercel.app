@@ -50,21 +50,21 @@ const {
 
   <div class="container">
     <h2>{ in_masters }</h2>
-    <Table client:load data={InMasters} lang={lang ? lang : 'vi'} />
+    <Table client:load data={InMasters} lang={lang? lang : 'vi'} />
   </div>
 
   <div class="container">
     <h2>{ cn_masters } - { level_ }</h2>
-    <Table client:load data={CnMasters[0]} lang={lang ? lang : 'vi'}/>
+    <Table client:load data={CnMasters[0]} lang={lang? lang : 'vi'}/>
   </div>
 
   {
     CnMasters
-      ?.filter((master, index) => index !==0)
-      ?.map((CnMaster, CnMasterIndex) =>
+     ?.filter((master, index) => index!==0)
+     ?.map((CnMaster, CnMasterIndex) =>
     <div class="container">
       <h2>{ cn_masters } - { level__ } {CnMasterIndex+1}</h2>
-      <Table client:load data={CnMaster} lang={lang ? lang : 'vi'}/>
+      <Table client:load data={CnMaster} lang={lang? lang : 'vi'}/>
     </div>
       )
     }

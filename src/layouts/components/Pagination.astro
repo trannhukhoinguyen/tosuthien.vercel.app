@@ -27,13 +27,13 @@ for (let i = 1; i <= totalPages; i++) {
       aria-label="Pagination"
     >
       {/* previous */}
-      {hasPrevPage ? (
+      {hasPrevPage? (
         <a
           href={
             indexPageLink
-              ? slugSelector(`/${section ? section : ""}`, lang)
+             ? slugSelector(`/${section? section : ""}`, lang)
               : slugSelector(
-                  `/${section ? section : ""}/page/${currentPage - 1}`,
+                  `/${section? section : ""}/page/${currentPage - 1}`,
                   lang
                 )
           }
@@ -75,7 +75,7 @@ for (let i = 1; i <= totalPages; i++) {
 
       {/* page index */}
       {pageList.map((pagination, i) =>
-        pagination === currentPage ? (
+        pagination === currentPage? (
           <span
             aria-current="page"
             class="rounded bg-primary px-1 py-1 text-white dark:bg-darkmode-primary dark:text-dark"
@@ -86,8 +86,8 @@ for (let i = 1; i <= totalPages; i++) {
           <a
             href={slugSelector(
               i === 0
-                ? `/${section ? section : ""}`
-                : `/${section ? section : ""}/page/${pagination}`,
+               ? `/${section? section : ""}`
+                : `/${section? section : ""}/page/${pagination}`,
               lang
             )}
             aria-current="page"
@@ -99,10 +99,10 @@ for (let i = 1; i <= totalPages; i++) {
       )}
 
       {/* next page */}
-      {hasNextPage ? (
+      {hasNextPage? (
         <a
           href={slugSelector(
-            `/${section ? section : ""}/page/${currentPage + 1}`,
+            `/${section? section : ""}/page/${currentPage + 1}`,
             lang
           )}
           class="rounded px-1 py-1 text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light"
