@@ -2692,15 +2692,15 @@ const IronFlute = [
     commentBeforeVerse:
       'Fugai: / ' +
       '# Có thể ông ta không biết chỗ nào khác để dọn đi. / ' +
-      ' Fugai: Vật đắt tiền chẳng phải luôn luôn là đồ quí. / ' +
-      ' Fugai: Nhờ bị bể mà kho tàng hiện ra. / ' +
-      ' Fugai:  Tại sao ông muốn cái khác. / ' +
+      '# Vật đắt tiền chẳng phải luôn luôn là đồ quí. / ' +
+      '# Nhờ bị bể mà kho tàng hiện ra. / ' +
+      '#  Tại sao ông muốn cái khác. / ' +
       'Fugai: Tôi sẽ giơ hai bàn tay ra và cười lớn. / ' +
       'Fugai: Tôi sẽ đi tìm nó trước khi tôi sinh ra đời. / ' +
       '[Fugai: Cái mâm còn nguyên đó.] / ' +
       '[Thanh kiếm biến mất trong nước.] / ' +
       '[Nó đã trở lại với ông ta rồi.] / ' +
-      '[Ông có thể gọi đất là trời. . . có gì là sai?]',
+      '[Ông có thể gọi đất là trời có gì là sai?]',
     commentAfterVerse:
       '',
   },
@@ -2716,17 +2716,17 @@ const IronFlute = [
       'Genro: / ' +
       '# Pháp Nhãn không bao giờ hạ giá đã định. / ' +
       '# Giọt nước này từ nguồn; / ' +
-      'Không có gì độc hơn. . . / ' +
+      'Không có gì độc hơn / ' +
       'Chớ nói biết nóng lạnh. / ' +
       'Bao nhiêu người uống được?',
     commentBeforeVerse:
       'Fugai: / ' +
-      'Ông ta dùng độc trị độc. / ' +
-      'Fugai: Chẳng có giá nhất định. / ' +
-      '[Fugai: Hoàng hà ô nhiễm tại nguồn.] / ' +
-      '[Ai uống vào ắt mất mạng.] / ' +
-      '[Ai biết vị ấy.] / ' +
-      '[Tôi đã uống rồi.]',
+      '# Ông ta dùng độc trị độc. / ' +
+      '# Chẳng có giá nhất định. / ' +
+      '# Hoàng hà ô nhiễm tại nguồn. / ' +
+      'Ai uống vào ắt mất mạng. / ' +
+      'Ai biết vị ấy. / ' +
+      'Tôi đã uống rồi.',
     commentAfterVerse:
       '',
   },
@@ -2772,7 +2772,7 @@ const IronFlute = [
       'Fugai: Ông chỉ cần lộ mặt ra. / ' +
       'Như Huyễn: Tôi không thích cái mặt đó. / ' +
       ' Không diễn tả mình trước khi sinh. / ' +
-      ' Fugai: Người ta nên đọc không chữ. / ' +
+      '# Người ta nên đọc không chữ. / ' +
       'Như Huyễn:  Tôi hiểu mười ngàn chữ Hán nhưng chúng chẳng làm tôi phiền. / ' +
       'Genro: Cứ như Tào Sơn nói, tôi sẽ hỏi tăng nhân các ông: / ' +
       ' [Fugai: Hỏi đi! Tôi sẽ đáp từng câu.] / ' +
