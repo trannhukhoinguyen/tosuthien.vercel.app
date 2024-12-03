@@ -5,29 +5,35 @@ const IronFlute = [
       author: 'Genro - Thiên Khi Như Huyễn',
       title: 'TẮC THỨ 1: VĂN THÙ VÀO CỬA',
       hashTag: '/iron-flute-1',
-      image: '/images/iron-flute/iron-flute-cover.jpg',
+      image: 'https://tve-4u.org/attachments/cover-jpg.18650/',
       main:
         ' Một hôm Bồ-tát Văn Thù đứng ngoài cửa thì đức Phật gọi: "Văn Thù, Văn Thù, sao không vào đi?" / ' +
         ' Văn Thù đáp: "Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào?"',
       commentBeforeVerse:
         '',
       commentAfterVerse:
-        'Như Huyễn: Những câu chuyện Thiền là những vấn đề của cuộc sống, chủ đề của thiền định. Không nhất thiết phải là đối thoại giữa Phật và Văn Thù.  / ' +
+        'Như Huyễn: / ' +
+        'Những câu chuyện Thiền là những vấn đề của cuộc sống, chủ đề của thiền định. Không nhất thiết phải là đối thoại giữa Phật và Văn Thù.  / ' +
         'Giả sử có ai trong quí vị lưỡng lự không bước vào Thiền đường này, tôi nói: “Sao không vào đi?”  / ' +
         'Nếu là người tỉnh giác trong lúc đó, sẽ nói: “Tôi chẳng thấy cái gì ở ngoài cửa. Tại sao tôi phải vào?”  / ' +
         'Y chẳng thấy vật gì tách rời Thiền đường; trong và ngoài là những chữ để so sánh. / ' +
         'Nhất thiết y chẳng nghe gì, chẳng thấy gì, chẳng sờ gì, chẳng ngửi gì, chẳng nếm gì, và chẳng nghĩ gì mà chỉ từ tốn đến chỗ của mình ngồi xuống. / ' +
         'Thế thì tôi còn có thể làm gì khác hơn là ca ngợi một người hoàn toàn tự do tự tại như vậy? / ' +
-        'Con người vẫn còn trẻ và ngu dại. Thay vì học tính hợp nhất từ các tôn giáo, y học lấy tính nhị nguyên. / ' +
+        'Con người vẫn còn trẻ và ngu dại. ' +
+        'Thay vì học tính hợp nhất từ các tôn giáo, y học lấy tính nhị nguyên. / ' +
         'Với ảo tưởng của mình, nếu có dịp, y liền dựng lên cái cửa, rồi thấy có vật ở bên ngoài cửa.  / ' +
-        'Y nghe, ngửi, nếm, sờ và nghĩ theo lập trường vị kỷ. Y nói về bốn biển đều là anh em, nhưng chẳng hiểu nguyên lý của nó.  / ' +
+        'Y nghe, ngửi, nếm, sờ và nghĩ theo lập trường vị kỷ. ' +
+        'Y nói về bốn biển đều là anh em, nhưng chẳng hiểu nguyên lý của nó.  / ' +
         'Thế giới cần Văn Thù mà không cần chúa cứu thế, không cần đấng tiên tri. Văn Thù là ai? / ' +
-        'Văn Thù biểu tượng cho trí tuệ Phật. Văn Thù cưỡi sư tử, diệt tất cả mê hoặc, với thanh kiếm bén chém đứt tất cả ràng buộc, vướng mắc ngăn chặn sự giải thoát. / ' +
+        'Văn Thù biểu tượng cho trí tuệ Phật. ' +
+        'Văn Thù cưỡi sư tử, diệt tất cả mê hoặc, với thanh kiếm bén chém đứt tất cả ràng buộc, vướng mắc ngăn chặn sự giải thoát. / ' +
         'Một số Phật tử nghĩ rằng Văn Thù là đệ tử của Phật Thích Ca Mâu Ni; một số khác nói về kiếp trước và kiếp này của Văn Thù được phép lạ mật khải. / ' +
-        'Hãy để họ nằm mộng thế nào tùy thích. Người học Thiền phải gặp Vằn Thù trong chính mình. / ' +
+        'Hãy để họ nằm mộng thế nào tùy thích. ' +
+        'Người học Thiền phải gặp Vằn Thù trong chính mình. / ' +
         'Trong kinh Hoa Nghiêm đề cập đến bốn thế giới: thế giới của sự, thế giới của lý, thế giới hài hòa của sự và lý, và thế giới hài hòa của sự và sự. / ' +
         'Văn Thù trong câu chuyện của chúng ta sống ở bên kia thế giới của sự, trong thế giới của lý nhưng chưa biết làm cho hai thế giới ấy hài hòa. / ' +
-        'Phổ Hiền biểu tượng cho từ ái của Phật. Phổ Hiền cưỡi voi, kiên nhẫn xuyên qua các khu rừng già, yêu thương và kính trọng tất cả chúng sinh. / ' +
+        'Phổ Hiền biểu tượng cho từ ái của Phật. ' +
+        'Phổ Hiền cưỡi voi, kiên nhẫn xuyên qua các khu rừng già, yêu thương và kính trọng tất cả chúng sinh. / ' +
         'Phổ Hiền không tuyên bố lý do như Văn Thù mà chỉ lặng lẽ đi qua cửa.  / ' +
         'Trái tim của Phổ Hiền là trái tim của Phật, ứng đáp tiếng gọi Phật như một tiếng vang. / ' +
         'Thế giới thứ tư của kinh Hoa Nghiêm đôi khi được nói đến như là “Thiên Quốc” / ' +
@@ -198,7 +204,8 @@ const IronFlute = [
         'Sách trong thư viện, kinh trong chùa, hàng trăm và hàng ngàn, đang toi công đãi bữa tiệc chân thực cho những ngẫu tượng có máu thịt! / ' +
         'Rốt cuộc Vân Môn đã phí lời trong bài pháp vĩ đại của sư.',
       commentAfterVerse:
-        'Genro: Trên đầu chỉ có một bầu trời xanh. Các Tổ, sư xưa ở đâu? Dưới chân chỉ có một quả đất lành. / ' +
+        'Genro: / ' +
+        'Trên đầu chỉ có một bầu trời xanh. Các Tổ, sư xưa ở đâu? Dưới chân chỉ có một quả đất lành. / ' +
         'Mắt của các Tổ,sư xưa ở đâu? Bữa tiệc của Vân Môn chỉ là cái bóng, đâu có gì lạ, các vị thần không thể thỏa mãn cái đói của họ. / ' +
         'Các ông muốn biết tôi làm tiệc ở miếu thần như thế nào không? Tôi đóng cửa lại, nằm dài xuống sàn nhà, sải tay duỗi chân ra, ngủ một giấc. / ' +
         'Tại sao? Bởi vì có câu nói, “Tách đầy đến miệng không chứa thêm trà. Đất tốt chẳng từng sinh người đói.”',
@@ -214,18 +221,33 @@ const IronFlute = [
         'Ông tăng đáp, “Vậy thì hòa thượng phải nói giùm con đi.” / ' +
         'Vân Cư nói, “Tân la! Tân la!” và kết thúc cuộc đối thoại. / ' +
         'Sau đó, một Thiền sư thuộc phái Hoàng Long phê bình câu chuyện: / ' +
-        '“Vân Cư chẳng hiểu được ông tăng gì cả. Giữa họ có cái biển lớn, dù cho họ cùng sống trong một ngôi chùa.” ',
+        '“Vân Cư chẳng hiểu được ông tăng gì cả. Giữa họ có cái biển lớn, dù cho họ cùng sống trong một ngôi chùa”.',
       commentBeforeVerse:
-        'Như Huyễn: Vân Cư sống ở phía nam Trung hoa vào những năm sau của thế kỷ thứ chín sau Tây lịch. Ông tăng Triều tiên ấy đã vượt Hoàng hải và có lẽ cả Biển Đông Trung Hoa nữa để đến với Vân Cư. Nhiệt tâm của ông tăng này đã vượt đa số các ông tăng hành cước. Tôi có thể hình dung ra ông tăng ngày đêm ngồi thiền. Cho đến cuối cùng, ông ta đã vào chánh định và khám pha ra chân ngã của mình tựa như chợt tỉnh cơn mộng. Ngôn ngữ nhân gian không lời tả được ông đã được cái gì. / ' +
-        ' Thích Tông Diễn đã có lần nói, “Thiền định chẳng phải là chuyện khó làm. Nó là con đường đưa ông về quê hương đã mất tích từ lâu.” Vân Cư đã có kinh nghiệm riêng, vì thế sư tuyên bố rằng chẳng có gì khó khi diễn tả cái gì người ta đạt được. Ông tăng thì còn trong cơn xúc động mạnh vì ngộ, vì thế ông yêu cầu thầy nói ra giúp ông ta. Sư nói, “Tân la! Tân la!” để mừng ông trên đường trở về nhà. Tôi thâm cảm tình huynh đệ của sư, nhưng phải nói rằng sư đã không diễn đạt điều ông tăng muốn. Sư nên đợi ông tăng vài phút và để cho ông tăng tự nói. Dù vậy, một câu tán thán cũng không phải là lời miêu tả sự đạt ngộ. Như Đại sư Nam Nhạc nói, “Nếu nói một vật tức chẳng trúng.” Ông tăng đã yêu cầu một điều tuyệt đối không thể được. / ' +
-        '',
+        'Như Huyễn: / ' +
+        'Vân Cư sống ở phía nam Trung hoa vào những năm sau của thế kỷ thứ chín sau Tây lịch. / ' +
+        'Ông tăng Triều tiên ấy đã vượt Hoàng hải và có lẽ cả Biển Đông Trung Hoa nữa để đến với Vân Cư. / ' +
+        'Nhiệt tâm của ông tăng này đã vượt đa số các ông tăng hành cước. / ' +
+        'Tôi có thể hình dung ra ông tăng ngày đêm ngồi thiền. / ' +
+        'Cho đến cuối cùng, ông ta đã vào chánh định và khám pha ra chân ngã của mình tựa như chợt tỉnh cơn mộng. / ' +
+        'Ngôn ngữ nhân gian không lời tả được ông đã được cái gì. / ' +
+        'Thích Tông Diễn đã có lần nói, “Thiền định chẳng phải là chuyện khó làm. / ' +
+        'Nó là con đường đưa ông về quê hương đã mất tích từ lâu”. / ' +
+        'Vân Cư đã có kinh nghiệm riêng, vì thế sư tuyên bố rằng chẳng có gì khó khi diễn tả cái gì người ta đạt được. / ' +
+        'Ông tăng thì còn trong cơn xúc động mạnh vì ngộ, vì thế ông yêu cầu thầy nói ra giúp ông ta. / ' +
+        'Sư nói, “Tân la! Tân la!” để mừng ông trên đường trở về nhà. / ' +
+        'Tôi thâm cảm tình huynh đệ của sư, nhưng phải nói rằng sư đã không diễn đạt điều ông tăng muốn. / ' +
+        'Sư nên đợi ông tăng vài phút và để cho ông tăng tự nói. / ' +
+        'Dù vậy, một câu tán thán cũng không phải là lời miêu tả sự đạt ngộ / ' +
+        'Như Đại sư Nam Nhạc nói, “Nếu nói một vật tức chẳng trúng”. / ' +
+        'Ông tăng đã yêu cầu một điều tuyệt đối không thể được. / ',
       commentAfterVerse:
-        'Genro: Ông tăng phái Hoàng Long đã không hiểu được Vân Cư. Giữa họ có một hòn núi lớn, dù họ là những người đồng thời. / ' +
-        ' Mở miệng có gì khó;' +
-        ' Tả vật có khó gì. / ' +
-        ' Tăng từ Tân la đến,' +
-        ' Chẳng phải tăng lang thang,' +
-        ' Chưa về được quê xưa.',
+        'Genro: / ' +
+        'Ông tăng phái Hoàng Long đã không hiểu được Vân Cư. Giữa họ có một hòn núi lớn, dù họ là những người đồng thời. / ' +
+        'Mở miệng có gì khó / ' +
+        'Tả vật có khó gì / ' +
+        'Tăng từ Tân la đến / ' +
+        'Chẳng phải tăng lang thang / ' +
+        'Chưa về được quê xưa',
     },
   {
       id: 9,
@@ -233,25 +255,37 @@ const IronFlute = [
       image: '/images/iron-flute/iron-flute-cover.jpg',
       main:
         'Thúy Nham nghĩ mình đã đạt được Thiền, rời chùa của Từ Minh đi hành cước khắp cả Trung hoa lúc sư còn là một ông tăng trẻ. / ' +
-        'Mấy năm sau, sư trở lại viếng chùa xưa. Thầy cũ của sư bảo, “Hãy nói tôi nghe đại ý Phật pháp.” Thúy Nham đáp,' +
-        '“Đỉnh núi không mây tụ,' +
-        ' Trăng sáng rơi đáy hồ.”' +
-        'Từ Minh tức giận nhìn người đệ tử già của mình, “Ông đã già rồi, tóc bạc, răng long mà còn kiến giải như thế. Làm sao thoát được sanh tử?” Thúy Nham cúi đầu, nước mắt ràng rụa. Sau vài phút, sư thỉnh cầu, “Xin hòa thượng từ bi nói cho con nghe đại ý Phật pháp.” Từ Minh đáp,' +
-        '“Đỉnh núi không mây tụ,' +
-        ' Trăng sáng rơi đáy hồ.”' +
+        'Mấy năm sau, sư trở lại viếng chùa xưa. / ' +
+        'Thầy cũ của sư bảo, “Hãy nói tôi nghe đại ý Phật pháp”. / ' +
+        'Thúy Nham đáp, / ' +
+        '“Đỉnh núi không mây tụ / ' +
+        'Trăng sáng rơi đáy hồ” / ' +
+        'Từ Minh tức giận nhìn người đệ tử già của mình, “Ông đã già rồi, tóc bạc, răng long mà còn kiến giải như thế. Làm sao thoát được sanh tử?” / ' +
+        'Thúy Nham cúi đầu, nước mắt ràng rụa. Sau vài phút, sư thỉnh cầu, “Xin hòa thượng từ bi nói cho con nghe đại ý Phật pháp”. / ' +
+        'Từ Minh đáp, / ' +
+        '“Đỉnh núi không mây tụ / ' +
+        ' Trăng sáng rơi đáy hồ”. / ' +
         'Từ Minh chưa nói hết câu, Thúy Nham đã ngộ.',
       commentBeforeVerse:
-        'Như Huyễn: Không ngừng suy nghĩ rằng thực tại chơn như ở bên kia trí tưởng tượng, Thúy Nham đã tự lừa mình trong những năm vọng tưởng. Khi đi hành cước, chắc chắn sư đã nói tự do thoải mái về Phật pháp, vay mượn lời của những người khác, và cuối cùng đã cố vượt qua sự giả trá ấy với thầy. Chính những lời đó không có gì sai khi nói ra, nhưng chúng không âm vang từ đáy lòng. Khi Từ Minh tức giận trách mắng, thì trái tim của Thúy Nham lần đầu tiên đảo lộn từ trong ra ngoài, sư thấy cái xấu xí của mình. Hổ thẹn cúi đầu thỉnh cầu thầy nói cho đại ý Phật pháp. Câu đáp là,' +
-        ' “Đỉnh núi không mây tụ,' +
-        ' Trăng sáng rơi đáy hồ.”' +
-        'Nó không phải chỉ là sự miêu tả cảnh đẹp, nó là ý chỉ chơn chánh của Phật pháp. Nếu người nghe không nhận ra chân lý vào phút giây như thế, Thiền chỉ là thứ vô dụng trên thế gian. / ' +
+        'Như Huyễn: / ' +
+        'Không ngừng suy nghĩ rằng thực tại chơn như ở bên kia trí tưởng tượng, Thúy Nham đã tự lừa mình trong những năm vọng tưởng. / ' +
+        'Khi đi hành cước, chắc chắn sư đã nói tự do thoải mái về Phật pháp, vay mượn lời của những người khác, và cuối cùng đã cố vượt qua sự giả trá ấy với thầy. / ' +
+        'Chính những lời đó không có gì sai khi nói ra, nhưng chúng không âm vang từ đáy lòng. / ' +
+        'Khi Từ Minh tức giận trách mắng, thì trái tim của Thúy Nham lần đầu tiên đảo lộn từ trong ra ngoài, sư thấy cái xấu xí của mình. / ' +
+        'Hổ thẹn cúi đầu thỉnh cầu thầy nói cho đại ý Phật pháp. / ' +
+        'Câu đáp là, / ' +
+        '“Đỉnh núi không mây tụ / ' +
+        'Trăng sáng rơi đáy hồ” / ' +
+        'Nó không phải chỉ là sự miêu tả cảnh đẹp, nó là ý chỉ chơn chánh của Phật pháp. / ' +
+        'Nếu người nghe không nhận ra chân lý vào phút giây như thế, Thiền chỉ là thứ vô dụng trên thế gian. / ' +
         '',
       commentAfterVerse:
-        'Genro: Thúy Nham đã biết cách lái thuyền xuôi theo dòng, nhưng chưa từng mộng thấy cơn bão đòi hỏi sư phải đi ngược dòng. / ' +
-        ' Ống bễ thổi cao ngọn lửa rèn' +
-        ' Kiếm từng được búa nện trên đe' +
-        ' Cũng cùng là thép ban đầu ấy' +
-        ' Nhưng lưỡi giờ đây khác biết bao!',
+        'Genro: / ' +
+        'Thúy Nham đã biết cách lái thuyền xuôi theo dòng, nhưng chưa từng mộng thấy cơn bão đòi hỏi sư phải đi ngược dòng. / ' +
+        'Ống bễ thổi cao ngọn lửa rèn / ' +
+        'Kiếm từng được búa nện trên đe / ' +
+        'Cũng cùng là thép ban đầu ấy / ' +
+        'Nhưng lưỡi giờ đây khác biết bao!',
     },
   {
       id: 10,
@@ -265,19 +299,24 @@ const IronFlute = [
         'Quan tri phủ nói: / ' +
         '“Thầy ắt có pháp thâm sâu, nhưng tôi chẳng hiểu pháp ấy.” / ' +
         'Dược Sơn tiếp: / ' +
-        '“Nếu muốn nắm giữ nó, ngài phải leo lên ngọn núi cao nhất và ngồi trên chóp đỉnh hoặc phải lặn xuống biển sâu nhất và bước đi nơi đáy nó. Vào giường riêng để ngủ mà tâm trĩu nặng, làm sao ngài có thể nắm giữ được Thiền của tôi?”',
+        '“Nếu muốn nắm giữ nó, ngài phải leo lên ngọn núi cao nhất và ngồi trên chóp đỉnh hoặc phải lặn xuống biển sâu nhất và bước đi nơi đáy nó. ' +
+        'Vào giường riêng để ngủ mà tâm trĩu nặng, làm sao ngài có thể nắm giữ được Thiền của tôi?”',
       commentAfterVerseExtra:
         'Như Huyễn: / ' +
-        'Khi một người giữ giới luật, y có thể thiền định tốt; khi sự thiền định thành thục, y có thể đạt trí tuệ. / ' +
+        '# Khi một người giữ giới luật, y có thể thiền định tốt; khi sự thiền định thành thục, y có thể đạt trí tuệ. / ' +
         'Vì 3 cái này (iới, Định và Tuệ) tương quan và thiết yếu như nhau, không một cái nào trong 3 cái này có thể thực hiện riêng rẽ như một cái học độc lập. / ' +
         'Nhưng ông quan tri phủ đang cố gắng hiểu pháp như ông ta hiểu một cuộc khảo hạch nhiệm vụ công dân. / ' +
         'Chính ông ta đã có đám người thường được tuyển chọn có thể khiếm khuyết một phẩm chất nào đó, miễn là họ mạnh về một phẩm chất khác. / ' +
         'Những câu ông ta hỏi Dược Sơn thực ngu ngốc làm sao. / ' +
-        'Nếu một ông tăng khiếm khuyết về giữ giới, thì ông ta không thể hoàn thành thiền định được; nếu không hoàn thành được thiền định, thì ông ta chẳng bao giờ đạt được chân trí tuệ. ' +
+        'Nếu một ông tăng khiếm khuyết về giữ giới, thì ông ta không thể hoàn thành thiền định được. ' +
+        'Nếu không hoàn thành được thiền định, thì ông ta chẳng bao giờ đạt được chân trí tuệ. ' +
         'Ông ta không thể chuyên tu một cái nào trong ba cái này. / ' +
-        'Ngày nay có những người học Phật viết sách mà không bao giờ tu thiền định hay sống cuộc sống đạo đức và những “sư” Thiền thiếu nhiều đạo hạnh giản dị hơn. / ' +
-        'Dù cho có cạo đầu, mặc áo vàng và tụng kinh, họ cũng không bao giờ biết chân nghĩa của Pháp. Quí vị có thể làm gì với những kẻ bắt chước này? ' +
-        'Ông quan tri phủ không thể hiểu Thiền vách đứng của Dược Sơn, nhưng ông ta chấp nhận nó. Dược Sơn thấy có hy vọng và đã chỉ dạy cho ông ta vài điểm.',
+        'Ngày nay, có những người học Phật viết sách mà không bao giờ tu thiền định hay sống cuộc sống đạo đức và những “sư” Thiền thiếu nhiều đạo hạnh giản dị hơn. / ' +
+        'Dù cho có cạo đầu, mặc áo vàng và tụng kinh, họ cũng không bao giờ biết chân nghĩa của Pháp. ' +
+        'Quí vị có thể làm gì với những kẻ bắt chước này? ' +
+        'Ông quan tri phủ không thể hiểu Thiền vách đứng của Dược Sơn, nhưng ông ta chấp nhận nó. ' +
+        'Dược Sơn thấy có hy vọng và đã chỉ dạy cho ông ta vài điểm.' +
+        '# Nào! Quí vị nói nó như thế nào đây?',
       commentBeforeVerse:
         'Genro: / ' +
         'Dược Sơn dùng núi và biển làm minh họa. Nếu các ông bám vào đỉnh núi hay đáy biển là các ông tạo ra mê hoặc. / ' +
@@ -287,8 +326,7 @@ const IronFlute = [
         'Sư quay lại tăng chúng. Hãy ra vườn làm việc hay đi chặt củi vậy.',
       commentAfterVerse:
         'Fugai: / ' +
-        'Thôi! Thôi! Đừng cố lôi con mèo không muốn đi qua tấm thảm nữa. Nó sẽ làm rách thảm và sự việc trở nên tệ hơn. / ' +
-        'Như Huyễn: Nào! Quí vị nói nó như thế nào đây?',
+        'Thôi! Thôi! Đừng cố lôi con mèo không muốn đi qua tấm thảm nữa. Nó sẽ làm rách thảm và sự việc trở nên tệ hơn. / ',
     },
 
   {
@@ -297,9 +335,10 @@ const IronFlute = [
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
       'Một ông tăng vào phòng của Triệu Châu để tham thiền và thấy sư đang ngồi đầu trùm trong y. / ' +
-      'Ông tăng rút lui. Triệu Châu nói, “Huynh đệ, chớ nói là tôi không nhận huynh đệ tham thiền đấy nhé.” ',
+      'Ông tăng rút lui. Triệu Châu nói, “Huynh đệ, chớ nói là tôi không nhận huynh đệ tham thiền đấy nhé”.',
     commentBeforeVerse:
-      'Như Huyễn: Tham Thiền là hợp nhất với Thiền. Quí vị trở thành Thiền và Thiền trở thành quí vị. / ' +
+      'Như Huyễn: / ' +
+      'Tham Thiền là hợp nhất với Thiền. Quí vị trở thành Thiền và Thiền trở thành quí vị. / ' +
       'Trong tông Lâm Tế, khi một học nhân vào phòng thầy để nhận sự hướng dẫn riêng thì gọi là tham thiền để phân biệt với tọa thiền tức là ngồi thiền một mình hay với những người khác. Trong tông Tào Động, khi nói tham thiền tức là ngồi thiền, như thế họ hiến mình cho thiền định nhưng hiếm khi được cho hay nhận sự hướng dẫn. / ' +
       ' Chỗ này không thuộc Lâm Tế cũng không thuộc Tào Động và ông tăng này không bao giờ nhận mình là sư. / ' +
       'Khi quí vị đến và thành khẩn thiền định, tôi sẽ tham gia với quí vị trong Thiền đường. / ' +
@@ -312,10 +351,11 @@ const IronFlute = [
       'Vì sao? Như Lai không từ đâu đến, không đi về đâu; do đó nên gọi là Như Lai.”' +
       ' Ông tăng này ắt đã nhiều lần nghe tụng kinh Kim Cang, nhưng đối với ông ta lời kinh không có nghĩa gì cả.',
     commentAfterVerse:
-      'Genro: Mây trắng treo trên đỉnh' +
-      ' Núi xanh bên kia hồ' +
-      ' Ai nhìn và ngưỡng mộ' +
-      ' Cảnh đẹp, chẳng phí lời.',
+      'Genro: / ' +
+      'Mây trắng treo trên đỉnh / ' +
+      'Núi xanh bên kia hồ / ' +
+      'Ai nhìn và ngưỡng mộ / ' +
+      'Cảnh đẹp, chẳng phí lời.',
   },
 
   {
@@ -2098,7 +2138,7 @@ const IronFlute = [
       '# Có người không thể ở được sao? / ' +
       '# Chớ có nói đùa. / ' +
       '# Làm sao ông biết được? / ' +
-      '# Chỉ có thế à ? / ' +
+      '# Chỉ có thế à? / ' +
       '# Con mắt chọn tăng của thầy ở đâu? / ' +
       '# Vô lý! / ' +
       '# Đi dễ vậy sao! / ' +
@@ -2405,7 +2445,7 @@ const IronFlute = [
       'Rốt cuộc, sư đã bỏ.',
     commentBeforeVerse:
       'Fugai: / ' +
-      '# Tại sao ông không tự mình đi ? / ' +
+      '# Tại sao ông không tự mình đi? / ' +
       '# Ông đã lau mắt sạch chưa vậy? / ' +
       '# Không gió mà dậy sóng. / ' +
       '# Mấy ông Phật đá. / ' +
@@ -2924,19 +2964,19 @@ const IronFlute = [
     commentAfterVerseExtra:
       'Genro: / ' +
       '# Nếu Nham Đầu không có câu thứ hai, người ta sẽ nghi ngờ Thiền của sư. ' +
-      '# Nếu ông tăng hỏi tôi khi ba giới ập đến thì làm thế nào, tôi sẽ đáp, “Dục giới, sắc giới và vô sắc giới”. ' +
+      '# Nếu ông tăng hỏi tôi khi 3 giới ập đến thì làm thế nào, tôi sẽ đáp, “Dục giới, sắc giới và vô sắc giới”. ' +
       'Nếu lúc ấy ông tăng nói con không hiểu, tôi sẽ đáp, “Núi đông đứng trên sông.”' +
-      '# Ba thế giới chồng chất;\n' +
-      ' Thiền tăng ngồi bồ đoàn.\n' +
-      ' Nham Đầu mở miệng nói,\n' +
-      ' Mang núi kia lại đây.',
+      '# Ba thế giới chồng chất' +
+      'Thiền tăng ngồi bồ đoàn' +
+      'Nham Đầu mở miệng nói' +
+      'Mang núi kia lại đây.',
     commentBeforeVerse:
       'Fugai: / ' +
       '# Hãy vác chúng lên vai. / ' +
       '# Hông lại cho ông ta một gánh nặng nữa. / ' +
       '# Ông còn chưa biết mình đã bị trượt. / ' +
       '# Một người biến mình thành Phật, cũng liền biến người khác thành Phật! / ' +
-      '# Để tôi tham công án của tôi: Nếu ông tăng hỏi tôi, tôi sẽ nói, “Một giọt sương.” ' +
+      '# Để tôi tham công án của tôi: Nếu ông tăng hỏi tôi, tôi sẽ nói, “Một giọt sương”. ' +
       '# Nếu ông tăng vẫn không chịu hiểu, tôi sẽ nói, “Nó biến thành ngọc trên lá sen”. / ' +
       '# Sóng bủa trên trời. / ' +
       'Ném cái bồ đoàn ấy đi! / ' +
@@ -2944,7 +2984,7 @@ const IronFlute = [
       'Núi ấy tối hôm qua bị trộm lấy mất rồi.',
     commentAfterVerse:
       'Như Huyễn: / ' +
-      'Người ta có thể nghĩ sư có ý nói ngồi trên ba giới, hay bảo ông tăng ngồi.' +,
+      'Người ta có thể nghĩ sư có ý nói ngồi trên ba giới, hay bảo ông tăng ngồi.',
   },
 
   {
@@ -2952,33 +2992,39 @@ const IronFlute = [
     title: 'TẮC THỨ 97: THÂN PHẬT',
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
-      ' Khi Phật đang giảng kinh Niết Bàn, / ' +
-      ' Fugai: Chưa đầy đủ. Trước đó ông ở đâu? Chẳng phải ông lúc nào cũng ở đó sao? / ' +
+      'Khi Phật đang giảng kinh Niết Bàn, / ' +
       'Như Huyễn: Ông ta chưa từng ở chỗ nào hết. Nếu ông nghĩ rằng ông ta từng ở, ông phải nhận một phần đất Ấn. Sao ông không chờ đến lúc ông ta nói xong? / ' +
       'Ngài lấy tay xoa ngực nói, “Các ông nên nhìn kỹ thân vàng của tôi, nếu không về sau sẽ hối tiếc.” / ' +
-      'Như Huyễn: Phật mong nhập Niết bàn vậy thì đây là dấu hiệu. / ' +
+      '' +
       'Fugai: Suỵt! Con cáo, nhà ngươi đã lừa nhiều người, bây giờ lại cố xóa bỏ lỗi lầm. / ' +
       'Như Huyễn: Tôi đã bảo ông lắng nghe cho kỹ. / ' +
       'Nếu ông nói, “Phật nhập Đại niết bàn, ông chẳng phải là đệ tử của tôi.” / ' +
       'Fugai: Tôi sẽ nói to, “Phật nhập Đại niết bàn! Phật nhập Đại niết bàn!”  / ' +
       'Nếu ông nói, “Phật không nhập Đại niết bàn, ông cũng không phải là đệ tử của tôi.” / ' +
       'Fugai: Tôi sẽ nói to, “Phật không nhập Đại niết bàn! Phật không nhập Đại niết bàn!” / ' +
-      'Genro: Phật đã nhập diệt cả ngàn năm rồi. Nếu ông bảo ngài vẫn còn ở đây, là ông đang chấp nhận rằng ngài không có nhập Niết bàn. Nếu ông nói rằng ngài không có ở đây là ông đang chấp nhận rằng ngài đã nhập Niết bàn. Nếu ông nói rằng ngài không nhập Đại niết bàn cũng không phải không nhập Đại niết bàn, thì ông phải chấp nhận rằng Ngài không ở đây cũng chẳng phải Ngài không ở đây. Vậy, thân vàng của Ngài ở đâu? Các ông mỗi người hãy về phòng mình nghỉ cho khỏe. / ' +
-      ' Fugai: Thầy ơi, thầy hãy về phòng thầy trước đi. / ' +
-      ' Genro: Thầy già quá bận trước khi đi. / ' +
-      ' Fugai: Sao chẳng chịu chuẩn bị trước?] / ' +
-      ' Nên đã lộ ra ánh sáng vàng; / ' +
-      ' [Ai thấy liền bị mù.] / ' +
-      ' Thầy đã bịt mồm chư đệ tử. / ' +
-      ' [Chưa từng có gì để nói.] / ' +
-      ' Chuyện xấu trong nhà nên giữ im. / ' +
-      ' [Trước khi ăn cắp hãy bịt tai lại.]',
+      ' ' +
+      'Nếu ông nói rằng ngài không có ở đây là ông đang chấp nhận rằng ngài đã nhập Niết bàn. ' +
+      'Nếu ông nói rằng ngài không nhập Đại niết bàn cũng không phải không nhập Đại niết bàn, thì ông phải chấp nhận rằng Ngài không ở đây cũng chẳng phải Ngài không ở đây. ' +
+      'Vậy, thân vàng của Ngài ở đâu? Các ông mỗi người hãy về phòng mình nghỉ cho khỏe. / ' +
+      'Fugai: Thầy ơi, thầy hãy về phòng thầy trước đi. / ' +
+      'Genro: Thầy già quá bận trước khi đi. / ' +
+      'Fugai: Sao chẳng chịu chuẩn bị trước?] / ' +
+      'Nên đã lộ ra ánh sáng vàng; / ' +
+      '[Ai thấy liền bị mù.] / ' +
+      'Thầy đã bịt mồm chư đệ tử. / ' +
+      '[Chưa từng có gì để nói.] / ' +
+      'Chuyện xấu trong nhà nên giữ im. / ' +
+      '[Trước khi ăn cắp hãy bịt tai lại.]',
     commentBeforeVerseExtra:
-      '',
+      'Genro: / ' +
+      'Phật đã nhập diệt cả ngàn năm rồi. Nếu ông bảo ngài vẫn còn ở đây, là ông đang chấp nhận rằng ngài không có nhập Niết bàn.',
     commentBeforeVerse:
+      'Fugai: / ' +
+      'Chưa đầy đủ. Trước đó ông ở đâu? Chẳng phải ông lúc nào cũng ở đó sao? / ' +
       '',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Phật mong nhập Niết bàn vậy thì đây là dấu hiệu. / ',
   },
 
   {
@@ -2995,7 +3041,7 @@ const IronFlute = [
       '“Thế ấy được rồi, nhưng để mở vòng xích, tôi có pháp riêng.” / ' +
       'Viên Ngộ nói tiếp, “Nếu tôi bị ông tăng thủ tọa hỏi cách ấy, tôi sẽ đáp, ‘Đường ấy giống như tấm gương. Nó không tự chuyển mà chiếu tất cả những gì hiện đến’”. / ',
     commentAfterVerseExtra:
-      'Genro: ' +
+      'Genro: / ' +
       '# Nếu ai hỏi tôi - không chỉ xâu chín cái vỏ ốc hay mở các vòng xích - Văn Thù phải làm gì, tôi sẽ đánh y trước khi hỏi hết câu. ' +
       'Vì sao? Vì người cày ruộng và người đốn củi cũng chỉ làm theo lệnh. / ' +
       '# Xỏ xâu 9 vỏ ốc, / ' +
@@ -3008,7 +3054,7 @@ const IronFlute = [
       'Hoa mai sớm đón xuân, / ' +
       'Mỉm cười trong hàng giậu.',
     commentBeforeVerse:
-      'Fugai: ' +
+      'Fugai: / ' +
       'Một địa vị trọng trách. / ' +
       '# Tướng ra lịnh cho ba quân. / ' +
       '# Đúng là tăng thủ tọa. / ' +
@@ -3023,7 +3069,7 @@ const IronFlute = [
       'Nó làm tôi rùng mình. / ' +
       'Tôi yêu mùi thơm đó.',
     commentAfterVerse:
-      'Như Huyễn: ' +
+      'Như Huyễn: / ' +
       '# Mỗi Thiền đường có một pho tượng hay một bức tranh Văn-thù hay Bồ-đề-đạt-ma. / ' +
       '# Chúng ta đọc trong kinh Kim Cang, “Này Tu- bồ-đề, nếu có người nói rằng Như Lai hoặc đến, hoặc đi, hoặc nằm, hoặc ngồi, người ấy chẳng hiểu nghĩa lời tôi dạy.” / ' +
       '# Có người hỏi Không Tử làm thế nào xỏ xâu được chín cái vỏ ốc, nhưng Khổng Tử không đáp được. / ' +
@@ -3098,7 +3144,8 @@ const IronFlute = [
       'Ông ta nghĩ rằng nó được nhập cảng, / ' +
       'nhưng thực ra nó được làm ở Trung hoa.',
     commentAfterVerse:
-      'Như Huyễn: Lên rồi!',
+      'Như Huyễn: / ' +
+      'Lên rồi!',
   },
 
   {
