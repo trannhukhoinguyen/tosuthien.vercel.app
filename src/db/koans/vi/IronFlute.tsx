@@ -3033,13 +3033,13 @@ const IronFlute = [
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
       'Hưu Tịnh làm giám viện cho Lạc Phố. / ' +
-      'Một hôm Hưu Tịnh gõ chùy ra lệnh, “Chư tăng từ tòa thứ nhất đến tòa giữa, hãy ra đồng làm việc. Chư tăng còn lại, hãy vào núi đốn củi.” / ' +
+      'Một hôm Hưu Tịnh gõ chùy ra lệnh, “Chư tăng từ tòa thứ nhất đến tòa giữa, hãy ra đồng làm việc. Chư tăng còn lại, hãy vào núi đốn củi”. / ' +
       'Ông tăng thủ tọa hỏi, “Còn Văn Thù làm gì?” / ' +
       'Ông tăng giám viện đáp, “Lệnh tôi chỉ đến các tăng ngồi trên tọa cụ. Chẳng dính dáng gì đến Văn Thù.” / ',
     commentBeforeVerseExtra:
       'Sau này Viên Ngộ bình rằng, “Hưu Tịnh tạo điều kỳ đặc. Pháp của ông tăng thủ tọa tuyệt hảo xỏ xâu được 9 cái vỏ ốc.” / ' +
       '“Thế ấy được rồi, nhưng để mở vòng xích, tôi có pháp riêng.” / ' +
-      'Viên Ngộ nói tiếp, “Nếu tôi bị ông tăng thủ tọa hỏi cách ấy, tôi sẽ đáp, ‘Đường ấy giống như tấm gương. Nó không tự chuyển mà chiếu tất cả những gì hiện đến’”. / ',
+      'Viên Ngộ nói tiếp, “Nếu tôi bị ông tăng thủ tọa hỏi cách ấy, tôi sẽ đáp, ‘Đường ấy giống như tấm gương. Nó không tự chuyển mà chiếu tất cả những gì hiện đến’”.',
     commentAfterVerseExtra:
       'Genro: / ' +
       '# Nếu ai hỏi tôi - không chỉ xâu chín cái vỏ ốc hay mở các vòng xích - Văn Thù phải làm gì, tôi sẽ đánh y trước khi hỏi hết câu. ' +
@@ -3074,7 +3074,8 @@ const IronFlute = [
       '# Chúng ta đọc trong kinh Kim Cang, “Này Tu- bồ-đề, nếu có người nói rằng Như Lai hoặc đến, hoặc đi, hoặc nằm, hoặc ngồi, người ấy chẳng hiểu nghĩa lời tôi dạy.” / ' +
       '# Có người hỏi Không Tử làm thế nào xỏ xâu được chín cái vỏ ốc, nhưng Khổng Tử không đáp được. / ' +
       'Một người đàn bà bảo Khổng Tử đổ mật ong vào một đầu và cho một con kiến mang sợi chỉ từ đầu bên kia bò qua. / ' +
-      '# Ở Trung hoa còn có một câu hỏi khác là làm sao mở các vòng xích khóa lại với nhau. Không một ông thông thái nào giải đáp được, nhưng một người đàn bà đã dùng búa đập nát các vòng xích đó. / ' +
+      '# Ở Trung hoa còn có một câu hỏi khác là làm sao mở các vòng xích khóa lại với nhau. / ' +
+      'Không một ông thông thái nào giải đáp được, nhưng một người đàn bà đã dùng búa đập nát các vòng xích đó. / ' +
       '# Thực ra đó là lệnh của Văn Thù.',
   },
 
