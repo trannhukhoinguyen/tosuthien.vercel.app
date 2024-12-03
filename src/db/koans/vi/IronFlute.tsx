@@ -2866,73 +2866,48 @@ const IronFlute = [
       'Lâm Tế đáp, “Quan Âm ngàn tay mỗi tay có một mắt, mắt nào là mắt chánh? Nói mau! Nói mau!” / ' +
       'Ma Cốc kéo Lâm Tế xuống khỏi tòa và lên ngồi vào chỗ của Lâm Tế. / ' +
       'Lâm Tế đứng lên hỏi, “Vì sao?” / ' +
-      '# Cả đoàn quân theo lệnh rút lui. / ' +
-      ' Kangetsu: Ma Cốc không giữ vững mục tiêu. / ' +
-      ' Như Huyễn: Cầm thương của địch tấn công địch. / ' +
-      'Ma Cốc lặng lẽ bỏ đi. / ' +
-      ' Fugai: Hai tướng hiểu nhau. / ' +
-      ' Như Huyễn: Trong lịch sử Trung hoa, Khổng Minh là một tướng tài nổi tiếng, bỗng nhiên bị quân địch dưới sự chỉ huy của Trung Đạt bao vây. Lúc đó chỉ có một mình Khổng Minh, quân của Khổng Minh đang đi nghỉ phép. Khổng Minh bước ra trên bao lơn của một cái tháp nhìn qua phía địch và chơi đàn. Trung Đạt biết chiến thuật thượng đẳng của Khổng Minh, sợ rằng người của Khổng Minh đang mai phục chuẩn bị tấn công, đột nhiên ra lệnh cho quân của mình rút lui. Khổng Minh nổi tiếng là Ngọa Long Tiên Sinh [Ông Thầy Rồng Nằm], người không ai đánh bại được. Lời bình của Fugai chỉ câu chuyện này. / ' +
-      ' Quan Thế Âm có một ngàn con mắt nhưng chỉ có một mắt là thật. Con mắt chánh đó tự hóa hiện thành một ngàn con mắt. Giống như mặt trăng đồng thời phản ảnh trong một ngàn cái hồ. Có phải các hồ mời mặt trăng hay là mặt trăng đi xuống cái hồ? Cái nào là chủ, cái nào là khách? Lâm Tế tinh ranh đặt câu hỏi có dụng ý, “Vì sao?” trước khi hét, “Kat!” Ma Cốc nên hét trả lại và đột ngột bỏ đi. Dở quá, thua trận thật không vinh quang.  / ' +
-      ' Genro: Câu hỏi, “Vì sao?” của Lâm Tế khiến người ta do dự. Nếu trong tăng nhân các ông có ai đáp đúng được, thì có thể hai tay đánh đường xa mà đi. Đây là mật truyền của giáo lý Lâm Tế. / ' +
-      'Fugai: Chớ đứng trên nóc nhà mà hét! / ' +
-      'Genro: Điền Đan chiến sĩ thật tài ba. / ' +
-      '[Fugai: Tướng giỏi khó tìm.] / ' +
-      'Kế trận bày ra khiếp quỉ ma. / ' +
-      '[Con đường vô thượng ngàn thánh chẳng / ' +
-      'thể theo.] / ' +
-      'Cho bò mang lửa xông vào địch, / ' +
-      '[Trăm trận, trăm thắng.] / ' +
-      'Một lúc được luôn bảy chục thành. / ' +
-      '[Xưa nay chưa từng thua.] / ' +
-      'Như Huyễn: Điền Đan là một chiến sĩ khác của Trung hoa. Khi bị thiếu quân, ông ta đã dùng bò đánh giặc bằng cách buộc những bó lửa trên lưng bò, và nhờ thế đã chuyển thất bại thành thắng lợi vinh quang.  / ' +
-      'Tăng nhân không nên nói chiến tranh và đánh nhau. Điều đó trái với giới luật Phật giáo. Có nhiều thí dụ khác có thể dùng hay hơn các thí dụ này; một cành hoa cũng thành một minh họa tốt hơn. Trong tương lai, vào khoảng năm 2001, người học Thiền có thể quên chiến tranh là gì và thưởng thức Thiền của họ trong những khu vườn thanh bình đầy gió xuân êm dịu. ',
+      'Lâm Tế hét, “Katz!” và kéo Ma Cốc ra khỏi tòa.' +
+      'Ma Cốc lặng lẽ bỏ đi.' ,
     commentBeforeVerseExtra:
-      'Genro: ' +
-      'Câu hỏi, “Vì sao?” của Lâm Tế khiến người ta do dự. ' +
+      'Genro: / ' +
+      '# Câu hỏi, “Vì sao?” của Lâm Tế khiến người ta do dự. ' +
       'Nếu trong tăng nhân các ông có ai đáp đúng được, thì có thể hai tay đánh đường xa mà đi. ' +
       'Đây là mật truyền của giáo lý Lâm Tế. / ' +
+      '# Điền Đan chiến sĩ thật tài ba. / ' +
+      'Kế trận bày ra khiếp quỉ ma. / ' +
       'Cho bò mang lửa xông vào địch, / ' +
       'Một lúc được luôn bảy chục thành.',
+    commentAfterVerseExtra:
+    'Kangetsu: Ma Cốc không giữ vững mục tiêu.',
     commentBeforeVerse:
-      'Fugai: ' +
+      'Fugai: / ' +
       '# Mắt nào chẳng phải mắt chánh? / ' +
       '# Kẻ địch bị vũ khí của mình đánh bại. / ' +
-      ' Fugai: Sao chổi đến gần chòm sao khác. / ' +
-      ' Fugai: Cả đoàn quân theo lệnh rút lui. / ' +
-      ' Kangetsu: Ma Cốc không giữ vững mục tiêu. / ' +      'Lâm Tế hét, “Katz!” và kéo Ma Cốc ra khỏi tòa. / ' +
+      '# Sao chổi đến gần chòm sao khác. / ' +
+      '# Cả đoàn quân theo lệnh rút lui. / ' +
       '# Con rồng nằm. / ' +
-      ' Như Huyễn: Cầm thương của địch tấn công địch. / ' +
-      'Ma Cốc lặng lẽ bỏ đi. / ' +
-      ' Fugai: Hai tướng hiểu nhau. / ' +
-      ' Như Huyễn: Trong lịch sử Trung hoa, Khổng Minh là một tướng tài nổi tiếng, bỗng nhiên bị quân địch dưới sự chỉ huy của Trung Đạt bao vây. Lúc đó chỉ có một mình Khổng Minh, quân của Khổng Minh đang đi nghỉ phép. Khổng Minh bước ra trên bao lơn của một cái tháp nhìn qua phía địch và chơi đàn. Trung Đạt biết chiến thuật thượng đẳng của Khổng Minh, sợ rằng người của Khổng Minh đang mai phục chuẩn bị tấn công, đột nhiên ra lệnh cho quân của mình rút lui. Khổng Minh nổi tiếng là Ngọa Long Tiên Sinh [Ông Thầy Rồng Nằm], người không ai đánh bại được. Lời bình của Fugai chỉ câu chuyện này. / ' +
-      ' Quan Thế Âm có một ngàn con mắt nhưng chỉ có một mắt là thật. Con mắt chánh đó tự hóa hiện thành một ngàn con mắt. Giống như mặt trăng đồng thời phản ảnh trong một ngàn cái hồ. Có phải các hồ mời mặt trăng hay là mặt trăng đi xuống cái hồ? Cái nào là chủ, cái nào là khách? Lâm Tế tinh ranh đặt câu hỏi có dụng ý, “Vì sao?” trước khi hét, “Kat!” Ma Cốc nên hét trả lại và đột ngột bỏ đi. Dở quá, thua trận thật không vinh quang.  / ' +
-      ' Genro: Câu hỏi, “Vì sao?” của Lâm Tế khiến người ta do dự. Nếu trong tăng nhân các ông có ai đáp đúng được, thì có thể hai tay đánh đường xa mà đi. Đây là mật truyền của giáo lý Lâm Tế. / ' +
-      'Fugai: Chớ đứng trên nóc nhà mà hét! / ' +
-      'Genro: Điền Đan chiến sĩ thật tài ba. / ' +
-      '[Fugai: Tướng giỏi khó tìm.] / ' +
-      'Kế trận bày ra khiếp quỉ ma. / ' +
-      '[Con đường vô thượng ngàn thánh chẳng / ' +
-      'thể theo.] / ' +
-      'Cho bò mang lửa xông vào địch, / ' +
-      '[Trăm trận, trăm thắng.] / ' +
-      'Một lúc được luôn bảy chục thành. / ' +
-      '[Xưa nay chưa từng thua.] / ' +
-      'Như Huyễn: Điền Đan là một chiến sĩ khác của Trung hoa. Khi bị thiếu quân, ông ta đã dùng bò đánh giặc bằng cách buộc những bó lửa trên lưng bò, và nhờ thế đã chuyển thất bại thành thắng lợi vinh quang.  / ' +
-      'Tăng nhân không nên nói chiến tranh và đánh nhau. Điều đó trái với giới luật Phật giáo. Có nhiều thí dụ khác có thể dùng hay hơn các thí dụ này; một cành hoa cũng thành một minh họa tốt hơn. Trong tương lai, vào khoảng năm 2001, người học Thiền có thể quên chiến tranh là gì và thưởng thức Thiền của họ trong những khu vườn thanh bình đầy gió xuân êm dịu. ',
+      '# Hai tướng hiểu nhau. / ' +
+      '# Chớ đứng trên nóc nhà mà hét! / ' +
+      '# Tướng giỏi khó tìm. / ' +
+      'Con đường vô thượng ngàn thánh chẳng thể theo. / ' +
+      'Trăm trận, trăm thắng. / ' +
+      'Xưa nay chưa từng thua.',
     commentAfterVerse:
-      'Như Huyễn: ' +
+      'Như Huyễn: / ' +
       '# Cầm thương của địch tấn công địch. / ' +
-      '# Trong lịch sử Trung hoa, Khổng Minh là một tướng tài nổi tiếng, bỗng nhiên bị quân địch dưới sự chỉ huy của Trung Đạt bao vây. ' +
-      'Lúc đó chỉ có một mình Khổng Minh, quân của Khổng Minh đang đi nghỉ phép. Khổng Minh bước ra trên bao lơn của một cái tháp nhìn qua phía địch và chơi đàn. Trung Đạt biết chiến thuật thượng đẳng của Khổng Minh, sợ rằng người của Khổng Minh đang mai phục chuẩn bị tấn công, đột nhiên ra lệnh cho quân của mình rút lui. Khổng Minh nổi tiếng là Ngọa Long Tiên Sinh [Ông Thầy Rồng Nằm], người không ai đánh bại được. Lời bình của Fugai chỉ câu chuyện này. / ' +
-      ' Quan Thế Âm có một ngàn con mắt nhưng chỉ có một mắt là thật. Con mắt chánh đó tự hóa hiện thành một ngàn con mắt. ' +
+      '# Trong lịch sử Trung hoa, Khổng Minh là một tướng tài nổi tiếng, bỗng nhiên bị quân địch dưới sự chỉ huy của Trung Đạt bao vây. / ' +
+      'Lúc đó chỉ có một mình Khổng Minh, quân của Khổng Minh đang đi nghỉ phép. Khổng Minh bước ra trên bao lơn của một cái tháp nhìn qua phía địch và chơi đàn. / ' +
+      'Trung Đạt biết chiến thuật thượng đẳng của Khổng Minh, sợ rằng người của Khổng Minh đang mai phục chuẩn bị tấn công, đột nhiên ra lệnh cho quân của mình rút lui. / ' +
+      'Khổng Minh nổi tiếng là Ngọa Long Tiên Sinh [Ông Thầy Rồng Nằm], người không ai đánh bại được. Lời bình của Fugai chỉ câu chuyện này. / ' +
+      'Quan Thế Âm có một ngàn con mắt nhưng chỉ có một mắt là thật. Con mắt chánh đó tự hóa hiện thành một ngàn con mắt. ' +
       'Giống như mặt trăng đồng thời phản ảnh trong một ngàn cái hồ. Có phải các hồ mời mặt trăng hay là mặt trăng đi xuống cái hồ? ' +
       'Cái nào là chủ, cái nào là khách? Lâm Tế tinh ranh đặt câu hỏi có dụng ý, “Vì sao?” trước khi hét, “Kat!” Ma Cốc nên hét trả lại và đột ngột bỏ đi. ' +
       'Dở quá, thua trận thật không vinh quang.  / ' +
       '# Điền Đan là một chiến sĩ khác của Trung hoa. ' +
       'Khi bị thiếu quân, ông ta đã dùng bò đánh giặc bằng cách buộc những bó lửa trên lưng bò, và nhờ thế đã chuyển thất bại thành thắng lợi vinh quang.  / ' +
-      'Tăng nhân không nên nói chiến tranh và đánh nhau. Điều đó trái với giới luật Phật giáo. ' +
-      'Có nhiều thí dụ khác có thể dùng hay hơn các thí dụ này; một cành hoa cũng thành một minh họa tốt hơn. ' +
-      'Trong tương lai, vào khoảng năm 2001, người học Thiền có thể quên chiến tranh là gì và thưởng thức Thiền của họ trong những khu vườn thanh bình đầy gió xuân êm dịu. ',
+      'Tăng nhân không nên nói chiến tranh và đánh nhau. Điều đó trái với giới luật Phật giáo. / ' +
+      'Có nhiều thí dụ khác có thể dùng hay hơn các thí dụ này; một cành hoa cũng thành một minh họa tốt hơn. / ' +
+      'Trong tương lai, vào khoảng năm 2001, người học Thiền có thể quên chiến tranh là gì và thưởng thức Thiền của họ trong những khu vườn thanh bình đầy gió xuân êm dịu.',
   },
 
   {
@@ -2941,31 +2916,35 @@ const IronFlute = [
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
       'Một ông tăng hỏi Nham Đầu, “Khi ba giới ập đến thì làm thế nào?” / ' +
-      'Fugai: Hãy vác chúng lên vai. / ' +
       'Nham Đầu đáp, “Hãy ngồi xuống.” / ' +
-      ' Fugai: Ông lại cho ông ta một gánh nặng nữa. / ' +
       'Ông tăng nói, “Con không hiểu.” / ' +
-      ' Fugai: Ông còn chưa biết mình đã bị trượt. / ' +
-      'Nham Đầu bảo, “Mang hòn núi kia đến đây, rồi tôi sẽ nói cho.” / ' +
-      'Fugai: Một người biến mình thành Phật, cũng liền biến người khác thành Phật! / ' +
-      'Genro: Nếu Nham Đầu không có câu thứ hai, người ta sẽ nghi ngờ Thiền của sư.  / ' +
-      'Như Huyễn: Người ta có thể nghĩ sư có ý nói ngồi trên ba giới, hay bảo ông tăng ngồi. Kangetsu-san, chúng ta hãy uống trà đi. / ' +
-      'Genro: Nếu ông tăng hỏi tôi khi ba giới ập đến thì làm thế nào, tôi sẽ đáp, “Dục giới, sắc giới và vô sắc giới.” Nếu lúc ấy ông tăng nói con không hiểu, tôi sẽ đáp, “Núi đông đứng trên sông.” / ' +
-      ' Fugai: Để tôi tham công án của tôi: Nếu ông tăng hỏi tôi, tôi sẽ nói, “Một giọt sương.” Nếu ông tăng vẫn không chịu hiểu, tôi sẽ nói, “Nó biến thành ngọc trên lá sen.” / ' +
-      'Genro: Ba thế giới chồng chất; / ' +
-      ' [Fugai: Sóng bủa trên trời.] / ' +
-      ' Thiền tăng ngồi bồ đoàn. / ' +
-      ' [Ném cái bồ đoàn ấy đi!] / ' +
-      ' Nham Đầu mở miệng nói, / ' +
-      ' [Thế giới vẫn ở trong tai tôi.] / ' +
-      ' Mang núi kia lại đây. / ' +
-      ' [Núi ấy tối hôm qua bị trộm lấy mất rồi.]',
+      'Nham Đầu bảo, “Mang hòn núi kia đến đây, rồi tôi sẽ nói cho”.',
     commentBeforeVerseExtra:
-      '',
+      'Kangetsu-san, chúng ta hãy uống trà đi.',
+    commentAfterVerseExtra:
+      'Genro: / ' +
+      '# Nếu Nham Đầu không có câu thứ hai, người ta sẽ nghi ngờ Thiền của sư. ' +
+      '# Nếu ông tăng hỏi tôi khi ba giới ập đến thì làm thế nào, tôi sẽ đáp, “Dục giới, sắc giới và vô sắc giới”. ' +
+      'Nếu lúc ấy ông tăng nói con không hiểu, tôi sẽ đáp, “Núi đông đứng trên sông.”' +
+      '# Ba thế giới chồng chất;\n' +
+      ' Thiền tăng ngồi bồ đoàn.\n' +
+      ' Nham Đầu mở miệng nói,\n' +
+      ' Mang núi kia lại đây.',
     commentBeforeVerse:
-      '',
+      'Fugai: / ' +
+      '# Hãy vác chúng lên vai. / ' +
+      '# Hông lại cho ông ta một gánh nặng nữa. / ' +
+      '# Ông còn chưa biết mình đã bị trượt. / ' +
+      '# Một người biến mình thành Phật, cũng liền biến người khác thành Phật! / ' +
+      '# Để tôi tham công án của tôi: Nếu ông tăng hỏi tôi, tôi sẽ nói, “Một giọt sương.” ' +
+      '# Nếu ông tăng vẫn không chịu hiểu, tôi sẽ nói, “Nó biến thành ngọc trên lá sen”. / ' +
+      '# Sóng bủa trên trời. / ' +
+      'Ném cái bồ đoàn ấy đi! / ' +
+      'Thế giới vẫn ở trong tai tôi. / ' +
+      'Núi ấy tối hôm qua bị trộm lấy mất rồi.',
     commentAfterVerse:
-      '',
+      'Như Huyễn: / ' +
+      'Người ta có thể nghĩ sư có ý nói ngồi trên ba giới, hay bảo ông tăng ngồi.' +,
   },
 
   {
@@ -3010,18 +2989,19 @@ const IronFlute = [
       'Hưu Tịnh làm giám viện cho Lạc Phố. / ' +
       'Một hôm Hưu Tịnh gõ chùy ra lệnh, “Chư tăng từ tòa thứ nhất đến tòa giữa, hãy ra đồng làm việc. Chư tăng còn lại, hãy vào núi đốn củi.” / ' +
       'Ông tăng thủ tọa hỏi, “Còn Văn Thù làm gì?” / ' +
-      ' Ông tăng giám viện đáp, “Lệnh tôi chỉ đến các tăng ngồi trên tọa cụ. Chẳng dính dáng gì đến Văn Thù.” / ' +
-      'Như Huyễn: Chúng ta đọc trong kinh Kim Cang, “Này Tu- bồ-đề, nếu có người nói rằng Như Lai hoặc đến, hoặc đi, hoặc nằm, hoặc ngồi, người ấy chẳng hiểu nghĩa lời tôi dạy.” / ' +
-      ' Sau này Viên Ngộ bình rằng, “Hưu Tịnh tạo điều kỳ đặc. Pháp của ông tăng thủ tọa tuyệt hảo xỏ xâu được chín cái vỏ ốc.” / ' +
-      ' “Thế ấy được rồi, nhưng để mở vòng xích, tôi có pháp riêng.” / ' +
-      'Viên Ngộ nói tiếp, “Nếu tôi bị ông tăng thủ tọa hỏi cách ấy, tôi sẽ đáp, ‘Đường ấy giống như tấm gương. Nó không tự chuyển mà chiếu tất cả những gì hiện đến’.” / ',
+      'Ông tăng giám viện đáp, “Lệnh tôi chỉ đến các tăng ngồi trên tọa cụ. Chẳng dính dáng gì đến Văn Thù.” / ',
     commentBeforeVerseExtra:
+      'Sau này Viên Ngộ bình rằng, “Hưu Tịnh tạo điều kỳ đặc. Pháp của ông tăng thủ tọa tuyệt hảo xỏ xâu được 9 cái vỏ ốc.” / ' +
+      '“Thế ấy được rồi, nhưng để mở vòng xích, tôi có pháp riêng.” / ' +
+      'Viên Ngộ nói tiếp, “Nếu tôi bị ông tăng thủ tọa hỏi cách ấy, tôi sẽ đáp, ‘Đường ấy giống như tấm gương. Nó không tự chuyển mà chiếu tất cả những gì hiện đến’”. / ',
+    commentAfterVerseExtra:
       'Genro: ' +
-      '# Nếu ai hỏi tôi - không chỉ xâu chín cái vỏ ốc hay mở các vòng xích - Văn Thù phải làm gì, tôi sẽ đánh y trước khi hỏi hết câu. Vì sao? Vì người cày ruộng và người đốn củi cũng chỉ làm theo lệnh. / ' +
-      '# Xỏ xâu chín vỏ ốc, / ' +
+      '# Nếu ai hỏi tôi - không chỉ xâu chín cái vỏ ốc hay mở các vòng xích - Văn Thù phải làm gì, tôi sẽ đánh y trước khi hỏi hết câu. ' +
+      'Vì sao? Vì người cày ruộng và người đốn củi cũng chỉ làm theo lệnh. / ' +
+      '# Xỏ xâu 9 vỏ ốc, / ' +
       'Đập nát các vòng khoen, / ' +
-      ' Bánh xe Pháp tự chuyển. / ' +
-      ' Khổng Tử là hiền triết, / ' +
+      'Bánh xe Pháp tự chuyển. / ' +
+      'Khổng Tử là hiền triết, / ' +
       'Chẳng thắng được đàn bà. / ' +
       'Cây thông già mọc trên, / ' +
       'Tảng đá có tuyết phủ. / ' +
