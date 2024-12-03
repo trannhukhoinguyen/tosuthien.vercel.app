@@ -44,22 +44,34 @@ const {
 </script>
 
 <article id="story" class="story">
-  <header class="story__header" style={`background-image: url(${image})`}>
-    <h1 class="story__title"> {bookTitle}
-      <span class="story__byline">{author}</span>
-    </h1>
-  </header>
+  {
+    bookTitle
+      ?  <header class="story__header" style={`background-image: url(${image})`}>
+        <h1 class="story__title"> {bookTitle}
+          <span class="story__byline">{author}</span>
+        </h1>
+      </header>
+      : ''
+  }
 
   <section class="chapter">
-    <header class="chapter__header">
-      <h2 class="chapter__title" id={hashTag}>{chapterTitle}</h2>
-    </header>
-    <div class="chapter__contents">
-      <div class="two-column">
-        <p>{intro}</p>
-        <span class="storyImage" style={`background-image: url(${image})`}></span>
-      </div>
+    {
+      chapterTitle
+        ? <header class="chapter__header">
+          <h2 class="chapter__title" id={hashTag}>{chapterTitle}</h2>
+        </header>
+        : ''
+    }
 
+    <div class="chapter__contents">
+      {
+        image
+          ? <div class="two-column">
+            <p>{intro}</p>
+            <span class="storyImage" style={`background-image: url(${image})`}></span>
+          </div>
+          : ''
+      }
       {
         main
          ? <h4>{main_case}</h4>
