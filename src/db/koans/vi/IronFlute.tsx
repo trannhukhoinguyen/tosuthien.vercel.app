@@ -2993,38 +2993,35 @@ const IronFlute = [
     image: '/images/iron-flute/iron-flute-cover.jpg',
     main:
       'Khi Phật đang giảng kinh Niết Bàn, / ' +
-      'Như Huyễn: Ông ta chưa từng ở chỗ nào hết. Nếu ông nghĩ rằng ông ta từng ở, ông phải nhận một phần đất Ấn. Sao ông không chờ đến lúc ông ta nói xong? / ' +
       'Ngài lấy tay xoa ngực nói, “Các ông nên nhìn kỹ thân vàng của tôi, nếu không về sau sẽ hối tiếc.” / ' +
-      '' +
-      'Fugai: Suỵt! Con cáo, nhà ngươi đã lừa nhiều người, bây giờ lại cố xóa bỏ lỗi lầm. / ' +
-      'Như Huyễn: Tôi đã bảo ông lắng nghe cho kỹ. / ' +
       'Nếu ông nói, “Phật nhập Đại niết bàn, ông chẳng phải là đệ tử của tôi.” / ' +
-      'Fugai: Tôi sẽ nói to, “Phật nhập Đại niết bàn! Phật nhập Đại niết bàn!”  / ' +
-      'Nếu ông nói, “Phật không nhập Đại niết bàn, ông cũng không phải là đệ tử của tôi.” / ' +
-      'Fugai: Tôi sẽ nói to, “Phật không nhập Đại niết bàn! Phật không nhập Đại niết bàn!” / ' +
-      ' ' +
-      'Nếu ông nói rằng ngài không có ở đây là ông đang chấp nhận rằng ngài đã nhập Niết bàn. ' +
-      'Nếu ông nói rằng ngài không nhập Đại niết bàn cũng không phải không nhập Đại niết bàn, thì ông phải chấp nhận rằng Ngài không ở đây cũng chẳng phải Ngài không ở đây. ' +
-      'Vậy, thân vàng của Ngài ở đâu? Các ông mỗi người hãy về phòng mình nghỉ cho khỏe. / ' +
-      'Fugai: Thầy ơi, thầy hãy về phòng thầy trước đi. / ' +
-      'Genro: Thầy già quá bận trước khi đi. / ' +
-      'Fugai: Sao chẳng chịu chuẩn bị trước?] / ' +
-      'Nên đã lộ ra ánh sáng vàng; / ' +
-      '[Ai thấy liền bị mù.] / ' +
-      'Thầy đã bịt mồm chư đệ tử. / ' +
-      '[Chưa từng có gì để nói.] / ' +
-      'Chuyện xấu trong nhà nên giữ im. / ' +
-      '[Trước khi ăn cắp hãy bịt tai lại.]',
+      'Nếu ông nói, “Phật không nhập Đại niết bàn, ông cũng không phải là đệ tử của tôi”.',
     commentBeforeVerseExtra:
       'Genro: / ' +
-      'Phật đã nhập diệt cả ngàn năm rồi. Nếu ông bảo ngài vẫn còn ở đây, là ông đang chấp nhận rằng ngài không có nhập Niết bàn.',
+      '# Phật đã nhập diệt cả ngàn năm rồi. Nếu ông bảo ngài vẫn còn ở đây, là ông đang chấp nhận rằng ngài không có nhập Niết bàn.' +
+      'Nếu ông nói rằng ngài không có ở đây là ông đang chấp nhận rằng ngài đã nhập Niết bàn. ' +
+      'Nếu ông nói rằng ngài không nhập Đại niết bàn cũng không phải không nhập Đại niết Bàn, thì ông phải chấp nhận rằng Ngài không ở đây cũng chẳng phải Ngài không ở đây. ' +
+      'Vậy, thân vàng của Ngài ở đâu? Các ông mỗi người hãy về phòng mình nghỉ cho khỏe.' +
+      '# Thầy già quá bận trước khi đi.' +
+      'Nên đã lộ ra ánh sáng vàng' +
+      'Thầy đã bịt mồm chư đệ tử' +
+      'Chuyện xấu trong nhà nên giữ im',
     commentBeforeVerse:
       'Fugai: / ' +
-      'Chưa đầy đủ. Trước đó ông ở đâu? Chẳng phải ông lúc nào cũng ở đó sao? / ' +
-      '',
+      '# Chưa đầy đủ. Trước đó ông ở đâu? Chẳng phải ông lúc nào cũng ở đó sao?' +
+      '# Suỵt! Con cáo, nhà ngươi đã lừa nhiều người, bây giờ lại cố xóa bỏ lỗi lầm.' +
+      '# Tôi sẽ nói to, “Phật nhập Đại niết bàn! Phật nhập Đại niết bàn!” ' +
+      '# Tôi sẽ nói to, “Phật không nhập Đại niết bàn! Phật không nhập Đại niết bàn!”' +
+      '# Thầy ơi, thầy hãy về phòng thầy trước đi.' +
+      '# Sao chẳng chịu chuẩn bị trước?' +
+      ' Ai thấy liền bị mù.' +
+      ' Chưa từng có gì để nói.' +
+      ' Trước khi ăn cắp hãy bịt tai lại.',
     commentAfterVerse:
       'Như Huyễn: / ' +
-      'Phật mong nhập Niết bàn vậy thì đây là dấu hiệu. / ',
+      '# Ông ta chưa từng ở chỗ nào hết. Nếu ông nghĩ rằng ông ta từng ở, ông phải nhận một phần đất Ấn. Sao ông không chờ đến lúc ông ta nói xong? / ' +
+      '# Phật mong nhập Niết bàn vậy thì đây là dấu hiệu. / ' +
+      '# Tôi đã bảo ông lắng nghe cho kỹ.',
   },
 
   {
@@ -3138,7 +3135,7 @@ const IronFlute = [
       '# Cuối cùng, Đại Điên đã có bạn. / ' +
       '# Nó kết thúc và khởi đầu. / ' +
       'Mặt đối mặt thấy rõ ràng. / ' +
-      'Đã có cơ hội tốt.] / ' +
+      'Đã có cơ hội tốt. / ' +
       'Khi đổi đất thì luôn luôn như vậy. / ' +
       'Tấm gương của ông không được đánh / ' +
       'Bóng kỹ lưỡng. / ' +
