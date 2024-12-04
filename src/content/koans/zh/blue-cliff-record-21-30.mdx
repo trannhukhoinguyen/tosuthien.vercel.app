@@ -1,17 +1,17 @@
 ---
-title: "Blue Cliff Record (21 - 30)"
-meta_title: "Blue Cliff Record (21 - 30)"
-description: "Blue Cliff Record (21 - 30)"
+title: "碧巖錄 (21 - 30)"
+meta_title: "碧巖錄 (21 - 30)"
+description: "碧巖錄 (21 - 30)"
 date: 2024-11-23
 image: "/images/wide-images/silver-1.png"
 tags: ['Koan']
 draft: false
 ---
 
-import BlueCliffRecord from "../../../db/koans/en/BlueCliffRecord.tsx";
+import BlueCliffRecord from "../../../db/koans/zh/BlueCliffRecord.tsx";
 import VintagePost from "../../../layouts/components/VintagePost.astro";
 
-<div class="container en-koans">
+<div class="container zh-koans">
 
   {
     BlueCliffRecord
@@ -19,9 +19,9 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
       ?.map(koan => {
         if (koan.id%10 === 1) {
           return <VintagePost
-            bookTitle={'Blue Cliff Record - 碧巖錄 (21 - 30)'}
-            author={'[Master] Xuedou Chongxian - [Master] Yuanwu Keqin'}
-            translator={''}
+            bookTitle={`${koan.bookTitle} (21 - 30)`}
+            author={koan.author}
+            translator={koan.translator}
                             chapterTitle={koan.title} image={koan.image}
                             intro={koan.intro} main={koan.main}
                               commentBeforeVerseExtra={koan.commentBeforeVerseExtra}

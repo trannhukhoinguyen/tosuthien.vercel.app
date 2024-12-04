@@ -8,10 +8,10 @@ tags: ['Koan']
 draft: false
 ---
 
-import CongRongLu from "../../../db/koans/vi/CongRongLu.tsx";
+import CongRongLu from "../../../db/koans/zh/CongRongLu.tsx";
 import VintagePost from "../../../layouts/components/VintagePost.astro";
 
-<div class="container vi-koans">
+<div class="container zh-koans">
 
   {
     CongRongLu
@@ -19,7 +19,7 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
      ?.map(koan => {
         if (koan.id%10 === 1) {
           return <VintagePost
-            bookTitle={`${koan.bookTitle} (1 - 10)`}
+            bookTitle={`${koan.bookTitle} (71 - 80)`}
             author={koan.author}
             translator={koan.translator}
                        chapterTitle={koan.title} image={koan.image}
