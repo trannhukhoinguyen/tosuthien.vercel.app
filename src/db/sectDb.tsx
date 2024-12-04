@@ -5,7 +5,7 @@ const sectDb = [
     labelEn: 'Guiyang',
     labelJa: 'Igyô',
     color: 'red',
-    founder: 'Shishan Lingyou - Yangshan Huiji',
+    founder: 'Guishan Lingyou - Yangshan Huiji',
     history: 'Among 5 schools, Weiyangzong was founded the earliest), was a branch of Hongzhouzong . Because the founder of this school, Master Lingyou, and his disciple Huiji, successively promoted the school\'s style in Tanzhou \'s Yunshan (in Ningxiang City, Changsha , Hunan ) and Yuanzhou \'s Yangshan (in Yichun , Jiangxi ), later generations called it Yunyangzong.\n' +
       'The master of Tang Dynasty , Lingyou, was a successor of Baizhang Huaihai . The master of Yichun Yangshan , Huiji, was a successor of Lingyou. The teachers and students were of different schools, and the Dharma was very prosperous. Thus, the reputation of Weiyang Sect came into being. See Jigu Lue San. The theory of practice of Weiyang Sect believes that all sentient beings have Buddha nature. If people can see their nature, they can become Buddhas.\n' +
       'According to records in "Records of the Authentic Transmission of the Dharma" and other materials, there are about 99 people in the Weiyang Sect whose biographies, quotations and deeds can be verified.',
