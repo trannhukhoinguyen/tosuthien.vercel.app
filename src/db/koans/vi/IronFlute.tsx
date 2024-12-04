@@ -3041,34 +3041,34 @@ const IronFlute = [
       'Genro: / ' +
       '# Nếu ai hỏi tôi - không chỉ xâu chín cái vỏ ốc hay mở các vòng xích - Văn Thù phải làm gì, tôi sẽ đánh y trước khi hỏi hết câu. ' +
       'Vì sao? Vì người cày ruộng và người đốn củi cũng chỉ làm theo lệnh. / ' +
-      '# Xỏ xâu 9 vỏ ốc, / ' +
-      'Đập nát các vòng khoen, / ' +
-      'Bánh xe Pháp tự chuyển. / ' +
-      'Khổng Tử là hiền triết, / ' +
-      'Chẳng thắng được đàn bà. / ' +
-      'Cây thông già mọc trên, / ' +
-      'Tảng đá có tuyết phủ. / ' +
-      'Hoa mai sớm đón xuân, / ' +
-      'Mỉm cười trong hàng giậu.',
+      '# Xỏ xâu 9 vỏ ốc / ' +
+      'Đập nát các vòng khoen / ' +
+      'Bánh xe Pháp tự chuyển / ' +
+      'Khổng Tử là hiền triết / ' +
+      'Chẳng thắng được đàn bà / ' +
+      'Cây thông già mọc trên / ' +
+      'Tảng đá có tuyết phủ / ' +
+      'Hoa mai sớm đón xuân / ' +
+      'Mỉm cười trong hàng giậu',
     commentBeforeVerse:
       'Fugai: / ' +
-      'Một địa vị trọng trách. / ' +
-      '# Tướng ra lịnh cho ba quân. / ' +
-      '# Đúng là tăng thủ tọa. / ' +
-      '# Ông ta hiểu rõ địa vị của mình.  / ' +
-      '# Chẳng có gì tuyệt hảo đối với tôi. / ' +
-      '# Hãy xem nào. / ' +
-      '# Hãy đập cái gương đi. / ' +
+      'Một địa vị trọng trách / ' +
+      '# Tướng ra lịnh cho ba quân / ' +
+      '# Đúng là tăng thủ tọa / ' +
+      '# Ông ta hiểu rõ địa vị của mình  / ' +
+      '# Chẳng có gì tuyệt hảo đối với tôi / ' +
+      '# Hãy xem nào / ' +
+      '# Hãy đập cái gương đi / ' +
       '# Hưu Tịnh bày Pháp thân (Dharmakaya), Viên Ngộ nói Hóa thân (Nirmakaya), và Genro tả Báo thân (Sambogakaya). ' +
       '# Chơn trí vận hành không suy nghĩ. / ' +
       'Đại trí giống đại ngu. / ' +
       'Bẩm sinh, không do tạo tác. / ' +
       'Nó làm tôi rùng mình. / ' +
-      'Tôi yêu mùi thơm đó.',
+      'Tôi yêu mùi thơm đó',
     commentAfterVerse:
       'Như Huyễn: / ' +
       '# Mỗi Thiền đường có một pho tượng hay một bức tranh Văn-thù hay Bồ-đề-đạt-ma. / ' +
-      '# Chúng ta đọc trong kinh Kim Cang, “Này Tu- bồ-đề, nếu có người nói rằng Như Lai hoặc đến, hoặc đi, hoặc nằm, hoặc ngồi, người ấy chẳng hiểu nghĩa lời tôi dạy.” / ' +
+      '# Chúng ta đọc trong kinh Kim Cang, “Này Tu- bồ-đề, nếu có người nói rằng Như Lai hoặc đến, hoặc đi, hoặc nằm, hoặc ngồi, người ấy chẳng hiểu nghĩa lời tôi dạy”. / ' +
       '# Có người hỏi Không Tử làm thế nào xỏ xâu được chín cái vỏ ốc, nhưng Khổng Tử không đáp được. / ' +
       'Một người đàn bà bảo Khổng Tử đổ mật ong vào một đầu và cho một con kiến mang sợi chỉ từ đầu bên kia bò qua. / ' +
       '# Ở Trung hoa còn có một câu hỏi khác là làm sao mở các vòng xích khóa lại với nhau. / ' +

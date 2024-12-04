@@ -44,7 +44,7 @@ const Sandokai = {
     'Thừa ngôn tu hội tông (Theo lời hiểu tông chỉ) / ' +
     'Vật tự lập qui củ (Chớ lập qui củ riêng) / ' +
     'Xúc mục bất hội đạo (Chạm mắt không thấy đạo) / ' +
-    'Vận thị ma tri lộ (Làm sao biết đường đi ?) / ' +
+    'Vận thị ma tri lộ (Làm sao biết đường đi?) / ' +
     'Tiến thiệp phi cận viễn (Bước tới chẳng gần xa) / ' +
     'Mê cách sơn hà cố (Mê thì sông núi cách) / ' +
     'Cẩn bạch tham huyền nhân (Nhắn nhủ người tham học) / ' +

@@ -12,8 +12,8 @@ const CongRongLu = [
       'Một hôm Thế Tôn thăng tòa, Văn Thù bạch chùy nói: / ' +
       '“Quán rõ pháp của pháp vương, pháp của pháp vương như thế”. Thế Tôn liền xuống tòa.',
     commentBeforeVerse:
-      'Sư nói: ' +
-      ' Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +
+      'Sư nói: / ' +
+      'Đầy đủ 10 hiệu, ra đời quý nhất, dựng đứng lông mày, phập phòng lỗ mũi, Giảng Tứ gọi đó là thăng tòa, còn Thiền Tông gọi là Thượng đường. / ' +
       'Các vị chưa đến pháp đường, Vạn Tùng chưa ra phương trượng, nếu khi đó biết được, đã là rơi vào thứ 3, thứ 4 rồi. / ' +
       'Tuyết Đậu nói: “Trong đạo tràng nếu có kẻ tâm cơ linh mẫn thì cần chi Văn Thù phải dùng ngôn từ tiếp dẫn, khai ngộ kiểm điểm tương lai". / ' +
       'Tuyết Đậu không hợp muối trắng. Vạn Tùng đâu kham? / ' +
@@ -283,9 +283,8 @@ const CongRongLu = [
     title: 'TẮC THỨ 7: DƯỢC SƠN THĂNG TÒA',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      ' Sư dạy đại chúng rằng: / ' +
-      ' Mắt tai mũi lưỡi, đều có một khả năng lông mày ở trên Sỉ, nông, công thương đều quy về một nhiệm vụ, / ' +
-      'người ngu thường nhàn rổi, bổn phận tông sư làm sao thi hành.',
+      'Sư dạy đại chúng rằng: / ' +
+      'Mắt tai mũi lưỡi, đều có một khả năng lông mày ở trên Sỉ, nông, công thương đều quy về một nhiệm vụ, người ngu thường nhàn rổi, bổn phận tông sư làm sao thi hành.',
     main:
       'Ngài Dược Sơn lâu rồi không thăng tòa. / ' +
       'Viện chủ bạch rằng: Đại chúng từ lâu muốn được Hòa Thượng chỉ dạy, thỉnh Hòa Thượng thuyết pháp cho mọi người. / ' +
@@ -294,7 +293,7 @@ const CongRongLu = [
       'Viện chủ theo sau hỏi: Hòa Thượng mới hứa thuyết pháp cho mọi người, tại sao không nói một lời. / ' +
       'Ngài Dược Sơn nói: Kinh đã có kinh sư, luận đã có luận sư, sao lại trách lão Tăng?',
     commentBeforeVerse:
-      'Sư nói: ' +
+      'Sư nói: / ' +
       'Đói thì ăn, khát thì uống, cho nên Tam gia ngủ thỉnh, Bồ Tát thượng đường, nữa bài kệ toàn thân. / ' +
       'Dược Sơn thăng tòa, há sợ giáo pháp sao? / ' +
       'Thiền sư Hoàng Long Nam nói: / ' +
@@ -307,14 +306,10 @@ const CongRongLu = [
       'Đại chúng muốn thỉnh Ngài chỉ dạy, thỉnh Hòa Thượng thuyết pháp cho đại chúng trong đạo nhân nghĩa. / ' +
       'Chủ khách chưa cho là phân ngoại. Dược Sơn bảo đánh chuông, chí thấy tín hiệu lôi đình, chúng mới vân tập, há biết so Đẩu đốt văn chương. / ' +
       'Dược Sơn thăng tòa im lặng hồi lâu, rồi xuống tòa trở về phương trượng, một phen thần thông, không giống nho nhỏ. / ' +
-      'Viện chủ theo sau hỏi rằng: / ' +
-      'Hòa Thượng hứa đến thuyết pháp cho mọi người, sao không nói lời nào? / ' +
-      'Thúy Nham Chi nói: / ' +
-      'Dược Sơn xuống tòa. Viện chủ lúc đầu sợ không thể thuyết pháp cho mọi người, có thể nói nhầm lẫn ba quân. / ' +
-      'Vạn Tùng nói: / ' +
-      'Chính vì tướng không mạnh. / ' +
-      'Dược Sơn nói: / ' +
-      'Kinh có kinh Sư, luận có luận sư, sao lại trách lão tăng? / ' +
+      'Viện chủ theo sau hỏi rằng: Hòa Thượng hứa đến thuyết pháp cho mọi người, sao không nói lời nào? / ' +
+      'Thúy Nham Chi nói: Dược Sơn xuống tòa. Viện chủ lúc đầu sợ không thể thuyết pháp cho mọi người, có thể nói nhầm lẫn ba quân. / ' +
+      'Vạn Tùng nói: Chính vì tướng không mạnh. / ' +
+      'Dược Sơn nói: Kinh có kinh Sư, luận có luận sư, sao lại trách lão tăng? / ' +
       'Lang Da Giác nói: / ' +
       'Dược Sơn xuống tòa, không ngại nghi ngờ. Viện chủ đẩy ra mất đi con mắt trí tuệ chân thật. / ' +
       'Vạn Tùng nói: ' +
@@ -365,21 +360,15 @@ const CongRongLu = [
       'Bách trượng nói: Chẳng muội nhân quả. / ' +
       'Ông già ngay nơi lời nói này liền đại ngộ',
     commentBeforeVerse:
-      'Sư nói: ' +
-      'Thiền sư Bách Trượng Sơn Đại Trí ở Hồng Châu mỗi một lần thăng đường, thường có 1 lão già, / ' +
-      'khi nghe pháp Phật Ca-diếp đã từng trụ trì núi này, đáp sai 1 chuyển ngữ cho người học, / ' +
-      'đến nay đọa làm thân con chồn, bởi mình dựa tường dính vách, đẩy người rơi xuống hầm rớt xuống vực sâu, / ' +
-      'thấy đại trí dùng thủ đoạn nhổ đinh tháo chốt, liền bỏ theo họ, thỉnh Đại Trí cho một lời chuyển ngữ. / ' +
+      'Sư nói: / ' +
+      'Thiền sư Bách Trượng Sơn Đại Trí ở Hồng Châu mỗi một lần thăng đường, thường có 1 lão già, khi nghe pháp Phật Ca-diếp đã từng trụ trì núi này, đáp sai 1 chuyển ngữ cho người học, đến nay đọa làm thân con chồn, bởi mình dựa tường dính vách, đẩy người rơi xuống hầm rớt xuống vực sâu, thấy đại trí dùng thủ đoạn nhổ đinh tháo chốt, liền bỏ theo họ, thỉnh Đại Trí cho một lời chuyển ngữ. / ' +
       'Đại Trí thì vô úy biện, từ từ nói: Không rỏ nhân quả, ông già ở nơi lời nói liền tỉnh ngộ. ' +
-      'Căn cứ vào sự thật mà luận bàn, không rơi vào nhân quả là bác bỏ không đoạn kiến, / ' +
-      'không rỏ nhân quả, là tùy dòng nước mà được sự vi diệu, người có hiểu chút giáo lý, vừa nêu ra liền hiểu, / ' +
-      'muốn cởi áo lông giống như khoác áo vẩy. Không thấy Đạo Viên Thiền sư, ở trong hội Nam Thiền sư, nghe vị Tăng nêu lời này. / ' +
+      'Căn cứ vào sự thật mà luận bàn, không rơi vào nhân quả là bác bỏ không đoạn kiến, không rỏ nhân quả, là tùy dòng nước mà được sự vi diệu, người có hiểu chút giáo lý, vừa nêu ra liền hiểu, muốn cởi áo lông giống như khoác áo vẩy. ' +
+      'Không thấy Đạo Viên Thiền sư, ở trong hội Nam Thiền sư, nghe vị Tăng nêu lời này. / ' +
       'Một vị Tăng nói: chỉ cấp không lầm nhân quả, cũng chưa thoát khỏi thân con chồn. / ' +
       'Vị Tăng thứ nghe liền nói: không rơi vào nhân quả, mà sao đọa làm thân con chồn? Sư sợ hãi nói trớ đi. / ' +
       'Cấp Thượng Hoàng Kiệt Tích Thúy am đầu, vượt qua khe bổng tỉnh ngộ, gặp Nam Công kể lại chuyện đó, chưa chết rơi nước mắt lăn xuống gò má. / ' +
-      'Nam Công bảo thị giả ngủ nơi cái chỏng, bổng đứng dậy làm bài kệ không rơi không lầm; / ' +
-      'tăng tục vốn không kiêng, bậc trượng phu khí chí như vua, sao nhận mền chăn chiếu lọng, ' +
-      'một cây gậy tha hồ tung hoành, con chồn nhảy vào đội lông vàng. Nam Công cười to, xem như thế nhân lúc thấy đạo. / ' +
+      'Nam Công bảo thị giả ngủ nơi cái chỏng, bổng đứng dậy làm bài kệ không rơi không lầm; tăng tục vốn không kiêng, bậc trượng phu khí chí như vua, sao nhận mền chăn chiếu lọng, một cây gậy tha hồ tung hoành, con chồn nhảy vào đội lông vàng. Nam Công cười to, xem như thế nhân lúc thấy đạo. / ' +
       'Xin Hòa Thượng đáp thay cho một chuyển ngữ, chỉ thích nói không rơi vào nhân quả, không được khiến cho tâm ban đầu rơi vào hầm kiến giải. / ' +
       'Bách Trượng đến tối mới thượng đường nêu ra nhân duyên trước Hoàng Bá liền hỏi: / ' +
       'Người xưa trả lời sai một chuyển ngữ, năm trăm kiếp đọa vào thân chồn, chuyển không đúng hợp làm gì? / ' +
@@ -412,55 +401,48 @@ const CongRongLu = [
       'Chỉ hỏi Thiên Đồng lãnh hội được chưa? / ' +
       'Nếu may mắn có một cõi âm, không vì người khác lao nhọc sao? / ' +
       'Bô lô ba la, Nhi nói không chân thật. / ' +
-      'Lại Pháp Hoa Thích Thiêm nói: Phần nhiều tướng học hành, tiếng tập ngữ oa oa. / ' +
-      'Kinh Niết Bàn nói: Có lệnh hành, anh Nhi hạnh? Có bản nói: Bà bà! hòa hòa. / ' +
-      'Thiền sư Thiện Đạo ở Thạch Thất nói: Trong 1 hạnh của Kinh Niết Bàn, anh Nhi hạnh là hơn hết, lúc bô lô ba la, / ' +
-      'dụ người học đạo kia phân biệt duyên lấy tâm tả, nêu thôn cả xả múa, đều là một ý. / ' +
-      'Hãy nói: Thế nào là điệu hát? Vạn lại cố ý nghe mà không được, Hồ Nham không có lổ lại nghe được.',
+      'Lại Pháp Hoa Thích Thiêm nói: "Phần nhiều tướng học hành, tiếng tập ngữ oa oa". / ' +
+      'Kinh Niết Bàn nói: "Có lệnh hành, anh Nhi hạnh? Có bản nói: Bà bà, hòa hòa". / ' +
+      'Thiền sư Thiện Đạo ở Thạch Thất nói: "Trong 1 hạnh của Kinh Niết Bàn, anh Nhi hạnh là hơn hết, lúc bô lô ba la, dụ người học đạo kia phân biệt duyên lấy tâm tả, nêu thôn cả xả múa, đều là một ý". / ' +
+      'Hãy nói: "Thế nào là điệu hát? Vạn lại cố ý nghe mà không được, Hồ Nham không có lổ lại nghe được".',
   },
   {
     id: 9,
     title: 'TẮC THỨ 9: NAM TUYỀN CHÉM MÈO',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      ' Sư dạy đại chúng rằng: / ' +
-      ' Đạp qua biển xanh / ' +
-      ' Bụi bay khắp nơi / ' +
-      ' Hét vang mây trắng / ' +
-      ' Hư không tan rã / ' +
-      ' Chấp hành nghiêm chỉnh / ' +
-      ' Giống như bán đề / ' +
-      ' Đại dụng đều rõ ràng / ' +
-      ' Thi thiết để làm gì?',
+      'Sư dạy đại chúng rằng: / ' +
+      'Đạp qua biển xanh / ' +
+      'Bụi bay khắp nơi / ' +
+      'Hét vang mây trắng / ' +
+      'Hư không tan rã / ' +
+      'Chấp hành nghiêm chỉnh / ' +
+      'Giống như bán đề / ' +
+      'Đại dụng đều rõ ràng / ' +
+      'Thi thiết để làm gì?',
     main:
-      ' Vào một ngày nọ, thấy 2 đường tranh con mèo, Nam Tuyền thấy liền cầm lên nói: Nói được thì không chém. / ' +
-      ' Chúng không trả lời Tuyền chặt con mèo làm 2 khúc. / ' +
-      ' Nam Tuyền lại nêu ra câu trước hỏi Triệu Châu. / ' +
+      'Vào một ngày nọ, thấy 2 đường tranh con mèo, Nam Tuyền thấy liền cầm lên nói: Nói được thì không chém. / ' +
+      'Chúng không trả lời Tuyền chặt con mèo làm 2 khúc. / ' +
+      'Nam Tuyền lại nêu ra câu trước hỏi Triệu Châu. / ' +
       'Triệu Châu liền cỡi giày ra, đội ở trên đầu. / ' +
-      ' Nam Tuyền nói: Nếu có ông, thì cứu được con mèo.',
+      'Nam Tuyền nói: Nếu có ông, thì cứu được con mèo.',
     commentBeforeVerse:
-      'Sư nói: ' +
+      'Sư nói: / ' +
       'Thiền sư Thiên Thông Tú ở Pháp Vân, thấy 2 vị Tăng đang đứng nói, liền xuống đất dộng gậy dộng một cái nói: / ' +
       'Mượn hình ảnh nghiệp đạo, huống gì thủ chúng đo lường đường, tranh cãi về con mèo. / ' +
       'Nam Tuyền cũng không khuyến khích cho hiểu rõ, cũng không trừng phạt bản sắc đạo nhân. / ' +
-      'Vì bổn phận sự, vì người liền đề khởi con mèo nói: Nói được thì không chém, trong lúc như thế, / ' +
-      'hết thảy hữu tình vô tình trong 10 phương, cùng đến cầu xin vận mệnh / ' +
-      'trong tay Nam Tuyền, lúc đó có người đi ra xoè 2 tay, / ' +
-      'nếu không như vậy sẽ bị đánh vào hông ngực nói: Lại lao nhọc thần dụng của Hòa Thượng, dẫu Nam Tuyền lập riêng chánh lệnh, / ' +
-      'dám chắc cứu được con mèo, hang chuột chết này, đã không có chút xíu hơi thở. / ' +
+      'Vì bổn phận sự, vì người liền đề khởi con mèo nói: ' +
+      'Nói được thì không chém, trong lúc như thế, hết thảy hữu tình vô tình trong 10 phương, cùng đến cầu xin vận mệnh trong tay Nam Tuyền, lúc đó có người đi ra xoè 2 tay, nếu không như vậy sẽ bị đánh vào hông ngực nói: ' +
+      'Lại lao nhọc thần dụng của Hòa Thượng, dẫu Nam Tuyền lập riêng chánh lệnh, dám chắc cứu được con mèo, hang chuột chết này, đã không có chút xíu hơi thở. / ' +
       'Nam Tuyền đã có mà không rút, theo lệnh mà đi. / ' +
       'Bậc Cao Tăng Liêu Kiều Thượng Nhân Khải làm cảnh tâm lục, trách móc Nam Tuyền là kẻ tạo nghiệp sát sinh. / ' +
       'Thủ Tạo Văn là Vô Tận Đăng biện luận sai lầm. / ' +
       'Cứu nói: Bản xưa lấy tay làm cái thế phá hư không, há phải dứt khoát ngay, ngay, máu tươi ướt đẩm. / ' +
-      '2 điều này phê bình người xưa, Văn Công tội nặng, Khả công tội nhẹ, Nam Tuyền vẫn như xưa, ở trong bầy trâu, lắc đầu vẫy đuôi, / ' +
-      'không thấy Thiền sư Phật Nhật uống trà cùng đại chúng thấy con mèo đến, / ' +
-      'ném con chim bồ câu trong tay áo ra cho nó, mèo liền tha đi. / ' +
+      '2 điều này phê bình người xưa, Văn Công tội nặng, Khả công tội nhẹ, Nam Tuyền vẫn như xưa, ở trong bầy trâu, lắc đầu vẫy đuôi, không thấy Thiền sư Phật Nhật uống trà cùng đại chúng thấy con mèo đến, ném con chim bồ câu trong tay áo ra cho nó, mèo liền tha đi. / ' +
       'Phật Nhật nói: Tài giải sao không thể làm giả làm hư dụng. / ' +
       'Nam Tuyền tự nghĩ, uyên thâm qua ít người hiểu được, nêu lời ấy hỏi Triệu Châu. / ' +
       'Triệu Châu liền cởi giày đội ở trên đầu, quả nhiên vừa đi vừa hát, nhịp điệu hài hòa. / ' +
-      'Nam Tuyền nói: Nếu có ông thì cứu được con mèo, chút chổ tác dụng này tuy khó lãnh hội nhưng lại để thấy, / ' +
-      'chỉ cần ông dơ muỗng đưa đũa thì thấy phá, thì thấy giết con mèo, đội giày lại việc giống nhau, / ' +
-      'nếu không thì thấy Thiên Đồng làm việc kỹ lưỡng khác sao?',
+      'Nam Tuyền nói: Nếu có ông thì cứu được con mèo, chút chổ tác dụng này tuy khó lãnh hội nhưng lại để thấy, chỉ cần ông dơ muỗng đưa đũa thì thấy phá, thì thấy giết con mèo, đội giày lại việc giống nhau, nếu không thì thấy Thiên Đồng làm việc kỹ lưỡng khác sao?',
     verseOriginal:
       ' ',
     verse:
@@ -486,15 +468,16 @@ const CongRongLu = [
       'thấy đại chúng không nói, liền nêu lên cho Triệu Châu, biểu hiện rõ trong chúng có người. Triệu Châu cởi giày đội trên đầu đi ra, / ' +
       'qua nhiên lời này chưa mất, tri ân đáng ưa. / ' +
       'Khổng Tử nói: Trời sẽ chưa làm mất văn, xem thầy trò họ cùng nhau nói ca hát, mà không cho dẫn dụ, Thụy hiệu là Pháp. / ' +
-      'Nguồn gốc lưu thông của Nam Tuyền gọi là Vũ, lại tu tập thiền định thành công gọi là Vũ, Thượng Thư Vũ Công, Đạo Hà Tích Thạch đến ở Long Môn, Hoài Nam Tử và / ' +
-      'họ Công binh mạnh mẽ hung bạo thì tranh giành công lao với Vua Nghiêu,kiệt sức không bắt được Chu Sơn mà chết, trụ trời bị bẽ gãy. / ' +
-      'Nữ Oa mài đá màu giúp trời, Liệt Tử. Âm dương mất độ danh thiếu, tinh chuyên mài dũa. Ngũ thường gọi là cầm lộng mây che Động Sơn thì Thái Thủ Tòa, quả nhiên nói: Động Sơn tuy có cái chùy đập phá hư không những không có kim chỉ khâu vá. Nam Tuyền như Đại Vũ xem núi thấu biển, hiển bày thần dụng. Triệu Châu như Nữ Oa mài đá giúp trời, thoại đầu được đầy đủ Vạn Tùng nói: 1 Thượng Giải của' +
-      '    Triệu Châu tan nhà nát cửa, không biết có bao nhiêu sinh nhai, đội giày 32 trên đầu khá hơn chút ít. / ' +
-      '    Than ôi! Không có chổ để thực hiện ý / ' +
-      '    tưởng này. Bảo Phước Triển nói: tuy như vậy chính là giày cỏ rách, Nam Tuyền nói: Nếu ông còn sẽ cứu được con mèo. / ' +
-      '    Thúy Nham Chi nói: Đại tiểu Triệu Châu chỉ có thể tự cứu phóng qua việc hướng thượng. / ' +
-      '    Thiên Đồng nói: Là trong cái lạ lại xem rỏ ràng, chỉ có vàng thật không có cát lẫn lộn, chỉ có thể thuận gió đẩy thuyền, / ' +
-      'không biết ngược gió cầm lái, mà nay một đội này của ông đến đây, mèo lại không có, mèo lại không liền lấy gậy đuổi ra.',
+      'Nguồn gốc lưu thông của Nam Tuyền gọi là Vũ, lại tu tập thiền định thành công gọi là Vũ, Thượng Thư Vũ Công, Đạo Hà Tích Thạch đến ở Long Môn, Hoài Nam Tử và họ Công binh mạnh mẽ hung bạo thì tranh giành công lao với Vua Nghiêu,kiệt sức không bắt được Chu Sơn mà chết, trụ trời bị bẽ gãy. / ' +
+      'Nữ Oa mài đá màu giúp trời, Liệt Tử. Âm dương mất độ danh thiếu, tinh chuyên mài dũa. Ngũ thường gọi là cầm lộng mây che Động Sơn thì Thái Thủ Tòa, quả nhiên nói: ' +
+      'Động Sơn tuy có cái chùy đập phá hư không những không có kim chỉ khâu vá. ' +
+      'Nam Tuyền như Đại Vũ xem núi thấu biển, hiển bày thần dụng. ' +
+      'Triệu Châu như Nữ Oa mài đá giúp trời, thoại đầu được đầy đủ Vạn Tùng nói: 1 Thượng Giải của' +
+      'Triệu Châu tan nhà nát cửa, không biết có bao nhiêu sinh nhai, đội giày 32 trên đầu khá hơn chút ít. / ' +
+      'Than ôi! Không có chổ để thực hiện ý tưởng này. ' +
+      'Bảo Phước Triển nói: tuy như vậy chính là giày cỏ rách, Nam Tuyền nói: Nếu ông còn sẽ cứu được con mèo. / ' +
+      'Thúy Nham Chi nói: Đại tiểu Triệu Châu chỉ có thể tự cứu phóng qua việc hướng thượng. / ' +
+      'Thiên Đồng nói: Là trong cái lạ lại xem rỏ ràng, chỉ có vàng thật không có cát lẫn lộn, chỉ có thể thuận gió đẩy thuyền, không biết ngược gió cầm lái, mà nay một đội này của ông đến đây, mèo lại không có, mèo lại không liền lấy gậy đuổi ra.',
   },
   {
     id: 10,
@@ -502,52 +485,55 @@ const CongRongLu = [
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
       'Sư dạy đại chúng rằng: / ' +
-      '    Có nắm thì có buông / ' +
-      '    Cây gậy tùy thân / ' +
-      '    Hay giết hay tha / ' +
-      '    Quyền hành trong tay / ' +
-      '    Ngoài quỷ thần lao / ' +
-      '    Đều chỉ tay hô / ' +
-      '    Sơn Hà đại địa đều thành đồ chơi. / ' +
-      ' Hãy nói: Đó là cảnh giới?',
+      'Có nắm thì có buông / ' +
+      'Cây gậy tùy thân / ' +
+      'Hay giết hay tha / ' +
+      'Quyền hành trong tay / ' +
+      'Ngoài quỷ thần lao / ' +
+      'Đều chỉ tay hô / ' +
+      'Sơn Hà đại địa đều thành đồ chơi. / ' +
+      'Hãy nói: Đó là cảnh giới?',
     main:
-      ' Trên đường đến Đài Sơn có bà già. Có vị Tăng hỏi:' +
-      '    Đường đến Đài Sơn đi về hướng nào?' +
-      '    Bà già nói: Lên ngựa đi thẳng' +
-      '    Vị Tăng liền đi' +
-      '    Bà già nói: Hay nhỉ ông Sư này đi như thế. Tăng nêu ra cho Triệu Châu. / ' +
-      '    Triệu Châu nói: Đợi đấy. Cùng xem xét qua. / ' +
-      ' Triệu Châu cũng hỏi như trước đến ngày thượng nói: Ta cho ông tra xét đánh bà già.',
+      'Trên đường đến Đài Sơn có bà già. Có vị Tăng hỏi:' +
+      'Đường đến Đài Sơn đi về hướng nào?' +
+      'Bà già nói: Lên ngựa đi thẳng' +
+      'Vị Tăng liền đi' +
+      'Bà già nói: Hay nhỉ ông Sư này đi như thế. Tăng nêu ra cho Triệu Châu. / ' +
+      'Triệu Châu nói: Đợi đấy. Cùng xem xét qua. / ' +
+      'Triệu Châu cũng hỏi như trước đến ngày thượng nói: Ta cho ông tra xét đánh bà già.',
     commentBeforeVerse:
-      ' Sư nói: ' +
-      ' Đường đến Đài Sơn có 1 bà già, thói quen tuy không ra chùa vào chùa, tham cứu nhiều về Ngài Văn Thù trước 3 sau 3 phàm thấy vị Tăng hỏi đường đến Đài Sơn đi về hướng nào? Thì lập tức chỉ con đường lớn ở Trường An. / ' +
-      '    Cứ đi thẳng, vị Tăng kia không nghi ngờ liền đi. / ' +
-      '    Bà già nói: Hãy nghĩ lão Tăng này đi như thế. Là cái dùi ở trong tay bà già này. Từ trước đến nay dối lầm bao nhiêu kẻ hiền lương vị Tăng này đã không làm sao được y bèn nêu lên cho Triệu Châu. / ' +
-      '    Triệu Châu nói: Đợi đấy, cùng xem xét thử. Nghi ngờ giết người trong thiên hạ, lão già này tâm không trụ, tính cái gì, chắc chắn phải định giáo nghĩa Thiền Tông, / ' +
+      'Sư nói: ' +
+      'Đường đến Đài Sơn có 1 bà già, thói quen tuy không ra chùa vào chùa, tham cứu nhiều về Ngài Văn Thù trước 3 sau 3 phàm thấy vị Tăng hỏi đường đến Đài Sơn đi về hướng nào? Thì lập tức chỉ con đường lớn ở Trường An. / ' +
+      'Cứ đi thẳng, vị Tăng kia không nghi ngờ liền đi. / ' +
+      'Bà già nói: Hãy nghĩ lão Tăng này đi như thế. Là cái dùi ở trong tay bà già này. Từ trước đến nay dối lầm bao nhiêu kẻ hiền lương vị Tăng này đã không làm sao được y bèn nêu lên cho Triệu Châu. / ' +
+      'Triệu Châu nói: Đợi đấy, cùng xem xét thử. Nghi ngờ giết người trong thiên hạ, lão già này tâm không trụ, tính cái gì, chắc chắn phải định giáo nghĩa Thiền Tông, / ' +
       'Triệu Châu dựa vào trước để hỏi như thế. Còn bà già dựa vào trước trả lời như thế đã biết trước mà nói bị đánh cho 2 gậy. / ' +
       'Đoạn trước điểm vị Tăng này giúp đỡ bà già, đoạn sau điểm bà già giúp đỡ Triệu Châu. / ' +
-      '    Chỉ có Huyền Giác nói: Trước vị Tăng hỏi đáp như thế, sau Triệu Châu đến hỏi đáp như thế / ' +
-      '    Hãy nói: Chỗ nào là chỗ để khám phá? / ' +
-      '    Vạn Tùng nói: Khám phá rồi / ' +
-      '    Lại nói: Không những bị Triệu Châu khám phá, mà cũng bị vị Tăng này khám phá / ' +
-      '    Vạn Tùng nói: không những lụy đến Huyền Giác mà cũng liên lụy đến Vạn Tùng. / ' +
-      '    Lang Da nói: Đại Tiểu Triệu Châu đi trong tay bà già này sẽ tan thân mất mạng / ' +
+      'Chỉ có Huyền Giác nói: Trước vị Tăng hỏi đáp như thế, sau Triệu Châu đến hỏi đáp như thế / ' +
+      'Hãy nói: Chỗ nào là chỗ để khám phá? / ' +
+      'Vạn Tùng nói: Khám phá rồi / ' +
+      'Lại nói: Không những bị Triệu Châu khám phá, mà cũng bị vị Tăng này khám phá / ' +
+      'Vạn Tùng nói: không những lụy đến Huyền Giác mà cũng liên lụy đến Vạn Tùng. / ' +
+      'Lang Da nói: Đại Tiểu Triệu Châu đi trong tay bà già này sẽ tan thân mất mạng / ' +
       'Tuy như thế, nhiều người hiểu sai lầm. Vạn Tùng nói: Rất kỵ, suy bụng ta ra bụng người',
     verseOriginal: '',
     verse: '',
     verseExtraOriginal: '',
     verseExtra: '',
     commentAfterVerse:
-      'Qui Sơn sáng suốt nói: Nạp Tăng trong Thiên hạ chỉ biết hỏi đường bà già, lại không biết chân lún bùn, nếu không có lão già Triệu Châu, tranh cải hiểu hiện được công lao chiến đấu khó nhọc tuy phải nhờ Thiên Đồng ca dương mới được. / ' +
-      '(Tụng rằng: / ' +
-      'Tuổi lớn kinh nghiệm không truyền sai. / ' +
-      'Triệu Châu Cổ Phật nối Nam Tuyền. / ' +
-      'Rùa già mất mạng do tranh tượng. / ' +
+      'Qui Sơn sáng suốt nói: / ' +
+      'Nạp Tăng trong Thiên hạ chỉ biết hỏi đường bà già, lại không biết chân lún bùn, nếu không có lão già Triệu Châu, tranh cải hiểu hiện được công lao chiến đấu khó nhọc tuy phải nhờ Thiên Đồng ca dương mới được. / ' +
+      'Tụng rằng: / ' +
+      'Tuổi lớn kinh nghiệm không truyền sai / ' +
+      'Triệu Châu Cổ Phật nối Nam Tuyền / ' +
+      'Rùa già mất mạng do tranh tượng / ' +
       'Ngựa hiền theo gió lụy dây cương, / ' +
-      'khám được Thiền của lão già thuyết phục người trước không cần đến tiền). / ' +
-      'Sư nói: Quỷ mị cho là yêu thông thành tịnh, Chú dược cho là y thông thành tịnh, Thiên long cho là báo thông thành tịnh, Hiền Thánh cho là thần thông thành tịnh, Phật Tổ cho là đạo thông thành tịnh. / ' +
+      'khám được Thiền của lão già thuyết phục người trước không cần đến tiền. / ' +
+      'Sư nói: / ' +
+      'Quỷ mị cho là yêu thông thành tịnh, Chú dược cho là y thông thành tịnh, Thiên long cho là báo thông thành tịnh, Hiền Thánh cho là thần thông thành tịnh, Phật Tổ cho là đạo thông thành tịnh. / ' +
       'Nam Tuyền Triệu Châu và Phật Tổ là bậc thượng nhân, đâu kham nổi tuổi già, cho nên nói: Tuổi già thành tịnh. Triệu Châu Cổ Phật nối Nam Tuyền / ' +
-      'Mã Tổ nói: Kinh nhập Tạng, Thiền về Hải, chỉ có Nam Tuyền vượt qua muôn vật, Triệu Châu lấy Trường Sa làm bạn, lấy Nam Tuyền làm thầy cho nên xem xét kỹ, chẳng được mất hơn thua đáng phẩm cách, thiên hạ gọi đó là cửa ải của Triệu Châu. Cũng không ngại khó vượt qua. / ' +
+      'Mã Tổ nói: Kinh nhập Tạng, Thiền về Hải, chỉ có Nam Tuyền vượt qua muôn vật, Triệu Châu lấy Trường Sa làm bạn, lấy Nam Tuyền làm thầy cho nên xem xét kỹ, chẳng được mất hơn thua đáng phẩm cách, thiên hạ gọi đó là cửa ải của Triệu Châu. ' +
+      'Cũng không ngại khó vượt qua. / ' +
       'Tuy Trọng Ni có nói: Rùa thần hay ứng mộng với Vua Nguyên, mà không thể thoát khỏi lưới của ta, 2 khoan của Trí Năng mà không tiếc kế sách, mà không thể tránh được tai họa mổ bụng, như thế thì trí có chỗ khốn cùng thần thông có chỗ không bì kịp. / ' +
       'Trang Tử nói: / ' +
       'Tông Nguyên quân nằm mộng thấy có người xuất gia nói: / ' +
