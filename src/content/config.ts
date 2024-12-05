@@ -126,6 +126,17 @@ const huatouSchema = z.object({
 // huatous schema
 const huatousSchema = z.array(huatouSchema);
 
+// faqHome schema
+const faqHomeSchema = z.object({
+  name: z.string(),
+  designation: z.string(),
+  avatar: z.string(),
+  content: z.string(),
+});
+
+// faqHomes schema
+const faqHomesSchema = z.array(faqHomeSchema);
+
 // Call to Action schema
 const callToActionSchema = z.object({
   enable: z.boolean(),
@@ -150,5 +161,6 @@ export const collections = {
   pages: pagesCollection,
   content: contentCollection,
   huatous: huatousSchema,
+  faqHomes: faqHomesSchema,
   callToAction: callToActionSchema,
 };

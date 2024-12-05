@@ -3,6 +3,7 @@ import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
 import HuaTou from "@/layouts/partials/Huatou.astro";
+import faqHome from "@/layouts/partials/faqHome.astro";
 import type { ContentEntryMap } from "astro:content";
 import SevenThingsLeftBehind from "@/layouts/components/SevenThingsLeftBehind.astro"
 import { site } from "@/config/config.json";
@@ -19,6 +20,11 @@ const huatou = await getSinglePage(
   "sections",
   lang as keyof ContentEntryMap,
   "huatou"
+);
+const faqHome = await getSinglePage(
+  "sections",
+  lang as keyof ContentEntryMap,
+  "faqHome"
 );
 const {
   severe_problem,
@@ -41,5 +47,6 @@ const {
     <h2>🏴‍☠️ {after_death} 🏴‍☠️</h2>
     <SevenThingsLeftBehind />
   </div>
+  <faqHome faqHomes={faqHome[0]} />
   <HuaTou huatous={huatou[0]} />
 </Base>

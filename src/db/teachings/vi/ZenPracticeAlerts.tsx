@@ -5,25 +5,34 @@ const ZenPracticeAlerts = {
   author: '[Thiền sư] Bác Sơn Nguyên Lai',
   image: '/images/teachings/zhongfeng-speeches.jpg' || '/images/teachings/zhongfeng-dharma-speeches.jpg',
   intro:
-'Con người có cái họa lớn sanh tử là giấc mộng dài muôn kiếp chẳng tỉnh, huống là sáu căn làm môi giới cho giặc hằng ngày cướp của báu trong nhà. Nếu chẳng phải đấng Đại-giác dùng lời thống thiết cảnh tỉnh thì suốt đời say sưa trong giấc mộng biết đến ngày nào mới tỉnh ngộ. Chẳng những lúc ngủ làm chủ chẳng được, mà ngay cả ban ngày mở mắt nói mơ rất nhiều. Cho nên Đại-sư Bác Sơn nương sức bi nguyện đến làm Đại-y-vương dùng một vị Già-đà trị bệnh-nghiệp điên cuồng cho mọi người. Do đó, có khai-thị năm chương Cảnh-ngữ về thiền bệnh rất đơn giản thẳng tắt; các bệnh trong xương tủy của người tham-thiền đều được nói qua. Lời khai thị hạ thủ công phu trong sách này rất là khẩn yếu, thật là một quyển sách mới thiết yếu cho cửa thiền, cũng là thuốc tiên cứu thế. / ' +
-'Thiền cũng là giả danh không có thật thể, làm sao có bệnh ? Bởi vì người tham-thiền phần nhiều khởi lên chấp tình lầm hiểu, bị tâm ý thức đánh lừa sát hại, chẳng hướng lên trên cơ cảnh tìm, lại nhằm vào trong học giải kiếm, hoặc bị ngôn cú Cổ-nhân làm chướng ngại tâm, hoặc bị chết chìm trong tử thủy, hoặc ngồi ở trong cái vỏ vô sự, chẳng phải tâm linh lợi chết chẳng được, bèn là tâm si chấp chuyển chẳng được cho nên mạng căn khó cắt đứt, sanh diệt rõ ràng, toàn thân đều là bệnh của ta, chứ chẳng phải thiền có bệnh. Thậm chí thành cuồng trước ma, Phật cũng chẳng thể cứu, đây là bệnh nghiệp chứ chẳng phải thiền bệnh. / ' +
+    'Con người có cái họa lớn sanh tử là giấc mộng dài muôn kiếp chẳng tỉnh, huống là 6 căn làm môi giới cho giặc hằng ngày cướp của báu trong nhà. ' +
+    'Nếu chẳng phải đấng Đại-giác dùng lời thống thiết cảnh tỉnh thì suốt đời say sưa trong giấc mộng biết đến ngày nào mới tỉnh ngộ. ' +
+    'Chẳng những lúc ngủ làm chủ chẳng được, mà ngay cả ban ngày mở mắt nói mơ rất nhiều. ' +
+    'Cho nên Đại-sư Bác Sơn nương sức bi nguyện đến làm Đại-y-vương dùng một vị Già-đà trị bệnh-nghiệp điên cuồng cho mọi người. ' +
+    'Do đó, có khai-thị năm chương Cảnh-ngữ về thiền bệnh rất đơn giản thẳng tắt; các bệnh trong xương tủy của người tham-thiền đều được nói qua. ' +
+    'Lời khai thị hạ thủ công phu trong sách này rất là khẩn yếu, thật là một quyển sách mới thiết yếu cho cửa thiền, cũng là thuốc tiên cứu thế. / ' +
+    'Thiền cũng là giả danh không có thật thể, làm sao có bệnh? ' +
+    'Bởi vì người tham-thiền phần nhiều khởi lên chấp tình lầm hiểu, bị tâm ý thức đánh lừa sát hại, chẳng hướng lên trên cơ cảnh tìm, lại nhằm vào trong học giải kiếm, hoặc bị ngôn cú Cổ-nhân làm chướng ngại tâm, hoặc bị chết chìm trong tử thủy, hoặc ngồi ở trong cái vỏ vô sự, chẳng phải tâm linh lợi chết chẳng được, bèn là tâm si chấp chuyển chẳng được cho nên mạng căn khó cắt đứt, sanh diệt rõ ràng, toàn thân đều là bệnh của ta, chứ chẳng phải thiền có bệnh. Thậm chí thành cuồng trước ma, Phật cũng chẳng thể cứu, đây là bệnh nghiệp chứ chẳng phải thiền bệnh. / ' +
     'Giả sử cho đến chết được các thứ tâm, mà chẳng chịu hạ thủ công phu cùng với lý Pháp thân tương ưng, chẳng từng đạp lên trên cái ngạch cửa hướng thượng, ngồi ở trong thùng cơm khinh an tự tại, cái khinh an này chính là thiền bệnh. / ' +
     'Cho nên có vị Tăng hỏi Cổ-đức: "Thế nào là thanh tịnh Pháp-thân?" / ' +
     'Cổ-đức đáp: "Nguồn gốc của vô lượng bệnh lớn". / ' +
     'Lời này như gai gốc nuốt vào nôn ra thật khó. / ' +
     'Cổ-nhân từ trong chân tham thật ngộ, bệnh qua một phen rồi cho các Ngài duổi tay tiếp độ chẳng loại hạ kim dùi (châm chùy), cần phải gặp người tuyệt khí tức, biết ngứa ngáy mới chịu chẩn bệnh. / ' +
     'Thế nên, biết bệnh mới trừ được bệnh, chữa mình rồi sau mới chữa người, đúng là người bệnh lâu năm trở thành thầy thuốc. / ' +
-'Đại-sư Bác Sơn từ trước đến nay tham-cứu đạo này rất là dung thông, ngôn cú nào của Ngài cũng đều từ trong kinh nghiệm chứ chẳng phải cố làm ra lời huyền diệu cao siêu, khiến cho người chẳng biết, mà là cảnh giới thân chứng, thật tu thường ngày, thấy đến, nói đến, làm đến, dùng đến. Nghĩa lý tinh minh biện tài vô ngại, vì thế Ngài nói sâu sắc về thiền bệnh như cầm cái gương ngọc của cung Tần soi thấy gan mật của quần thần một mảy lông trốn cũng chẳng được. Xưa nay người ngồi gường thiền tự xưng Thiện-tri-thức nói thiền hay như Sư thật là hiếm có. / ' +
-'Tuy nhiên, thiền bệnh rất khó nói, nói cũng chẳng làm sao hết được. Bệnh tức là bệnh của Pháp-thân, Pháp-thân vô số bệnh đâu có cùng tột. Người cứu bệnh Pháp-thân, lấy bệnh làm phương thuốc hay, lấy bệnh làm cơm nước thường dùng trong nhà, lấy bệnh làm áo lót, là do mình dùng hay hoặc không dùng hay mà thôi; Cổ-nhân du hý trong bệnh để làm Phật sự. / ' +
-'Bởi vì thấy rõ Pháp-thân vô chủ bệnh tự lành ngay, cho nên Động Sơn nói: Lão-tăng lúc xem chẳng thấy có bệnh; chỉ do vọng tưởng chấp trước nên thiền bệnh đua nhau sanh.
-Xưa, Phật nói Ma-sự của Ngũ-ấm trong kinh Lăng Nghiêm và biến kế sở chấp của Ngoại-đạo tức là việc trong thiền bệnh của người thời nay. Vậy Chấp tức thành Ma, Kế tức là Ngoại-đạo, chẳng chấp chẳng kế cũng chưa là bệnh. Vì thế nói: Chẳng khởi tâm cho là thù thắng là cảnh giới lành, nếu cho là chứng Thánh thì liền rơi vào bầy tà. / ' +
-'"Kinh Pháp Hoa nói: Có một vị Đạo-sư biết rành đường thông bít hiểm nạn cho nên có thể dẫn dắt những người kia đến Bảo-sở.
-Vậy quyển sách nầy của Đại-sư chính là chiếc thuyền cho đời Mạt-pháp, là con đường tắt cho kẻ sơ tâm, chẳng những hữu ích cho ngày nay mà cũng bổ ích cho tương lai. / ' +
-'Người quyết chí muốn tham-thiền hạ thủ công phu cầu Đại-ngộ chịu xem kỹ sách nầy thì biết làm cách nào để cho nghi-tình chẳng phát khởi liền phát khởi, gốc bệnh chưa phá liền phá, như vạch cát bày ngọc cho người tự lấy, như vẹt màn sương mù thấy bầu trời khiến cho người chẳng mê, như ở trong bước đường cùng có đường xuất thân, trong câu chết có câu cứu sống người, như hạt Châu tròn lăn trên mâm, chẳng trệ một lời. / ' +
-'Diệu dụng của sách nầy như thế, mọi người biết y theo đây dụng tâm thì có thể ngồi hoặc ngủ kiến Đạo chẳng tốn nhiều tiền giày cỏ mà thẳng đến ruộng đất đại an lạc, cùng với Phật & Tổ đồng thở chung một lỗ mũi. / ' +
-'Người lấy đây tự cảnh tỉnh rồi cảnh tỉnh người, lại lấy đây tự chữa lành bệnh rồi chữa lành bệnh cho người, cũng gọi là hiện tại Y-vương, khiến cho mạng-mạch Tổ-sư lưu thông, quốc-mạch cùng huệ-mạch đều kiên cố, ngõ hầu chẳng phụ phương tiện nguyện lực của Đại-sư từ bi chỉ dạy. / ' +
-'Niên hiệu Vạn Lịch năm Tân Hợi (1611), Tháng Mạnh thu. / ' +
-'Tín Châu, đệ tử LƯU SÙNG KHÁNH, kính đề. / ',
+    'Đại-sư Bác Sơn từ trước đến nay tham-cứu đạo này rất là dung thông, ngôn cú nào của Ngài cũng đều từ trong kinh nghiệm chứ chẳng phải cố làm ra lời huyền diệu cao siêu, khiến cho người chẳng biết, mà là cảnh giới thân chứng, thật tu thường ngày, thấy đến, nói đến, làm đến, dùng đến. Nghĩa lý tinh minh biện tài vô ngại, vì thế Ngài nói sâu sắc về thiền bệnh như cầm cái gương ngọc của cung Tần soi thấy gan mật của quần thần một mảy lông trốn cũng chẳng được. Xưa nay người ngồi gường thiền tự xưng Thiện-tri-thức nói thiền hay như Sư thật là hiếm có. / ' +
+    'Tuy nhiên, thiền bệnh rất khó nói, nói cũng chẳng làm sao hết được. Bệnh tức là bệnh của Pháp-thân, Pháp-thân vô số bệnh đâu có cùng tột. ' +
+    'Người cứu bệnh Pháp-thân, lấy bệnh làm phương thuốc hay, lấy bệnh làm cơm nước thường dùng trong nhà, lấy bệnh làm áo lót, là do mình dùng hay hoặc không dùng hay mà thôi. ' +
+    'Cổ-nhân du hý trong bệnh để làm Phật sự. / ' +
+    'Bởi vì thấy rõ Pháp-thân vô chủ bệnh tự lành ngay, cho nên Động Sơn nói: Lão-tăng lúc xem chẳng thấy có bệnh; chỉ do vọng tưởng chấp trước nên thiền bệnh đua nhau sanh. / ' +
+    'Xưa, Phật nói Ma-sự của Ngũ-ấm trong kinh Lăng Nghiêm và biến kế sở chấp của Ngoại-đạo tức là việc trong thiền bệnh của người thời nay. ' +
+    'Vậy Chấp tức thành Ma, Kế tức là Ngoại-đạo, chẳng chấp chẳng kế cũng chưa là bệnh. Vì thế nói: Chẳng khởi tâm cho là thù thắng là cảnh giới lành, nếu cho là chứng Thánh thì liền rơi vào bầy tà. / ' +
+    '"Kinh Pháp Hoa nói: Có một vị Đạo-sư biết rành đường thông bít hiểm nạn cho nên có thể dẫn dắt những người kia đến Bảo-sở. / ' +
+    'Vậy quyển sách nầy của Đại-sư chính là chiếc thuyền cho đời Mạt-pháp, là con đường tắt cho kẻ sơ tâm, chẳng những hữu ích cho ngày nay mà cũng bổ ích cho tương lai. / ' +
+    'Người quyết chí muốn tham-thiền hạ thủ công phu cầu Đại-ngộ chịu xem kỹ sách nầy thì biết làm cách nào để cho nghi-tình chẳng phát khởi liền phát khởi, gốc bệnh chưa phá liền phá, như vạch cát bày ngọc cho người tự lấy, như vẹt màn sương mù thấy bầu trời khiến cho người chẳng mê, như ở trong bước đường cùng có đường xuất thân, trong câu chết có câu cứu sống người, như hạt Châu tròn lăn trên mâm, chẳng trệ một lời. / ' +
+    'Diệu dụng của sách nầy như thế, mọi người biết y theo đây dụng tâm thì có thể ngồi hoặc ngủ kiến Đạo chẳng tốn nhiều tiền giày cỏ mà thẳng đến ruộng đất đại an lạc, cùng với Phật & Tổ đồng thở chung một lỗ mũi. / ' +
+    'Người lấy đây tự cảnh tỉnh rồi cảnh tỉnh người, lại lấy đây tự chữa lành bệnh rồi chữa lành bệnh cho người, cũng gọi là hiện tại Y-vương, khiến cho mạng-mạch Tổ-sư lưu thông, quốc-mạch cùng huệ-mạch đều kiên cố, ngõ hầu chẳng phụ phương tiện nguyện lực của Đại-sư từ bi chỉ dạy. / ' +
+    'Niên hiệu Vạn Lịch năm Tân Hợi (1611), Tháng Mạnh thu. / ' +
+    'Tín Châu, đệ tử LƯU SÙNG KHÁNH, kính đề. / ',
   paragraph1:
     'CHƯƠNG I: CẢNH NGỮ KHAI THỊ NGƯỜI MỚI PHÁT TÂM THAM THIỀN',
   paragraph2:
