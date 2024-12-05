@@ -5,24 +5,33 @@ const ZenPracticeAlerts = {
   author: '[Thiền sư] Bác Sơn Nguyên Lai',
   image: '/images/teachings/zhongfeng-speeches.jpg' || '/images/teachings/zhongfeng-dharma-speeches.jpg',
   intro:
-    'Giả sử cho đến chết được các thứ tâm, mà chẳng chịu hạ thủ công phu cùng với lý Pháp-thân tương ưng, / ' +
-    'chẳng từng đạp lên trên cái ngạch cửa hướng thượng, ngồi ở trong thùng cơm khinh an tự tại, cái khinh an này chính là thiền bệnh. / ' +
-    'Cho nên có vị Tăng hỏi Cổ-đức: Thế nào là thanh tịnh Pháp-thân? ' +
-    'Cổ-đức đáp: Nguồn gốc của vô lượng bệnh lớn. / ' +
+'Con người có cái họa lớn sanh tử là giấc mộng dài muôn kiếp chẳng tỉnh, huống là sáu căn làm môi giới cho giặc hằng ngày cướp của báu trong nhà. Nếu chẳng phải đấng Đại-giác dùng lời thống thiết cảnh tỉnh thì suốt đời say sưa trong giấc mộng biết đến ngày nào mới tỉnh ngộ. Chẳng những lúc ngủ làm chủ chẳng được, mà ngay cả ban ngày mở mắt nói mơ rất nhiều. Cho nên Đại-sư Bác Sơn nương sức bi nguyện đến làm Đại-y-vương dùng một vị Già-đà trị bệnh-nghiệp điên cuồng cho mọi người. Do đó, có khai-thị năm chương Cảnh-ngữ về thiền bệnh rất đơn giản thẳng tắt; các bệnh trong xương tủy của người tham-thiền đều được nói qua. Lời khai thị hạ thủ công phu trong sách này rất là khẩn yếu, thật là một quyển sách mới thiết yếu cho cửa thiền, cũng là thuốc tiên cứu thế. / ' +
+'Thiền cũng là giả danh không có thật thể, làm sao có bệnh ? Bởi vì người tham-thiền phần nhiều khởi lên chấp tình lầm hiểu, bị tâm ý thức đánh lừa sát hại, chẳng hướng lên trên cơ cảnh tìm, lại nhằm vào trong học giải kiếm, hoặc bị ngôn cú Cổ-nhân làm chướng ngại tâm, hoặc bị chết chìm trong tử thủy, hoặc ngồi ở trong cái vỏ vô sự, chẳng phải tâm linh lợi chết chẳng được, bèn là tâm si chấp chuyển chẳng được cho nên mạng căn khó cắt đứt, sanh diệt rõ ràng, toàn thân đều là bệnh của ta, chứ chẳng phải thiền có bệnh. Thậm chí thành cuồng trước ma, Phật cũng chẳng thể cứu, đây là bệnh nghiệp chứ chẳng phải thiền bệnh. / ' +
+    'Giả sử cho đến chết được các thứ tâm, mà chẳng chịu hạ thủ công phu cùng với lý Pháp thân tương ưng, chẳng từng đạp lên trên cái ngạch cửa hướng thượng, ngồi ở trong thùng cơm khinh an tự tại, cái khinh an này chính là thiền bệnh. / ' +
+    'Cho nên có vị Tăng hỏi Cổ-đức: "Thế nào là thanh tịnh Pháp-thân?" / ' +
+    'Cổ-đức đáp: "Nguồn gốc của vô lượng bệnh lớn". / ' +
     'Lời này như gai gốc nuốt vào nôn ra thật khó. / ' +
-    'Cổ-nhân từ trong chân tham thật ngộ, bệnh qua một phen rồi cho các Ngài duổi tay tiếp độ chẳng loại hạ kim dùi (châm chùy), / ' +
-    'cần phải gặp người tuyệt khí tức, biết ngứa ngáy mới chịu chẩn bệnh. / ' +
-    'Thế nên, biết bệnh mới trừ được bệnh, chữa mình rồi sau mới chữa người, đúng là người bệnh lâu năm trở thành thầy thuốc.',
+    'Cổ-nhân từ trong chân tham thật ngộ, bệnh qua một phen rồi cho các Ngài duổi tay tiếp độ chẳng loại hạ kim dùi (châm chùy), cần phải gặp người tuyệt khí tức, biết ngứa ngáy mới chịu chẩn bệnh. / ' +
+    'Thế nên, biết bệnh mới trừ được bệnh, chữa mình rồi sau mới chữa người, đúng là người bệnh lâu năm trở thành thầy thuốc. / ' +
+'Đại-sư Bác Sơn từ trước đến nay tham-cứu đạo này rất là dung thông, ngôn cú nào của Ngài cũng đều từ trong kinh nghiệm chứ chẳng phải cố làm ra lời huyền diệu cao siêu, khiến cho người chẳng biết, mà là cảnh giới thân chứng, thật tu thường ngày, thấy đến, nói đến, làm đến, dùng đến. Nghĩa lý tinh minh biện tài vô ngại, vì thế Ngài nói sâu sắc về thiền bệnh như cầm cái gương ngọc của cung Tần soi thấy gan mật của quần thần một mảy lông trốn cũng chẳng được. Xưa nay người ngồi gường thiền tự xưng Thiện-tri-thức nói thiền hay như Sư thật là hiếm có. / ' +
+'Tuy nhiên, thiền bệnh rất khó nói, nói cũng chẳng làm sao hết được. Bệnh tức là bệnh của Pháp-thân, Pháp-thân vô số bệnh đâu có cùng tột. Người cứu bệnh Pháp-thân, lấy bệnh làm phương thuốc hay, lấy bệnh làm cơm nước thường dùng trong nhà, lấy bệnh làm áo lót, là do mình dùng hay hoặc không dùng hay mà thôi; Cổ-nhân du hý trong bệnh để làm Phật sự. / ' +
+'Bởi vì thấy rõ Pháp-thân vô chủ bệnh tự lành ngay, cho nên Động Sơn nói: Lão-tăng lúc xem chẳng thấy có bệnh; chỉ do vọng tưởng chấp trước nên thiền bệnh đua nhau sanh.
+Xưa, Phật nói Ma-sự của Ngũ-ấm trong kinh Lăng Nghiêm và biến kế sở chấp của Ngoại-đạo tức là việc trong thiền bệnh của người thời nay. Vậy Chấp tức thành Ma, Kế tức là Ngoại-đạo, chẳng chấp chẳng kế cũng chưa là bệnh. Vì thế nói: Chẳng khởi tâm cho là thù thắng là cảnh giới lành, nếu cho là chứng Thánh thì liền rơi vào bầy tà. / ' +
+"Kinh Pháp Hoa nói: Có một vị Đạo-sư biết rành đường thông bít hiểm nạn cho nên có thể dẫn dắt những người kia đến Bảo-sở.
+Vậy quyển sách nầy của Đại-sư chính là chiếc thuyền cho đời Mạt-pháp, là con đường tắt cho kẻ sơ tâm, chẳng những hữu ích cho ngày nay mà cũng bổ ích cho tương lai. / ' +
+'Người quyết chí muốn tham-thiền hạ thủ công phu cầu Đại-ngộ chịu xem kỹ sách nầy thì biết làm cách nào để cho nghi-tình chẳng phát khởi liền phát khởi, gốc bệnh chưa phá liền phá, như vạch cát bày ngọc cho người tự lấy, như vẹt màn sương mù thấy bầu trời khiến cho người chẳng mê, như ở trong bước đường cùng có đường xuất thân, trong câu chết có câu cứu sống người, như hạt Châu tròn lăn trên mâm, chẳng trệ một lời. / ' +
+'Diệu dụng của sách nầy như thế, mọi người biết y theo đây dụng tâm thì có thể ngồi hoặc ngủ kiến Đạo chẳng tốn nhiều tiền giày cỏ mà thẳng đến ruộng đất đại an lạc, cùng với Phật & Tổ đồng thở chung một lỗ mũi. / ' +
+'Người lấy đây tự cảnh tỉnh rồi cảnh tỉnh người, lại lấy đây tự chữa lành bệnh rồi chữa lành bệnh cho người, cũng gọi là hiện tại Y-vương, khiến cho mạng-mạch Tổ-sư lưu thông, quốc-mạch cùng huệ-mạch đều kiên cố, ngõ hầu chẳng phụ phương tiện nguyện lực của Đại-sư từ bi chỉ dạy. / ' +
+'Niên hiệu Vạn Lịch năm Tân Hợi (1611), Tháng Mạnh thu. / ' +
+'Tín Châu, đệ tử LƯU SÙNG KHÁNH, kính đề. / ',
   paragraph1:
     'CHƯƠNG I: CẢNH NGỮ KHAI THỊ NGƯỜI MỚI PHÁT TÂM THAM THIỀN',
   paragraph2:
-    'Tham-thiền đầu tiên cần phải phát tâm phá vỡ sanh tử cho vững chắc, thấy rõ thế giới, thân tâm thảy đều là giả duyên không có Chúa-tể. / ' +
+    'Tham thiền đầu tiên cần phải phát tâm phá vỡ sanh tử cho vững chắc, thấy rõ thế giới, thân tâm thảy đều là giả duyên không có Chúa-tể. / ' +
     'Nếu chẳng phát minh cái lý vĩ đại sẵn có thì tâm sanh tử chẳng vỡ. / ' +
     'Tâm sanh tử đã chẳng vỡ thì làm sao trừ được con quỷ vô thường giết người trong mỗi niệm chẳng dừng. / ' +
-    'Hãy đem một niệm này làm viên ngói gõ cửa, tương tợ như ngồi trong đống lửa lớn muốn cầu thoát ra, đi bậy một bước chẳng được, dừng lại một bước chẳng được, / ' +
-    'sanh một niệm khác chẳng được, mong người khác cứu chẳng được. / ' +
-    'Ngay lúc ấy chỉ cần chẳng màng đến lửa lớn, chẳng màng đến thân mạng, chẳng mong người cứu, chẳng sanh niệm khác, chẳng chịu tạm dừng, chạy thẳng đến trước, / ' +
-    'chạy được thoát mới là tay tài giỏi. / ' +
+    'Hãy đem một niệm này làm viên ngói gõ cửa, tương tợ như ngồi trong đống lửa lớn muốn cầu thoát ra, đi bậy một bước chẳng được, dừng lại một bước chẳng được, sanh một niệm khác chẳng được, mong người khác cứu chẳng được. / ' +
+    'Ngay lúc ấy chỉ cần chẳng màng đến lửa lớn, chẳng màng đến thân mạng, chẳng mong người cứu, chẳng sanh niệm khác, chẳng chịu tạm dừng, chạy thẳng đến trước, chạy được thoát mới là tay tài giỏi. / ' +
     'Tham-thiền quý ở chỗ khởi nghi-tình. Cái gì là nghi-tình? ' +
     'Như sanh chẳng biết từ đâu đến, chẳng được chẳng nghi chỗ đến. / ' +
     'Tử chẳng biết đi về đâu, chẳng thể chẳng nghi chỗ đi. / ' +
@@ -31,51 +40,34 @@ const ZenPracticeAlerts = {
     'Cổ-đức nói : “Nghi lớn ngộ lớn, nghi nhỏ ngộ nhỏ, chẳng nghi chẳng ngộ”. / ' +
     'Tham-thiền đem chữ Tử dán trên trán, coi cái thân tâm máu thịt này như đã chết, chỉ có một niệm muốn tham cứu hiện tiền. / ' +
     'Một niệm này như thanh Ỷ-thiên trường kiếm, nếu chạm nhằm lưỡi bén thì chẳng thể được, nếu bỏ bê để lụt ắt là kiếm ấy từ lâu không dùng. / ' +
-    'Tham-thiền sợ nhất là say đắm cảnh tịnh; cảnh tịnh khiến người ta kẹt trong không tịch mà chẳng hay chẳng biết. / ' +
-    'Cảnh động người ta chán, cảnh tịnh phần nhiều chẳng sanh chán. / ' +
-    'Do vì người tu hành luôn ở trong chỗ ồn ào, nên một khi được với cảnh tịnh tương ưng như ăn kẹo ăn mật, như người mệt mỏi lâu thích ngủ, đâu thể tự biết ư? ',
+    'Tham-thiền sợ nhất là say đắm cảnh tịnh; cảnh tịnh khiến người ta kẹt trong không tịch mà chẳng hay chẳng biết. Cảnh động người ta chán, cảnh tịnh phần nhiều chẳng sanh chán. / ' +
+    'Do vì người tu hành luôn ở trong chỗ ồn ào, nên một khi được với cảnh tịnh tương ưng như ăn kẹo ăn mật, như người mệt mỏi lâu thích ngủ, đâu thể tự biết ư?',
   paragraph3:
     'Ngoại-đạo khiến thân tâm đoạn-diệt hóa làm đá cứng cũng từ cảnh tịnh mà vào. / ' +
-    'Bởi vì lâu ngày chầy tháng không đó lại không, tịch đó lại tịch, / ' +
-    'rơi vào vô tri cùng với gỗ đá đâu khác. / ' +
-    'Chúng ta hoặc ở nơi cảnh tịnh chỉ muốn phát minh một đoạn Đại-sự dưới sự y áo (kiến Tánh), chẳng biết ở tại tịnh cảnh mới được, / ' +
-    'ở trong Đại-sự cầu tướng tịnh ấy trọn chẳng thể được, đây gọi là được vậy (kiến tánh rồi thì động tịnh đều chẳng sanh). / ' +
-    'Tham-thiền phải ở trong đó mạnh dạn tiến tới, chẳng gần gũi nhân tình. / ' +
-    'Nếu theo tình ứng đối thì công phu hạ thủ chẳng tiến, chẳng những hạ thủ chẳng tiến mà lâu ngày chầy tháng ắt chắc chắn trở thành ông thầy chạy theo dòng thế tục. / ' +
-    'Người tham-thiền ngước lên chẳng thấy trời, cúi xuống chẳng thấy đất, thấy núi chẳng phải là núi, thấy nước chẳng phải là nước, đi chẳng biết đi, / ' +
-    'ngồi chẳng biết ngồi, ở giữa ngàn người muôn người chẳng thấy có một người, khắp thân trong ngoài chỉ là một khối nghi, có thể nói là khuấy đục thế giới, / ' +
-    'khối nghi chẳng vỡ chẳng thể thôi nghỉ. Đây là công phu khẩn yếu. / ' +
-    'Thế nào là khuấy đục thế giới? Cái lý vĩ đại vốn sẵn có từ vô lượng kiếp đến nay chìm chìm lặng lặng chưa từng động đến, / ' +
-    'cần phải chính đương-nhân phấn chấn tinh thần, xoay trời chuyển đất, tự có một đoạn thọ dụng ba đào dậy sóng. / ' +
-    'Tham-thiền chẳng sợ chết chẳng được sống, mà chỉ sống chẳng được chết. Nếu quả cùng với nghi-tình kết lại một chỗ, thì cảnh động chẳng đợi khiển trừ mà tự trừ, / ' +
-    'vọng tâm chẳng đợi tịnh mà tự tịnh, cửa sáu Căn tự nhiên rỗng rang khoát đạt, điểm nhằm liền đến, gọi tới liền ứng, lo gì chẳng sống ư? ' +
-    'Công phu tham-thiền được tiến, như mang gánh nặng ngàn cân buông cũng chẳng xuống, tương tự như tìm vật quan trọng bị đánh mất, / ' +
-    'nếu tìm không ra lòng quyết chẳng chịu thôi. / ' +
+    'Bởi vì lâu ngày chầy tháng không đó lại không, tịch đó lại tịch, rơi vào vô tri cùng với gỗ đá đâu khác. / ' +
+    'Chúng ta hoặc ở nơi cảnh tịnh chỉ muốn phát minh một đoạn Đại-sự dưới sự y áo (kiến Tánh), chẳng biết ở tại tịnh cảnh mới được, ở trong Đại-sự cầu tướng tịnh ấy trọn chẳng thể được, đây gọi là được vậy (kiến tánh rồi thì động tịnh đều chẳng sanh). / ' +
+    'Tham-thiền phải ở trong đó mạnh dạn tiến tới, chẳng gần gũi nhân tình. Nếu theo tình ứng đối thì công phu hạ thủ chẳng tiến, chẳng những hạ thủ chẳng tiến mà lâu ngày chầy tháng ắt chắc chắn trở thành ông thầy chạy theo dòng thế tục. / ' +
+    'Người tham-thiền ngước lên chẳng thấy trời, cúi xuống chẳng thấy đất, thấy núi chẳng phải là núi, thấy nước chẳng phải là nước, đi chẳng biết đi, ngồi chẳng biết ngồi, ở giữa ngàn người muôn người chẳng thấy có một người, khắp thân trong ngoài chỉ là một khối nghi, có thể nói là khuấy đục thế giới, khối nghi chẳng vỡ chẳng thể thôi nghỉ. Đây là công phu khẩn yếu. / ' +
+    'Thế nào là khuấy đục thế giới? Cái lý vĩ đại vốn sẵn có từ vô lượng kiếp đến nay chìm chìm lặng lặng chưa từng động đến, cần phải chính đương-nhân phấn chấn tinh thần, xoay trời chuyển đất, tự có một đoạn thọ dụng ba đào dậy sóng. / ' +
+    'Tham-thiền chẳng sợ chết chẳng được sống, mà chỉ sống chẳng được chết. Nếu quả cùng với nghi-tình kết lại một chỗ, thì cảnh động chẳng đợi khiển trừ mà tự trừ, vọng tâm chẳng đợi tịnh mà tự tịnh, cửa sáu Căn tự nhiên rỗng rang khoát đạt, điểm nhằm liền đến, gọi tới liền ứng, lo gì chẳng sống ư? ' +
+    'Công phu tham-thiền được tiến, như mang gánh nặng ngàn cân buông cũng chẳng xuống, tương tự như tìm vật quan trọng bị đánh mất, nếu tìm không ra lòng quyết chẳng chịu thôi. / ' +
     'Trong ấy chỉ cần chẳng nên sanh chấp, sanh trước, sanh kế. / ' +
     'Chấp thành bệnh, trước thành Ma, kế thành Ngoại-đạo. / ' +
-    'Nếu được nhứt tâm nhứt ý như tìm vật bị đánh mất thì ba thứ lỗi trên không có dính dáng, chỗ gọi là : “Sanh tâm động niệm liền trái Pháp-thể”. ',
+    'Nếu được nhứt tâm nhứt ý như tìm vật bị đánh mất thì ba thứ lỗi trên không có dính dáng, chỗ gọi là: “Sanh tâm động niệm liền trái Pháp-thể”. ',
   paragraph4:
     'Tham-thiền, lúc cử khởi thoại-đầu cần phải rõ ràng sáng suốt như mèo bắt chuột. / ' +
-    'Cổ-nhân nói : “Chẳng chém được đứa mọi, thể chẳng thôi”. Bằng không ngồi trong hang quỷ hôn hôn trầm trầm luống qua một đời có ích gì? ' +
+    'Cổ-nhân nói : “Chẳng chém được đứa mọi, thể chẳng thôi”. Bằng không ngồi trong hang quỷ hôn hôn trầm trầm luống qua một đời có ích gì? / ' +
     'Lúc mèo bắt chuột, nó mở to đôi mắt, bốn chân sẵn sàng chỉ muốn chụp chuột đưa vào miệng, dẫu cho có gà chó bên cạnh nó cũng chẳng thèm ngó tới. / ' +
-    'Người tham-thiền cũng vậy, chỉ tức tối muốn rõ cái lý này, dầu có tám cảnh thay nhau hiện ra trước mắt cũng chẳng màng đến, vừa có niệm khác, / ' +
-    'chẳng những chuột và mèo cũng chạy mất. / ' +
+    'Người tham-thiền cũng vậy, chỉ tức tối muốn rõ cái lý này, dầu có tám cảnh thay nhau hiện ra trước mắt cũng chẳng màng đến, vừa có niệm khác, chẳng những chuột và mèo cũng chạy mất. / ' +
     'Tham-thiền một ngày phải thấy công phu ngày đó, nếu lơ láo qua ngày thì trải qua trăm kiếp ngàn đời cũng chưa có ngày xong. / ' +
-    'Bác Sơn tôi thuở trước cắm một cây hương, thấy cây hương tàn, bèn nói: “Công phu y như trước, không có thêm bớt, một ngày mấy cây hương? / ' +
-    'Một năm bao nhiêu cây hương?” / ' +
-    'Và nói : “Tấc bóng dễ qua, thời giờ chẳng đợi người, việc lớn chưa sáng, ngày nào mới xong?”. / ' +
-    'Do sự thống thiết này, càng thêm cố gắng. / ' +
+    'Bác Sơn tôi thuở trước cắm một cây hương, thấy cây hương tàn, bèn nói: “Công phu y như trước, không có thêm bớt, một ngày mấy cây hương? Một năm bao nhiêu cây hương?”. Và nói: “Tấc bóng dễ qua, thời giờ chẳng đợi người, việc lớn chưa sáng, ngày nào mới xong?”. Do sự thống thiết này, càng thêm cố gắng. / ' +
     '',
   paragraph5:
     'Tham-thiền chẳng nên ở trên Công-án của Cổ-nhân suy nghĩ giải thích, dẫu cho mỗi mỗi đều lãnh hội được đi nữa, cùng với chính mình cũng không dính dáng gì cả. / ' +
     'Trái lại chẳng biết, một lời một câu của Cổ-nhân như đống lửa lớn, đến gần chẳng được, chạm đến chẳng được, huống là ngồi nằm trong ấy ư? Lại ở trong ấy phân đại phân tiểu, luận thượng luận hạ, chẳng tán thân mất mạng hầu như ít có. / ' +
-    'Việc này chẳng cùng Giáo-thừa hợp, cho nên người tu tập Đại-thừa lâu năm còn chẳng hiểu chẳng biết, / ' +
-    'huống các Tiểu-thừa, Thanh-văn, Duyên-giác; Tam-hiền, Thập-thánh há chẳng thông Giáo, / ' +
-    'nghe đến một việc này hàng Tam-hiền vỡ mật, Thập-địa hồn kinh, Bồ-tát Đẳng-giác thuyết Pháp như mây ' +
-    'như mưa độ bất khả tư nghì chúng sanh nhập vô sanh pháp nhẫn còn bị gọi là sở tri ngu cùng với Đạo toàn trái, / ' +
-    'hà huống là những người khác ư? Bởi vì việc này từ địa vị phàm phu chóng đồng Phật-thể. / ' +
-    'Người rất khó tin, người tin là Pháp-khí, / ' +
-    'người chẳng tin thì chẳng phải Pháp-khí. Người tu hành muốn vào Tông-thừa này đều phải từ cửa Tin mà vào. / ' +
+    'Việc này chẳng cùng Giáo-thừa hợp, cho nên người tu tập Đại-thừa lâu năm còn chẳng hiểu chẳng biết, huống các Tiểu-thừa, Thanh-văn, Duyên-giác; Tam-hiền, Thập-thánh há chẳng thông Giáo, nghe đến một việc này hàng Tam-hiền vỡ mật, Thập-địa hồn kinh, Bồ-tát Đẳng-giác thuyết Pháp như mây như mưa độ bất khả tư nghì chúng sanh nhập vô sanh pháp nhẫn còn bị gọi là sở tri ngu cùng với Đạo toàn trái, hà huống là những người khác ư? Bởi vì việc này từ địa vị phàm phu chóng đồng Phật-thể. / ' +
+    'Người rất khó tin, người tin là Pháp-khí, người chẳng tin thì chẳng phải Pháp-khí. / ' +
+'Người tu hành muốn vào Tông-thừa này đều phải từ cửa Tin mà vào. / ' +
     'Một chữ Tin có cạn, có sâu, có tà, có chánh, chẳng thể biện. / ' +
     'Cạn nghĩa là phàm nhập Pháp-môn, ai nói chẳng tin, song chỉ tin Pháp-môn mà chẳng tin Tâm mình. / ' +
     'Sâu thì các Bồ-tát còn chẳng đủ niềm tin, như Hoa Nghiêm Sớ nói : “Thấy có người hay thuyết Pháp, có Chúng nghe Pháp là chưa vào cửa tin”. / ' +
@@ -109,16 +101,13 @@ const ZenPracticeAlerts = {
     'Tuy nhiên gác cũ nhàn điền địa, / ' +
     'Một phen tiến đến được hay chưa. / ' +
     'Nếu chẳng cần tham-cứu mà nói Đắc-lý, đó là Di-lặc Trời sanh, Thích-ca tự nhiên, bọn người này bị gọi là người đáng thương xót. / ' +
-    'Bởi vì tự mình chẳng từng tham-cứu, hoặc lấy Cổ-nhân một hỏi một đáp liền lãnh ngộ bèn đem Thức để hiểu rồi dối gạt người, / ' +
-    'hoặc gặp một phen bệnh nặng kêu khổ suốt ngày, những điều hiểu biết bình thường đều chẳng dùng được, / ' +
-    'hoặc đến lúc mạng chung như con cua bị bỏ vào nồi nước sôi tay chân rối loạn, ăn năn đâu kịp. / ' +
+    'Bởi vì tự mình chẳng từng tham-cứu, hoặc lấy Cổ-nhân một hỏi một đáp liền lãnh ngộ bèn đem Thức để hiểu rồi dối gạt người, hoặc gặp một phen bệnh nặng kêu khổ suốt ngày, những điều hiểu biết bình thường đều chẳng dùng được, hoặc đến lúc mạng chung như con cua bị bỏ vào nồi nước sôi tay chân rối loạn, ăn năn đâu kịp. / ' +
     'Thiền-sư Hoàng Bá nói: / ' +
     'Xuất trần việc ấy vốn phi thường, / ' +
     'Nắm chặt đầu dây giữ lập trường. / ' +
     'Chẳng phải một phen sương thấm lạnh, / ' +
     'Hoa mai chi dễ thưởng mùi hương. / ' +
-    'Lời này rất thân thiết, nếu đem bài Kệ này luôn luôn cảnh-sách thì công phu tự nhiên tấn tới, như đường dài trăm dặm, bước đi một bước thì ngắn đi một bước, / ' +
-    'còn nếu đứng một chỗ chẳng chịu đi thì dẫu nói được sự nghiệp của quê nhà rõ ràng minh bạch cũng chẳng bao giờ đến nhà, thử hỏi sẽ được cái gì? / ' +
+    'Lời này rất thân thiết, nếu đem bài Kệ này luôn luôn cảnh-sách thì công phu tự nhiên tấn tới, như đường dài trăm dặm, bước đi một bước thì ngắn đi một bước, còn nếu đứng một chỗ chẳng chịu đi thì dẫu nói được sự nghiệp của quê nhà rõ ràng minh bạch cũng chẳng bao giờ đến nhà, thử hỏi sẽ được cái gì? / ' +
     '* Tham-thiền khẩn yếu nhất là chữ Thiết. Chữ thiết rất có sức mạnh. / ' +
     'Chẳng thiết ắt lười biếng sanh. Lười biếng sanh thì phóng túng buông lung tâm ý. Nếu dụng tâm chân thiết thì buông lung lười biếng làm sao sanh được. / ' +
     'Phải biết, một chữ thiết này chẳng lo chẳng đến chỗ ruộng đất cổ-nhân, chẳng lo tâm sanh tử chẳng vỡ. / ' +
@@ -126,16 +115,12 @@ const ZenPracticeAlerts = {
     'Một chữ thiết chẳng những lìa lỗi mà ngay đây lập tức vượt cả ba tánh thiện, ác, vô-ký. / ' +
     'Một câu thoại-đầu, dụng công rất thiết thì cũng chẳng nghĩ thiện, dụng tâm rất thiết thì chẳng nghĩ ác, dụng tâm rất thiết thì chẳng rơi vào vô-ký. / ' +
     'Thoại-đầu thiết thì không tán loạn, thoại-đầu thiết thì không hôn trầm, thoại-đầu hiện tiền thì chẳng rơi vào vô-ký. / ' +
-    'Một chữ thiết là câu rất thân thiết, dụng tâm thân thiết ắt không kẻ hở, cho nên Ma chẳng thể nhập vào, dụng công thân thiết chẳng sanh tính toán có, không... / ' +
-    'ắt chẳng rơi vào Ngoại-đạo. Người tham-thiền đi chẳng biết mình đi, ngồi chẳng biết mình ngồi, nghĩa là thoại-đầu hiện tiền, nghi-tình chẳng vỡ, / ' +
-    'chẳng biết có thân tâm, hà huống biết có đi, có ngồi? ',
+    'Một chữ thiết là câu rất thân thiết, dụng tâm thân thiết ắt không kẻ hở, cho nên Ma chẳng thể nhập vào, dụng công thân thiết chẳng sanh tính toán có, không... ắt chẳng rơi vào Ngoại-đạo. Người tham-thiền đi chẳng biết mình đi, ngồi chẳng biết mình ngồi, nghĩa là thoại-đầu hiện tiền, nghi-tình chẳng vỡ, chẳng biết có thân tâm, hà huống biết có đi, có ngồi? ',
   paragraph7:
-    '* Tham-thiền sợ nhất là suy nghĩ làm thơ, làm kệ,làm văn, làm phú… Thơ-kệ thành ắt gọi là Thi-tăng, văn-phú hay ắt gọi là Văn-tự-tăng, / ' +
-    'cùng với tham-thiền không dính dáng gì cả. Hễ gặp cảnh duyên nghịch thuận làm động niệm tâm người, liền phải phát giác ' +
-    'và đề khởi thoại-đầu chẳng theo cảnh duyên chuyển mới được. Hoặc nói : Chẳng cần kíp. Ba chữ này gây lầm lạc cho người, người học cần phải xét kỹ. / ' +
+    '* Tham-thiền sợ nhất là suy nghĩ làm thơ, làm kệ,làm văn, làm phú… Thơ-kệ thành ắt gọi là Thi-tăng, văn-phú hay ắt gọi là Văn-tự-tăng, cùng với tham-thiền không dính dáng gì cả. / ' +
+'Hễ gặp cảnh duyên nghịch thuận làm động niệm tâm người, liền phải phát giác và đề khởi thoại-đầu chẳng theo cảnh duyên chuyển mới được. Hoặc nói : Chẳng cần kíp. Ba chữ này gây lầm lạc cho người, người học cần phải xét kỹ. / ' +
     '* Tham-thiền, người ta sợ rơi vào không. Thoại-đầu hiện tiền đâu phải là không?. Chỉ cái người sợ không này bèn không chẳng được, hà huống là thoại-đầu hiện tiền. / ' +
-    '* Tham-thiền, nghi-tình chẳng vỡ như đi trên vực sâu, tợ bước trên băng mỏng, mảy may đánh mất Chánh-niệm thì tán thân mất mạng, vì nghi-tình chẳng vỡ, / ' +
-    'cái lý vĩ đại chưa sáng, một hơi thở ra chẳng hít vào là qua đời khác, bị Trung-ấm kéo dắt không khỏi đi theo nghiệp-thức thay đầu đổi mặt mà chẳng hay chẳng biết. / ' +
+    '* Tham-thiền, nghi-tình chẳng vỡ như đi trên vực sâu, tợ bước trên băng mỏng, mảy may đánh mất Chánh-niệm thì tán thân mất mạng, vì nghi-tình chẳng vỡ, cái lý vĩ đại chưa sáng, một hơi thở ra chẳng hít vào là qua đời khác, bị Trung-ấm kéo dắt không khỏi đi theo nghiệp-thức thay đầu đổi mặt mà chẳng hay chẳng biết. / ' +
     'Do đó, trên nghi lại càng thêm nghi, đề khởi thoại-đầu, chẳng rõ quyết định phải rõ, chẳng vỡ quyết định phải vỡ, ví như bắt kẻ trộm, cần phải có tang vật mới được. / ' +
     '* Tham-thiền, chẳng được đem tâm chờ ngộ, như người trên đường đứng ở trên đường chờ đợt đến nhà ắt không bao giờ đến nhà mà chỉ cần đi thì đến nhà. / ' +
     'Nếu đem tâm chờ ngộ thì chẳng bao giờ ngộ, mà chỉ cần bức bách khiến cho ngộ. Nếu như đại ngộ như hoa sen chợt nở, như đại mộng chợt tỉnh. / ' +
@@ -170,19 +155,16 @@ const ZenPracticeAlerts = {
     '* Tham-thiền chẳng sợ sai lầm mà chẳng sợ biết mình quấy. Dẫu cho đang đi ở chỗ sai lầm, nếu chịu có một niệm biết quấy, / ' +
     'ấy là nền tảng thành Phật làm Tổ, là con đường trọng yếu ra khỏi sanh tử, là vũ khí lợi hại để phá lưới Ma. / ' +
     'Đại-sư Thích-ca ở trong mỗi pháp của Ngoại-đạo đều có chứng qua, mà chẳng ngồi ở trong hang ổ ấy, đem 4 chữ biết quấy liền bỏ đi từ phàm phu đến địa vị Đại Thánh. / ' +
-    'Ý này chẳng những ở trong Pháp xuất thế mà ở trong pháp thế gian hễ có đánh mất Chánh-niệm, / ' +
-    'chỉ cần phí 4 chữ “biết quấy liền bỏ” thì làm được một con người tốt đẹp trong trắng. / ' +
+    'Ý này chẳng những ở trong Pháp xuất thế mà ở trong pháp thế gian hễ có đánh mất Chánh-niệm, chỉ cần phí 4 chữ “biết quấy liền bỏ” thì làm được một con người tốt đẹp trong trắng. / ' +
     'Nếu ôm chặt lấy chỗ sai lầm cho là đúng, chẳng chịu biết quấy, dẫu cho Phật hiện tiền cứu người ấy cũng chẳng được. / ' +
     '* Tham-thiền chẳng nên tránh huyên náo cầu tịch lặng, nhắm mắt ngồi trong hang quỷ làm kế sống.' +
     'Người xưa gọi là ngồi dưới núi đen tối, ngâm trong nước chết giúp được cái gì. Chỉ cần ở trên cảnh duyên mà tham cho được, mới là  chỗ đắc lực. / ' +
-    'Một câu thoại-đầu ở trên lông mày, trong sự đi ngồi, mặc áo, ăn cơm, tiếp tân đãi khách, chỉ cần rõ cái chỗ rơi của một câu thoại-đầu này, / ' +
-    'một mai lúc rửa mặt rờ nhằm cái lỗ mũi nguyên lai rất gần, bèn được ít phí sức (tỉnh lực). / ' +
+    'Một câu thoại-đầu ở trên lông mày, trong sự đi ngồi, mặc áo, ăn cơm, tiếp tân đãi khách, chỉ cần rõ cái chỗ rơi của một câu thoại-đầu này, một mai lúc rửa mặt rờ nhằm cái lỗ mũi nguyên lai rất gần, bèn được ít phí sức (tỉnh lực). / ' +
     '* Tham-thiền sợ nhất là nhận thức-thần làm Phật-sự, hoặc nhướng mày chớp mắt, xoay đầu ngó lại, cho là có ít nhiều kỳ đặc. / ' +
     'Nếu nhận thức-thần làm việc chánh thì làm tôi tớ cho Ngoại-đạo cũng chẳng được. ',
   paragraph9:
     '* Tham-thiền cần phải chỗ tâm hành diệt, điều thiết yếu chẳng nên đem tâm nghiên-cứu, suy-lý cơ duyên vấn đáp... / ' +
-    'Nên ngài Động Sơn nói : “Tham-cứu diệu-lý thì đánh mất Tông-chỉ của Thiền, làm cho cơ-dụng linh động trở thành ám muội; ' +
-    'hạng người này không đủ tư cách nói chuyện với nhau. / ' +
+    'Nên ngài Động Sơn nói : “Tham-cứu diệu-lý thì đánh mất Tông-chỉ của Thiền, làm cho cơ-dụng linh động trở thành ám muội; hạng người này không đủ tư cách nói chuyện với nhau. / ' +
     'Nếu được triệt ngộ thì mọi tam-muội từ trong Tự-tâm lưu xuất, suy nghĩ tạo tác ắt cách xa, khác nào như Trời với đất”. / ' +
     '* Tham-thiền chẳng sợ tham chẳng được, tham chẳng được cần phải tham cho kỳ được mới là công phu. / ' +
     'Cổ-đức nói : “Không cửa là cửa giải thoát, không ý là ý Đạo-nhân, quý ở chỗ thể hội được chỗ vào. Nếu tham chẳng được bèn đánh trống rút lui thì dẫu trăm kiếp ngàn đời cũng không làm sao tham được”. / ' +
