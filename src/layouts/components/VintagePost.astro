@@ -65,11 +65,11 @@ const {
 
     <div class="chapter__contents">
       <div class="two-column">
-            <p>{
+            {
             intro?.split(' / ').length
              ? intro?.split(' / ')?.map(line => <p>{line}</p>)
           : intro
-}</p>
+}
 
 {
            image ? <span class="storyImage" style={`background-image: url(${image})`}></span> : ''
