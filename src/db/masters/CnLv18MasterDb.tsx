@@ -13,7 +13,7 @@ const CnLv18MasterDb = [
     name_ar: 'Mian Xianjieg',
     birth_death_time: ['1118', '1186'],
     records: '',
-    sect: '-',
+    sect: ['-'],
     country: 'China',
     place: '-',
     teachers: ['Yingan Tanhua'],

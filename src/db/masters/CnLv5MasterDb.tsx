@@ -89,7 +89,7 @@ const CnLv5MasterDb = [
     name_ar: 'Yangshan Huiji',
     birth_death_time: ['807', '883'],
     records: '',
-    sect: ['-'],
+    sect: ['Guishan'],
     country: 'China',
     place: '-',
     teachers: ['Guishan Lingyou'],

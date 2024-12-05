@@ -36,7 +36,7 @@ const InMasterDb = [
     name_ko: '아난다',
     name_ar: 'Ananda',
     birth_death_time: ['', ''],
-    sect: 'Linji',
+    sect: ['Linji'],
     country: 'India',
     place: '-',
     teachers: ['Mahakasyapa'],

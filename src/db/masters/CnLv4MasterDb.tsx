@@ -85,7 +85,7 @@ const CnLv4MasterDb = [
     name_ar: 'Guishan Lingyou',
     birth_death_time: ['771', '853'],
     records: '',
-    sect: ['-'],
+    sect: ['Guishan'],
     country: 'China',
     place: 'Quy Sơn - Đàm Châu',
     teachers: ['Tianhuang Daowu'],

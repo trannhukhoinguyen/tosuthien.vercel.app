@@ -10,16 +10,21 @@ const { sect, mastersDb } = Astro.props;
 <div class="periodic-table">
   <!--<div class="empty-spacer-1"></div>
   <div class="empty-spacer-2"></div>-->
-  <div class="periodic-element social-media" data-description="I'm only on here to reject invitations 😂">
-    <div class="periodic-element-inner">
-      <div class="title">Li</div>
-      <div class="description">LinkedIn</div>
-    </div>
-  </div>
+  {
+    mastersDb?.map(master => <div class="periodic-element social-media" data-description={`${master.name_en} [${master.name_vi}]`}>
+      <div class="periodic-element-inner">
+        <div class="title">
+          {master?.name_en?.split(' ')[0].charAt(0) + master?.name_en?.split(' ')[1].charAt(0)}
+        </div>
+        <div class="description">{master.id}</div>
+      </div>
+    </div>)
+  }
+
   <div class="periodic-element social-media" data-description="Only so I don't miss out on my friends' milestones 🤷">
     <div class="periodic-element-inner">
-      <div class="title">Fb</div>
-      <div class="description">Facebook</div>
+      <div class="title">{mastersDb[1].name_en.charAt(0)}</div>
+      <div class="description">{mastersDb[1].id}</div>
     </div>
   </div>
   <div class="periodic-element just-trying" data-description="Looking at amazing Dribbble 🏀 shots and internally die from the amount of talent/skill out there">

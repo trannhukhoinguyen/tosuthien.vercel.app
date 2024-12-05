@@ -59,7 +59,7 @@ const JpMasterDb = [
     name_ar: 'Duệ Sơn Giác A',
     birth_death_time: ['', ''],
     records: '',
-    sect: '-',
+    sect: ['-'],
     country: 'Japan',
     place: '-',
     teachers: ['Shi Huiyuan'],

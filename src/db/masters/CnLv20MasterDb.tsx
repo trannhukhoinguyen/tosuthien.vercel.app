@@ -13,7 +13,7 @@ const CnLv20MasterDb = [
     name_ar: 'Wuzhun Shifan',
     birth_death_time: ['1177', '1249'],
     records: '',
-    sect: '-',
+    sect: ['-'],
     country: 'China',
     place: '-',
     teachers: ['Poan Zuxian'],
