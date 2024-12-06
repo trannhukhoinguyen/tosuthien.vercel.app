@@ -1,40 +1,40 @@
 const IronFlute = [
   {
-      id: 1,
-      bookTitle: 'Iron Flute',
-      author: 'Genro - Nyogen Senzaki',
-      translator: '',
-      title: 'TẮC THỨ 1: VĂN THÙ VÀO CỬA',
-      image: '/images/iron-flute/iron-flute-cover.jpg',
-      main:
-        ' Một hôm Bồ-tát Văn Thù đứng ngoài cửa thì đức Phật gọi: "Văn Thù, Văn Thù, sao không vào đi?" / ' +
-        ' Văn Thù đáp: "Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào?"',
-      commentBeforeVerse:
-        '',
-      commentAfterVerse:
-        'Như Huyễn: Những câu chuyện Thiền là những vấn đề của cuộc sống, chủ đề của thiền định. Không nhất thiết phải là đối thoại giữa Phật và Văn Thù.  / ' +
-        'Giả sử có ai trong quí vị lưỡng lự không bước vào Thiền đường này, tôi nói: “Sao không vào đi?”  / ' +
-        'Nếu là người tỉnh giác trong lúc đó, sẽ nói: “Tôi chẳng thấy cái gì ở ngoài cửa. Tại sao tôi phải vào?”  / ' +
-        'Y chẳng thấy vật gì tách rời Thiền đường; trong và ngoài là những chữ để so sánh. / ' +
-        'Nhất thiết y chẳng nghe gì, chẳng thấy gì, chẳng sờ gì, chẳng ngửi gì, chẳng nếm gì, và chẳng nghĩ gì mà chỉ từ tốn đến chỗ của mình ngồi xuống. / ' +
-        'Thế thì tôi còn có thể làm gì khác hơn là ca ngợi một người hoàn toàn tự do tự tại như vậy? / ' +
-        'Con người vẫn còn trẻ và ngu dại. Thay vì học tính hợp nhất từ các tôn giáo, y học lấy tính nhị nguyên. / ' +
-        'Với ảo tưởng của mình, nếu có dịp, y liền dựng lên cái cửa, rồi thấy có vật ở bên ngoài cửa.  / ' +
-        'Y nghe, ngửi, nếm, sờ và nghĩ theo lập trường vị kỷ. Y nói về bốn biển đều là anh em, nhưng chẳng hiểu nguyên lý của nó.  / ' +
-        'Thế giới cần Văn Thù mà không cần chúa cứu thế, không cần đấng tiên tri. Văn Thù là ai? / ' +
-        'Văn Thù biểu tượng cho trí tuệ Phật. Văn Thù cưỡi sư tử, diệt tất cả mê hoặc, với thanh kiếm bén chém đứt tất cả ràng buộc, vướng mắc ngăn chặn sự giải thoát. / ' +
-        'Một số Phật tử nghĩ rằng Văn Thù là đệ tử của Phật Thích Ca Mâu Ni; một số khác nói về kiếp trước và kiếp này của Văn Thù được phép lạ mật khải. / ' +
-        'Hãy để họ nằm mộng thế nào tùy thích. Người học Thiền phải gặp Vằn Thù trong chính mình. / ' +
-        'Trong kinh Hoa Nghiêm đề cập đến bốn thế giới: thế giới của sự, thế giới của lý, thế giới hài hòa của sự và lý, và thế giới hài hòa của sự và sự. / ' +
-        'Văn Thù trong câu chuyện của chúng ta sống ở bên kia thế giới của sự, trong thế giới của lý nhưng chưa biết làm cho hai thế giới ấy hài hòa. / ' +
-        'Phổ Hiền biểu tượng cho từ ái của Phật. Phổ Hiền cưỡi voi, kiên nhẫn xuyên qua các khu rừng già, yêu thương và kính trọng tất cả chúng sinh. / ' +
-        'Phổ Hiền không tuyên bố lý do như Văn Thù mà chỉ lặng lẽ đi qua cửa.  / ' +
-        'Trái tim của Phổ Hiền là trái tim của Phật, ứng đáp tiếng gọi Phật như một tiếng vang. / ' +
-        'Thế giới thứ tư của kinh Hoa Nghiêm đôi khi được nói đến như là “Thiên Quốc” / ' +
-        'Muốn vào cảnh giới này, người ta phải học sống trong thế giới hài hòa của lý và sự. / ' +
-        'Gặp Văn Thù mặt đối mặt trong thời đại của chúng ta rất là quan thiết. / ' +
-        'Văn Thù nói, “Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào?”  / ' +
-        'Bây giờ, cái cửa ấy ở đâu? Quí vị đang trong cửa hay ngoài cửa đây?',
+    id: 1,
+    bookTitle: 'Iron Flute',
+    author: '玄楼奥龍 (Genrō Ōryū), 風外本高 (Fūgai Honkō), 千崎如幻 (Senzaki Nyogen)',
+    translator: '',
+    title: 'TẮC THỨ 1: VĂN THÙ VÀO CỬA',
+    image: '/images/iron-flute/iron-flute-cover.jpg',
+    main:
+      ' Một hôm Bồ-tát Văn Thù đứng ngoài cửa thì đức Phật gọi: "Văn Thù, Văn Thù, sao không vào đi?" / ' +
+      ' Văn Thù đáp: "Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào?"',
+    commentBeforeVerse:
+      '',
+    commentAfterVerse:
+      'Như Huyễn: Những câu chuyện Thiền là những vấn đề của cuộc sống, chủ đề của thiền định. Không nhất thiết phải là đối thoại giữa Phật và Văn Thù.  / ' +
+      'Giả sử có ai trong quí vị lưỡng lự không bước vào Thiền đường này, tôi nói: “Sao không vào đi?”  / ' +
+      'Nếu là người tỉnh giác trong lúc đó, sẽ nói: “Tôi chẳng thấy cái gì ở ngoài cửa. Tại sao tôi phải vào?”  / ' +
+      'Y chẳng thấy vật gì tách rời Thiền đường; trong và ngoài là những chữ để so sánh. / ' +
+      'Nhất thiết y chẳng nghe gì, chẳng thấy gì, chẳng sờ gì, chẳng ngửi gì, chẳng nếm gì, và chẳng nghĩ gì mà chỉ từ tốn đến chỗ của mình ngồi xuống. / ' +
+      'Thế thì tôi còn có thể làm gì khác hơn là ca ngợi một người hoàn toàn tự do tự tại như vậy? / ' +
+      'Con người vẫn còn trẻ và ngu dại. Thay vì học tính hợp nhất từ các tôn giáo, y học lấy tính nhị nguyên. / ' +
+      'Với ảo tưởng của mình, nếu có dịp, y liền dựng lên cái cửa, rồi thấy có vật ở bên ngoài cửa.  / ' +
+      'Y nghe, ngửi, nếm, sờ và nghĩ theo lập trường vị kỷ. Y nói về bốn biển đều là anh em, nhưng chẳng hiểu nguyên lý của nó.  / ' +
+      'Thế giới cần Văn Thù mà không cần chúa cứu thế, không cần đấng tiên tri. Văn Thù là ai? / ' +
+      'Văn Thù biểu tượng cho trí tuệ Phật. Văn Thù cưỡi sư tử, diệt tất cả mê hoặc, với thanh kiếm bén chém đứt tất cả ràng buộc, vướng mắc ngăn chặn sự giải thoát. / ' +
+      'Một số Phật tử nghĩ rằng Văn Thù là đệ tử của Phật Thích Ca Mâu Ni; một số khác nói về kiếp trước và kiếp này của Văn Thù được phép lạ mật khải. / ' +
+      'Hãy để họ nằm mộng thế nào tùy thích. Người học Thiền phải gặp Vằn Thù trong chính mình. / ' +
+      'Trong kinh Hoa Nghiêm đề cập đến bốn thế giới: thế giới của sự, thế giới của lý, thế giới hài hòa của sự và lý, và thế giới hài hòa của sự và sự. / ' +
+      'Văn Thù trong câu chuyện của chúng ta sống ở bên kia thế giới của sự, trong thế giới của lý nhưng chưa biết làm cho hai thế giới ấy hài hòa. / ' +
+      'Phổ Hiền biểu tượng cho từ ái của Phật. Phổ Hiền cưỡi voi, kiên nhẫn xuyên qua các khu rừng già, yêu thương và kính trọng tất cả chúng sinh. / ' +
+      'Phổ Hiền không tuyên bố lý do như Văn Thù mà chỉ lặng lẽ đi qua cửa.  / ' +
+      'Trái tim của Phổ Hiền là trái tim của Phật, ứng đáp tiếng gọi Phật như một tiếng vang. / ' +
+      'Thế giới thứ tư của kinh Hoa Nghiêm đôi khi được nói đến như là “Thiên Quốc” / ' +
+      'Muốn vào cảnh giới này, người ta phải học sống trong thế giới hài hòa của lý và sự. / ' +
+      'Gặp Văn Thù mặt đối mặt trong thời đại của chúng ta rất là quan thiết. / ' +
+      'Văn Thù nói, “Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào?”  / ' +
+      'Bây giờ, cái cửa ấy ở đâu? Quí vị đang trong cửa hay ngoài cửa đây?',
   },
   {
     id: 2,

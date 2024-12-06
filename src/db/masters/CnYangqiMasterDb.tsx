@@ -1,5 +1,30 @@
 const CnYangqiMasterDb = [
-  {}
+  {
+    id: '45.12.1',
+    hasContent: true,
+    eminent: true,
+    name_en: 'Yangqi Fanghui',
+    name_es: 'Yangqi Fanghui',
+    name_de: 'Yangqi Fanghui',
+    name_fr: 'Yangqi Fanghui',
+    name_vi: 'Dương Kỳ Phương Hội',
+    name_ru: 'Yangqi Fanghui',
+    name_zh: '楊岐方會',
+    name_ja: 'Yōgi Hōe',
+    name_ko: 'Yangqi Fanghui',
+    name_ar: 'Yangqi Fanghui',
+    birth_death_time: ['992', '1049'],
+    records: '',
+    sect: ['Linji - Yangqi'],
+    country: 'China',
+    place: '-',
+    teachers: ['Shishuang Chuyuan'],
+    successors: ['Baiyun Shouduan'],
+    disciples: ['Baiyun Shouduan', 'Baoning Renyong'],
+    image: '/images/avatar.png',
+    reference: ['https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_K%C3%AC_Ph%C6%B0%C6%A1ng_H%E1%BB%99i',],
+    youtubeId: [''],
+  },
 
 ]
 export default CnYangqiMasterDb;

@@ -860,108 +860,166 @@ const CongRongLu = [
       'Đứng kiểm nghiệm sinh tử  / ' +
       'Hãy nói: Đó là tam muội gì?',
     main:
-      ' Ma cốc cầm tích Trượng đến Chương Kính nhiểu quanh thiền sành 3 vòng rồi động tích trượng xuống đứng lặng nói: / ' +
-      '  Đúng thế, đúng thế có đến Nam Tuyền, nhiễu quanh thiền sàng 3 vòng dộng tích trượng 1 cái đứng lặng' +
-      '  Nam Tuyền nói: Không phải, không phải' +
-      '  Cốc nói: Chương kính nói đúng, Hòa Thượng vì sao nói không đúng?' +
-      '  Nam Tuyền nói: Chương Kính thì đúng, còn ông không đúng, đây chính là bị sức gió chuyển rút cuộc thành bại hoại',
+      'Ma cốc cầm tích Trượng đến Chương Kính nhiễu quanh thiền sành 3 vòng rồi động tích trượng xuống đứng lặng nói: / ' +
+      'Đúng thế, đúng thế có đến Nam Tuyền, nhiễu quanh thiền sàng 3 vòng dộng tích trượng 1 cái đứng lặng / ' +
+      'Nam Tuyền nói: "Không phải, không phải" / ' +
+      'Cốc nói: "Chương kính nói đúng, Hòa Thượng vì sao nói không đúng?" / ' +
+      'Nam Tuyền nói: "Chương Kính thì đúng, còn ông không đúng, đây chính là bị sức gió chuyển rút cuộc thành bại hoại"',
     commentBeforeVerse:
-      'Sư nói: Ngày xưa Ngưỡng Sơn đến tạ giới Trung Ấp, Ấp ở trên giường vỗ tay nói: A da, a da Ngưỡng từ Tây sang Đông, từ Đông sang Tây: Lại trở về đứng ở giữa. ' +
-      '  Sau đó tạ giới, Ap nói: Tam Muội này ở đâu?' +
-      '  Ngưỡng Sơn nói: Ở Tào con được Khê ấn khả' +
-      '  Ấp hỏi: Ông nói Tam Muội Tào Khê tiếp nhận người nào?' +
-      '  Ngưỡng đáp: Tiếp nhận thức 1 đêm' +
-      '  Ngưỡng lại nói: Hòa Thượng được Tam Muội này ở đâu?' +
-      '  Ap nói: Được Tam Muội nơi Mã Đạo Sư' +
-      '  Thiền sư Bồ Châu Ma Cốc Bảo Triệt giống như Vĩnh Gia ban đầu gặp Lục Tổ, cầm tích trượng đến. ' +
-      '  Chương Kính, nhiễu quanh thiền sàng 3 vòng rồi dộng xuống 1 cái đứng lặng cũng như học ấn khả ở Tào Khê đến. ' +
-      '  Đây gọi là Tam Muội Vương Tam Muội tất cả Tam Muội đều sinh ra từ đây.' +
-      '  Chương Kính nói: Đúng thế, đúng thế Vạn Tùng nói: Có gì không đúng?' +
-      '  Hòa Thượng Thắng Mặt Quang nói: ' +
-      '  Là đúng hay là sai, phi không chơn không thị phi vô chủ. ' +
-      '  Vạn Thiện Đồng quay, chim gà đêm ngày chỉ có tự chia lìa. Ta có 3 tấc ba ba gọi là rùa, Ca-diếp không chịu, để cho cạo lông mày.' +
-      '  Vạn Tùng nói: Buồn chiều mau già, Ma Cốc phải khám phá đồng với mọi người. / ' +
-      '  Ma Cốc từng đến chổ Sư Trung Quốc, nhiễu quanh thiền sàng 3 vòng chấn tích trượng đứng. / ' +
-      '  Quốc Sư nói: Đã hay như thế, đâu cần gặp bần đạo? / ' +
-      '  Cốc lại chấn Tích trượng, Quốc Sư nói: Dã hồ tinh này đi ra. / ' +
-      '  Xem khách chủ gặp nhau, có chiếu có đụng, có đầu có đuôi, bởi nơi thuần thục, khó bỏ được thói quen đó. / ' +
-      '  Lại đến nhiễu quanh giường Nam Tuyền chấn tích y như trước. / ' +
-      '  Nam Tuyền lại nói: Không phải, không phải, giống như từng lãnh hội cái kế này Chương Kính. / ' +
-      '  Đại Quy Triết nói: Chương Kính nói đúng, là rơi vào vỏ Ma Cốc. / ' +
-      '  Nam Tuyền nói không đúng cũng rơi vào Ma Cốc, Đại Quy thì không như vậy. / ' +
-      '  Bỗng có người chấn tích trượng nhiễu quanh thiềng sàng 3 vòng, rồi đứng lặng, chỉ nhìn y nói: Chưa đến nơi này, thì tốt cho ăn gậy. / ' +
-      '  Vạn Tùng nói: không thể nói làm việc của người, liền đánh. Cốc nói: Chương Kính nói đúng, sao Hòa Thượng nói không đúng? / ' +
+      '* Sư nói: Ngày xưa Ngưỡng Sơn đến tạ giới Trung Ấp. / ' +
+      'Ấp ở trên giường vỗ tay nói: A da, a da. / ' +
+      'Ngưỡng Sơn từ Tây sang Đông, từ Đông sang Tây, lại trở về đứng ở giữa. / ' +
+      'Sau đó tạ giới, Ấp nói: Tam Muội này ở đâu? / ' +
+      'Ngưỡng Sơn nói: Ở Tào con được Khê ấn khả / ' +
+      'Ấp hỏi: Ông nói Tam Muội Tào Khê tiếp nhận người nào? / ' +
+      'Ngưỡng đáp: Tiếp nhận thức 1 đêm' +
+      'Ngưỡng lại nói: Hòa Thượng được Tam Muội này ở đâu? / ' +
+      'Ấp nói: Được Tam Muội nơi Mã Đạo Sư / ' +
+      'Thiền sư Bồ Châu Ma Cốc Bảo Triệt giống như Vĩnh Gia ban đầu gặp Lục Tổ, cầm tích trượng đến. / ' +
+      'Chương Kính, nhiễu quanh thiền sàng 3 vòng rồi dộng xuống 1 cái đứng lặng cũng như học ấn khả ở Tào Khê đến. / ' +
+      'Đây gọi là Tam Muội Vương Tam Muội tất cả Tam Muội đều sinh ra từ đây. / ' +
+      'Chương Kính nói: Đúng thế, đúng thế Vạn Tùng nói: Có gì không đúng?' +
+      'Hòa Thượng Thắng Mặt Quang nói: Là đúng hay là sai, phi không chơn không thị phi vô chủ. ' +
+      ' Vạn Thiện Đồng quay, chim gà đêm ngày chỉ có tự chia lìa. Ta có 3 tấc ba ba gọi là rùa, Ca-diếp không chịu, để cho cạo lông mày.' +
+      '* Vạn Tùng nói: Buồn chiều mau già, Ma Cốc phải khám phá đồng với mọi người. / ' +
+      ' Ma Cốc từng đến chổ Sư Trung Quốc, nhiễu quanh thiền sàng 3 vòng chấn tích trượng đứng. / ' +
+      '* Quốc Sư nói: Đã hay như thế, đâu cần gặp bần đạo? / ' +
+      'Cốc lại chấn Tích trượng.' +
+      '* Quốc Sư nói: Dã hồ tinh này đi ra. / ' +
+      'Xem khách chủ gặp nhau, có chiếu có đụng, có đầu có đuôi, bởi nơi thuần thục, khó bỏ được thói quen đó. / ' +
+      'Lại đến nhiễu quanh giường Nam Tuyền chấn tích y như trước. / ' +
+      '* Nam Tuyền lại nói: Không phải, không phải, giống như từng lãnh hội cái kế này Chương Kính. / ' +
+      '* Đại Quy Triết nói: Chương Kính nói đúng, là rơi vào vỏ Ma Cốc. / ' +
+      '* Nam Tuyền nói không đúng cũng rơi vào Ma Cốc, Đại Quy thì không như vậy. / ' +
+      '* Bỗng có người chấn tích trượng nhiễu quanh thiềng sàng 3 vòng, rồi đứng lặng, chỉ nhìn y nói: Chưa đến nơi này, thì tốt cho ăn gậy. / ' +
+      '* Vạn Tùng nói: không thể nói làm việc của người, liền đánh. ' +
+      '* Cốc nói: Chương Kính nói đúng, sao Hòa Thượng nói không đúng? / ' +
       '  Không ngại vào nghi trước. / ' +
-      '  Tuyền nói: Chương Kính thì đúng, còn ông không đúng, gặp cơ phong thì làm, gặp nguy mới biết người. / ' +
-      '  Quốc Sư Viên Thông Thiện nói: Ma Cốc thì đúng, Nam Tuyền thì sai, lời nói đúng như Đặng Phong Vĩnh Am Chư hỏi Tăng Thẩm Kỳ: / ' +
+      '* Tuyền nói: Chương Kính thì đúng, còn ông không đúng, gặp cơ phong thì làm, gặp nguy mới biết người. / ' +
+      '* Quốc Sư Viên Thông Thiện nói: Ma Cốc thì đúng, Nam Tuyền thì sai, lời nói đúng như Đặng Phong Vĩnh Am Chư hỏi Tăng Thẩm Kỳ: / ' +
       '  Lâu rồi không gặp ông, ông làm gì? / ' +
-      '  Kỳ nói: Gần đây gặp Vĩ Tạng chủ, được Sự an lạc. / ' +
-      '  Vĩnh nói: Thử nêu ra cho ta xem, Vĩ nhân đây thuật lại sở đắc của mình. / ' +
+      '* Kỳ nói: Gần đây gặp Vĩ Tạng chủ, được Sự an lạc. / ' +
+      '* Vĩnh nói: Thử nêu ra cho ta xem, Vĩ nhân đây thuật lại sở đắc của mình. / ' +
       '  Vĩnh nói: Ngược không phải Vĩnh thì không đúng, Tăng ngơ ngác, trở về lời nói đối với Vĩ. / ' +
-      '  Vĩ cười to nói: Ông chẳng phải Vĩnh là đúng. / ' +
-      '  Ỷ chạy đến chất vấn Thiền sư Tích Thúy Nam, Nam cũng cười to, Vĩnh nghe vậy liền làm bài kệ: / ' +
-      '  Sáng tối vùng tam cơ sống chết, / ' +
-      '  cảnh giới người phổ Hiền biết được, / ' +
-      '  cùng sinh không cùng tử, / ' +
-      '  cười ngã cái dùi xưa của lão Am Trung / ' +
-      '  Giác phạm nói: Xé lời nói của ông, có thể thấy được pháp hỷ du hý lúc ấy. / ' +
-      '  Vạn Tùng nói: Ma Cốc, Chương Kính, Nam Tuyền cũng hưng cũng không suy. / ' +
-      '  Nếu nghe đây là bị sức gió chuyển rút cuộc thành bại hoại, cùng cười Vương Lão Sư này, không chỉ xác định được càn khôn, có cả con đường thoát thân. ' +
-      '  Hòa Thượng bảo Ninh Dĩnh tụng rằng: / ' +
-      '  Nhan sắc tầm cở như là chơn, / ' +
-      '  trước người bắt làm vượt qua ánh sáng, / ' +
-      '  đến vào hầm lửa lại nấu chảy, / ' +
-      '  đến giờ phút cuối cùng trở về giả bạc / ' +
-      '  Ma cốc đến đây, bình rời nước đổ, muốn nước sông phát lửa cây sắt nở hoa, phải được Thiên Đồng nêu ra một chuyển ngữ, tụng rằng: / ' +
+      '* Vĩ cười to nói: Ông chẳng phải Vĩnh là đúng. / ' +
+      'Ỷ chạy đến chất vấn Thiền sư Tích Thúy Nam, Nam cũng cười to. ' +
+      '* Vĩnh nghe vậy liền làm bài kệ: / ' +
+      'Sáng tối vùng tam cơ sống chết, / ' +
+      'Cảnh giới người phổ Hiền biết được, / ' +
+      'Cùng sinh không cùng tử, / ' +
+      'Cười ngã cái dùi xưa của lão Am Trung / ' +
+      '* Giác phạm nói: Xé lời nói của ông, có thể thấy được pháp hỷ du hý lúc ấy. / ' +
+      '*  Vạn Tùng nói: Ma Cốc, Chương Kính, Nam Tuyền cũng hưng cũng không suy. / ' +
+      '*  Nếu nghe đây là bị sức gió chuyển rút cuộc thành bại hoại, cùng cười Vương Lão Sư này, không chỉ xác định được càn khôn, có cả con đường thoát thân. ' +
+      '*  Hòa Thượng bảo Ninh Dĩnh tụng rằng: / ' +
+      'Nhan sắc tầm cở như là chơn, / ' +
+      'Trước người bắt làm vượt qua ánh sáng, / ' +
+      'Đến vào hầm lửa lại nấu chảy, / ' +
+      'Đến giờ phút cuối cùng trở về giả bạc / ' +
+      '* Ma cốc đến đây, bình rời nước đổ, muốn nước sông phát lửa cây sắt nở hoa, phải được Thiên Đồng nêu ra một chuyển ngữ, tụng rằng: / ' +
       'Đúng và không đúng, / ' +
-      'thích xem cái bát, / ' +
-      'như trầm như bỗng, / ' +
-      'không anh có em, / ' +
-      'buông cũng đã phạm thời, / ' +
-      'đoạt cũng ta đây có kỳ đặc, / ' +
-      'gậy vàng vừa dộng chấn / ' +
-      'động Ngọc Thái Cô, / ' +
-      'dạo quanh 3 vòng giường dây, / ' +
-      'tùng làm nổi loạn thị phi sinh, / ' +
-      'tưởng tượng đầu lâu / ' +
-      'thì trước hết thấy ma',
+      'Thích xem cái bát, / ' +
+      'Như trầm như bỗng, / ' +
+      'Không anh có em, / ' +
+      'Buông cũng đã phạm thời, / ' +
+      'Đoạt cũng ta đây có kỳ đặc, / ' +
+      'Gậy vàng vừa dộng chấn / ' +
+      'Động Ngọc Thái Cô, / ' +
+      'Đạo quanh 3 vòng giường dây, / ' +
+      'Tùng làm nổi loạn thị phi sinh, / ' +
+      'Tưởng tượng đầu lâu / ' +
+      'Thì trước hết thấy ma',
     verseOriginal: '',
     verse:
-      ' ',
+      '',
     verseExtraOriginal: '',
     verseExtra: '',
     commentAfterVerse:
-      'Sư nói: Công án này, đều là ở nơi đó đúng và không đúng, bấy giờ hết thảy mọi người nói: Ma Cốc bị Chương Kính, Nam Tuyền, mê hoặc. ' +
-      '  Chỉ có Đại Quy Triệt nói: Chương Kính nói đúng, là rơi vào vỏ của Ma Cốc, như chổ kim cương bảo đối với ánh sáng mặt trời màu sắc không nhất định.' +
-      '  Thiên Đồng nói: Thích xem cái chán, vã lại Ma Cốc rơi vào trong chén, Nam Tuyền rơi vào trong chén, như trầm như bổng, khó anh khó em' +
-      '  Thiên Đồng nói: Vừa thấy đến, như trầm như bổng, kiểm điểm xem. Khó anh khó em. ' +
-      '  Đông Hán Trần Nguyên Phương Tử Trường Văn tức là Đồng Qúy Phương Tử Hiếu Quang, đều bàn về công đức của cha mình, tranh cải không dứt, hỏi với Thái Khưu. ' +
-      '  Thái Khưu chính là Trần Thực là cha của Nguyên Phương Qúy Phương Thái Khưu nói: Nguyên Phương khó làm anh, Quý Phương khó làm em. ' +
-      '  Đây nói là nửa cân mắt trái của Chương Kính, lượng mắt phải của Nam Tuyền gậy vàng chưa dộng chấn động ngọn núi Cô?' +
-      '  Kinh Vĩnh Gia chứng đạo nói: Không phải nêu trị việc hư huyển tung tích gậy báu Như Lai:' +
-      '  Tuyết Đậu nói: Cổ sách phong cao có 12 cử, mỗi một cửa có con đường trống tẻ.' +
-      '  Kinh Tích Trượng nói: 12 Vòng là dùng niệm 12 nhân duyên, tu hành 12 môn Thiền, 12 nhân duyên dể biết.' +
-      '  12 môn là: Tứ Thiền, tứ vô lượng, tứ vô sắc' +
-      '  định, cổ sách phong cao tức là ngọn Thái Cô.' +
-      '  Lục Tổ cũng nói: Phàm Sa môn phải đầy đủ 3 ngàn oai nghi, vạn tế hạnh, đại đức ở phương nào mà lại sinh đại ngã mạn?' +
-      '  Y của Thiền Đồng nói: Không thể nêu hình thể, chẳng phải ngã mạn, giường dây dạo chơi 3 vòng. Chương Kính nói đúng, Nam Tuyền nói không đúng, tùng lâm nổi loạn, đi trong thị phi. Nếu không dùng con mắt định càn khôn, đâu là trước đầu lâu thấy ma, không thấy. Tăng hỏi Cửu Phong: Thế nào là dùng con mắt định được càn khôn?' +
-      '  Phong nói: Chấp nhận ở trong trời đất?' +
-      '  Tăng hỏi: Con mắt càn khôn ở đâu?' +
-      '  Phong nói: Chính là con mắt càn khôn' +
-      '  Tăng hỏi: Vừa mới đến vì sao nói chấp nhận ở trong càn khôn?' +
-      '  Phong nói: Nếu không như thế, trước đầu lâu thấy ma vô số. Vạn Tùng ở đây có sự cầm chóng gậy 1 cái nói mau mau như luật lệnh.',
+      'Sư nói: Công án này, đều là ở nơi đó đúng và không đúng, bấy giờ hết thảy mọi người nói: Ma Cốc bị Chương Kính, Nam Tuyền, mê hoặc. / ' +
+      'Chỉ có Đại Quy Triệt nói: Chương Kính nói đúng, là rơi vào vỏ của Ma Cốc, như chổ kim cương bảo đối với ánh sáng mặt trời màu sắc không nhất định. / ' +
+      'Thiên Đồng nói: Thích xem cái chán, vả lại Ma Cốc rơi vào trong chén, Nam Tuyền rơi vào trong chén, như trầm như bổng, khó anh khó em / ' +
+      'Thiên Đồng nói: Vừa thấy đến, như trầm như bổng, kiểm điểm xem. Khó anh khó em. / ' +
+      'Đông Hán Trần Nguyên Phương Tử Trường Văn tức là Đồng Quý Phương Tử Hiếu Quang, đều bàn về công đức của cha mình, tranh cải không dứt, hỏi với Thái Khưu. / ' +
+      'Thái Khưu chính là Trần Thực là cha của Nguyên Phương Quý Phương. / ' +
+      'Thái Khưu nói: Nguyên Phương khó làm anh, Quý Phương khó làm em. / ' +
+      'Đây nói là nửa cân mắt trái của Chương Kính, lượng mắt phải của Nam Tuyền gậy vàng chưa dộng chấn động ngọn núi Cô? / ' +
+      'Kinh Vĩnh Gia chứng đạo nói: Không phải nêu trị việc hư huyển tung tích gậy báu Như Lai / ' +
+      'Tuyết Đậu nói: Cổ sách phong cao có 12 cử, mỗi một cửa có con đường trống tẻ. / ' +
+      'Kinh Tích Trượng nói: 12 Vòng là dùng niệm 12 nhân duyên, tu hành 12 môn Thiền, 12 nhân duyên dể biết. / ' +
+      '12 môn Thiền là: Tứ Thiền, tứ vô lượng, tứ vô sắc định, cổ sách phong cao tức là ngọn Thái Cô. / ' +
+      'Lục Tổ cũng nói: Phàm Sa môn phải đầy đủ 3 ngàn oai nghi, vạn tế hạnh, đại đức ở phương nào mà lại sinh đại ngã mạn? / ' +
+      'Y của Thiền Đồng nói: Không thể nêu hình thể, chẳng phải ngã mạn, giường dây dạo chơi 3 vòng. / ' +
+      'Chương Kính nói đúng, Nam Tuyền nói không đúng, tùng lâm nổi loạn, đi trong thị phi. / ' +
+      'Nếu không dùng con mắt định càn khôn, đâu là trước đầu lâu thấy ma, không thấy. Tăng hỏi Cửu Phong: Thế nào là dùng con mắt định được càn khôn? / ' +
+      'Phong nói: Chấp nhận ở trong trời đất? / ' +
+      'Tăng hỏi: Con mắt càn khôn ở đâu? / ' +
+      'Phong nói: Chính là con mắt càn khôn / ' +
+      'Tăng hỏi: Vừa mới đến vì sao nói chấp nhận ở trong càn khôn? / ' +
+      'Phong nói: Nếu không như thế, trước đầu lâu thấy ma vô số. Vạn Tùng ở đây có sự cầm chóng gậy 1 cái nói mau mau như luật lệnh.',
   },
 
   {
     id: 17,
-    title: 'TẮC THỨ 17: ',
+    title: 'TẮC THỨ 17: HÀO LY PHÁP NHÃN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      '',
+      'Sư dạy đại chúng rằng: ' +
+      'Đội nhạn vô cánh bay cao, đôi uyên ương đứng một mình bên bờ sông, mũi nhọn chạm nhau thì bỏ qua một bên, cưa đứt quả cân thì thế nào?',
     main:
-      '',
+      'Pháp Nhãn hỏi Tu Sơn chủ, hào ly có sai trời đất cách xa, thì ông làm sao lãnh hội được? / ' +
+      '  Tu nói: Hào ly có sai trời đất cách xa. / ' +
+      '  Nhãn hỏi: Như thế thì đâu được? / ' +
+      '  Tu nói: Con chỉ như vậy, Hòa Thượng thì thế nào? / ' +
+      '  Nhãn nói: Hào ly có sai trời đất cách xa. / ' +
+      '  Tu liền lễ bái',
     commentBeforeVerse:
-      '',
+      '* Sư nói: / ' +
+      'Tu Sơn Chư và Pháp Nhãn cùng tham học với Ngài Địa Tạng, tham cứu nhờ sức và thiết tha.  / ' +
+      'Công án này như lật đổ các ngộ của Giám Viện Kim Lăng Báo ân Huyền Tắc  / ' +
+      'Thiền sư Pháp Nhãn hỏi từng thấy người nào đến? / ' +
+      'Ấn đáp: Thấy Hòa Thượng Thanh Long  / ' +
+      'Nhãn nói: Có ngôn cú gì? / ' +
+      'Ấn đáp: Con từng hỏi, thế nào là chính bản thân của học nhân? / ' +
+      'Phong nói: Đồng Tử Bính Đinh tìm lửa. / ' +
+      'Nhãn nói: Thượng tọa làm sao lãnh hội? / ' +
+      'An đáp: Bính Đinh thuộc về lửa, lấy lửa xin lửa, như đem mình xin chính mình. / ' +
+      'Nhãn hỏi: Lãnh hội như thế thì đâu được? / ' +
+      'Ấn đáp: Con chỉ như thế, chưa biết được ý của Hòa Thượng thế nào? / ' +
+      'Nhãn đáp: Ông hỏi ta, ta nói cho ông. / ' +
+      'Ấn hỏi: Thế nào là bản thân của học nhân? / ' +
+      'Nhãn đáp: Đồng Tử Bính Đinh đến xin lửa, Ấn nhờ câu nói mà tỉnh ngộ, cái móc của Pháp Nhãn trong tay, đi tức ấn khả ở, trụ thì ấn khả phá, đập phá tức khép kính tình cảm của Giám Viện, mở ra vòng tình thức của Tu Sơn.  / ' +
+      'Tam Tổ Tín Luận minh nói: Chí đạo không khó chỉ ngại chọn lựa, nhưng không thương ghét, rỗng rang sáng suốt, hào ly có sai, trời đất cách xa. / ' +
+      'Pháp Nhãn đem điều này hỏi Tu Sơn Chủ: Sao làm cái linh gõ cửa? / ' +
+      'Thời nay hỏi được một ngàn cái, một cái làm đạo lý lãnh hội, không như thế thì một mực đánh phá ở vô sự, thì không rơi vào tâm tứ, chỉ nói hào ly có sai, trời đất cách biệt, là có làm ý náng nhiều. / ' +
+      'Pháp nhãn lại không chấp nhận, nói như thế lại sao được? Điều này cho là pháp Nhãn một nguồn phái. / ' +
+      'Vạn Tùng đến đây thường bảo người học, phân thân làm 2 để xem.  / ' +
+      'Đoạn trước Tu Sơn Chủ nói như thế, vì sao không chấp nhận? Đoạn sau Pháp Nhãn lại nói gì? / ' +
+      'Lúc đó, Tu Sơn nói: Còn chỉ như vầy còn Hòa Thượng thì thế nào? / ' +
+      'Nhìn về một loạt ngày tháng mới phân chớ có sinh nhai, thì ông ta không sai một ly. Nương vào trước chỉ nói, hào ly có trời đất cách biệt. / ' +
+      'Đồng Thiên Tề nói: Sơn chủ đáp như thế, tại sao không chịu mà lại thỉnh thưa. Pháp Nhãn chỉ nói như thế lại đi. / ' +
+      'Hãy nói: Nêu ngoa chổ nào? Nếu xem thấu được, nói thượng tọa có nguyên nhân. / ' +
+      'Vạn Tùng nói: Như thế thì đâu được. Cho nên nói: Chỉ là đường đi lối củ, gặp người nói được lại ngoa điêu, Tu liền lễ bái, được thì được, tình lý khó dung. / ' +
+      'Ngũ Tổ giới thay Pháp Nhãn, đánh vào sống lưng. / ' +
+      'Vạn Tùng nói: Quả nhiên có bản trích lời Pháp Nhãn nói là Sơn Chư thấu triệt. / ' +
+      'Vạn Tùng nói: Lộng Nệ, Đoàn Hán cả 2 đều không đúng. ' +
+      'Lúc ấy thấy Pháp Nhãn nói như thế thì đâu được. / ' +
+      'Lại nói: Đã từ lâu nghe Hòa Thượng có cơ yếu này, nếu không như thế xua tay mà đi, mặc cho một lúc quét sạch đợi y không tin thử hỏi Thiên Đồng, tụng rằng: / ' +
+      'Lằng tựa đầu cân cũng gập ghềnh. / ' +
+      'Quyền hành muôn đời soi không bình đẳng. / ' +
+      'So lường từng Xí thấy mối manh / ' +
+      'Rút cuộc giúp ta trở về vạch thăng bằng. / ' +
+      '* Sư nói: "Một câu phá đế của Thiên Đồng, liền tụng: Hào ly có sai trước đất cách biệt". / ' +
+      'Lô Sơn Viễn Công nói: Vốn đoan chánh rút cuộc từ đâu mà sinh diệt có và không? Một bước đi nhẹ nhàng thì cảnh khởi, hình như thế núi. / ' +
+      'Tam Tổ nói chữ hiềm, trước là tự mình thương ghét. Lại nói: Chỉ cần không thương ghét tự nhiên được rỗng rang, các người lui ra, để ta kiểm điểm kỹ xem. / ' +
+      'Phạm Ngữ Tam Ma Địa, tàu dịch Đẳng Trì, không trầm, không bổng, bình đẳng giữ gìn, ở đây có thể cho là quyền hành muôn đời chiếu soi không bình đẳng, thượng thì trị phai mưu toan. / ' +
+      'Xứng (cân) có 3 nghĩa: Chuẩn là trói buộc, hoành là bình, quyền là lúa. / ' +
+      'Kinh Lăng Nghiêm ghi: Ở trong đó tự mình trụ trong Tam Ma Địa, thấy và duyên thấy, đều là tướng tưởng, như hoa đốm hư không vốn không có, cái thấy này và duyên này, vốn là Bồ Đề Diệu Tịnh minh thể, tại sao ở trong đó có đúng không đúng? / ' +
+      'Đến đây chính là lúc như thế, gần cần hiềm chọn lìa ghét thương, còn không có sai hào ly, há có sự ngăn cách mây bùn vân lạng truy thù, thù là một tri, 3 tri là 1 lạng, lô lạng là một cân, đó là người quyền hành trong tay. ' +
+      '' +
+      'Ông đem một cân đến, ta cũng đổi một, giáo bình, đem một lạng cũng đổi 1 giáo bình, hỏi giống sự tăng giảm của trì và thù, lại không có nghiêng. / ' +
+      'Mọi người nói: Ý lãnh lấy đầu mọc câu, chẳng chấp nhận vật thăng bằng, bởi ở trên vạch thăng bằng, vốn không có cân lạng, lại như sao Bắc Đẩu trấn giữ ở đó, đầu mọc câu thêm bớt, chỉ tính tạm thời. / ' +
+      '* Vạn tùng nói: có tâm thì bình, không bằng vô tâm mà bình đẳng, cho nên không có những đốm nhỏ để cho người bán, cả 2 lăng trung và tin thái lung, lại lãnh hội được lời nói của pháp nhãn, sơn chủ triệt chăng? ' +
+      'Trái cân thay đổi hoàn toàn, bổng nhiên rơi vào cân và đấu.',
     verseOriginal: '',
     verse:
       ' ',
@@ -973,14 +1031,74 @@ const CongRongLu = [
 
   {
     id: 18,
-    title: 'TẮC THỨ 18: ',
+    title: 'TẮC THỨ 18: CON CHÓ CỦA TRIỆU CHÂU',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      '',
+      'Sư bảo đại chúng rằng: Hồ Lô trên nước, theo lây liền chuyển, đá quí ở trong mặt trời, không định hình được màu sắc, không thể vô tâm mà được, không thể dùng tâm hữu mà biết, không lường đại nhân, nói chuyển động lời nói còn có thoát được không?',
     main:
-      '',
+      'Nêu: Tăng hỏi Triệu Châu: Con chó có Phật tánh không? / ' +
+      '  Triệu Châu đáp: Có / ' +
+      '  Tăng hỏi: Đã có vì sao lại chui vào trong túi da này? Châu nói: Vì biết người khác cho nên cố phạm Lại có Tăng hỏi: Con chó có Phật tánh không? / ' +
+      '  Châu đáp: Không / ' +
+      '  Tăng hỏi: Tất cả chúng sinh đều có Phật tánh, chó sao lại không có / ' +
+      '  Phật tánh? / ' +
+      '  Châu đáp: vì nó có nghiệp thức.\n',
     commentBeforeVerse:
-      '',
+      'Sư nói: Nếu nói con chó, có Phật tánh, về sau lại nói không, hoàn toàn không có, trước lại nói có.  / ' +
+      'Nếu nói có nói không: Lại một lúc ứng cơ buộc miệng nói ra, đều có đạo lý. / ' +
+      'Cho nên nói: Kẻ thông minh không theo lối mòn, chỗ của Vị Tăng này phải thấy nghe rộng rãi, không dựa vào bổn phận. / ' +
+      'Triệu Châu nói có, lấy độc trị độc, lấy bệnh trị bệnh. Vị Tăng lại hỏi đã có, sao còn chui vào túi da này? / ' +
+      'Không biết mình sinh ra từ trong bụng chó.  / ' +
+      'Châu nói: vì ông ta biết cho nên có tội, một dùi 2 dùi cơ hội tốt khó gặp, Tăng này cho y nhân phát của. / ' +
+      'Nếu lãnh hội như thế, làm nô tỳ cho tọa chủ, cũng chưa được. Về sau có vị Tăng hỏi: liền đáp không, chính là kẻ khác. / ' +
+      'Nói có cũng có chổ thoát thân, nói không là cũng có chổ thoát thân, vị Tăng này nương vào bản văn để nói, tất cả chúng sinh đều có Phật tánh, con chó sao không có Phật tánh, như một đạp này. / ' +
+      'Dám nói, phá cửa chốt trời không lối chuyển thân, chỉnh ông ta thần khẩn nói, vì nó có nghiệp thức. / ' +
+      'Ông hãy nói: Trong lớp da của Tăng này có máu không? / ' +
+      '* Thiên Đồng không thoát khỏi trên vết sẹo thịt đỏ, như vừa nấu xong, tụng rằng: / ' +
+      '  Con chó Phật tánh, / ' +
+      '  Có con chó Phật tánh không. / ' +
+      '  Đi câu mà cầu tha mạng cá / ' +
+      '  Theo gió tìm hương khách nước mấy / ' +
+      '  Om sòm, loạn xạ phân quen lạ / ' +
+      '  Bằng an trải khắp, thư thả rộng bày / ' +
+      '  Chớ là nhà nông chẳng biết lo / ' +
+      '  Chỉ ra vết ngọc lại đoạt châu / ' +
+      '  Vua Tần chẳng biết Tướng Như Lạn. / ' +
+      '* Sư nói: Con chó có Phật tánh, con chó không có Phật tánh, 2 đoạn không giống nhau, một càng lấy ra, đúng như Tuyết Đậu nói, Triệu Châu cho nên làm bài tụng như thế. / ' +
+      '  Đúng với đạo Thiên chơn, câu thẳng câu cá rồng, câu cong câu tôm cá. Về sau theo khí tìm hương chó săn, nổi lên phân sự, trên xương khô có chứa nhiều nước. / ' +
+      '  Triệu Châu tuy trải nhiều chiếu, chỉ cần bàn luận kỷ càng, thì Thiên / ' +
+      '  Đồng mở cổ tay cho Triệu Châu, chẳng ngại nhà nông không thận trọng / ' +
+      '  Quy Tông hỏi Tú tài: Ông học ngành gì? / ' +
+      '  Tài đáp: Lãnh hội thư để của 2 nhà. Tông nhìn lên hư không chút xíu lại hỏi lãnh hội chưa Tài đáp: Chưa lãnh hội / ' +
+      '  Tông hỏi: Lại nói lãnh hội thư thể của 2 nhà. Vĩnh tự pháp cũng không biết. / ' +
+      '  Thích Sử Lý Bột hỏi: 3 thừa 12 phần giáo thì không hỏi, thế nào là yếu chỉ của Thiền Tông? / ' +
+      '  Tông cũng dơ nắm tay hỏi: Lãnh hội chưa? / ' +
+      '  Lý đáp: Chưa lãnh hội / ' +
+      '* Tông hỏi: Gã này lầm to, đầu nắm tay cũng không biết / ' +
+      '* Vạn Tùng nói: Mọi người xem Sư Tử trở mình, không chỉ Phật tánh của con chó nói có nói không, chỉ ở đây quá nhìn trước ngó sau, cẩn thận ủng hộ đến cùng. / ' +
+      'Lịch sử ghi rỏ Triệu Huệ Vương, được châu ngọc của Sở Hòa Thị, / ' +
+      'Tần Chiêu Vương đem 15 thành quách đổi nó. Lạn Tướng Như mang viên ngọc Bích vào, Tần Vương vui vẽ bảo mỹ nhân và cận thần đều chúc mừng, vạn tuế. ' +
+      'Tướng Như thấy vua không có ý chia thành quách, bèn đến trước nói: Viên ngọc có tỳ vết xin chỉ bày nó, vua trao Ngọc Bích, Tướng Như cầm đứng dậy, tựa vách nói: / ' +
+      'Triệu Vương trai giới 5 ngày, sứ thần mang ngọc bích đưa thư đến Triều, nhờ oai lực của nước lớn, cho nên tu hành kính cẩn. ' +
+      'Nay thấy Vua lễ tiết lơ là, được ngọc bích truyền cho mỹ nhân, dường như trêu chọc thần không có ý chia cắt thành quách, cho nên thần lấy lại ngọc bích, ắt để thành rốt ruột, đầu của thần và ngọc bích đều vở nơi đây. / ' +
+      'Vua tự tạ chiếu theo bản đồ chia cắt thành quách, cũng trai giới 5 ngày. Tướng Như cho người theo ôm quần áo lên đường trở về nước Triệu. ' +
+      'Triệu Châu trước phóng túng sau cướp đoạt, có thủ đoạn của Tướng Như. ' +
+      '* Thiên Đồng có bài tụng riêng: / ' +
+      'Triệu Châu nói có, / ' +
+      'Triệu Châu nói không. / ' +
+      'Con chó, Phật tánh / ' +
+      'Thiên hạ phân chia / ' +
+      'Mặt đỏ chẳng bằng nói thẳng. / ' +
+      'Lòng ngay ắt hẳn lời thô / ' +
+      'Cái lão Thiền sư bảy trăm chúng / ' +
+      'Cứt ngựa gặp người hóa nhãn châu. / ' +
+      'Triệu Châu tâm chơn thật nói ngay thẳng thì tâm cành câu thẳng cứu được mạng sống cá / ' +
+      'Lúc Châu Văn Vương đi săn thấy Khương Tử Nha ở bên bờ suối, cách mặt nước 3 thước, câu thẳng móc cá.' +
+      'Vương thấy kỳ lạ hỏi: Câu thẳng làm sao móc cá? / ' +
+      'Tử Nha đáp: Chỉ tìm mạng sống con cá, phân lừa gặp người thành mắt ngọc, như thế là Tướng Như cướp Ngọc bích. ' +
+      'Phật giám đưa ra 1 chùm châu báu hỏi: Các người có thấy không? / ' +
+      'Hồi lâu nói: đây là lão tăng đến kinh sư, đổi được nó các người đều tự trở về giảng đường tìm xem. ' +
+      'Phật giám dùng trùm ngọc, triệu châu phân lừa. Vạn tùng không có chổ dùng, chưa từng thay đổi, mọi người đều tin được, con mắt vẫn ở dưói lông mày như củ.',
     verseOriginal: '',
     verse:
       ' ',
@@ -992,14 +1110,61 @@ const CongRongLu = [
 
   {
     id: 19,
-    title: 'TẮC THỨ 19: ',
+    title: 'TẮC THỨ 19: NÚI TU DI CỦA VÂN MÔN',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      '',
+      'Sư bảo đại chúng rằng: / ' +
+      'Tôi thích Thiền Dương mới định cư, suốt đời nhổ cây nêm cho người, tại sao có lúc cũng mở cửa? / ' +
+      'Bưng chậu nhựa ra, đứng giữa đường xem thành cạm bẩy, thử biện luận xem.',
     main:
-      '',
+      'Tăng hỏi Vân Môn: "Không khởi một niệm vẫn có lỗi không?" / ' +
+      'Môn đáp: "Núi Tu Di"',
     commentBeforeVerse:
-      '',
+      'Sư nói: Quốc Sư Viên Thông Thiện nói: Công Án này bàn luận khắp nơi, có người nói: mới hỏi như thế, chính là khởi niệm, lỗi như Núi Tu Di. / ' +
+      'Hoặc nói: Như núi Tu Di bát gió thổi không lay động, Thiên Cổ trấn giữ Trường An. / ' +
+      'Hoặc nói: Vì mọi người khói không suốt, như núi Tu Di, bàn luận như thế. / ' +
+      'Nếu chưa lãnh hội được ý của Vân Môn giống như thoát thùng Sơn, đoạn trừ chỉ tơ hồng, mới biết tất cả đều không như thế. / ' +
+      '  Không thấy nói: 3 câu rỏ 1 câu, 1 câu nói 3 câu, 3 câu, 1 câu đều không liên quan gì với nhau, con đường phía trước rõ ràng. / ' +
+      '  Phật quả nói: Vân môn đáp nhiều lời khiến mọi người thức tỉnh. / ' +
+      '  Vạn Tùng nói: Dùng thức tỉnh điều khiển thức tỉnh, chẳng thủ đoạn mọi người, không thể giao phó công việc. / ' +
+      '  Núi Tu Di này trời không thể che, đất không thể chở, gió thổi không vào, nước rưới không ướt, chỉ có con mắt Kim Cương, vừa nhìn là thông suốt, liền thấy đại triệt đại ngộ, đến nổi nhỏ nhặt như vi trần, về sau lại nhìn lên lông mày lông mi, đứng 1 mình cao chót vót. Thiền sư Bạch Vân Đoan tụng rằng: / ' +
+      '  Núi Tu Di, chừ nghìn vũ trụ / ' +
+      '  Đại Bi ngàn mắt nhìn không qua / ' +
+      '  Trừ phi tự biết cưỡi ngược trâu / ' +
+      '  Suốt đời khỏi phảu theo sau đít / ' +
+      '  Vạn Tùng nói: Ngữa mặt dương mày, quay đầu tự vổ tay. / ' +
+      '  Hòa Thượng Kỳ Sơn chơn tụng: Vô Sự đi tìm tội người khác, thời bị bắt giữ suốt đời, chưa với tình thức vội chạy theo, ngoài cửa biết có bao nhiêu người, chỉ có Thiên Đồng không có kỳ hạn này, tụng rằng: / ' +
+      '  Chẳng khởi một niệm, núi Tu Di! / ' +
+      '  Thiều Dương thí pháp không lưu giữ / ' +
+      '  Chịu đến, hai tay phân phó cho / ' +
+      '  Định đi ngàn tìm không thể bám / ' +
+      '  Biển xanh rộng, mây trắng nhàn. / ' +
+      '  Chớ đem mảy tóc đặt trong đáy / ' +
+      '  Giả tiếng gà kia khó gạt ta / ' +
+      '  Chưa chịu mơ màng cho bỏ qua ải! / ' +
+      '  Sư nói: Ông hỏi ta một niệm không khởi thì có lỗi hay không có lỗi? / ' +
+      '  Ta liền đưa ra một ngọn núi Tu Di giống như ở trước mặt ông, sự lợi ích của pháp thì kia, vốn không keo kiệt. / ' +
+      '  Vĩnh Gia nói: Cửa đại thì mở ra không bị tắc nghẻn, không chỉ ngày nay, / ' +
+      '  Tiếng Phạn Tu Di, Tàu dịch Diệu Cao, thành bảo sở gọi là Diệu, vượt trội các ngọn núi gọi là Cao, trong núi thiên hạ, núi Tu Di là hồn hết. / ' +
+      '  Nếu ông bằng lòng, ta sẽ tay phân. / ' +
+      '  Cổ Thi nói: Đợi chổ y bằng lòng, là lúc mạng ta thông, thật ra việc này thường hiển lộ, như Núi Tu Di sừng sững cao ngất, không ai có thể che lấp được. / ' +
+      '  Lúc chưa phân phó, há không phân, phân phó cho ông, há mới được không thấy, Trường Khánh nói: Chỉ lộ ra thân thể ở trông vạn tượng, nếu người bằng lòng mới thân cận. / ' +
+      '  Thiên Đông làm bài tụng. Đến đây phần nhiều bao gồm công phu, nếu ông suy nghĩ không được. / ' +
+      '  Nghìn dặm muôn dặm ngưỡng nhìn không được. / ' +
+      '  Cừ Nguyên nói: Việc này như vách núi sụp đỗ, vách cao nghìn trượng không thể leo, thật ra ông cũng chưa từng xa lìa, ta cũng chưa từng cướp đoạt, đây cùng với câu mê ngộ trái nhau, ngẩu nhiên rõ ràng. / ' +
+      '  Trong giáo có nói: Nếu ta đi vào nước vạn Du Thiên Na ra khỏi nước Vạn Du Thiên Na, chẳng phải biển khô cạn, không thể dung chứa, xưa nay núi đá không lay động, mây cũng thường trôi lững lờ. / ' +
+      '  Động Sơn nói: Núi xanh là cha của mây trắng, mây trắng là con của núi xanh, mây xanh, mây trắng trọng ngày nướng, mà núi xanh không biết. / ' +
+      '  Thiên Đồng khá tài giỏi làm bài tụng về núi Tu Di như biển rộng mây ngàn, quanh co đến hết sức kỳ diệu, ở đây dung chứa được một niệm sinh diệt chăng? / ' +
+      '  Cho nên nói: Biển xanh rộng, mây trắng nhàn, chớ đem mảy tóc đặt trong đáy. / ' +
+      '  Ở đây lại cùng với Tuyết Đậu nói: không để hạt cát dính vào mắt, cùng tham cứu, nếu luận bàn Thiển Dương không keo kiệt vẽ pháp thì con mắt dính được núi Tu Di. / ' +
+      '  Trong bài tụng về núi Tu Di này, chặt hết củi, mạch máu lưu thông, tác vã là mệnh lệnh, không vọng sinh xuyên tạc tăng tình thức, thực ra người không khởi một niệm, há có thể hỏi có tội hay không có tội? Dù cho thường ở nơi không khởi niệm, kiểm điểm xem, thật ra thế nào? / ' +
+      '  Cho nên nói: Giả tiếng gà khó lừa đuợc ta, chưa chịu mơ màng cho qua ải. / ' +
+      '  Mạnh Thường Quân vào làm tướng nước Tần có người nói với vua Mạnh Thường Quân là bậc hiền tài, lại là dòng họ Tề. / ' +
+      '  Tướng nước Tần này chắc chắn trước là Tề sau là Tần. / ' +
+      '  Nước Tần gặp nguy, vua bỏ tù Mạnh Thường Quân lúc sắp chết, Mạnh Thường Quân may mắn được Cơ cứu giúp / ' +
+      '  Cơ nói: Thiếp xin được làm áo lông cừu cho Mạnh Quân, lúc áo lông đã xong, Hạ Khách là người mà ăn trộm chó, lấy lông dâng cho Cơ, Mạnh Quân được thoát, nữa đêm đến Hàm Cốc Quan, phép tắc của quan là có tiếng gà gáy khách mới được ra ngoài. / ' +
+      '  Hạ khách giả làm tiếng gà gáy, thì cả đàn gà đều gáy, nhờ vậy mà mạnh quân thoát khỏi nạn tần. / ' +
+      '  Sư đưa gậy lên nói: là cửa ải của bạn tùng ngày nay, có người học tiếng gà gáy đi ra, lại dựa vào cây gậy nói: bỏ qua một phen.',
     verseOriginal: '',
     verse:
       ' ',
@@ -1011,14 +1176,51 @@ const CongRongLu = [
 
   {
     id: 20,
-    title: 'TẮC THỨ 20: ',
+    title: 'TẮC THỨ 20: THÂN THIẾT CỦA ĐỊA TẠNG',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      '',
+      'Sư dạy đại chúng rằng: ' +
+      'Nhậm lý bàn sâu, đại đạo của Trường An, đại triệt ngộ, bổng nhiên mở miệng nói phá. Cất bước đạp có thể quảng cao đẩy bát ném gậy gãy. Hãy nói: Ai là người này?',
     main:
-      '',
+      'Địa Tạng hỏi Pháp Nhãn, thượng tọa đi đâu? / ' +
+      'Nhãn đáp: Hành cước quanh co. / ' +
+      'Địa Tạng đáp: Việc hành cước thế nào? / ' +
+      'Nhãn đáp: Không biết / ' +
+      'Địa Tạng nói: Không biết rất thân thiết pháp. / ' +
+      'Nhãn hoát nhiên tỉnh ngộ.',
     commentBeforeVerse:
-      '',
+      'Sư nói: Dương Vô Vi hỏi Phù Dung Hòa Thượng, chia tay nhau mấy năm rồi? / ' +
+      '  Phù Dung đáp: Bảy năm / ' +
+      '  Công hỏi: Chơi như thế thì uổng công dạo chơn thủy, trăm năm không có sở và năng sao? / ' +
+      '  Phù Dung đáp: Chia tay nhau chưa bao lâu mà nhìn xa. Công cười to Nam Tuyền nói: Nói không phụ về cái biết, không phụ thuộc về không biết, biết là vọng giác, không biết là vô ký. / ' +
+      '  Người đời nay nghe nói, không biết rất thân thiết, lại là cái ngộ của Pháp Nhãn, thì một mực không biết không hiểu, chỉ cần như đây vậy. Thật không ngờ, một câu của người xưa như trời che, đất chở, đã không biết rất thân thiết, chọn nói 1 chữ biết là rất vi diệu, lại là thế nào? Chỉ cần ông như thế thì chớ ở nơi này, không phải đều không thế, chớ ngồi nơi không phải chổ này, kiêm cả vị trí Chánh và Thiên há có thể chết trong ngôn ngữ, chỉ chổ giác ngộ của Pháp Nhãn này, ngẫu nhiên thành văn. / ' +
+      '  Hòa Thượng Đại Ẩn ở Bách Sơn nói: / ' +
+      '  Do họa dẫn đến phước, thủ đoạn tiếp người ở Địa Tạng, câu vào chổ không nghi hoặc, bổng nhiên thả lưỡi câu, Pháp Nhãn thức tỉnh liền, vốn là ở đây Lão Sư Từ Châu nói: Ông chỉ lúc đi lúc ngồi khi tâm niệm mạnh mẽ đề khởi nhìn thấy, tức thấy mà không thấy, lại bắn qua một bên, công phu tu tập như thế, nghĩ ngơi cũng không ngăn ngại việc tham học, tham học cũng không trở ngại việc nghĩ ngơi. Hòa Thượng Đầu Tử Thanh nói: Đã mất nước, xí điểu vỗ cánh, nhân duyên thời tiết của Địa Tạng, không một chút gián đoạn, ngòi bút Thiên Đồng có lưỡi, lại còn trùng tuyên, Tụng: / ' +
+      '  Hôm nay xem đã như khi ấy, buông hết bức rèm thưa mà không biết, mặc cho dài ngắn chớ hay đến, dù là cao thấp sửa sang, cửa nhà giàu có thôi tạm dùng, ruộng vườn tốt phì nhiêu tùy chân bước, việc hành cước 30 năm trước, rõ ràng Sư phụ đôi lông mày. / ' +
+      '  Sư nói: / ' +
+      '  Tông cảnh nói: Từ xưa đến nay mê ngộ tợ mê, ngày nay ngộ mê không ngộ. / ' +
+      '  Cho nên nói: Người ngộ rồi vẫn giống như chưa ngộ. Lúc Địa Tạng hỏi phải biết đầy đủ đạo lý, những điều Pháp Nhãn đáp, cũng không khiêm nhường từ chối, Địa Tạng tiện thể nói: không biết rất thân thiết, pháp nhãn tỉnh vốn là đây, biết không, không biết cái thân thiết này. / ' +
+      '  Lâm Tế hỏi Lạc Phố từ đâu đến? / ' +
+      '  Lạc Phố đáp: Từ Biến thành đến / ' +
+      '  Lâm Tế hỏi: Có chút việc hỏi được không? / ' +
+      '  Lạc Phố đáp: con không hiểu / ' +
+      '  Lâm Tế nói: / ' +
+      '  Đánh phá nước Đại Đường, tìm cái chưa lãnh hội không được. Lâm Tế thường dùng dao giết người cũng có kiếm cứu người, không như Địa Tạng giết người thấy máu để cho người thấy triệt. / ' +
+      '  Cái không biết không hiểu này, thong dong, tự tại, cần phải tháo hết bức rèm mới đến chổ không biết không hiểu. / ' +
+      '  Quy Sơn phổ thỉnh khai điền. Ngưỡng Sơn hỏi: Đầu này thấp như thế? Đầu kia cao như thế? / ' +
+      '  Quy nói: Nước có thể san bằng sự vật, nhưng chỉ lấy nước san bằng sự vật / ' +
+      '  Ngưỡng nói: Nước không nương tựa, Hòa Thượng chỉ chổ cao tức cao bằng, chổ thấp thì thấy bằng. / ' +
+      '  Quy bổng nhiên nói, Triệu Châu Bát Nhã vô trí luận rằng: Các pháp không khác, há giúp le le diệt chim hạc dời núi lấp sông, về sau cho là không khác ư? Cho nên nói: Mặc cho dài ngắn chớ hay đến, dù là cao thấy chớ sữa sang. / ' +
+      '  Trương Vô Tận nói: Vạn loại chuyển theo chỉ uổng công, tất tùy thuận thành khéo léo, chỉ máy miệng nói như thế, tiện tay liền lấy, tiện chân bước đi, trăng Xuân hoa nở, mùa Thu lá rơi, lãnh hội được như thế, đi bằng chân lừa, cho nên Huyền sa không rời núi, Bảo thọ vượt sông, không ra khỏi cửa mà biết việc thiên hạ. / ' +
+      '  Giác Phạm Tụng: Khuôn mặt như cây mai to, mắt, tai mũi lưỡi phân làm biên cương, trong đầu lâu hoàn toàn không biết, nghe ông tranh cãi ở ngoài, miệng hỏi mũi rằng: Ăn uống do ta, nói năng cũng do ta, mày đâu công gì? Mà nằm ở trước ta? / ' +
+      '  Mũi nói: Trong núi Ngũ Nhạc, Tung Nhạc là hơn hết. / ' +
+      '  Mũi lại hỏi mắt: Sao ông lại ở trên? / ' +
+      '  Mắt đáp: Ta đồng trăng trời, thật công năng chiếu soi. Dam hỏi lông mày có công năng gì mà ở trên ta? / ' +
+      '  Lông mày đáp: Ta thật không có công thẹn ở địa vị trên các ông ở dưới mắt ở trên lông mày, khuôn mặt ông có gì? / ' +
+      '  Cho nên Bảo Nguyệt Minh Thiền sư thượng đường nói: Người xưa nói, ở nơi mắt gọi là thấy, ở nơi tai gọi là nghe. / ' +
+      '  Hãy nói: Ở lông mi gọi là gì? Im lặng hồi lâu nói: Long Nha thì càng buồn, vui thì càng ưa, mọi người đều biết cái dụng của hữu dụng, mà không biết cái đại dụng của vô dụng. / ' +
+      '  Hãy nói: Tân Đầu Lô Tôn giả 2 tuy lông mày ý chỉ thế nào? / ' +
+      '  Sư lông mày nói: Con mèo',
     verseOriginal: '',
     verse:
       ' ',
@@ -1030,14 +1232,86 @@ const CongRongLu = [
 
   {
     id: 21,
-    title: 'TẮC THỨ 21: ',
+    title: 'TẮC THỨ 21: VÂN NHAM QUÉT NHÀ',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      '',
+      'Dạy đại chúng rằng: \n' +
+      'Thoát mê ngộ tuyệt thánh phàm, tuy không nhiều việc, nhưng lập chủ và khách thì phân biệt giàu nghèo, riêng có một nhà, ban của trao chức, tức giống như hơi thở liên tục, làm sao lãnh hội được?',
     main:
-      '',
+      'Vân Nham đang quét nhà\n' +
+      '\n' +
+      '  Đạo Ngô nói: Vất vả quá\n' +
+      '\n' +
+      '  Nham nói: Không biết có người không vất vã.\n' +
+      '\n' +
+      '  Ngô nói: Như thế thì có trăng thứ 2\n' +
+      '\n' +
+      '  Nham đưa cây chổi lên: Đây là trăng thứ mấy?\n' +
+      '\n' +
+      '  Ngô liền bỏ đi. Huyền ra nói: Chính là trăng thứ 2.\n' +
+      '\n' +
+      '  Vân Môn nói: Nô tỳ thấy Tỳ ân cần.',
     commentBeforeVerse:
-      '',
+      'Sư nói: Đạo Ngô chiết phục Vân Nham, như Phật Quả kích lệ, Phật giám cái gọi là không giận thì không khởi, không buồn thì không phát, chính là Vân Nham quét nhà. \n' +
+      '  Đạo Ngô rãnh rổi đi kiểm điểm ông ta.\n' +
+      '\n' +
+      '  Vân Nham nói: Cần phải biết có người không vất vã, may các nhân giả, ông thì ăn cơm, chế trà, xâu kim, quét nhà, bấy giờ mới nhận ra người không vất vã, lại được thế pháp, Phật pháp nhồi thành một khối, trong sự rỗng trì trệ, Tăng trong thời gian tự mình không luống uổng. \n' +
+      '  Đạo Ngô mới thấy thiếu sót, nói như thế thì có mặt trăng thứ 2. \n' +
+      '  Riêng Tuyết Đậu nói: Lặng lẽ bỏ qua, hai lão già sợ người, lìa bỏ sắc thân lập riêng pháp thân.\n' +
+      '\n' +
+      '  Sư Trung Quốc bảo Thiền Khách Phương Nam rằng: Phật tánh của nước ta hoàn toàn không sinh diệt, Phật tánh của người Phương Nam nửa sinh, nửa diệt, nửa không sinh diệt.\n' +
+      '\n' +
+      '  Khách nói: Làm sao phân biệt?\n' +
+      '\n' +
+      '  Sư nói:Đây là thân tâm nhất như, ngoại tâm không khác, cho nên hoàn toàn không sinh diệt, thân thể người Phương Nam là vô thường thần thức là thường, cho nên nửa sinh nửa diệt, nửa không sinh diệt, đến đây cần biết có cái chuyển thân chính là thời tiết giao theo bèn dựng chổi lên hỏi: Đây là trăng thứ mấy? Lời này vấn trích trong kinh Thủ Lăng Nghiêm.\n' +
+      '\n' +
+      '  Kinh nói: Như mặt trăng thứ 2, tháng nào là tháng đủ, tháng nào tháng thiếu, Văn Thù chỉ một tháng trăng chơn, trung gian không có trăng phải trái, Đạo Ngô liền bỏ đi.\n' +
+      '\n' +
+      '  Có bản ghi: Đạo Ngô phất tay áo rồi đi, Vạn Tùng nói: Khám phá rồi. Hãy nói: Vân Nham đã phá Đạo Ngô, hay Đạo Ngô đã phá Vân Nham. Người mắt sáng thử kiểm điểm xem?\n' +
+      '\n' +
+      '  Huyền Sa nói: Chính là mặt trăng thứ 2, trong miệng lão này, có thư Hoàng, trên lưỡi có lưỡi kiếm bén, Trường Khánh hỏi: Bị người khác trở cây chổi đánh vào mặt, lại thế nào. \n' +
+      '\n' +
+      '  Huyền Sa bỏ đi Sơn La nói: Ôi! Hai lão già không biết tốt xấu gì cả! Vân Nham chói tai cái chết đến lúc nào?\n' +
+      '\n' +
+      '  Vạn Tùng nói: Môn hạ của Đức Sơn không nói không được, môn hạ Động Sơn chưa được tự tại, lúc Tuyết Phong hành cước, 3 lần tìm đến Đầu Tử, lần lên Động Sơn.\n' +
+      '\n' +
+      '  Một hôm Tuyết Phong vo gạo, Động Sơn hỏi: Vo gạo bỏ gạo hay bỏ sạn?\n' +
+      '\n' +
+      '  Phong đáp: Sạn gạo đều bỏ.\n' +
+      '\n' +
+      '  Động Sơn hỏi: Đại chúng ăn cái gì? Phong mới lật cái úp chậu lại. \n' +
+      '\n' +
+      '  Động Sơn nói: Được thì được, cần phải thấy người khác mới được. \n' +
+      '\n' +
+      '  Về sau quả thật nối pháp với Đức Sơn, Huyền Sa, Trường Khánh nối pháp với Tuyết Phong. \n' +
+      '  La Sơn nối pháp với Nham Đầu, đều trích trong môn hạ của Đức Sơn, nên vừa trầm vừa bổng, lời thuận ý nghịch, mà nay 2 pháp Vân Môn, Động Sơn đều thạnh hành, há có sự hơn thua sao?\n' +
+      '\n' +
+      '  Vân môn nói: Tôi thấy tớ thì ân cần sao?\n' +
+      '\n' +
+      '  Bảo phước nói: Vân Nham giống như đẩy xe trong bùn vất vã vô cùng, hai lão Túc cũng nối pháp với Tuyết Nham, tự nhiên nói lời hợp nhau.\n' +
+      '\n' +
+      '\n' +
+      '  Y nói: Vân Nham không thể dùng chổi đánh phá sự, thật không ngờ trong bùn có gai. Vạn Tùng giở trò niêm đề chưa xong, bất giác bật cười nói: Vân Nham, Đạo Ngộ, nói cơ duyên của Động Sơn, già này, miệng mọi người toàn vàng, không có một người nào chống cự lại Tuyết Phong, lại có Thiên Đồng rút kiếm trợ giúp, tụng rằng:\n' +
+      '\n' +
+      '  Nhờ nhau như thế rõ môn đầu\n' +
+      '\n' +
+      '  Được dụng tùy nghi cũng tiện thôi\n' +
+      '\n' +
+      '  Tượng cốt trước hang tay rắn múa\n' +
+      '\n' +
+      '  Chỗ làm hồi nhỏ, già biết thẹn.\n' +
+      '\n' +
+      '  Sư nói: \n' +
+      '  Nếu luận về việc này, như sấm chớp xẹt đá, Vân Nham nêu ra dạy mọi người. \n' +
+      '  Trường Khánh đánh trước mặt chổ dụng tuy khác cùng trở về. Động Sơn sở dĩ quý trọng quay cơ chuyển địa vị. \n' +
+      '  Tuyết Phong có núi hình cốt, Tuyết Phong từng bảo cơ chuyển địa vị. \n' +
+      '  Tuyết Phong có núi hình cốt, Tuyết Phong từng bảo đại chúng rằng: Nam Sơn có một con ba ba mũi rắn, tất cả mọi người đều phải xem. \n' +
+      '  Vân môn lấy gậy ném trước mặt, làm cái thế sợ hải đây há không phải là tôi thấy tớ thì cần sao? Vân Môn quét đất, đưa chổi lên hỏi: Đây là trăng thứ mấy?\n' +
+      '\n' +
+      '  Hết thảy nay nghe theo mà thay đổi là nhờ sức của con cháu. Vân Môn đến nay vẫn ở dưới bờ rào, cho nên Thiên Đồng phóng không qua y, nói làm con rắn ở trước núi Tượng Cốt, Lúc nhỏ làm về già hổ thẹn.\n' +
+      '\n' +
+      '  Hòa Thượng Thắng Mặc nói: \n' +
+      '  Bài tụng này còn nhằm vào điểm yếu của người, có điểm tốt cho người. Nay Thiên Đồng và Thắng Mặc, xử phạt Vân Môn, ngày nay Vạn Tùng bỏ vụ án đi, không thấy Thiên Đồng làm bài tụng về con rắn, khen thưởng tất cả cơ phong đại dụng của Vân Môn so với Vân Trung cũng không kém, sao lại như thế? Trầm bổng đều do ta còn chết sống do ai?',
     verseOriginal: '',
     verse:
       ' ',
@@ -1049,14 +1323,75 @@ const CongRongLu = [
 
   {
     id: 22,
-    title: 'TẮC THỨ 22: ',
+    title: 'TẮC THỨ 22: YẾT KIẾN NHAM ĐẦU',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      '',
+      'Dạy đại chúng rằng: Người sẽ tìm lời, nước sẽ tìm gậy, vạch cỏ nhìn gió, dụng cụ tầm thường, bổng nhiên nhảy ra con hổ cháy đuôi, lại thế nào?',
     main:
-      '',
+      'Nham Đầu đến Đức Sơn vào gõ cửa liền hỏi: là phàm hay là Thánh?\n' +
+      '\n' +
+      '  Đức Sơn: Liền quát, đầu lễ bái. Động Sơn nghe vậy nói: Nếu không phải Sơn Công, rất khó gánh vác.\n' +
+      '\n' +
+      '  Nham Đầu nói: Lão Động Sơn này không biết tốt xấu gì cả, khi ấy ta một tay nâng lên một tay đè xuống.\n',
     commentBeforeVerse:
-      '',
+      'Sư nói: Đức Sơn bình thường nổi gió nổi mưa, nhưng ngày nọ Nham Sơn trải tọa cụ rồi đi. Ngày kế Đức Sơn đứng đợi.\n' +
+      '\n' +
+      '  Sơn hỏi: Ở trong đó học được cái đầu hư dối này?\n' +
+      '\n' +
+      '  Đầu đáp: Con hoàn toàn không dám dối mình.\n' +
+      '\n' +
+      '  Sơn nói: Sau này ông đi tiêu trên đầu Lão Tăng, cha nghe con càng hận không muốn chết, thấy Sư có lỗi mới chịu truyền trao lời hỏi, mọi người đều gọi đó là cơ phong vào cửa chưa chắc trước vào cửa hỏi thật bước vào cửa hỏi. Xưa có người ngoại đạo, dấu con chim sẽ trong tay, hỏi Đức Thế Tôn: Con chim sẽ trong tay con là chết hay sống? Thế Tôn bước chân vào cửa nói, ông nói ta muốn vào hay muốn ra, hỏi là phàm hay Thánh, thật có đạo lý này. Xưa kia Phổ Hóa đã chỉ Thánh Tăng hỏi Lâm Tế.\n' +
+      '\n' +
+      '  Hãy nói: Đây là Thánh hay là phàm?\n' +
+      '\n' +
+      '  Lâm Tế liền hét hòa nói: Cô dâu mới ở Hà Dương, thiền lão bà đáp: Gổ Lâm Tế trẻ con chỉ có mắt.\n' +
+      '\n' +
+      '  Lâm Tế nói: Lão Tặc này, Hóa ra lâm đường nói giặc, giắc.\n' +
+      '\n' +
+      '  Thủ Sơn nói: Hai lão giặc này có một người chính là giặc.\n' +
+      '\n' +
+      '  Hãy nói: Người kia chính là giặc. Thay nói: Lưu Bồn Tử và Nham Đầu hỏi là Phàm hay Thánh?\n' +
+      '\n' +
+      '  Đức Sơn liền quát, liền bàn bạc với Lâm Tế, cùng khám phá. \n' +
+      '\n' +
+      '  Nham Đầu lễ bái cũng cho già trẻ nít Lâm Tế kia lại nhìn nông cạn như nhau.\n' +
+      '\n' +
+      '  Tuyết Đậu nói: Lúc ấy mới lễ bái, giả sử đánh gãy xương sống, không chỉ dẹp trừ Động Sơn mà cũng dẹp lão Hoát, ở đây lại nói cho Lâm Tế, lão Tăng này cùng tham cứu, Động Sơn nghe vậy nêu ra rằng:\n' +
+      '\n' +
+      '  Nếu không phải Hoát Công, thật khó gánh vác.\n' +
+      '\n' +
+      '  Phật Quả trình bày: Người bên cạnh đủ mắt lại nói: Chỉ biết có 1 mà không biết có 2 chổ thấy của Vạn Tùng không phải vậy. \n' +
+      '\n' +
+      '  Phật quả nói: Người bên cạnh Đồng Sơn tuy đủ mắt, cũng không thấy đâu đúc vuông. Vì Động Sơn cố gánh vác\n' +
+      '\n' +
+      '  trách nhiệm, vu oan Nham Đầu cần phát minh lúc đầu lễ bái, có quyền có thực, quả nhiên lửa đến trên đầu Nham Đầu, nhanh chóng xông vào nói: Lão Động Sơn này không biết tốt xấu, lúc đó ta một tay nâng lên, một tay đè xuống, mới bắt đầu đốt đèn, ăn cơm, 2 nhà rõ ràng không biết.\n' +
+      '\n' +
+      '  Hòa Thượng Bảo Minh Dung làm bài tụng rằng: “Suối bằng thỏ chạy phóng qua chim xanh, bài tụng này là hỏi về lối vào đạo, vừa nâng lên thì cám dổ đôi mắt”. \n' +
+      '\n' +
+      '  Bài tụng này nói Nham Sơn hét Nham Đầu lễ bái, tay độc đoạt người đến mua. \n' +
+      '\n' +
+      '  Bài tụng này nói Động Sơn cố chấp vào giá cả lợi lộc, cân lạng làm sao chưa rõ ràng? Chính là Vạn Tùng hỏi, muốn được cân lạng rõ ràng chăng?\n' +
+      '\n' +
+      '  Quả thật Phật qua, Vạn Tùng không tranh đầu cao đầu thấp lại xem Thiên Đồng một phen tranh cải, tụng rằng:\n' +
+      '\n' +
+      '  (Cơ phong trắc trở, đều là quyền hành, việc có oai ắt phải thực hành. Nước có lệnh không phạm, khách còn tôn thờ thì chủ lại Kiêu căng, vua Can gián hà thần nịnh hót), để ý Nham Đầu hỏi Đức Sơn. Vừa 2 nâng lên vừa đè xuống xem tâm hạnh.\n' +
+      '\n' +
+      '  Sư nói: Bài tụng của 3 người này\n' +
+      '\n' +
+      '  đều có cơ phong trắc trở, mỗi mỗi đều có quyền hành, chỉ có Nham Đầu, Đức Sơn có oai ắt thực hành, có lệnh không phạm, khách phụng thờ chủ kiêu căng. \n' +
+      '\n' +
+      '  Ở Động Sơn, Nham Đầu, vua kỵ thần nịnh hót. Ở Nham Đầu và Đức Sơn, 2 câu vi diệu. Động Sơn, Nham Đầu. \n' +
+      '\n' +
+      '  (22) Đây là tấm gương, khắp nơi gọi là Giản Hồ chọn lựa, sửa ở trong nước phải là ngỗng chúa, mới thấy được công phu may vá của Thiên Đồng.\n' +
+      '\n' +
+      '  Nham Đầu biết Động Sơn có oai chắc chắn thực hành, có lệnh không phạm, cho nên không đoạn cơ phong, lại thuận tình mà lễ bái. Động Sơn biết Nham Đầu không chịu\n' +
+      '\n' +
+      '  thăm dò, không chịu hình phạt, con kế thừa nghiệp cha, cũng có oai thực hành, không phạm luật, nên nói đầu lưỡi câu dính mồi. ' +
+      'Nếu không phải là Hoát Công rất khó gánh vác, há chẳng còn thờ chủ kiêu căng, kỵ ghét thần nịnh hót. Tông phong của Lâm Tế, gọi là Hồng Tuyết Sao sách, hầm cạm bẩy ngọc bích, rơi vào cơ hổ, chôn binh đấu chiến mọi người đều nói: Nham Đầu vừa nâng lên vừa đè xuống, nhầm danh ngôn của Động Sơn. Thật không ngờ, Động Sơn vừa nâng lên vừa đè xuống, lại rất rõ ràng, đây chẳng phải tác giả tham cứu đã lâu, rất khó nhận thức giống như ngày nay cởi bạch Sa Di, thấy bài tụng Thiên Đồng nói vừa\n' +
+      '\n' +
+      '  nâng lên vừa đè xuống, xem tâm hạnh, liền nói kỳ lạ. Thiền gia không chịu phá toạc ra cho người, xưa nay đều là tâm hạnh, cho nên khóc lóc lừa bịp học nhân.\n' +
+      '\n' +
+      '  Vạn Tùng nói: Một phần tâm hạnh là một phần từ bi, không hề qua lại, không học gì cả, có thể nói quả từ trong hoa mà được, ngọt từ nơi đắng mà ra, Nham Đầu Xô ra kéo lại, Động Sơn rút ra, Động Sơn xô ra kéo lại. Vạn Tùng nói toạc ra, bổng chốc có người ra lễ bái, Vạn Tùng liền bỏ qua không đánh nữa, sao da của y không có máu?',
     verseOriginal: '',
     verse:
       ' ',

@@ -21,7 +21,6 @@ const CnLv9MasterDb = [
     disciples: ['Fenyang Shanzhao', 'Shexian Guixing', 'Guyin Yuncong' , 'Tiefo Zhisong' ],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Th%E1%BB%A7_S%C6%A1n_T%E1%BB%89nh_Ni%E1%BB%87m', 'https://pl.wikipedia.org/wiki/Shoushan_Xingnian'],
-
   },
   {
     id: '42.9.2',
@@ -46,7 +45,6 @@ const CnLv9MasterDb = [
     disciples: ['Tiantai Deshao', 'Quy Tông Nghĩa Nhu (歸宗義柔)',  'Sùng Thọ Khế Trù (崇壽契稠)',  'Bách Trượng Đạo Hằng (百丈道恆,?-991/992)',  'Pháp Đăng Thái Khâm (泰欽法燈,?-974)', ],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Ph%C3%A1p_Nh%C3%A3n_V%C4%83n_%C3%8Dch',],
-
   },
   {
     id: '42.9.3',

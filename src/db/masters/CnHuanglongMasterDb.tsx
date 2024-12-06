@@ -1,7 +1,28 @@
 const CnHuanglongMasterDb = [
   {
-
+    id: '45.12.2',
+    hasContent: true,
+    eminent: true,
+    name_en: 'Huanglong Huinan',
+    name_es: 'Huanglong Huinan',
+    name_de: 'Huanglong Huinan',
+    name_fr: 'Huanglong Huinan',
+    name_vi: 'Hoàng Long Huệ Nam',
+    name_ru: 'Huanglong Huinan',
+    name_zh: '黃龍慧南',
+    name_ja: 'Ōryō Enan',
+    name_ko: 'Huanglong Huinan',
+    name_ar: 'Huanglong Huinan',
+    birth_death_time: ['1002', '1069'],
+    records: '',
+    sect: ['Linji - Huanglong'],
+    country: 'China',
+    place: '-',
+    teachers: ['Shishuang Chuyuan'],
+    successors: [''],
+    disciples: ['Yungai Shouzhi', 'Baofeng Kewen', 'Huitang Zuxin'],
+    image: '/images/avatar.png',
+    reference: ['https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Long_Hu%E1%BB%87_Nam', ''],
   },
-
 ]
 export default CnHuanglongMasterDb;

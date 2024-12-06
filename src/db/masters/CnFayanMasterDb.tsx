@@ -1,7 +1,28 @@
 const CnFayanMasterDb = [
   {
-
+    id: '42.9.2',
+    hasContent: true,
+    eminent: true,
+    name_en: 'Fayan Wenyi',
+    name_es: 'Fayan Wenyi',
+    name_de: 'Fayan Wenyi',
+    name_fr: 'Fayan Wenyi',
+    name_vi: 'Pháp Nhãn Văn Ích (Thanh Lương, Tuệ Tịch Đại sư)',
+    name_ru: 'Fayan Wenyi',
+    name_zh: '法眼文益',
+    name_ja: 'Hōgen Buneki',
+    name_ko: 'Fayan Wenyi',
+    name_ar: 'Fayan Wenyi',
+    birth_death_time: ['885', '958'],
+    records: '',
+    sect: ['Fayan'],
+    country: 'China',
+    place: '-',
+    teachers: ['Luohan Guichen'],
+    successors: ['Tiantai Deshao'],
+    disciples: ['Tiantai Deshao', 'Quy Tông Nghĩa Nhu (歸宗義柔)',  'Sùng Thọ Khế Trù (崇壽契稠)',  'Bách Trượng Đạo Hằng (百丈道恆,?-991/992)',  'Pháp Đăng Thái Khâm (泰欽法燈,?-974)', ],
+    image: '/images/avatar.png',
+    reference: ['https://vi.wikipedia.org/wiki/Ph%C3%A1p_Nh%C3%A3n_V%C4%83n_%C3%8Dch',],
   },
-
 ]
 export default CnFayanMasterDb;

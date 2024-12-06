@@ -1,10 +1,11 @@
 const IronFlute = [
   {
       id: 1,
-      bookTitle: 'Iron Flute',
-      author: 'Genro - Nyogen Senzaki',
+      bookTitle: '鐵笛倒吹',
+      author: '玄楼奥龍 (Genrō Ōryū), 風外本高 (Fūgai Honkō), 千崎如幻 (Senzaki Nyogen)',
+      reference: 'https://terebess.hu/zen/vasfurulya.html',
       title: 'TẮC THỨ 1: VĂN THÙ VÀO CỬA',
-      image: '/images/iron-flute/iron-flute-cover.jpg',
+      image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
       main:
         ' Một hôm Bồ-tát Văn Thù đứng ngoài cửa thì đức Phật gọi: "Văn Thù, Văn Thù, sao không vào đi?" / ' +
         ' Văn Thù đáp: "Con chẳng thấy vật gì ở ngoài cửa. Tại sao con phải vào?"',
@@ -38,7 +39,7 @@ const IronFlute = [
   {
     id: 2,
     title: 'TẮC THỨ 2: LA SƠN KHAI ĐƯỜNG',
-    image: '/images/meta-image-square-1',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       'Mân Vương xây một ngôi chùa cho La Sơn và mời sư nói bài pháp đầu tiên trong pháp đường. / ' +
       'Với tư cách là sư của viện, La Sơn lên tòa ngồi nhưng chẳng nói gì trừ hai tiếng “Cáo biệt,” trước khi trở về phòng riêng. / ' +
@@ -67,7 +68,7 @@ const IronFlute = [
   {
     id: 3,
     title: 'TẮC THỨ 3: NAM TUYỀN PHẬT ĐÁ',
-    image: '/images/meta-image-square-1',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       'Cư sĩ Lục Cắng nói với hòa thượng Nam Tuyền, “Trong nhà con có một hòn đá hoặc ngồi hoặc nằm. Con có ý muốn chạm thành một vị Phật. / ' +
       'Con làm được chứ?” Nam Tuyền đáp: “Được, ông làm được.” Lục Cắng lại hỏi, “Con không làm được ư?” Nam Tuyền đáp: “Không, ông không làm được.”',
@@ -95,7 +96,7 @@ const IronFlute = [
   {
       id: 4,
       title: 'TẮC THỨ 4: BÁCH LINH CHỨNG ĐẮC',
-      image: '/images/iron-flute/iron-flute-cover.jpg',
+      image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
       main:
         'Bách Linh và Cư sĩ Bàng Uẩn cùng học Thiền dưới Đại sư Mã Tổ, người thừa kế Nam Nhạc. Một hôm giữa đường họ gặp nhau. / ' +
         'Bách Linh nói, “Sư ông của chúng ta nói, ‘Nếu nói một vật tức chẳng phải’. Tôi ngờ rằng sư ông không chỉ nó cho ai hết.” / ' +
@@ -134,7 +135,7 @@ const IronFlute = [
   {
       id: 5,
       title: 'TẮC THỨ 5: THIỀU SƠN MỘT CÂU',
-      image: '/images/iron-flute/iron-flute-cover.jpg',
+      image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
       main:
         'Một hôm có ông tăng hỏi Thiều Sơn, “Có câu nói nào không không đúng cũng không sai chăng?” / ' +
         'Thiều Sơn đáp, “Một mảng mây trắng chẳng khoe xấu xí.”',
@@ -156,7 +157,7 @@ const IronFlute = [
   {
       id: 6,
       title: 'TẮC THỨ 6: ĐẦU TỬ THỌ TRAI',
-      image: '/images/iron-flute/iron-flute-cover.jpg',
+      image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
       main:
         'Đầu Tử được một gia đình Phật tử ở kinh đô mời ăn trưa. Chủ nhà đặt một mâm đầy cỏ trước mặt sư. / ' +
         'Đầu Tử đặt hai nắm tay lên trán, giơ hai ngón tay cái lên làm cặp sừng. Rồi sư được người ta đem đến các món ăn thường lệ. / ' +
@@ -179,7 +180,7 @@ const IronFlute = [
   {
       id: 7,
       title: 'TẮC THỨ 7: VÂN MÔN TIỆC Ở MIẾU THẦN',
-      image: '/images/iron-flute/iron-flute-cover.jpg',
+      image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
       main:
         'Một hôm khi Vân Môn nói pháp với tăng chúng, sư hỏi, “Các ông có muốn làm quen với các Tổ, sư xưa không?” / ' +
         'Trước khi có người trả lời, sư cầm gậy chỉ tăng chúng nói, “Chư Tổ xưa đang nhảy trên đầu các ông đó.” / ' +
@@ -205,7 +206,7 @@ const IronFlute = [
   {
       id: 8,
       title: 'TẮC THỨ 8: VÂN CƯ CHỈ DẠY',
-      image: '/images/iron-flute/iron-flute-cover.jpg',
+      image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
       main:
         'Vân Cư là Thiền sư Trung Hoa thuộc phái Tào Động, có nhiều đệ tử. / ' +
         'Một ông tăng từ nước Tân La đến nói với sư, “Con đã thấy ra cái gì đó ở bên trong mà không thể nói được.” / ' +
@@ -229,7 +230,7 @@ const IronFlute = [
   {
       id: 9,
       title: 'TẮC THỨ 9: TỪ MINH ĐẠI Ý',
-      image: '/images/iron-flute/iron-flute-cover.jpg',
+      image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
       main:
         'Thúy Nham nghĩ mình đã đạt được Thiền, rời chùa của Từ Minh đi hành cước khắp cả Trung hoa lúc sư còn là một ông tăng trẻ. / ' +
         'Mấy năm sau, sư trở lại viếng chùa xưa. Thầy cũ của sư bảo, “Hãy nói tôi nghe đại ý Phật pháp.” Thúy Nham đáp,' +
@@ -255,7 +256,7 @@ const IronFlute = [
   {
       id: 10,
       title: 'TẮC THỨ 10: DƯỢC SƠN NẮM GIỮ',
-      image: '/images/iron-flute/iron-flute-cover.jpg',
+      image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
       main:
         'Quan tri phủ hỏi Dược Sơn: / ' +
         '“Tôi hiểu rằng tất cả Phật tử phải có Giới, Định và Tuệ. Thầy có giữ giới không? Thầy có tu định không? Thầy có đạt tuệ không?” / ' +
@@ -293,7 +294,7 @@ const IronFlute = [
   {
     id: 11,
     title: 'TẮC THỨ 11: TRIỆU CHÂU TRÙM ĐẦU',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       'Một ông tăng vào phòng của Triệu Châu để tham thiền và thấy sư đang ngồi đầu trùm trong y. / ' +
       'Ông tăng rút lui. Triệu Châu nói, “Huynh đệ, chớ nói là tôi không nhận huynh đệ tham thiền đấy nhé.” ',
@@ -320,7 +321,7 @@ const IronFlute = [
   {
     id: 12,
     title: 'TẮC THỨ 12: TAM THÁNH GẶP HỌC NHÂN',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       'Một hôm khi nói chuyện với tăng chúng, Tam Thánh nói, “Khi một học nhân đến, tôi ra ngoài gặp y mà không có mục đích giúp đỡ y.” ' +
       'Sư đệ của sư là Hưng Hóa, nghe được, liền nói, “Khi một học nhân đến, tôi thường không ra gặp y, nhưng nếu tôi ra thì chắc chắn tôi sẽ giúp y.”',
@@ -358,7 +359,7 @@ const IronFlute = [
   {
     id: 13,
     title: 'TẮC THỨ 13: TIỆM NGUYÊN RÈM GIẤY',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       'Tiệm Nguyên ngồi phiá sau một tấm rèm giấy. Một ông tăng đến tham thiền, vén rèm lên, chào sư, “Thật là lạ.” ' +
       'Sư đưa mắt nhìn ông tăng rồi nói, “Ông hiểu không?” ' +
@@ -402,7 +403,7 @@ const IronFlute = [
   {
     id: 14,
     title: 'TẮC THỨ 14: BẠCH VÂN TRẮNG VÀ ĐEN',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       ' Bạch Vân, một Thiền sư đời nhà Tống, đã viết bài thơ sau đây: / ' +
       ' Chỗ nào người khác ở / ' +
@@ -434,7 +435,7 @@ const IronFlute = [
   {
     id: 15,
     title: 'TẮC THỨ 15: ĐẠI TÙY TU BÊN TRONG',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       'Đại Tùy nói với tăng chúng, “Này các anh em, thà đào bên trong một tấc còn hơn là thuyết Pháp bên ngoài một thước. / ' +
       'Thà tu bên trong một phân còn hơn là giảng bên ngoài một tấc.” / ' +
@@ -461,7 +462,7 @@ const IronFlute = [
   {
     id: 16,
     title: 'TẮC THỨ 16: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -473,7 +474,7 @@ const IronFlute = [
   {
     id: 17,
     title: 'TẮC THỨ 17: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -485,7 +486,7 @@ const IronFlute = [
   {
     id: 18,
     title: 'TẮC THỨ 18: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -497,7 +498,7 @@ const IronFlute = [
   {
     id: 19,
     title: 'TẮC THỨ 19: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -509,7 +510,7 @@ const IronFlute = [
   {
     id: 20,
     title: 'TẮC THỨ 20: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -521,7 +522,7 @@ const IronFlute = [
   {
     id: 21,
     title: 'TẮC THỨ 21: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -533,7 +534,7 @@ const IronFlute = [
   {
     id: 22,
     title: 'TẮC THỨ 22: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -545,7 +546,7 @@ const IronFlute = [
   {
     id: 23,
     title: 'TẮC THỨ 23: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -557,7 +558,7 @@ const IronFlute = [
   {
     id: 24,
     title: 'TẮC THỨ 24: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -569,7 +570,7 @@ const IronFlute = [
   {
     id: 25,
     title: 'TẮC THỨ 25: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -581,7 +582,7 @@ const IronFlute = [
   {
     id: 26,
     title: 'TẮC THỨ 26: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -593,7 +594,7 @@ const IronFlute = [
   {
     id: 27,
     title: 'TẮC THỨ 27: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -605,7 +606,7 @@ const IronFlute = [
   {
     id: 28,
     title: 'TẮC THỨ 28: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -617,7 +618,7 @@ const IronFlute = [
   {
     id: 29,
     title: 'TẮC THỨ 29: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -629,7 +630,7 @@ const IronFlute = [
   {
     id: 30,
     title: 'TẮC THỨ 30: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -641,7 +642,7 @@ const IronFlute = [
   {
     id: 31,
     title: 'TẮC THỨ 31: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -653,7 +654,7 @@ const IronFlute = [
   {
     id: 32,
     title: 'TẮC THỨ 32: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -665,7 +666,7 @@ const IronFlute = [
   {
     id: 33,
     title: 'TẮC THỨ 33: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -677,7 +678,7 @@ const IronFlute = [
   {
     id: 34,
     title: 'TẮC THỨ 34: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -689,7 +690,7 @@ const IronFlute = [
   {
     id: 35,
     title: 'TẮC THỨ 35: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -701,7 +702,7 @@ const IronFlute = [
   {
     id: 36,
     title: 'TẮC THỨ 36: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -713,7 +714,7 @@ const IronFlute = [
   {
     id: 37,
     title: 'TẮC THỨ 37: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -725,7 +726,7 @@ const IronFlute = [
   {
     id: 38,
     title: 'TẮC THỨ 38: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -737,7 +738,7 @@ const IronFlute = [
   {
     id: 39,
     title: 'TẮC THỨ 39: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -749,7 +750,7 @@ const IronFlute = [
   {
     id: 40,
     title: 'TẮC THỨ 40: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -761,7 +762,7 @@ const IronFlute = [
   {
     id: 41,
     title: 'TẮC THỨ 41: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -773,7 +774,7 @@ const IronFlute = [
   {
     id: 42,
     title: 'TẮC THỨ 42: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -785,7 +786,7 @@ const IronFlute = [
   {
     id: 43,
     title: 'TẮC THỨ 43: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -797,7 +798,7 @@ const IronFlute = [
   {
     id: 44,
     title: 'TẮC THỨ 44: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -809,7 +810,7 @@ const IronFlute = [
   {
     id: 45,
     title: 'TẮC THỨ 45: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -821,7 +822,7 @@ const IronFlute = [
   {
     id: 46,
     title: 'TẮC THỨ 46: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -833,7 +834,7 @@ const IronFlute = [
   {
     id: 47,
     title: 'TẮC THỨ 47: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -845,7 +846,7 @@ const IronFlute = [
   {
     id: 48,
     title: 'TẮC THỨ 48: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -857,7 +858,7 @@ const IronFlute = [
   {
     id: 49,
     title: 'TẮC THỨ 49: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -869,7 +870,7 @@ const IronFlute = [
   {
     id: 50,
     title: 'TẮC THỨ 50: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -881,7 +882,7 @@ const IronFlute = [
   {
     id: 51,
     title: 'TẮC THỨ 51: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -893,7 +894,7 @@ const IronFlute = [
   {
     id: 52,
     title: 'TẮC THỨ 52: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -905,7 +906,7 @@ const IronFlute = [
   {
     id: 53,
     title: 'TẮC THỨ 53: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -917,7 +918,7 @@ const IronFlute = [
   {
     id: 54,
     title: 'TẮC THỨ 54: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -929,7 +930,7 @@ const IronFlute = [
   {
     id: 55,
     title: 'TẮC THỨ 55: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -941,7 +942,7 @@ const IronFlute = [
   {
     id: 56,
     title: 'TẮC THỨ 56: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -953,7 +954,7 @@ const IronFlute = [
   {
     id: 57,
     title: 'TẮC THỨ 57: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -965,7 +966,7 @@ const IronFlute = [
   {
     id: 58,
     title: 'TẮC THỨ 58: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -977,7 +978,7 @@ const IronFlute = [
   {
     id: 59,
     title: 'TẮC THỨ 59: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -989,7 +990,7 @@ const IronFlute = [
   {
     id: 60,
     title: 'TẮC THỨ 60: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1001,7 +1002,7 @@ const IronFlute = [
   {
     id: 61,
     title: 'TẮC THỨ 61: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1013,7 +1014,7 @@ const IronFlute = [
   {
     id: 62,
     title: 'TẮC THỨ 62: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1025,7 +1026,7 @@ const IronFlute = [
   {
     id: 63,
     title: 'TẮC THỨ 63: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1037,7 +1038,7 @@ const IronFlute = [
   {
     id: 64,
     title: 'TẮC THỨ 64: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1049,7 +1050,7 @@ const IronFlute = [
   {
     id: 65,
     title: 'TẮC THỨ 65: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1061,7 +1062,7 @@ const IronFlute = [
   {
     id: 66,
     title: 'TẮC THỨ 66: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1073,7 +1074,7 @@ const IronFlute = [
   {
     id: 67,
     title: 'TẮC THỨ 67: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1085,7 +1086,7 @@ const IronFlute = [
   {
     id: 68,
     title: 'TẮC THỨ 68: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1097,7 +1098,7 @@ const IronFlute = [
   {
     id: 69,
     title: 'TẮC THỨ 69: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1109,7 +1110,7 @@ const IronFlute = [
   {
     id: 70,
     title: 'TẮC THỨ 70: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1121,7 +1122,7 @@ const IronFlute = [
   {
     id: 71,
     title: 'TẮC THỨ 71: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1133,7 +1134,7 @@ const IronFlute = [
   {
     id: 72,
     title: 'TẮC THỨ 72: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1145,7 +1146,7 @@ const IronFlute = [
   {
     id: 73,
     title: 'TẮC THỨ 73: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1157,7 +1158,7 @@ const IronFlute = [
   {
     id: 74,
     title: 'TẮC THỨ 74: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1169,7 +1170,7 @@ const IronFlute = [
   {
     id: 75,
     title: 'TẮC THỨ 75: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1181,7 +1182,7 @@ const IronFlute = [
   {
     id: 76,
     title: 'TẮC THỨ 76: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1193,7 +1194,7 @@ const IronFlute = [
   {
     id: 77,
     title: 'TẮC THỨ 77: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1205,7 +1206,7 @@ const IronFlute = [
   {
     id: 78,
     title: 'TẮC THỨ 78: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1217,7 +1218,7 @@ const IronFlute = [
   {
     id: 79,
     title: 'TẮC THỨ 79: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1229,7 +1230,7 @@ const IronFlute = [
   {
     id: 80,
     title: 'TẮC THỨ 80: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1241,7 +1242,7 @@ const IronFlute = [
   {
     id: 81,
     title: 'TẮC THỨ 81: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1253,7 +1254,7 @@ const IronFlute = [
   {
     id: 82,
     title: 'TẮC THỨ 82: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1265,7 +1266,7 @@ const IronFlute = [
   {
     id: 83,
     title: 'TẮC THỨ 83: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1277,7 +1278,7 @@ const IronFlute = [
   {
     id: 84,
     title: 'TẮC THỨ 84: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1289,7 +1290,7 @@ const IronFlute = [
   {
     id: 85,
     title: 'TẮC THỨ 85: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1301,7 +1302,7 @@ const IronFlute = [
   {
     id: 86,
     title: 'TẮC THỨ 86: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1313,7 +1314,7 @@ const IronFlute = [
   {
     id: 87,
     title: 'TẮC THỨ 87: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1325,7 +1326,7 @@ const IronFlute = [
   {
     id: 88,
     title: 'TẮC THỨ 88: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1337,7 +1338,7 @@ const IronFlute = [
   {
     id: 89,
     title: 'TẮC THỨ 89: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1349,7 +1350,7 @@ const IronFlute = [
   {
     id: 90,
     title: 'TẮC THỨ 90: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1361,7 +1362,7 @@ const IronFlute = [
   {
     id: 91,
     title: 'TẮC THỨ 91: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1373,7 +1374,7 @@ const IronFlute = [
   {
     id: 92,
     title: 'TẮC THỨ 92: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1385,7 +1386,7 @@ const IronFlute = [
   {
     id: 93,
     title: 'TẮC THỨ 93: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1397,7 +1398,7 @@ const IronFlute = [
   {
     id: 94,
     title: 'TẮC THỨ 94: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1409,7 +1410,7 @@ const IronFlute = [
   {
     id: 95,
     title: 'TẮC THỨ 95: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1421,7 +1422,7 @@ const IronFlute = [
   {
     id: 96,
     title: 'TẮC THỨ 96: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1433,7 +1434,7 @@ const IronFlute = [
   {
     id: 97,
     title: 'TẮC THỨ 97: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1445,7 +1446,7 @@ const IronFlute = [
   {
     id: 98,
     title: 'TẮC THỨ 98: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1457,7 +1458,7 @@ const IronFlute = [
   {
     id: 99,
     title: 'TẮC THỨ 99: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:
@@ -1469,7 +1470,7 @@ const IronFlute = [
   {
     id: 100,
     title: 'TẮC THỨ 100: ',
-    image: '/images/iron-flute/iron-flute-cover.jpg',
+    image: 'https://terebess.hu/zen/Tetteki-tosui.jpg',
     main:
       '',
     commentBeforeVerse:

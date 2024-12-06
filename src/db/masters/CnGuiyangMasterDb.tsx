@@ -2,6 +2,7 @@ const CnGuiyangMasterDb = [
   {
     id: '37.4.4',
     hasContent: true,
+    eminent: true,
     name_en: 'Guishan Lingyou',
     name_es: 'Guishan Lingyou',
     name_de: 'Guishan Lingyou',
@@ -26,6 +27,7 @@ const CnGuiyangMasterDb = [
   },
   {
     id: '38.5.4',
+    eminent: true,
     name_en: 'Yangshan Huiji',
     name_es: 'Yangshan Huiji',
     name_de: 'Yangshan Huiji',

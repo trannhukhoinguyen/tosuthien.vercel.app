@@ -23,7 +23,6 @@ const CnLv12MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_K%C3%AC_Ph%C6%B0%C6%A1ng_H%E1%BB%99i',],
     youtubeId: [''],
-
   },
   {
     id: '45.12.2',
@@ -95,7 +94,7 @@ const CnLv12MasterDb = [
     successors: [''],
     disciples: ['Dahong Bao\'en', 'Furong Daokai'],
     image: '/images/avatar.png',
-    reference: ['https://pl.wikipedia.org/wiki/Cuiyan_Kezhen'],
+    reference: ['https://pl.wikipedia.org/wiki/Touzi_Yiqing'],
   },
 ]
 export default CnLv12MasterDb;

@@ -161,7 +161,7 @@ const CnLv13MasterDb = [
     successors: [''],
     disciples: ['Danxia Zichun', 'Huizhao Qingyu', 'Hongzhi Zhengjue', 'Lumen Zijue'],
     image: '/images/avatar.png',
-    reference: ['https://pl.wikipedia.org/wiki/Dagui_Muzhe',],
+    reference: ['https://pl.wikipedia.org/wiki/Furong_Daokai',],
   },
 ]
 export default CnLv13MasterDb;

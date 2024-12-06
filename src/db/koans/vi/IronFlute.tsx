@@ -1,8 +1,8 @@
 const IronFlute = [
   {
       id: 1,
-      bookTitle: 'Tiếng Sáo Thép',
-      author: 'Genro - Thiên Khi Như Huyễn',
+      bookTitle: 'Tiếng Sáo Thép (Thiết Địch Đảo Xuy)',
+      author: 'Genrō Ōryū, Fūgai Honkō, Thiên Khi Như Huyễn (Senzaki Nyogen)',
       title: 'TẮC THỨ 1: VĂN THÙ VÀO CỬA',
       hashTag: '/iron-flute-1',
       image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
