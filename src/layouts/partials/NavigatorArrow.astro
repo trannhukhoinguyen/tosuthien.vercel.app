@@ -3,18 +3,18 @@ const { direction } = Astro.props
 ---
 
   <style>
-      .left-arrow, .right-arrow {
+      .navigator-arrow {
         position: absolute;
         top: 25%;
         transform: translate(-50%, -50%);
       }
-      .left-arrow {
+      .left-navigator-arrow {
        left: 8px;
       }
-      .right-arrow {
-       right: 8px;
+      .right-navigator-arrow {
+       right: 0;
       }
-      div svg {
+      .navigator-arrow svg {
         width: 30px;
         height: auto;
         margin: 0 2rem;
@@ -22,17 +22,17 @@ const { direction } = Astro.props
         overflow: visible;
         fill: #a19f9f;
       }
-      div svg polygon, div svg path {
+      .navigator-arrow svg polygon, .navigator-arrow svg path {
         transition: all 0.5s cubic-bezier(0.2, 1, 0.3, 1);
       }
-      div svg:hover polygon, div svg:hover path {
+      .navigator-arrow svg:hover polygon, .navigator-arrow svg:hover path {
         transition: all 1s cubic-bezier(0.2, 1, 0.3, 1);
         fill: #FF4136;
       }
-      div svg:hover .arrow {
+      .navigator-arrow svg:hover .arrow {
         animation: arrow-anim 2.5s cubic-bezier(0.2, 1, 0.3, 1) infinite;
       }
-      div svg:hover .arrow-fixed {
+      .navigator-arrow svg:hover .arrow-fixed {
         animation: arrow-fixed-anim 2.5s cubic-bezier(0.2, 1, 0.3, 1) infinite;
       }
 
@@ -64,7 +64,7 @@ const { direction } = Astro.props
 
 {
 direction === 'left'
-? <div class="left-arrow" title="Go back" onClick="window.history.back()">
+? <div class="left-navigator-arrow navigator-arrow" title="Go back" onClick="window.history.back()">
         <svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
           <g id="prev" transform="translate(8.500000, 8.500000) scale(-1, 1) translate(-8.500000, -8.500000)">
             <polygon class="arrow" points="16.3746667 8.33860465 7.76133333 15.3067621 6.904 14.3175671 14.2906667 8.34246869 6.908 2.42790698 7.76 1.43613596"></polygon>
@@ -74,7 +74,7 @@ direction === 'left'
         </svg>
       </div>
 : direction === 'right'
-? <div class="right-arrow" title="Go forward" onClick="window.history.forward()">
+? <div class="right-navigator-arrow navigator-arrow" title="Go forward" onClick="window.history.forward()">
         <svg width="18px" height="17px" viewBox="-1 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
           <g>
             <polygon class="arrow" points="16.3746667 8.33860465 7.76133333 15.3067621 6.904 14.3175671 14.2906667 8.34246869 6.908 2.42790698 7.76 1.43613596"></polygon>
