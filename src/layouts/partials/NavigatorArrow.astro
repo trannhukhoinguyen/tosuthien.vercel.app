@@ -3,17 +3,16 @@ const { direction } = Astro.props
 ---
 
   <style>
-      .left-arrow {
+      .left-arrow, .right-arrow {
         position: absolute;
         top: 25%;
-        float: left;
         transform: translate(-50%, -50%);
       }
+      .left-arrow {
+       left: 24px;
+      }
       .right-arrow {
-        position: absolute;
-        top: 25%;
-        float: right;
-        transform: translate(-50%, -50%);
+       right: 24px;
       }
       div svg {
         width: 30px;
