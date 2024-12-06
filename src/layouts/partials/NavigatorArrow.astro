@@ -1,6 +1,67 @@
 ---
-
+const { direction } = Astro.props
 ---
+
+  <style>
+      .left-arrow {
+        position: absolute;
+        top: 25%;
+        left: calc(5%-24px);
+        transform: translate(-50%, -50%);
+      }
+      .right-arrow {
+        position: absolute;
+        top: 25%;
+        right: calc(5%-24px);
+        transform: translate(-50%, -50%);
+      }
+      div svg {
+        width: 30px;
+        height: auto;
+        margin: 0 2rem;
+        cursor: pointer;
+        overflow: visible;
+        fill: #a19f9f;
+      }
+      div svg polygon, div svg path {
+        transition: all 0.5s cubic-bezier(0.2, 1, 0.3, 1);
+      }
+      div svg:hover polygon, div svg:hover path {
+        transition: all 1s cubic-bezier(0.2, 1, 0.3, 1);
+        fill: #FF4136;
+      }
+      div svg:hover .arrow {
+        animation: arrow-anim 2.5s cubic-bezier(0.2, 1, 0.3, 1) infinite;
+      }
+      div svg:hover .arrow-fixed {
+        animation: arrow-fixed-anim 2.5s cubic-bezier(0.2, 1, 0.3, 1) infinite;
+      }
+
+      @keyframes arrow-anim {
+        0% {
+          opacity: 1;
+          transform: translateX(0);
+        }
+        5% {
+          transform: translateX(-0.1rem);
+        }
+        100% {
+          transform: translateX(1rem);
+          opacity: 0;
+        }
+      }
+      @keyframes arrow-fixed-anim {
+        5% {
+          opacity: 0;
+        }
+        20% {
+          opacity: 0.4;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
+    </style>
 
 {
 direction === 'left'
