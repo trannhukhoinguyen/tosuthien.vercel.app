@@ -82,7 +82,7 @@ const CnLv10MasterDb = [
     name_ar: 'Kaixian Shanxian',
     birth_death_time: ['', ''],
     records: '',
-    sect: ['-'],
+    sect: ['Yunmen'],
     country: 'China',
     place: '-',
     teachers: ['Deshan Huiyuan'],

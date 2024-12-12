@@ -40,8 +40,8 @@ import CnLv25MasterDb from "../../db/masters/CnLv25MasterDb.tsx";
 import CnLv26MasterDb from "../../db/masters/CnLv26MasterDb.tsx";
 import CnLv27MasterDb from "../../db/masters/CnLv27MasterDb.tsx";
 import CnLv28MasterDb from "../../db/masters/CnLv28MasterDb.tsx";
-import CnLv29MasterDb from "../../db/masters/CnLv29MasterDb.tsx";
-import CnLv30MasterDb from "../../db/masters/CnLv30MasterDb.tsx";
+import CnLv30MasterDb from "./CnLv30MasterDb.tsx";
+import CnLv31MasterDb from "./CnLv31MasterDb.tsx";
 import CnLv31MasterDb from "../../db/masters/CnLv31MasterDb.tsx";
 // import CnLv32MasterDb from "../../db/masters/CnLv32MasterDb.tsx";
 
@@ -79,8 +79,8 @@ export const CnMasters = [
   CnLv26MasterDb,
   CnLv27MasterDb,
   CnLv28MasterDb,
-  CnLv29MasterDb,
   CnLv30MasterDb,
+  CnLv31MasterDb,
   CnLv31MasterDb,
   // CnLv32MasterDb,
 ]

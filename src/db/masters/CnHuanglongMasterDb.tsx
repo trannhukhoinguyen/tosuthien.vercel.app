@@ -20,7 +20,7 @@ const CnHuanglongMasterDb = [
     place: '-',
     teachers: ['Shishuang Chuyuan'],
     successors: [''],
-    disciples: ['Yungai Shouzhi', 'Baofeng Kewen', 'Huitang Zuxin'],
+    disciples: ['Yungai Shouzhi', 'Baofeng Kewen', 'Huitang Zuxin', 'Donglin Changcong'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Long_Hu%E1%BB%87_Nam', ''],
   },

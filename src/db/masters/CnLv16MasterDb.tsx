@@ -21,7 +21,6 @@ const CnLv16MasterDb = [
     disciples: ['Yingan Tanhua'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '49.16.2',
@@ -45,7 +44,6 @@ const CnLv16MasterDb = [
     disciples: ['Wakuan Shitai', 'Xingshan Weiguan'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Huguo_Jingyuan',],
-
   },
   {
     id: '49.16.3',
@@ -70,7 +68,6 @@ const CnLv16MasterDb = [
     disciples: ['Fozhao Deguang'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '49.16.4',
@@ -94,7 +91,6 @@ const CnLv16MasterDb = [
     disciples: ['Tế Điên Đạo Tế', 'Duệ Sơn Giác A'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/H%E1%BA%A1t_%C4%90%C6%B0%E1%BB%9Dng_Hu%E1%BB%87_Vi%E1%BB%85n',],
-
   },
   {
     id: '49.16.5',
@@ -118,7 +114,29 @@ const CnLv16MasterDb = [
     disciples: ['Laoan Zudeng'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Yue%E2%80%99an_Shanguo',],
-
+  },
+  {
+    id: '49.16.6',
+    name_en: 'Lingyan Sengbao',
+    name_es: 'Lingyan Sengbao',
+    name_de: 'Lingyan Sengbao',
+    name_fr: 'Lingyan Sengbao',
+    name_vi: 'Đại Minh Tăng Bảo',
+    name_ru: 'Lingyan Sengbao',
+    name_zh: '靈巖僧寶',
+    name_ja: 'Lingyan Sengbao',
+    name_ko: 'Lingyan Sengbao',
+    name_ar: 'Lingyan Sengbao',
+    birth_death_time: ['1114', '1171'],
+    records: '',
+    sect: ['Caodong'],
+    country: 'China',
+    place: '-',
+    teachers: ['Puzhao Yibian'],
+    successors: ['Yushan Shiti'],
+    disciples: ['Yushan Shiti'],
+    image: '/images/avatar.png',
+    reference: ['',],
   },
 ]
 export default CnLv16MasterDb;

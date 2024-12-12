@@ -23,5 +23,29 @@ const CnLv18MasterDb = [
     reference: ['https://vi.wikipedia.org/wiki/M%E1%BA%ADt_Am_H%C3%A0m_Ki%E1%BB%87t',],
 
   },
+  {
+    id: '51.18.2',
+    name_en: 'Xueyan Huiman',
+    name_es: 'Xueyan Huiman',
+    name_de: 'Xueyan Huiman',
+    name_fr: 'Xueyan Huiman',
+    name_vi: 'Tuyết Nham Như Mãn',
+    name_ru: 'Xueyan Huiman',
+    name_zh: '雪巖慧滿',
+    name_ja: 'Xueyan Huiman',
+    name_ko: 'Xueyan Huiman',
+    name_ar: 'Xueyan Huiman',
+    birth_death_time: ['-', '1206'],
+    records: '',
+    sect: ['Caodong'],
+    country: 'China',
+    place: '-',
+    teachers: ['Yushan Shiti'],
+    successors: ['Wansong Xingxiu'],
+    disciples: ['Wansong Xingxiu'],
+    image: '/images/avatar.png',
+    reference: ['',],
+
+  },
 ]
 export default CnLv18MasterDb;
