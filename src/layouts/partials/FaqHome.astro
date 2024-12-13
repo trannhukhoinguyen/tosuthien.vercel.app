@@ -5,7 +5,7 @@ const { faqHomes } = Astro.props;
 ---
 
 {
-  faqHomes.data.enable && (
+  faqHomes?.data?.enable && (
     <section class="section">
       <div class="container">
         <div class="row">
@@ -16,7 +16,7 @@ const { faqHomes } = Astro.props;
           <div class="col-12">
             <div class="swiper huatou-slider">
               <div class="swiper-wrapper">
-                {faqHomes.data.huatous.map(
+                {faqHomes.data.faqHomes.map(
                   (item: {
                     avatar: string;
                     content: string;

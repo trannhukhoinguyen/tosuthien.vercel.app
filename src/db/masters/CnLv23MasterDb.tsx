@@ -19,7 +19,7 @@ const CnLv23MasterDb = [
     place: '-',
     teachers: ['Gaofeng Yuanmiao'],
     successors: ['-'],
-    disciples: ['Thiên Như Duy Tắc-Tenjo Isoku', 'Cổ Tiên Ấn Nguyên', 'Thiên Nham Nguyên Trường-Sengan Genchō', 'Cô Phong Giác Minh-Kohō Kakumyō'],
+    disciples: ['Tianru Weize', 'Qianyan Yuanchang', 'Kohō Kakumyō'],
     image: 'https://terebess.hu/zen/mesterek/Zhongfeng_Mingben.jpg',
     reference: ['http://www.thuongchieu.net/index.php/phapthoai/suphu/4194-tstrungphongban', 'https://vi.wikipedia.org/wiki/Trung_Phong_Minh_B%E1%BA%A3n'],
     collections: ['https://tangthuphathoc.net/thien-muc-minh-bon-thien-su-tap-luc-quyen-0001/', 'https://tangthuphathoc.net/thien-muc-minh-bon-thien-su-tap-luc-quyen-0002/', 'https://tangthuphathoc.net/thien-muc-minh-bon-thien-su-tap-luc-quyen-0003/'],

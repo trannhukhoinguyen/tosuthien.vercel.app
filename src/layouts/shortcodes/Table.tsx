@@ -135,14 +135,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
           currentData.map((item) => (
             <tr key={ item.id }>
               <td>
-                <a
-                  target="_blank"
-                  href={ `/masters` }
-                  title={"see lineage chart of " + item.name_en}
-                  className="text-blue-700"
-                >
-                  { item.id }📈
-                </a>
+                { item.id }
               </td>
               {
                 item.hasContent
@@ -156,7 +149,9 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
                       { item.name_en }
                     </a>
                   </td>
-                : item.name_en
+                : <td>
+                    { item.name_en }
+                  </td>
             }
             { lang === 'es' && <td>{ item.name_es }</td> }
             { lang === 'de' && <td>{ item.name_de }</td> }
@@ -174,7 +169,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
                 <span className="mr-1">{ item.birth_death_time[1] }</span>
               </div>
             </td>
-            <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">{ item.sect }</td>
+            <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">{ item.sect.join(', ') }</td>
             <td>{ item.country }</td>
             <td>{ item.place }</td>
             <td>{ item.teachers.join(', ') }</td>

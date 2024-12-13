@@ -9,15 +9,15 @@ faqHomes:
   - name: ""
     designation: ""
     avatar: ""
-    content: ""
+    content: "Tổ Sư Thiền là gì?"
 
   - name: ""
     designation: ""
     avatar: ""
-    content: ""
+    content: "Tổ Sư Thiền là gì?"
 
   - name: ""
     designation: ""
     avatar: ""
-    content: ""
+    content: "Tổ Sư Thiền là gì?"
 ---

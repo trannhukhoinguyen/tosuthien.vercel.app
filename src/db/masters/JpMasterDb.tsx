@@ -89,7 +89,7 @@ const JpMasterDb = [
     successors: ['-'],
     disciples: [],
     image: '/',
-    reference: ['https://vi.wikipedia.org/wiki/C%C3%B4_Phong_Gi%C3%A1c_Minh'],
+    reference: ['https://vi.wikipedia.org/wiki/C%C3%B4_Phong_Gi%C3%A1c_Minh', 'https://ja.wikipedia.org/wiki/%E5%AD%A4%E5%B3%B0%E8%A6%9A%E6%98%8E'],
   },
 ]
 export default JpMasterDb;

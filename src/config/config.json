@@ -1,10 +1,11 @@
 {
   "site": {
-    "title": "Tham Tổ Sư Thiền - Patriarchal Zen",
-    "meta_title": "Tham Tổ Sư Thiền - Patriarchal Zen",
+    "title": "Tổ Sư Thiền - Patriarchal Zen",
+    "meta_title": "Tổ Sư Thiền - Patriarchal Zen",
     "meta_image": "/images/monocolor-unknown-zen-master.jpg",
-    "meta_description": "Tham Tổ Sư Thiền - Patriarchal Zen - Blogs, Koans, Conversations, Teachings, Masters, Cautions, FAQs, Books, PDF, MP3, Youtube",
+    "meta_description": "Tham Tổ Sư Thiền - Patriarchal Zen - Blogs, Koans, Conversations, Speeches, Teachings, Masters, Alerts, FAQs, Books, PDF, MP3, Youtube",
     "base_url": "https://patriarchalzen.quest",
+    "vi_url": "https://tosuthien.quest",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -43,8 +44,8 @@
   },
 
   "metadata": {
-    "meta_author": "Tham Tổ Sư Thiền - Patriarchal Zen Masters",
+    "meta_author": "Tổ Sư Thiền - Patriarchal Zen",
     "meta_image": "/images/sit-on-the-mountain-peak.jpg",
-    "meta_description": "Tham Tổ Sư Thiền - Patriarchal Zen - Blogs, Koans, Teachings, Masters, Cautions, FAQs, Books, PDF, MP3, Youtube"
+    "meta_description": "Tổ Sư Thiền - Patriarchal Zen - Blogs, Koans, Teachings, Speeches, Masters, Alerts, FAQs, Books, PDF, MP3, Youtube"
   }
 }
