@@ -17,16 +17,25 @@ let lang = getLangFromUrl(Astro.url);
 const menu = await getTranslations(lang as keyof ContentEntryMap);
 
 const { navigation_button, settings } = config;
-const { default_language } = config.settings;
+const { default_language} = config.settings;
+const { base_url, vi_url } = config.site;
 const { pathname } = Astro.url;
 const { get_started } = await getTranslations(lang as keyof ContentEntryMap);
-
 const disabledLanguages = config.settings.disable_languages as string[];
 if (disabledLanguages.includes(lang)) {
   lang = default_language;
 }
 ---
 
+<script>
+  if (typeof window !== 'undefined') {
+    if (lang === 'vi') {
+      window.location.href = vi_url
+    } else {
+      window.location.href = base_url
+    }
+  }
+</script>
 <header class={`header z-30 ${settings.sticky_header && "sticky top-0"}`}>
   <NavigatorArrow direction="left" />
   <NavigatorArrow direction="right" />

@@ -3,7 +3,7 @@ const faqsDb = [
     id: 1,
     ask: '1. Tổ Sư Thiền là gì?',
     reply:
-      'Tổ-sư-thiền là pháp Thiền-trực-tiếp do phật Thích-ca đích thân truyền cho sơ Tổ Ma-ha-ca-diếp, rồi truyền cho nhị Tổ A-nan, tam Tổ Thương-na-hòa-tu, từ Tổ từ Tổ truyền xuống, đến Tổ thứ 28 là Bồ-đề-đạt-ma truyền sang Trung quốc làm sơ Tổ Trung-quốc rồi truyền cho người Trung quốc là nhị Tổ Huệ Khả, tam Tổ Tăng Xán, tứ Tổ Đạo Tín, ngũ Tổ Hoằng Nhẫn, lục Tổ Huệ Năng... Đến Thầy Thích Duy Lực là đời thứ 88 (kể từ Tổ Ca-diếp).',
+      'Tổsưthiền là pháp Thiềntrựctiếp do phật Thíchca đích thân truyền cho sơ Tổ Mahacadiếp, rồi truyền cho nhị Tổ Anan, tam Tổ Thươngnahòatu, từ Tổ từ Tổ truyền xuống, đến Tổ thứ 28 là Bồđềđạtma truyền sang Trung quốc làm sơ Tổ Trungquốc rồi truyền cho người Trung quốc là nhị Tổ Huệ Khả, tam Tổ Tăng Xán, tứ Tổ Đạo Tín, ngũ Tổ Hoằng Nhẫn, lục Tổ Huệ Năng... Đến Thầy Thích Duy Lực là đời thứ 88 (kể từ Tổ Cadiếp).',
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const faqsDb = [
       '📌 Từ đó, ông lấy tâm đi nghiên cứu tìm hiểu, cuối cùng ngộ được: Lực hấp dẫn vạn vật. Đó là hồ nghi. / ' +
       '📌 Hồ nghi chỉ có thể phát minh được đồ dùng của thế gian, chỉ có giá trị đối với thế gian vì không ngộ được chính mình nên không làm chủ mình được, ' +
       'không đạt đến tự do tự tại được. / ' +
-      '✅ 3- CHẲNG CHO KHỞI BIỆT NIỆM / ' +
+      '✅ 3 – CHẲNG CHO KHỞI BIỆT NIỆM / ' +
       '📌 Ngoài nghi tình ra không cho khởi niệm khác, không cho đè nén vọng tưởng, không cho buông bỏ vọng tưởng, ' +
       'cũng không cho trừ vọng tưởng, vọng tưởng khởi lên bao nhiêu cũng mặc kệ không cần biết tới có vọng tưởng hay không có vọng tưởng, ' +
       'vì nghi tình chính là cây chổi automatic, không cần sự tác ý, tự nó quét sạch tất cả. ' +
@@ -37,7 +37,7 @@ const faqsDb = [
       '📌 Phải mau mau đứng dậy kiếm công việc làm nhưng vẫn phải tiếp tục tham cứu. ' +
       '📌 Nếu tham tới cảm thấy thần kinh căng thẳng quá chịu không nổi thì câu thoại đầu phải đề chậm lại từng chữ một, chậm thật chậm, ' +
       'mỗi chữ kéo dài độ 10 giây như vậy sự căng thẳng thần kinh sẽ dần dần được giải tỏa. / ' +
-      '✅ 5- CHẲNG PHÂN BIỆT TƯ CÁCH / ' +
+      '✅ 5 – CHẲNG PHÂN BIỆT TƯ CÁCH / ' +
       '📌 Tham Tổ Sư Thiền không kể sơ tham, lão tham, thông minh, dốt nát, ngu si, người già hay trẻ con. / ' +
       '📌 Trong Kinh Pháp Hoa: Long Nữ 8 tuổi được thành Phật. Truyền Đăng Lục (lịch sử thiền tông Trung Hoa) có một cô họ Trịnh 13 tuổi kiến tánh, một cô họ Tô 15 tuổi được kiến tánh và nhiều Tổ ngu si dốt nát cũng Tham thiền được kiến tánh.  / ' +
       '📌 Người Tham thiền chỉ cần thống thiết vì việc sanh tử, dũng mãnh tham cứu thì bất cứ người nào cũng có thể kiến tánh thành Phật, ' +
