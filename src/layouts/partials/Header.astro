@@ -11,6 +11,7 @@ import {
 } from "@/lib/utils/languageParser";
 import type { ContentEntryMap } from "astro:content";
 import { IoSearch } from "react-icons/io5";
+import NavigatorArrow from "./NavigatorArrow.astro";
 
 let lang = getLangFromUrl(Astro.url);
 const menu = await getTranslations(lang as keyof ContentEntryMap);
@@ -27,6 +28,8 @@ if (disabledLanguages.includes(lang)) {
 ---
 
 <header class={`header z-30 ${settings.sticky_header && "sticky top-0"}`}>
+  <NavigatorArrow direction="left" />
+  <NavigatorArrow direction="right" />
   <nav class="navbar container">
     {/* logo */}
     <div class="order-0">

@@ -32,7 +32,7 @@ const LanguageSwitcher = ({
         onChange={(e) => {
           const selectedLang = e.target.value;
           let newPath;
-          const baseUrl = window.location.origin;
+          const baseUrl = "https://patriarchalzen.quest";
           const defaultUrl = "https://tosuthien.quest";
 
           if (selectedLang === default_language) {
@@ -43,7 +43,8 @@ const LanguageSwitcher = ({
             }
           } else {
             console.log('selectedLang', selectedLang)
-            newPath = `/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+            // newPath = `/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+            newPath = `${baseUrl}/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
           }
 
           window.location.href = newPath;

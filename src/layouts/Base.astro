@@ -182,9 +182,6 @@ const language = lang || getLangFromUrl(Astro.url);
     <Header />
     <SearchModal lang={language} client:load />
     <main id="main-content">
-<NavigatorArrow direction="left" />
-<NavigatorArrow direction="right" />
-      
       <slot />
     </main>
   </body>
