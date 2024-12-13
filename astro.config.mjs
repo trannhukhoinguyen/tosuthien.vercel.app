@@ -24,7 +24,6 @@ window.addEventListener('popstate', () => {
 });
 
 export default defineConfig({
-  middleware: './middleware.js',
   site: config.site.base_url ? config.site.base_url : "https://tosuthien.quest",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "ignore",
