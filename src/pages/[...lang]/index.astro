@@ -32,6 +32,20 @@ const {
   after_cremated_nature,
   after_death
 } = await getTranslations(lang as keyof ContentEntryMap);
+
+// Xử lý ngôn ngữ dựa trên host
+export async function get({ request }) {
+  const host = request.headers.get('host'); // Lấy domain
+  let lang = 'en'; // Ngôn ngữ mặc định
+
+  if (host === 'https://tosuthien.quest') {
+    lang = 'vi'; // Nếu domain là example2.com, sử dụng tiếng Việt
+  }
+
+  return {
+    body: JSON.stringify({ lang }),
+  };
+}
 ---
 
 <Base
