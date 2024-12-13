@@ -35,11 +35,7 @@ const LanguageSwitcher = ({
           const baseUrl = "https://patriarchalzen.quest";
           const defaultUrl = "https://tosuthien.quest";
 
-          if (window.location.origin === baseUrl && selectedLang !== 'vi') {
-            //
-          } else if (window.location.origin === defaultUrl && selectedLang === 'vi')  {
-            //
-          } else {
+          if (window.location.origin === baseUrl && selectedLang === 'vi' || window.location.origin === defaultUrl && selectedLang !== 'vi') {
             if (selectedLang === default_language) {
               if (default_language_in_subdir) {
                 newPath = `${defaultUrl}/${default_language}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
