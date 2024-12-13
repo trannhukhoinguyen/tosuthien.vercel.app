@@ -3,7 +3,9 @@ const faqsDb = [
     id: 1,
     ask: '1. Tổ Sư Thiền là gì?',
     reply:
-      'Tổsưthiền là pháp Thiềntrựctiếp do phật Thíchca đích thân truyền cho sơ Tổ Mahacadiếp, rồi truyền cho nhị Tổ Anan, tam Tổ Thươngnahòatu, từ Tổ từ Tổ truyền xuống, đến Tổ thứ 28 là Bồđềđạtma truyền sang Trung quốc làm sơ Tổ Trungquốc rồi truyền cho người Trung quốc là nhị Tổ Huệ Khả, tam Tổ Tăng Xán, tứ Tổ Đạo Tín, ngũ Tổ Hoằng Nhẫn, lục Tổ Huệ Năng... Đến Thầy Thích Duy Lực là đời thứ 88 (kể từ Tổ Cadiếp).',
+      'Tổ sư thiền là pháp Thiền trực tiếp do phật Thích Ca đích thân truyền cho sơ Tổ Ma Ha Ca Diếp, rồi truyền cho nhị Tổ Anan, tam Tổ Thương nahòatu, ' +
+      'từ Tổ từ Tổ truyền xuống, đến Tổ thứ 28 là Bồđềđạtma truyền sang Trung quốc làm sơ Tổ Trungquốc rồi truyền cho người Trung quốc là nhị Tổ Huệ Khả, tam Tổ Tăng Xán, ' +
+      'tứ Tổ Đạo Tín, ngũ Tổ Hoằng Nhẫn, lục Tổ Huệ Năng... Đến Thầy Thích Duy Lực là đời thứ 88 (kể từ Tổ Ca Diếp).',
   },
   {
     id: 2,
