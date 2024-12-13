@@ -18,8 +18,13 @@ const disabledLanguages = config.settings.disable_languages;
 const filteredSupportedLang = supportedLang.filter(
   (lang) => !disabledLanguages.includes(lang),
 );
+// Listen for URL changes
+window.addEventListener('popstate', () => {
+  console.log('URL changed:', window.location.href);
+});
 
 export default defineConfig({
+  middleware: './middleware.js',
   site: config.site.base_url ? config.site.base_url : "https://tosuthien.quest",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "ignore",
