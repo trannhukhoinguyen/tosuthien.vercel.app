@@ -35,22 +35,18 @@ const LanguageSwitcher = ({
           const baseUrl = "https://patriarchalzen.quest";
           const defaultUrl = "https://tosuthien.quest";
 
-          if (window.location.origin === baseUrl && selectedLang != 'vi') {
-            console.log('window.location.origin', window.location.origin)
-          } else if (window.location.origin === defaultUrl && selectedLang === 'vi') {
-            console.log('window.location.origin', window.location.origin)
-          } else {
-            if (selectedLang === default_language) {
-              if (default_language_in_subdir) {
-                newPath = `${defaultUrl}/${default_language}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
-              } else {
-                newPath = `${defaultUrl}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
-              }
+          if (selectedLang === default_language) {
+            if (default_language_in_subdir) {
+              newPath = `${defaultUrl}/${default_language}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
             } else {
-              newPath = `${baseUrl}/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+              newPath = `${defaultUrl}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
             }
-            window.location.href = newPath;
+          } else {
+            // newPath = `/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+            newPath = `${baseUrl}/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
           }
+
+          window.location.href = newPath;
         }}
         value={lang}
       >
