@@ -20,8 +20,7 @@ const filteredSupportedLang = supportedLang.filter(
 );
 
 export default defineConfig({
-  output: 'server',
-  site: config.site.base_url ? config.site.base_url : config.site.vi_url,
+  site: config.site.base_url ? config.site.base_url : "https://patriarchalzen.quest",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "ignore",
   i18n: {

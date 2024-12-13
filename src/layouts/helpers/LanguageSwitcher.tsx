@@ -33,14 +33,16 @@ const LanguageSwitcher = ({
           const selectedLang = e.target.value;
           let newPath;
           const baseUrl = window.location.origin;
+          const defaultUrl = "https://tosuthien.quest";
 
           if (selectedLang === default_language) {
             if (default_language_in_subdir) {
-              newPath = `${baseUrl}/${default_language}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+              newPath = `${defaultUrl}/${default_language}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
             } else {
-              newPath = `${baseUrl}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+              newPath = `${defaultUrl}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
             }
           } else {
+            console.log('selectedLang', selectedLang)
             newPath = `/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
           }
 
