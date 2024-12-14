@@ -206,7 +206,7 @@ const CnLv0MasterDb = [
     disciples: ['Niutou Chigan', 'Kim Lăng Đàm Thôi', 'Kinh châu Đại Tố', 'U thê Nguyệt Không', 'Bạch mã Đạo Diễn',
       'Tân an Định Trang', 'Bành thành Trí Sai', 'Quảng châu Đạo Thọ', 'Hồ châu Trí Sảng', 'Tân châu Đổ Mặc',
       'Thượng nguyên Trí Thành'],
-    image: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkU91_ZqrRFlSID55wIXjbUlrgozQfeOM1bN6NR53fUSMNWrwJ',
+    image: 'https://i.pinimg.com/736x/59/ef/78/59ef78ca5fa903bb4b843c2b40db4970.jpgg',
     reference: [''],
   },
   {
