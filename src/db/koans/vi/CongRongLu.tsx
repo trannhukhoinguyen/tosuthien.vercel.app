@@ -545,7 +545,6 @@ const CongRongLu = [
       'Thiều Tông gọi đó là pháp vàng phân, không hiểu như vàng, khám phá như phân. / ' +
       'Cho nên nói: Muốn nói người trước không cần đến tiền, chỉ cần ông xa lìa tình lượng được mất thắng bại, tự nhiên như bà già này, thì thấy Triệu Châu như đến cửa của Vạn Tùng, không được đội tấm ván trên đầu',
   },
-
   {
     id: 11,
     title: 'TẮC THỨ 11: HAI CĂN BỆNH CỦA VÂN MÔN',
@@ -606,7 +605,6 @@ const CongRongLu = [
       'Đại ý của Vân Môn, thỏng tay vào chợ không tránh phong ba, có thể nói bệnh của mình đã tiêu trừ, lại thương xót cái tật của người khác, trong sạch gọi là tâm có biết chăng? / ' +
       'Người bệnh tật phần nhiều rành thuốc men, được kiểm hiệu mới dám truyền.',
   },
-
   {
     id: 12,
     title: 'TẮC THỨ 12: ĐỊA TẠNG CÀY CẤY',
@@ -688,7 +686,6 @@ const CongRongLu = [
       'Đây chính là vượn hạc cùng hạc có chim cùng dạo. / ' +
       'Hãy nói là người nào kẻ gánh vác bản sắc.',
   },
-
   {
     id: 13,
     title: 'TẮC THỨ 13: CON LỪA MÙ CỦA LÂM TẾ',
@@ -736,7 +733,6 @@ const CongRongLu = [
       'Lễ bái Tam Thánh. / ' +
       'Lâm Tế nói kệ: Phần nhiều có chỗ phóng qua buông bỏ Còn có cùng người xưa thở ra chăng?',
   },
-
   {
     id: 14,
     title: 'TẮC THỨ 14: THỊ GIẢ KHUẾCH RÓT TRÀ',
@@ -783,7 +779,6 @@ const CongRongLu = [
       'Bổng có người hỏi Vạn Tùng đi đâu? Chỉ vào gò má nói. Ở đây. Ắt phải là dạy rồng bay rùa rút cổ lại. / ' +
       'Thị Giả Đức Sơn mất hết sự nhạy bén. Lại biết lão già Đức sơn chẳng lúc còn trẻ từng quyết chiến với rồng và rắn, ngược lại còn nghe bài ca của trẻ con',
   },
-
   {
     id: 15,
     title: 'TẮC THỨ 15: NGƯỠNG SƠN CẮM CÁI XẺNG',
@@ -845,7 +840,6 @@ const CongRongLu = [
       'Hãy nói: Nhớ sức người nào? Hỏi ù ù cạc các, trái lại sinh nghi hoặc, thương thay người xưa nay, mấy ai biết ân đức, biết có đời sao như thế? / ' +
       'Chặt tay không biết đau, đứng tuyết không biết mệt, cho nên lão Vạn Tùng lui tới viện Báo An',
   },
-
   {
     id: 16,
     title: 'TẮC THỨ 16: TÍCH CHẤN MA CỐC',
@@ -957,7 +951,6 @@ const CongRongLu = [
       'Tăng hỏi: Vừa mới đến vì sao nói chấp nhận ở trong càn khôn? / ' +
       'Phong nói: Nếu không như thế, trước đầu lâu thấy ma vô số. Vạn Tùng ở đây có sự cầm chóng gậy 1 cái nói mau mau như luật lệnh.',
   },
-
   {
     id: 17,
     title: 'TẮC THỨ 17: HÀO LY PHÁP NHÃN',
@@ -1028,7 +1021,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 18,
     title: 'TẮC THỨ 18: CON CHÓ CỦA TRIỆU CHÂU',
@@ -1107,7 +1099,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 19,
     title: 'TẮC THỨ 19: NÚI TU DI CỦA VÂN MÔN',
@@ -1173,7 +1164,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 20,
     title: 'TẮC THỨ 20: THÂN THIẾT CỦA ĐỊA TẠNG',
@@ -1229,7 +1219,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 21,
     title: 'TẮC THỨ 21: VÂN NHAM QUÉT NHÀ',
@@ -1289,7 +1278,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 22,
     title: 'TẮC THỨ 22: YẾT KIẾN NHAM ĐẦU',
@@ -1339,7 +1327,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 23,
     title: 'TẮC THỨ 23: LỖ TỔ XOAY MẶT VÀO VÁCH',
@@ -1404,7 +1391,6 @@ const CongRongLu = [
     'Vạn Tùng hỏi: Không thể lãnh hội xoay mặt vào vách, bọn ông lại tìm tiết văn gì? / ' + 
     'Tự đáp thay: Nghe nói bài Tụng Cổ của Thiên Đồng.',
   },
-
   {
     id: 24,
     title: 'TẮC THỨ 24: XEM RẮN CỦA TUYẾT PHONG',
@@ -1454,7 +1440,6 @@ const CongRongLu = [
     'Vạn Tùng nói: Tuyết Đậu ham nhìn dưới chân không biết xuyên qua đầu lâu. Thiên Đồng lanh miệng làm tổn thương người, người sáng suốt không làm việc mờ ám. / ' +  
     'Ta lúc ấy nếu là Vân Môn, lấy gậy ném vào người Tuyết Phong định không đến. Sau đó dạy y tự làm tự chịu, dần dân quen lần tại sao như vậy? Ngày 2 tháng 2 sáng nay, tạm bỏ rồng bắt đầu.',
   },
-
   {
     id: 25,
     title: 'TẮC THỨ 25: CÁI QUẠT SẮC BÉN CỦA GIÁM QUAN',
@@ -1507,26 +1492,51 @@ const CongRongLu = [
     'Vua A Xà Thế phiền não Thanh Lương, cho nên nói: Chỉ có cây quế sừng sừng ngàn năm, khéo thông suốt mùa Thu một chút, có thể nói cán lớn ở trong tay, gió mát thường đến mình, nói cái quạt tê giác, nêu ra nhiều bài tụng nhất lại có nguyên do không từng gặp nhau với Giám Quan. / ' + 
     'Vạn Tùng nếu làm thị giả, nghe Sư nói đưa cái quạt tê giác cho ta, có nhiều thứ như lông vũ, giấy cói, thẻ tre, lụa phỏng, lụa sống, cây cọ, bò rừng, thuận tay lấy cho một cái cán, người nào dù có ngàn thứ khéo léo, cuối cùng phong cách khác nhau.',
   },
-
   {
     id: 26,
-    title: 'TẮC THỨ 26: ',
+    title: 'TẮC THỨ 26: NGƯỠNG SƠN CHỈ TUYẾT',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      '',
+      'Dạy đại chúng rằng: Sương và tuyết một màu, trăng hòa nhau, đông cứng quyết pháp thân, làm tổn hại ngư phũ, còn chịu thưởng, ngoạn không?',
     main:
-      '',
+      'Ngưỡng Sơn chỉ Tuyết Sư Tử hỏi: Còn có thứ nào trội hơn màu này không?  / ' + 
+      'Vân Môn đáp: Lúc ấy liền cho một đạp té nhào.  / ' +   / ' + 
+      'Tuyết Đậu nói: Chỉ biết đạp nhào mà không biết đỡ dậy.',
     commentBeforeVerse:
-      '',
+      'Sư nói: Người xưa đối cơ gặp vật, phát minh một đoạn vật lớn trước kiếp không  / ' + 
+      'Kinh Pháp Hoa nói: Thuần một tướng có xen tạp đầy đủ tướng phạm hạnh thanh bạch.  / ' +  
+      'Có thuyết cho rằng: Màu trắng là nguồn gốc của các màu, nhất thừa là nguồn gốc của các thừa, mà không nói màu trắng hướng thượng càng có sự nghiệp, cho nên Ngưỡng Sơn chỉ Tuyết Sư Tử bảo đại chúng: Còn có thứ nào trội hơn thứ này không?
+      'Lại màu trắng là gốc của các màu sắc, màu của tuyết rất trắng, như vậy còn có màu nào trội hơn nó được.  / ' + 
+      'Vạn Tùng nói: Đã gọi là sắc, nhất định đối với nhãn căn, màu trội hơn màu trắng, chỉ có thứ vô sắc không đối đãi với nhãn căn.  / ' +  
+      'Cho nên Tuyết Phong nói: Lúc đó cho một đạp lộn nhào, như hướng đến chổ rất trắng hay không trắng bằng lòng, chính là rơi vào trong cõi vô sắc.  / ' +  
+      'Cho nên Tuyết Đậu chỉ đưa ra một con đường sống, hướng đến chổ đạp té nhào, lại bảo đỡ dậy. Phật Nhãn nói: Nếu ở đây mà đỡ dậy thì sinh ra lắm việc.  / ' + 
+      'Vạn Tùng nói: Nếu là phái khác Tông khác, không nói không được, cần phải biết Tông phong của Động Sơn, chính là lúc té nhào liền đứng dậy, chính lúc đứng dậy là lúc té nhào, sau đó đứng dậy té nhào cùng một lúc, đứng dậy té nhào không lập, lại mua giày cỏ, 30 năm hành cước không thấy.  / ' + 
+      'Phật Giác tụng rằng: “Màu sắc không gì bằng dạy người, rỏ ràng trong thế giới bạch Kim, tự nhiên đạp nhào rồi đỡ dậy, đâu như gió đông rọi ngày mới”.  / ' + 
+      'Vạn Tùng nói: Sau khi mặt trời mọc một phen thẹn hổ giống như học nhân, thấy Vân Môn đạp nhào, Tuyết Đậu đỡ dậy, mới làm cho cơ phong chuyển đổi, đại dụng không thể hiểu, nhìn đến bên một màu sắc không được lãnh hội bên màu sắc, cho là mạch máu của Tông chỉ, đã có Phật Giác là chứng, như có người không tin thì hỏi Thiên Đồng',
     verseOriginal: '',
     verse:
-      ' ',
+      'Tuyết Đình Sư Tử vừa té vừa dậy,  / ' + 
+      'thận trọng khởi lòng nhân đối với mọi người,  / ' + 
+      'dõng mãnh thấy nghĩa ở nơi hành vị,  / ' + 
+      'ánh sáng soi mặt tợ nhà mê,  / ' + 
+      'rỏ ràng chuyển thân còn theo vị,  / ' +  
+      'nhà Nạp Tăng không gửi,  / ' +  
+      'cùng sống cùng chết cho sao đành?  / ' +  
+      'Tin nắng hại mai hề Xuân đến cành lạnh  / ' +  
+      'gió rét rời hề nước Thu lạnh giá.',
     verseExtraOriginal: '',
     verseExtra: '',
     commentAfterVerse:
-      '',
+      'Sư nói: Vân Môn vừa té nhào, Tuyết Đậu vừa đứng lên.
+      'Ngưỡng Sơn chỉ Sư Tử, muốn qua màu sắc này, đỉnh 3 chân không thể thiếu một, Tam huyền tam yếu ở nơi đây. / ' + 
+      'Ngưỡng Sơn sợ người trong sáng suốt há không dè chừng phạm tội là ấp ủ nhân đức, chỉ như người bảo qua màu sắc há chẳng dũng mãnh là để thấy nghĩa. / ' +  
+      'Cô Ngữ nói: Thấy việc nghĩa không làm là không dõng mãnh? / ' + 
+      'Vân Môn lại sợ ngồi ở bên một màu sắc, há không dễ chừng phạm tội nhân đức, liền cho một đạp, cũng là dũng mãnh, làm để thấy nghĩa. / ' + 
+      'Tuyết Đậu sợ người chỉ biết té nhào, mới dè chừng phạm tội ấp ủ nhân đức, lại có thể đở dậy dõng mãnh là để thấy việc nữa. / ' + 
+      'Không thấy Triệu Châu nói: Lão Tăng không ở trong sự sáng suốt, nhờ ánh sáng mát mẽ chiếu vào con mắt như nhà mê, sáng suốt chuyển thân chưa tránh khỏi vào địa vị, chỉ biết té nhào không biết đứng lên, làm sao cam chịu? Bản sắc của Nạp Tăng như viên minh châu lăn trên mâm, tuy đồng sinh, đồng tử mà không ở trong sinh tử. / ' + 
+      'Tuy không có kia đây nhưng không có quyền tập kia, đây 2 câu cuối, có khi nói do ánh mắt trời, có khi ở trước đường trăng sáng, vạn cổ trường không một sáng gió trăng, ban mai ve sầu.
+      'Hãy nói: Mà nay thời tiết gì? Lại tùy theo cây lâu năm khô héo dần, theo gió Xuân vào thiêu đốt tỳ vết.',
   },
-
   {
     id: 27,
     title: 'TẮC THỨ 27: ',
@@ -1545,7 +1555,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 28,
     title: 'TẮC THỨ 28: ',
@@ -1564,7 +1573,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 29,
     title: 'TẮC THỨ 29: ',
@@ -1583,7 +1591,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 30,
     title: 'TẮC THỨ 30: ',
@@ -1602,7 +1609,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 31,
     title: 'TẮC THỨ 31: ',
@@ -1621,7 +1627,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 32,
     title: 'TẮC THỨ 32: ',
@@ -1640,7 +1645,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 33,
     title: 'TẮC THỨ 33: ',
@@ -1659,7 +1663,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 34,
     title: 'TẮC THỨ 34: ',
@@ -1678,7 +1681,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 35,
     title: 'TẮC THỨ 35: ',
@@ -1697,7 +1699,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 36,
     title: 'TẮC THỨ 36: ',
@@ -1716,7 +1717,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 37,
     title: 'TẮC THỨ 37: ',
@@ -1735,7 +1735,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 38,
     title: 'TẮC THỨ 38: ',
@@ -1754,7 +1753,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 39,
     title: 'TẮC THỨ 39: ',
@@ -1773,7 +1771,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 40,
     title: 'TẮC THỨ 40: ',
@@ -1792,7 +1789,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 41,
     title: 'TẮC THỨ 41: ',
@@ -1811,7 +1807,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 42,
     title: 'TẮC THỨ 42: ',
@@ -1830,7 +1825,6 @@ const CongRongLu = [
     commentAfterVerse:
       '',
   },
-
   {
     id: 43,
     title: 'TẮC THỨ 43: ',
