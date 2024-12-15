@@ -138,7 +138,7 @@ const CnLv1MasterDb = [
     name_ja: 'Vĩnh Gia Huyền Giác',
     name_ko: 'Vĩnh Gia Huyền Giác',
     name_ar: 'Vĩnh Gia Huyền Giác',
-    birth_death_time: ['', '713'],
+    birth_death_time: ['665', '713'],
     records: '',
     sect: ['-'],
     country: 'China',
