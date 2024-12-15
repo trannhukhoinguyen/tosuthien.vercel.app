@@ -1236,17 +1236,17 @@ const CongRongLu = [
       '  Vân Môn nói: Nô tỳ thấy Tỳ ân cần.',
     commentBeforeVerse:
       'Sư nói: Đạo Ngô chiết phục Vân Nham, như Phật Quả kích lệ, Phật giám cái gọi là không giận thì không khởi, không buồn thì không phát, chính là Vân Nham quét nhà.  / ' +
-      '  Đạo Ngô rãnh rổi đi kiểm điểm ông ta. / ' +
-      '  Vân Nham nói: Cần phải biết có người không vất vã, may các nhân giả, ông thì ăn cơm, chế trà, xâu kim, quét nhà, bấy giờ mới nhận ra người không vất vã, lại được thế pháp, Phật pháp nhồi thành một khối, trong sự rỗng trì trệ, Tăng trong thời gian tự mình không luống uổng.  / ' +
-      '  Đạo Ngô mới thấy thiếu sót, nói như thế thì có mặt trăng thứ 2.  / ' +
-      '  Riêng Tuyết Đậu nói: Lặng lẽ bỏ qua, hai lão già sợ người, lìa bỏ sắc thân lập riêng pháp thân. / ' +
-      '  Sư Trung Quốc bảo Thiền Khách Phương Nam rằng: Phật tánh của nước ta hoàn toàn không sinh diệt, Phật tánh của người Phương Nam nửa sinh, nửa diệt, nửa không sinh diệt. / ' +
-      '  Khách nói: Làm sao phân biệt? / ' +
-      '  Sư nói:Đây là thân tâm nhất như, ngoại tâm không khác, cho nên hoàn toàn không sinh diệt, thân thể người Phương Nam là vô thường thần thức là thường, cho nên nửa sinh nửa diệt, nửa không sinh diệt, đến đây cần biết có cái chuyển thân chính là thời tiết giao theo bèn dựng chổi lên hỏi: Đây là trăng thứ mấy? Lời này vấn trích trong kinh Thủ Lăng Nghiêm. / ' +
-      '  Kinh nói: Như mặt trăng thứ 2, tháng nào là tháng đủ, tháng nào tháng thiếu, Văn Thù chỉ một tháng trăng chơn, trung gian không có trăng phải trái, Đạo Ngô liền bỏ đi. / ' +
-      '  Có bản ghi: Đạo Ngô phất tay áo rồi đi, Vạn Tùng nói: Khám phá rồi. Hãy nói: Vân Nham đã phá Đạo Ngô, hay Đạo Ngô đã phá Vân Nham. Người mắt sáng thử kiểm điểm xem? / ' +
-      '  Huyền Sa nói: Chính là mặt trăng thứ 2, trong miệng lão này, có thư Hoàng, trên lưỡi có lưỡi kiếm bén, Trường Khánh hỏi: Bị người khác trở cây chổi đánh vào mặt, lại thế nào.  / ' +
-      '  Huyền Sa bỏ đi Sơn La nói: Ôi! Hai lão già không biết tốt xấu gì cả! Vân Nham chói tai cái chết đến lúc nào? / ' +
+      'Đạo Ngô rãnh rổi đi kiểm điểm ông ta. / ' +
+      'Vân Nham nói: Cần phải biết có người không vất vã, may các nhân giả, ông thì ăn cơm, chế trà, xâu kim, quét nhà, bấy giờ mới nhận ra người không vất vã, lại được thế pháp, Phật pháp nhồi thành một khối, trong sự rỗng trì trệ, Tăng trong thời gian tự mình không luống uổng.  / ' +
+      'Đạo Ngô mới thấy thiếu sót, nói như thế thì có mặt trăng thứ 2.  / ' +
+      'Riêng Tuyết Đậu nói: Lặng lẽ bỏ qua, hai lão già sợ người, lìa bỏ sắc thân lập riêng pháp thân. / ' +
+      'Sư Trung Quốc bảo Thiền Khách Phương Nam rằng: Phật tánh của nước ta hoàn toàn không sinh diệt, Phật tánh của người Phương Nam nửa sinh, nửa diệt, nửa không sinh diệt. / ' +
+      'Khách nói: Làm sao phân biệt? / ' +
+      'Sư nói:Đây là thân tâm nhất như, ngoại tâm không khác, cho nên hoàn toàn không sinh diệt, thân thể người Phương Nam là vô thường thần thức là thường, cho nên nửa sinh nửa diệt, nửa không sinh diệt, đến đây cần biết có cái chuyển thân chính là thời tiết giao theo bèn dựng chổi lên hỏi: Đây là trăng thứ mấy? Lời này vấn trích trong kinh Thủ Lăng Nghiêm. / ' +
+      'Kinh nói: Như mặt trăng thứ 2, tháng nào là tháng đủ, tháng nào tháng thiếu, Văn Thù chỉ một tháng trăng chơn, trung gian không có trăng phải trái, Đạo Ngô liền bỏ đi. / ' +
+      'Có bản ghi: Đạo Ngô phất tay áo rồi đi, Vạn Tùng nói: Khám phá rồi. Hãy nói: Vân Nham đã phá Đạo Ngô, hay Đạo Ngô đã phá Vân Nham. Người mắt sáng thử kiểm điểm xem? / ' +
+      'Huyền Sa nói: Chính là mặt trăng thứ 2, trong miệng lão này, có thư Hoàng, trên lưỡi có lưỡi kiếm bén, Trường Khánh hỏi: Bị người khác trở cây chổi đánh vào mặt, lại thế nào.  / ' +
+      'Huyền Sa bỏ đi Sơn La nói: Ôi! Hai lão già không biết tốt xấu gì cả! Vân Nham chói tai cái chết đến lúc nào? / ' +
       '  Vạn Tùng nói: Môn hạ của Đức Sơn không nói không được, môn hạ Động Sơn chưa được tự tại, lúc Tuyết Phong hành cước, 3 lần tìm đến Đầu Tử, lần lên Động Sơn. / ' +
       '  Một hôm Tuyết Phong vo gạo, Động Sơn hỏi: Vo gạo bỏ gạo hay bỏ sạn? / ' +
       '  Phong đáp: Sạn gạo đều bỏ. / ' +
@@ -1254,25 +1254,25 @@ const CongRongLu = [
       '  Động Sơn nói: Được thì được, cần phải thấy người khác mới được.  / ' +
       '  Về sau quả thật nối pháp với Đức Sơn, Huyền Sa, Trường Khánh nối pháp với Tuyết Phong.  / ' +
       '  La Sơn nối pháp với Nham Đầu, đều trích trong môn hạ của Đức Sơn, nên vừa trầm vừa bổng, lời thuận ý nghịch, mà nay 2 pháp Vân Môn, Động Sơn đều thạnh hành, há có sự hơn thua sao? / ' +
-      '  Vân môn nói: Tôi thấy tớ thì ân cần sao? / ' +
-      '  Bảo phước nói: Vân Nham giống như đẩy xe trong bùn vất vã vô cùng, hai lão Túc cũng nối pháp với Tuyết Nham, tự nhiên nói lời hợp nhau. / ' +
-      '  Y nói: Vân Nham không thể dùng chổi đánh phá sự, thật không ngờ trong bùn có gai. Vạn Tùng giở trò niêm đề chưa xong, bất giác bật cười nói: Vân Nham, Đạo Ngộ, nói cơ duyên của Động Sơn, già này, miệng mọi người toàn vàng, không có một người nào chống cự lại Tuyết Phong, lại có Thiên Đồng rút kiếm trợ giúp, tụng rằng: / ' +
-      '  Nhờ nhau như thế rõ môn đầu / ' +
-      '  Được dụng tùy nghi cũng tiện thôi / ' +
-      '  Tượng cốt trước hang tay rắn múa / ' +
-      '  Chỗ làm hồi nhỏ, già biết thẹn. / ' +
-      '  Sư nói:  / ' +
-      '  Nếu luận về việc này, như sấm chớp xẹt đá, Vân Nham nêu ra dạy mọi người.  / ' +
-      '  Trường Khánh đánh trước mặt chổ dụng tuy khác cùng trở về. Động Sơn sở dĩ quý trọng quay cơ chuyển địa vị.  / ' +
-      '  Tuyết Phong có núi hình cốt, Tuyết Phong từng bảo cơ chuyển địa vị.  / ' +
-      '  Tuyết Phong có núi hình cốt, Tuyết Phong từng bảo đại chúng rằng: Nam Sơn có một con ba ba mũi rắn, tất cả mọi người đều phải xem.  / ' +
-      '  Vân môn lấy gậy ném trước mặt, làm cái thế sợ hải đây há không phải là tôi thấy tớ thì cần sao? Vân Môn quét đất, đưa chổi lên hỏi: Đây là trăng thứ mấy? / ' +
-      '  Hết thảy nay nghe theo mà thay đổi là nhờ sức của con cháu. Vân Môn đến nay vẫn ở dưới bờ rào, cho nên Thiên Đồng phóng không qua y, nói làm con rắn ở trước núi Tượng Cốt, Lúc nhỏ làm về già hổ thẹn. / ' +
-      '  Hòa Thượng Thắng Mặc nói:  / ' +
-      '  Bài tụng này còn nhằm vào điểm yếu của người, có điểm tốt cho người. Nay Thiên Đồng và Thắng Mặc, xử phạt Vân Môn, ngày nay Vạn Tùng bỏ vụ án đi, không thấy Thiên Đồng làm bài tụng về con rắn, khen thưởng tất cả cơ phong đại dụng của Vân Môn so với Vân Trung cũng không kém, sao lại như thế? Trầm bổng đều do ta còn chết sống do ai?',
+      'Vân môn nói: Tôi thấy tớ thì ân cần sao? / ' +
+      'Bảo Phước nói: Vân Nham giống như đẩy xe trong bùn vất vã vô cùng, hai lão Túc cũng nối pháp với Tuyết Nham, tự nhiên nói lời hợp nhau. / ' +
+      'Y nói: Vân Nham không thể dùng chổi đánh phá sự, thật không ngờ trong bùn có gai. Vạn Tùng giở trò niêm đề chưa xong, bất giác bật cười nói: Vân Nham, Đạo Ngộ, nói cơ duyên của Động Sơn, già này, miệng mọi người toàn vàng, không có một người nào chống cự lại Tuyết Phong. / ' +
+      'Sư nói:  / ' +
+      'Nếu luận về việc này, như sấm chớp xẹt đá, Vân Nham nêu ra dạy mọi người.  / ' +
+      'Trường Khánh đánh trước mặt chổ dụng tuy khác cùng trở về. Động Sơn sở dĩ quý trọng quay cơ chuyển địa vị.  / ' +
+      'Tuyết Phong có núi hình cốt, Tuyết Phong từng bảo cơ chuyển địa vị.  / ' +
+      'Tuyết Phong có núi hình cốt, Tuyết Phong từng bảo đại chúng rằng: Nam Sơn có một con ba ba mũi rắn, tất cả mọi người đều phải xem. / ' +
+      'Vân môn lấy gậy ném trước mặt, làm cái thế sợ hải đây há không phải là tôi thấy tớ thì cần sao? Vân Môn quét đất, đưa chổi lên hỏi: Đây là trăng thứ mấy? / ' +
+      'Hết thảy nay nghe theo mà thay đổi là nhờ sức của con cháu. Vân Môn đến nay vẫn ở dưới bờ rào, cho nên Thiên Đồng phóng không qua y, nói làm con rắn ở trước núi Tượng Cốt, Lúc nhỏ làm về già hổ thẹn. / ' +
+      'Hòa Thượng Thắng Mặc nói:  / ' +
+      'Bài tụng này còn nhằm vào điểm yếu của người, có điểm tốt cho người. Nay Thiên Đồng và Thắng Mặc, xử phạt Vân Môn, ngày nay Vạn Tùng bỏ vụ án đi, không thấy Thiên Đồng làm bài tụng về con rắn, khen thưởng tất cả cơ phong đại dụng của Vân Môn so với Vân Trung cũng không kém, sao lại như thế? Trầm bổng đều do ta còn chết sống do ai?',
     verseOriginal: '',
     verse:
-      ' ',
+      'Thiên Đồng rút kiếm trợ giúp, tụng rằng: / ' +
+      'Nhờ nhau như thế rõ môn đầu / ' +
+      'Được dụng tùy nghi cũng tiện thôi / ' +
+      'Tượng cốt trước hang tay rắn múa / ' +
+      'Chỗ làm hồi nhỏ, già biết thẹn',
     verseExtraOriginal: '',
     verseExtra: '',
     commentAfterVerse:
@@ -1351,7 +1351,7 @@ const CongRongLu = [
       'Lại nói: Biết thì tốt. Vạn Tùng nói: Như Đào Uyên Minh nheo mày liền trở về. / ' + 
       'Lại nói: Ta thì không như vầy, bào thai chưa đầy đủ thì không lãnh hội được, lãnh hội được thì đánh vỡ bụng ông. / ' + 
       'Vạn Tùng hỏi: Hòa Thượng đánh bảo ai chịu? / ' + 
-      La Sơn đáp: Vương lão Sư lúc ấy nếu thấy, cho năm dùi lửa ở trên lưng, do ông hiểu bỏ không biết lấy. / ' + 
+      'La Sơn đáp: Vương lão Sư lúc ấy nếu thấy, cho năm dùi lửa ở trên lưng, do ông hiểu bỏ không biết lấy. / ' + 
       'Vạn Tùng nói: canh năm thức dậy sớm, đã có người đi đêm. Huyền Sa nói: Ta lúc ấy nếu thấy cũng cho 5 dùi lửa. / ' + 
       'Vạn Tùng nói: Não loạn gió Xuân mãi mãi không thôi Vân Cư trích nói: La Sơn, Huyền Sa đều nói như thế, lại luôn có đạo lý khác. / ' + 
       'Vạn Tùng nói: Tổng cộng có dùi lửa. Lại nói: Nếu chọn ra được cho phép Phật pháp của thượng tòa lưu khắp. / ' + 
@@ -1505,7 +1505,7 @@ const CongRongLu = [
     commentBeforeVerse:
       'Sư nói: Người xưa đối cơ gặp vật, phát minh một đoạn vật lớn trước kiếp không  / ' + 
       'Kinh Pháp Hoa nói: Thuần một tướng có xen tạp đầy đủ tướng phạm hạnh thanh bạch.  / ' +  
-      'Có thuyết cho rằng: Màu trắng là nguồn gốc của các màu, nhất thừa là nguồn gốc của các thừa, mà không nói màu trắng hướng thượng càng có sự nghiệp, cho nên Ngưỡng Sơn chỉ Tuyết Sư Tử bảo đại chúng: Còn có thứ nào trội hơn thứ này không?
+      'Có thuyết cho rằng: Màu trắng là nguồn gốc của các màu, nhất thừa là nguồn gốc của các thừa, mà không nói màu trắng hướng thượng càng có sự nghiệp, cho nên Ngưỡng Sơn chỉ Tuyết Sư Tử bảo đại chúng: Còn có thứ nào trội hơn thứ này không? / ' +
       'Lại màu trắng là gốc của các màu sắc, màu của tuyết rất trắng, như vậy còn có màu nào trội hơn nó được.  / ' + 
       'Vạn Tùng nói: Đã gọi là sắc, nhất định đối với nhãn căn, màu trội hơn màu trắng, chỉ có thứ vô sắc không đối đãi với nhãn căn.  / ' +  
       'Cho nên Tuyết Phong nói: Lúc đó cho một đạp lộn nhào, như hướng đến chổ rất trắng hay không trắng bằng lòng, chính là rơi vào trong cõi vô sắc.  / ' +  
