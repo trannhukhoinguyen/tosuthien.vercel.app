@@ -1214,6 +1214,7 @@ const CnLv1MasterDb = [
   },
 {
     id: '34.1.54',
+    hasContent: true,
     name_en: 'Sikong Benjing',
     name_es: 'Sikong Benjing',
     name_de: 'Sikong Benjing',
