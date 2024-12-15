@@ -1405,11 +1405,11 @@ const CongRongLu = [
     'Tăng hỏi: Hòa Thượng thế nào? Huyền Sa dùng Nam Sơn làm gì? / ' + 
     'Nhân môn lấy gậy cản trước mặt phong làm cái thế sợ hải.',
     commentBeforeVerse:
-    'Sư nói: Nam Sơn có con ba ba tuy đã chết, trước búi tượng, cốt. Nham biết làm thì sống. Tuyết Phong đem điều đó dạy đại chúng: Vốn muốn lấy độc trị độc, Trường Khánh chỉ thuận nước mà đẩy thuyền, nói ngày nay trong giảng đường có nhiều người táng thân mất mạng, nếu biết nghịch đẩy buồm. 
-    'Tuyết Phong phải vào giảng đường mới được. Huyền Sa nghe vậy nêu lên nói: Phải là lăng huynh ta mới được, ở đây có một chút ngoa ngụy, Huyền Sa chấp nhận Trường Khánh, vì sao? Lại nói ta thì không như thế, không chỉ thuận nước đẩy thuyền, nghịch gió đẩy buồm, vị tăng này không nhìn sự nguy vong, còn Hòa Thượng lúc ấy thế nào?
-    'Huyền Sa chỉ nói: Cái dùng của Nam Sơn làm gì? Ở đây liền cứu sống con rắn. 
-    'Vân Môn lại cản gậy làm cái thế sợ hãi dùng được thì rất thân thiết, nói ở trong bài tụng Vân Môn quét nhà.
-    'Tăng nêu lên làm bàn tay rắn trước tượng cốt Nham, lúc nhỏ làm đến già thẹn thùng. 
+    'Sư nói: Nam Sơn có con ba ba tuy đã chết, trước búi tượng, cốt. Nham biết làm thì sống. Tuyết Phong đem điều đó dạy đại chúng: Vốn muốn lấy độc trị độc, Trường Khánh chỉ thuận nước mà đẩy thuyền, nói ngày nay trong giảng đường có nhiều người táng thân mất mạng, nếu biết nghịch đẩy buồm. / ' +
+    'Tuyết Phong phải vào giảng đường mới được. Huyền Sa nghe vậy nêu lên nói: Phải là lăng huynh ta mới được, ở đây có một chút ngoa ngụy, Huyền Sa chấp nhận Trường Khánh, vì sao? Lại nói ta thì không như thế, không chỉ thuận nước đẩy thuyền, nghịch gió đẩy buồm, vị tăng này không nhìn sự nguy vong, còn Hòa Thượng lúc ấy thế nào? / ' +
+    'Huyền Sa chỉ nói: Cái dùng của Nam Sơn làm gì? Ở đây liền cứu sống con rắn. / ' +
+    'Vân Môn lại cản gậy làm cái thế sợ hãi dùng được thì rất thân thiết, nói ở trong bài tụng Vân Môn quét nhà. / ' +
+    'Tăng nêu lên làm bàn tay rắn trước tượng cốt Nham, lúc nhỏ làm đến già thẹn thùng. / ' +
     'Vì vậy, Vân Môn nói nô thấy tỳ thì ân cần, cỡi ngựa giặc đuổi theo cũng không ngại, nay mới làm bài Tụng nói làm lời rộng, làm tay rồng, nhìn cái quá lớn của ông ta chặt đứt cánh tay vuốt ve',
     verseOriginal: '',
     verse:
@@ -1431,7 +1431,7 @@ const CongRongLu = [
     'Tuyết Phong hỏi: Không thấy nói người quân tử ngàn dặm như gió,Tăng trở về kể lại cho Huyền Sa. / ' + 
     'Huyền Sa nói: Lão Hòa thượng Đầu Sơn có lỗi lầm không hay biết. / ' + 
     'Huyền Sa nối pháp với Tuyết Phong thường chứng kiến cảnh cha ăn cắp dê, việc nên làm thì không từ chối, nói cần Nam Sơn làm gì? / ' +  
-    Ở đây thật ra kiên quyết cũng vô phương, có thật cương quá Trường theo ta mà nói, phần nhiều có người táng thân mất mạng, không hiểu sư tử trái lại ném đi. / ' +  
+    'Ở đây thật ra kiên quyết cũng vô phương, có thật cương quá Trường theo ta mà nói, phần nhiều có người táng thân mất mạng, không hiểu sư tử trái lại ném đi. / ' +  
     'Ở đây chính là thấy nghĩa không làm là không có dũng mãnh. / ' + 
     'Bờ đê mây hội biết đâu sừng mọc, quả nhiên thấy Thiều Dương bắt tay vào làm. Vân Môn gặp mặt đưa ra một con rắn sống, không giống cung tên hiện bóng của cả thầy. Có thể sai khiến có thể hô gọi. / ' + 
     'Lý Ngạn Hữu nói: Gọi rắn thì dể, sinh rắn thì khó, có bắt có thả là bài tụng này nói đã cản trước mặt lại làm cái thể sợ hãi, đã có thể bắt thả thì chắc chắn biết cách sai bảo. / ' + 
