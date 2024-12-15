@@ -1527,14 +1527,13 @@ const CongRongLu = [
     verseExtraOriginal: '',
     verseExtra: '',
     commentAfterVerse:
-      'Sư nói: Vân Môn vừa té nhào, Tuyết Đậu vừa đứng lên.
-      'Ngưỡng Sơn chỉ Sư Tử, muốn qua màu sắc này, đỉnh 3 chân không thể thiếu một, Tam huyền tam yếu ở nơi đây. / ' + 
+      'Sư nói: Vân Môn vừa té nhào, Tuyết Đậu vừa đứng lên. Ngưỡng Sơn chỉ Sư Tử, muốn qua màu sắc này, đỉnh 3 chân không thể thiếu một, Tam huyền tam yếu ở nơi đây. / ' + 
       'Ngưỡng Sơn sợ người trong sáng suốt há không dè chừng phạm tội là ấp ủ nhân đức, chỉ như người bảo qua màu sắc há chẳng dũng mãnh là để thấy nghĩa. / ' +  
       'Cô Ngữ nói: Thấy việc nghĩa không làm là không dõng mãnh? / ' + 
       'Vân Môn lại sợ ngồi ở bên một màu sắc, há không dễ chừng phạm tội nhân đức, liền cho một đạp, cũng là dũng mãnh, làm để thấy nghĩa. / ' + 
       'Tuyết Đậu sợ người chỉ biết té nhào, mới dè chừng phạm tội ấp ủ nhân đức, lại có thể đở dậy dõng mãnh là để thấy việc nữa. / ' + 
       'Không thấy Triệu Châu nói: Lão Tăng không ở trong sự sáng suốt, nhờ ánh sáng mát mẽ chiếu vào con mắt như nhà mê, sáng suốt chuyển thân chưa tránh khỏi vào địa vị, chỉ biết té nhào không biết đứng lên, làm sao cam chịu? Bản sắc của Nạp Tăng như viên minh châu lăn trên mâm, tuy đồng sinh, đồng tử mà không ở trong sinh tử. / ' + 
-      'Tuy không có kia đây nhưng không có quyền tập kia, đây 2 câu cuối, có khi nói do ánh mắt trời, có khi ở trước đường trăng sáng, vạn cổ trường không một sáng gió trăng, ban mai ve sầu.
+      'Tuy không có kia đây nhưng không có quyền tập kia, đây 2 câu cuối, có khi nói do ánh mắt trời, có khi ở trước đường trăng sáng, vạn cổ trường không một sáng gió trăng, ban mai ve sầu. / ' +
       'Hãy nói: Mà nay thời tiết gì? Lại tùy theo cây lâu năm khô héo dần, theo gió Xuân vào thiêu đốt tỳ vết.',
   },
   {
