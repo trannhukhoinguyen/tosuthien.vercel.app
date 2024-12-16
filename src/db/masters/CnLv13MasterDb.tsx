@@ -108,7 +108,7 @@ const CnLv13MasterDb = [
     name_ar: 'Baoning Renyong',
     birth_death_time: ['?', '1046?'],
     records: '',
-    sect: ['Linji - Yangqi'],
+    sect: ['Linji', 'Yangqi'],
     country: 'China',
     place: 'Baoning Temple (宝宁寺/寶寧寺/Bǎoníng Sì - Bảo Ninh Tự), Yuelu District of Changsha, Hunan',
     teachers: ['Yangqi Fanghui'],

@@ -1,4 +1,4 @@
-const CnLv0MasterDb = [
+import { CnMasters } from "../../db/masters/AllMasterDb.tsx";
 
-]
-export default CnLv0MasterDb;
+const CnOtherMasterDb = CnMasters?.filter(master => master.sect.includes('-'));
+export default CnOtherMasterDb;

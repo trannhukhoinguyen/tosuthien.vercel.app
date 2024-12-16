@@ -1,28 +1,4 @@
-const CnLinjiMasterDb = [
-  {
-    id: '38.5.5',
-    hasContent: true,
-    eminent: true,
-    name_en: 'Linji Yixuan',
-    name_es: 'Linji Yixuan',
-    name_de: 'Linji Yixuan',
-    name_fr: 'Linji Yixuan',
-    name_vi: 'Lâm Tế Nghĩa Huyền',
-    name_ru: 'Linji Yixuan',
-    name_zh: '臨濟義玄',
-    name_ja: 'Rinzai Gigen',
-    name_ko: 'Linji Yixuan',
-    name_ar: 'Linji Yixuan',
-    birth_death_time: ['?', '866/867'],
-    records: '',
-    sect: ['Linji'],
-    country: 'China',
-    place: 'Zhengzhou',
-    teachers: ['Huangbo Xiyun'],
-    successors: ['Xinghua Cunjiang'],
-    disciples: ['Xinghua Cunjiang', 'Sansheng Huiran', 'Baoshou Yanzhao', 'Zhiyi Daozhe', 'Guanqi Zhixian', 'Luopu Yuan’an'],
-    image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/L%C3%A2m_T%E1%BA%BF_Ngh%C4%A9a_Huy%E1%BB%81n', 'https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-', 'https://quangduc.com/p157a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su'],
-  },
-]
+import { AllMasters } from "../../db/masters/AllMasterDb.tsx";
+
+const CnLinjiMasterDb = AllMasters?.filter(master => master.sect.includes('Linji'));
 export default CnLinjiMasterDb;
