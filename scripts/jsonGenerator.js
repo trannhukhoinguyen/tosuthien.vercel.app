@@ -74,7 +74,7 @@ try {
   // create json files
   fs.writeFileSync(
     `${JSON_FOLDER}/posts.json`,
-    JSON.stringify(getData(BLOG_FOLDER === "masters" ? COLLECTION_FOLDER : BLOG_FOLDER, 3)),
+    JSON.stringify(getData(BLOG_FOLDER === "masters" ? COLLECTION_FOLDER : BLOG_FOLDER, 4)),
   );
 
   // merge json files for search
