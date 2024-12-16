@@ -6,7 +6,7 @@ const languages = require("../src/config/language.json");
 const JSON_FOLDER = "./.json";
 const CONTENT_DEPTH = 3;
 const BLOG_FOLDER = "masters" || "monasteries" || "teachings" || 'koans';
-const CONTENT_ROOT = BLOG_FOLDER === "masters" ? "src/content/masters" : "src/content";
+const CONTENT_ROOT = "src/content";
 const COLLECTION_FOLDER = "indian" || "chineseEarly" || "chineseAfterHuineng" || "japanese" || 'korean' || 'vietnamese';
 
 // get data from markdown
@@ -37,14 +37,14 @@ const getData = (folder, groupDepth, langIndex = 0) => {
             let slug;
             if (data.slug) {
               const slugParts = data.slug.split("/");
-              slugParts[0] = BLOG_FOLDER === "masters" ? COLLECTION_FOLDER : BLOG_FOLDER;
+              slugParts[0] = BLOG_FOLDER;
               slug = slugParts.join("/");
             } else {
               slug = pathParts
                 .slice(CONTENT_DEPTH)
                 .join("/")
                 .replace(/\.[^/.]+$/, "");
-              slug = `${BLOG_FOLDER === "masters" ? COLLECTION_FOLDER : BLOG_FOLDER}/${slug.split("/").slice(1).join("/")}`;
+              slug = `${BLOG_FOLDER}/${slug.split("/").slice(1).join("/")}`;
             }
             data.slug = slug;
             const group = "masters" || "monasteries" || "teachings" || 'koans';
@@ -74,7 +74,7 @@ try {
   // create json files
   fs.writeFileSync(
     `${JSON_FOLDER}/posts.json`,
-    JSON.stringify(getData(BLOG_FOLDER === "masters" ? COLLECTION_FOLDER : BLOG_FOLDER, 4)),
+    JSON.stringify(getData(BLOG_FOLDER, 4)),
   );
 
   // merge json files for search
