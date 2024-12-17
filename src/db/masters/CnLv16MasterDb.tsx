@@ -67,7 +67,7 @@ const CnLv16MasterDb = [
     place: '-',
     teachers: ['Yuanwu Keqin'],
     successors: [''],
-    disciples: ['Fozhao Deguang'],
+    disciples: ['Zhuo'an Fozhao Deguang', 'Zishou Miaozong', 'Kaixi Daoqian', 'Miaodao Dingguang', 'Xiangyun Tanyi', 'Wuji Lepai',],
     image: '/images/avatar.png',
     reference: ['',],
   },
