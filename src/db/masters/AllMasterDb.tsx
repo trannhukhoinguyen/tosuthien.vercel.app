@@ -3,14 +3,6 @@ import InMasterDb from "../../db/masters/InMasterDb.tsx";
 import JpMasterDb from "../../db/masters/JpMasterDb.tsx";
 import KoMasterDb from "../../db/masters/KoMasterDb.tsx";
 
-import CnGuiyangMasterDb from "../../db/masters/CnGuiyangMasterDb.tsx";
-import CnLinjiMasterDb from "../../db/masters/CnLinjiMasterDb.tsx";
-import CnCaodongMasterDb from "../../db/masters/CnCaodongMasterDb.tsx";
-import CnFayanMasterDb from "../../db/masters/CnFayanMasterDb.tsx";
-import CnYunmenMasterDb from "../../db/masters/CnYunmenMasterDb.tsx";
-import CnYangqiMasterDb from "../../db/masters/CnYangqiMasterDb.tsx";
-import CnHuanglongMasterDb from "../../db/masters/CnHuanglongMasterDb.tsx";
-
 import CnLv0MasterDb from "../../db/masters/CnLv0MasterDb.tsx";
 import CnLv1MasterDb from "../../db/masters/CnLv1MasterDb.tsx";
 import CnLv2MasterDb from "../../db/masters/CnLv2MasterDb.tsx";
@@ -86,30 +78,28 @@ export const CnMasters = [
   CnLv32MasterDb,
   CnLv33MasterDb,
 ]
-export const AllSectMasters = [
-  ...CnGuiyangMasterDb,
-  ...CnLinjiMasterDb,
-  ...CnCaodongMasterDb,
-  ...CnFayanMasterDb,
-  ...CnYunmenMasterDb,
-  ...CnYangqiMasterDb,
-  ...CnHuanglongMasterDb,
-]
-export const CnGuiyangMasters = CnGuiyangMasterDb
-export const CnLinjiMasters = CnLinjiMasterDb
-export const CnCaodongMasters = CnCaodongMasterDb
-export const CnFayanMasters = CnFayanMasterDb
-export const CnYunmenMasters = CnYunmenMasterDb
-export const CnYangqiMasters = CnYangqiMasterDb
-export const CnHuanglongMasters = CnHuanglongMasterDb
-
 export const AllMasters = [
-  ...InMasters.flat(),
+  ...InMasters,
   ...CnMasters.flat(),
-  ...JpMasters.flat(),
-  ...ViMasters.flat(),
-  ...KoMasters.flat(),
+  ...JpMasters,
+  ...ViMasters,
+  ...KoMasters,
 ]
-
+export const CnGuiyangMasters = AllMasters?.filter(master => master.sect.includes('Guiyang'));
+export const CnLinjiMasters = AllMasters?.filter(master => master.sect.includes('Linji'));
+export const CnCaodongMasters = AllMasters?.filter(master => master.sect.includes('Caodong'));
+export const CnFayanMasters = AllMasters?.filter(master => master.sect.includes('Fayan'));
+export const CnYunmenMasters = AllMasters?.filter(master => master.sect.includes('Yunmen'));
+export const CnYangqiMasters = AllMasters?.filter(master => master.sect.includes('Yangqi'));
+export const CnHuanglongMasters = AllMasters?.filter(master => master.sect.includes('Huanglong'));
+export const AllSectMasters = [
+  ...CnGuiyangMasters,
+  ...CnLinjiMasters,
+  ...CnCaodongMasters,
+  ...CnFayanMasters,
+  ...CnYunmenMasters,
+  ...CnYangqiMasters,
+  ...CnHuanglongMasters,
+]
 export const CnOtherMasterDb = CnMasters?.flat().filter(masterDb => masterDb.sect.includes('-'))
 export const OtherMasterDb = AllMasters?.filter(master => master.sect.includes('-'))
