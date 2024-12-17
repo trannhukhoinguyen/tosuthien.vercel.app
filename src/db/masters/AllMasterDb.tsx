@@ -111,3 +111,6 @@ export const AllMasters = [
   ...KoMasters.flat(),
 ]
 console.log('AllMasters', AllMasters)
+
+export const CnOtherMasterDb = CnMasters?.flat().filter(masterDb => masterDb.sect.includes('-'))
+export const OtherMasterDb = AllMasters?.filter(master => master.sect.includes('-'))
