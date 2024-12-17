@@ -1,6 +1,8 @@
 const CnLv14MasterDb = [
   {
     id: '47.14.1',
+    hasContent: true,
+    eminent: true,
     name_en: 'Wuzu Fayan',
     name_es: 'Wuzu Fayan',
     name_de: 'Wuzu Fayan',
@@ -13,7 +15,7 @@ const CnLv14MasterDb = [
     name_ar: 'Wuzu Fayan',
     birth_death_time: ['1024?', '1104'],
     records: '',
-    sect: ['-'],
+    sect: ['Linji', 'Yangqi'],
     country: 'China',
     place: '-',
     teachers: ['Baiyun Shouduan'],
