@@ -108,7 +108,7 @@ const CnLv16MasterDb = [
     name_ar: 'Yuehan Shanguo',
     birth_death_time: ['1079', '1152'],
     records: '',
-    sect: ['-'],
+    sect: ['Linji', 'Yangqi'],
     country: 'China',
     place: '-',
     teachers: ['Kaifu Daoning'],
