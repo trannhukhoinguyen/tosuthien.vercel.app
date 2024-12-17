@@ -49,7 +49,7 @@ const CnLv17MasterDb = [
   {
     id: '50.17.3',
     hasContent: true,
-    name_en: 'Fozhao Deguang',
+    name_en: 'Fozhao Deguang (Zhuo'an)',
     name_es: 'Fozhao Deguang',
     name_de: 'Fozhao Deguang',
     name_fr: 'Fozhao Deguang',
