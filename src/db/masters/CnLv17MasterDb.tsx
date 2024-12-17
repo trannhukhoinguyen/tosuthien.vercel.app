@@ -53,7 +53,7 @@ const CnLv17MasterDb = [
     name_es: 'Fozhao Deguang',
     name_de: 'Fozhao Deguang',
     name_fr: 'Fozhao Deguang',
-    name_vi: 'Phật Chiếu Đức Quang',
+    name_vi: 'Phật Chiếu Đức Quang (Chuyết Am)',
     name_ru: 'Fozhao Deguang',
     name_zh: 'Fozhao Deguang ',
     name_ja: 'Fozhao Deguang',
@@ -68,7 +68,7 @@ const CnLv17MasterDb = [
     successors: [''],
     disciples: ['Jingshan Ruyan', 'Pojian Jujian'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: ['https://vi.m.wikipedia.org/wiki/Chuy%E1%BA%BFt_Am_%C4%90%E1%BB%A9c_Quang',],
   },
   {
     id: '50.17.4',
