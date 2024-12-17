@@ -1,6 +1,7 @@
 const CnLv16MasterDb = [
   {
     id: '49.16.1',
+    eminent: true,
     name_en: 'Huqiu Shaolong',
     name_es: 'Huqiu Shaolong',
     name_de: 'Huqiu Shaolong',
@@ -48,6 +49,7 @@ const CnLv16MasterDb = [
   {
     id: '49.16.3',
     hasContent: true,
+    eminent: true,
     name_en: 'Dahui Zonggao',
     name_es: 'Dahui Zonggao',
     name_de: 'Dahui Zonggao',
@@ -55,12 +57,12 @@ const CnLv16MasterDb = [
     name_vi: 'Đại Huệ Tông Cảo',
     name_ru: 'Dahui Zonggao',
     name_zh: '大慧宗杲',
-    name_ja: 'Daie Sōkō',
-    name_ko: 'Dahui Zonggao',
+    name_ja: 'ダイエシュウコウ Daie Shūkō',
+    name_ko: '대혜종고 Taehye Chonggo',
     name_ar: 'Dahui Zonggao',
     birth_death_time: ['1089', '1163'],
     records: '',
-    sect: ['-'],
+    sect: ['Linji', 'Yangqi'],
     country: 'China',
     place: '-',
     teachers: ['Yuanwu Keqin'],
