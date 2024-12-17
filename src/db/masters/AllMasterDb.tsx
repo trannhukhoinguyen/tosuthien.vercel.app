@@ -104,10 +104,10 @@ export const CnYangqiMasters = CnYangqiMasterDb
 export const CnHuanglongMasters = CnHuanglongMasterDb
 
 export const AllMasters = [
-  ...InMasters.flat(),
+  ...InMasters,
   ...CnMasters.flat(),
-  ...JpMasters.flat(),
-  ...ViMasters.flat(),
-  ...KoMasters.flat(),
+  ...JpMasters,
+  ...ViMasters,
+  ...KoMasters,
 ]
 console.log('AllMasters', AllMasters)
