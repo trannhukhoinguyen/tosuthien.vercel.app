@@ -1334,61 +1334,61 @@ const CongRongLu = [
     intro:
       'Sư dạy đại chúng rằng: Tổ Đạt Ma năm xoay mặt vào vách, gọi là Bích Quán. Thần Quang lễ 3 lễ, tiết lộ thiên cơ làm thế nào quét sạch tung tích?',
     main:
-      'Lỗ Tổ hễ thấy Tăng đến là xoay mặt vào vách. Nam Tuyền nghe vậy nói: Ta thường nói ông ta, gánh vác kiếp trước không, đợi lúc Phật chưa ra đời hội lấy còn không được khác cái nửa cái nắm lừa quãng ta đi như thế. / ' + 
+      'Lỗ Tổ hễ thấy Tăng đến là xoay mặt vào vách. Nam Tuyền nghe vậy nói: Ta thường nói ông ta, gánh vác kiếp trước không, đợi lúc Phật chưa ra đời hội lấy còn không được khác cái nửa cái nắm lừa quãng ta đi như thế. / ' +
       'Sư nói: Thiền sư Đậu Vân núi Lỗ Tổ Tri Châu, hể thấy Tăng đến liền xoay mặt vào vách. Sau khi Đạt Ma năm xoay mặt vào vách không có người nào thực hành theo cách này nửa. lại dạy khắp nơi hỏi, Phật, hỏi Tổ thượng hướng hạ, mọi người biết một số bệnh. / ' +
       'Nam Tuyền cùng tham cứu với ông ta, thấy cái dùi của người, không lay động, lại càng đánh phá lung tung, ta thường nói với ông, gánh vác kiếp trước không, Phật chưa ra đời lãnh hội lấy, không được một cái hay nửa cái, ý như mở ra một đường, thật ra giúp thị giả, truyền pháp chỉ xong. / ' +
-      'Lại nói: “Ông ta năm lừa mới đi như thế”, ý như trách móc ông ta quá cô phụ cuộc đời cao cả, điều đó sư thực ban thường ông ta thấy mặt mà phân phó, không thấy nói: Dù cho nói được 10 phần, đâu như một khi đích thân đến. / ' + 
+      'Lại nói: “Ông ta năm lừa mới đi như thế”, ý như trách móc ông ta quá cô phụ cuộc đời cao cả, điều đó sư thực ban thường ông ta thấy mặt mà phân phó, không thấy nói: Dù cho nói được 10 phần, đâu như một khi đích thân đến. / ' +
       'Sở dĩ Linh Sơn như trăng vẽ, Tào Khê như ngón tay chỉ mặt trăng, đâu như Lỗ Tổ ở trong cung thủy tinh, trong điện Quãng Hàn, rủ áo gặp nhau. Bảo Phước thấy chổ thiếu sót của Nam Tuyền. Lỗ Tổ, hỏi Trường Khánh rằng: Chỉ như Lỗ Tổ, tiết văn ở chổ nào? Bị Nam Tuyền nói như thế. / ' +
       'Vạn Tùng nói: Bảo Phước làm sao nói 2 chữ tiết văn?',
     commentBeforeVerse:
-      'Trên cành đều nẩy mầm thì hiểu rõ Xuân Thu, khó đặt ra câu hỏi này. / ' + 
-      'Trường Khánh đáp: Tự mình thối lui nhường cho người khác trong vạn người không có được một người. / ' + 
-      'Vạn Tùng nói: Người xưa thông minh như thế / ' + 
-      'Huyền Giác nói: Nửa ngăn nửa đậy, lừa dối họ một chút cũng không được. / ' + 
-      'Thúy Nham Chi hỏi: Đâu nhọc thế này? / ' + 
-      'Vạn Tùng nói: Đã mô phỏng được nét vẽ rồi.  / ' + 
-      'Lại nói: Nếu có vị Tăng đến thấy cái này, Vạn Tùng nói giống như chê bai chút ít. / ' + 
-      'Lại nói: Biết thì tốt. Vạn Tùng nói: Như Đào Uyên Minh nheo mày liền trở về. / ' + 
-      'Lại nói: Ta thì không như vầy, bào thai chưa đầy đủ thì không lãnh hội được, lãnh hội được thì đánh vỡ bụng ông. / ' + 
-      'Vạn Tùng hỏi: Hòa Thượng đánh bảo ai chịu? / ' + 
-      'La Sơn đáp: Vương lão Sư lúc ấy nếu thấy, cho năm dùi lửa ở trên lưng, do ông hiểu bỏ không biết lấy. / ' + 
-      'Vạn Tùng nói: canh năm thức dậy sớm, đã có người đi đêm. Huyền Sa nói: Ta lúc ấy nếu thấy cũng cho 5 dùi lửa. / ' + 
-      'Vạn Tùng nói: Não loạn gió Xuân mãi mãi không thôi Vân Cư trích nói: La Sơn, Huyền Sa đều nói như thế, lại luôn có đạo lý khác. / ' + 
-      'Vạn Tùng nói: Tổng cộng có dùi lửa. Lại nói: Nếu chọn ra được cho phép Phật pháp của thượng tòa lưu khắp. / ' + 
-      'Vạn Tùng nói: Đáng cho 5 dùi lửa, chư nhân giả xem. Nam Tuyền bài xích Lỗ Tổ như thế. / ' + 
-      'Trường Khánh lại nói: Chính mình thối lui phường cho người, Lỗ Tổ đã phá then chốt.  / ' + 
+      'Trên cành đều nẩy mầm thì hiểu rõ Xuân Thu, khó đặt ra câu hỏi này. / ' +
+      'Trường Khánh đáp: Tự mình thối lui nhường cho người khác trong vạn người không có được một người. / ' +
+      'Vạn Tùng nói: Người xưa thông minh như thế / ' +
+      'Huyền Giác nói: Nửa ngăn nửa đậy, lừa dối họ một chút cũng không được. / ' +
+      'Thúy Nham Chi hỏi: Đâu nhọc thế này? / ' +
+      'Vạn Tùng nói: Đã mô phỏng được nét vẽ rồi.  / ' +
+      'Lại nói: Nếu có vị Tăng đến thấy cái này, Vạn Tùng nói giống như chê bai chút ít. / ' +
+      'Lại nói: Biết thì tốt. Vạn Tùng nói: Như Đào Uyên Minh nheo mày liền trở về. / ' +
+      'Lại nói: Ta thì không như vầy, bào thai chưa đầy đủ thì không lãnh hội được, lãnh hội được thì đánh vỡ bụng ông. / ' +
+      'Vạn Tùng hỏi: Hòa Thượng đánh bảo ai chịu? / ' +
+      'La Sơn đáp: Vương lão Sư lúc ấy nếu thấy, cho năm dùi lửa ở trên lưng, do ông hiểu bỏ không biết lấy. / ' +
+      'Vạn Tùng nói: canh năm thức dậy sớm, đã có người đi đêm. Huyền Sa nói: Ta lúc ấy nếu thấy cũng cho 5 dùi lửa. / ' +
+      'Vạn Tùng nói: Não loạn gió Xuân mãi mãi không thôi Vân Cư trích nói: La Sơn, Huyền Sa đều nói như thế, lại luôn có đạo lý khác. / ' +
+      'Vạn Tùng nói: Tổng cộng có dùi lửa. Lại nói: Nếu chọn ra được cho phép Phật pháp của thượng tòa lưu khắp. / ' +
+      'Vạn Tùng nói: Đáng cho 5 dùi lửa, chư nhân giả xem. Nam Tuyền bài xích Lỗ Tổ như thế. / ' +
+      'Trường Khánh lại nói: Chính mình thối lui phường cho người, Lỗ Tổ đã phá then chốt.  / ' +
       'La Sơn lại nói: Biết buông không biết nhận, đều là giăng lưới trước cá, giặc qua thì dương cung, lại xem Thiên Đồng hướng chổ nào?',
-      verse: 
-      'Trong nhạt có vị / ' + 
-      'Diệu thoát tình phàm / ' + 
-      'Miên miên nhược tồn / ' + 
-      'Chư trước khi hình tượng / ' + 
-      'Lù dù như ngu chừ đạo kia quý thật / ' + 
-      'Ngọc chạm mất đi thuần diệu / ' + 
-      'Châu trong vực hằng tự tươi / ' + 
-      'Mười phần khí trong chừ nắng thu sạch bóng / ' + 
+      verse:
+      'Trong nhạt có vị / ' +
+      'Diệu thoát tình phàm / ' +
+      'Miên miên nhược tồn / ' +
+      'Chư trước khi hình tượng / ' +
+      'Lù dù như ngu chừ đạo kia quý thật / ' +
+      'Ngọc chạm mất đi thuần diệu / ' +
+      'Châu trong vực hằng tự tươi / ' +
+      'Mười phần khí trong chừ nắng thu sạch bóng / ' +
       'Một mãnh mây nhàn chừ xa phần trời nước',
       verseOriginal:
       '',
     verseExtraOriginal: '',
-    verseExtra: 
-    'Tuyết Đậu nói quý như ngu, tụng rằng: / ' + 
-    'Mưa qua mây lặng bầu trời sáng nửa, / ' + 
-    'vài ngọn núi như bức hoạ ngọc bích cao ngất / ' + 
-    'Không sinh không biết ngồi trong núi / ' + 
+    verseExtra:
+    'Tuyết Đậu nói quý như ngu, tụng rằng: / ' +
+    'Mưa qua mây lặng bầu trời sáng nửa, / ' +
+    'vài ngọn núi như bức hoạ ngọc bích cao ngất / ' +
+    'Không sinh không biết ngồi trong núi / ' +
     'hoa trời chấn động đại địa',
     commentAfterVerse:
-      'Sư nói: Xưa kia chỉ có 2 phò mã đến Nam Kinh nhận chức con đường qua Tư Châu rất sáng, vào giảng đường vui vẽ, nhưng thấy tăng chúng thì xoay mặt vào vách ngồi. / ' + 
-    'Phò mã nói: Có một kẻ thích lạnh nhạt. / ' + 
-    'Thuyên Đại Sư nói: Trong nhạt nhẽo vẫn có mùi vị, tánh nước vốn lạnh nhạt, nếu thêm thì đậm đà, ngọt hay đắng cũng từ đó sinh ra, tánh cũng điềm nhiên, đưa họ đến sự mê ngộ thì phàm Thánh vẫn lập như thế. / ' + 
-    'Tuy nói trong nhạt nhẻo còn có mùi vị, đây mới là vị ở trong vô vị, mùi vị đó thường khéo vượt khỏi tình vị.  / ' + 
-    'Chữ tình xuất phát từ tâm, chữ vị xuất phát từ lời nói, đến đây ngôn ngữ đoạn chổ tâm hạnh diệt. / ' + 
-    'Pháp Nhãn nói: Lý lẽ tột bực thì quên mất tình vị, làm sao có thí dụ rõ ràng. / ' + 
-    'Chương Cốc thần bất tử trong Kinh Đạo Đức nói: Cửa hư huyền là nguồn gốc của đời đất, miên miên nếu còn. / ' + 
-    'Lại nói: Ta không biết là ai, trước Tướng Đế nạp Tăng nói miên miên không thể một bề đạm tuyệt, trước Tượng Đế là trước kiếp không khi Phật chưa xuất thế, như người ngu nói quý am dùng / ' + 
-    'Bài tụng này nói về Tu Bồ Đề tọa thiền trời Đế Thích rải hoa cúng dường, nay Lỗ không thể giản bớt việc, nếu không một bọn già Nam Tuyền, Huyền Sa kiểm điểm. Đây chính là ngọc gì dũa văn hoa chết vô cớ, không bằng hạt châu ở trong vực sâu mà tự đẹp. / ' + 
-    'Phổ Thư, Lục Cơ, Sùng Văn Phú nói: Ngọc ẩn trong đá để làm sáng núi, biển ngậm ngọc biển đẹp như ai, trong đá chứa ngọc mà bọn Nam Tuyền vẫn mài ra, hạt châu ở trong nước mà bọn Huyền Sa vẫn gạn được, may mắn từ mười phần sảng khoái mài xanh nắng Thu, mới là một áng mây xa phân trời biển. / ' + 
-    'Vạn Tùng hỏi: Không thể lãnh hội xoay mặt vào vách, bọn ông lại tìm tiết văn gì? / ' + 
+      'Sư nói: Xưa kia chỉ có 2 phò mã đến Nam Kinh nhận chức con đường qua Tư Châu rất sáng, vào giảng đường vui vẽ, nhưng thấy tăng chúng thì xoay mặt vào vách ngồi. / ' +
+    'Phò mã nói: Có một kẻ thích lạnh nhạt. / ' +
+    'Thuyên Đại Sư nói: Trong nhạt nhẽo vẫn có mùi vị, tánh nước vốn lạnh nhạt, nếu thêm thì đậm đà, ngọt hay đắng cũng từ đó sinh ra, tánh cũng điềm nhiên, đưa họ đến sự mê ngộ thì phàm Thánh vẫn lập như thế. / ' +
+    'Tuy nói trong nhạt nhẻo còn có mùi vị, đây mới là vị ở trong vô vị, mùi vị đó thường khéo vượt khỏi tình vị.  / ' +
+    'Chữ tình xuất phát từ tâm, chữ vị xuất phát từ lời nói, đến đây ngôn ngữ đoạn chổ tâm hạnh diệt. / ' +
+    'Pháp Nhãn nói: Lý lẽ tột bực thì quên mất tình vị, làm sao có thí dụ rõ ràng. / ' +
+    'Chương Cốc thần bất tử trong Kinh Đạo Đức nói: Cửa hư huyền là nguồn gốc của đời đất, miên miên nếu còn. / ' +
+    'Lại nói: Ta không biết là ai, trước Tướng Đế nạp Tăng nói miên miên không thể một bề đạm tuyệt, trước Tượng Đế là trước kiếp không khi Phật chưa xuất thế, như người ngu nói quý am dùng / ' +
+    'Bài tụng này nói về Tu Bồ Đề tọa thiền trời Đế Thích rải hoa cúng dường, nay Lỗ không thể giản bớt việc, nếu không một bọn già Nam Tuyền, Huyền Sa kiểm điểm. Đây chính là ngọc gì dũa văn hoa chết vô cớ, không bằng hạt châu ở trong vực sâu mà tự đẹp. / ' +
+    'Phổ Thư, Lục Cơ, Sùng Văn Phú nói: Ngọc ẩn trong đá để làm sáng núi, biển ngậm ngọc biển đẹp như ai, trong đá chứa ngọc mà bọn Nam Tuyền vẫn mài ra, hạt châu ở trong nước mà bọn Huyền Sa vẫn gạn được, may mắn từ mười phần sảng khoái mài xanh nắng Thu, mới là một áng mây xa phân trời biển. / ' +
+    'Vạn Tùng hỏi: Không thể lãnh hội xoay mặt vào vách, bọn ông lại tìm tiết văn gì? / ' +
     'Tự đáp thay: Nghe nói bài Tụng Cổ của Thiên Đồng.',
   },
   {
@@ -1396,13 +1396,13 @@ const CongRongLu = [
     title: 'TẮC THỨ 24: XEM RẮN CỦA TUYẾT PHONG',
     image: '/images/cong-rong-lu/cong-rong-lu-cover.jpg',
     intro:
-      'Sư dạy đại chúng: Biển phía Đông có con cá chép, Nam Sơn có ba ba, phổ Hoá có lừa hí, Tử Hồ có chó sủa, không rơi lối thường, không đi di loại. / ' +  
+      'Sư dạy đại chúng: Biển phía Đông có con cá chép, Nam Sơn có ba ba, phổ Hoá có lừa hí, Tử Hồ có chó sủa, không rơi lối thường, không đi di loại. / ' +
       'Hãy nói: Đó là hành lý của người nào?',
     main:
-      'Tuyết Phong bảo đại chúng: Ở Nam Sơn có con ba ba mũi nó như con rắn, Các ông phải đến xem đi. / ' + 
-    'Trường Khánh nói: Ngày nay ở trong giảng đường có người táng thân mất mạng, Tăng kể cho Huyền Sa nghe. / ' + 
-    'Huyền Sa nói: Phải là Lăng Huynh ta mới được, tuy như thế nhưng ta thì không như thế. / ' + 
-    'Tăng hỏi: Hòa Thượng thế nào? Huyền Sa dùng Nam Sơn làm gì? / ' + 
+      'Tuyết Phong bảo đại chúng: Ở Nam Sơn có con ba ba mũi nó như con rắn, Các ông phải đến xem đi. / ' +
+    'Trường Khánh nói: Ngày nay ở trong giảng đường có người táng thân mất mạng, Tăng kể cho Huyền Sa nghe. / ' +
+    'Huyền Sa nói: Phải là Lăng Huynh ta mới được, tuy như thế nhưng ta thì không như thế. / ' +
+    'Tăng hỏi: Hòa Thượng thế nào? Huyền Sa dùng Nam Sơn làm gì? / ' +
     'Nhân môn lấy gậy cản trước mặt phong làm cái thế sợ hải.',
     commentBeforeVerse:
     'Sư nói: Nam Sơn có con ba ba tuy đã chết, trước búi tượng, cốt. Nham biết làm thì sống. Tuyết Phong đem điều đó dạy đại chúng: Vốn muốn lấy độc trị độc, Trường Khánh chỉ thuận nước mà đẩy thuyền, nói ngày nay trong giảng đường có nhiều người táng thân mất mạng, nếu biết nghịch đẩy buồm. / ' +
@@ -1413,31 +1413,31 @@ const CongRongLu = [
     'Vì vậy, Vân Môn nói nô thấy tỳ thì ân cần, cỡi ngựa giặc đuổi theo cũng không ngại, nay mới làm bài Tụng nói làm lời rộng, làm tay rồng, nhìn cái quá lớn của ông ta chặt đứt cánh tay vuốt ve',
     verseOriginal: '',
     verse:
-      'Huyền Sa đại cương / ' + 
-      'Trường Khánh ít mãnh / ' + 
-      'rắn lớn của Nam Sơn chết không thể dùng được / ' + 
+      'Huyền Sa đại cương / ' +
+      'Trường Khánh ít mãnh / ' +
+      'rắn lớn của Nam Sơn chết không thể dùng được / ' +
       'bờ gió mây đầu sừng mọc ra chói lọi / ' +
       'quả thật thấy Thiều Dương mới bắt tay vào làm / ' +
-      'xem biến động trong lúc rấm rền / ' + 
+      'xem biến động trong lúc rấm rền / ' +
       'đối với tôi có khả năng hô / ' +
-      'đối với người cũng có bắt cũng có thả / ' + 
+      'đối với người cũng có bắt cũng có thả / ' +
       'sự việc như hôm nay giao cho ai / ' +
       'há miệng làm tổn thương đến người khác không biết đau đớn.',
     verseExtraOriginal: '',
     verseExtra: '',
     commentAfterVerse:
-      'Sư nói: Huyền Sa sai người mang thư lên cho Tuyết Phong, Phong giở ra mới thấy ba tờ giấy trắng, hỏi vị tăng kia rằng: Lãnh hội chưa? / ' + 
-    'Vị Tăng đáp: Chưa lãnh hội. / ' + 
-    'Tuyết Phong hỏi: Không thấy nói người quân tử ngàn dặm như gió,Tăng trở về kể lại cho Huyền Sa. / ' + 
-    'Huyền Sa nói: Lão Hòa thượng Đầu Sơn có lỗi lầm không hay biết. / ' + 
-    'Huyền Sa nối pháp với Tuyết Phong thường chứng kiến cảnh cha ăn cắp dê, việc nên làm thì không từ chối, nói cần Nam Sơn làm gì? / ' +  
-    'Ở đây thật ra kiên quyết cũng vô phương, có thật cương quá Trường theo ta mà nói, phần nhiều có người táng thân mất mạng, không hiểu sư tử trái lại ném đi. / ' +  
-    'Ở đây chính là thấy nghĩa không làm là không có dũng mãnh. / ' + 
-    'Bờ đê mây hội biết đâu sừng mọc, quả nhiên thấy Thiều Dương bắt tay vào làm. Vân Môn gặp mặt đưa ra một con rắn sống, không giống cung tên hiện bóng của cả thầy. Có thể sai khiến có thể hô gọi. / ' + 
-    'Lý Ngạn Hữu nói: Gọi rắn thì dể, sinh rắn thì khó, có bắt có thả là bài tụng này nói đã cản trước mặt lại làm cái thể sợ hãi, đã có thể bắt thả thì chắc chắn biết cách sai bảo. / ' + 
-    'Thiên Đồng sau này hỏi: Việc như hôm nay thì giao cho ai? Miệng lạnh làm tổn thương đến người khác không biết đau, nhưng hễ làm bài tụng đều quy về mình, đưa trước mặt, mới là tác gia. / ' + 
-    'Tuyết Đậu cũng nói: Như hôm nay dấu trước phong nhũ người đến xem đều tiện lợi. Sư lớn tiếng hét. Nhìn dưới chân. / ' + 
-    'Vạn Tùng nói: Tuyết Đậu ham nhìn dưới chân không biết xuyên qua đầu lâu. Thiên Đồng lanh miệng làm tổn thương người, người sáng suốt không làm việc mờ ám. / ' +  
+      'Sư nói: Huyền Sa sai người mang thư lên cho Tuyết Phong, Phong giở ra mới thấy ba tờ giấy trắng, hỏi vị tăng kia rằng: Lãnh hội chưa? / ' +
+    'Vị Tăng đáp: Chưa lãnh hội. / ' +
+    'Tuyết Phong hỏi: Không thấy nói người quân tử ngàn dặm như gió,Tăng trở về kể lại cho Huyền Sa. / ' +
+    'Huyền Sa nói: Lão Hòa thượng Đầu Sơn có lỗi lầm không hay biết. / ' +
+    'Huyền Sa nối pháp với Tuyết Phong thường chứng kiến cảnh cha ăn cắp dê, việc nên làm thì không từ chối, nói cần Nam Sơn làm gì? / ' +
+    'Ở đây thật ra kiên quyết cũng vô phương, có thật cương quá Trường theo ta mà nói, phần nhiều có người táng thân mất mạng, không hiểu sư tử trái lại ném đi. / ' +
+    'Ở đây chính là thấy nghĩa không làm là không có dũng mãnh. / ' +
+    'Bờ đê mây hội biết đâu sừng mọc, quả nhiên thấy Thiều Dương bắt tay vào làm. Vân Môn gặp mặt đưa ra một con rắn sống, không giống cung tên hiện bóng của cả thầy. Có thể sai khiến có thể hô gọi. / ' +
+    'Lý Ngạn Hữu nói: Gọi rắn thì dể, sinh rắn thì khó, có bắt có thả là bài tụng này nói đã cản trước mặt lại làm cái thể sợ hãi, đã có thể bắt thả thì chắc chắn biết cách sai bảo. / ' +
+    'Thiên Đồng sau này hỏi: Việc như hôm nay thì giao cho ai? Miệng lạnh làm tổn thương đến người khác không biết đau, nhưng hễ làm bài tụng đều quy về mình, đưa trước mặt, mới là tác gia. / ' +
+    'Tuyết Đậu cũng nói: Như hôm nay dấu trước phong nhũ người đến xem đều tiện lợi. Sư lớn tiếng hét. Nhìn dưới chân. / ' +
+    'Vạn Tùng nói: Tuyết Đậu ham nhìn dưới chân không biết xuyên qua đầu lâu. Thiên Đồng lanh miệng làm tổn thương người, người sáng suốt không làm việc mờ ám. / ' +
     'Ta lúc ấy nếu là Vân Môn, lấy gậy ném vào người Tuyết Phong định không đến. Sau đó dạy y tự làm tự chịu, dần dân quen lần tại sao như vậy? Ngày 2 tháng 2 sáng nay, tạm bỏ rồng bắt đầu.',
   },
   {
@@ -1447,49 +1447,49 @@ const CongRongLu = [
     intro:
       'Dạy đại chúng: Biển không có bờ, không lìa đương xứ, việc trước trần kiếp, lại như hôm nay, thử dạy ông gặp mặt rồi, lại không biết theo gió tiện nói nói lỗi chổ nào?',
     main:
-      'Bữa nọ Giám Quan gọi thị giả, đưa quạt tê giác đến cho ta. / ' + 
-      'Thị giả nói: Quạt rách rồi. Giám Quan hỏi: Cái quạt đã rách còn tê giác của ta đâu?  / ' + 
+      'Bữa nọ Giám Quan gọi thị giả, đưa quạt tê giác đến cho ta. / ' +
+      'Thị giả nói: Quạt rách rồi. Giám Quan hỏi: Cái quạt đã rách còn tê giác của ta đâu?  / ' +
       'Thị giả không đáp. Tư Phước mới vẽ thành một vòng tròn, ở trong sách có một chữ “Ngưu”.',
     commentBeforeVerseExtra:
-      'Sư nói: Thiền sư Tề Am Viện Hải Xướng Trần Quốc huyện giám cung Hàng Châu, vốn là chi nhánh của Đế Tông đời Đường, Tuyền Tông thầm làm Tăng. / ' + 
-      'Đến yết kiến Sư, Sư biết trước bảo cho chủ sự, phần nhiều cấm nói lãi nhãi, chỉ căn cứ vào chuyện không may, vua ở lâu bổng từ biệt. / ' + 
-      'Sư thầm bảo rằng: Đến giờ rồi, không thể trể nãi, lại phó để hậu sự Phật pháp. / ' + 
-      'Thời Võ Đế, Tông hủy diệt giáo pháp năm, đến đời Tuyên Tông phục hưng lại, Sư có oai lực như vậy. / ' +  
-      'Vua mới triệu Sư về hoàng cung cúng dường Sư thị tịch đã lâu, vua thương xót nên ban tên Thụy là Thiền sư Ngộ Không. / ' + 
-      'Ngày nọ Sư gọi thị giả vào bảo: Đưa cái quạt tê giác cho ta. / ' + 
+      'Sư nói: Thiền sư Tề Am Viện Hải Xướng Trần Quốc huyện giám cung Hàng Châu, vốn là chi nhánh của Đế Tông đời Đường, Tuyền Tông thầm làm Tăng. / ' +
+      'Đến yết kiến Sư, Sư biết trước bảo cho chủ sự, phần nhiều cấm nói lãi nhãi, chỉ căn cứ vào chuyện không may, vua ở lâu bổng từ biệt. / ' +
+      'Sư thầm bảo rằng: Đến giờ rồi, không thể trể nãi, lại phó để hậu sự Phật pháp. / ' +
+      'Thời Võ Đế, Tông hủy diệt giáo pháp năm, đến đời Tuyên Tông phục hưng lại, Sư có oai lực như vậy. / ' +
+      'Vua mới triệu Sư về hoàng cung cúng dường Sư thị tịch đã lâu, vua thương xót nên ban tên Thụy là Thiền sư Ngộ Không. / ' +
+      'Ngày nọ Sư gọi thị giả vào bảo: Đưa cái quạt tê giác cho ta. / ' +
       'Thị giả nói: “Cái quạt rách rồi”. Cũng là lời nói chân thật của cha con.',
-    commentAfterVerseExtra: 
-      'Sư nói: Cái quạt đã rách, còn con tê giác của ta? Chính là cái toàn thân vào cỏ lạ cho con. / ' +  
-      'Thị giả, không đáp lại cũng nhờ ta đánh chánh, chỉ do mình không biết có. / ' + 
-      'Đầu Tử thay lời nói: Không từ chối dơ lên, sợ đầu sừng không toàn vẹn. / ' + 
-      'Vạn Tùng nói: Khéo tu bổ lại Tuyết Đậu bình: muốn đầu sừng không toàn vẹn. / ' +  
-      'Vạn Tùng nói: Mới là đồ cổ của nhà ta. / ' +  
-      'Thạch Sương nói: Nếu có Hòa Thượng tức không có. Vạn Tùng nói: Kiêng kỵ trước mắt. / ' +  
-      'Tuyết Đậu đưa ra nói: Tê giác vẫn còn. Vạn Tùng nói: Mắt sáng khó lừa. / ' + 
-      'Bảo Phước nói: Hòa Thượng tuổi cao thích người khác thì tốt. / ' +  
-      'Vạn Tùng nói: Ân nhiều oán lắm / ' + 
-      'Tuyết Đậu nói: Đáng tiếc lao nhọc mà Vô công dụng. / ' + 
-      'Vạn Tùng tâm tốt không dược quả báo tốt. / ' +  
-      'Theo một bọn già này, không nói đạo lý rỗng không, cái quạt và con tê giác, rút cuộc chọn lấy không được, chỉ có Tư Phước mới vẽ một hình tròn, ở trong đó viết một chữ “ngưu”, cái quạt tê giác dứt, mới không lay động. / ' + 
-      'Tuyết Đậu nói: Vừa đến tại sao không lấy ra? / ' + 
-      'Thật ra nói cái quạt hư rồi, đâu từng động mảy may, vừa đến không lấy ra, lại đâu từng thiếu mà nay lấy ra cũng không, cũng từng thêm. / ' + 
+    commentAfterVerseExtra:
+      'Sư nói: Cái quạt đã rách, còn con tê giác của ta? Chính là cái toàn thân vào cỏ lạ cho con. / ' +
+      'Thị giả, không đáp lại cũng nhờ ta đánh chánh, chỉ do mình không biết có. / ' +
+      'Đầu Tử thay lời nói: Không từ chối dơ lên, sợ đầu sừng không toàn vẹn. / ' +
+      'Vạn Tùng nói: Khéo tu bổ lại Tuyết Đậu bình: muốn đầu sừng không toàn vẹn. / ' +
+      'Vạn Tùng nói: Mới là đồ cổ của nhà ta. / ' +
+      'Thạch Sương nói: Nếu có Hòa Thượng tức không có. Vạn Tùng nói: Kiêng kỵ trước mắt. / ' +
+      'Tuyết Đậu đưa ra nói: Tê giác vẫn còn. Vạn Tùng nói: Mắt sáng khó lừa. / ' +
+      'Bảo Phước nói: Hòa Thượng tuổi cao thích người khác thì tốt. / ' +
+      'Vạn Tùng nói: Ân nhiều oán lắm / ' +
+      'Tuyết Đậu nói: Đáng tiếc lao nhọc mà Vô công dụng. / ' +
+      'Vạn Tùng tâm tốt không dược quả báo tốt. / ' +
+      'Theo một bọn già này, không nói đạo lý rỗng không, cái quạt và con tê giác, rút cuộc chọn lấy không được, chỉ có Tư Phước mới vẽ một hình tròn, ở trong đó viết một chữ “ngưu”, cái quạt tê giác dứt, mới không lay động. / ' +
+      'Tuyết Đậu nói: Vừa đến tại sao không lấy ra? / ' +
+      'Thật ra nói cái quạt hư rồi, đâu từng động mảy may, vừa đến không lấy ra, lại đâu từng thiếu mà nay lấy ra cũng không, cũng từng thêm. / ' +
       'Thiên Đồng thường cho Tư Phước lấy ra được thì đích thân dùng, nêu danh lấy thỉnh, đặc biệt nấu chính một chút',
-    commentBeforeVerse: 
+    commentBeforeVerse:
     '',
     verse:
-      'Quạt rách xin tê giác, / ' +  
-      'chữ ở trong cái chén trọn là có nguyên nhân, / ' +  
-      'ai biết cây quế sừng sững ngàn năm, / ' +  
+      'Quạt rách xin tê giác, / ' +
+      'chữ ở trong cái chén trọn là có nguyên nhân, / ' +
+      'ai biết cây quế sừng sững ngàn năm, / ' +
       'khéo thông minh một chút thu',
     verseExtraOriginal: '',
     verseExtra: '',
     commentAfterVerse:
-      'Sư nói: Mọi người khắp nơi bảo, cánh quạt vẽ tê giác đùa cùng trăng, có người nói: Sừng tê giác là cánh quạt. / ' + 
-    'Có người nói: Lấy tê giác làm cái cán, đều gọi là quạt tê giá. / ' + 
-    'Lúc ấy Giám Quan trải chiếu ra, mọi người đều đưa ra một cái cán, chỉ có Tư Phước liền quay lại đúng cho 30 gậy vào gót chân, hà huống qua sông, đến bây giờ có vị Tăng vừa đi ra, Sư nói không chịu nổi lên càng nói, Phàm giảm tứ quý nhất là lời nói: Tông môn quý là dụng, vì chữ trong chén đều có nguyên nhân. / ' + 
-    'Huyền Sa bảo Đại chúng rằng: Ta có chánh pháp Nhãn Tạng, phó chúc cho ma Ha Ca-diếp giống như vẽ mặt trăng, Tào Khê dựng phất trần như chỉ mặt trăng, cây quế mới là mặt trăng. / ' + 
-    'Kinh Niết Bàn nói: Đức Thế Tôn phóng hào quang nguyệt ái.  / ' + 
-    'Vua A Xà Thế phiền não Thanh Lương, cho nên nói: Chỉ có cây quế sừng sừng ngàn năm, khéo thông suốt mùa Thu một chút, có thể nói cán lớn ở trong tay, gió mát thường đến mình, nói cái quạt tê giác, nêu ra nhiều bài tụng nhất lại có nguyên do không từng gặp nhau với Giám Quan. / ' + 
+      'Sư nói: Mọi người khắp nơi bảo, cánh quạt vẽ tê giác đùa cùng trăng, có người nói: Sừng tê giác là cánh quạt. / ' +
+    'Có người nói: Lấy tê giác làm cái cán, đều gọi là quạt tê giá. / ' +
+    'Lúc ấy Giám Quan trải chiếu ra, mọi người đều đưa ra một cái cán, chỉ có Tư Phước liền quay lại đúng cho 30 gậy vào gót chân, hà huống qua sông, đến bây giờ có vị Tăng vừa đi ra, Sư nói không chịu nổi lên càng nói, Phàm giảm tứ quý nhất là lời nói: Tông môn quý là dụng, vì chữ trong chén đều có nguyên nhân. / ' +
+    'Huyền Sa bảo Đại chúng rằng: Ta có chánh pháp Nhãn Tạng, phó chúc cho ma Ha Ca-diếp giống như vẽ mặt trăng, Tào Khê dựng phất trần như chỉ mặt trăng, cây quế mới là mặt trăng. / ' +
+    'Kinh Niết Bàn nói: Đức Thế Tôn phóng hào quang nguyệt ái.  / ' +
+    'Vua A Xà Thế phiền não Thanh Lương, cho nên nói: Chỉ có cây quế sừng sừng ngàn năm, khéo thông suốt mùa Thu một chút, có thể nói cán lớn ở trong tay, gió mát thường đến mình, nói cái quạt tê giác, nêu ra nhiều bài tụng nhất lại có nguyên do không từng gặp nhau với Giám Quan. / ' +
     'Vạn Tùng nếu làm thị giả, nghe Sư nói đưa cái quạt tê giác cho ta, có nhiều thứ như lông vũ, giấy cói, thẻ tre, lụa phỏng, lụa sống, cây cọ, bò rừng, thuận tay lấy cho một cái cán, người nào dù có ngàn thứ khéo léo, cuối cùng phong cách khác nhau.',
   },
   {
@@ -1499,40 +1499,40 @@ const CongRongLu = [
     intro:
       'Dạy đại chúng rằng: Sương và tuyết một màu, trăng hòa nhau, đông cứng quyết pháp thân, làm tổn hại ngư phũ, còn chịu thưởng, ngoạn không?',
     main:
-      'Ngưỡng Sơn chỉ Tuyết Sư Tử hỏi: Còn có thứ nào trội hơn màu này không?  / ' + 
-      'Vân Môn đáp: Lúc ấy liền cho một đạp té nhào.  / ' +   / ' + 
+      'Ngưỡng Sơn chỉ Tuyết Sư Tử hỏi: Còn có thứ nào trội hơn màu này không?  / ' +
+      'Vân Môn đáp: Lúc ấy liền cho một đạp té nhào.  / ' +
       'Tuyết Đậu nói: Chỉ biết đạp nhào mà không biết đỡ dậy.',
     commentBeforeVerse:
-      'Sư nói: Người xưa đối cơ gặp vật, phát minh một đoạn vật lớn trước kiếp không  / ' + 
-      'Kinh Pháp Hoa nói: Thuần một tướng có xen tạp đầy đủ tướng phạm hạnh thanh bạch.  / ' +  
+      'Sư nói: Người xưa đối cơ gặp vật, phát minh một đoạn vật lớn trước kiếp không  / ' +
+      'Kinh Pháp Hoa nói: Thuần một tướng có xen tạp đầy đủ tướng phạm hạnh thanh bạch.  / ' +
       'Có thuyết cho rằng: Màu trắng là nguồn gốc của các màu, nhất thừa là nguồn gốc của các thừa, mà không nói màu trắng hướng thượng càng có sự nghiệp, cho nên Ngưỡng Sơn chỉ Tuyết Sư Tử bảo đại chúng: Còn có thứ nào trội hơn thứ này không? / ' +
-      'Lại màu trắng là gốc của các màu sắc, màu của tuyết rất trắng, như vậy còn có màu nào trội hơn nó được.  / ' + 
-      'Vạn Tùng nói: Đã gọi là sắc, nhất định đối với nhãn căn, màu trội hơn màu trắng, chỉ có thứ vô sắc không đối đãi với nhãn căn.  / ' +  
-      'Cho nên Tuyết Phong nói: Lúc đó cho một đạp lộn nhào, như hướng đến chổ rất trắng hay không trắng bằng lòng, chính là rơi vào trong cõi vô sắc.  / ' +  
-      'Cho nên Tuyết Đậu chỉ đưa ra một con đường sống, hướng đến chổ đạp té nhào, lại bảo đỡ dậy. Phật Nhãn nói: Nếu ở đây mà đỡ dậy thì sinh ra lắm việc.  / ' + 
-      'Vạn Tùng nói: Nếu là phái khác Tông khác, không nói không được, cần phải biết Tông phong của Động Sơn, chính là lúc té nhào liền đứng dậy, chính lúc đứng dậy là lúc té nhào, sau đó đứng dậy té nhào cùng một lúc, đứng dậy té nhào không lập, lại mua giày cỏ, 30 năm hành cước không thấy.  / ' + 
-      'Phật Giác tụng rằng: “Màu sắc không gì bằng dạy người, rỏ ràng trong thế giới bạch Kim, tự nhiên đạp nhào rồi đỡ dậy, đâu như gió đông rọi ngày mới”.  / ' + 
+      'Lại màu trắng là gốc của các màu sắc, màu của tuyết rất trắng, như vậy còn có màu nào trội hơn nó được.  / ' +
+      'Vạn Tùng nói: Đã gọi là sắc, nhất định đối với nhãn căn, màu trội hơn màu trắng, chỉ có thứ vô sắc không đối đãi với nhãn căn.  / ' +
+      'Cho nên Tuyết Phong nói: Lúc đó cho một đạp lộn nhào, như hướng đến chổ rất trắng hay không trắng bằng lòng, chính là rơi vào trong cõi vô sắc.  / ' +
+      'Cho nên Tuyết Đậu chỉ đưa ra một con đường sống, hướng đến chổ đạp té nhào, lại bảo đỡ dậy. Phật Nhãn nói: Nếu ở đây mà đỡ dậy thì sinh ra lắm việc.  / ' +
+      'Vạn Tùng nói: Nếu là phái khác Tông khác, không nói không được, cần phải biết Tông phong của Động Sơn, chính là lúc té nhào liền đứng dậy, chính lúc đứng dậy là lúc té nhào, sau đó đứng dậy té nhào cùng một lúc, đứng dậy té nhào không lập, lại mua giày cỏ, 30 năm hành cước không thấy.  / ' +
+      'Phật Giác tụng rằng: “Màu sắc không gì bằng dạy người, rỏ ràng trong thế giới bạch Kim, tự nhiên đạp nhào rồi đỡ dậy, đâu như gió đông rọi ngày mới”.  / ' +
       'Vạn Tùng nói: Sau khi mặt trời mọc một phen thẹn hổ giống như học nhân, thấy Vân Môn đạp nhào, Tuyết Đậu đỡ dậy, mới làm cho cơ phong chuyển đổi, đại dụng không thể hiểu, nhìn đến bên một màu sắc không được lãnh hội bên màu sắc, cho là mạch máu của Tông chỉ, đã có Phật Giác là chứng, như có người không tin thì hỏi Thiên Đồng',
     verseOriginal: '',
     verse:
-      'Tuyết Đình Sư Tử vừa té vừa dậy,  / ' + 
-      'thận trọng khởi lòng nhân đối với mọi người,  / ' + 
-      'dõng mãnh thấy nghĩa ở nơi hành vị,  / ' + 
-      'ánh sáng soi mặt tợ nhà mê,  / ' + 
-      'rỏ ràng chuyển thân còn theo vị,  / ' +  
-      'nhà Nạp Tăng không gửi,  / ' +  
-      'cùng sống cùng chết cho sao đành?  / ' +  
-      'Tin nắng hại mai hề Xuân đến cành lạnh  / ' +  
+      'Tuyết Đình Sư Tử vừa té vừa dậy,  / ' +
+      'thận trọng khởi lòng nhân đối với mọi người,  / ' +
+      'dõng mãnh thấy nghĩa ở nơi hành vị,  / ' +
+      'ánh sáng soi mặt tợ nhà mê,  / ' +
+      'rỏ ràng chuyển thân còn theo vị,  / ' +
+      'nhà Nạp Tăng không gửi,  / ' +
+      'cùng sống cùng chết cho sao đành?  / ' +
+      'Tin nắng hại mai hề Xuân đến cành lạnh  / ' +
       'gió rét rời hề nước Thu lạnh giá.',
     verseExtraOriginal: '',
     verseExtra: '',
     commentAfterVerse:
-      'Sư nói: Vân Môn vừa té nhào, Tuyết Đậu vừa đứng lên. Ngưỡng Sơn chỉ Sư Tử, muốn qua màu sắc này, đỉnh 3 chân không thể thiếu một, Tam huyền tam yếu ở nơi đây. / ' + 
-      'Ngưỡng Sơn sợ người trong sáng suốt há không dè chừng phạm tội là ấp ủ nhân đức, chỉ như người bảo qua màu sắc há chẳng dũng mãnh là để thấy nghĩa. / ' +  
-      'Cô Ngữ nói: Thấy việc nghĩa không làm là không dõng mãnh? / ' + 
-      'Vân Môn lại sợ ngồi ở bên một màu sắc, há không dễ chừng phạm tội nhân đức, liền cho một đạp, cũng là dũng mãnh, làm để thấy nghĩa. / ' + 
-      'Tuyết Đậu sợ người chỉ biết té nhào, mới dè chừng phạm tội ấp ủ nhân đức, lại có thể đở dậy dõng mãnh là để thấy việc nữa. / ' + 
-      'Không thấy Triệu Châu nói: Lão Tăng không ở trong sự sáng suốt, nhờ ánh sáng mát mẽ chiếu vào con mắt như nhà mê, sáng suốt chuyển thân chưa tránh khỏi vào địa vị, chỉ biết té nhào không biết đứng lên, làm sao cam chịu? Bản sắc của Nạp Tăng như viên minh châu lăn trên mâm, tuy đồng sinh, đồng tử mà không ở trong sinh tử. / ' + 
+      'Sư nói: Vân Môn vừa té nhào, Tuyết Đậu vừa đứng lên. Ngưỡng Sơn chỉ Sư Tử, muốn qua màu sắc này, đỉnh 3 chân không thể thiếu một, Tam huyền tam yếu ở nơi đây. / ' +
+      'Ngưỡng Sơn sợ người trong sáng suốt há không dè chừng phạm tội là ấp ủ nhân đức, chỉ như người bảo qua màu sắc há chẳng dũng mãnh là để thấy nghĩa. / ' +
+      'Cô Ngữ nói: Thấy việc nghĩa không làm là không dõng mãnh? / ' +
+      'Vân Môn lại sợ ngồi ở bên một màu sắc, há không dễ chừng phạm tội nhân đức, liền cho một đạp, cũng là dũng mãnh, làm để thấy nghĩa. / ' +
+      'Tuyết Đậu sợ người chỉ biết té nhào, mới dè chừng phạm tội ấp ủ nhân đức, lại có thể đở dậy dõng mãnh là để thấy việc nữa. / ' +
+      'Không thấy Triệu Châu nói: Lão Tăng không ở trong sự sáng suốt, nhờ ánh sáng mát mẽ chiếu vào con mắt như nhà mê, sáng suốt chuyển thân chưa tránh khỏi vào địa vị, chỉ biết té nhào không biết đứng lên, làm sao cam chịu? Bản sắc của Nạp Tăng như viên minh châu lăn trên mâm, tuy đồng sinh, đồng tử mà không ở trong sinh tử. / ' +
       'Tuy không có kia đây nhưng không có quyền tập kia, đây 2 câu cuối, có khi nói do ánh mắt trời, có khi ở trước đường trăng sáng, vạn cổ trường không một sáng gió trăng, ban mai ve sầu. / ' +
       'Hãy nói: Mà nay thời tiết gì? Lại tùy theo cây lâu năm khô héo dần, theo gió Xuân vào thiêu đốt tỳ vết.',
   },
