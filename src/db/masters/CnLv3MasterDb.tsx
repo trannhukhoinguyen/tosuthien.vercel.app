@@ -25,6 +25,7 @@ const CnLv3MasterDb = [
   {
     id: '36.3.2',
     hasContent: true,
+    isEminent: true,
     name_en: 'Yaoshan Weiyan',
     name_es: 'Yaoshan Weiyan',
     name_de: 'Yaoshan Weiyan',

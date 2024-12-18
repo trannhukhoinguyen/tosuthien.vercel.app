@@ -9,7 +9,7 @@ const { sect, mastersDb } = Astro.props;
 <h5>...</h5>
 <div class="periodic-table">
   {
-    mastersDb?.filter((master, index) => index === 0 )?.map(master =>  <a class="periodic-element social-media" data-description={`${master?.name_en} [${master?.name_vi}]`} href={`/masters/${master?.name_en?.toLowerCase()?.replace(/ /g, '-')}`} target="_blank">
+    mastersDb?.filter((master, index) => index === 0 )?.map(master =>  <a class="periodic-element social-media" data-description={`${master?.name_en} [${master?.name_vi}, ${master?.name_zh}]`} href={`/masters/${master?.name_en?.toLowerCase()?.replace(/ /g, '-')}`} target="_blank">
       <div class="periodic-element-inner">
           <div class="title">
             {master?.name_en?.split(' ')[0]?.charAt(0) + master?.name_en?.split(' ')[1]?.charAt(0)}
@@ -19,8 +19,8 @@ const { sect, mastersDb } = Astro.props;
       </a>)
   }
   {
-    mastersDb?.filter((master, index) => index !== 0 && master.hasContent && master.eminent)?.map(master =>
-      <a class="periodic-element fun-stuff" data-description={`${master?.name_en} [${master?.name_vi}]`} href={`/masters/${master?.name_en?.toLowerCase()?.replace(/ /g, '-')}`} target="_blank">
+    mastersDb?.filter((master, index) => index !== 0 && master.hasContent && master.isEminent)?.map(master =>
+      <a class="periodic-element fun-stuff" data-description={`${master?.name_en} [${master?.name_vi}, ${master?.name_zh}]`} href={`/masters/${master?.name_en?.toLowerCase()?.replace(/ /g, '-')}`} target="_blank">
         <div class="periodic-element-inner">
           <div class="title">
             {master?.name_en?.split(' ')[0]?.charAt(0) + master?.name_en?.split(' ')[1]?.charAt(0)}
@@ -30,8 +30,8 @@ const { sect, mastersDb } = Astro.props;
       </a>)
   }
   {
-    mastersDb?.filter((master, index) => index !== 0 && master.hasContent && !master.eminent )?.map(master =>
-      <a class="periodic-element just-trying" data-description={`${master?.name_en} [${master?.name_vi}]`} href={`/masters/${master?.name_en?.toLowerCase()?.replace(/ /g, '-')}`} target="_blank">
+    mastersDb?.filter((master, index) => index !== 0 && master.hasContent && !master.isEminent )?.map(master =>
+      <a class="periodic-element just-trying" data-description={`${master?.name_en} [${master?.name_vi}, ${master?.name_zh}]`} href={`/masters/${master?.name_en?.toLowerCase()?.replace(/ /g, '-')}`} target="_blank">
         <div class="periodic-element-inner">
           <div class="title">
             {master?.name_en?.split(' ')[0]?.charAt(0) + master?.name_en?.split(' ')[1]?.charAt(0)}
@@ -42,7 +42,7 @@ const { sect, mastersDb } = Astro.props;
   }
   {
     mastersDb?.filter((master, index) => index !== 0 && !master.hasContent )?.map(master =>
-      <div class="periodic-element intense-work" data-description={`${master?.name_en} [${master?.name_vi}]`}>
+      <div class="periodic-element intense-work" data-description={`${master?.name_en} [${master?.name_vi}, ${master?.name_zh}]`}>
         <div class="periodic-element-inner">
           <div class="title">
             {master?.name_en?.split(' ')[0]?.charAt(0) + master?.name_en?.split(' ')[1]?.charAt(0)}
@@ -54,7 +54,16 @@ const { sect, mastersDb } = Astro.props;
 </div>
 
 <div class="legend-table">
-  <div class="legend-table__wrapper"><span class="legend-table__marker social-media"></span><span class="legend-table__text">Social Media</span><span class="legend-table__marker intense-work"></span><span class="legend-table__text">Serious Work</span><span class="legend-table__marker just-trying"></span><span class="legend-table__text">Personal Development</span><span class="legend-table__marker fun-stuff"></span><span class="legend-table__text">Fun Stuff</span><br/>
+  <div class="legend-table__wrapper">
+    <span class="legend-table__marker social-media"></span>
+    <span class="legend-table__text">Founder(s)</span>
+    <span class="legend-table__marker just-trying"></span>
+    <span class="legend-table__text">Has article(s)</span>
+    <span class="legend-table__marker fun-stuff"></span>
+    <span class="legend-table__text">Featured</span>
+    <span class="legend-table__marker intense-work"></span>
+    <span class="legend-table__text">Others</span>
+    <br/>
     <div class="legend-table__direction"><span>&#8594; &ensp; Across the table: Importance</span></div>
     <div class="legend-table__direction"><span>&#8595; &ensp; Down the table: Time Spent</span></div>
   </div>

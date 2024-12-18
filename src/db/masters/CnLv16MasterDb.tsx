@@ -1,7 +1,7 @@
 const CnLv16MasterDb = [
   {
     id: '49.16.1',
-    eminent: true,
+    isEminent: true,
     name_en: 'Huqiu Shaolong',
     name_es: 'Huqiu Shaolong',
     name_de: 'Huqiu Shaolong',
@@ -49,7 +49,7 @@ const CnLv16MasterDb = [
   {
     id: '49.16.3',
     hasContent: true,
-    eminent: true,
+    isEminent: true,
     name_en: 'Dahui Zonggao',
     name_es: 'Dahui Zonggao',
     name_de: 'Dahui Zonggao',
@@ -67,7 +67,7 @@ const CnLv16MasterDb = [
     place: '-',
     teachers: ['Yuanwu Keqin'],
     successors: [''],
-    disciples: ['Zhuo'an Fozhao Deguang', 'Zishou Miaozong', 'Kaixi Daoqian', 'Miaodao Dingguang', 'Xiangyun Tanyi', 'Wuji Lepai',],
+    disciples: ['Fozhao Deguang', 'Zishou Miaozong', 'Kaixi Daoqian', 'Miaodao Dingguang', 'Xiangyun Tanyi', 'Wuji Lepai',],
     image: '/images/avatar.png',
     reference: ['',],
   },

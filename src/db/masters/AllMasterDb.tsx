@@ -100,6 +100,6 @@ export const AllSectMasters = [
   ...CnYunmenMasters,
   ...CnYangqiMasters,
   ...CnHuanglongMasters,
-]
-export const CnOtherMasterDb = CnMasters?.flat().filter(masterDb => masterDb.sect.includes('-'))
-export const OtherMasterDb = AllMasters?.filter(master => master.sect.includes('-'))
+];
+export const CnOtherMasterDb = CnMasters?.flat().filter(masterDb => masterDb.sect.includes('-'));
+export const OtherMasterDb = AllMasters?.filter(master => master.sect.includes('-'));

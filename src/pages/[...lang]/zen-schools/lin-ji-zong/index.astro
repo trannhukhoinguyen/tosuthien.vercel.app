@@ -16,8 +16,6 @@ const { lang } = Astro.params;
 ---
 
 <Base>
-<MakeupPalettes quantity={2} />
-<PeriodicTable sect={ sectDb.find(sect=> sect.label === 'Linji') } mastersDb={ CnLinjiMasters } />
-<hr/>
-
+  <MakeupPalettes quantity={2} />
+  <PeriodicTable sect={ sectDb.find(sect=> sect.label === 'Linji') } mastersDb={ CnLinjiMasters } />
 </Base>

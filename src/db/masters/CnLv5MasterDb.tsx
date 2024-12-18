@@ -113,7 +113,7 @@ const CnLv5MasterDb = [
     name_ar: 'Linji Yixuan',
     birth_death_time: ['?', '866/867'],
     records: '',
-    sect: ['-'],
+    sect: ['Linji'],
     country: 'China',
     place: 'Zhengzhou',
     teachers: ['Huangbo Xiyun'],
