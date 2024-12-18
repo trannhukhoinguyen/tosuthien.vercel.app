@@ -20,7 +20,7 @@ const filteredSupportedLang = supportedLang.filter(
 );
 
 export default defineConfig({
-  base: process.env.NODE_ENV === 'production' ? '/production/' : '/',
+  // base: process.env.NODE_ENV === 'production' ? '/production/' : '/',
   site: config.site.base_url ? config.site.base_url : "https://tosuthien.quest",
   trailingSlash: config.site.trailing_slash ? "always" : "ignore",
   i18n: {

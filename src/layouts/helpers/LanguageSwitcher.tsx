@@ -32,9 +32,10 @@ const LanguageSwitcher = ({
         onChange={(e) => {
           const selectedLang = e.target.value;
           let newPath;
-          const baseUrl = import.meta.env.NODE_ENV === 'production'
+/*          const baseUrl = import.meta.env.NODE_ENV === 'production'
             ? "https://tosuthien.quest"
-            : window.location.origin;
+            : window.location.origin;*/
+          const baseUrl = window.location.origin;
           const interUrl = "https://patriarchalzen.quest";
 
           if (selectedLang === default_language) {
