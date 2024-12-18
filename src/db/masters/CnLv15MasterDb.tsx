@@ -18,7 +18,7 @@ const CnLv15MasterDb = [
     place: '-',
     teachers: ['Wuzu Fayan'],
     successors: [''],
-    disciples: ['Huqiu Shaolong', 'Huguo Jingyuan', 'Dahui Zonggao'],
+    disciples: ['Huqiu Shaolong', 'Huguo Jingyuan?', 'Wuyong Jingquan?', 'Dahui Zonggao', 'Miyin Anmin', 'Foxing Fatai', 'Cunpu Chanren', 'Xiangyun Tanyi'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Vi%C3%AAn_Ng%E1%BB%99_Kh%E1%BA%AFc_C%E1%BA%A7n',],
   },

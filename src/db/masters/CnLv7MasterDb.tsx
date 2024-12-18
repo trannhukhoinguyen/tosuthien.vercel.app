@@ -260,7 +260,7 @@ const CnLv7MasterDb = [
     place: '-',
     teachers: ['Sushan Kuangren'],
     successors: [''],
-    disciples: [],
+    disciples: [''],
     image: '',
     reference: ['https://pl.wikipedia.org/wiki/Huguo_Shoucheng', 'https://terebess.hu/zen/mesterek/herit.pdf'],
   },

@@ -32,24 +32,29 @@ const LanguageSwitcher = ({
         onChange={(e) => {
           const selectedLang = e.target.value;
           let newPath;
-/*          const baseUrl = import.meta.env.NODE_ENV === 'production'
-            ? "https://tosuthien.quest"
-            : window.location.origin;*/
-          const baseUrl = window.location.origin;
+          let baseUrl;
           const interUrl = "https://patriarchalzen.quest";
-
-          if (selectedLang === default_language) {
-            if (default_language_in_subdir) {
-              newPath = `${baseUrl}/${default_language}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
-            } else {
-              newPath = `${baseUrl}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
-            }
-          } else {
-            newPath = import.meta.env.NODE_ENV === 'production'
-              ? `${interUrl}/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`
-              : `/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`
+          if (import.meta.env.NODE_ENV === 'production' && selectedLang !== default_language) {
+              window.location.href = `${interUrl}/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+          } else if (import.meta.env.NODE_ENV === 'development' && selectedLang !== default_language) {
+              window.location.href = `/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+          } else if (import.meta.env.NODE_ENV === 'production' && selectedLang === default_language) {
+              baseUrl = "https://tosuthien.quest";
+              if (default_language_in_subdir) {
+                newPath = `${baseUrl}/${default_language}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+              } else {
+                newPath = `${baseUrl}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+              }
+              window.location.href = newPath;
+          }  else if (import.meta.env.NODE_ENV === 'development' && selectedLang === default_language) {
+              baseUrl = window.location.origin;
+              if (default_language_in_subdir) {
+                newPath = `${baseUrl}/${default_language}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+              } else {
+                newPath = `${baseUrl}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+              }
+              window.location.href = newPath;
           }
-          window.location.href = newPath;
         }}
         value={lang}
       >
