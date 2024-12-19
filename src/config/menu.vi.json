@@ -1,8 +1,8 @@
 {
   "main": [
     { "name": "Trang chủ", "url": "/" },
-    { "name": "Blog", "url": "/blogs" },
-{ "name": "🕯", "url": "/candle-off" },
+    { "name": "Thiền", "url": "/zen-blogs" },
+    { "name": "🕯", "url": "/candle-off" },
     {
       "name": "Thiền sư",
       "url": "/masters",
