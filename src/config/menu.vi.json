@@ -1,17 +1,16 @@
 {
   "main": [
     { "name": "Trang chủ", "url": "/" },
-    { "name": "Thiền", "url": "/zen-blogs" },
+    { "name": "Là gì?", "url": "/zen-blogs" },
     { "name": "🕯", "url": "/candle-off" },
+    
     {
       "name": "Thiền sư",
       "url": "/masters",
       "hasChildren": true,
       "children": [
         { "name": "Thiền sư", "url": "/masters" },
-        { "name": "Ngữ lục Đối đáp", "url": "/conversations" },
-        { "name": "Hỏi đáp", "url": "/faqs" },
-{ "name": "Tông phái", "url": "/zen-schools" }
+        { "name": "Tông phái", "url": "/zen-schools" }
       ]
     },
     {
@@ -20,6 +19,8 @@
       "hasChildren": true,
       "children": [
         { "name": "Ngữ lục sách tấn", "url": "/teachings" },
+        { "name": "Ngữ lục Đối đáp", "url": "/conversations" },
+        { "name": "Hỏi đáp", "url": "/faqs" },
         { "name": "Công án", "url": "/koans" }
       ]
     },
