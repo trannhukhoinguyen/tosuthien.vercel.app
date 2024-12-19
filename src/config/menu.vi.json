@@ -2,6 +2,7 @@
   "main": [
     { "name": "Trang chủ", "url": "/" },
     { "name": "Blog", "url": "/blogs" },
+{ "name": "🕯", "url": "/candle-off" },
     {
       "name": "Thiền sư",
       "url": "/masters",
@@ -18,7 +19,6 @@
       "url": "/masterpieces",
       "hasChildren": true,
       "children": [
-        { "name": "Tắt nến", "url": "/candle-off" },
         { "name": "Ngữ lục sách tấn", "url": "/teachings" },
         { "name": "Công án", "url": "/koans" }
       ]
