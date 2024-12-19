@@ -7,7 +7,7 @@
       "url": "/masters",
       "hasChildren": true,
       "children": [
-        { "name": "Zen Masters & Teaching", "url": "/masters" },
+        { "name": "Zen Masters", "url": "/masters" },
         { "name": "FAQs", "url": "/faqs" }
       ]
     },
