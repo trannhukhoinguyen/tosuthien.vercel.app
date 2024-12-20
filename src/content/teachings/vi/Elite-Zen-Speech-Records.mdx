@@ -10,113 +10,94 @@ draft: false
 
 import '@/styles/additional/SpeechRecords.scss'
 
+<div class="space-y-3">
+  <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
+    <div class="flex items-center gap-3">
+      <div class="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center">
+        <img class="rounded-circle" src="/images/avatar-sm.png" />
+      </div>
+      <div class="flex-1">
+        <div class="flex justify-between items-start">
+          <div>
+            <h3 class="text-sm font-medium text-gray-900">aaa</h3>
+            <div class="flex items-center mt-1">
+              <span class="text-xs text-gray-500 ml-1">---</span>
+            </div>
+          </div>
+        </div>
+        <div class="flex items-center gap-2 mt-2">
+          <span class="inline-flex items-center gap-1 bg-blue-50 text-blue-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
+            <span class="m-2">---</span>
+          </span>
+          <span class="inline-flex items-center gap-1 bg-yellow-50 text-yellow-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
+            <span class="m-2">---</span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
+    <div class="flex items-center gap-3">
+      <div class="w-10 h-10 bg-red-100 rounded-full flex items-center justify-center">
+        <img class="rounded-circle" src="/images/avatar-sm.png" />
+      </div>
+      <div class="flex-1">
+        <div class="flex justify-between items-start">
+          <div>
+            <h3 class="text-sm font-medium text-gray-900">bbb</h3>
+            <div class="flex items-center mt-1">
+              <span class="text-xs text-gray-500 ml-1">---</span>
+            </div>
+          </div>
+          <button class="text-blue-600 hover:text-blue-700">
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </div>
+        <div class="flex items-center gap-2 mt-2">
+          <span class="inline-flex items-center gap-1 bg-red-50 text-red-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
+            <span class="m-2">---</span>
+          </span>
+          <span class="inline-flex items-center gap-1 bg-red-50 text-red-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
+            <span class="m-2">---</span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
+    <div class="flex items-center gap-3">
+      <div class="w-10 h-10 bg-green-100 rounded-full flex items-center justify-center">
+        <img class="rounded-circle" src="/images/avatar-sm.png" />
+      </div>
+      <div class="flex-1">
+        <div class="flex justify-between items-start">
+          <div>
+            <h3 class="text-sm font-medium text-gray-900">ccc</h3>
+            <div class="flex items-center mt-1">
+              <span class="text-xs text-gray-500 ml-1">---</span>
+            </div>
+          </div>
+        </div>
+        <div class="flex items-center gap-2 mt-2">
+          <span class="inline-flex items-center gap-1 bg-green-50 text-green-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
+            <span class="m-2">---</span>
+          </span>
+          <span class="inline-flex items-center gap-1 bg-gray-50 text-gray-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
+            <span class="m-2">---</span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div style="width: 50%; margin: auto">
   <Youtube client:load id="" title="" />
 </div>
 
 <div>
-
-  {/*<div class="space-y-3">
-    <!-- Approval Item 1 -->
-    <div class="bg-white rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
-      <div class="flex items-center gap-3">
-        <div class="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center">
-          <i class="fas fa-user text-blue-600"></i>
-        </div>
-        <div class="flex-1">
-          <div class="flex justify-between items-start">
-            <div>
-              <h3 class="text-sm font-medium text-gray-900">Sarah Johnson</h3>
-              <div class="flex items-center mt-1">
-                <i class="fas fa-calendar-alt text-gray-400 text-xs"></i>
-                <span class="text-xs text-gray-500 ml-1">5 days</span>
-              </div>
-            </div>
-            <button class="text-blue-600 hover:text-blue-700">
-              <i class="fas fa-chevron-right"></i>
-            </button>
-          </div>
-          <div class="flex items-center gap-2 mt-2">
-                            <span class="inline-flex items-center gap-1 bg-blue-50 text-blue-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
-                                <i class="fas fa-plane-departure text-xs"></i>
-                                Annual Leave
-                            </span>
-            <span class="inline-flex items-center gap-1 bg-yellow-50 text-yellow-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
-                                <i class="fas fa-clock text-xs"></i>
-                                Due in 2 days
-                            </span>
-          </div>
-        </div>
-      </div>
-    </div>
-
-      <!-- Approval Item 2 -->
-      <div class="bg-white rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
-        <div class="flex items-center gap-3">
-          <div class="w-10 h-10 bg-red-100 rounded-full flex items-center justify-center">
-            <i class="fas fa-user text-red-600"></i>
-          </div>
-          <div class="flex-1">
-            <div class="flex justify-between items-start">
-              <div>
-                <h3 class="text-sm font-medium text-gray-900">Michael Chen</h3>
-                <div class="flex items-center mt-1">
-                  <i class="fas fa-calendar-alt text-gray-400 text-xs"></i>
-                  <span class="text-xs text-gray-500 ml-1">2 days</span>
-                </div>
-              </div>
-              <button class="text-blue-600 hover:text-blue-700">
-                <i class="fas fa-chevron-right"></i>
-              </button>
-            </div>
-            <div class="flex items-center gap-2 mt-2">
-                              <span class="inline-flex items-center gap-1 bg-red-50 text-red-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
-                                  <i class="fas fa-notes-medical text-xs"></i>
-                                  Sick Leave
-                              </span>
-              <span class="inline-flex items-center gap-1 bg-red-50 text-red-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
-                                  <i class="fas fa-exclamation-circle text-xs"></i>
-                                  Due Today
-                              </span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Approval Item 3 -->
-      <div class="bg-white rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
-        <div class="flex items-center gap-3">
-          <div class="w-10 h-10 bg-green-100 rounded-full flex items-center justify-center">
-            <i class="fas fa-user text-green-600"></i>
-          </div>
-          <div class="flex-1">
-            <div class="flex justify-between items-start">
-              <div>
-                <h3 class="text-sm font-medium text-gray-900">Emma Wilson</h3>
-                <div class="flex items-center mt-1">
-                  <i class="fas fa-calendar-alt text-gray-400 text-xs"></i>
-                  <span class="text-xs text-gray-500 ml-1">1 day</span>
-                </div>
-              </div>
-              <button class="text-blue-600 hover:text-blue-700">
-                <i class="fas fa-chevron-right"></i>
-              </button>
-            </div>
-            <div class="flex items-center gap-2 mt-2">
-                              <span class="inline-flex items-center gap-1 bg-green-50 text-green-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
-                                  <i class="fas fa-user-clock text-xs"></i>
-                                  Personal Leave
-                              </span>
-              <span class="inline-flex items-center gap-1 bg-gray-50 text-gray-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
-                                  <i class="fas fa-clock text-xs"></i>
-                                  Due in 3 days
-                              </span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>*/}
-
   <ul>
 
     <li class="list-group-item">
