@@ -101,6 +101,7 @@ const CnLv5MasterDb = [
   {
     id: '38.5.5',
     hasContent: true,
+    anchor: 'Linji_Yixuan',
     name_en: 'Linji Yixuan',
     name_es: 'Linji Yixuan',
     name_de: 'Linji Yixuan',

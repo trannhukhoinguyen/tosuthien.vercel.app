@@ -50,6 +50,7 @@ const CnLv1MasterDb = [
   {
     id: '34.1.3',
     hasContent: true,
+    anchor: 'Nanyue_Huairang',
     name_en: 'Nanyue Huairang',
     name_es: 'Nanyue Huairang',
     name_de: 'Nanyue Huairang',
