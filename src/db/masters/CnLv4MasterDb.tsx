@@ -265,6 +265,7 @@ const CnLv4MasterDb = [
   {
     id: '37.4.13',
     hasContent: true,
+    anchor: 'Zhaozhou_Congshen',
     name_en: 'Zhaozhou Congshen',
     name_es: 'Zhaozhou Congshen',
     name_de: 'Zhaozhou Congshen',
