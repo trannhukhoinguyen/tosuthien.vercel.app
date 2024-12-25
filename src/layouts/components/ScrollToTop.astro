@@ -1,6 +1,6 @@
 ---
 // Tạo component ScrollToTop.astro
-import { useEffect, useState } from 'react';
+/*import { useEffect, useState } from 'react';
 
 const [isVisible, setIsVisible] = useState(false);
 
@@ -15,12 +15,12 @@ useEffect(() => {
 
   window.addEventListener('scroll', toggleVisibility);
   return () => window.removeEventListener('scroll', toggleVisibility);
-}, []);
+}, []);*/
 ---
 
-<div class="scroll-to-top" style:display={isVisible ? 'block' : 'none'} onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
+<!--<div class="scroll-to-top" style:display={isVisible ? 'block' : 'none'} onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
   ↑
-</div>
+</div>-->
 
 <style>
   .scroll-to-top {
