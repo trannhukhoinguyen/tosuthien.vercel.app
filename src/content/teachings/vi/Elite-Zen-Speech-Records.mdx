@@ -10,6 +10,7 @@ draft: false
 
 import '@/styles/additional/SpeechRecords.scss'
 import { AllMasters } from "../../../db/masters/AllMasterDb";
+import EliteRecords from "../../../db/teachings/vi/EliteRecords";
 
 <div class="flex">
 
@@ -32,6 +33,31 @@ import { AllMasters } from "../../../db/masters/AllMasterDb";
 
 <div class="space-y-3 speech-records">
 
+  {
+    EliteRecords?.map(rec =>  <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
+      <div class="flex items-center gap-3">
+        <div class="flex-1">
+          <div class="flex justify-between items-start">
+            <div id={rec.anchor}>
+              <div class="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center">
+                <img class="rounded-circle" src="/images/avatar-sm.png" />
+              </div>
+              <h3 class="text-lg font-medium text-gray-900 title"><a href={`/masters/${rec.anchor.toLowerCase().split('_').join('-')}`}>{rec.title}</a></h3>
+              <div class="flex items-center mt-1">
+                <span class="text-xs text-gray-500 ml-1">{rec.content}</span>
+              </div>
+            </div>
+          </div>
+          <div class="flex items-center gap-2 mt-2">
+          <span class="inline-flex items-center gap-1 bg-blue-50 text-blue-700 text-xs font-medium px-2.5 py-0.5 rounded-full">
+            <span class="m-2">{rec.id}</span>
+          </span>
+          </div>
+        </div>
+      </div>
+    </div>)
+  }
+
   <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
     <div class="flex items-center gap-3">
       <div class="flex-1">
@@ -42,7 +68,7 @@ import { AllMasters } from "../../../db/masters/AllMasterDb";
             </div>
             <h3 class="text-lg font-medium text-gray-900 title"><a href="/masters/nanyue-huairang">TS. HOÀI NHƯỢNG - Nam Nhạc</a></h3>
             <div class="flex items-center mt-1">
-              <span class="text-xs text-gray-500 ml-1" id="Nanyue_Huairang_records">
+              <span class="text-xs text-gray-500 ml-1">
             - Như trâu kéo xe, nếu xe không đi, đánh xe là phải hay đánh trâu là phải?
 
             - Ngươi học ngồi thiền hay học ngồi Phật? Nếu học ngồi thiền, thiền không phải ngồi nằm.
