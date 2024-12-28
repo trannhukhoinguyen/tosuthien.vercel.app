@@ -2,30 +2,75 @@
 title: "Triệu Luận - 肇論"
 meta_title: "Triệu Luận - 肇論"
 description: "Triệu Luận - 肇論"
-date: 2024-10-27
+date: 2024-12-28
 image: "/images/meta-image-wide.jpg"
 tags: ['Alert']
 draft: false
 ---
 
+import VintagePost from "../../../layouts/components/VintagePost.astro";
+import ZhaoLun from "../../../db/teachings/vi/ZhaoLun.tsx";
+import ZhaoLunBriefExplanation from "../../../db/teachings/vi/ZhaoLunBriefExplanation.tsx";
+
+<div style="width: 50%; margin: auto">
+  <Youtube client:load id={ZhaoLunBriefExplanation?.youtubeId} title={ZhaoLunBriefExplanation?.title} />
+</div>
+
+<VintagePost
+  hasMultiParagraph={true}
+  bookTitle={ ZhaoLun?.title }
+  author={ ZhaoLun?.author }
+  image={ ZhaoLun?.image }
+  intro={ ZhaoLun?.intro }
+  multiParagraph={
+    [
+      ZhaoLun?.paragraph1,
+      ZhaoLun?.paragraph2,
+      ZhaoLun?.paragraph3,
+      ZhaoLun?.paragraph4,
+    ]
+  }
+  longVerse={ ZhaoLun?.verse }
+/>
+
+***
+
+<VintagePost
+  hasMultiParagraph={true}
+  bookTitle={ ZhaoLunBriefExplanation?.title }
+  author={ ZhaoLunBriefExplanation?.author }
+  image={ ZhaoLunBriefExplanation?.image }
+  intro={ ZhaoLunBriefExplanation?.intro }
+  multiParagraph={
+    [
+      ZhaoLunBriefExplanation?.paragraph1,
+      ZhaoLunBriefExplanation?.paragraph2,
+      ZhaoLunBriefExplanation?.paragraph3,
+      ZhaoLunBriefExplanation?.paragraph4,
+    ]
+  }
+  longVerse={ ZhaoLunBriefExplanation?.verse }
+/>
+
 <div className="grid bg-body dark:bg-darkmode-body">
 
     <div className="container vi-teachings">
       <h1>TRIỆU LUẬN - 肇論</h1>
-      <h1></h1>
-
-      <h4>[Đại sư] <em>Tăng Triệu</em></h4>
-      <h4>Master <em>Seng Zhao</em></h4>
-
-      <h4>Việt dịch: [Đại sư] <em>Thích Nhuận Châu</em></h4>
 
       <h1><em>https://thuvienhoasen.org/a35492/trieu-luan</em></h1>
       <h1><em>https://nigioikhatsi.net/viet/triet/trieuluan.html</em></h1>
-      <h1><em>https://quangduc.com/a35101/trieu-luan-luoc-giai</em></h1>
       <h1><em>https://thuvienhoasen.org/images/file/rwrKpPDQ2AgQAFRw/liebenthal-walter-1968-chao-lun-the-treatises-of-seng-chao.pdf</em></h1>
       <h1><em>https://zh.wikipedia.org/wiki/%E8%82%87%E8%AB%96</em></h1>
 
-      <h5>Tăng Triệu (zh. sēngzhào 僧肇, ja. sōjō), 374 hoặc 378-414, là một Cao tăng của Tam luận tông, một dạng Trung quán tông truyền từ Ấn Độ qua Trung Quốc. Có thể nói rằng, Sư là luận sư xuất sắc nhất của Trung Quốc ở đầu thế kỉ thứ năm và cũng là người đầu tiên trong Phật giáo Trung Quốc nắm vững và trình bày hoàn hảo giáo lý tính Không của Long Thụ. Tác phẩm nổi tiếng nhất của Sư là Triệu luận (zh. 肇論) và Bảo tạng luận (寶 藏 論). Sư cũng soạn bài tựa cho kinh Duy-ma-cật sở thuyết, bài tựa cho kinh Trường A-hàm và bài tựa cho Bách luận.</h5>
+      <h1>TRIỆU LUẬN LƯỢC GIẢI</h1>
+      <h1><em>https://quangduc.com/a35101/trieu-luan-luoc-giai</em></h1>
+
+      <h5>
+        Tăng Triệu (zh. Sēngzhào 僧肇, ja. Sōjō), 374 hoặc 378-414, là một Cao tăng của Tam luận tông, một dạng Trung quán tông truyền từ Ấn Độ qua Trung Quốc.
+        Có thể nói rằng, Sư là luận sư xuất sắc nhất của Trung Quốc ở đầu thế kỉ thứ năm và cũng là người đầu tiên trong Phật giáo Trung Quốc nắm vững và trình bày hoàn hảo giáo lý tính Không của Long Thụ.
+        Tác phẩm nổi tiếng nhất của Sư là Triệu luận (zh. 肇論) và Bảo tạng luận (寶 藏 論).
+        Sư cũng soạn bài tựa cho kinh Duy-ma-cật sở thuyết, bài tựa cho kinh Trường A-hàm và bài tựa cho Bách luận.
+      </h5>
     </div>
 
 </div>
