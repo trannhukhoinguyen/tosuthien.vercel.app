@@ -75,7 +75,7 @@ const {
            image ? <span class="storyImage" style={`background-image: url(${image})`}></span> : ''
 }
     </div>
-    
+
       {
         main
          ? <h4>{main_case}</h4>
@@ -89,7 +89,7 @@ const {
 
       {
         hasMultiParagraph && multiParagraph?.length
-         ? multiParagraph?.map(paragraph => paragraph.includes(' / ')
+         ? multiParagraph?.map(paragraph => paragraph?.includes(' / ')
              ? paragraph?.split(' / ').map(line => <p>{line}</p>)
               : <p>{paragraph}</p>
           )
