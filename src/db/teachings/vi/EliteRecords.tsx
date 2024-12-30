@@ -418,5 +418,15 @@ const EliteRecords = [
     content:
       "",
   },
+  {
+    id: 6,
+    title: "TS. TÔNG NHẤT (SƯ BỊ) - ở Huyền Sa",
+    author: "Huyền Sa Sư Bị",
+    anchor: 'Xuansha_Shibei',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "",
+  },
 ]
 export default EliteRecords
