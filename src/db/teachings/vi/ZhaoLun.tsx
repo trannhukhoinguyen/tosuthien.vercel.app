@@ -7,7 +7,7 @@ const ZhaoLun = {
   intro:
     "",
   paragraph1:
-    "Phần I: VỀ THỜI GIAN: VẬT BẤT THIÊN LUẬN" +
+    "Phần I: VỀ THỜI GIAN: VẬT BẤT THIÊN LUẬN / " +
     "I.1 / " +
     "Sinh tử tương tục giao tiếp, lạnh nóng lần lượt đổi thay, vạn vật[2] luân chuyển, đó là quan niệm thường tình của con người. Tôi cho không phải như thế. Tại sao? / " +
     "I.2 / " +
@@ -25,7 +25,7 @@ const ZhaoLun = {
     "Thật đáng thương cho nhân tình, bị mê lầm quá lâu. Tận mắt đối diện chân lý mà chẳng thấy được. Tuy biết vật xưa chẳng đến nay mà vẫn cho rằng vật ở hiện tại và có thể đi vào quá khứ. Vật đã đi qua vốn chẳng ở hiện tại, thì vật ở hiện tại làm sao để đi vào quá khứ?[15] Tại sao như vậy? / " +
     "Chứng minh / " +
     "Tìm vật đã đi qua trong quá khứ, thì trong quá khứ, vật chưa từng là không. Tìm vật đã đi qua nơi hiện tại, thì trong hiện tại, vật chưa từng có. Nơi hiện tại chưa từng có, nên rõ ràng vật không từ quá khứ đến hiện tại. Nơi quá khứ chưa từng không, cho nên biết rằng vật chẳng từ hiện tại đi vào quá khứ. / " +
-    "Nghiệm xét tìm ở hiện tại thì sự vật ở hiện tại cũng chẳng có đi qua. Do đó nên nói rằng, vật quá khứ tự tồn tại nơi quá khứ, không phải từ hiện tại đi vào quá khứ; vật hiện tại tự ở nơi hiện tại, không phải từ quá khứ đi đến hiện tại. / " +
+    "Nghiệm xét tìm ở hiện tại thì sự vật ở hiện tại cũng -chẳng có đi qua. Do đó nên nói rằng, vật quá khứ tự tồn tại nơi quá khứ, không phải từ hiện tại đi vào quá khứ; vật hiện tại tự ở nơi hiện tại, không phải từ quá khứ đi đến hiện tại. / " +
     "Cho nên Trọng Ni[16] nói: “Nhan Hồi, thấy ông tôi nghĩ rằng mới gặp, lát sau là hết rồi.” Như vậy, ắt vật không có tương tục đi đến; thật rõ như vậy. Đã không có dấu hiệu[17] vãng lai[18] (giữa quá khứ và hiện tại), thì có vật nào có thể di động? / " +
     "Như vậy, gió lốc[19] quay cuồng trên đỉnh núi cao mà vẫn thường tịnh; nước sông[20] cuồn cuộn chảy mà không lưu chuyển, bụi trần [21] lăng xăng mà không lay động, trăng xế ngang trời mà chẳng đi. Có kỳ lạ không?[22] / " +
     "II.4 / " +
@@ -50,7 +50,7 @@ const ZhaoLun = {
     "Vì sao? Quả không hiện hữu cùng lúc với nhân.[45] Do nơi nhân mà tạo nên quả. Do nhân tạo nên quả nên nhân không bị diệt ở thời quá khứ. Quả không hiện hữu cùng lúc với nhân, nên nhân không từ quá khứ đi đến hiện tại. Không diệt không đến, rõ ràng là không thiên chuyển. Còn có thể nào bị mê hoặc về ‘khứ’, ‘lưu’, còn phân vân về ‘động’, ‘tịnh’ nữa chăng? / " +
     "Như thế, trời đất[46] đảo ngược vẫn không gọi đó là chẳng tịnh, nước có vượt trời vẫn không gọi đó là động. Cho nên, nếu ta khế nhập[47] lĩnh hội thực tại vật như nó đang là -thì chẳng xa với lý Không biến thiên này.",
   paragraph2:
-    "Phần II: VỀ TÁNH KHÔNG (ŚŪNYATA): BẤT CHÂN KHÔNG LUẬN" +
+    "Phần II: VỀ TÁNH KHÔNG (ŚŪNYATA): BẤT CHÂN KHÔNG LUẬN / " +
     "I.1 / " +
     "Rỗng không[2] bất sinh, đó là tông chỉ nhiệm mầu của tấm gương soi Bát-nhã,[3] là tông chỉ tối cao của vạn vật.[4] Nếu không phải là người có khả năng minh giải siêu việt như bậc Thánh nhân, làm sao khế hội sai biệt giữa hữu và vô?[5] / " +
     "Thế nên Thánh nhân thông đạt tâm vi diệu[6] đến vô cùng, trùm khắp không ngưng trệ, nơi sự nghe thấy cùng tột của tai mắt, mà sức mạnh của thanh sắc chẳng thể hạn chế được. Há chẳng phải do vạn vật tự làm rỗng rang, nên vật không làm hệ lụy đến thần minh[7] được. / " +
@@ -103,7 +103,7 @@ const ZhaoLun = {
     "Cho nên bậc thánh hoá độ chúng sanh, thiên bá ức hóa thân mà chẳng biến đổi; vào cảnh giới huyễn hoặc,[61] sống chung thế gian mà thường dung thông, vì thấy vạn vật ngay đó tự không, chẳng cần dựa cái “không” để thấy không tất cả vật.[62] / " +
     "Nên Kinh[63] nói: “Thật hi hữu! Thế Tôn! Chân tế (bhūtakoṭi) bất động là nơi các pháp lập thành, không phải là xa lìa chân đế mà có kiến giải, nên mọi kiến giải đều là bản thể chân thật.” Theo đó, Đạo có đâu xa? Mọi ứng xử đều chân thật! Thánh nhân nào đâu xa? Khi nhận ra, thể chính là Thể hội ngay việc trước mắt tức là Thần[64] vậy!",
   paragraph3:
-    "Phần III: VỀ BÁT-NHÃ VÔ TRI: BÁT-NHÃ VÔ TRI LUẬN" +
+    "Phần III: VỀ BÁT-NHÃ VÔ TRI: BÁT-NHÃ VÔ TRI LUẬN / " +
     "I. 1 / " +
     "Tính huyền vi và rỗng lặng của Bát-nhã là nền tảng rốt ráo của Tam thừa.[2] Kỳ thực chân đế[3] vốn chẳng sai biệt. Tuy nhiên, sự tranh luận về các học thuyết sai lầm đã diễn ra rầm rộ trong thời gian khá dài. Nhưng vì có nhiều dị kiến, [4] tự lập tông phái luận bàn, làm cho tà kiến lan tràn khắp nơi / " +
     "I.2 / " +
@@ -297,7 +297,7 @@ const ZhaoLun = {
     "Lắm ngôn từ sinh nhiều biện giải, cũng như nhiều dấu chân thành nhiều nẻo đường khác nhau. Nhưng trong lời nói lại có điều không thể dùng đến ngôn từ; đã có dấu tích tất có điều không thể để lại dấu tích. Cho nên người giỏi ngôn từ thì tìm ngôn từ nơi không thể nói được bằng ngôn từ; kẻ giỏi về dấu tích thì tìm kiếm dấu tích nơi không để lại dấu tích.[259] Lý tắc siêu tuyệt vốn hư huyền; ai vừa để tâm vào đó là đã sai lạc rồi, huống gì lời nói. / " +
     "Dùng ngôn ngữ để hiển bày cái đạo tuyệt ngôn thì diễn tả cũng chẳng phải là diễn tả. Cho nên người khéo nói mà dùng ngôn ngữ thì tỏ bày được những điều người ta không thể tỏ bày. Người khéo diễn tả thì diễn tả được những điều mà người ta chẳng thể diễn tả.",
   paragraph4:
-    "Phần IV: NIẾT-BÀN VÔ DANH: NIẾT-BÀN VÔ DANH LUẬN" +
+    "Phần IV: NIẾT-BÀN VÔ DANH: NIẾT-BÀN VÔ DANH LUẬN / " +
     "Biểu Tấu Vua Tần / " +
     "Tăng Triệu nói: / " +
     "Triệu nghe Trời đạt nhất thể do thanh tịnh, Đất đạt nhất thể do an tĩnh, vua đạt nhất thể do cai trị thiên hạ.[2] Phủ phục trước sự sáng suốt minh triết của bệ hạ. Đạo đã hội ứng với thần linh của bệ hạ, nên lý tắc không làm sao mà không thông hợp, diệu khế như trung tâm chiếc kim hoàn.[3] Thong thả mà giải quyết vạn sự,[4] hoằng đạo[5] trọn ngày, uy đức bảo bọc trăm họ, văn chỉ của bệ hạ đã trở thành luật tắc cho nhân gian. Do đó người xưa nói rằng,[6] ‘Vũ trụ có bốn điều lớn, trong đó vương quyền là một.’ / " +
