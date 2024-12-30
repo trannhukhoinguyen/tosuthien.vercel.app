@@ -50,7 +50,6 @@ const CnLv1MasterDb = [
   {
     id: '34.1.3',
     hasContent: true,
-    anchor: 'Nanyue_Huairang',
     name_en: 'Nanyue Huairang',
     name_es: 'Nanyue Huairang',
     name_de: 'Nanyue Huairang',
@@ -1214,15 +1213,14 @@ const CnLv1MasterDb = [
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
   },
-{
+  {
     id: '34.1.54',
     hasContent: true,
-    anchor: 'Sikong_Benjing';
     name_en: 'Sikong Benjing',
     name_es: 'Sikong Benjing',
     name_de: 'Sikong Benjing',
     name_fr: 'Sikong Benjing',
-    name_vi: 'Tư Không Bản Tịnh',
+    name_vi: 'Tư Không Bổn Tịnh',
     name_ru: 'Sikong Benjing',
     name_zh: '司空本净',
     name_ja: 'Shikū Honjō',

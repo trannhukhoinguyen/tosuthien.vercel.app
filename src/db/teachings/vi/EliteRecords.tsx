@@ -2,7 +2,7 @@ const EliteRecords = [
   {
     id: 1,
     title: "TS. HOÀI NHƯỢNG - Nam Nhạc",
-    author: "",
+    author: "Nam Nhạc Hoài Nhượng",
     anchor: "Nanyue_Huairang",
     color: "blue",
     image: "/images/meta-image-square-1.png",
@@ -34,7 +34,7 @@ const EliteRecords = [
   {
     id: 2,
     title: "TS. VĂN ÍCH - núi Thanh Lương",
-    author: "",
+    author: "Pháp Nhãn Văn Ích",
     anchor: "Fayan_Wenyi",
     color: "red",
     image: "/images/meta-image-square-2.png",
@@ -100,7 +100,7 @@ const EliteRecords = [
       "            Do đó, mà thượng tọa chỉ nên thủ phận tùy thời, lấy bổn lai diện mục của tự kỷ mà hành sự. / " +
       "            Tạm biệt! / " +
       "            *** / " +
-      "            📀 Sư thượng đường, đại chúng đứng lâu. Sư bèn bảo chúng: / " +
+      "            # Sư thượng đường, đại chúng đứng lâu. Sư bèn bảo chúng: / " +
       "            > Chỉ thế ấy thì giải tán đi, lại có Phật pháp hay không, thử nói xem? Nếu không lại đến trong ấy làm gì? / " +
       "            Nếu có, thì trong chợ chỗ nhiều người tụ hội cũng có, cần gì phải đến trong ấy? / " +
       "            Chư vị! mỗi người đã từng xem Hoàn Nguyên quán, Bách Môn nghĩa hải, Hoa Nghiêm luận, Niết-bàn kinh, các kinh sách rất nhiều, cái gì trong kinh có thời tiết ấy? / " +
@@ -108,7 +108,7 @@ const EliteRecords = [
       "            Sở dĩ lời hay kẹt ở đầu tâm, thường làm môi trường cho duyên lự, thật tế ở ngay trước mắt, đổi làm cảnh danh tướng, lại làm sao được đổi? / " +
       "            Nếu đã đổi rồi thì làm sao được chánh? Hội chăng? Nếu chỉ niệm kinh sách thế ấy, có dùng vào chỗ gì? / " +
       "            *** / " +
-      "            📀 Sư lại nói: / " +
+      "            # Sư lại nói: / " +
       "            > Làm sao hội? Chớ nói, đến hỏi thế ấy, bèn chẳng được đạo của ông. / " +
       "            6 chỗ chẳng tri âm, chỗ mắt chẳng tri âm? chỗ tai chẳng tri âm? / " +
       "            Nếu vậy chỗ căn bản có tìm hiểu là không được. / " +
@@ -119,7 +119,7 @@ const EliteRecords = [
       "            Lại nói: khảy móng tay tròn thành tám vạn môn, sát-na diệt hết nghiệp ba kỳ. / " +
       "            Phải cần thể cứu. Nếu như thế dùng khí lực bao nhiêu? / " +
       "            *** / " +
-      "            📀 Sư thượng đường dạy chúng: / " +
+      "            # Sư thượng đường dạy chúng: / " +
       "            > Người xuất gia chỉ tùy thời và tiết, liền được lạnh thì lạnh, nóng thì nóng, muốn biết nghĩa Phật tánh phải quán thời tiết nhân duyên, / " +
       "            xưa nay phương tiện chẳng ít. / " +
       "            Đâu chẳng thấy Hòa thượng Thạch Đầu nhân xem Triệu Luận, trong ấy nói: hội muôn vật về nơi mình, kia chỉ là người Thánh vậy. / " +
@@ -134,7 +134,7 @@ const EliteRecords = [
       "            Thượng tọa! chỉ giữ phần tùy thời qua là tốt. / " +
       "            Trân trọng. / " +
       "            *** / " +
-      "            📀 Sư thượng đường bảo: / " +
+      "            # Sư thượng đường bảo: / " +
       "            > Chư Thượng tọa! Thời tiết lạnh cần gì đến đây? Hãy nói đến đây là tốt hay chẳng đến đây là tốt? / " +
       "            Hoặc có Thượng tọa nói: chẳng đến đây là tốt, vì chỗ nào chẳng phải, lại cần đến đây làm gì?. / " +
       "            Hoặc có Thượng tọa nói: y cũng chẳng đặng một chiều, cần đến chỗ Hòa thượng mới được. / " +
@@ -152,7 +152,7 @@ const EliteRecords = [
       "            Nếu chưa hội được, chớ nói: đều phải, đồng đến, toàn lấy. / " +
       "            > Chư Thượng tọa! người hành khước nhà bên cần phải xét kỹ, phải để hết tinh thần, không nên trông cậy vào trí tuệ chút ít, qua mất thời đẹp đẽ. / " +
       "            *** / " +
-      "            📀 Sư thượng đường nói: / " +
+      "            # Sư thượng đường nói: / " +
       "            > Này các thượng tọa, trời lạnh cần chi phải đến đây. Hãy nói coi đến đây tốt hay không đến đây tốt. / " +
       "            Hoặc có vị thượng tọa nói: ‘Không đến là tốt, có chỗ nào không đúng’. / " +
       "            Vậy thì đến đây làm gì? Có vị thượng tọa lại nói: ‘Vì y không được một hướng nên phải đến Hòa thượng mới được’. / " +
@@ -177,10 +177,10 @@ const EliteRecords = [
       "            Bậc Thánh xưa thấy chư cảnh chính là thấy tự tâm. / " +
       "            Lục Tổ nói: ‘Chẳng phải phướn động, chẳng phải gió động mà chính là tâm của nhân giả động’, thì nên hiểu theo thế nào mới đúng? / " +
       "            Đừng có thân nơi chỗ thân. / " +
-      "            📀 Sư nín lặng hồi lâu lại nói: / " +
+      "            Sư nín lặng hồi lâu lại nói: / " +
       "            > Này các vị thượng tọa, nháy mắt cũng được mà bóc gọt cũng được. / " +
       "            *** / " +
-      "            📀 Sư lại nói: / " +
+      "            # Sư lại nói: / " +
       "            > Câu hỏi đó là không hiểu lời của người xưa. Làm sao mà nói với họ là ông rất hiểu. / " +
       "            Nơi nào là chỗ họ hiểu. Phải chăng trong phần sự của họ liền điểm với họ. / " +
       "            Phải chăng vì họ không hiểu cách hỏi nên phản xạ họ. Vốn chẳng phải lý ấy. Hãy cẩn thận đừng hiểu lầm. / " +
@@ -191,7 +191,7 @@ const EliteRecords = [
       "            Phải nên nghiên cứu đạo nhãn mới được. Người xưa nói: ‘Tất cả mọi thanh đều là Phật thanh. Tất cả mọi sắc đều là Phật sắc’. / " +
       "            Tại sao không chịu hiểu như thế? / " +
       "            *** / " +
-      "            📀 Sư hỏi: / " +
+      "            # Sư hỏi: / " +
       "            > Cái mà ông tìm là tâm tiếng gì? Là tăng thanh hay là tục thanh? Là phàm thanh hay Thánh thanh? Có cho lãnh hội không? / " +
       "            Nếu thế thật không lãnh hội đấy. Này các vị thượng tọa rầm rĩ là thanh, rầm rĩ là sắc. / " +
       "            Thanh sắc chẳng ra làm sao cả. Không nên cho đó là nhàn rỗi. / " +
@@ -207,7 +207,7 @@ const EliteRecords = [
   {
     id: 3,
     title: "TS. NGHĨA HUYỀN - viện Lâm Tế",
-    author: "",
+    author: "Lâm Tế Nghĩa Huyền",
     anchor: "Linji_Yixuan",
     color: "green",
     image: "/images/meta-image-square-3.png",
@@ -307,8 +307,8 @@ const EliteRecords = [
   },
   {
     id: 4,
-    title: "TS. TÙNG THẨM - viện Quan Âm",
-    author: "",
+    title: "TS. TÙNG THẨM - viện Quan Âm, Triệu Châu",
+    author: "Triệu Châu Tùng Thẩm",
     anchor: "Zhaozhou_Congshen",
     color: "yellow",
     image: "/images/meta-image-square-1.png",
@@ -377,7 +377,7 @@ const EliteRecords = [
       "          Sư thượng đường nói: / " +
       " / " +
       "          > Huynh đệ, chúng ta đương bước vào đệ tam thế giới giải oan. / " +
-      "          Có câu nói: \"Chỉ để ý đến hành động chứ không để ý đến người trong quá khứ\". / " +
+      "          Có câu nói: Chỉ để ý đến hành động chứ không để ý đến người trong quá khứ. / " +
       "          Chúng ta đã tự ly gia và cũng vô sự. / " +
       "          Hơn nữa, chúng ta cũng hỏi về Thiền và về Đạo. / " +
       "          Chúng ta 20 hay 30 người cùng đến hỏi. / " +
@@ -407,6 +407,16 @@ const EliteRecords = [
       "          Chân ngã chỉ đơn giản là vậy. / " +
       "          Ở ngay đây, còn đi tìm ở nơi đâu chứ? Đúng lúc này đừng ngoảnh đầu đi, đừng đổi nét mặt. / " +
       "          Nếu ông làm vậy ông đã hết đời!",
+  },
+  {
+    id: 5,
+    title: "TS. BỔN TỊNH - núi Tư Không, chùa Vô Tướng",
+    author: "Tư Không Bổn Tịnh",
+    anchor: 'Sikong_Benjing',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "",
   },
 ]
 export default EliteRecords

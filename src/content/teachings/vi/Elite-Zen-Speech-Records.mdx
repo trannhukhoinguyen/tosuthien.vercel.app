@@ -9,27 +9,40 @@ draft: false
 ---
 
 import '@/styles/additional/SpeechRecords.scss'
-import { AllMasters } from "../../../db/masters/AllMasterDb";
 import EliteRecords from "../../../db/teachings/vi/EliteRecords";
 
-<div class="flex">
-
-  <ul>
-    <h3>MỤC LỤC</h3>
-    {
-      AllMasters && AllMasters?.filter(master => master.anchor)?.map(master => <li class="list-group-item">
-        <div class="media">
-          <div class="media-body align-self-center">
-            <strong><a href={`/teachings/elite-zen-speech-records#${master.anchor}`}>
-              <p>{master.name_en}</p>
-            </a></strong>
+<ul>
+  <h3>MỤC LỤC</h3>
+  <div className="grid xl:grid-cols-8 lg:grid-cols-8 md:grid-cols-2 sm:grid-cols-2 xs:grid-cols-1 gap-8 bg-body dark:bg-darkmode-body">
+    <div className="lg:col-span-4 md:col-span-1">
+      {
+        EliteRecords && EliteRecords?.filter(record => record.id - 1 < EliteRecords.length/2)?.map(record => <li class="list-group-item">
+          <div class="media">
+            <div class="media-body align-self-center">
+              <strong><a href={`/teachings/elite-zen-speech-records#${record.anchor}`}>
+                <p>{record.author}</p>
+              </a></strong>
+            </div>
           </div>
-        </div>
-      </li>)
-    }
+        </li>)
+      }
+    </div>
+    <div className="lg:col-span-4 md:col-span-1">
+      {
+        EliteRecords && EliteRecords?.filter(record => record.id - 1 >= EliteRecords.length/2)?.map(record => <li class="list-group-item">
+          <div class="media">
+            <div class="media-body align-self-center">
+              <strong><a href={`/teachings/elite-zen-speech-records#${record.anchor}`}>
+                <p>{record.author}</p>
+              </a></strong>
+            </div>
+          </div>
+        </li>)
+      }
 
-  </ul>
+    </div>
 </div>
+</ul>
 
 <div class="space-y-3 speech-records">
 
@@ -63,6 +76,5 @@ import EliteRecords from "../../../db/teachings/vi/EliteRecords";
       </div>
     </div>)
   }
-
 
 </div>
