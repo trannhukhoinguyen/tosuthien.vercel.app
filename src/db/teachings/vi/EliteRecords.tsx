@@ -491,5 +491,52 @@ const EliteRecords = [
       " Hiểu ta câu rốt sau / " +
       " Ra đời ít người biết.",
   },
+    {
+    id: 7,
+    title: "Phó Đại Sĩ (Thiện Huệ)",
+    author: "Phó Đại Sĩ",
+    anchor: 'Fudaishi',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "I / " +
+      "Hữu vật tiên thiên địa / " +
+      "Vô hình bản tịch liêu / " +
+      "Năng vi vạn tượng chủ, / " +
+      "Bất trục tứ thời điêu / " +
+      "Dịch: / " +
+      "Có vật trước trời đất / " +
+      "Không hình vốn lặng yên / " +
+      "Hay làm chủ muôn vật / " +
+      "hẳng theo bốn mùa tàn / " +
+      "II / " +
+      "Không thủ bả sừ đầu / " +
+      "Bộ hành kỵ thủy ngưu / " +
+      "Nhân tùng kiều thượng quá / " +
+      "Kiều lưu thủy bất lưu / " +
+      "Dịch: / " +
+      "Tay không cầm cán cuốc / " +
+      "Đi bộ ngồi lưng trâu / " +
+      "Người đi qua trên cầu / " +
+      "Cầu trôi nước chẳng trôi / " +
+      "III / " +
+      "Dạ dạ bão Phật miên / " +
+      "Triêu triêu hoàn cộng khởi / " +
+      "Khởi tọa trấn tương tùng / " +
+      "Ngữ mặc đồng cư chỉ / " +
+      "Tiêm hào bất tương ly / " +
+      "Nhưng hình ảnh tương tự / " +
+      "Dục thức Phật khứ xứ / " +
+      "Chỉ giá ngữ thanh thị / " +
+      "Dịch: / " +
+      "Đêm đêm ôm Phật ngủ / " +
+      "Ngày ngày cùng Phật dạy / " +
+      "Ngồi đứng mãi theo nhau / " +
+      "Nói nín đồng chung ở / " +
+      "Mảy may không tách rời / " +
+      "Như hình cùng với bóng / " +
+      "Muốn biết chỗ Phật đi / " +
+      "Chỉ cái nói năng ấy!",
+  },
 ]
 export default EliteRecords
