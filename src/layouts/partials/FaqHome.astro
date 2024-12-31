@@ -9,7 +9,7 @@ const { faqHomes } = Astro.props;
     <section class="section">
       <div class="container">
         <div class="row">
-          <div class="mx-auto mb-12 text-center md:col-10 lg:col-8 xl:col-6">
+          <div class="mx-auto mb-12 text-center md:col-4 lg:col-4 xl:col-4">
             <h2 set:html={markdownify(faqHomes.data.title)} class="mb-4" />
             <p set:html={markdownify(faqHomes.data.description)} />
           </div>
@@ -42,8 +42,8 @@ const { faqHomes } = Astro.props;
                         <div class="mt-11 flex items-center">
 <!--                          <div class="text-dark dark:text-white">
                             <ImageMod
-                              height={50}
-                              width={50}
+                              height={40}
+                              width={40}
                               class="rounded-full"
                               src={item.avatar}
                               alt={item.name}
@@ -62,7 +62,7 @@ const { faqHomes } = Astro.props;
                           </div>
                         </div>
                         <blockquote
-                          class="mt-8"
+                          class="mt-6"
                           set:html={markdownify(item.content)}
                         />
 
@@ -90,11 +90,11 @@ const { faqHomes } = Astro.props;
   document.addEventListener("astro:page-load", () => {
     new Swiper(".huatou-slider", {
       modules: [Pagination, Autoplay],
-      spaceBetween: 24,
+      spaceBetween: 12,
       loop: true,
       centeredSlides: true,
       autoplay: {
-        delay: 7500,
+        delay: 10000,
         disableOnInteraction: false,
       },
       pagination: {
@@ -104,10 +104,10 @@ const { faqHomes } = Astro.props;
       },
       breakpoints: {
         768: {
-          slidesPerView: 2,
+          slidesPerView: 3,
         },
         992: {
-          slidesPerView: 3,
+          slidesPerView: 4,
         },
       },
     });
