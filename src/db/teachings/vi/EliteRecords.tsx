@@ -504,21 +504,25 @@ const EliteRecords = [
       "Vô hình bản tịch liêu / " +
       "Năng vi vạn tượng chủ, / " +
       "Bất trục tứ thời điêu / " +
+      " / " +
       "Dịch: / " +
       "Có vật trước trời đất / " +
       "Không hình vốn lặng yên / " +
       "Hay làm chủ muôn vật / " +
       "hẳng theo bốn mùa tàn / " +
+      " / " +
       "II / " +
       "Không thủ bả sừ đầu / " +
       "Bộ hành kỵ thủy ngưu / " +
       "Nhân tùng kiều thượng quá / " +
       "Kiều lưu thủy bất lưu / " +
+      " / " +
       "Dịch: / " +
       "Tay không cầm cán cuốc / " +
       "Đi bộ ngồi lưng trâu / " +
       "Người đi qua trên cầu / " +
       "Cầu trôi nước chẳng trôi / " +
+      " / " +
       "III / " +
       "Dạ dạ bão Phật miên / " +
       "Triêu triêu hoàn cộng khởi / " +
@@ -528,6 +532,7 @@ const EliteRecords = [
       "Nhưng hình ảnh tương tự / " +
       "Dục thức Phật khứ xứ / " +
       "Chỉ giá ngữ thanh thị / " +
+      " / " +
       "Dịch: / " +
       "Đêm đêm ôm Phật ngủ / " +
       "Ngày ngày cùng Phật dạy / " +
