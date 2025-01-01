@@ -551,7 +551,7 @@ const EliteRecords = [
     color: "yellow",
     image: "/images/meta-image-square-1.png",
     content:
-      "Sư dạy chúng: / "
+      "Sư dạy chúng: / " +
       "- Phàm người học đạo phải đạt tột nguồn gốc của mình; hàng Tứ quả Tam hiền đều gọi là điều phục, Bích-chi, La-hán chưa dứt hoài nghi, Đẳng giác, Diệu giác liễu đạt tường tận. Giác có cạn sâu, giáo có đốn tiệm. Tiệm giáo trải kiếp A-tăng-kỳ vẫn còn luân hồi; đốn giáo chỉ khoảng co duỗi cánh tay liền lên Diệu giác. Nếu trước không giống đạo, luống học biết nhiều. Tất cả tại tâm, tà chánh do mình. Không nghĩ một vật tức là tâm mình, không phải chỗ biết của trí. Không có hạnh nào riêng để ngộ vào đây. Pháp Tam-ma-đề chân thật không có đi đến, dứt mé trước sau. Nếu biết vô niệm là Tối thượng thừa, rộng suốt trời xanh chóng mở kho báu. Tâm chẳng phải sanh diệt, tánh bặt đổi dời. Tự tịnh thì niệm cảnh không sanh, vô tác thì vin theo tự dứt. / " +
       "Ngày xưa, ta đẩy chiếc xe bất thối, nay được định tuệ song tu, như bàn tay với cánh tay. Thấy thể vô niệm chẳng theo vật mà sanh, thường liễu ngộ Như Lai thì còn chỗ nào mà khởi. Nay huyễn chất này nguyên là thường chân, tự tánh như không, xưa nay không tướng. Đã đạt lý này thì còn gì sợ, gì buồn. Trời đất không thể đổi thể kia. Tâm về pháp giới, vạn tượng nhất như. Xa lìa suy tính, trí đồng pháp tánh. Ngàn kinh muôn luận chỉ nói rõ tâm. Đã chẳng lập tâm tức thể hội chân lý, hoàn toàn không sở đắc. Bảo các học chúng không tìm cầu bên ngoài, nếu là Tối thượng thừa cần phải vô tác. Trân trọng!",
   },
