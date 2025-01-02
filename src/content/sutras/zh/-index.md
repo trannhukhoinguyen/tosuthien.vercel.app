@@ -1,5 +1,5 @@
 ---
-# Banner
-banner:
-  title: "尝试冥想！"
+title: "The Sutra of the Ultimate Meaning"
+meta_title: "The Sutra of the Ultimate Meaning"
+description: "The Sutra of the Ultimate Meaning"
 ---

@@ -1,5 +1,5 @@
 ---
-# Banner
-banner:
-  title: "¡INTENTA MEDITAR!"
+title: "Alerts"
+meta_title: "Alerts"
+description: "Alerts"
 ---

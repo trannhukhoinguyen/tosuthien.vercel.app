@@ -1,5 +1,5 @@
 ---
-# Banner
-banner:
-  title: "ESSAYEZ DE MÉDITER !"
+title: "Alerts"
+meta_title: "Alerts"
+description: "Alerts"
 ---

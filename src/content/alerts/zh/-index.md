@@ -1,5 +1,5 @@
 ---
-# Banner
-banner:
-  title: "尝试冥想！"
+title: "Alerts"
+meta_title: "Alerts"
+description: "Alerts"
 ---

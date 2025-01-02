@@ -1,5 +1,5 @@
 ---
-# Banner
-banner:
-  title: "VERSUCHEN SIE ZU MEDITIEREN!"
+title: "Alerts"
+meta_title: "Alerts"
+description: "Alerts"
 ---

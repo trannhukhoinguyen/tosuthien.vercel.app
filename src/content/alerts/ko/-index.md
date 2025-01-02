@@ -1,5 +1,5 @@
 ---
-# Banner
-banner:
-  title: "명상을 해보세요!"
+title: "Alerts"
+meta_title: "Alerts"
+description: "Alerts"
 ---

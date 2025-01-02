@@ -1,5 +1,5 @@
 ---
-# Banner
-banner:
-  title: "瞑想してみよう！"
+title: "Alerts"
+meta_title: "Alerts"
+description: "Alerts"
 ---
