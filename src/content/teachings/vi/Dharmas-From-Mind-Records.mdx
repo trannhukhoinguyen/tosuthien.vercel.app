@@ -1,0 +1,82 @@
+---
+title: "VẠN PHÁP QUY TÂM LỤC "
+meta_title: "VẠN PHÁP QUY TÂM LỤC "
+description: "VẠN PHÁP QUY TÂM LỤC "
+date: 2025-01-02
+image: "/images/meta-image-wide.jpg"
+tags: ['Record']
+draft: false
+---
+
+import '@/styles/additional/SpeechRecords.scss'
+import DharmasFromMindRecords from "../../../db/teachings/vi/EliteRecords";
+
+<ul>
+  <h3>MỤC LỤC</h3>
+  <div className="grid xl:grid-cols-8 lg:grid-cols-8 md:grid-cols-2 sm:grid-cols-2 xs:grid-cols-1 gap-8 bg-body dark:bg-darkmode-body">
+    <div className="lg:col-span-4 md:col-span-1">
+      {
+        DharmasFromMindRecords && DharmasFromMindRecords?.filter(rec => rec.id - 1 < DharmasFromMindRecords.length/2)?.map(rec => <li class="list-group-item">
+          <div class="media">
+            <div class="media-body align-self-center">
+              <strong><a href={`/teachings/elite-zen-speech-records#${rec.anchor}`}>
+                <p>{rec.author}</p>
+              </a></strong>
+            </div>
+          </div>
+        </li>)
+      }
+    </div>
+    <div className="lg:col-span-4 md:col-span-1">
+      {
+        DharmasFromMindRecords && DharmasFromMindRecords?.filter(rec => rec.id - 1 >= DharmasFromMindRecords.length/2)?.map(rec => <li class="list-group-item">
+          <div class="media">
+            <div class="media-body align-self-center">
+              <strong><a href={`/teachings/elite-zen-speech-records#${rec.anchor}`}>
+                <p>{rec.author}</p>
+              </a></strong>
+            </div>
+          </div>
+        </li>)
+      }
+
+    </div>
+</div>
+</ul>
+
+<div class="space-y-3 speech-records">
+
+  {
+    DharmasFromMindRecords?.map(rec =>  <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
+      <div class="flex items-center gap-3">
+        <div class="flex-1">
+          <div class="flex justify-between items-start">
+            <div id={rec.anchor}>
+              <div class={`w-10 h-10 bg-${rec.color}-100 rounded-full flex items-center justify-center`}>
+                <img class="rounded-circle" src="/images/avatar-sm.png" />
+              </div>
+              <h3 class="text-lg font-medium text-gray-900 title"><a href={`/masters/${rec.anchor.toLowerCase().split('_').join('-')}`}>{rec.title}</a></h3>
+              <div class="flex items-center mt-1">
+                <span class="text-xs text-gray-500 ml-1">
+                  {
+                    rec.content?.split(' / ').length
+                      ? rec.content?.split(' / ')?.map(line => <p>{line}</p>)
+                      : rec.content
+                  }
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="flex items-center gap-2 mt-2">
+          <span class={`inline-flex items-center gap-1 bg-${rec.color}-50 text-${rec.color}-700 text-xs font-medium px-2.5 py-0.5 rounded-full`}>
+            <span class="m-2">{rec.id}</span>
+          </span>
+          </div>
+        </div>
+      </div>
+    </div>)
+  }
+
+  <p>https://thuvienhoasen.org/p21a9194/14/van-phap-qui-tam-luc</p>
+  <p>https://phatphapungdung.com/phap-bao/van-phap-quy-tam-luc-165060.html</p>
+</div>
