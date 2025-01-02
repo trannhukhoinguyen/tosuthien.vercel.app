@@ -490,6 +490,139 @@ const EliteRecords = [
       " Không nói rất cần câu / " +
       " Hiểu ta câu rốt sau / " +
       " Ra đời ít người biết.",
+  },    
+  {
+    id: 7,
+    title: "Phó Đại Sĩ (Thiện Huệ)",
+    author: "Phó Đại Sĩ",
+    anchor: 'Fudaishi',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "I / " +
+      "Hữu vật tiên thiên địa / " +
+      "Vô hình bản tịch liêu / " +
+      "Năng vi vạn tượng chủ, / " +
+      "Bất trục tứ thời điêu / " +
+      " *** " +
+      "Dịch: / " +
+      "Có vật trước trời đất / " +
+      "Không hình vốn lặng yên / " +
+      "Hay làm chủ muôn vật / " +
+      "hẳng theo bốn mùa tàn / " +
+      " *** " +
+      "II / " +
+      "Không thủ bả sừ đầu / " +
+      "Bộ hành kỵ thủy ngưu / " +
+      "Nhân tùng kiều thượng quá / " +
+      "Kiều lưu thủy bất lưu / " +
+      " *** " +
+      "Dịch: / " +
+      "Tay không cầm cán cuốc / " +
+      "Đi bộ ngồi lưng trâu / " +
+      "Người đi qua trên cầu / " +
+      "Cầu trôi nước chẳng trôi / " +
+      " *** " +
+      "III / " +
+      "Dạ dạ bão Phật miên / " +
+      "Triêu triêu hoàn cộng khởi / " +
+      "Khởi tọa trấn tương tùng / " +
+      "Ngữ mặc đồng cư chỉ / " +
+      "Tiêm hào bất tương ly / " +
+      "Nhưng hình ảnh tương tự / " +
+      "Dục thức Phật khứ xứ / " +
+      "Chỉ giá ngữ thanh thị / " +
+      " *** " +
+      "Dịch: / " +
+      "Đêm đêm ôm Phật ngủ / " +
+      "Ngày ngày cùng Phật dạy / " +
+      "Ngồi đứng mãi theo nhau / " +
+      "Nói nín đồng chung ở / " +
+      "Mảy may không tách rời / " +
+      "Như hình cùng với bóng / " +
+      "Muốn biết chỗ Phật đi / " +
+      "Chỉ cái nói năng ấy!",
+ },
+ {  
+    id: 8,
+    title: "TS. THẦN HỘI ở Hà Trạch",
+    author: "",
+    anchor: '',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "Sư dạy chúng: / " +
+      "- Phàm người học đạo phải đạt tột nguồn gốc của mình; hàng Tứ quả Tam hiền đều gọi là điều phục, Bích-chi, La-hán chưa dứt hoài nghi, Đẳng giác, Diệu giác liễu đạt tường tận. Giác có cạn sâu, giáo có đốn tiệm. Tiệm giáo trải kiếp A-tăng-kỳ vẫn còn luân hồi; đốn giáo chỉ khoảng co duỗi cánh tay liền lên Diệu giác. Nếu trước không giống đạo, luống học biết nhiều. Tất cả tại tâm, tà chánh do mình. Không nghĩ một vật tức là tâm mình, không phải chỗ biết của trí. Không có hạnh nào riêng để ngộ vào đây. Pháp Tam-ma-đề chân thật không có đi đến, dứt mé trước sau. Nếu biết vô niệm là Tối thượng thừa, rộng suốt trời xanh chóng mở kho báu. Tâm chẳng phải sanh diệt, tánh bặt đổi dời. Tự tịnh thì niệm cảnh không sanh, vô tác thì vin theo tự dứt. / " +
+      "Ngày xưa, ta đẩy chiếc xe bất thối, nay được định tuệ song tu, như bàn tay với cánh tay. Thấy thể vô niệm chẳng theo vật mà sanh, thường liễu ngộ Như Lai thì còn chỗ nào mà khởi. Nay huyễn chất này nguyên là thường chân, tự tánh như không, xưa nay không tướng. Đã đạt lý này thì còn gì sợ, gì buồn. Trời đất không thể đổi thể kia. Tâm về pháp giới, vạn tượng nhất như. Xa lìa suy tính, trí đồng pháp tánh. Ngàn kinh muôn luận chỉ nói rõ tâm. Đã chẳng lập tâm tức thể hội chân lý, hoàn toàn không sở đắc. Bảo các học chúng không tìm cầu bên ngoài, nếu là Tối thượng thừa cần phải vô tác. Trân trọng!",
+  },
+   {  
+    id: 9,
+    title: "TS. HY THIÊN ở Nam Tự",
+    author: "",
+    anchor: '',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "Sư bảo: / " +
+"- Pháp môn của ta do Phật trước truyền trao, không luận thiền định tinh tấn, chỉ đạt Tri kiến Phật, tức tâm tức Phật. Tâm, Phật, chúng sanh, Bồ-đề, phiền não tên tuy khác mà thể vẫn đồng. Các ngươi nên biết, thể tâm linh của mình lìa tánh đoạn và thường, không phải nhơ sạch, lặng lẽ tròn đầy, phàm thánh ngang bằng nhau, ứng dụng không lường, lìa tâm ý thức, ba cõi sáu đường chỉ do tâm mình hiện, như trăng đáy nước, bóng trong gương, đâu có sanh diệt. Các ngươi khéo biết nó thì không gì chẳng đủ.",
+  },
+ {  
+    id: 10,
+    title: "TS. ÐẠO NHẤT ở  Giang Tây",
+    author: "",
+    anchor: '',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "Một hôm Sư dạy chúng: / " + 
+      "- Các ngươi mỗi người tin tâm mình là Phật, tâm này tức là tâm Phật. Tổ Ðạt-ma từ Nam Ấn sang Trung Hoa truyền pháp Thượng thừa nhất tâm, khiến các ngươi khai ngộ. Tổ lại dẫn kinh Lăng-già để ấn tâm địa chúng sanh. Sợ e các ngươi điên đảo không tự tin pháp tâm này mỗi người tự có, nên kinh Lăng-già nói: 'Phật nói tâm là chủ, cửa không là cửa pháp.' (Phật ngữ tâm vi tông, vô môn vi pháp môn.) / " +
+      "Phàm người cầu pháp nên không có chỗ cầu, ngoài tâm không riêng có Phật, ngoài Phật không riêng có tâm, không lấy thiện chẳng bỏ ác, hai bên nhơ sạch đều không nương cậy, đạt tánh tội là không, mỗi niệm đều không thật, vì không có tự tánh nên tam giới chỉ là tâm, sum la vạn tượng đều là cái bóng của một pháp, thấy sắc tức là thấy tâm, tâm không tự là tâm, nhân sắc mới có. / " +
+      "Các ngươi chỉ tùy thời nói năng tức sự là lý, trọn không có chỗ ngại, đạo quả Bồ-đề cũng như thế. Nơi tâm sanh ra thì gọi là sắc, vì biết sắc không, nên sanh tức chẳng sanh. Nếu nhận rõ tâm này, mới có thể tùy thời ăn cơm mặc áo nuôi lớn thai thánh, mặc tình tháng ngày trôi qua, đâu còn có việc gì. / " +
+      "Các ngươi nhận ta dạy hãy nghe bài kệ này: / " +
+       "Tâm địa tùy thời thuyết / " +
+       "Bồ-đề diệc chỉ ninh / " +
+       "Sự lý câu vô ngại / " +
+       "Ðương sanh tức bất sanh. / " +
+      "Dịch: / " +
+       "Ðất tâm tùy thời nói / " +
+       "Bồ-đề cũng thế thôi / " +
+       "Sự lý đều không ngại / " +
+       "Chính sanh là chẳng sanh. / " +
+      "Một hôm Sư dạy chúng: / " +
+      "- Ðạo không dụng tu, chỉ đừng ô nhiễm. Sao là ô nhiễm? - Có tâm sanh tử, tạo tác, thú hướng đều là ô nhiễm. Nếu muốn hội thẳng đạo ấy, tâm bình thường là đạo. Sao gọi là tâm bình thường? -Không tạo tác, không thị phi, không thủ xả, không đoạn thường, không phàm thánh. Kinh nói: 'Chẳng phải hạnh phàm phu, chẳng phải hạnh thánh hiền, là hạnh Bồ-tát.' Chỉ như hiện nay đi đứng ngồi nằm, ứng cơ tiếp vật đều là đạo. Ðạo tức là pháp giới, cho đến diệu dụng như hà sa đều không ngoài pháp giới. Nếu chẳng phải vậy, tại sao nói pháp môn tăng địa, tại sao nói vô tận đăng? Tất cả pháp đều là pháp của tâm, tất cả tên đều là tên của tâm. Muôn pháp đều từ tâm sanh, tâm là cội gốc của muôn pháp. Kinh nói: 'Biết tâm đạt cội nguồn nên hiệu là Sa-môn'. Tên đồng nghĩa đồng, tất cả pháp đều đồng thuần nhất không lẫn lộn. / " +
+      "Nếu ở trong giáo môn được tùy thời tự tại thì dựng lập pháp giới trọn là pháp giới, lập chân như là chân như, lập lý tất cả pháp trọn là lý, lập sự tất cả pháp trọn là sự, nắm giở một thì ngàn theo, sự lý không khác, toàn là diệu dụng. Lại không có lý riêng, đều do xoay lại của tâm. Ví như bao nhiêu bóng mặt trăng thì có, mà bao nhiêu mặt trăng thật thì không, bao nhiêu nguồn nước thì có, mà bao nhiêu tánh nước thì không, bao nhiêu sum la vạn tượng thì có, mà bao nhiêu hư không thì không, bao nhiêu lời nói đạo lý thì có, mà bao nhiêu Tuệ vô ngại thì không; bao nhiêu các thứ thành lập đều do một tâm. Dựng lập cũng được, dẹp hết cũng được, thảy là diệu dụng. Diệu dụng trọn là nhà mình, chẳng phải lìa chân mà có, nơi nơi đều chân, thảy đều là thể của nhà mình. / " +
+      "Nếu chẳng vậy, lại là người nào? Tất cả pháp đều là Phật pháp, các pháp tức là giải thoát, giải thoát tức là chân như, các pháp không ngoài chân như, đi đứng ngồi nằm thảy là dụng bất tư nghì, không đợi thời tiết. Kinh nói: Chỗ chỗ nơi nơi đều có Phật. Phật là năng nhân, có trí tuệ khéo hợp lòng người, hay phá lưới nghi cho tất cả chúng sanh, vượt ra vòng trói buộc của có và không v.v... tình chấp phàm thánh hết, nhân pháp đều không, chuyển bánh xe không gì hơn, vượt các số lượng, việc làm không ngại, sự lý đều thông, như trời hiện mây, chợt có lại không, chẳng để dấu vết. Ví như vẽ nước thành lằn, không sanh không diệt. Ðại tịch diệt tại triền gọi là Như lai tàng, xuất triền gọi là Pháp thân thanh tịnh. Thể không tăng giảm, hay lớn hay nhỏ, hay vuông hay tròn, hợp vật hiện hình như trăng trong nước, vận dụng mênh mông, không lập mầm gốc chẳng hết hữu vi, không trụ vô vi. Hữu vi là dụng của vô vi, vô vi là chỗ nương của hữu vi, chẳng trụ chỗ nương, nên nói: Như không chẳng chỗ nương. Nghĩa tâm sanh diệt, nghĩa tâm chân như: Tâm chân như dụ như gương sáng soi vật tượng. Gương dụ tâm, vật tượng dụ pháp. Nếu tâm chấp pháp là dính với cái nhân bên ngoài, tức là nghĩa sanh diệt. Tâm không chấp pháp tức là nghĩa chân như. / " +
+      "Thanh văn tai nghe Phật tánh. Bồ-tát mắt thấy Phật tánh. Liễu đạt không hai gọi là bình đẳng tánh. Tánh không có khác, dụng thì chẳng đồng. Tại mê là thức, tại ngộ là trí. Thuận lý là ngộ, theo sự là mê. Mê tức là mê bản tâm mình, ngộ là ngộ bản tánh mình. Một phen ngộ là hằng ngộ chẳng trở lại mê. Như đang khi mặt trời mọc lên không trở lại tối. Mặt trời trí tuệ xuất hiện, không chung cùng cái tối phiền não. Liễu đạt cảnh giới của tâm liền trừ vọng tưởng. Vọng tưởng đã trừ tức là vô sanh. Pháp tánh sẵn có, có chẳng nhờ tu. Thiền không thuộc ngồi, ngồi tức có chấp trước. Nếu thấy lý này là chân chánh hiệp đạo, tùy duyên qua ngày, đứng ngồi theo nhau, giới hạnh huân thêm, nhóm nơi tịnh nghiệp. Chỉ hay như thế, lo gì chẳng thông.",
+  },
+   {  
+    id: 11,
+    title: "",
+    author: "",
+    anchor: '',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "",
+  },
+   {  
+    id: 12,
+    title: "",
+    author: "",
+    anchor: '',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "",
+  },
+ {  
+    id: 13,
+    title: "",
+    author: "",
+    anchor: '',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "",
   },
 ]
 export default EliteRecords
