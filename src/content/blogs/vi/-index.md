@@ -1,5 +1,5 @@
 ---
-title: "Blog"
-meta_title: "Blog"
-description: "Blog"
+title: "Bài viết"
+meta_title: "Bài viết"
+description: "Bài viết"
 ---

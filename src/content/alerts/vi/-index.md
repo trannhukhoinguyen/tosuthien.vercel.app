@@ -1,5 +1,5 @@
 ---
-# Banner
-banner:
-  title: "HÃY THAM THIỀN ĐI!"
+title: "Cảnh ngữ"
+meta_title: "Cảnh ngữ"
+description: "Cảnh ngữ"
 ---
