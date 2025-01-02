@@ -23,6 +23,28 @@ const teachingsCollection = defineCollection({
     draft: z.boolean().optional(),
   }),
 });
+const alertsCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    tags: z.array(z.string()).default([""]),
+    draft: z.boolean().optional(),
+  }),
+});
+const sutrasCollection = defineCollection({
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
+    tags: z.array(z.string()).default([""]),
+    draft: z.boolean().optional(),
+  }),
+});
 const blogsCollection = defineCollection({
   schema: z.object({
     title: z.string(),
@@ -155,6 +177,8 @@ export const collections = {
   blogs: blogsCollection,
   conversations: conversationsCollection,
   teachings: teachingsCollection,
+  alerts: alertsCollection,
+  sutras: sutrasCollection,
   koans: koansCollection,
   masters: mastersCollection,
   monasteries: monasteriesCollection,
