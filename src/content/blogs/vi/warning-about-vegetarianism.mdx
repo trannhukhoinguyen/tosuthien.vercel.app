@@ -8,36 +8,25 @@ tags: ['FAQ', 'Blog']
 draft: false
 ---
 
-<div className="grid xl:grid-cols-8 lg:grid-cols-8 md:grid-cols-2 sm:grid-cols-2 xs:grid-cols-1 gap-8 bg-body dark:bg-darkmode-body">
+import faqsBlogDb from "../../../db/faqsBlogDb.tsx";
+import "@/styles/additional/Faqs.scss";
 
-  <div className="lg:col-span-5 md:col-span-1">
-
-### Tổ Sư Thiền là gì?
-
-<p>
-
-</p>
-
+<section class="section-sm">
+  <div class="container">
+    <div class="faq">
+      {
+        faqsBlogDb.map((quest, index) => <div>
+            <input type="checkbox" id={`question${index}`} name="q" class="questions" />
+              <div class="plus">+</div>
+              <label for={`question${index}`} class="question">
+                <p>{ quest.ask }</p>
+              </label>
+              <div class="answers">
+                <p>{ quest.reply }</p>
+              </div>
+          </div>
+        )
+      }
+    </div>
   </div>
-
-  <div className="lg:col-span-3 md:col-span-1">
-
-
-    <Notice type="warning" title="cảnh ngữ">
-      cảnh tỉnh về ăn chay (VẠN PHÁP QUY TÂM LỤC),
-      cảnh tỉnh về mối quan hệ trong thế tục (về tình yêu, bà con họ hàng, bạn bè...),
-      cảnh tỉnh về thế giới hoại diệt, chấp có không 36 phép đối đãi, trả nợ tín thí nếu không tu hành
-
-    </Notice>
-
-    <Notice type="tip" title="tác phẩm">
-
-    </Notice>
-
-    <Notice type="info" title="thông tin khác">
-
-    </Notice>
-
-  </div>
-
-</div>
+</section>
