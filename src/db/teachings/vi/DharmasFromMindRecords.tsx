@@ -5,7 +5,7 @@ const DharmasFromMindRecords = [
     author: "",
     anchor: "",
     color: "blue",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "",
   },
@@ -15,7 +15,7 @@ const DharmasFromMindRecords = [
     author: "",
     anchor: '',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "",
   },
@@ -25,7 +25,7 @@ const DharmasFromMindRecords = [
     author: "",
     anchor: '',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "",
   },
@@ -35,7 +35,7 @@ const DharmasFromMindRecords = [
     author: "",
     anchor: '',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "",
   },

@@ -39,7 +39,7 @@ const IronFlute = [
   {
     id: 2,
     title: 'TẮC THỨ 2: LA SƠN KHAI ĐƯỜNG',
-    image: '/images/meta-image-square-1',
+    image: '/images/square/meta-image-square-1',
     main:
       'Mân Vương xây một ngôi chùa cho La Sơn và mời sư nói bài pháp đầu tiên trong pháp đường. / ' +
       'Với tư cách là sư của viện, La Sơn lên tòa ngồi nhưng chẳng nói gì trừ hai tiếng “Cáo biệt,” trước khi trở về phòng riêng. / ' +
@@ -68,7 +68,7 @@ const IronFlute = [
   {
     id: 3,
     title: 'TẮC THỨ 3: NAM TUYỀN PHẬT ĐÁ',
-    image: '/images/meta-image-square-1',
+    image: '/images/square/meta-image-square-1',
     main:
       'Cư sĩ Lục Cắng nói với hòa thượng Nam Tuyền, “Trong nhà con có một hòn đá hoặc ngồi hoặc nằm. Con có ý muốn chạm thành một vị Phật. / ' +
       'Con làm được chứ?” Nam Tuyền đáp: “Được, ông làm được.” Lục Cắng lại hỏi, “Con không làm được ư?” Nam Tuyền đáp: “Không, ông không làm được.”',

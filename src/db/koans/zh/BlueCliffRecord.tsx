@@ -76,7 +76,7 @@ const BlueCliffRecord = [
   {
     id: 2,
     title: 'TẮC THỨ 2: CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU',
-    image: '/images/meta-image-square-1',
+    image: '/images/square/meta-image-square-1',
     intro:
       'Trời đất hẹp, trăng sao tinh tú đồng thời tối ám. Dù cho là gậy giáng xuống như mưa sa, tiếng hét vang dội như sấm động, các ông vẫn chưa đảm đương được việc hướng thượng của tông môn / ' +
       'Dù cho là chư Phật của 3 đời, cũng chỉ có thể tự biết. Tổ Sư của các thế hệ cũng không thể đề cập rốt ráo được vấn đề / ' +
@@ -133,7 +133,7 @@ const BlueCliffRecord = [
   {
     id: 3,
     title: 'TẮC THỨ 3: MÃ SƯ BẤT AN',
-    image: '/images/meta-image-square-1',
+    image: '/images/square/meta-image-square-1',
     intro:
       'Một cơ một cảnh, một lời một câu,phải tìm lối mà vào. Có một vết thương trên thịt, nó có thể thành hang thành động / ' +
       'Đại dụng hiện tiền không còn qui tắc. Phải tìm cho ra cái chỗ hướng thượng / ' +

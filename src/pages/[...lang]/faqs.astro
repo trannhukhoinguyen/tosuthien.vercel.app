@@ -2,7 +2,7 @@
 import Base from "@/layouts/Base.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import { site } from "@/config/config.json";
-import faqsDb from "../../../src/db/faqsDb.tsx";
+import faqsDb from "../../db/faqs/faqsDb.tsx";
 import "../../styles/additional/Faqs.scss"
 import PageHeader from "../../layouts/partials/PageHeader.astro";
 
@@ -19,7 +19,7 @@ const { lang } = Astro.params;
   title={ site.title + ' - FAQs' }
   meta_title={ site.meta_title + ' - FAQs' }
   description={ site.meta_description + ' - FAQs' }
-  image={'/images/meta-image-wide.jpg'}
+  image={'/images/wide/meta-image-wide.jpg'}
 >
   <PageHeader title={ 'FAQs' } />
   <section class="section-sm">

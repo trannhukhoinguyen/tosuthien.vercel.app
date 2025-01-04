@@ -5,7 +5,7 @@ const EliteRecords = [
     author: "Nam Nhạc Hoài Nhượng",
     anchor: "Nanyue_Huairang",
     color: "blue",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "- Như trâu kéo xe, nếu xe không đi, đánh xe là phải hay đánh trâu là phải? / " +
       "            - Ngươi học ngồi thiền hay học ngồi Phật? Nếu học ngồi thiền, thiền không phải ngồi nằm. / " +
@@ -37,7 +37,7 @@ const EliteRecords = [
     author: "Pháp Nhãn Văn Ích",
     anchor: "Fayan_Wenyi",
     color: "red",
-    image: "/images/meta-image-square-2.png",
+    image: "/images/square/meta-image-square-2.png",
     content:
       "   > Thấy đạo là gốc, sáng đạo là công, liền hay được sức đại trí tuệ. / " +
       "            Nếu chưa được như thế thì, việc đáng yêu thích trong tam giới phải dạy dẹp hết, vừa có một mảy may lại là chưa được. / " +
@@ -210,7 +210,7 @@ const EliteRecords = [
     author: "Lâm Tế Nghĩa Huyền",
     anchor: "Linji_Yixuan",
     color: "green",
-    image: "/images/meta-image-square-3.png",
+    image: "/images/square/meta-image-square-3.png",
     content:
       "> Như có người tìm cầu Phật, thế là mất Phật. Như có người tìm cầu đạo thế là mất đạo. / " +
       "            Như có người tìm kiếm Tổ sư, thế là mất Tổ sư. / " +
@@ -311,7 +311,7 @@ const EliteRecords = [
     author: "Triệu Châu Tùng Thẩm",
     anchor: "Zhaozhou_Congshen",
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "   Sư thượng đường nói: / " +
       " / " +
@@ -414,7 +414,7 @@ const EliteRecords = [
     author: "Tư Không Bổn Tịnh",
     anchor: 'Sikong_Benjing',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "",
   },
@@ -424,7 +424,7 @@ const EliteRecords = [
     author: "Huyền Sa Sư Bị",
     anchor: 'Xuansha_Shibei',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "Sư dạy chúng: / " +
       "- Chư thiền đức! các ông du phương hành khước đến đây, nói rằng ta tham thiền học đạo, là có chỗ kỳ đặc, hay chỉ hỏi đông hỏi tây? Nếu có chỗ kỳ đặc hãy thông qua, tôi sẽ vì các ông chứng minh là phải hay chẳng phải. Tôi trọn biết hết, lại có kỳ đặc chăng? Nếu không có kỳ đặc, chỉ là người đuổi theo tiếng. Các ông đã đến trong đây, giờ đây tôi xin hỏi: các ông là người có mắt chăng? Nếu có thì hiện đây liền nhận biết được, mà các ông có biết được chăng? Nếu các ông chẳng biết, bị tôi gọi kẻ mù từ nhỏ, kẻ điếc từ nhỏ, có phải chăng? chấp nhận lời nói như thế chăng? / " +
@@ -490,14 +490,14 @@ const EliteRecords = [
       " Không nói rất cần câu / " +
       " Hiểu ta câu rốt sau / " +
       " Ra đời ít người biết.",
-  },    
+  },
   {
     id: 7,
     title: "Phó Đại Sĩ (Thiện Huệ)",
     author: "Phó Đại Sĩ",
     anchor: 'Fudaishi',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "I / " +
       "Hữu vật tiên thiên địa / " +
@@ -543,38 +543,38 @@ const EliteRecords = [
       "Muốn biết chỗ Phật đi / " +
       "Chỉ cái nói năng ấy!",
  },
- {  
+ {
     id: 8,
     title: "TS. THẦN HỘI ở Hà Trạch",
     author: "",
     anchor: '',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "Sư dạy chúng: / " +
       "- Phàm người học đạo phải đạt tột nguồn gốc của mình; hàng Tứ quả Tam hiền đều gọi là điều phục, Bích-chi, La-hán chưa dứt hoài nghi, Đẳng giác, Diệu giác liễu đạt tường tận. Giác có cạn sâu, giáo có đốn tiệm. Tiệm giáo trải kiếp A-tăng-kỳ vẫn còn luân hồi; đốn giáo chỉ khoảng co duỗi cánh tay liền lên Diệu giác. Nếu trước không giống đạo, luống học biết nhiều. Tất cả tại tâm, tà chánh do mình. Không nghĩ một vật tức là tâm mình, không phải chỗ biết của trí. Không có hạnh nào riêng để ngộ vào đây. Pháp Tam-ma-đề chân thật không có đi đến, dứt mé trước sau. Nếu biết vô niệm là Tối thượng thừa, rộng suốt trời xanh chóng mở kho báu. Tâm chẳng phải sanh diệt, tánh bặt đổi dời. Tự tịnh thì niệm cảnh không sanh, vô tác thì vin theo tự dứt. / " +
       "Ngày xưa, ta đẩy chiếc xe bất thối, nay được định tuệ song tu, như bàn tay với cánh tay. Thấy thể vô niệm chẳng theo vật mà sanh, thường liễu ngộ Như Lai thì còn chỗ nào mà khởi. Nay huyễn chất này nguyên là thường chân, tự tánh như không, xưa nay không tướng. Đã đạt lý này thì còn gì sợ, gì buồn. Trời đất không thể đổi thể kia. Tâm về pháp giới, vạn tượng nhất như. Xa lìa suy tính, trí đồng pháp tánh. Ngàn kinh muôn luận chỉ nói rõ tâm. Đã chẳng lập tâm tức thể hội chân lý, hoàn toàn không sở đắc. Bảo các học chúng không tìm cầu bên ngoài, nếu là Tối thượng thừa cần phải vô tác. Trân trọng!",
   },
-   {  
+   {
     id: 9,
     title: "TS. HY THIÊN ở Nam Tự",
     author: "",
     anchor: '',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "Sư bảo: / " +
 "- Pháp môn của ta do Phật trước truyền trao, không luận thiền định tinh tấn, chỉ đạt Tri kiến Phật, tức tâm tức Phật. Tâm, Phật, chúng sanh, Bồ-đề, phiền não tên tuy khác mà thể vẫn đồng. Các ngươi nên biết, thể tâm linh của mình lìa tánh đoạn và thường, không phải nhơ sạch, lặng lẽ tròn đầy, phàm thánh ngang bằng nhau, ứng dụng không lường, lìa tâm ý thức, ba cõi sáu đường chỉ do tâm mình hiện, như trăng đáy nước, bóng trong gương, đâu có sanh diệt. Các ngươi khéo biết nó thì không gì chẳng đủ.",
   },
- {  
+ {
     id: 10,
     title: "TS. ÐẠO NHẤT ở  Giang Tây",
     author: "",
     anchor: '',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
-      "Một hôm Sư dạy chúng: / " + 
+      "Một hôm Sư dạy chúng: / " +
       "- Các ngươi mỗi người tin tâm mình là Phật, tâm này tức là tâm Phật. Tổ Ðạt-ma từ Nam Ấn sang Trung Hoa truyền pháp Thượng thừa nhất tâm, khiến các ngươi khai ngộ. Tổ lại dẫn kinh Lăng-già để ấn tâm địa chúng sanh. Sợ e các ngươi điên đảo không tự tin pháp tâm này mỗi người tự có, nên kinh Lăng-già nói: 'Phật nói tâm là chủ, cửa không là cửa pháp.' (Phật ngữ tâm vi tông, vô môn vi pháp môn.) / " +
       "Phàm người cầu pháp nên không có chỗ cầu, ngoài tâm không riêng có Phật, ngoài Phật không riêng có tâm, không lấy thiện chẳng bỏ ác, hai bên nhơ sạch đều không nương cậy, đạt tánh tội là không, mỗi niệm đều không thật, vì không có tự tánh nên tam giới chỉ là tâm, sum la vạn tượng đều là cái bóng của một pháp, thấy sắc tức là thấy tâm, tâm không tự là tâm, nhân sắc mới có. / " +
       "Các ngươi chỉ tùy thời nói năng tức sự là lý, trọn không có chỗ ngại, đạo quả Bồ-đề cũng như thế. Nơi tâm sanh ra thì gọi là sắc, vì biết sắc không, nên sanh tức chẳng sanh. Nếu nhận rõ tâm này, mới có thể tùy thời ăn cơm mặc áo nuôi lớn thai thánh, mặc tình tháng ngày trôi qua, đâu còn có việc gì. / " +
@@ -594,33 +594,33 @@ const EliteRecords = [
       "Nếu chẳng vậy, lại là người nào? Tất cả pháp đều là Phật pháp, các pháp tức là giải thoát, giải thoát tức là chân như, các pháp không ngoài chân như, đi đứng ngồi nằm thảy là dụng bất tư nghì, không đợi thời tiết. Kinh nói: Chỗ chỗ nơi nơi đều có Phật. Phật là năng nhân, có trí tuệ khéo hợp lòng người, hay phá lưới nghi cho tất cả chúng sanh, vượt ra vòng trói buộc của có và không v.v... tình chấp phàm thánh hết, nhân pháp đều không, chuyển bánh xe không gì hơn, vượt các số lượng, việc làm không ngại, sự lý đều thông, như trời hiện mây, chợt có lại không, chẳng để dấu vết. Ví như vẽ nước thành lằn, không sanh không diệt. Ðại tịch diệt tại triền gọi là Như lai tàng, xuất triền gọi là Pháp thân thanh tịnh. Thể không tăng giảm, hay lớn hay nhỏ, hay vuông hay tròn, hợp vật hiện hình như trăng trong nước, vận dụng mênh mông, không lập mầm gốc chẳng hết hữu vi, không trụ vô vi. Hữu vi là dụng của vô vi, vô vi là chỗ nương của hữu vi, chẳng trụ chỗ nương, nên nói: Như không chẳng chỗ nương. Nghĩa tâm sanh diệt, nghĩa tâm chân như: Tâm chân như dụ như gương sáng soi vật tượng. Gương dụ tâm, vật tượng dụ pháp. Nếu tâm chấp pháp là dính với cái nhân bên ngoài, tức là nghĩa sanh diệt. Tâm không chấp pháp tức là nghĩa chân như. / " +
       "Thanh văn tai nghe Phật tánh. Bồ-tát mắt thấy Phật tánh. Liễu đạt không hai gọi là bình đẳng tánh. Tánh không có khác, dụng thì chẳng đồng. Tại mê là thức, tại ngộ là trí. Thuận lý là ngộ, theo sự là mê. Mê tức là mê bản tâm mình, ngộ là ngộ bản tánh mình. Một phen ngộ là hằng ngộ chẳng trở lại mê. Như đang khi mặt trời mọc lên không trở lại tối. Mặt trời trí tuệ xuất hiện, không chung cùng cái tối phiền não. Liễu đạt cảnh giới của tâm liền trừ vọng tưởng. Vọng tưởng đã trừ tức là vô sanh. Pháp tánh sẵn có, có chẳng nhờ tu. Thiền không thuộc ngồi, ngồi tức có chấp trước. Nếu thấy lý này là chân chánh hiệp đạo, tùy duyên qua ngày, đứng ngồi theo nhau, giới hạnh huân thêm, nhóm nơi tịnh nghiệp. Chỉ hay như thế, lo gì chẳng thông.",
   },
-   {  
+   {
     id: 11,
     title: "",
     author: "",
     anchor: '',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "",
   },
-   {  
+   {
     id: 12,
     title: "",
     author: "",
     anchor: '',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "",
   },
- {  
+ {
     id: 13,
     title: "",
     author: "",
     anchor: '',
     color: "yellow",
-    image: "/images/meta-image-square-1.png",
+    image: "/images/square/meta-image-square-1.png",
     content:
       "",
   },
