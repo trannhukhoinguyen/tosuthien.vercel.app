@@ -20,7 +20,7 @@ import Youtube from "@/layouts/shortcodes/Youtube.tsx";
         WeiliSpeechRecords && WeiliSpeechRecords?.filter(record => record.id - 1 < WeiliSpeechRecords.length/2)?.map(record => <li class="list-group-item">
           <div class="media">
             <div class="media-body align-self-center">
-              <strong><a href={`/teachings/elite-zen-speech-records#${record.anchor}`}>
+              <strong><a href={`/faqs/weili-speech-record#${record.anchor}`}>
                 {record.title}
               </a></strong>
             </div>
@@ -33,7 +33,7 @@ import Youtube from "@/layouts/shortcodes/Youtube.tsx";
         WeiliSpeechRecords && WeiliSpeechRecords?.filter(record => record.id - 1 >= WeiliSpeechRecords.length/2)?.map(record => <li class="list-group-item">
           <div class="media">
             <div class="media-body align-self-center">
-              <strong><a href={`/teachings/elite-zen-speech-records#${record.anchor}`}>
+              <strong><a href={`/faqs/weili-speech-record#${record.anchor}`}>
                 {record.title}
               </a></strong>
             </div>
