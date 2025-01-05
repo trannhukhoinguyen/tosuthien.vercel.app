@@ -10,7 +10,6 @@ draft: false
 
 import '@/styles/additional/SpeechRecords.scss'
 import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
-import Youtube from "@/layout/shortcodes/Youtube.tsx";
 
 <ul>
   <h3>MỤC LỤC</h3>
@@ -21,7 +20,7 @@ import Youtube from "@/layout/shortcodes/Youtube.tsx";
           <div class="media">
             <div class="media-body align-self-center">
               <strong><a href={`/teachings/elite-zen-speech-records#${record.anchor}`}>
-                <p>{record.title}</p>
+                {record.title}
               </a></strong>
             </div>
           </div>
