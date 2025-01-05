@@ -5,7 +5,7 @@ const TreasureTheory = {
   author: "[Đại sư] Tăng Triệu",
   image: "/images/teachings/treasure-theory-wide.jpg" || "/images/teachings/treasure-theory-tall.jpg",
   intro:
-    "BỬU TẠNG LUẬN tác giả là Tăng Triệu, bài luận này và bộ TRIỆU LUẬN đều có ghi trong tập 96 của TỤC TẠNG KINH, " +
+    "Tác giả BỬU TẠNG LUẬN là Đại sư Tăng Triệu, bài luận này và bộ TRIỆU LUẬN đều có ghi trong tập 96 của TỤC TẠNG KINH, " +
     "nhưng bộ Triệu Luận đã lưu hành từ xưa nay, mà trong đó lại sót bài luận này, " +
     "chúng tôi xét thấy bài luận này diễn tả thể dụng của tự tánh rất hay, nhất là dùng hai chữ ly vi để sáng tỏ bản thể của tự tánh. " +
     "Tự tánh vốn chẳng thể dùng lời nói để diễn tả được mà tác giả lại phương tiện giải thích rất kỹ càng. / " +

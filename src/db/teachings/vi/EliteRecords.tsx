@@ -409,16 +409,6 @@ const EliteRecords = [
       "          Nếu ông làm vậy ông đã hết đời!",
   },
   {
-    id: 5,
-    title: "TS. BỔN TỊNH - núi Tư Không, chùa Vô Tướng",
-    author: "Tư Không Bổn Tịnh",
-    anchor: 'Sikong_Benjing',
-    color: "yellow",
-    image: "/images/square/meta-image-square-1.png",
-    content:
-      "",
-  },
-  {
     id: 6,
     title: "TS. TÔNG NHẤT (SƯ BỊ) - ở Huyền Sa",
     author: "Huyền Sa Sư Bị",
@@ -624,5 +614,94 @@ const EliteRecords = [
     content:
       "",
   },
+  {
+    id: 5,
+    title: "TS. BỔN TỊNH - núi Tư Không ở chùa Vô Tướng",
+    author: "",
+    anchor: 'Sikong_Benjing',
+    color: "yellow",
+    image: "/images/meta-image-square-1.png",
+    content:
+      "- Ðạo vốn không tên, nhân tâm có đạo. Tâm và tên nếu có thì đạo không rỗng suốt. Tột tâm đã không thì đạo nương đâu mà lập? Cả hai đều là giả danh. / " +
+      "- Sơn tăng thân tâm xưa nay là đạo. / " +
+      "- Không tâm là đạo, tâm mất đạo không, tâm đạo nhất như nên nói không tâm là đạo. Thân tâm xưa nay là đạo, đạo cũng vốn là thân tâm, thân tâm vốn đã là không, đạo cũng không tột nguồn chẳng có. / " +
+      "- Ðại đức chỉ thấy tướng Sơn tăng, chẳng thấy được không tướng của Sơn tăng. Thấy tướng là chỗ thấy của Ðại đức, kinh nói phàm có tướng đều là hư vọng, nếu thấy các tướng chẳng phải tướng, tức ngộ được đạo kia. / " +
+      "Nếu lấy tướng cho là thật thì cùng kiếp không thể ngộ đạo. / " +
+      "- Kinh Tịnh Danh nói: 4 đại không chủ, thân cũng không ngã, chỗ thấy không ngã, cùng đạo tương ưng. / " +
+      "Ðại đức nếu cho tứ đại có chủ là ngã, nếu thấy có ngã thì cùng kiếp không thể hội đạo. / " +
+      "... / " +
+      "Bốn đại không chủ cũng như nước / " +
+      "                            Dù gặp cong ngay chẳng kia đây / " +
+      "                            Hai nơi nhơ sạch tâm không sanh / " +
+      "                            Thông bít chưa từng có hai ý / " +
+      "                            Xúc cảnh chỉ như nước không tâm / " +
+      "                            Ở thế tung hoành nào có việc? / " +
+      "- Ðại đức nếu hiểu bằng vào thấy nghe hiểu biết thì cùng đạo khác xa, tức là người cầu thấy nghe hiểu biết, không phải là người cầu đạo. Kinh nói: \"không mắt, tai, mũi, lưỡi, thân, ý...\". / " +
+      "6 căn còn không, thấy nghe hiểu biết nương đâu mà lập. Cùng tột gốc nguồn chẳng có thì chỗ nào còn tâm? Ðâu không đồng với cỏ cây ngói gạch. / " +
+      "Thấy nghe hiểu biết không chướng ngại / " +
+      "                        Tiếng mùi vị chạm thường tam-muội / " +
+      "                        Như chim trong không mặc tình bay / " +
+      "                        Không thủ không xả không thương ghét / " +
+      "                        Nếu hội mỗi nơi vốn không tâm / " +
+      "                        Mới được tên là Quán Tự Tại. / " +
+      "- Phật với đạo nhân tâm mà lập, xét cùng cái tâm dựng lập, tâm ấy cũng không, tâm đã là không liền ngộ cả hai đều chẳng thật, biết như mộng huyễn liền ngộ vốn không. " +
+      "Gắng lập hai tên Phật, Ðạo, đây là cái thấy biết của người Nhị thừa. / " +
+      "... / " +
+      "                        Thấy đạo mới tu đạo / " +
+      "                        Chẳng thấy lấy gì tu / " +
+      "                        Tánh đạo như hư không\n" +
+      "                        Hư không tu chỗ nào?\n" +
+      "                        Khắp xem người tu đạo\n" +
+      "                        Vạch lửa tìm bọt nổi\n" +
+      "                        Chỉ xem người gỗ máy\n" +
+      "                        Ðứt dây một lúc dừng.\n" +
+      "- Ðại đức lầm hội ý kinh; đạo vốn không tu, Ðại đức cưỡng tu, đạo vốn không tác, Ðại đức cưỡng tác, đạo vốn không sự, Ðại đức cưỡng sanh đa sự, đạo vốn không biết, ở trong ấy cưỡng biết. " +
+      "Thấy hiểu như thế cùng đạo trái nhau. Tôn túc từ xưa không như thế, tự Ðại đức không hội, xin suy gẫm đó.\n" +
+      "... / " +
+      "                Thể đạo vốn không tu / " +
+      "                Chẳng tu tự hiệp đạo / " +
+      "                Nếu khởi tâm tu đạo\n" +
+      "                Người này không hiệp đạo / " +
+      "                Bỏ mất một tánh chân\n" +
+      "                Lại vào nơi phiền lụy\n" +
+      "                Chợt gặp người tu đạo\n" +
+      "                Bậc nhất chớ hướng đạo.\n" +
+      "- Vì có vọng nên đem chân đối vọng. Xét cùng tánh vọng vốn không, chân cũng chưa từng có. " +
+      "Thế thì biết chân vọng đều là giả danh, hai việc đối trị trọn không thật thể, tột cội gốc nó thì tất cả đều không.\n" +
+      "- Nếu nói vật gì, vật gì cũng vọng. Kinh nói \"không tương tợ, không so sánh, bặt đường nói năng, như chim bay trong không\".\n" +
+      "... / " +
+      "                        Xét chân, chân không tướng\n" +
+      "                        Tìm vọng, vọng không hình\n" +
+      "                        Quán lại tâm tìm xét\n" +
+      "                        Biết tâm cũng giả danh\n" +
+      "                        Hội đạo cũng như vậy\n" +
+      "                        Ðến cùng chỉ lặng yên.\n" +
+      "- Hai gốc thiện ác đều nhân tâm mà có, tìm tột tâm nếu có thì gốc ắt thật, xét tâm đã không thì gốc nhân đâu mà lập. Kinh nói:\n" +
+      "Pháp thiện pháp ác từ tâm hóa sanh, nghiệp duyên thiện ác vốn không thật có.\"\n" +
+      "... / " +
+      "                        Thiện đã từ tâm sanh\n" +
+      "                        Ác đâu rời tâm có\n" +
+      "                        Thiện ác là duyên ngoài\n" +
+      "                        Nơi tâm thật chẳng có\n" +
+      "                        Bỏ ác đẩy chỗ nào?\n" +
+      "                        Lấy thiện bảo ai giữ?\n" +
+      "                        Than ôi! Người thấy hai\n" +
+      "                        Bám víu hai đầu chạy.\n" +
+      "                        Nếu ngộ vốn không tâm\n" +
+      "                        Mới hối lỗi từ trước.\n" +
+      "... / " +
+      "                    Thấy cuộc sống như mộng\n" +
+      "                    Trong mộng thật là ồn\n" +
+      "                    Chợt giác muôn việc hết\n" +
+      "                    Lại đồng tỉnh cơn mộng\n" +
+      "                    Người trí nhận biết mộng\n" +
+      "                    Kẻ mê tin mộng ồn\n" +
+      "                    Biết mộng như hai việc\n" +
+      "                    Một ngộ không ngộ khác\n" +
+      "                    Giàu sang cùng nghèo hèn\n" +
+      "                    Lại cũng không đường khác.",
+  },
+
+
 ]
 export default EliteRecords
