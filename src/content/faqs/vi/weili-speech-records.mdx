@@ -34,7 +34,7 @@ import Youtube from "@/layouts/shortcodes/Youtube.tsx";
           <div class="media">
             <div class="media-body align-self-center">
               <strong><a href={`/teachings/elite-zen-speech-records#${record.anchor}`}>
-                <p>{record.title}</p>
+                {record.title}
               </a></strong>
             </div>
           </div>
@@ -65,7 +65,7 @@ import Youtube from "@/layouts/shortcodes/Youtube.tsx";
                       : rec.intro
                   }
                 </span>
-                <Youtube client:load id={rec.youtubeId} title={rec.title} />
+                
               </div>
             </div>
           </div>
