@@ -19,7 +19,7 @@ import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
         WeiliSpeechRecords && WeiliSpeechRecords?.filter(record => record.id - 1 < WeiliSpeechRecords.length/2)?.map(record => <li class="list-group-item">
           <div class="media">
             <div class="media-body align-self-center">
-              <strong><a href={`/faqs/weili-speech-record#${record.anchor}`}>
+              <strong><a href={`/faqs/weili-speech-records#${record.anchor}`}>
                 {record.title}
               </a></strong>
             </div>
@@ -32,7 +32,7 @@ import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
         WeiliSpeechRecords && WeiliSpeechRecords?.filter(record => record.id - 1 >= WeiliSpeechRecords.length/2)?.map(record => <li class="list-group-item">
           <div class="media">
             <div class="media-body align-self-center">
-              <strong><a href={`/faqs/weili-speech-record#${record.anchor}`}>
+              <strong><a href={`/faqs/weili-speech-records#${record.anchor}`}>
                 {record.title}
               </a></strong>
             </div>
