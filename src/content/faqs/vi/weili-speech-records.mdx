@@ -2,14 +2,15 @@
 title: "DUY LỰC NGỮ LỤC"
 meta_title: "DUY LỰC NGỮ LỤC"
 description: "DUY LỰC NGỮ LỤC"
-date: 2024-09-21
-image: "/images/monocolor-unknown-zen-master.jpg"
+date: 2025-01-06
+image: "/images/square/zen-master-avatar-white.jpg"
 tags: ['Vietnam']
 draft: false
 ---
 
 import '@/styles/additional/SpeechRecords.scss'
 import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
+import faqsDb from "../../../db/faqs/faqsDb.tsx";
 
 <ul>
   <h3>MỤC LỤC</h3>
@@ -19,9 +20,7 @@ import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
         WeiliSpeechRecords && WeiliSpeechRecords?.filter(record => record.id - 1 < WeiliSpeechRecords.length/2)?.map(record => <li class="list-group-item">
           <div class="media">
             <div class="media-body align-self-center">
-              <strong><a href={`/faqs/weili-speech-records#${record.anchor}`}>
-                {record.title}
-              </a></strong>
+              <strong>{record.title}</strong>
             </div>
           </div>
         </li>)
@@ -32,50 +31,62 @@ import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
         WeiliSpeechRecords && WeiliSpeechRecords?.filter(record => record.id - 1 >= WeiliSpeechRecords.length/2)?.map(record => <li class="list-group-item">
           <div class="media">
             <div class="media-body align-self-center">
-              <strong><a href={`/faqs/weili-speech-records#${record.anchor}`}>
-                {record.title}
-              </a></strong>
+              <a href={`/faqs/weili-speech-records#${record.anchor}`}>
+                  <strong>{record.title}</strong>
+              </a>
             </div>
           </div>
         </li>)
       }
-
     </div>
   </div>
 </ul>
 
-<div class="space-y-3 speech-records">
-
-  {
-    WeiliSpeechRecords && WeiliSpeechRecords?.map(rec =>  <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
-      <div class="flex items-center gap-3">
-        <div class="flex-1">
-          <div class="flex justify-between items-start">
-            <div id={rec.anchor}>
-              <div class={`w-10 h-10 bg-yellow-100 rounded-full flex items-center justify-center`}>
-                <img class="rounded-circle" src="/images/masters/vi/weili-thich-duy-luc.png" />
-              </div>
-              <h3 class="text-lg font-medium text-gray-900 title">{rec.title}</h3>
-              <div class="flex items-center mt-1">
+<div className="grid xl:grid-cols-8 lg:grid-cols-8 md:grid-cols-2 sm:grid-cols-2 xs:grid-cols-1 gap-8 bg-body dark:bg-darkmode-body">
+  <div className="lg:col-span-4 md:col-span-1">
+    {
+      WeiliSpeechRecords?.map(rec =>
+      <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
+        <div class="flex items-center gap-3">
+          <div class="flex-1">
+            <div class="flex justify-between items-start">
+              <div id={rec.anchor}>
+                <div class={`w-10 h-10 bg-yellow-100 rounded-full flex items-center justify-center`}>
+                  <img class="rounded-circle" src="/images/masters/vi/thien-su-weili-Thich-Duy-Luc-3.jpg" />
+                </div>
+                <h3 class="text-lg font-medium text-gray-900 title">{rec.title}</h3>
+                <div class="flex items-center mt-1">
                 <span class="text-xs text-gray-500 ml-1">
-                  {
-                    rec.intro?.split(' / ').length
-                      ? rec.intro?.split(' / ')?.map(line => <p>{line}</p>)
-                      : rec.intro
-                  }
+                  {rec.intro}
                 </span>
-                <Youtube client:load videoId={rec.youtubeId} title={rec.title} />
+                  {/*<Youtube client:load id={rec?.youtubeId} title={rec?.title} />*/}
+                </div>
               </div>
             </div>
-          </div>
-          <div class="flex items-center gap-2 mt-2">
+            <div class="flex items-center gap-2 mt-2">
           <span class={`inline-flex items-center gap-1 bg-yellow-50 text-yellow-700 text-xs font-medium px-2.5 py-0.5 rounded-full`}>
             <span class="m-2">{rec.id}</span>
           </span>
+            </div>
           </div>
         </div>
       </div>
-    </div>)
-  }
-
+      )
+    }
+  </div>
+  <div className="lg:col-span-4 md:col-span-1">
+    {
+      faqsDb.map((quest, index) => <div>
+          <input type="checkbox" id={`question${index}`} name="q" class="questions" />
+            <div class="plus">+</div>
+            <label for={`question${index}`} class="question">
+              <p>{ quest.ask }</p>
+            </label>
+            <div class="answers">
+              <p>{ quest.reply }</p>
+            </div>
+        </div>
+      )
+    }
+  </div>
 </div>
