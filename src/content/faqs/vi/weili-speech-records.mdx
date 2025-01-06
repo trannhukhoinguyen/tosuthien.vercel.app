@@ -10,7 +10,6 @@ draft: false
 
 import '@/styles/additional/SpeechRecords.scss'
 import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
-import faqsDb from "../../../db/faqs/faqsDb.tsx";
 
 <ul>
   <h3>MỤC LỤC</h3>
@@ -43,7 +42,7 @@ import faqsDb from "../../../db/faqs/faqsDb.tsx";
 </ul>
 
 <div className="grid xl:grid-cols-8 lg:grid-cols-8 md:grid-cols-2 sm:grid-cols-2 xs:grid-cols-1 gap-8 bg-body dark:bg-darkmode-body">
-  <div className="lg:col-span-4 md:col-span-1">
+  <div className="lg:col-span-8 md:col-span-1">
     {
       WeiliSpeechRecords?.map(rec =>
       <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
@@ -71,21 +70,6 @@ import faqsDb from "../../../db/faqs/faqsDb.tsx";
           </div>
         </div>
       </div>
-      )
-    }
-  </div>
-  <div className="lg:col-span-4 md:col-span-1">
-    {
-      faqsDb.map((quest, index) => <div>
-          <input type="checkbox" id={`question${index}`} name="q" class="questions" />
-            <div class="plus">+</div>
-            <label for={`question${index}`} class="question">
-              <p>{ quest.ask }</p>
-            </label>
-            <div class="answers">
-              <p>{ quest.reply }</p>
-            </div>
-        </div>
       )
     }
   </div>

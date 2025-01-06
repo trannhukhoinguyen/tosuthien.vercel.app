@@ -10,6 +10,8 @@ import { sortByDate } from "@/lib/utils/sortFunctions";
 import PageHeader from "@/partials/PageHeader.astro";
 import PostSidebar from "@/partials/PostSidebar.astro";
 import type { ContentEntryMap } from "astro:content";
+import faqsDb from "../../../db/faqs/faqsDb.tsx";
+import "../../../styles/additional/Faqs.scss";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -44,7 +46,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
     <div class="container">
       <div class="row gx-5">
         <!-- blog posts -->
-        <div class="lg:col-8">
+        <div class="lg:col-5">
           <div class="row">
             {
               currentPosts.map((post) => (
@@ -52,6 +54,23 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
                   <BlogCard data={post} slugDefault="faqs" />
                 </div>
               ))
+            }
+          </div>
+        </div>
+        <div class="lg:col-3">
+          <div class="row">
+            {
+              faqsDb.map((quest, index) => <div>
+                  <input type="checkbox" id={`question${index}`} name="q" class="questions" />
+                  <div class="plus">+</div>
+                  <label for={`question${index}`} class="question">
+                    <p>{ quest.ask }</p>
+                  </label>
+                  <div class="answers">
+                    <p>{ quest.reply }</p>
+                  </div>
+                </div>
+              )
             }
           </div>
         </div>
