@@ -47,7 +47,7 @@ import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
 <div class="space-y-3 speech-records">
 
   {
-    WeiliSpeechRecords?.map(rec =>  <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
+    WeiliSpeechRecords && WeiliSpeechRecords?.map(rec =>  <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
       <div class="flex items-center gap-3">
         <div class="flex-1">
           <div class="flex justify-between items-start">
@@ -64,7 +64,7 @@ import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
                       : rec.intro
                   }
                 </span>
-                
+                <Youtube client:load videoId={rec.youtubeId} title={rec.title} />
               </div>
             </div>
           </div>
