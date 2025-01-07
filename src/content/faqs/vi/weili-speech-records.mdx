@@ -19,9 +19,12 @@ import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
         WeiliSpeechRecords && WeiliSpeechRecords?.filter(record => record.id - 1 < WeiliSpeechRecords.length/2)?.map(record => <li class="list-group-item">
           <div class="media">
             <div class="media-body align-self-center">
-              <strong>{record.title}</strong>
+              <a href={`/faqs/weili-speech-records#${record.anchor}`}>
+                <strong>{record.title}</strong>
+              </a>
             </div>
           </div>
+
         </li>)
       }
     </div>
@@ -43,9 +46,14 @@ import WeiliSpeechRecords from "../../../db/faqs/WeiliSpeechRecords";
 
 <div className="grid xl:grid-cols-8 lg:grid-cols-8 md:grid-cols-2 sm:grid-cols-2 xs:grid-cols-1 gap-8 bg-body dark:bg-darkmode-body">
   <div className="lg:col-span-8 md:col-span-1">
+
+    <Youtube client:load id="u7PjRCkg1cE" title="{}" />
+    <Youtube client:load id="6bvhALRnrK8" title="{}" />
+    <Youtube client:load id="ryaHjynq9BE" title="{}" />
     {
       WeiliSpeechRecords?.map(rec =>
-      <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200">
+      <div class="rounded-xl shadow-sm border border-gray-100 p-4 hover:border-blue-500 transition-all duration-200 mb-4">
+
         <div class="flex items-center gap-3">
           <div class="flex-1">
             <div class="flex justify-between items-start">
