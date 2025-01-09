@@ -1,6 +1,7 @@
 const CnLv10MasterDb = [
   {
     id: '43.10.1',
+    hasContent: 'true',
     name_en: 'Fenyang Shanzhao',
     name_es: 'Fenyang Shanzhao',
     name_de: 'Fenyang Shanzhao',
@@ -24,6 +25,7 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.2',
+    hasContent: 'true',
     name_en: 'Tiantai Deshao',
     name_es: 'Tiantai Deshao',
     name_de: 'Tiantai Deshao',
@@ -47,6 +49,7 @@ const CnLv10MasterDb = [
   },
   {
     id: '43.10.3',
+    hasContent: 'true',
     name_en: 'Xuedou Chongxian',
     name_es: 'Xuedou Chongxian',
     name_de: 'Xuedou Chongxian',
