@@ -148,7 +148,7 @@ const CnLv10MasterDb = [
     name_es: 'Dayang Jingxuan',
     name_de: 'Dayang Jingxuan',
     name_fr: 'Dayang Jingxuan',
-    name_vi: 'Đại Dương Cảnh Huyền (Kỉnh Huyền)',
+    name_vi: 'Đại Dương Kỉnh Huyền (Thái Dương Cảnh Huyền)',
     name_ru: 'Dayang Jingxuan',
     name_zh: '大陽警玄 (太陽警玄)',
     name_ja: 'Taiyō Keigen',
