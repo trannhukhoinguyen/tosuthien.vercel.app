@@ -124,7 +124,7 @@ const CnLv10MasterDb = [
     name_es: 'Shexian Guixing',
     name_de: 'Shexian Guixing',
     name_fr: 'Shexian Guixing',
-    name_vi: 'Diệp Huyện Qui Tỉnh / Diệp Huyện Quy Tỉnh',
+    name_vi: 'Diệp Huyện Quy Tỉnh (Qui Tỉnh)',
     name_ru: 'Shexian Guixing',
     name_zh: '葉縣歸省',
     name_ja: 'Shōgen Kisei / Sekken Kisei',
