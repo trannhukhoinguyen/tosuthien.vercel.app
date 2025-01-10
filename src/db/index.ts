@@ -1,6 +1,6 @@
 import koanBooks from "@/db/books/koanBooks.tsx";
 
-export interface koan {
+export interface IKoan {
   id: string;
   title: string;
   author: string;
@@ -19,8 +19,32 @@ export interface koan {
   verse?: string;
   commentAfterVerse?: string;
 }
+export interface IMaster {
+  id: string,
+  name_en: string,
+  name_es: string,
+  name_de: string,
+  name_fr: string,
+  name_ru: string,
+  name_ko: string,
+  name_ar: string,
+  name_ja: string,
+  name_zh: string,
+  name_vi: string,
+  nickname_vi?: string,
+  birth_death_time: string[],
+  records: string,
+  sect: string[],
+  country: string,
+  place: string,
+  teachers: string[],
+  successors: string[],
+  disciples: string[],
+  image: string,
+  reference?: string[],
+}
 
-export interface koanBook {
+export interface IBook {
   id: string,
   cover: string,
   title?: string,
@@ -36,5 +60,5 @@ export interface koanBook {
   link1?: string,
   link2?: string,
   youtube?: '',
-  koan: koan[]
+  koan: IKoan[]
 }
