@@ -21,6 +21,7 @@ export interface IKoan {
 }
 export interface IMaster {
   id: string,
+  hasContent: boolean,
   name_en: string,
   name_es: string,
   name_de: string,
