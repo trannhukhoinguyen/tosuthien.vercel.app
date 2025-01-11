@@ -92,8 +92,8 @@ const CnLv7MasterDb = [
     place: '-',
     teachers: ['Xuefeng Yicun'],
     successors: [''],
-    disciples: ['Shuangquan Renyu - Song Tuyền Nhân Úc (雙泉仁郁)', 'Shuangfeng Jingqin - Song Phong Quảng Ngộ (雙峰竟欽)', 'Fengxian Daoshen',
-      'Baling Haojian', 'Dongshan Shouchu', 'Deshan Yuanming', 'Shuangquan Shikuang - Song Tuyền Sư Khoan', 'Lang Shangzuo (朗上座)', 'Letan Huaicheng (泐潭懷澄)',
+    disciples: ['Shuangquan Renyu', 'Shuangfeng Jingqin - Song Phong Quảng Ngộ (雙峰竟欽)', 'Fengxian Daoshen',
+      'Baling Haojian', 'Dongshan Shouchu', 'Deshan Yuanming', 'Shuangquan Shikuang', 'Lang Shangzuo (朗上座)',
       'Xianglin Chengyuan', 'Baiyun Zixiang (Baiyun Xiang) - Bạch Vân Tử Tường (白雲子祥 / 白云子祥)', 'Jianfu Chenggu (Jianfeng Gu) (薦福承古)', 'Mingjiao Shikuan (Chih Men) (明教師寬)'
     ],
     image: '/images/avatar.png',

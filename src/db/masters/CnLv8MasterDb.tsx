@@ -251,12 +251,12 @@ const CnLv8MasterDb = [
     records: '',
     sect: ['Yunmen'],
     country: 'China',
-    place: 'Song Tuyền Tự (雙泉寺) thuộc Tùy Châu (隨州, Tỉnh Hồ Bắc)',
+    place: 'Shuangquan Temple (雙泉寺), Suizhou (隨州), Hubei province)',
     teachers: ['Yunmen Wenyan'],
-    successors: [''],
-    disciples: [],
+    successors: ['Wuzu Shijie'],
+    disciples: ['Wuzu Shijie'],
     image: '/images/avatar.png',
-    reference: [''],
+    reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/song-tuyen-su-khoan-k5150.html'],
   },
 ]
 export default CnLv8MasterDb;
