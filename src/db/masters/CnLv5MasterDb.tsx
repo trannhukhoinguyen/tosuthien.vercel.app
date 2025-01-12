@@ -35,6 +35,8 @@ const CnLv5MasterDb = [
     name_ja: 'Tōzan Ryōkai',
     name_ko: '동산량개 Tongsan Lianggae',
     name_ar: 'Dongshan Liangjie',
+nickname_vi: 'Ngộ Bổn Đại sư',
+worship_tower: '',
     birth_death_time: ['807', '869'],
     records: '',
     sect: ['-'],
