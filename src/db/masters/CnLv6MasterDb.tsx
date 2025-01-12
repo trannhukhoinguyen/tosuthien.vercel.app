@@ -11,6 +11,8 @@ const CnLv6MasterDb = [
     name_ja: 'Sōzan Honjaku',
     name_ko: 'Caoshan Benji',
     name_ar: 'Caoshan Benji',
+nickname_vi: 'Nguyên Chứng',
+worship_tower: 'Phúc Viên',
     birth_death_time: ['840', '901'],
     records: '',
     sect: ['Caodong'],
