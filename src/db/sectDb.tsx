@@ -63,7 +63,8 @@ const sectDb = [
     doctrine: '',
     reference: ['https://chuahoiphuoc.net/nguon-goc-chung-bang-tong-van-mon/', 'hhttps://en.wikipedia.org/wiki/Yunmen_Wenyan', 'https://en.wikipedia.org/wiki/Miyin_Temple',
       'https://zh.wikipedia.org/wiki/%E4%BA%91%E9%97%A8%E5%AE%97', 'https://nigioikhatsi.net/thien/thien-tong-co-du-tri-tue-vo-han-va-suc-sang-tao.html',
-      'https://www.sohu.com/a/412189297_475956'
+      'https://www.sohu.com/a/412189297_475956',
+      'https://thuvienhoasen.org/a9990/chuong-4-thien-pho-cap-va-bien-thai-thien-thoi-bac-tong', 'https://vi.wikipedia.org/wiki/V%C3%A2n_M%C3%B4n_t%C3%B4ng',
     ],
   },
   {
