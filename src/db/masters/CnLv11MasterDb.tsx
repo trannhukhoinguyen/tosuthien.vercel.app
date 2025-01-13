@@ -184,7 +184,7 @@ const CnLv11MasterDb = [
     nickname_vi: 'Đại Giác (Dajue)',
     birth_death_time: ['1010', '1090/1091'],
     records: '',
-    sect: ['Linji'],
+    sect: ['Yunmen'],
     country: 'China',
     place: '-',
     teachers: ['Letan Huaicheng'],
