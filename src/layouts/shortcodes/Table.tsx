@@ -6,17 +6,22 @@ import Modal from "@/shortcodes/Modal.tsx";
 interface TableProps {
   data: {
     id: string
-    hasContent: boolean | undefined
+    hasContent?: boolean
     name_en: string
+    other_name_en?: string
     name_es: string
     name_de: string
     name_fr: string
-    name_vi: string
     name_ru: string
-    name_zh: string
-    name_ja: string
     name_ko: string
     name_ar: string
+    name_ja: string
+    name_zh: string
+    other_name_zh?: string
+    name_vi: string
+    other_name_vi?: string
+    nickname_vi?: string
+    worship_tower?: string
     birth_death_time: string[]
     records: string | undefined
     sect: string[] | []
