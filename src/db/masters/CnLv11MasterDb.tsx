@@ -181,6 +181,7 @@ const CnLv11MasterDb = [
     name_ja: 'Yuwang Huailian',
     name_zh: '育王懷璉',
     name_vi: 'Dục Vương Hoài Liễn (Hoài Liên)',
+    other_name_vi: 'Hoài Liên',
     nickname_vi: 'Đại Giác (Dajue)',
     birth_death_time: ['1010', '1090/1091'],
     records: '',
