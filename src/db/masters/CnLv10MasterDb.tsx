@@ -211,10 +211,10 @@ const CnLv10MasterDb = [
     country: 'China',
     place: 'Dongshan, Junzhou (Gaoan, Jiangxi province)',
     teachers: ['Wenshu Yingzhen'],
-    successors: [''],
-    disciples: [''],
+    successors: ['Fori Qisong'],
+    disciples: ['Fori Qisong'],
     image: '/images/square/meta-image-square-1.jpg',
-    reference: [''],
+    reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/dong-son-hieu-thong-k3950.html'],
   },
   {
     id: '43.10.10',

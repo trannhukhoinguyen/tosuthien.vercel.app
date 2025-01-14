@@ -10,6 +10,7 @@
       "hasChildren": true,
       "children": [
         { "name": "Thiền sư", "url": "/masters" },
+        { "name": "Địa danh", "url": "/places" },
         { "name": "Tông phái", "url": "/zen-schools" }
       ]
     },
