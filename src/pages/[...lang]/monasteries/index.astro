@@ -6,7 +6,6 @@ import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
 import PageHeader from "@/partials/PageHeader.astro";
 import Leaflet from "@/layouts/components/Map/Leaflet.astro";
 import type { ContentEntryMap } from "astro:content";
-import { site } from "@/config/config.json";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -21,32 +20,20 @@ const postIndex = await getListPage(
 );
 const posts = await getSinglePage("monasteries", lang as keyof ContentEntryMap);
 ---
-<script is:inline>
-  // Check if the page has already been reloaded
-  if (!localStorage.getItem('reloaded')) {
-    // Set the flag so the page doesn't reload again
-    localStorage.setItem('reloaded', 'true');
-  }
-  // Reload the page
-  if (localStorage.getItem('reloaded') === 'true') {
-    window.location.reload();
-    localStorage.setItem('reloaded', 'false');
-  }
-</script>
+
 <Base
   title={postIndex[0].data.title}
   meta_title={postIndex[0].data.meta_title}
-  image={'https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg'}
+  image={postIndex[0].data.image}
   description={postIndex[0].data.description}
 >
-<PageHeader title={postIndex[0].data.title} />
-<section class="section">
-  <div class="container">
-    <Leaflet />
-  </div>
-</section>
+  <PageHeader title={postIndex[0].data.title} />
+  <section class="section">
+    <div class="container">
+      <Leaflet type="monasteries" />
+    </div>
+  </section>
 </Base>
-
 
 
 

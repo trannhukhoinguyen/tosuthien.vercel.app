@@ -6,7 +6,7 @@ import type { ContentEntryMap } from "astro:content";
 import { getCollection } from "astro:content";
 
 // get taxonomy from frontmatter
-export const getTaxonomy = async (collection: string, name: string) => {
+export const getTaxonomy = async (collection: string, name: string, multi?: boolean) => {
   const { default_language } = config.settings;
 
   const language = languages.find((l) => l.languageCode === collection);
@@ -24,7 +24,7 @@ export const getTaxonomy = async (collection: string, name: string) => {
   }
 
   const singlePages = await getCollection(
-    "masters" || "monasteries" || "teachings" || 'koans' || 'blogs' || 'places' || 'sutras' as keyof ContentEntryMap,
+    "masters" || "places"  || "monasteries" || "teachings" || 'koans' || 'blogs' || 'conversations' || 'sutras' as keyof ContentEntryMap,
     ({ id }: any) => {
       return id.startsWith(actualCollection) && !id.endsWith("-index.md");
     }
@@ -38,7 +38,11 @@ export const getTaxonomy = async (collection: string, name: string) => {
     }
   }
   const taxonomy = [...new Set(taxonomies)];
-  return taxonomy;
+  if (multi) {
+    return taxonomies;
+  } else {
+    return taxonomy;
+  }
 };
 
 // get all taxonomies from frontmatter
@@ -60,7 +64,7 @@ export const getAllTaxonomy = async (collection: string, name: string) => {
   }
 
   const singlePages = await getCollection(
-    "masters" || "monasteries" || "teachings" || 'koans' || 'blogs' || 'places' || 'sutras' as keyof ContentEntryMap,
+    "masters" || "places"  || "monasteries" || "teachings" || 'koans' || 'blogs' || 'conversations' || 'sutras' as keyof ContentEntryMap,
     ({ id }: any) => {
       return id.startsWith(actualCollection) && !id.endsWith("-index.md");
     }

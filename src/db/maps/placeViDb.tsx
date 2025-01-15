@@ -1,10 +1,17 @@
-const placeDb = [
+const placeViDb = [
   {
     id: 1,
-    name_vi: 'Ngũ Tổ Sơn',
-    other_name_vi: ['Phùng Mậu Sơn', 'Đông Sơn'],
-    name_en: 'Wuzushan',
-    name_zh: '五祖山',
+    key: 'wuzushan',
+    cover: '',
+    title: 'Ngũ Tổ Sơn',
+    other_title: ['Phùng Mậu Sơn', 'Đông Sơn'],
+    url: '/places/wuzushan',
+    mapCenter: [],
+    markerPosition: [],
+    zoomLevel: 10,
+    address: '',
+    title_en: 'Wuzushan',
+    title_zh: '五祖山',
     description:
       'Núi ở phía đông bắc huyện Hoàng mai, tỉnh Hồ bắc, Trung quốc. ' +
       'Thiền sư Hoằng nhẫn, tổ thứ 5 của Thiền tông, Trung quốc, đến nơi đây sáng lập chùa Chân tuệ làm đạo tràng xiển dương Thiền phong, do đó mà núi này nổi tiếng. ' +
@@ -15,4 +22,4 @@ const placeDb = [
     reference: [''],
   },
 ]
-export default placeDb;
+export default placeViDb;

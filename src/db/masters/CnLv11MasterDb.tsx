@@ -207,7 +207,7 @@ const CnLv11MasterDb = [
     name_zh: '佛日契嵩',
     name_vi: 'Phật Nhật Khế Tung',
     other_name_vi: '',
-    nickname_vi: '',
+    nickname_vi: 'Minh Giáo',
     worship_tower: '',
     birth_death_time: ['1007', '1072'],
     records: '',

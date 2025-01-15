@@ -1,36 +1,39 @@
-const mapDb = [
+const mapViDb = [
   {
     id: 1,
     key: 'gao-min',
     cover: 'https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg',
-    titleEn: 'GAO MIN MONASTERY',
-    titleVi: 'THIỀN VIỆN CAO MÂN ',
+    title: 'THIỀN VIỆN CAO MÂN',
+    url: '/monasteries/cao-man',
     mapCenter: [32.32652, 119.41237],
     markerPosition: [32.32652, 119.41237],
     zoomLevel: 13,
     address: '8CF8+2V7, Gaominsi Rd, Hanjiang District, Yangzhou, Yangzhou, Jiangsu, China, 225127',
+    description: 'Vị trí Chùa Cao Mân 高旻寺 : tọa lạc tại thành phố Dương Châu tỉnh Giang Tô, nằm ở nơi giao nhau giữa Cổ Vận Hà (con sông đào có từ thời Nhà Tùy) và sông Nghi Dương.',
   },
   {
     id: 2,
     key: 'tu-an',
     cover: 'https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg',
-    titleEn: 'TU AN ZEN TEMPLE',
-    titleVi: 'TỪ ÂN THIỀN ĐƯỜNG ',
+    title: 'TỪ ÂN THIỀN ĐƯỜNG',
+    url: '/monasteries/tu-an ',
     mapCenter: [33.74861, -117.92682],
     markerPosition: [33.74861, -117.92682],
     zoomLevel: 15,
     address: '4310 W 5th St, Santa Ana, California, California, US',
+    description: 'Từ Ân Thiền Đường là một ngôi chùa nhỏ ở Santa Ana, có những độc đáo riêng, khó tìm được ở nhiều nơi khác. Bạn sẽ không nghe tiếng tụng kinh nơi đây, kể cả những ngày Chủ Nhật.',
   },
   {
     id: 3,
     key: 'duy-phap',
     cover: 'https://tosuthien.com/wp-content/uploads/2021/11/cua-chua-1-768x576.jpg',
-    titleEn: 'DUY PHAP ZEN TEMPLE',
-    titleVi: 'DUY PHÁP THIỀN ĐƯỜNG ',
+    title: 'DUY PHÁP THIỀN ĐƯỜNG',
+    url: '/monasteries/duy-phap',
     mapCenter: [33.74676, -117.9834],
     markerPosition: [33.74676, -117.9834],
     zoomLevel: 15,
     address: '14851 Wilson St, Midway City, California, US',
+    description: '',
   },
 ]
-export default mapDb;
+export default mapViDb;

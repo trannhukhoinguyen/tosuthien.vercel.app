@@ -274,7 +274,7 @@ const CnLv0MasterDb = [
     name_ar: 'Niutou Zhiyan',
     birth_death_time: ['577', '654'],
     records: '',
-    sect: ['Niutou'],
+    sect: ['Oxhead'],
     country: 'China',
     place: '-',
     teachers: ['Niutou Farong'],

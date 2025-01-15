@@ -1,0 +1,29 @@
+---
+title: "Ngũ Tổ Sơn"
+meta_title: "Ngũ Tổ Sơn"
+description: "Ngũ Tổ Sơn"
+date: 2025-01-15
+image: "https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg"
+tags: ['China', 'Mountain', 'Place']
+draft: false
+---
+
+import placeViDb from "../../../db/maps/placeViDb";
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; padding-right: 10px;">
+    <img decoding="async" src="https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg" />
+  </div>
+
+  <div style="flex: 3; padding-left: 10px;">
+    <h1>NGŨ TỔ SƠN</h1>
+    <h3><em>(Phùng Mậu Sơn, Đông Sơn)</em></h3>
+    <h3>Giới thiệu</h3>
+    <p>
+      {
+        placeViDb?.find(place => place.key === 'wuzushan')?.description
+      }
+    </p>
+  </div>
+</div>

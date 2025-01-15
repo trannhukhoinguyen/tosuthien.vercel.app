@@ -22,7 +22,8 @@ if (!lang) {
 }
 const langCollection: keyof ContentEntryMap = lang as keyof ContentEntryMap;
 const tags = await getTaxonomy(langCollection, "tags");
-const allTags = await getAllTaxonomy(langCollection, "tags");
+const allTags = await getTaxonomy(langCollection, "tags", true);
+// const allTags = await getAllTaxonomy(langCollection, "tags");
 ---
 
 <Base title={"Tags"}>

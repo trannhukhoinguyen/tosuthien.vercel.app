@@ -1,276 +1,59 @@
 ---
 import {getTranslations} from "../../../lib/utils/languageParser";
 import {ContentEntryMap} from "astro:content";
-import mapDb from "../../../db/maps/mapDb";
+import mapViDb from "../../../db/maps/mapViDb";
+import mapEnDb from "../../../db/maps/mapEnDb";
+import placeViDb from "../../../db/maps/placeViDb";
 
-const { lang } = Astro.params;
-const {
-  patriarchal_zen,
-  gao_min, tu_an, duy_phap
-} = await getTranslations(lang as keyof ContentEntryMap);
+const { lang, type } = Astro.params;
+let locations;
+if (type == 'monasteries') {
+  locations = !lang || lang === 'vi' ? mapViDb : mapEnDb
+} else if (type == 'places') {
+  locations = !lang || lang === 'vi' ? placeViDb : []
+};
+const { patriarchal_zen } = await getTranslations(lang as keyof ContentEntryMap);
 ---
-<html lang="en">
-<head>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-        crossorigin=""/>
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-          crossorigin="" is:inline></script>
-  <style>
-    .maps {
-      height: 500px;
-      width: 100%;
-    }
-  </style>
-</head>
 
-<body>
-<!-- Cao Mân-->
-<section class="bg-white dark:bg-gray-900">
-  <div class="container px-6 py-10 mx-auto">
-    <div class="mt-8 lg:-mx-6 lg:flex lg:items-center h-auto">
-      <div class="object-cover w-full lg:mx-6 lg:w-1/2 rounded-xl h-auto">
-        <button
-          class="relative inset-y-1/2"
-          title="Show this map"
-          onclick="window.location.reload()"
-          style="font-size: 24px; cursor: pointer;"
-          client:load
-        >
-          &#128065; <!-- Eye icon HTML entity -->
-          <span style="font-size: small">Show this map</span>
-        </button>
-        <div id="gao-min" class="maps"></div>
-      </div>
-
-      <div class="lg:w-1/2 mt-0 top-0 ">
-        <div class="flex justify-between">
-          <div class="flex-auto">
-            <a href="/monasteries/gao-min" target="_blank">
-              <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">{gao_min}</h1>
-            </a>
+{
+  locations?.map(location =>
+  <section class="bg-white dark:bg-gray-900">
+    <div class="container px-6 py-10 mx-auto">
+      <div class="mt-8 lg:-mx-6 lg:flex lg:items-center h-auto">
+        <div class="lg:w-1/2 mt-0 top-0 ">
+          <div class="flex justify-between">
+            <div class="flex-auto">
+              <a href={ location.url } target="_blank">
+                <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">{location.title}</h1>
+              </a>
+            </div>
+            <div class="flex-auto"></div>
           </div>
-          <div class="flex-auto">
-
+          <div class="flex justify-evenly">
+            <div class="flex-1">
+              <a href={ location.url } target="_blank" class="text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
+                <img width="300px" decoding="async" src={ location.cover }  />
+              </a>
+            </div>
+            <div class="flex-1">
+              <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
+                { location.description }
+              </p>
+              <a href={ location.url } class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
+              <img class="flex mt-2 object-cover object-center w-44" src="https://cdn.me-qr.com/qr/126566002.png?v=09192024184706786650" alt="">
+            </div>
           </div>
-        </div>
-        <div class="flex justify-evenly">
-          <div class="flex-1">
-            <a href="/monasteries/gao-min" target="_blank" class="text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
-              <img width="300px" decoding="async" src="https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg" />
-            </a>
-          </div>
-          <div class="flex-1">
-            <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
-              {
-                !lang || lang === 'vi'
-                  ? 'Vị trí Chùa Cao Mân 高旻寺 : tọa lạc tại thành phố Dương Châu tỉnh Giang Tô, nằm ở nơi giao nhau giữa Cổ Vận Hà (con sông đào có từ thời Nhà Tùy) và sông Nghi Dương.'
-                  : 'Location of Gao Man Temple 高旻寺: located in Yangzhou city, Jiangsu province, at the intersection of Co Yunhe (a canal dating back to the Sui Dynasty) and Yiyang River.'
-              }
-            </p>
-
-            <a href="/monasteries/gao-min" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
-
-            <img class="flex mt-2 object-cover object-center w-44" src="https://cdn.me-qr.com/qr/126566002.png?v=09192024184706786650" alt="">
-          </div>
-        </div>
-
-        <div class="flex items-center mt-4">
-          <img class="object-cover object-center w-10 h-10 rounded-full" src="http://tosuthien.com/wp-content/uploads/2022/12/logo-tosuthien.png" alt="">
-          <div class="mx-4">
-            <h1 class="text-sm text-gray-700 dark:text-gray-200">{patriarchal_zen}</h1>
-            <p class="text-sm text-gray-500 dark:text-gray-400">Zen Master</p>
+          <div class="flex items-center mt-4">
+            <img class="object-cover object-center w-10 h-10 rounded-full" src="http://tosuthien.com/wp-content/uploads/2022/12/logo-tosuthien.png" alt="">
+            <div class="mx-4">
+              <h1 class="text-sm text-gray-700 dark:text-gray-200">{patriarchal_zen}</h1>
+              <p class="text-sm text-gray-500 dark:text-gray-400">Zen Master</p>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>)
+  }
 
-<!-- Từ Ân-->
-<section class="bg-white dark:bg-gray-900">
-  <div class="container px-6 py-10 mx-auto">
-    <a href="/monasteries/tu-an" target="_blank">
-      <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">{tu_an}</h1>
-    </a>
 
-    <div class="mt-8 lg:-mx-6 lg:flex lg:items-center h-auto">
-      <div class="object-cover w-full lg:mx-6 lg:w-1/2 rounded-xl h-auto">
-        <button
-          title="Show this map"
-          onclick="location.reload()"
-          style="font-size: 24px; cursor: pointer;"
-          client:load
-        >
-          &#128065; <!-- Eye icon HTML entity -->
-          <span style="font-size: small">Show this map</span>
-        </button>
-        <div id="tu-an" class="maps"></div>
-      </div>
-
-      <div class="mt-6 lg:w-1/2 lg:mt-0 lg:mx-6 ">
-        <p class="text-sm text-blue-500 uppercase">category</p>
-
-        <a href="/monasteries/tu-an" target="_blank" class="block mt-4 text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
-          <img width="300px" decoding="async" src="https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg" />
-        </a>
-
-        <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
-          {
-           !lang || lang === 'vi'
-             ? 'Từ Ân Thiền Đường là một ngôi chùa nhỏ ở Santa Ana, có những độc đáo riêng, khó tìm được ở nhiều nơi khác. Bạn sẽ không nghe tiếng tụng kinh nơi đây, kể cả những ngày Chủ Nhật.'
-              : 'Tu An Zen Temple is a small temple in Santa Ana, with its own unique qualities that are difficult to find in many other places. You will not hear chanting here, even on Sundays.'
-          }
-        </p>
-
-        <a href="/monasteries/tu-an" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
-
-        <div class="flex items-center mt-6">
-          <img class="object-cover object-center w-10 h-10 rounded-full" src="http://tosuthien.com/wp-content/uploads/2022/12/logo-tosuthien.png" alt="">
-
-          <div class="mx-4">
-            <h1 class="text-sm text-gray-700 dark:text-gray-200">{patriarchal_zen}</h1>
-            <p class="text-sm text-gray-500 dark:text-gray-400">Zen Master</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- Duy Pháp-->
-<section class="bg-white dark:bg-gray-900">
-  <div class="container px-6 py-10 mx-auto">
-    <a href="/monasteries/duy_phap" target="_blank">
-      <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">{duy_phap}</h1>
-    </a>
-
-    <div class="mt-8 lg:-mx-6 lg:flex lg:items-center h-auto">
-      <div class="object-cover w-full lg:mx-6 lg:w-1/2 rounded-xl h-auto">
-        <button
-          title="Show this map"
-          onclick="location.reload()"
-          style="font-size: 24px; cursor: pointer;"
-          client:load
-        >
-          &#128065; <!-- Eye icon HTML entity -->
-          <span style="font-size: small">Show this map</span>
-        </button>
-        <div id="duy-phap" class="maps"></div>
-      </div>
-
-      <div class="mt-6 lg:w-1/2 lg:mt-0 lg:mx-6 ">
-        <p class="text-sm text-blue-500 uppercase">category</p>
-
-        <a href="/monasteries/duy_phap" target="_blank" class="block mt-4 text-2xl font-semibold text-gray-800 hover:underline dark:text-white md:text-3xl">
-          <img width="300px" decoding="async" src="https://tosuthien.com/wp-content/uploads/2021/11/cua-chua-1-768x576.jpg" />
-        </a>
-
-        <p class="mt-3 text-sm text-gray-500 dark:text-gray-300 md:text-sm">
-          {
-           !lang || lang === 'vi'
-             ? '...'
-              : '...'
-          }
-        </p>
-
-        <a href="/monasteries/duy_phap" class="inline-block mt-2 text-blue-500 underline hover:text-blue-400">Read more</a>
-
-        <div class="flex items-center mt-6">
-          <img class="object-cover object-center w-10 h-10 rounded-full" src="http://tosuthien.com/wp-content/uploads/2022/12/logo-tosuthien.png" alt="">
-
-          <div class="mx-4">
-            <h1 class="text-sm text-gray-700 dark:text-gray-200">{patriarchal_zen}</h1>
-            <p class="text-sm text-gray-500 dark:text-gray-400">Zen Master</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<script>
-  const mapDb = [
-    {
-      id: 1,
-      key: 'gao-min',
-      cover: 'https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg',
-      titleEn: 'GAO MIN MONASTERY',
-      titleVi: 'THIỀN VIỆN CAO MÂN ',
-      mapCenter: [32.32652, 119.41237],
-      markerPosition: [32.32652, 119.41237],
-      zoomLevel: 14,
-      address: '8CF8+2V7, Gaominsi Rd, Hanjiang District, Yangzhou, Yangzhou, Jiangsu, China, 225127',
-    },
-    {
-      id: 2,
-      key: 'tu-an',
-      cover: 'https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg',
-      titleEn: 'TU AN ZEN TEMPLE',
-      titleVi: 'TỪ ÂN THIỀN ĐƯỜNG ',
-      mapCenter: [33.74861, -117.92682],
-      markerPosition: [33.74861, -117.92682],
-      zoomLevel: 17,
-      address: '4310 W 5th St, Santa Ana, California, California, US',
-    },
-    {
-      id: 3,
-      key: 'duy-phap',
-      cover: 'https://tosuthien.com/wp-content/uploads/2021/11/cua-chua-1-768x576.jpg',
-      titleEn: 'DUY PHAP ZEN TEMPLE',
-      titleVi: 'DUY PHÁP THIỀN ĐƯỜNG ',
-      mapCenter: [33.74676, -117.9834],
-      markerPosition: [33.74676, -117.9834],
-      zoomLevel: 17,
-      address: '14851 Wilson St, Midway City, California, US',
-    },
-  ]
-// Cao Mân
-  const gaoMinDb= mapDb.find(place =>
-    place.key === 'gao-min');
-  document.addEventListener("DOMContentLoaded", () => {
-    const gaoMin = L.map(gaoMinDb.key).setView(gaoMinDb.mapCenter, gaoMinDb.zoomLevel);
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy;'
-    }).addTo(gaoMin);
-
-    // Add a marker
-    L.marker(gaoMinDb.markerPosition).addTo(gaoMin)
-      .bindPopup(gaoMinDb.titleEn)
-      .openPopup();
-  });
-  // Từ Ân
-  const tuAnDb = mapDb.find(place =>
-    place.key === 'tu-an');
-  document.addEventListener("DOMContentLoaded", () => {
-    const tuAn = L.map(tuAnDb.key).setView(tuAnDb.mapCenter, tuAnDb.zoomLevel);
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy;'
-    }).addTo(tuAn);
-
-    // Add a marker
-    L.marker(tuAnDb.markerPosition).addTo(tuAn)
-      .bindPopup(tuAnDb.titleEn)
-      .openPopup();
-  });
-// Duy Pháp
-  const duyPhapDb= mapDb.find(place =>
-    place.key === 'duy-phap');
-  document.addEventListener("DOMContentLoaded", () => {
-    const duyPhap = L.map(duyPhapDb.key).setView(duyPhapDb.mapCenter, duyPhapDb.zoomLevel);
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy;'
-    }).addTo(duyPhap);
-
-    // Add a marker
-    L.marker(duyPhapDb.markerPosition).addTo(duyPhap)
-      .bindPopup(duyPhapDb.titleEn)
-      .openPopup();
-  });
-</script>
-</body>
-</html>
