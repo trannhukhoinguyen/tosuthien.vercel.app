@@ -1,6 +1,7 @@
 const CnLv6MasterDb = [
   {
     id: '39.6.1',
+    hasContent: true,
     name_en: 'Caoshan Benji',
     name_es: 'Caoshan Benji',
     name_de: 'Caoshan Benji',
