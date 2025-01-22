@@ -90,7 +90,7 @@ const CnLv12MasterDb = [
     sect: ['Linji', 'Caodong'],
     country: 'China',
     place: '-',
-    teachers: ['Fushan Fayuan', 'Dayang Jingxuan (Taiyang Jingxuan)'],
+    teachers: ['Fushan Fayuan', 'Dayang Jingxuan'],
     successors: [''],
     disciples: ['Dahong Bao\'en', 'Furong Daokai'],
     image: '/images/avatar.png',

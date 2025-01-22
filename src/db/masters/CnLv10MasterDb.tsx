@@ -188,7 +188,7 @@ const CnLv10MasterDb = [
     sect: ['Caodong'],
     country: 'China',
     place: 'Dayang mountain',
-    teachers: ['Shoushan Xingnian'],
+    teachers: ['Liangshan Yuanguan'],
     successors: ['Touzi Yiqing*'],
     disciples: ['Touzi Yiqing*'],
     image: '/images/avatar.png',
