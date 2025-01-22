@@ -19,9 +19,9 @@ import VintagePost from "../../../layouts/components/VintagePost.astro";
       ?.map(koan => {
         if (koan.id%10 === 1) {
           return <VintagePost
-            bookTitle={`${koan.bookTitle} (31 - 40)`}
-            author={koan.author}
-            translator={koan.translator}
+            bookTitle={'Bích Nham Lục (31 - 40)'}
+            author={'[Thiền sư] Tuyết Đậu Trọng Hiển - [Thiền sư] Viên Ngộ Khắc Cần'}
+            translator={'[Thiền sư] Thích Mãn Giác'}
                               chapterTitle={koan.title} image={koan.image}
                             intro={koan.intro} main={koan.main}
                               commentBeforeVerseExtra={koan.commentBeforeVerseExtra}
