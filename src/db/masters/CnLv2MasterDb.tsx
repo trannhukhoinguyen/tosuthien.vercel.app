@@ -21,7 +21,7 @@ const CnLv2MasterDb = [
     teachers: ['Dajian Huineng', 'Qingyuan Xingsi'],
     successors: ['Yaoshan Weiyan'],
     disciples: ['Yaoshan Weiyan', 'Kinh triệu Thi Lợi', 'Tianhuang Daowu', 'Danxia Tianran', 'Dadian Baotong',
-      'Chiêu đề tại Đà châu Tuệ Lãng', 'Hưng quốc tại Trường sa Chấn Lãng', 'Đàm châu Đại Xuyên',
+      'Chiêu đề tại Đà châu Tuệ Lãng', 'Trường sa Chấn Lãng Hưng quốc', 'Tanzhou Dachuan',
       'Phần châu Thạch Thê', 'Pháp môn tại Phụng tường Phật Đà', 'Đàm châu Hoa Lâm', 'Triều châu Đại Điên',
       'Đàm châu Khoáng – Trường Tỳ', 'Thủy Không', 'Hải lăng Đại Biện', 'Chử Kinh', 'Hành châu Đạo Tiên',
       'Hán châu Thường Thanh', 'Phước châu Toái Thạch', 'Thương châu Thương Lãnh', 'Thường châu Nghĩa Hưng',
