@@ -1002,7 +1002,7 @@ const GatelessGate = [
     title: 'TẮC THỨ 37: Cây bách trước sân (Đình tiền bách thụ)',
     image: '/images/gateless-gate/gateless-gate-cover.jpg',
     main:
-'Nhân có tăng hỏi: Tố Sư Đạt Ma từ phương Tây xa xôi đến, ý là gì vậy? ' +
+'Nhân có tăng hỏi: Tổ Sư Đạt Ma từ phương Tây xa xôi đến, ý là gì vậy? ' +
 'Hòa Thượng Triệu Châu bèn chỉ ra ngoài sân và đáp: Là cây bách đó!',
     commentBeforeVerseExtra:
 'Vô Môn nói rằng: ' +
