@@ -2,6 +2,7 @@ const CnLv9MasterDb = [
   {
     id: '42.9.1',
     name_en: 'Shoushan Xingnian',
+    other_name_en: 'Shoushan Shengnian',
     name_es: 'Shoushan Xingnian',
     name_de: 'Shoushan Xingnian',
     name_fr: 'Shoushan Xingnian',
