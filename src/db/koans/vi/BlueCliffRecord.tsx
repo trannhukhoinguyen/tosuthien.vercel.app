@@ -260,7 +260,7 @@ const BlueCliffRecord = [
       'Tuyết Đậu đương nhiên thấy cổ nhân kia. Chỉ cần bắt mạch ông ta rồi tụng “đầu trâu mất, đầu ngựa hiện”. ' +
       'Thử nói xem Tuyết Đậu nói cái gì vậy? Nếu như thấy được, thì nó cũng chỉ tầm thường như việc ăn cháo sáng sớm ăn cơm buổi trưa.' +
       'Tuyết Đậu từ bi,trước tiên một búa đập tan tành hết, rồi đoán định tất cả bằng một câu. ' +
-      'Thầy ta đơn độc lừng lững, như đá lửa như điện chớp, không để lộ cái sắc bén của mình, đâu có chổ nào để các ông bám víu. / ' +
+      'Thầy ta đơn độc lừng lững, như đá lửa như điện chớp, không để lộ cái sắc bén của mình, đâu có chỗ  nào để các ông bám víu. / ' +
       'Thử nói xem, các ông có dùng ý căn mà tìm tòi được chăng? Hai câu này một lúc đã nói lên tất cả. / ' +
       'Ở câu thứ ba, Tuyết Đậu khai thông một đường mới, để lộ chút qui củ, kể như đã rơi vào bụi. ' +
       'Nếu như ông trên lời đặt thêm lời, trên câu đặt thêm câu, trên ý đặt thêm ý, rồi theo đó mà giải thích, thì không những chỉ làm lão tăng hệ lụy mà còn phụ lòng Tuyết Đậu nữa. ' +
@@ -403,7 +403,7 @@ const BlueCliffRecord = [
       'Có lúc một câu như sư tử ngồi xỗm, có lúc một câu như Kim Cương Bảo Vương Kiếm. ' +
       'Có lúc một câu làm hết người trong thiên hạ líu lưỡi, có lúc một câu như đuổi theo sóng cả. ' +
       'Nếu đã có thể sử dụng được nó trên con đường, thì khi gặp được tri âm ông biết phân biệt được cơ hội thích hợp, phân biệt được đúng với sai, và cùng chứng minh cho nhau. ' +
-      'Ở chổ mà sự thật công ước áp đảo, với một con mắt, ông có thể cắt đứt hết mười phương, đứng sừng sững như đỉnh núi ngàn trượng. / ' +
+      'Ở chỗ  mà sự thật công ước áp đảo, với một con mắt, ông có thể cắt đứt hết mười phương, đứng sừng sững như đỉnh núi ngàn trượng. / ' +
       'Cho nên có câu nói, “Đại dụng hiện tiền, không còn qui tắc”. ' +
       'Có lúc coi một cọng cỏ như thân vàng mười sáu trượng (của Phật), có lúc coi thân vàng mười sáu trượng như một cọng cỏ. ' +
       'Thử nói xem bằng vào nguyên lý nào mà nói như thế? Xin thử nêu ra đây.',
