@@ -457,7 +457,7 @@ worship_tower: '',
     successors: [''],
     disciples: [''],
     image: '/',
-    reference: [''],
+    reference: ['https://hoavouu.com/p24a17582/02-thien-su-tang-mat'],
   },
 ]
 export default CnLv5MasterDb;
