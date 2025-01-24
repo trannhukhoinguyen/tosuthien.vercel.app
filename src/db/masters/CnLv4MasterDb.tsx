@@ -42,7 +42,7 @@ const CnLv4MasterDb = [
     place: '-',
     teachers: ['Yaoshan Weiyan, Baizhang Huaihai'],
     successors: ['Dongshan Liangjie'],
-    disciples: ['Dongshan Liangjie'],
+    disciples: ['Dongshan Liangjie', 'Xingshan Jianghong', 'Thần Sơn Tăng Mật'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Yunyan_Tansheng_Image_Zen.jpg/220px-Yunyan_Tansheng_Image_Zen.jpg',
     reference: ['https://blog.phapthihoi.org/gt-member/ts-van-nham-dam-thanh/'],
   },
