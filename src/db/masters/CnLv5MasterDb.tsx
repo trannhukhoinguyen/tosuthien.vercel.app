@@ -450,7 +450,7 @@ worship_tower: '',
     successors: [''],
     disciples: [''],
     image: '/',
-    reference: [''],
+    reference: ['https://quangduc.com/p157a72143/quyen-15-dong-son-luong-gioi-'],
   },
 {
     id: '38.5.20',
