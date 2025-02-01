@@ -340,7 +340,7 @@ const CnLv2MasterDb = [
     sect: ['-'],
     country: 'China',
     place: '',
-    teachers: ['Lục hợp Đại Giác'],
+    teachers: ['Lục Hợp Đại Giác'],
     successors: [''],
     disciples: ['Thái sơn Minh Luyện'],
     image: '/images/monocolor-unknown-zen-master.jpg',

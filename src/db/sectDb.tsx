@@ -10,7 +10,8 @@ const sectDb = [
     relation: '',
     doctrine: '',
     reference: ['https://chuahoiphuoc.net/nguon-goc-chung-bang-tong-quy-nguong/', 'https://en.wikipedia.org/wiki/Guiyang_school', 'https://en.wikipedia.org/wiki/Miyin_Temple',
-      'https://zh.wikipedia.org/wiki/%E6%B2%A9%E4%BB%B0%E5%AE%97', 'https://nigioikhatsi.net/thien/thien-tong-co-du-tri-tue-vo-han-va-suc-sang-tao.html'],
+      'https://zh.wikipedia.org/wiki/%E6%B2%A9%E4%BB%B0%E5%AE%97', 'https://nigioikhatsi.net/thien/thien-tong-co-du-tri-tue-vo-han-va-suc-sang-tao.html',
+    'https://inf.news/en/culture/7d0433fb73e25301eea2673203f9c992.html'],
   },
   {
     id: 2,
@@ -23,7 +24,8 @@ const sectDb = [
     relation: '',
     doctrine: '',
     reference: ['https://chuahoiphuoc.net/chung-bang-tong-lam-te', 'https://en.wikipedia.org/wiki/Linji_school',
-      'https://zh.wikipedia.org/wiki/%E4%B8%B4%E6%B5%8E%E5%AE%97', 'https://nigioikhatsi.net/thien/thien-tong-co-du-tri-tue-vo-han-va-suc-sang-tao.html'],
+      'https://zh.wikipedia.org/wiki/%E4%B8%B4%E6%B5%8E%E5%AE%97', 'https://nigioikhatsi.net/thien/thien-tong-co-du-tri-tue-vo-han-va-suc-sang-tao.html',
+    'https://inf.news/en/culture/7d0433fb73e25301eea2673203f9c992.html'],
   },
   {
     id: 3,
@@ -36,7 +38,8 @@ const sectDb = [
     relation: '',
     doctrine: '',
     reference: ['https://chuahoiphuoc.net/nguon-goc-chung-bang-tong-tao-dong/', 'https://en.wikipedia.org/wiki/Caodong_school', 'https://en.wikipedia.org/wiki/Miyin_Temple',
-      'https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%B4%9E%E5%AE%97', 'https://nigioikhatsi.net/thien/thien-tong-co-du-tri-tue-vo-han-va-suc-sang-tao.html'],
+      'https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%B4%9E%E5%AE%97', 'https://nigioikhatsi.net/thien/thien-tong-co-du-tri-tue-vo-han-va-suc-sang-tao.html',
+    'https://inf.news/en/culture/7d0433fb73e25301eea2673203f9c992.html'],
   },
   {
     id: 4,
@@ -49,7 +52,8 @@ const sectDb = [
     relation: '',
     doctrine: '',
     reference: ['https://chuahoiphuoc.net/nguon-goc-chung-bang-tong-phap-nhan/', 'https://en.wikipedia.org/wiki/Fayan_school', 'https://en.wikipedia.org/wiki/Miyin_Temple',
-      'https://zh.wikipedia.org/wiki/%E6%B3%95%E7%9C%BC%E5%AE%97', 'https://nigioikhatsi.net/thien/thien-tong-co-du-tri-tue-vo-han-va-suc-sang-tao.html'],
+      'https://zh.wikipedia.org/wiki/%E6%B3%95%E7%9C%BC%E5%AE%97', 'https://nigioikhatsi.net/thien/thien-tong-co-du-tri-tue-vo-han-va-suc-sang-tao.html',
+    'https://inf.news/en/culture/7d0433fb73e25301eea2673203f9c992.html'],
   },
   {
     id: 5,
@@ -63,8 +67,8 @@ const sectDb = [
     doctrine: '',
     reference: ['https://chuahoiphuoc.net/nguon-goc-chung-bang-tong-van-mon/', 'hhttps://en.wikipedia.org/wiki/Yunmen_Wenyan', 'https://en.wikipedia.org/wiki/Miyin_Temple',
       'https://zh.wikipedia.org/wiki/%E4%BA%91%E9%97%A8%E5%AE%97', 'https://nigioikhatsi.net/thien/thien-tong-co-du-tri-tue-vo-han-va-suc-sang-tao.html',
-      'https://www.sohu.com/a/412189297_475956',
-      'https://thuvienhoasen.org/a9990/chuong-4-thien-pho-cap-va-bien-thai-thien-thoi-bac-tong', 'https://vi.wikipedia.org/wiki/V%C3%A2n_M%C3%B4n_t%C3%B4ng',
+      'https://www.sohu.com/a/412189297_475956', 'https://thuvienhoasen.org/a9990/chuong-4-thien-pho-cap-va-bien-thai-thien-thoi-bac-tong',
+      'https://vi.wikipedia.org/wiki/V%C3%A2n_M%C3%B4n_t%C3%B4ng', 'https://inf.news/en/culture/7d0433fb73e25301eea2673203f9c992.html'
     ],
   },
   {
