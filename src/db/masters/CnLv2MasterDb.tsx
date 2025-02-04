@@ -268,7 +268,7 @@ const CnLv2MasterDb = [
     name_vi: 'Ngưu Đầu Pháp Trì',
     birth_death_time: ['635', '702'],
     records: '',
-    sect: ['-'],
+    sect: ['Niutou (Oxhead)'],
     country: 'China',
     place: '-',
     teachers: ['Niutou Huifang'],

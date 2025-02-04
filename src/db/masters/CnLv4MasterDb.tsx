@@ -210,7 +210,7 @@ const CnLv4MasterDb = [
     worship_tower: '',
     birth_death_time: ['668/688', '752'],
     records: '',
-    sect: ['-'],
+    sect: ['Niutou (Oxhead)'],
     country: 'China',
     place: 'Nhuận Châu',
     teachers: ['Niutou Zhiwei'],

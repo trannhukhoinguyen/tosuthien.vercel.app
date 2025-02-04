@@ -1170,7 +1170,7 @@ const CnLv1MasterDb = [
     worship_tower: '',
     birth_death_time: ['629', '695'],
     records: '',
-    sect: ['Oxhead'],
+    sect: ['Niutou (Oxhead)'],
     country: 'China',
     place: '-',
     teachers: ['Niutou Zhiyan'],
