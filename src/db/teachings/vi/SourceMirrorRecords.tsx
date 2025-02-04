@@ -367,7 +367,7 @@ const SourceMirrorRecords = [
   {
     id: 37,
     title: '',
-    hashTag: 'source-mirror-records-4',
+    hashTag: 'source-mirror-records-37',
     image: '/images/source-mirror-records/source-mirror-records.jpg',
     intro:
       '',
@@ -377,7 +377,7 @@ const SourceMirrorRecords = [
   {
     id: 38,
     title: '',
-    hashTag: 'source-mirror-records-5',
+    hashTag: 'source-mirror-records-38',
     image: '/images/source-mirror-records/source-mirror-records.jpg',
     intro:
       '',
@@ -387,7 +387,7 @@ const SourceMirrorRecords = [
   {
     id: 39,
     title: '',
-    hashTag: 'source-mirror-records-6',
+    hashTag: 'source-mirror-records-39',
     image: '/images/source-mirror-records/source-mirror-records.jpg',
     intro:
       '',
@@ -445,9 +445,9 @@ const SourceMirrorRecords = [
       '',
   },
   {
-    id: 12,
+    id: 45,
     title: '',
-    hashTag: 'source-mirror-records-12',
+    hashTag: 'source-mirror-records-45',
     image: '/images/source-mirror-records/source-mirror-records.jpg',
     intro:
       '',
@@ -455,7 +455,7 @@ const SourceMirrorRecords = [
       '',
   },
   {
-    id: 13,
+    id: 46,
     title: '',
     hashTag: 'source-mirror-records-13',
     image: '/images/source-mirror-records/source-mirror-records.jpg',
@@ -465,7 +465,7 @@ const SourceMirrorRecords = [
       '',
   },
   {
-    id: 14,
+    id: 47,
     title: '',
     hashTag: 'source-mirror-records-14',
     image: '/images/source-mirror-records/source-mirror-records.jpg',
@@ -475,7 +475,7 @@ const SourceMirrorRecords = [
       '',
   },
   {
-    id: 15,
+    id: 48,
     title: '',
     hashTag: 'source-mirror-records-15',
     image: '/images/source-mirror-records/source-mirror-records.jpg',
@@ -485,7 +485,7 @@ const SourceMirrorRecords = [
       '',
   },
   {
-    id: 16,
+    id: 49,
     title: '',
     hashTag: 'source-mirror-records-16',
     image: '/images/source-mirror-records/source-mirror-records.jpg',
@@ -495,9 +495,9 @@ const SourceMirrorRecords = [
       '',
   },
   {
-    id: 17,
+    id: 50,
     title: '',
-    hashTag: 'source-mirror-records-9',
+    hashTag: 'source-mirror-records-50',
     image: '/images/source-mirror-records/source-mirror-records.jpg',
     intro:
       '',
