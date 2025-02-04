@@ -1,4 +1,4 @@
-const BlueCliffRecord = [
+const SourceMirrorRecords = [
   {
       id: 1,
       bookTitle: 'Tông Cảnh Lục',
@@ -1005,4 +1005,4 @@ const BlueCliffRecord = [
       '',
   },
 ]
-export default BlueCliffRecord;
+export default SourceMirrorRecords;
