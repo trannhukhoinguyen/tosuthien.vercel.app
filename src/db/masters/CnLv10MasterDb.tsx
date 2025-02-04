@@ -429,7 +429,7 @@ const CnLv10MasterDb = [
     name_ar: 'Baizhang Daoheng',
     name_ja: 'Baizhang Daoheng',
     name_zh: '百丈道恒',
-    pinyin: 'Pai Chang Tao Ch'ang',
+    pinyin: 'Pai Chang Tao Ch\'ang',
     name_vi: 'Bá Trượng Đạo Hằng',
     other_name_vi: 'Bách Trượng Đạo Hằng',
     nickname_vi: '',
