@@ -1,7 +1,7 @@
 const SourceMirrorRecords = [
   {
       id: 1,
-      bookTitle: 'Tông Cảnh Lục',
+      bookTitle: 'Tông Cảnh Lục (宗鏡錄)',
       author: '[Thiền sư] Vĩnh Minh Diên Thọ',
       translator: 'Tuệ Đăng & Hân Mẫn dịch',
       vietnameseLink: 'https://tangthuphathoc.net/tong-canh-luc/',
