@@ -384,7 +384,7 @@ const ZenPracticeAlerts = {
     'BÌNH : Người tọa thiền muôn người không có một người đến chỗ này. Dẫu cho đến được đi nữa cũng còn là việc bên bờ sanh tử, / ' +
     'cần phải tự tìm con đường sống mới được. / ' +
     'Ngài Huyền Sa nói : Chỗ tu hành của đạo nhân như lửa đốt tan băng, trọn không trở lại thành băng nữa; mũi tên đã lìa dây cung, không trở lại nữa. / ' +
-    'Vì thế, củi lồng chẳng chịu ở, kêu gọi chẳng quay đầu, cổ Thánh chẳng an bài, đến nay không xứ sở. ',
+    'Vì thế, cũi lồng chẳng chịu ở, kêu gọi chẳng quay đầu, cổ Thánh chẳng an bài, đến nay không xứ sở. ',
   paragraph19:
     'BÌNH : Tâm đạo nhân phải nên như thế. Chỉ cần đem đoạn này, thực hành cho kỹ, tương lai tự nhiên ít phí sức, dính vào một chút chẳng được. / ' +
     'Nếu đem thức tâm suy lý, thì chính đó là “Nhân địa chẳng chân, đưa đến kết quả cong queo”. / ' +
