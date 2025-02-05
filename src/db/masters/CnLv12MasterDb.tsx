@@ -44,9 +44,13 @@ const CnLv12MasterDb = [
     place: '-',
     teachers: ['Shishuang Chuyuan'],
     successors: [''],
-    disciples: ['Yungai Shouzhi', 'Baofeng Kewen', 'Huitang Zuxin', 'Donglin Changcong'],
+    disciples: ['Baofeng Kewen', 'Huitang Zuxin', 'Donglin Changcong', 'Xuefeng Daoyuan', 'Baoben Huiyuan',
+      'Huangbo Weisheng - 黃蘗惟勝 (Northern Song Dynasty)', 'Letan Hongying - 泐潭洪英 (1012–1070)', 'Yunju Yuanyou - 雲居元祐 (1027–1092)',
+      'Guishan Huaixiu (Dagui Hauixiu) - 大溈懷秀 (Northern Song Dynasty)', 'Yungai Shouzhi', 'Huilin Dexun (1107-1110)',
+      'Fuyan Cigan (Nanyue Cikan)', 'Guizong Zhizhi - 歸宗志芝 (Northern Song Dynasty)'
+    ],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Long_Hu%E1%BB%87_Nam', ''],
+    reference: ['https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Long_Hu%E1%BB%87_Nam', 'https://pl.wikipedia.org/wiki/Huanglong_Huinan'],
   },
   {
     id: '45.12.3',
