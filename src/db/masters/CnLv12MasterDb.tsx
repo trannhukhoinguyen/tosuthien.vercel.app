@@ -92,7 +92,7 @@ const CnLv12MasterDb = [
     place: '-',
     teachers: ['Fushan Fayuan', 'Dayang Jingxuan'],
     successors: [''],
-    disciples: ['Dahong Bao\'en', 'Furong Daokai'],
+    disciples: ['Dahong Bao’en', 'Furong Daokai'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Touzi_Yiqing'],
   },

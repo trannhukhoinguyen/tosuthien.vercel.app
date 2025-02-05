@@ -3,7 +3,9 @@ import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
 import HuaTou from "@/layouts/partials/Huatou.astro";
-import FaqHome from "../../layouts/partials/FaqHome.astro";
+import ShortSpeechCard from "../../layouts/components/ShortSpeechCard.astro";
+import LongSpeechCard from "../../layouts/components/LongSpeechCard.astro";
+import speechDb from "../../db/speechDb.tsx";
 import type { ContentEntryMap } from "astro:content";
 import SevenThingsLeftBehind from "@/layouts/components/SevenThingsLeftBehind.astro"
 import { site } from "@/config/config.json";
@@ -46,9 +48,71 @@ const {
     <h2>🔥{after_cremated_nature}🔥</h2>
     <h2>🏴‍☠️ {after_death} 🏴‍☠️</h2>
   </div>
-  <FaqHome faqHomes={faqHome[0]} />
+
+<!--  <div class="short-main-container">
+    <div class="short-cards">
+
+      {
+        speechDb?.length
+          ? speechDb?.map((speech) => <ShortSpeechCard
+            remainder={speech.id%5+1}
+            speechAuthor={speech.authorName}
+            speechMain={speech.speechMain}
+          />)
+          : ''
+      }
+
+    </div>
+  </div>
+
+  <div class="long-main-container">
+    <ul class="long-cards">
+
+      {
+        speechDb?.length
+          ? speechDb?.map((speech) => <LongSpeechCard
+            authorName={speech.authorName}
+            authorImage={speech.authorImage}
+            authorLink={speech.authorLink}
+            speechMain={speech.speechMain}
+            speechType={speech.speechType}
+          />)
+          : ''
+      }
+
+    </ul>
+  </div>-->
+
   <HuaTou huatous={huatou[0]} />
   <div style="text-align: center">
     <SevenThingsLeftBehind />
   </div>
 </Base>
+
+<style>
+
+  .short-main-container {
+    padding: 10px;
+  }
+
+  /* CARDS */
+  .short-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .long-main-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .long-cards {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+</style>

@@ -14,6 +14,7 @@ const CnLv14MasterDb = [
     name_ko: 'Wuzu Fayan',
     name_ar: 'Wuzu Fayan',
     birth_death_time: ['1024?', '1104'],
+    epoch: '',
     records: '',
     sect: ['Linji', 'Yangqi'],
     country: 'China',

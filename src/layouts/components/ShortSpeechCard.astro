@@ -1,0 +1,130 @@
+---
+import {getLangFromUrl, getTranslations} from "../../lib/utils/languageParser";
+import {ContentEntryMap} from "astro:content";
+
+const {
+  remainder,
+  speechAuthor,
+  speechMain,
+} = Astro.props;
+
+const lang = getLangFromUrl(Astro.url);
+const {
+
+} = await getTranslations(lang as keyof ContentEntryMap);
+---
+
+{
+  speechAuthor && speechMain
+    ? <div class=`card card-${ remainder }`>
+        <h6 class="card__title">{ speechMain }</h6>
+        <p class="card__apply">
+          <a class="card__link" href="#"><em><mark>{ speechAuthor }</mark></em></a>
+        </p>
+      </div>
+    : ''
+}
+
+<style>
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+
+  .card {
+    margin: 12px;
+    padding: 12px;
+    width: 500px;
+    min-height: 200px;
+    display: grid;
+    grid-template-rows: 20px 50px 1fr 50px;
+    border-radius: 10px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.25);
+    transition: all 0.2s;
+  }
+
+  .card:hover {
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+    transform: scale(1.01);
+  }
+
+  .card__link {
+    position: relative;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.9);
+
+    em {
+      float: right;
+      mark {
+        background-color: #ffffff;
+        padding: 4px;
+        border-radius: 8px;
+      }
+    }
+  }
+
+  .card__link::after {
+    position: absolute;
+    top: 25px;
+    left: 0;
+    content: "";
+    width: 0;
+    height: 3px;
+    background-color: rgba(255, 255, 255, 0.6);
+    transition: all 0.5s;
+  }
+
+  .card__link:hover::after {
+    width: 100%;
+  }
+
+  .card__title {
+    grid-row: 3/4;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 1rem;
+  }
+
+  .card__apply {
+    grid-row: 4/5;
+    align-self: center;
+  }
+
+  /* CARD BACKGROUNDS */
+
+  .card-1 {
+    background: radial-gradient(#1fe4f5, #3fbafe);
+  }
+
+  .card-2 {
+    background: radial-gradient(#fbc1cc, #fa99b2);
+  }
+
+  .card-3 {
+    background: radial-gradient(#76b2fe, #b69efe);
+  }
+
+  .card-4 {
+    background: radial-gradient(#60efbc, #58d5c9);
+  }
+
+  .card-5 {
+    background: radial-gradient(#f588d8, #c0a3e5);
+  }
+
+  /* RESPONSIVE */
+
+  @media (max-width: 1600px) {
+    .cards {
+      justify-content: center;
+    }
+  }
+
+</style>

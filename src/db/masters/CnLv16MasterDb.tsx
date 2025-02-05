@@ -68,7 +68,7 @@ const CnLv16MasterDb = [
     teachers: ['Yuanwu Keqin'],
     successors: [''],
     disciples: ['Fozhao Deguang', 'Zishou Miaozong', 'Kaixi Daoqian', 'Miaodao Dingguang', 'Xiangyun Tanyi', 'Wuji Lepai',
-      'Ci\'an Shoujing (此庵守淨)', 'Yishan Chongmi (伊山冲密, Zhongmi)', 'Ke-an Huiran (可庵慧然, Xuefeng)'],
+      'Ci’an Shoujing (此庵守淨)', 'Yishan Chongmi (伊山冲密, Zhongmi)', 'Ke-an Huiran (可庵慧然, Xuefeng)'],
     image: '/images/avatar.png',
     reference: ['',],
   },

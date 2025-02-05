@@ -23,6 +23,7 @@ interface TableProps {
     nickname_vi?: string
     worship_tower?: string
     birth_death_time: string[]
+    epoch: string
     records: string | undefined
     sect: string[] | []
     country: string
@@ -64,6 +65,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
       || item.name_ko?.toLowerCase().includes(searchTerm)
       || item.name_ar?.toLowerCase().includes(searchTerm)
       || item.birth_death_time?.some(time => time.toLowerCase().includes(searchTerm))
+      || item.epoch?.toLowerCase().includes(searchTerm)
       || item.sect?.some(s => s.toLowerCase().includes(searchTerm))
       || item.country?.toLowerCase().includes(searchTerm)
       || item.place?.toLowerCase().includes(searchTerm)
@@ -172,6 +174,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
                 <span className="mr-1">{ item.birth_death_time[0] }</span>
                 <span className="mr-1">{ item.birth_death_time[0] && item.birth_death_time[1] ? '⇨' : '' }</span>
                 <span className="mr-1">{ item.birth_death_time[1] }</span>
+                ({item.epoch})
               </div>
             </td>
             <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">{ item.sect.join(', ') }</td>

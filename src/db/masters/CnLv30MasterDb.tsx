@@ -12,6 +12,7 @@ const CnLv30MasterDb = [
     name_ko: 'Yunkong Changzhong',
     name_ar: 'Yunkong Changzhong',
     birth_death_time: ['1514', '1588'],
+    epoch: '',
     records: '',
     sect: ['Caodong'],
     country: 'China',

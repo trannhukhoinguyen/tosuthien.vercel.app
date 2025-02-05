@@ -12,6 +12,7 @@ const CnLv19MasterDb = [
     name_ko: 'Poan Zuxian',
     name_ar: 'Poan Zuxian',
     birth_death_time: ['1136', '1211'],
+    epoch: '',
     records: '',
     sect: ['-'],
     country: 'China',

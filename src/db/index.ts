@@ -38,6 +38,7 @@ export interface IMaster {
   nickname_vi?: string,
   worship_tower?: '',
   birth_death_time: string[],
+  epoch: string,
   records: string,
   sect: string[],
   country: string,

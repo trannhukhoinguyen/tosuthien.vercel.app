@@ -99,7 +99,7 @@ const CnLv5MasterDb = [
     place: '-',
     teachers: ['Guishan Lingyou'],
     successors: ['Nanta Guangyong'],
-    disciples: ['Nanta Guangyong', 'Wuzhu Wenxi', 'Xita Guangmu', 'Miaoxin', 'Wŏnnang Taet\'ong', 'Sunji Yoo'],
+    disciples: ['Nanta Guangyong', 'Wuzhu Wenxi', 'Xita Guangmu', 'Miaoxin', 'Wŏnnang Taet’ong', 'Sunji Yoo'],
     image: '/images/avatar.png',
     reference: [''],
   },
