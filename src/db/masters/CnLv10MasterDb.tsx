@@ -67,7 +67,7 @@ const CnLv10MasterDb = [
     name_ar: 'Xuedou Chongxian',
     name_zh: '雪竇重顯',
     name_vi: 'Tuyết Đậu Trọng Hiển',
-    other_name_vi: '',
+    other_name_vi: 'Tuyết Đậu Trùng Hiển',
     nickname_vi: '',
     worship_tower: '',
     birth_death_time: ['980', '1052'],

@@ -1,11 +1,14 @@
 const speechDb = [
   {
     id: 1,
-    authorName: '111111111111111111111111',
+    authorName: 'Deshan Xuanjian',
     authorImage: '/images/wide/cloudy-mountain-peak.jpg',
-    authorLink: '/a',
+    authorLink: '/masters/Deshan-Xuanjian',
     speechMain:
-      'aaaa / aaa / aa / a',
+      'aaaa / ' +
+      'aaa / ' +
+      'aa / ' +
+      'a',
     speechType: '',
   },
   {

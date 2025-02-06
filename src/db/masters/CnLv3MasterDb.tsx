@@ -366,7 +366,7 @@ const CnLv3MasterDb = [
   {
     id: '36.3.15',
     hasContent: true,
-    name_en: 'Nanquan Puyuan (Wang laoshi)',
+    name_en: 'Nanquan Puyuan',
     nickname_en: 'Wang laoshi',
     name_es: 'Nanquan Puyuan',
     name_de: 'Nanquan Puyuan',
@@ -389,7 +389,8 @@ const CnLv3MasterDb = [
     place: '-',
     teachers: ['Mazu Daoyi'],
     successors: [''],
-    disciples: ['Zhuyu Ozhou', 'Xichan', 'Tử Hồ Lợi Tung', 'Baima Tanzhao', 'Changsha Jingcen', 'Zhongnan Yunji', 'Zihu Lizong', 'Zihu Lizong//Taizhou Shengguang', 'Lugeng', 'Chŏlgam Toyun', 'Zhaozhou Congshen', ],
+    disciples: ['Zhuyu Ozhou', 'Xichan', 'Baima Tanzhao', 'Changsha Jingcen', 'Zhongnan Yunji',
+      'Zihu Lizong', 'Taizhou Shengguang', 'Lugeng', 'Chŏlgam Toyun', 'Zhaozhou Congshen', ],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/nanquan.html', 'https://en.wikipedia.org/wiki/Nanquan_Puyuan', 'https://pl.wikipedia.org/wiki/Nanquan_Puyuan'],
   },
