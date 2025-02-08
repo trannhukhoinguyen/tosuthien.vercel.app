@@ -96,7 +96,7 @@ const ZhongfengSpeeches = {
     'Từ một ngày đầu tiên bắt đầu đứng vững gót chân chẳng được nhúc nhích một chút, kín đáo hạ thủ hướng tới trước, một ngày phải thấy công trình một ngày, một giờ phải thấy ứng nghiệm một giờ. / ' +
     'Từ người trên đến kẻ dưới cảnh sách lẫn nhau, mài giũa cho nhau, chẳng tạp duyên, chẳng vọng niệm, chẳng theo vật chuyển, chẳng đuổi theo cảnh, chẳng theo quy củ xưa, chẳng còn phép tắc mới, chẳng chán phàm, chẳng mộ thánh, cho đến tất cả đều chẳng làm. / ' +
     'Chỉ muốn một cái ấy của mình minh bạch. Hốt nhiên bị ông lạnh lùng thấu thoát mới biết chín mươi ngày là cả cuộc đời, cả cuộc đời chính là 90 ngày, cho đến 2000 năm trước chẳng khác ngày hôm nay, ngày hôm nay chẳng khác 2000 năm trước, mắt xích liền nhau trọn không gián đoạn, đây là trường tuyển Phật, tâm không thi đậu về. / ' +
-    'Ví như chẳng được như vậy thì cái am Thuận-Tâm nầy đâu khác hai hòn núi Thiết-Vi. / ' +
+    'Ví như chẳng được như vậy thì cái am Thuận-Tâm nầy đâu khác hai hòn núi Thiết Vi. / ' +
     'Đừng cho rằng an-cư vô sự bỏ trôi mùa hạ, biết trước chí nguyện bình-sanh chẳng toại, ở đây có thể thấy vậy. / ' +
     'Am-chủ gởi thư đến thỉnh lời cảnh sách cho chúng, lấy đại sự tham cứu thoại đầu, chẳng những chúng-nhân mà am-chủ cũng phải tự chiếu cố. / ' +
     'Thiền là bổn lai diện mục của các ông, trừ ngoài cái nầy không có thiền nào có thể tham, cũng không thể thấy, cũng không thể nghe. / ' +

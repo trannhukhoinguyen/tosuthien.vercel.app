@@ -13,6 +13,7 @@ const CnLv24MasterDb = [
     name_ko: 'Tianru Weize',
     name_ar: 'Tianru Weize',
     birth_death_time: ['1286', '1354'],
+    epoch: '',
     records: '',
     sect: ['Linji', 'Yangqi'],
     country: 'China',

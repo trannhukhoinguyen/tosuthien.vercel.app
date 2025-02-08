@@ -13,6 +13,7 @@ const CnLv21MasterDb = [
     name_ko: 'Xueyan Zuqin',
     name_ar: 'Xueyan Zuqin',
     birth_death_time: ['1215?', '1287'],
+    epoch: '',
     records: '',
     sect: ['Linji', 'Yangqi'],
     country: 'China',

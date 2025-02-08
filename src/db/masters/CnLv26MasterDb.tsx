@@ -12,6 +12,7 @@ const CnLv26MasterDb = [
     name_ko: 'Jukong Qibin',
     name_ar: 'Jukong Qibin',
     birth_death_time: ['1383', '1452'],
+    epoch: '',
     records: '',
     sect: ['Caodong'],
     country: 'China',

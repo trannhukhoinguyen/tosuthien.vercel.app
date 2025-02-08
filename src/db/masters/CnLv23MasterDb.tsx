@@ -13,6 +13,7 @@ const CnLv23MasterDb = [
     name_ko: 'Zhongfeng Mingben',
     name_ar: 'Zhongfeng Mingben',
     birth_death_time: ['', ''],
+    epoch: '',
     records: '',
     sect: ['Linji', 'Yangqi'],
     country: 'China',

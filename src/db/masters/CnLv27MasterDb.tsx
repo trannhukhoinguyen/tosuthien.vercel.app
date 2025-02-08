@@ -12,6 +12,7 @@ const CnLv27MasterDb = [
     name_ko: 'Wufang Kecong',
     name_ar: 'Wufang Kecong',
     birth_death_time: ['1420', '1483'],
+    epoch: '',
     records: '',
     sect: ['Caodong'],
     country: 'China',

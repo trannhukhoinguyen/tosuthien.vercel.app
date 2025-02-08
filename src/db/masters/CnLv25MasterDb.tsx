@@ -12,6 +12,7 @@ const CnLv25MasterDb = [
     name_ko: 'Ningran Liaogai',
     name_ar: 'Ningran Liaogai',
     birth_death_time: ['1335', '1421'],
+    epoch: '',
     records: '',
     sect: ['Caodong'],
     country: 'China',

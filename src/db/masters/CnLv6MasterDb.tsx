@@ -246,7 +246,7 @@ const CnLv6MasterDb = [
     place: '-',
     teachers: ['Dongshan Liangjie'],
     successors: ['Tong’an Daopi'],
-    disciples: ['Tongan Daopi', 'Taekyŏng Yŏŏm (K)', 'Sŏngak Hyŏngmi (K)', 'Chinch’ŏl Iŏm (K)'],
+    disciples: ['Guizong Huaiyun', 'Yunju Daojian', 'Jishan Zhang', 'Langzhou Deshan', 'Tongan Daopi', 'Yongguang Yuanzhen', 'Taekyŏng Yŏŏm (K)', 'Sŏngak Hyŏngmi (K)', 'Chinch’ŏl Iŏm (K)'],
     image: 'https://terebess.hu/zen/mesterek/woodcut/39-3.jpg',
     reference: ['https://terebess.hu/zen/mesterek/YunjuDaoying.html', 'https://en.wikipedia.org/wiki/Yunju_Daoying',
       'https://vi.wikipedia.org/wiki/V%C3%A2n_C%C6%B0_%C4%90%E1%BA%A1o_%C6%AFng', 'https://pl.wikipedia.org/wiki/Yunju_Daoying',

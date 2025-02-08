@@ -120,7 +120,7 @@ const ZenPracticeAlerts = {
     '* Tham-thiền khẩn yếu nhất là chữ Thiết. Chữ thiết rất có sức mạnh. / ' +
     'Chẳng thiết ắt lười biếng sanh. Lười biếng sanh thì phóng túng buông lung tâm ý. Nếu dụng tâm chân thiết thì buông lung lười biếng làm sao sanh được. / ' +
     'Phải biết, một chữ thiết này chẳng lo chẳng đến chỗ ruộng đất cổ-nhân, chẳng lo tâm sanh tử chẳng vỡ. / ' +
-    'Bỏ một chữ \'thiết\'nàyđicầu Phật-pháp nào khác đều là si cuồng chạy ở ngoài lề, há có thể nói là đồng với hạ thủ công phu ư? ' +
+    'Bỏ một chữ THIẾT này đi cầu Phật-pháp nào khác đều là si cuồng chạy ở ngoài lề, há có thể nói là đồng với hạ thủ công phu ư? ' +
     'Một chữ thiết chẳng những lìa lỗi mà ngay đây lập tức vượt cả ba tánh thiện, ác, vô-ký. / ' +
     'Một câu thoại-đầu, dụng công rất thiết thì cũng chẳng nghĩ thiện, dụng tâm rất thiết thì chẳng nghĩ ác, dụng tâm rất thiết thì chẳng rơi vào vô-ký. / ' +
     'Thoại-đầu thiết thì không tán loạn, thoại-đầu thiết thì không hôn trầm, thoại-đầu hiện tiền thì chẳng rơi vào vô-ký. / ' +

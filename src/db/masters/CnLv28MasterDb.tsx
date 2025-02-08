@@ -12,6 +12,7 @@ const CnLv28MasterDb = [
     name_ko: 'Yuezhou Wenzai',
     name_ar: 'Yuezhou Wenzai',
     birth_death_time: ['1452', '1524'],
+    epoch: '',
     records: '',
     sect: ['Caodong'],
     country: 'China',

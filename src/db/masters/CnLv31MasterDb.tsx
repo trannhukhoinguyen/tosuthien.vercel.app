@@ -13,6 +13,7 @@ const CnLv31MasterDb = [
     name_ko: '무명혜경 Mumyŏng Hyegyŏng',
     name_ar: 'Wuming Huijing',
     birth_death_time: ['1548', '1618'],
+    epoch: '',
     records: '',
     sect: ['Caodong'],
     country: 'China',

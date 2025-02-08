@@ -724,12 +724,20 @@ const IronFlute = [
     title: 'TẮC THỨ 26: TUYẾT PHONG CHÍNH XÁC',
     image: 'https://zacke.blob.core.windows.net/stock/6302-24-medium.jpg?v=63755719284887',
     main:
-    'Tuyết Phong làm đầu bếp trong chùa của Động Sơn. Sư ngày nào cũng chuẩn bị bữa ăn sáng rất đúng giờ. Một hôm Động Sơn hỏi, “Cái gì khiến ông giữ giờ giấc chính xác như vậy?” / ' +
+    'Tuyết Phong làm đầu bếp trong chùa của Động Sơn. Sư ngày nào cũng chuẩn bị bữa ăn sáng rất đúng giờ. ' +
+      'Một hôm Động Sơn hỏi, “Cái gì khiến ông giữ giờ giấc chính xác như vậy?” / ' +
       'Tuyết Phong đáp, “Con nhìn trăng sao.” Động Sơn hỏi vặn, “Nếu trời mưa hay sương mù thì ông làm thế nào?” Tuyết Phong im lặng.',
     commentBeforeVerseExtra:
     'Như Huyễn: / ' +
     'Vào thời của Tuyết Phong không có đồng hồ báo giờ, nhưng tăng chúng thức dậy vào lúc bốn giờ sáng để thiền định khoảng một tiếng đồng hồ trước bữa ăn. / ' +
-      'Mặc dù Tuyết Phong chuẩn bị bữa điểm tâm trước khi có ánh nắng ban ngày, tiếng bảng báo giờ của Tuyết Phong luôn luôn không trễ không sớm. Khi Động Sơn hỏi câu hỏi ấy là sư ca ngợi ông tăng đầu bếp, và câu trả lời của Tuyết Phong rất trơn tru không có dấu vết của kiêu hãnh. E rằng các tăng nhân khác hiểu lầm, Động Sơn lại hỏi, “Nếu trời mưa hay sương mù thì sao?” Có thể tăng chúng đang suy nghĩ rằng Tuyết Phong nhờ vào trăng sao mà giữ đúng giờ giấc. Ngày nay chúng ta có đồng hồ báo giờ và các thiết bị khác nhắc giờ giấc cho chúng ta, nhưng chúng ta không làm việc đúng giờ, trừ phi chúng ta trau dồi Thiền của mình và làm chủ tình thế. Chúng ta phải lái thời gian mà không để thời gian lái chúng ta. Động Sơn muốn Tuyết Phong chia xẻ bí mật của mình với các tăng nhân khác. Quí vị có nghĩ rằng họ hiểu không?',
+      'Mặc dù Tuyết Phong chuẩn bị bữa điểm tâm trước khi có ánh nắng ban ngày, tiếng bảng báo giờ của Tuyết Phong luôn luôn không trễ không sớm. ' +
+      'Khi Động Sơn hỏi câu hỏi ấy là sư ca ngợi ông tăng đầu bếp, và câu trả lời của Tuyết Phong rất trơn tru không có dấu vết của kiêu hãnh. ' +
+      'E rằng các tăng nhân khác hiểu lầm, Động Sơn lại hỏi, “Nếu trời mưa hay sương mù thì sao?” ' +
+      'Có thể tăng chúng đang suy nghĩ rằng Tuyết Phong nhờ vào trăng sao mà giữ đúng giờ giấc. ' +
+      'Ngày nay chúng ta có đồng hồ báo giờ và các thiết bị khác nhắc giờ giấc cho chúng ta, nhưng chúng ta không làm việc đúng giờ, trừ phi chúng ta trau dồi Thiền của mình và làm chủ tình thế. ' +
+      'Chúng ta phải lái thời gian mà không để thời gian lái chúng ta. ' +
+      'Động Sơn muốn Tuyết Phong chia xẻ bí mật của mình với các tăng nhân khác. ' +
+      'Quí vị có nghĩ rằng họ hiểu không?',
     commentAfterVerseExtra:
       'Genro: Nếu Động Sơn hỏi tôi sẽ làm gì nếu trời mưa hay sương mù, thì tôi sẽ trả lời rằng tôi nhìn trời mưa và thưởng thức sương mù',
     commentAfterVerse:
@@ -1457,15 +1465,27 @@ const IronFlute = [
     main:
       'Khi Mục Châu và một ông tăng lạ mặt gặp nhau trên đường, Mục Châu gọi, “Thượng tọa!” ' +
       'Ông tăng quay lại. “Kẻ độn căn,” Mục Châu nhận xét, rồi cả hai lại tiếp tục bước đi. ' +
-      'Câu chuyện dật sử này được vài tăng nhân ghi lại và mấy năm sau đó, Tuyết Đậu phê bình, “Mục Châu ngu muội đã sai. Ông tăng ấy không quay lại đó sao? Tại sao gọi ông ta là kẻ độn căn?”' +
-      'Sau này, Hối Đường bình lời của Tuyết Đậu, “Tuyết Đậu ngu muội đã sai. Ông tăng ấy không quay lại đó sao? Tại sao không gọi ông ta là kẻ độn căn?”',
+      'Câu chuyện dật sử này được vài tăng nhân ghi lại và mấy năm sau đó, Tuyết Đậu phê bình, “Mục Châu ngu muội đã sai. ' +
+      'Ông tăng ấy không quay lại đó sao? Tại sao gọi ông ta là kẻ độn căn?”' +
+      'Sau này, Hối Đường bình lời của Tuyết Đậu, “Tuyết Đậu ngu muội đã sai. ' +
+      'Ông tăng ấy không quay lại đó sao? Tại sao không gọi ông ta là kẻ độn căn?”',
     commentBeforeVerse:
       'Như Huyễn: ' +
-      'Ở Trung Hoa, tăng nhân gọi nhau bằng “Huynh đệ” và đối với một người lạ thì gọi là “Thượng tọa.” Nhưng dù là chào hỏi bằng cách nào thì cũng phải được bày tỏ trong Thiền sự sáng lạng của chân tánh riêng của một người. Tăng nhân không chịu lãng phí thì giờ trong việc khen nhau không cần thiết. ' +
+      'Ở Trung Hoa, tăng nhân gọi nhau bằng “Huynh đệ” và đối với một người lạ thì gọi là “Thượng tọa”. / ' +
+      'Nhưng dù là chào hỏi bằng cách nào thì cũng phải được bày tỏ trong Thiền sự sáng lạng của chân tánh riêng của một người. / ' +
+      'Tăng nhân không chịu lãng phí thì giờ trong việc khen nhau không cần thiết. / ' +
       'Khi Mục Châu nói, ý nghĩ là tiếng nói và tiếng nói là ý nghĩ. Nếu một ông tăng khác bám vào tiếng nói, thì hầu như chắc chắn là ông ta là kẻ độn căn.' +
-      'Tuyết Đậu truy dấu vết Thiền của ông tăng nơi hành động quay lại, vì thế sư trách mắng Mục Châu. Nhưng Hối Đường sợ sự chấp nhận của Tuyết Đậu có thể khiến người ta hiểu lầm nên khéo léo xóa đi lời nói ấy trong ngữ lục.' +
-      'Phần quan trọng của công án là mối đe dọa đối với người đọc. Có thể nói rằng im lặng là câu đáp tốt nhất, nhưng đôi khi im lặng là câu đáp quá vụng về đối với một câu hỏi Thiền. Chỉ ngưỡng mộ im lặng thôi thì không đủ, người ta phải sống với nó. Carlyle có lần đã nói, “Nhìn quanh sự trống rỗng ồn ào của thế giới, . . . lời nói với chút ý nghĩa, hành động với chút ít giá trị, . . . người ta yêu thích suy tư về đại Vương Quốc Im Lặng, cao hơn tất cả các vì tinh tú, sâu hơn Vương Quốc của Tử Thần! Một mình nó vĩ đại; tất cả những thứ khác đều nhỏ bé.” Nói đẹp lắm, nhưng ông ta đã nói quá nhiều, phá vỡ im lặng. ' +
-      'Ngũ Tổ nói, “Trên đường khi gặp một Thiền sư, không nói cũng không im. Ông làm sao đối đãi?” Quí vị có thể nói với Mục Châu, nếu quí vị không bám vào ngôn ngữ. Quí vị có thể im lặng đối diện với Mục Châu, nếu quí vị không bị im lặng ràng buộc. Nếu quí vị có Thiền thì dù gặp ai và dù thấy gì, thì cũng là đồng đạo của quí vị, không có ngoại lệ.',
+      'Tuyết Đậu truy dấu vết Thiền của ông tăng nơi hành động quay lại, vì thế sư trách mắng Mục Châu. ' +
+      'Nhưng Hối Đường sợ sự chấp nhận của Tuyết Đậu có thể khiến người ta hiểu lầm nên khéo léo xóa đi lời nói ấy trong ngữ lục.' +
+      'Phần quan trọng của công án là mối đe dọa đối với người đọc. ' +
+      'Có thể nói rằng im lặng là câu đáp tốt nhất, nhưng đôi khi im lặng là câu đáp quá vụng về đối với một câu hỏi Thiền. ' +
+      'Chỉ ngưỡng mộ im lặng thôi thì không đủ, người ta phải sống với nó. ' +
+      'Carlyle có lần đã nói, “Nhìn quanh sự trống rỗng ồn ào của thế giới, ...lời nói với chút ý nghĩa, hành động với chút ít giá trị, ...người ta yêu thích suy tư về đại Vương Quốc Im Lặng, cao hơn tất cả các vì tinh tú, sâu hơn Vương Quốc của Tử Thần! ' +
+      'Một mình nó vĩ đại; tất cả những thứ khác đều nhỏ bé”. Nói đẹp lắm, nhưng ông ta đã nói quá nhiều, phá vỡ im lặng. / ' +
+      'Ngũ Tổ nói, “Trên đường khi gặp một Thiền sư, không nói cũng không im. ' +
+      'Ông làm sao đối đãi?” Quí vị có thể nói với Mục Châu, nếu quí vị không bám vào ngôn ngữ. ' +
+      'Quí vị có thể im lặng đối diện với Mục Châu, nếu quí vị không bị im lặng ràng buộc. ' +
+      'Nếu quí vị có Thiền thì dù gặp ai và dù thấy gì, thì cũng là đồng đạo của quí vị, không có ngoại lệ.',
     commentAfterVerse:
       '',
   },

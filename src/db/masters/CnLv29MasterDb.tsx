@@ -12,6 +12,7 @@ const CnLv29MasterDb = [
     name_ko: 'Zongjing Zongshu',
     name_ar: 'Zongjing Zongshu',
     birth_death_time: ['1500', '1567'],
+    epoch: '',
     records: '',
     sect: ['Caodong'],
     country: 'China',

@@ -13,6 +13,7 @@ const CnLv22MasterDb = [
     name_ko: 'Kobong Wŏnmyo',
     name_ar: 'Gaofeng Yuanmiao',
     birth_death_time: ['', ''],
+    epoch: '',
     records: '',
     sect: ['Linji', 'Yangqi'],
     country: 'China',
