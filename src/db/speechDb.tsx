@@ -1,4 +1,4 @@
-import DeshanXuanjian from "../../db/speeches/DeshanXuanjian.tsx";
+import DeshanXuanjian from "/speeches/DeshanXuanjian.tsx";
 
 const speechDb = [
   ...DeshanXuanjian,
