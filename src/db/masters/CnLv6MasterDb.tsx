@@ -163,6 +163,7 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.7',
+    hasContent: true,
     name_en: 'Xuefeng Yicun',
     name_es: 'Xuefeng Yicun',
     name_de: 'Xuefeng Yicun',
