@@ -22,7 +22,7 @@ const CnLv7MasterDb = [
     place: '-',
     teachers: ['Xinghua Cunjiang'],
     successors: ['Fengxue Yanzhao'],
-    disciples: ['Fengxue Yanzhao'],
+    disciples: ['Fengxue Yanzhao', 'Yingqiao An'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Nam_Vi%E1%BB%87n_Hu%E1%BB%87_Ngung', 'https://pl.wikipedia.org/wiki/Nanyuan_Huiyong', 'https://terebess.hu/zen/nanyuan.html',],
 
