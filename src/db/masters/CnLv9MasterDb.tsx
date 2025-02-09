@@ -1,6 +1,7 @@
 const CnLv9MasterDb = [
   {
     id: '42.9.1',
+    hasContent: true,
     name_en: 'Shoushan Xingnian',
     other_name_en: 'Shoushan Shengnian',
     name_es: 'Shoushan Xingnian',
@@ -61,6 +62,7 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.3',
+    hasContent: true,
     name_en: 'Zhimen Guangzuo',
     name_es: 'Zhimen Guangzuo',
     name_de: 'Zhimen Guangzuo',
@@ -124,8 +126,8 @@ const CnLv9MasterDb = [
     name_ko: '문수응진 Munsu Ŭngjin',
     name_ar: 'Wenshu Yingzhen',
     name_zh: '文殊応真',
-    name_vi: 'Văn Thù Ứng Chơn (Chân)',
-    other_name_vi: '',
+    name_vi: 'Văn Thù Ứng Chơn',
+    other_name_vi: 'Văn Thù Ứng Chân',
     nickname_vi: '',
     worship_tower: '',
     birth_death_time: ['', ''],
