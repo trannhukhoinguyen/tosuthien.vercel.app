@@ -2,6 +2,7 @@ const CnLv7MasterDb = [
   {
     id: '40.7.1',
     name_en: 'Nanyuan Huiyong',
+    nickname_en: 'Baoying',
     name_es: 'Nanyuan Huiyong',
     name_de: 'Nanyuan Huiyong',
     name_fr: 'Nanyuan Huiyong',
