@@ -142,6 +142,7 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.6',
+    hasContent: true,
     name_en: 'Lianhua Fengxiang',
     name_es: 'Lianhua Fengxiang',
     name_de: 'Lianhua Fengxiang',
