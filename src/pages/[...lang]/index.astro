@@ -3,7 +3,6 @@ import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
 import HuaTou from "@/layouts/partials/Huatou.astro";
-import ShortSpeechCard from "../../layouts/components/ShortSpeechCard.astro";
 import LongSpeechCard from "../../layouts/components/LongSpeechCard.astro";
 import speechDb from "../../db/speechDb.tsx";
 import type { ContentEntryMap } from "astro:content";
@@ -45,39 +44,9 @@ const {
 
   {
     !lang || lang === 'vi'
-      ?  <div class="short-main-container">
-          {
-            speechDb?.every(speech => !speech?.speechMain?.includes(' / '))
-              ? <div style="text-align: center;margin-block: 8px">
-                <h2>🗣 NGỮ LỤC GIÁN TIẾP 🔥</h2>
-              </div>
-              : ''
-          }
-          <div class="short-cards">
-
-            {
-              speechDb?.length
-                ? speechDb?.map(speech => <ShortSpeechCard
-                  remainder={speech.id%5+1}
-                  speechAuthor={speech.authorName}
-                  speechMain={speech.speechMain}
-                />)
-                : ''
-            }
-
-          </div>
-        </div>
-
-        <div class="long-main-container">
-          {
-            speechDb?.some(speech => speech?.speechMain?.includes(' / '))
-              ? <div style="text-align: center;margin-block: 8px">
-                <h2>🗣 NGỮ LỤC TRỰC TIẾP 🔥</h2>
-              </div>
-              : ''
-          }
-        </div>
-          <ul class="long-cards">
+      ? <div class="long-main-container">
+           <h2>🗣 CỔ TÔN TÚC NGỮ LỤC 🔥</h2>
+             <ul class="long-cards">
 
             {
               speechDb?.length
@@ -92,6 +61,7 @@ const {
             }
 
           </ul>
+        </div>
       : ''
   }
 
