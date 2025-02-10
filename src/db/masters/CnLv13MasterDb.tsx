@@ -110,7 +110,7 @@ const CnLv13MasterDb = [
     place: '-',
     teachers: ['Huanglong Huinan'],
     successors: ['Sixin Wuxin'],
-    disciples: ['Huanglong Shixin', 'Sixin Wuxin', 'Caotang Shanqing', 'Baofu Benquan'],
+    disciples: ['Lingyuan Weiqing', 'Huanglong Shixin', 'Sixin Wuxin', 'Caotang Shanqing', 'Baofu Benquan'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/H%E1%BB%91i_%C4%90%C6%B0%E1%BB%9Dng_T%E1%BB%95_T%C3%A2m', 'https://terebess.hu/zen/mesterek/HuitangZuxin.html',
       'https://pl.wikipedia.org/wiki/Huitang_Zuxin'],

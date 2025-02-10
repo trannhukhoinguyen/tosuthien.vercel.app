@@ -15,14 +15,16 @@ const {
 ---
 
 {
-  speechAuthor && speechMain
+  speechAuthor && !speechMain.includes(' / ')
     ? <div class=`card card-${ remainder }`>
         <h6 class="card__title">{ speechMain }</h6>
         <p class="card__apply">
-          <a class="card__link" href="#"><em><mark>
-{  masterTitle ? masterTitle : lang === 'vi' || !lang ? 'Thiền sư' : 'Zen master' }
-{ ' ' + speechAuthor }
-</mark></em></a>
+          <a class="card__link" href="#">
+            <em><mark>
+              {  masterTitle ? masterTitle : lang === 'vi' || !lang ? 'Thiền sư' : 'Zen master' }
+              { ' ' + speechAuthor }
+            </mark></em>
+          </a>
         </p>
       </div>
     : ''

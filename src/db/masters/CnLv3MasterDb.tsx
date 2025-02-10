@@ -573,7 +573,7 @@ const CnLv3MasterDb = [
     name_ar: 'Guizong Zhichang',
     name_zh: '归宗智常',
     name_vi: 'Quy Tông Trí Thường',
-    other_name_vi: '',
+    other_name_vi: 'Qui Tông Trí Thường',
     nickname_vi: 'Chí Chơn',
     worship_tower: '',
     birth_death_time: ['-', '827'],

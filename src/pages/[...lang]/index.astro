@@ -42,48 +42,58 @@ const {
   description={site.meta_description}
   image={site.meta_image}
 >
-  <div style="text-align: center">
-    <h1>{severe_problem}</h1>
-    <h2>💀 {tomorrow_death} 💀</h2>
-    <h2>🔥{after_cremated_nature}🔥</h2>
-    <h2>🏴‍☠️ {after_death} 🏴‍☠️</h2>
-  </div>
 
-<h2>NGỮ LỤC GIÁN TIẾP</h2>
- <div class="short-main-container">
-    <div class="short-cards">
+  {
+    !lang || lang === 'vi'
+      ?  <div class="short-main-container">
+          {
+            speechDb?.every(speech => !speech?.speechMain?.includes(' / '))
+              ? <div style="text-align: center;margin-block: 8px">
+                <h2>🗣 NGỮ LỤC GIÁN TIẾP 🔥</h2>
+              </div>
+              : ''
+          }
+          <div class="short-cards">
 
-      {
-        speechDb?.length
-          ? speechDb?.map((speech) => <ShortSpeechCard
-            remainder={speech.id%5+1}
-            speechAuthor={speech.authorName}
-            speechMain={speech.speechMain}
-          />)
-          : ''
-      }
+            {
+              speechDb?.length
+                ? speechDb?.map(speech => <ShortSpeechCard
+                  remainder={speech.id%5+1}
+                  speechAuthor={speech.authorName}
+                  speechMain={speech.speechMain}
+                />)
+                : ''
+            }
 
-    </div>
-  </div>
-<hr/>
-<h2>NGỮ LỤC TRỰC TIẾP</h2>
-  <div class="long-main-container">
-    <ul class="long-cards">
+          </div>
+        </div>
 
-      {
-        speechDb?.length
-          ? speechDb?.map((speech) => <LongSpeechCard
-            authorName={speech.authorName}
-            authorImage={speech.authorImage}
-            authorLink={speech.authorLink}
-            speechMain={speech.speechMain}
-            speechType={speech.speechType}
-          />)
-          : ''
-      }
+        <div class="long-main-container">
+          {
+            speechDb?.some(speech => speech?.speechMain?.includes(' / '))
+              ? <div style="text-align: center;margin-block: 8px">
+                <h2>🗣 NGỮ LỤC TRỰC TIẾP 🔥</h2>
+              </div>
+              : ''
+          }
+        </div>
+          <ul class="long-cards">
 
-    </ul>
-  </div>
+            {
+              speechDb?.length
+                ? speechDb?.map((speech) => <LongSpeechCard
+                  authorName={speech.authorName}
+                  authorImage={speech.authorImage}
+                  authorLink={speech.authorLink}
+                  speechMain={speech.speechMain}
+                  speechType={speech.speechType}
+                />)
+                : ''
+            }
+
+          </ul>
+      : ''
+  }
 
   <HuaTou huatous={huatou[0]} />
   <div style="text-align: center">
