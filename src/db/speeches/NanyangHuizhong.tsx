@@ -13,9 +13,9 @@ const NanyangHuizhong = [
   },
  /* {
     id: 341302,
-    authorName: 'Deshan Xuanjian',
+    authorName: 'Nanyang Huizhong',
     authorImage: '/images/wide/cloudy-mountain-peak.jpg',
-    authorLink: '/b',
+    authorLink: '/masters/Nanyang-Huizhong',
     speechMain:
       'Nếu thế thì hồi nãy mỗ giáp nêu chuyện tri thức phương Nam nói kiến văn là Phật tánh, chẳng nên cho là giống với ngoại đạo. Không nói không Phật tánh, vì ngoại đạo há không có Phật tánh sao? Nhưng do thấy nhầm nơi nhất pháp sanh ra nhị kiến, cho nên là sai trái vậy. Nếu đều là có Phật tánh, thì sát hữu tình tức kết nghiệp hỗ trù, tổn hại vô tình không nghe có báo. Hữu tình là chánh báo. Kế ngã sở của mình mà hoài kết luận, tức có tội báo. Vô tình mới đúng là y báo, chẳng kết lòng hận oán, cho nên mới không nói là có báo. Trong Giáo chỉ thấy nói hữu tình làm Phật mà không thấy thọ ký cho vô tình. Vả lại trong Hiền kiếp có cả ngàn Phật nhưng có thấy ai là Phật vô tình đâu? Như vị Thái tử lúc chưa nhận ngôi thì chỉ là một người, nhưng khi đã lên ngôi rồi thì cả nước đều thuộc về ngài. Há có quốc độ nào không có nhận ngôi chăng? Nay chỉ có hữu tình nhận thọ ký. Lúc làm Phật, thì mười phương quốc độ đều là thân Giá Na Phật. Há có thể còn có vô tình thọ ký sao?',
     speechType: '',
