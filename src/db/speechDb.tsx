@@ -3,6 +3,6 @@ import NanyangHuizhong from "../db/speeches/NanyangHuizhong.tsx";
 
 const speechDb = [
   ...DeshanXuanjian,
-...NanyangHuizhong,
+  ...NanyangHuizhong,
 ]
 export default speechDb;

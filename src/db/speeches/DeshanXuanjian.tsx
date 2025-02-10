@@ -1,7 +1,7 @@
 const DeshanXuanjian = [
 {
     id: 385301,
-    authorName: 'Deshan Xuanjian',
+    authorName: 'Đức Sơn Tuyên Giám',
     authorImage: '/images/wide/cloudy-mountain-peak.jpg',
     authorLink: '/masters/Deshan-Xuanjian',
     speechMain:

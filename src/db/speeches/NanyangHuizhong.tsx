@@ -1,7 +1,7 @@
 const NanyangHuizhong = [
 {
     id: 341301,
-    authorName: 'Nanyang Huizhong',
+    authorName: 'Nam Dương Huệ Trung',
     authorImage: '/images/wide/cloudy-mountain-peak.jpg',
     authorLink: '/masters/Nanyang-Huizhong',
     speechMain:

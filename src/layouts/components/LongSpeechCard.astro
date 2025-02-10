@@ -17,7 +17,7 @@ const {
 ---
 
 {
-  authorName && speechMain && speechMain.includes(' / ')
+  authorName && speechMain
     ? <li class="cards_item">
         <div class="card">
           <div class="card_image">
@@ -26,7 +26,7 @@ const {
             <span class="card_name">
               <mark>
                 <span>{ masterTitle ? masterTitle : lang === 'vi' || !lang ? 'Thiền sư' : 'Zen master' }</span>
-                <a href={ authorLink }>{ authorName }</a>
+                <a href={ authorLink }>{ authorName } </a>
               </mark>
             </span>
           </div>
@@ -35,7 +35,7 @@ const {
               {
                 speechMain?.includes(' / ')
                   ? speechMain?.split(' / ')?.map(idea => <p>{ idea }</p><hr />)
-                  : speechMain
+                  : <p>{ speechMain }</p>
               }
             </div>
           </div>
@@ -83,7 +83,7 @@ const {
     height: 45px;
     border-radius: 0.25rem;
     //background-color: #fdfcf4;
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: 700;
     //padding: 4px;
 
