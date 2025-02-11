@@ -33,9 +33,9 @@ const {
           <div class="card_content">
             <div class="card_text">
               {
-                speechMain?.includes(' / ')
-                  ? speechMain?.split(' / ')?.map(idea => <p>{ idea }</p><hr />)
-                  : <p>{ speechMain }</p>
+                speechMain?.includes(' // ')
+                  ? speechMain?.split(' // ')?.map(para => <mark>🗣</mark><p>{ para }</p><hr />)
+                  : ''
               }
             </div>
           </div>

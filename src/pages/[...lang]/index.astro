@@ -4,6 +4,7 @@ import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
 import HuaTou from "@/layouts/partials/Huatou.astro";
 import LongSpeechCard from "../../layouts/components/LongSpeechCard.astro";
+import ShortSpeechCard from "../../layouts/components/ShortSpeechCard.astro";
 import speechDb from "../../db/speechDb.tsx";
 import type { ContentEntryMap } from "astro:content";
 import SevenThingsLeftBehind from "@/layouts/components/SevenThingsLeftBehind.astro"
@@ -42,29 +43,51 @@ const {
   image={site.meta_image}
 >
 
+  <div style="display: flex; margin: 24px; transform: translate(20%, 0)">
+    <img src="/images/huatous/before-parents-created-how-was-my-real-face.jpg" alt="huatou" />
+  </div>
+  <h2 style="text-align: center"><span style="color: #f6e30c; text-shadow: 2px 2px 2px #7a6a03">✂</span> CỔ TÔN TÚC NGỮ LỤC🔥</h2>
   {
-    !lang || lang === 'vi'
+    (!lang || lang === 'vi') && speechDb?.filter(speech => speech.speechMain?.includes(' // '))?.length
       ? <div class="long-main-container">
-           <h2 style="text-align: center">🗣 CỔ TÔN TÚC NGỮ LỤC 🔥</h2>
-             <ul class="long-cards">
-
-            {
-              speechDb?.length
-                ? speechDb?.map((speech) => <LongSpeechCard
-                  authorName={speech.authorName}
-                  authorImage={speech.authorImage}
-                  authorLink={speech.authorLink}
-                  speechMain={speech.speechMain}
-                  speechType={speech.speechType}
-                />)
-                : ''
-            }
-
-          </ul>
+          <ul class="long-cards">
+              {
+                speechDb
+                    ?.filter(speech => speech.speechMain?.includes(' // '))
+                    ?.map((speech) =>
+                      <LongSpeechCard
+                        authorName={speech.authorName}
+                        authorImage={speech.authorImage}
+                        authorLink={speech.authorLink}
+                        speechMain={speech.speechMain}
+                        speechType={speech.speechType}
+                      />
+                  )
+              }
+            </ul>
         </div>
       : ''
   }
+  {
+    (!lang || lang === 'vi') && speechDb?.filter(speech => !speech.speechMain?.includes(' // '))?.length
+      ? <div class="short-main-container">
 
+        <ul class="short-cards">
+          {
+              speechDb
+                ?.filter(speech => !speech.speechMain?.includes(' // '))
+                ?.map((speech) =>
+                  <ShortSpeechCard
+                    remainder={speech.id%5+1}
+                    speechAuthor={speech.authorName}
+                    speechMain={speech.speechMain}
+                  />
+                )
+          }
+        </ul>
+      </div>
+      : ''
+  }
   <HuaTou huatous={huatou[0]} />
   <div style="text-align: center">
     <SevenThingsLeftBehind />
@@ -73,17 +96,18 @@ const {
 
 <style>
 
+  /* SHORT */
   .short-main-container {
     padding: 10px;
   }
 
-  /* CARDS */
   .short-cards {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
   }
 
+  /* LONG */
   .long-main-container {
     max-width: 1200px;
     margin: 0 auto;
