@@ -37,6 +37,7 @@ import CnLv30MasterDb from "../../db/masters/CnLv30MasterDb.tsx";
 import CnLv31MasterDb from "../../db/masters/CnLv31MasterDb.tsx";
 import CnLv32MasterDb from "../../db/masters/CnLv32MasterDb.tsx";
 import CnLv33MasterDb from "../../db/masters/CnLv33MasterDb.tsx";
+import CnLv58MasterDb from "../../db/masters/CnLv58MasterDb.tsx
 
 export const InMasters = InMasterDb
 export const ViMasters = ViMasterDb
@@ -77,6 +78,8 @@ export const CnMasters = [
   CnLv31MasterDb,
   CnLv32MasterDb,
   CnLv33MasterDb,
+
+  CnLv58MasterDb,
 ]
 export const AllMasters = [
   ...InMasters,
