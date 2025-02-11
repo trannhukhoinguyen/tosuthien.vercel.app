@@ -249,7 +249,7 @@ const CnLv0MasterDb = [
   {
     id: '33.1',
     name_en: 'Dajian Huineng',
-    other_name_en: 'Liuzu',
+    other_name_en: 'Liuzu, Caoxi Huineng',
     name_es: 'Dajian Huineng (Sexto Patriarca)',
     name_de: 'Dajian Huineng (Sechster Patriarch)',
     name_fr: 'Dajian Huineng (sixième patriarche)',
