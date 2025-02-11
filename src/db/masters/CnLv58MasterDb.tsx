@@ -21,11 +21,11 @@ const CnLv58MasterDb = [
     sect: ['-'],
     country: 'China',
     place: '',
-    teachers: [''],
+    teachers: ['Shanci Changkai'],
     successors: [''],
-    disciples: [''],
+    disciples: ['Fohui Kuanyin'],
     image: '/images/avatar.png',
-    reference: [''],
+    reference: ['https://en.m.wikipedia.org/wiki/Xuyun'],
   }
 ]
 export default CnLv33MasterDb;
