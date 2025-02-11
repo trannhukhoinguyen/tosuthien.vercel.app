@@ -12,7 +12,7 @@ const CnLv5MasterDb = [
     name_zh: '圭峰宗密',
     name_vi: 'Khuê Phong Tông Mật',
     other_name_vi: 'Khoa Phong Tông Mật',
-    nickname_vi: '',
+    nickname_vi: 'Định Tuệ, Thanh Liên',
     worship_tower: '',
     birth_death_time: ['780', '841'],
     epoch: '',
