@@ -1,0 +1,31 @@
+const CnLv58MasterDb = [
+  {
+    id: '91.58.1',
+    hasContent: true,
+    name_en: 'Deqing Yanche',
+    other_name_en: 'Xuyun',
+    name_es: 'Deqing Yanche',
+    name_de: 'Deqing Yanche',
+    name_fr: 'Deqing Yanche',
+    name_ru: 'Deqing Yanche',
+    name_ar: 'Deqing Yanche',
+    name_ko: 'Deqing Yanche',
+    name_ja: 'Deqing Yanche',
+    name_zh: '德清演徹',
+    name_vi: 'Đức Thanh Diễn Triệt',
+    other_name_vi: '',
+    nickname_vi: 'Hư Vân, Cổ Nham',
+    worship_tower: '',
+    birth_death_time: ['1840', '1959'],
+    records: '',
+    sect: ['-'],
+    country: 'China',
+    place: '',
+    teachers: [''],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: [''],
+  }
+]
+export default CnLv33MasterDb;
