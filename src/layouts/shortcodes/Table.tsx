@@ -54,16 +54,24 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
     setCurrentPage(pageNumber);
   };
 
+  const indexOfLastItem = currentPage * itemsPerPage;
+
   const filteredData = data.filter(
     (item) =>
       item.name_en?.toLowerCase().includes(searchTerm)
+      || item.other_name_en?.toLowerCase().includes(searchTerm)
+      || item.nickname_en?.toLowerCase().includes(searchTerm)
       || item.name_es?.toLowerCase().includes(searchTerm)
       || item.name_de?.toLowerCase().includes(searchTerm)
       || item.name_fr?.toLowerCase().includes(searchTerm)
       || item.name_vi?.toLowerCase().includes(searchTerm)
+      || item.other_name_vi?.toLowerCase().includes(searchTerm)
+      || item.nickname_vi?.toLowerCase().includes(searchTerm)
       || item.name_ru?.toLowerCase().includes(searchTerm)
       || item.name_zh?.toLowerCase().includes(searchTerm)
+      || item.other_name_zh?.toLowerCase().includes(searchTerm)
       || item.name_ja?.toLowerCase().includes(searchTerm)
+      || item.other_name_ja?.toLowerCase().includes(searchTerm)
       || item.name_ko?.toLowerCase().includes(searchTerm)
       || item.name_ar?.toLowerCase().includes(searchTerm)
       || item.birth_death_time?.some(time => time.toLowerCase().includes(searchTerm))
@@ -75,8 +83,6 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
       || item.successors?.some(successor => successor.toLowerCase().includes(searchTerm))
       || item.disciples?.some(disciple => disciple.toLowerCase().includes(searchTerm))
   );
-
-  const indexOfLastItem = currentPage * itemsPerPage;
   const indexOfFirstItem = indexOfLastItem - itemsPerPage;
   const currentData = filteredData.slice(indexOfFirstItem, indexOfLastItem);
   const totalPages = Math.ceil(filteredData.length / itemsPerPage);
@@ -152,12 +158,10 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
                         title="read more"
                         className="text-blue-700"
                       >
-                    { item.name_en }
-                    <Modal lang={lang} title={"⬆️"} content={item.other_name_en} />
+                    <Modal lang={lang} title={item.name_en + "⬆️"} content={item.other_name_en} />
                   </a></td>
                 : <td>
-                    { item.name_en }
-                    <Modal lang={lang} title={"⬆️"} content={item.other_name_en} />
+                    <Modal lang={lang} title={item.name_en + "⬆️"} content={item.other_name_en} />
                 </td>
               }
               { lang === 'es' && <td>{ item.name_es }</td> }
@@ -179,23 +183,23 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
               </td>
               {
                 item.sect.length <= 1
-                  ? <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">{item.sect.join(', ')}</td>
+                  ? <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">{ item.sect.join(', ') }</td>
                   : <Modal lang={lang} title={"⬆️"} content={item.sect.join(', ')}/>
               }
               <td>{ item.country }</td>
               <td><Modal lang={lang} title={"⛰⛩"} content={ item.place } /></td>
               {
                 item.teachers.length <= 1
-                  ? <td>item.teachers.join(', ')</td>
-                  : <td><Modal lang={lang} title={"⬆️"} content={item.teachers.join(', ')} /></td>
+                  ? <td>{ item.teachers.join(', ') }</td>
+                  : <td><Modal lang={lang} title={"⬆️"} content={ item.teachers.join(', ') } /></td>
               }
               <td>{ item.successors.join(', ') }</td>
               {
                 item.disciples.length <= 1
-                  ? <td>item.disciples.join(', ')</td>
-                  : <td><Modal lang={lang} title={"⬆️"} content={item.disciples.join(', ')} /></td>
+                  ? <td>{ item.disciples.join(', ') }</td>
+                  : <td><Modal lang={lang} title={"⬆️"} content={ item.disciples.join(', ') } /></td>
               }
-              <td><Modal lang={lang} title={"🧷"} content={item.reference?.join(', ')} /></td>
+              <td><Modal lang={lang} title={"🧷"} content={ item.reference?.join(', ') } /></td>
           </tr>
           ))
         }
