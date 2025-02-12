@@ -1,30 +1,6 @@
 const CnLv60MasterDb = [
   {
-    id: '93.60.1',
-    name_en: 'Gaomin Delin',
-    name_es: 'Gaomin Delin',
-    name_de: 'Gaomin Delin',
-    name_fr: 'Gaomin Delin',
-    name_ru: 'Gaomin Delin',
-    name_ar: 'Gaomin Delin',
-    name_ko: 'Gaomin Delin',
-    name_ja: 'Gaomin Delin',
-    name_zh: '德林',
-    name_vi: 'Đức Lâm',
-    other_name_vi: '',
-    nickname_vi: '',
-    worship_tower: '',
-    birth_death_time: ['1914', '2015'],
-    epoch: '',
-    records: '',
-    sect: ['-'],
-    country: 'China',
-    place: 'Gaomin Temple/Monastery (高旻寺), Hanjiang District, Yangzhou, China',
-    teachers: ['Laiguo Miaoshu'],
-    successors: [''],
-    disciples: [''],
-    image: '/images/avatar.png',
-    reference: ['https://en.m.wikipedia.org/wiki/Xuyun', 'https://terebess.hu/zen/mesterek/Xuyun.html'],
+    
   },
 ]
 export default CnLv60MasterDb;
