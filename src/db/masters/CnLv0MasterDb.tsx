@@ -261,7 +261,7 @@ const CnLv0MasterDb = [
     name_ar: 'داجيان هوينينج (البطريرك السادس)',
     name_ja: '大建恵能 (Daikan Enō)',
     name_zh: '大鑒惠能 (六祖)',
-    name_vi: 'Huệ Năng',
+    name_vi: 'Đại Kiến Huệ Năng',
     other_name_vi: '',
     nickname_vi: 'Lục Tổ',
     worship_tower: '',
