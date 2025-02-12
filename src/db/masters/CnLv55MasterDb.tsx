@@ -17,7 +17,7 @@ const CnLv55MasterDb = [
     birth_death_time: ['', ''],
     epoch: '',
     records: '',
-    sect: ['-'],
+    sect: ['Linji'],
     country: 'China',
     place: 'Gaomin Temple/Monastery (高旻寺), Hanjiang District, Yangzhou, China',
     teachers: [''],
