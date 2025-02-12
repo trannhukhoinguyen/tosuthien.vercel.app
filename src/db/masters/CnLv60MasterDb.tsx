@@ -1,6 +1,6 @@
-const CnLv59MasterDb = [
+const CnLv60MasterDb = [
   {
-    id: '92.59.1',
+    id: '93.60.1',
     name_en: 'Gaomin Delin',
     name_es: 'Gaomin Delin',
     name_de: 'Gaomin Delin',
@@ -20,11 +20,11 @@ const CnLv59MasterDb = [
     sect: ['-'],
     country: 'China',
     place: 'Gaomin Temple/Monastery (高旻寺), Hanjiang District, Yangzhou, China',
-    teachers: ['Láiguǒ'],
+    teachers: ['Laiguo Miaoshu'],
     successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['https://en.m.wikipedia.org/wiki/Xuyun', 'https://terebess.hu/zen/mesterek/Xuyun.html'],
   },
 ]
-export default CnLv59MasterDb;
+export default CnLv60MasterDb;
