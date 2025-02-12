@@ -20,7 +20,7 @@ const CnLv59MasterDb = [
     sect: ['Linji'],
     country: 'China',
     place: 'Gaomin Temple/Monastery (高旻寺), Hanjiang District, Yangzhou, China',
-    teachers: ['Láiguǒ'],
+    teachers: ['Laiguo Miaoshu'],
     successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
