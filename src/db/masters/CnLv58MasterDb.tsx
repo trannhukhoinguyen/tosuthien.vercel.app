@@ -55,7 +55,7 @@ const CnLv58MasterDb = [
     birth_death_time: ['1881', '1953'],
     epoch: '',
     records: '',
-    sect: ['-'],
+    sect: ['Linji'],
     country: 'China',
     place: 'Gaomin Temple/Monastery (高旻寺), Hanjiang District, Yangzhou, China',
     teachers: ['Mingxuan Xirui'],
