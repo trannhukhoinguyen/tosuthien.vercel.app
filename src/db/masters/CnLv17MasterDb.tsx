@@ -138,7 +138,7 @@ const CnLv17MasterDb = [
     image: '/images/avatar.png',
     reference: ['',],
   },
-  {
+  /*{
     id: '50.17.6',
     hasContent: true,
     name_en: '',
@@ -305,7 +305,7 @@ const CnLv17MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['',],
-  },
+  },*/
   {
     id: '50.17.12',
     hasContent: true,
