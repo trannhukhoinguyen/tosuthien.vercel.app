@@ -4,6 +4,7 @@ const CnLv14MasterDb = [
     hasContent: true,
     isEminent: true,
     name_en: 'Wuzu Fayan',
+    other_name_en: 'Qingyuan ',
     name_es: 'Wuzu Fayan',
     name_de: 'Wuzu Fayan',
     name_fr: 'Wuzu Fayan',
