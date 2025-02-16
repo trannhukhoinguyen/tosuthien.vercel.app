@@ -12,6 +12,7 @@ import { FaRegClock, FaRegFolder, FaRegUserCircle } from "react-icons/fa";
 import ImageMod from "./components/ImageMod.astro";
 import {ImageMetadata} from "astro";
 import {Image} from "astro:assets";
+
 const { default_language } = config.settings;
 
 const { post, slugDefault, coverType } = Astro.props;
@@ -22,7 +23,7 @@ if (!lang) {
 }
 
 const posts = await getSinglePage(
-  "masters" || "monasteries" || "teachings" || 'koans' || 'blogs',
+  "masters" || "monasteries" || "teachings" || 'koans' || 'alerts' || 'conversations' || 'faqs' || 'places' || 'sutras' || 'blogs',
   lang as keyof ContentEntryMap
 );
 const similarPosts = similarItems(post, posts);

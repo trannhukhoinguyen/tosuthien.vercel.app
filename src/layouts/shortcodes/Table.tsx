@@ -9,6 +9,7 @@ interface TableProps {
     hasContent?: boolean
     name_en: string
     other_name_en?: string
+    nickname_en?: string
     name_es: string
     name_de: string
     name_fr: string
@@ -16,6 +17,7 @@ interface TableProps {
     name_ko: string
     name_ar: string
     name_ja: string
+    other_name_ja?: string
     name_zh: string
     other_name_zh?: string
     name_vi: string
@@ -23,7 +25,7 @@ interface TableProps {
     nickname_vi?: string
     worship_tower?: string
     birth_death_time: string[]
-    epoch: string
+    epoch?: string
     records: string | undefined
     sect: string[] | []
     country: string
@@ -52,16 +54,24 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
     setCurrentPage(pageNumber);
   };
 
+  const indexOfLastItem = currentPage * itemsPerPage;
+
   const filteredData = data.filter(
     (item) =>
       item.name_en?.toLowerCase().includes(searchTerm)
+      || item.other_name_en?.toLowerCase().includes(searchTerm)
+      || item.nickname_en?.toLowerCase().includes(searchTerm)
       || item.name_es?.toLowerCase().includes(searchTerm)
       || item.name_de?.toLowerCase().includes(searchTerm)
       || item.name_fr?.toLowerCase().includes(searchTerm)
       || item.name_vi?.toLowerCase().includes(searchTerm)
+      || item.other_name_vi?.toLowerCase().includes(searchTerm)
+      || item.nickname_vi?.toLowerCase().includes(searchTerm)
       || item.name_ru?.toLowerCase().includes(searchTerm)
       || item.name_zh?.toLowerCase().includes(searchTerm)
+      || item.other_name_zh?.toLowerCase().includes(searchTerm)
       || item.name_ja?.toLowerCase().includes(searchTerm)
+      || item.other_name_ja?.toLowerCase().includes(searchTerm)
       || item.name_ko?.toLowerCase().includes(searchTerm)
       || item.name_ar?.toLowerCase().includes(searchTerm)
       || item.birth_death_time?.some(time => time.toLowerCase().includes(searchTerm))
@@ -73,8 +83,6 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
       || item.successors?.some(successor => successor.toLowerCase().includes(searchTerm))
       || item.disciples?.some(disciple => disciple.toLowerCase().includes(searchTerm))
   );
-
-  const indexOfLastItem = currentPage * itemsPerPage;
   const indexOfFirstItem = indexOfLastItem - itemsPerPage;
   const currentData = filteredData.slice(indexOfFirstItem, indexOfLastItem);
   const totalPages = Math.ceil(filteredData.length / itemsPerPage);
@@ -141,51 +149,57 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
         {
           currentData.map((item) => (
             <tr key={ item.id }>
-              <td>
-                { item.id }
-              </td>
+              <td>{ item.id }</td>
               {
                 item.hasContent
-                  ? <td>
-                    <a
-                      target="_blank"
-                      href={"/masters/" + formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}
-                      title="read more"
-                      className="text-blue-700"
-                    >
-                      { item.name_en }
-                    </a>
-                  </td>
+                  ? <td><a
+                        target="_blank"
+                        href={"/masters/" + formatUrl(removeTextBetweenParentheses(item.name_en.toLowerCase()))}
+                        title="read more"
+                        className="text-blue-700"
+                      >
+                    <Modal lang={lang} title={item.name_en + "⬆️"} content={item.other_name_en} />
+                  </a></td>
                 : <td>
-                    { item.name_en }
-                  </td>
-            }
-            { lang === 'es' && <td>{ item.name_es }</td> }
-            { lang === 'de' && <td>{ item.name_de }</td> }
-            { lang === 'fr' && <td>{ item.name_fr }</td> }
-            { lang === 'vi' && <td>{ item.name_vi }</td> }
-            { lang === 'ru' && <td>{ item.name_ru }</td> }
-            { lang === 'zh' && <td>{ item.name_zh }</td> }
-            { lang === 'ja' && <td>{ item.name_ja }</td> }
-            { lang === 'ko' && <td>{ item.name_ko }</td> }
-            { lang === 'ar' && <td>{ item.name_ar }</td> }
-            <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
-              <div className="flex items-center">
-                <span className="mr-1">{ item.birth_death_time[0] }</span>
-                <span className="mr-1">{ item.birth_death_time[0] && item.birth_death_time[1] ? '⇨' : '' }</span>
-                <span className="mr-1">{ item.birth_death_time[1] }</span>
-                ({item.epoch})
-              </div>
-            </td>
-            <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">{ item.sect.join(', ') }</td>
-            <td>{ item.country }</td>
-            <td>{ item.place }</td>
-            <td>{ item.teachers.join(', ') }</td>
-            <td>{ item.successors.join(', ') }</td>
-            <td>{ item.disciples.join(', ') }</td>
-            <td>
-              <Modal lang={lang} title={"🧷"} content={item.reference?.join(', ')} />
-            </td>
+                    <Modal lang={lang} title={item.name_en + "⬆️"} content={item.other_name_en} />
+                </td>
+              }
+              { lang === 'es' && <td>{ item.name_es }</td> }
+              { lang === 'de' && <td>{ item.name_de }</td> }
+              { lang === 'fr' && <td>{ item.name_fr }</td> }
+              { lang === 'ko' && <td>{ item.name_ko }</td> }
+              { lang === 'ar' && <td>{ item.name_ar }</td> }
+              { lang === 'ru' && <td>{ item.name_ru }</td> }
+              { lang === 'ja' && <td>{ item.name_ja }<Modal lang={lang} title={"⬆️"} content={ item.other_name_ja } /></td> }
+              { lang === 'zh' && <td>{ item.name_zh }<Modal lang={lang} title={"⬆️"} content={ item.other_name_zh } /></td> }
+              { lang === 'vi' && <td>{ item.name_vi }<Modal lang={lang} title={"⬆️"} content={ item.other_name_vi } /></td> }
+              <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
+                <div className="flex items-center">
+                  <span className="mr-1">{ item.birth_death_time[0] }</span>
+                  <span className="mr-1">{ item.birth_death_time[0] && item.birth_death_time[1] ? '⇨' : '' }</span>
+                  <span className="mr-1">{ item.birth_death_time[1] }</span>
+                  <Modal lang={lang} title={"⬆️"} content={item.epoch} />
+                </div>
+              </td>
+              {
+                item.sect.length <= 1
+                  ? <td className="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">{ item.sect.join(', ') }</td>
+                  : <Modal lang={lang} title={"⬆️"} content={item.sect.join(', ')}/>
+              }
+              <td>{ item.country }</td>
+              <td><Modal lang={lang} title={"⛰⛩"} content={ item.place } /></td>
+              {
+                item.teachers.length <= 1
+                  ? <td>{ item.teachers.join(', ') }</td>
+                  : <td><Modal lang={lang} title={"⬆️"} content={ item.teachers.join(', ') } /></td>
+              }
+              <td>{ item.successors.join(', ') }</td>
+              {
+                item.disciples.length <= 1
+                  ? <td>{ item.disciples.join(', ') }</td>
+                  : <td><Modal lang={lang} title={"⬆️"} content={ item.disciples.join(', ') } /></td>
+              }
+              <td><Modal lang={lang} title={"🧷"} content={ item.reference?.join(', ') } /></td>
           </tr>
           ))
         }
