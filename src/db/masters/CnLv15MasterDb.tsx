@@ -1,6 +1,8 @@
 const CnLv15MasterDb = [
   {
     id: '48.15.1',
+    hasContent: true,
+    isEminent: true,
     name_en: 'Yuanwu Keqin',
     name_es: 'Yuanwu Keqin',
     name_de: 'Yuanwu Keqin',
@@ -82,6 +84,8 @@ const CnLv15MasterDb = [
   },
   {
     id: '48.15.4',
+    hasContent: true,
+    isEminent: true,
     name_en: 'Foyan Qingyuan',
     name_es: 'Foyan Qingyuan',
     name_de: 'Foyan Qingyuan',
