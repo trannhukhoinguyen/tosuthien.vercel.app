@@ -49,7 +49,7 @@ const CnLv19MasterDb = [
     place: '-',
     teachers: ['Mian Xianjie'],
     successors: [''],
-    disciples: [],
+    disciples: ['Wuming Huixin', 'Yun’an Puyan'],
     image: '/images/avatar.png',
     reference: ['https://www.erct.com/2-ThoVan/NNT/Vomonquan/20-Dailucluongnhan.htm', 'http://en.lingyinsi.org/list_332.html',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/tung-nguyen-sung-nhac-k3098.html', 'https://tangthuphathoc.net/tudien/tung-nguyen-sung-nhac-tu-dien-dao-uyen/',

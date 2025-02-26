@@ -1,0 +1,32 @@
+const CnLv38MasterDb = [
+  {
+    id: '71.38.1',
+    hasContent: true,
+    name_en: 'Bankei Yōtaku',
+    other_name_en: 'Bankei Yōtaku',
+    name_es: 'Bankei Yōtaku',
+    name_de: 'Bankei Yōtaku',
+    name_fr: 'Bankei Yōtaku',
+    name_ru: 'Bankei Yōtaku',
+    name_ja: 'Bankei Yōtaku',
+    name_ko: 'Bankei Yōtaku',
+    name_ar: 'Bankei Yōtaku',
+    name_zh: '無明慧經',
+    name_vi: 'Bàn Khuê Vĩnh Trác',
+    other_name_vi: 'Bàn Khuê Quốc sư',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['', ''],
+    epoch: '',
+    records: '',
+    sect: ['Linji', 'Yangqi', ''],
+    country: 'Japan',
+    place: '-',
+    teachers: ['Bokuō Sogyū'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: ['https://vi.wikipedia.org/wiki/B%C3%A0n_Khu%C3%AA_V%C4%A9nh_Tr%C3%A1c', 'https://en.wikipedia.org/wiki/Bankei_Y%C5%8Dtaku'],
+  }
+]
+export default CnLv38MasterDb;
