@@ -2,13 +2,7 @@ const CnLv29MasterDb = [
   {
     id: '61.28.1',
     name_en: 'Zongjing Zongshu',
-    name_es: 'Zongjing Zongshu',
-    name_de: 'Zongjing Zongshu',
-    name_fr: 'Zongjing Zongshu',
-    name_ru: 'Zongjing Zongshu',
     name_ja: 'Zongjing Zongshu',
-    name_ko: 'Zongjing Zongshu',
-    name_ar: 'Zongjing Zongshu',
     name_zh: '宗鏡宗書',
     name_vi: 'Đại Chương Tông Thư',
     other_name_vi: '',

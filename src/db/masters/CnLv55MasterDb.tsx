@@ -2,12 +2,6 @@ const CnLv55MasterDb = [
   {
     id: '88.55.1',
     name_en: 'Langhui Shirong',
-    name_es: 'Langhui Shirong',
-    name_de: 'Langhui Shirong',
-    name_fr: 'Langhui Shirong',
-    name_ru: 'Langhui Shirong',
-    name_ar: 'Langhui Shirong',
-    name_ko: 'Langhui Shirong',
     name_ja: 'Rōki Riji',
     name_zh: '朗辉事融',
     name_vi: '',

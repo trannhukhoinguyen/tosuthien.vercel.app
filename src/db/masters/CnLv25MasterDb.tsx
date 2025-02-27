@@ -2,13 +2,7 @@ const CnLv25MasterDb = [
   {
     id: '58.25.1',
     name_en: 'Ningran Liaogai',
-    name_es: 'Ningran Liaogai',
-    name_de: 'Ningran Liaogai',
-    name_fr: 'Ningran Liaogai',
-    name_ru: 'Ningran Liaogai',
     name_ja: 'Ningran Liaogai',
-    name_ko: 'Ningran Liaogai',
-    name_ar: 'Ningran Liaogai',
     name_zh: '凝然了改',
     name_vi: 'Ngưng Nhiên Liễu Cải',
     other_name_vi: '',

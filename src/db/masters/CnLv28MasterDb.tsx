@@ -2,13 +2,7 @@ const CnLv28MasterDb = [
   {
     id: '61.28.1',
     name_en: 'Yuezhou Wenzai',
-    name_es: 'Yuezhou Wenzai',
-    name_de: 'Yuezhou Wenzai',
-    name_fr: 'Yuezhou Wenzai',
-    name_ru: 'Yuezhou Wenzai',
     name_ja: 'Yuezhou Wenzai',
-    name_ko: 'Yuezhou Wenzai',
-    name_ar: 'Yuezhou Wenzai',
     name_zh: '月舟文載',
     name_vi: 'Nguyệt Chu Văn Tải',
     other_name_vi: '',

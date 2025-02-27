@@ -2,12 +2,6 @@ const CnLv57MasterDb = [
   {
     id: '90.57.1',
     name_en: 'Mingxuan Xirui',
-    name_es: 'Mingxuan Xirui',
-    name_de: 'Mingxuan Xirui',
-    name_fr: 'Mingxuan Xirui',
-    name_ru: 'Mingxuan Xirui',
-    name_ar: 'Mingxuan Xirui',
-    name_ko: 'Mingxuan Xirui',
     name_ja: 'Mingxuan Xirui',
     name_zh: '明轩西瑞',
     name_vi: 'Minh Hiên Hi Nhụy',

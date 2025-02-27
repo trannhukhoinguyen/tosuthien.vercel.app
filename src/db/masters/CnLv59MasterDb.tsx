@@ -2,12 +2,6 @@ const CnLv59MasterDb = [
   {
     id: '92.59.1',
     name_en: 'Gaomin Delin',
-    name_es: 'Gaomin Delin',
-    name_de: 'Gaomin Delin',
-    name_fr: 'Gaomin Delin',
-    name_ru: 'Gaomin Delin',
-    name_ar: 'Gaomin Delin',
-    name_ko: 'Gaomin Delin',
     name_ja: 'Gaomin Delin',
     name_zh: '德林',
     name_vi: 'Đức Lâm',

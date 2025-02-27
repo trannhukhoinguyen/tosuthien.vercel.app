@@ -2,13 +2,7 @@ const CnLv30MasterDb = [
   {
     id: '62.29.1',
     name_en: 'Yunkong Changzhong',
-    name_es: 'Yunkong Changzhong',
-    name_de: 'Yunkong Changzhong',
-    name_fr: 'Yunkong Changzhong',
-    name_ru: 'Yunkong Changzhong',
     name_ja: 'Yunkong Changzhong',
-    name_ko: 'Yunkong Changzhong',
-    name_ar: 'Yunkong Changzhong',
     name_zh: '蘊空常忠',
     name_vi: 'Uẩn Không Thường Trung',
     other_name_vi: '',

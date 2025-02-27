@@ -2,13 +2,7 @@ const CnLv26MasterDb = [
   {
     id: '59.26.1',
     name_en: 'Jukong Qibin',
-    name_es: 'Jukong Qibin',
-    name_de: 'Jukong Qibin',
-    name_fr: 'Jukong Qibin',
-    name_ru: 'Jukong Qibin',
     name_ja: 'Jukong Qibin',
-    name_ko: 'Jukong Qibin',
-    name_ar: 'Jukong Qibin',
     name_zh: '俱空契斌',
     name_vi: 'Câu Không Khế Bân',
     other_name_vi: '',
