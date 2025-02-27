@@ -10,12 +10,6 @@ interface TableProps {
     name_en: string
     other_name_en?: string
     nickname_en?: string
-    name_es: string
-    name_de: string
-    name_fr: string
-    name_ru: string
-    name_ko: string
-    name_ar: string
     name_ja: string
     other_name_ja?: string
     name_zh: string
@@ -61,19 +55,13 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
       item.name_en?.toLowerCase().includes(searchTerm)
       || item.other_name_en?.toLowerCase().includes(searchTerm)
       || item.nickname_en?.toLowerCase().includes(searchTerm)
-      || item.name_es?.toLowerCase().includes(searchTerm)
-      || item.name_de?.toLowerCase().includes(searchTerm)
-      || item.name_fr?.toLowerCase().includes(searchTerm)
       || item.name_vi?.toLowerCase().includes(searchTerm)
       || item.other_name_vi?.toLowerCase().includes(searchTerm)
       || item.nickname_vi?.toLowerCase().includes(searchTerm)
-      || item.name_ru?.toLowerCase().includes(searchTerm)
       || item.name_zh?.toLowerCase().includes(searchTerm)
       || item.other_name_zh?.toLowerCase().includes(searchTerm)
       || item.name_ja?.toLowerCase().includes(searchTerm)
       || item.other_name_ja?.toLowerCase().includes(searchTerm)
-      || item.name_ko?.toLowerCase().includes(searchTerm)
-      || item.name_ar?.toLowerCase().includes(searchTerm)
       || item.birth_death_time?.some(time => time.toLowerCase().includes(searchTerm))
       || item.epoch?.toLowerCase().includes(searchTerm)
       || item.sect?.some(s => s.toLowerCase().includes(searchTerm))
@@ -125,15 +113,9 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
         <tr>
           <th>ID</th>
           <th>English Name</th>
-          { lang === 'es' && <th>Spanish Name</th> }
-          { lang === 'de' && <th>German Name</th> }
-          { lang === 'fr' && <th>French Name</th> }
           { lang === 'vi' && <th>Vietnamese Name</th> }
-          { lang === 'ru' && <th>Russian Name</th> }
           { lang === 'zh' && <th>Chinese Name</th> }
           { lang === 'ja' && <th>Japanese Name</th> }
-          { lang === 'ko' && <th>Korean Name</th> }
-          { lang === 'ar' && <th>Arabic Name</th> }
           <th>Birth - Death</th>
           <th>Sect</th>
           <th>Country</th>
@@ -164,12 +146,6 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
                     <Modal lang={lang} title={item.name_en + "⬆️"} content={item.other_name_en} />
                 </td>
               }
-              { lang === 'es' && <td>{ item.name_es }</td> }
-              { lang === 'de' && <td>{ item.name_de }</td> }
-              { lang === 'fr' && <td>{ item.name_fr }</td> }
-              { lang === 'ko' && <td>{ item.name_ko }</td> }
-              { lang === 'ar' && <td>{ item.name_ar }</td> }
-              { lang === 'ru' && <td>{ item.name_ru }</td> }
               { lang === 'ja' && <td>{ item.name_ja }<Modal lang={lang} title={"⬆️"} content={ item.other_name_ja } /></td> }
               { lang === 'zh' && <td>{ item.name_zh }<Modal lang={lang} title={"⬆️"} content={ item.other_name_zh } /></td> }
               { lang === 'vi' && <td>{ item.name_vi }<Modal lang={lang} title={"⬆️"} content={ item.other_name_vi } /></td> }

@@ -6,34 +6,10 @@
     "weight": 1
   },
   {
-    "languageName": "\uD83C\uDDEA\uD83C\uDDF8 Spanish",
-    "languageCode": "es",
-    "contentDir": "es",
-    "weight": 2
-  },
-  {
-    "languageName": "\uD83C\uDDE9\uD83C\uDDEA German",
-    "languageCode": "de",
-    "contentDir": "de",
-    "weight": 3
-  },
-  {
     "languageName": "\uD83C\uDDEF\uD83C\uDDF5 Japanese",
     "languageCode": "ja",
     "contentDir": "ja",
     "weight": 4
-  },
-  {
-    "languageName": "\uD83C\uDDEB\uD83C\uDDF7 French",
-    "languageCode": "fr",
-    "contentDir": "fr",
-    "weight": 5
-  },
-  {
-    "languageName": "\uD83C\uDDF7\uD83C\uDDFA Russian",
-    "languageCode": "ru",
-    "contentDir": "ru",
-    "weight": 6
   },
   {
     "languageName": "\uD83C\uDDE8\uD83C\uDDF3 Chinese",
@@ -46,17 +22,5 @@
     "languageCode": "vi",
     "contentDir": "vi",
     "weight": 8
-  },
-  {
-    "languageName": "\uD83C\uDDF0\uD83C\uDDF7 Korean",
-    "languageCode": "ko",
-    "contentDir": "ko",
-    "weight": 9
-  },
-  {
-    "languageName": "\uD83C\uDDF8\uD83C\uDDE6 Arabic",
-    "languageCode": "ar",
-    "contentDir": "ar",
-    "weight": 10
   }
 ]

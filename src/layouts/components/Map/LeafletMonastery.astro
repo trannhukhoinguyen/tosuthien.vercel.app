@@ -3,15 +3,9 @@ import {getTranslations} from "../../../lib/utils/languageParser";
 import {ContentEntryMap} from "astro:content";
 import mapViDb from "../../../db/maps/mapViDb";
 import mapEnDb from "../../../db/maps/mapEnDb";
-import placeViDb from "../../../db/maps/placeViDb";
 
-const { lang, type } = Astro.params;
-let locations;
-if (type == 'monasteries') {
-  locations = !lang || lang === 'vi' ? mapViDb : mapEnDb
-} else if (type == 'places') {
-  locations = !lang || lang === 'vi' ? placeViDb : []
-};
+const { lang } = Astro.params;
+const locations = !lang || lang === 'vi' ? mapViDb : mapEnDb;
 const { patriarchal_zen } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 

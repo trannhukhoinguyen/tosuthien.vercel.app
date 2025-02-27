@@ -4,7 +4,7 @@ import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
 import { getAllTaxonomy, getTaxonomy } from "@/lib/taxonomyParser.astro";
 import { supportedLang, getTranslations } from "@/lib/utils/languageParser";
 import PageHeader from "@/partials/PageHeader.astro";
-import Leaflet from "@/layouts/components/Map/Leaflet.astro";
+import LeafletMonastery from "../../../layouts/components/Map/LeafletMonastery.astro";
 import type { ContentEntryMap } from "astro:content";
 
 export function getStaticPaths() {
@@ -30,7 +30,7 @@ const posts = await getSinglePage("monasteries", lang as keyof ContentEntryMap);
   <PageHeader title={postIndex[0].data.title} />
   <section class="section">
     <div class="container">
-      <Leaflet type="monasteries" />
+      <LeafletMonastery />
     </div>
   </section>
 </Base>
