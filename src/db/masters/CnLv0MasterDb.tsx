@@ -200,6 +200,7 @@ const CnLv0MasterDb = [
     name_vi: 'Huệ Năng',
     other_name_vi: '',
     nickname_vi: 'Lục Tổ',
+    original_name_vi: '',
     worship_tower: '',
     birth_death_time: ['638', '713'],
     epoch: '',
