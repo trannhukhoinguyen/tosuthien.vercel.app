@@ -4,7 +4,7 @@ const mapViDb = [
     key: 'gao-min',
     cover: 'https://peacelilysite.com/wp-content/uploads/2022/09/6782f74c-b11f-4bbb-bf50-973e4e6680d3.jpeg',
     title: 'THIỀN VIỆN CAO MÂN',
-    url: '/monasteries/cao-man',
+    url: '/monasteries/gao-min',
     mapCenter: [32.32652, 119.41237],
     markerPosition: [32.32652, 119.41237],
     zoomLevel: 13,
