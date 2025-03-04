@@ -7,7 +7,6 @@ const JSON_FOLDER = "./.json";
 const CONTENT_DEPTH = 2;
 const BLOG_FOLDER = "masters" || "monasteries" || "teachings" || 'koans';
 const CONTENT_ROOT = "src/content";
-const COLLECTION_FOLDER = "indian" || "chineseEarly" || "chineseAfterHuineng" || "japanese" || 'korean' || 'vietnamese';
 
 // get data from markdown
 const getData = (folder, groupDepth, langIndex = 0) => {
