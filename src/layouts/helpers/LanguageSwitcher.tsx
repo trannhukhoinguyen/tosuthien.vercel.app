@@ -1,11 +1,11 @@
-import config from "@/config/config.json";
-import languages from "@/config/language.json";
+import config from "../config/config.json";
+import languages from "../config/language.json";
 import React from "react";
 
 const LanguageSwitcher = ({
-  lang,
-  pathname,
-}: {
+                            lang,
+                            pathname,
+                          }: {
   lang: string;
   pathname: string;
 }) => {
@@ -22,27 +22,28 @@ const LanguageSwitcher = ({
   // Sort languages by weight and filter out disabled languages
   const sortedLanguages = languages
     // @ts-ignore
-    .filter(language =>!config.settings.disable_languages.includes(language.languageCode))
+    .filter(language => !config.settings.disable_languages.includes(language.languageCode))
     .sort((a, b) => a.weight - b.weight);
 
   return (
-    <div className={`mr-5 ${sortedLanguages.length > 1? "block" : "hidden"}`}>
+    <div className={`mr-5 ${sortedLanguages.length > 1 ? "block" : "hidden"}`}>
       <select
         className="border border-dark text-dark bg-transparent dark:border-darkmode-primary dark:text-white py-1 rounded-sm cursor-pointer focus:ring-0 focus:border-dark dark:focus:border-darkmode-primary"
         onChange={(e) => {
           const selectedLang = e.target.value;
           let newPath;
-          const defaultUrl = "https://tosuthien.quest";
+          const baseUrl = window.location.origin;
 
           if (selectedLang === default_language) {
             if (default_language_in_subdir) {
-              newPath = `${defaultUrl}/${default_language}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+              newPath = `${baseUrl}/${default_language}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
             } else {
-              newPath = `${defaultUrl}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
+              newPath = `${baseUrl}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
             }
           } else {
             newPath = `/${selectedLang}${removeTrailingSlash(pathname.replace(`/${lang}`, ""))}`;
           }
+
           window.location.href = newPath;
         }}
         value={lang}
