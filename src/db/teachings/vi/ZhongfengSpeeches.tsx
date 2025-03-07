@@ -10,7 +10,7 @@ const ZhongfengSpeeches = {
     'Vì thế, Ngài cực lực bài xích cái thói quen tai hại của người học muốn dùng tri giải để hiểu Phật pháp, thiền đạo, làm chướng cửa ngộ, nhất định không thể nào giải quyết được việc lớn sanh tử, mà trái lại còn thêm lớn ngã kiến, kết chặt gốc rễ luân hồi. / ' +
     'Lời khai-thị thống thiết đầy nhiệt tình của Ngài có sức thúc giục cảnh tỉnh rất là mãnh liệt khiến người học vừa phấn chí mình, vừa cảm tấm lòng từ bi chỉ dạy của Ngài, mà dốc lòng tinh tấn hành đạo.',
   paragraph1:
-    '1. KHAI THI 4 ĐIỀU DỄ, 4 ĐIỀU KHÓ CỦA NGÀI PHẬT ẤN LIỄU-NGUYÊN',
+    '1. KHAI THỊ 4 ĐIỀU DỄ, 4 ĐIỀU KHÓ CỦA NGÀI PHẬT ẤN LIỄU-NGUYÊN',
   paragraph2:
     'Thiền-sư Phật-Ấn Liễu-Nguyên thống thiết dạy sơ lược như sau: / ' +
     '"Một niệm tịnh tâm cuối cùng thành chánh-giác. / ' +
@@ -763,7 +763,7 @@ const ZhongfengSpeeches = {
     'Tông môn ai nói sẽ suy sụp / ' +
     'Ra tay chống đỡ có ông Tòng.',
   paragraph53:
-    '27. KHAI THI THIỀN NHÂN VÔ ẨN HỐI',
+    '27. KHAI THỊ THIỀN NHÂN VÔ ẨN HỐI',
   paragraph54:
     'I. Pháp pháp chẳng ẩn tàng (che giấu), xưa nay thường hiển lộ. / ' +
     'Ông tính dùng mắt để thấy thì đã ẩn tàng rồi. Việc nầy cần phải / ' +
