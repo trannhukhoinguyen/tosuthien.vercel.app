@@ -548,7 +548,7 @@ const CnLv3MasterDb = [
     name_zh: '鹽官齊安',
     name_vi: 'Diêm Quan Tề An',
     other_name_vi: '',
-    nickname_vi: '',
+    nickname_vi: 'Ngộ Không',
     worship_tower: '',
     birth_death_time: ['750', '842'],
     epoch: '',
