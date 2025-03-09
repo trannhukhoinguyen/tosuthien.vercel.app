@@ -1,5 +1,5 @@
-import config from "../config/config.json";
-import languages from "../config/language.json";
+import config from "../../config/config.json";
+import languages from "../../config/language.json";
 import React from "react";
 
 const LanguageSwitcher = ({
