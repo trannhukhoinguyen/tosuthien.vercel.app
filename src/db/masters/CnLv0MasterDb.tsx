@@ -237,7 +237,6 @@ const CnLv0MasterDb = [
     id: '33.3',
     hasContent: true,
     name_en: 'Yuquan Shenxiu',
-    name_ru: 'Yuquan Shenxiu',
     name_ja: 'Jinshū',
     name_zh: '玉泉 神秀',
     name_vi: 'Ngọc Tuyền Thần Tú ',
