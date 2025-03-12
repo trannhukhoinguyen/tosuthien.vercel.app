@@ -27,7 +27,7 @@ if (menu) {
       <div class="mb-8 text-center lg:col-6 lg:mb-0">
         <ul>
           {
-            footer.map((menu: any) => (
+            footer?.map((menu: any) => (
               <li class="m-3 inline-block">
                 <a href={slugSelector(menu.url, lang)}>{menu.name}</a>
               </li>
@@ -37,4 +37,39 @@ if (menu) {
       </div>
     </div>
   </div>
+<!--GO TO TOP Arrow-->
+  <button
+    id="go-top-button"
+    aria-label="Go to Top"
+    class="fill-transparent transition-colors duration-300 hover:fill-black hover:text-white"
+    data-cursor-hover
+    data-cursor-parallax
+    style="float: right; position: relative; bottom: 100px"
+  >
+    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24">
+      <g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="9"></circle><path d="m15 12l-3-3m0 0l-3 3m3-3v6"></path>
+      </g>
+    </svg>
+  </button>
 </footer>
+
+<script>
+  import { gsap } from "gsap";
+  import { ScrollToPlugin } from "gsap/ScrollToPlugin";
+
+  gsap.registerPlugin(ScrollToPlugin);
+
+  function init() {
+    const goTopButton = document.getElementById("go-top-button");
+
+    if (!goTopButton) return;
+
+    goTopButton.addEventListener("click", function () {
+      gsap.to(window, { duration: 0.5, scrollTo: 0 });
+    });
+  }
+
+  document.removeEventListener("DOMContentLoaded", init); // astro:page-load
+  document.addEventListener("DOMContentLoaded", init); // astro:page-load
+</script>
