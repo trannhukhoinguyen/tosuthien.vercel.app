@@ -2,7 +2,7 @@
 import {getLangFromUrl, getTranslations} from "../../lib/utils/languageParser";
 import {ContentEntryMap} from "astro:content";
 
-const { bookTitle, author, hashTag, chapterTitle, image,
+const { bookTitle, author, translator, hashTag, chapterTitle, image,
   intro, main,
   commentBeforeVerse, commentAfterVerse,
   commentBeforeVerseExtra, commentAfterVerseExtra,
@@ -48,7 +48,7 @@ const {
     bookTitle
       ?  <header class="story__header" style={`background-image: url(${image})`}>
         <h1 class="story__title"> {bookTitle}
-          <span class="story__byline">{author}</span>
+          <span class="story__byline">{author} - {translator} </span>
         </h1>
       </header>
       : ''
