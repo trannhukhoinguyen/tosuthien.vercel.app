@@ -8,7 +8,6 @@ import XuanshaShibei from "../db/speeches/XuanshaShibei.tsx";
 import YunmenWenyan from "../db/speeches/YunmenWenyan.tsx";
 
 const speechDb = [
-  ...DeshanXuanjian,
   ...NanyangHuizhong,
   ...GuifengZongmi,
   ...LinjiYixuan,
@@ -16,5 +15,6 @@ const speechDb = [
   ...YangqiFanghui,
   ...XuanshaShibei,
   ...YunmenWenyan,
+  ...DeshanXuanjian,
 ]
 export default speechDb;
