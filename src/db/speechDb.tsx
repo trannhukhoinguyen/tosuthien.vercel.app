@@ -4,6 +4,7 @@ import GuifengZongmi from "../db/speeches/GuifengZongmi.tsx";
 import LinjiYixuan from "../db/speeches/LinjiYixuan.tsx";
 import FoyanQingyuan from "../db/speeches/FoyanQingyuan.tsx";
 import YangqiFanghui from "../db/speeches/YangqiFanghui.tsx";
+import XuanshaShibei from "../db/speeches/XuanshaShibei.tsx";
 
 const speechDb = [
   ...DeshanXuanjian,
@@ -12,5 +13,6 @@ const speechDb = [
   ...LinjiYixuan,
   ...FoyanQingyuan,
   ...YangqiFanghui,
+  ...XuanshaShibei,
 ]
 export default speechDb;
