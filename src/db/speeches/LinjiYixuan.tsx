@@ -91,22 +91,31 @@ const LinjiYixuan = [
       'Tự mình nhìn gần xa. Thời giờ qua khá tiếc uổng, mỗi người phải tự nỗ lực. Tạm biệt! // ' +
       '\n' +
       'Người học đời nay chỉ cần minh thủ chân chánh kiến giải của chính mình là không bị sanh tử nhiễm trước, đi ở tự do, chẳng cầu bên ngoài mà thù thắng cụ bị đầy đủ. ' +
-      'Như nay đây các vị đạo lưu chỉ cần không trệ ngại nơi hoặc, cần dùng tức dùng. Như nay đây mà không được như thế là bệnh tại chỗ nào? Tức bệnh tại chỗ không tự tin. ' +
+      'Như nay đây các vị đạo lưu chỉ cần không trệ ngại nơi hoặc, cần dùng tức dùng. ' +
+      'Như nay đây mà không được như thế là bệnh tại chỗ nào? Tức bệnh tại chỗ không tự tin. ' +
       'Tự tin không kịp. Thế là ngơ ngơ, ngác ngác trước mọi cảnh thoát. ' +
       'Này các vị đại đức, nếu mà dừng nghỉ được tâm trì cầu mỗi phút mỗi giây thì cùng với Tổ sư đâu có gì khác biệt. ' +
       'Các vị có muốn hiểu rõ Tổ sư không. ' +
       'Đó tức là người đang nghe pháp trước mặt ta đấy! Người học tin không tới bèn hướng bên ngoài trì cầu. ' +
       'Người được chẳng qua chỉ là cái học văn tự, cùng với các Tổ sư xa lắc, xa lơ. Đừng có nhầm lẫn nhé. ' +
       'Này các vị đại đức, thời này không ngộ thì muôn kiếp ngàn đời luân hồi trong ba giới, trải bao cảnh xấu tốt, chui vào bụng lừa bò thôi. ' +
-      'Như mọi người hôm nay đây với các vị Thánh hiền ngày xưa có gì khác đâu. Các vị thiếu kém cái gì chứ? Lục thông thần quang chưa phút giây nào ngưng dứt. ' +
+      'Như mọi người hôm nay đây với các vị Thánh hiền ngày xưa có gì khác đâu. Các vị thiếu kém cái gì chứ? ' +
+      'Lục thông thần quang chưa phút giây nào ngưng dứt. ' +
       'Nếu hay thấy được như thế thì một người trọn đời vô sự. Một niệm thanh tịnh thì là Pháp thân Phật trong nhà mình vậy. ' +
       'Một niệm vô phân biệt quang, thì đó là báo thân Phật của mình. Một niệm vô sai biệt quang, thì đó là hóa thân Phật của mình. ' +
-      'Ba thân đó là người nghe pháp trước mắt ta hôm nay đấy. Do không hướng bên ngoài tìm cầu nên có được ba loại công dụng. ' +
-      'Theo giáo nghĩa ba loại công dụng đó gọi là rốt ráo. Sơn tăng ta nói: Ba thứ đó là danh ngôn. Cho nên mới nói thân nương theo nghĩa mà lập, đất theo thể mà luận. ' +
-      'Thân pháp tánh và đất pháp tánh hiểu rõ ra là quang ảnh. Này đại đức, khá nên thức thủ. Người lộng quang ảnh là nguồn gốc của chư Phật, là chỗ quay về của chư đạo lưu. ' +
-      'Này các đại đức, thân tứ đại không biết nói pháp, nghe pháp. Hư không chẳng biết nói pháp, nghe pháp. Đó là sờ sờ trước mặt chư vị biết nói pháp, nghe pháp. ' +
-      'Do đó mà sơn tăng đây hướng về chư vị nói: Trong miếng ruộng năm uẩn có một chân nhân vô vị trí, hiển lộ sừng sững, chẳng ngăn cách một tóc tơ nào, sao lại chẳng thức thủ vậy? Tâm pháp vô hình mà thông quán mười phương, tại mắt gọi là thấy, tại tai gọi là nghe, tại tay nắm bắt, tại chân đi chạy. ' +
-      'Tâm nếu không tại thì tùy xứ giải thoát. Chỗ thấy của sơn tăng, tọa đoạn báo hóa Phật, thập địa đầy tâm, do như khách tác nhi, đẳng diệu nhị giác như mang xiềng, đội gông, La Hán, Bích Chi cũng như phân đất, còn Bồ-đề, Niết-bàn như cọc cột lừa ngựa. Tại sao như thế. ' +
+      'Ba thân đó là người nghe pháp trước mắt ta hôm nay đấy. ' +
+      'Do không hướng bên ngoài tìm cầu nên có được ba loại công dụng. ' +
+      'Theo giáo nghĩa ba loại công dụng đó gọi là rốt ráo. Sơn tăng ta nói: Ba thứ đó là danh ngôn. ' +
+      'Cho nên mới nói thân nương theo nghĩa mà lập, đất theo thể mà luận. ' +
+      'Thân pháp tánh và đất pháp tánh hiểu rõ ra là quang ảnh. ' +
+      'Này đại đức, khá nên thức thủ. Người lộng quang ảnh là nguồn gốc của chư Phật, là chỗ quay về của chư đạo lưu. ' +
+      'Này các đại đức, thân tứ đại không biết nói pháp, nghe pháp. Hư không chẳng biết nói pháp, nghe pháp. ' +
+      'Đó là sờ sờ trước mặt chư vị biết nói pháp, nghe pháp. ' +
+      'Do đó mà sơn tăng đây hướng về chư vị nói: ' +
+      'Trong miếng ruộng năm uẩn có một chân nhân vô vị trí, hiển lộ sừng sững, chẳng ngăn cách một tóc tơ nào, sao lại chẳng thức thủ vậy? ' +
+      'Tâm pháp vô hình mà thông quán mười phương, tại mắt gọi là thấy, tại tai gọi là nghe, tại tay nắm bắt, tại chân đi chạy. ' +
+      'Tâm nếu không tại thì tùy xứ giải thoát. ' +
+      'Chỗ thấy của sơn tăng, tọa đoạn báo hóa Phật, thập địa đầy tâm, do như khách tác nhi, đẳng diệu nhị giác như mang xiềng, đội gông, La Hán, Bích Chi cũng như phân đất, còn Bồ-đề, Niết-bàn như cọc cột lừa ngựa. Tại sao như thế. ' +
       'Vì không đạt ba kỳ kiếp luống có ngăn cách ấy. Nếu thật là đạo lưu, thì đều không như thế. Như nay đây vì mọi người sơ lược đại ước phá thoại. ' +
       'Tự mình nhìn gần xa. Thời giờ qua khá tiếc uổng, mỗi người phải tự nỗ lực. Tạm biệt!',
     speechType: '',

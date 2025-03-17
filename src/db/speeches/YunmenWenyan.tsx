@@ -10,9 +10,9 @@ const YunmenWenyan = [
       'Là Đông, Tây, Nam, Bắc, là có là không có thấy nghe, là hướng thượng hướng hạ, là hay không là, là những lời rỉ tai của các bà lão trong thôn xóm. ' +
       'Có vài ông đạt tới cảnh giới này, tương đương tịnh xứ Tát Bà Ha. // ' +
       '\n' +
-      '-Dù chỉ một lời, dù rằng muôn vàn sai biệt gom vào một mối, dù là rất\n' +
-      'nhỏ cũng là diễn tả sự giải thoát. Các ông tăng mặc áo vá có định nói gì\n' +
-      'không? Nếu các ông định bàn cãi về Phật, về Tổ, về pháp độc nhất của\n' +
+      '-Dù chỉ một lời, dù rằng muôn vàn sai biệt gom vào một mối, dù là rất ' +
+      'nhỏ cũng là diễn tả sự giải thoát. Các ông tăng mặc áo vá có định nói gì ' +
+      'không? Nếu các ông định bàn cãi về Phật, về Tổ, về pháp độc nhất của ' +
       'Lục tổ. nếu có ai nói được hãy bước ra trước coi! // ' +
       '\n' +
       'Đúng là không hiểu gì mà ông hỏi siêu Phật, vượt Tổ. Khi hỏi ông không hiểu thế nào là Phật, là Tổ mà hỏi siêu Phật, vượt Tổ, và khi hỏi ông đã trốn ra khỏi tam giới. (sắc giới, vô sắc giới, dục giới). ' +

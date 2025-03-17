@@ -33,7 +33,7 @@ export default defineConfig({
   integrations: [
     react(),
     sitemap({
-      changefreq: 'daily',
+      changefreq: 'weekly',
     }),
     tailwind({
       config: {
