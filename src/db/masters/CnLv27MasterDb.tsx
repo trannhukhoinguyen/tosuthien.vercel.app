@@ -19,6 +19,27 @@ const CnLv27MasterDb = [
     disciples: ['Yuezhou Wenzai'],
     image: '/images/avatar.png',
     reference: [''],
+  },
+  {
+    id: '60.27.2',
+    name_en: 'Dongming Huichan',
+    name_ja: 'Dongming Huichan',
+    name_zh: '東明慧旵',
+    name_vi: 'Dongming Huichan',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1372', '1441'],
+    epoch: '',
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: 'China',
+    place: '-',
+    teachers: ['Baozang Puchi'],
+    successors: ['Haizhou Puci'],
+    disciples: ['Haizhou Puci'],
+    image: '/images/avatar.png',
+    reference: [''],
   }
 ]
 export default CnLv27MasterDb;

@@ -19,6 +19,27 @@ const CnLv26MasterDb = [
     disciples: ['Wufang Kecong'],
     image: '/images/avatar.png',
     reference: [''],
-  }
+  },
+  {
+    id: '59.26.2',
+    name_en: 'Baozang Puchi',
+    name_ja: 'Baozang Puchi',
+    name_zh: '寶藏普持',
+    name_vi: 'Baozang Puchi',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['', ''],
+    epoch: '',
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: 'China',
+    place: '-',
+    teachers: ['Wanfeng Shiwei'],
+    successors: ['Dongming Huichan'],
+    disciples: ['Dongming Huichan'],
+    image: '/images/avatar.png',
+    reference: [''],
+  },
 ]
 export default CnLv26MasterDb;

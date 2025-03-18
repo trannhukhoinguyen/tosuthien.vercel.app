@@ -19,6 +19,27 @@ const CnLv28MasterDb = [
     disciples: ['Zongjing Zongshu'],
     image: '/images/avatar.png',
     reference: [''],
+  },
+  {
+    id: '61.28.2',
+    name_en: 'Haizhou Puci',
+    name_ja: 'Haizhou Puci',
+    name_zh: '海舟普慈',
+    name_vi: 'Haizhou Puci',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1393', '1461'],
+    epoch: '',
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: 'China',
+    place: '-',
+    teachers: ['Dongming Huichan'],
+    successors: ['Baofeng Mingxuan'],
+    disciples: ['Baofeng Mingxuan'],
+    image: '/images/avatar.png',
+    reference: [''],
   }
 ]
 export default CnLv28MasterDb;

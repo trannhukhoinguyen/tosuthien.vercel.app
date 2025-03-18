@@ -27,7 +27,7 @@ const CnLv24MasterDb = [
   },
   {
     id: '57.24.3',
-    name_en: 'Qianyan Yuanchang',
+    name_en: 'Qianyan Yuanzhang',
     name_ja: 'Sengan Genchō',
     name_zh: '千巖元長',
     name_vi: 'Thiên Nham Nguyên Trường',
@@ -40,8 +40,8 @@ const CnLv24MasterDb = [
     country: 'China',
     place: '-',
     teachers: ['Zhongfeng Mingben'],
-    successors: ['-'],
-    disciples: [],
+    successors: ['Wanfeng Shiwei'],
+    disciples: ['Wanfeng Shiwei'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/Thi%C3%AAn_Nham_Nguy%C3%AAn_Tr%C6%B0%E1%BB%9Dng' ,
       'https://jmapps.ne.jp/mmag/sakka_det.html?list_count=10&person_id=369',
@@ -49,7 +49,7 @@ const CnLv24MasterDb = [
     ],
   },
   {
-    id: '57.24.4',
+    id: '57.24.5',
     name_en: 'Songting Ziyan',
     name_ja: 'Songting Ziyan',
     name_zh: '松庭子嚴',
