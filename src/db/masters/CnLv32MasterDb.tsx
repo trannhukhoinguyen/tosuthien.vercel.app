@@ -1,6 +1,6 @@
 const CnLv32MasterDb = [
   {
-    id: '64.31.1',
+    id: '64.32.1',
     hasContent: true,
     name_en: 'Wuyi Yuanlai',
     other_name_en: 'Boshan Yuanlai',
@@ -25,7 +25,7 @@ const CnLv32MasterDb = [
     'https://vn.thamtosuthien.net/about/Thien-su-Bac-son.phattrien.net', 'https://londonchanmeditation.org/lineage/'],
   },
   {
-    id: '64.31.2',
+    id: '64.32.2',
     hasContent: true,
     name_en: 'Huitai Yuanjing',
     name_ja: 'Maidai Genkyō',
@@ -47,7 +47,7 @@ const CnLv32MasterDb = [
     reference: ['https://vi.wikipedia.org/wiki/H%E1%BB%91i_%C4%90%C3%A0i_Nguy%C3%AAn_C%E1%BA%A3nh', 'https://terebess.hu/zen/mesterek/HuitaiYuanjing.html'],
   },
   {
-    id: '64.31.3',
+    id: '64.32.3',
     hasContent: true,
     name_en: 'Yuanjue Yuanxian',
     other_name_en: 'Gushan Yuanxian',
@@ -69,6 +69,27 @@ const CnLv32MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/V%C4%A9nh_Gi%C3%A1c_Nguy%C3%AAn_Hi%E1%BB%81n', 'https://terebess.hu/zen/mesterek/YuanjueYuanxian.html'],
+  },
+  {
+    id: '64.32.4',
+    name_en: 'Xiaoyan Debao',
+    name_ja: 'Getsushin Tokuhō',
+    name_zh: '月心德寶',
+    name_vi: 'Tiếu Nham Đức Bảo',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1512', '1581'],
+    epoch: '',
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: 'China',
+    place: '',
+    teachers: ['Wuwen Mingcong'],
+    successors: ['Yunqi Zhuhong'],
+    disciples: ['Yunqi Zhuhong', 'Huanyou Zhenchuan'],
+    image: '/images/avatar.png',
+    reference: [''],
   },
 ]
 export default CnLv32MasterDb;

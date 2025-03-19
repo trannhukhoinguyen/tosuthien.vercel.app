@@ -23,7 +23,7 @@ const CnLv25MasterDb = [
   {
     id: '58.25.2',
     name_en: 'Wanfeng Shiwei',
-    name_ja: 'Wanfeng Shiwei',
+    name_ja: 'Manhō Jijō',
     name_zh: '萬峰時蔚',
     name_vi: 'Vạn Phong Shiwei',
     other_name_vi: 'Vạn Phong Vệ Công',

@@ -23,8 +23,10 @@ const CnLv27MasterDb = [
   {
     id: '60.27.2',
     name_en: 'Dongming Huichan',
-    name_ja: 'Dongming Huichan',
+    other_name_en: 'Xubai Huichan',
+    name_ja: 'Kihaku Egaku',
     name_zh: '東明慧旵',
+    other_name_zh: '虗白慧旵',
     name_vi: 'Dongming Huichan',
     other_name_vi: '',
     nickname_vi: '',

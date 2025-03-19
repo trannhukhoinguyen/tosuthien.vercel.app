@@ -1,7 +1,26 @@
 const CnLv33MasterDb = [
   {
-    id: '65.32.1',
-    hasContent: true,
+    id: '65.33.1',
+    name_en: 'Yunqi Zhuhong',
+    name_ja: 'Unsei Shukō',
+    name_zh: '雲棲袾宏',
+    name_vi: 'Vân Thê Châu Hoằng',
+    other_name_vi: 'Liên Trì Đại Sư',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1535', '1615'],
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: 'China',
+    place: '',
+    teachers: ['Xiaoyan Debao'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: [''],
+  },
+  {
+    id: '65.33.2',
     name_en: '',
     name_ja: '',
     name_zh: '',
@@ -19,6 +38,6 @@ const CnLv33MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: [''],
-  }
+  },
 ]
 export default CnLv33MasterDb;

@@ -1,6 +1,6 @@
 const CnLv31MasterDb = [
   {
-    id: '63.30.1',
+    id: '63.31.1',
     hasContent: true,
     name_en: 'Wuming Huijing',
     name_ja: 'Mumyō Ekyō',
@@ -20,6 +20,27 @@ const CnLv31MasterDb = [
     disciples: ['Wuyi Yuanlai', 'Huitai Yuanjing', 'Yuanjue Yuanxian'],
     image: '/images/avatar.png',
     reference: ['', 'https://londonchanmeditation.org/lineage/'],
-  }
+  },
+  {
+    id: '63.31.2',
+    name_en: 'Wuwen Mingcong',
+    name_ja: 'Mubun Shōsō',
+    name_zh: '無聞正聰',
+    name_vi: 'Wuwen Mingcong',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['', '1543'],
+    epoch: '',
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: 'China',
+    place: '-',
+    teachers: ['Tianqi Benrui'],
+    successors: ['Xiaoyan Debao'],
+    disciples: ['Xiaoyan Debao'],
+    image: '/images/avatar.png',
+    reference: [''],
+  },
 ]
 export default CnLv31MasterDb;

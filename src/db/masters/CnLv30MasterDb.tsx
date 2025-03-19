@@ -1,6 +1,6 @@
 const CnLv30MasterDb = [
   {
-    id: '62.29.1',
+    id: '62.30.1',
     name_en: 'Yunkong Changzhong',
     name_ja: 'Yunkong Changzhong',
     name_zh: '蘊空常忠',
@@ -19,6 +19,27 @@ const CnLv30MasterDb = [
     disciples: ['Wuming Huijing'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/mesterek/YunkongChangzhong.html', 'https://londonchanmeditation.org/lineage/'],
-  }
+  },
+  {
+    id: '62.30.2',
+    name_en: 'Tianqi Benrui',
+    name_ja: 'Tenki Honzui',
+    name_zh: '天奇本瑞',
+    name_vi: 'Tianqi Benrui',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['', '1508'],
+    epoch: '',
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: 'China',
+    place: '-',
+    teachers: ['Baofeng Mingxuan'],
+    successors: ['Wuwen Mingcong'],
+    disciples: ['Wuwen Mingcong'],
+    image: '/images/avatar.png',
+    reference: [''],
+  },
 ]
 export default CnLv30MasterDb;

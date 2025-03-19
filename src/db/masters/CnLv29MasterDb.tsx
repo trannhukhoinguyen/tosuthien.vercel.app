@@ -1,6 +1,6 @@
 const CnLv29MasterDb = [
   {
-    id: '61.28.1',
+    id: '61.29.1',
     name_en: 'Zongjing Zongshu',
     name_ja: 'Zongjing Zongshu',
     name_zh: '宗鏡宗書',
@@ -19,6 +19,27 @@ const CnLv29MasterDb = [
     disciples: ['Huanxiu Changrun', 'Yunkong Changzhong'],
     image: '/images/avatar.png',
     reference: [''],
-  }
+  },
+  {
+    id: '61.29.2',
+    name_en: 'Baofeng Mingxuan',
+    name_ja: 'Hōbō Myōken',
+    name_zh: '寶峰明瑄',
+    name_vi: 'Baofeng Mingxuan',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['', '1472'],
+    epoch: '',
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: 'China',
+    place: '-',
+    teachers: ['Haizhou Puci'],
+    successors: ['Tianqi Benrui'],
+    disciples: ['Tianqi Benrui'],
+    image: '/images/avatar.png',
+    reference: [''],
+  },
 ]
 export default CnLv29MasterDb;
