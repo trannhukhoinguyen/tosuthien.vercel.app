@@ -32,7 +32,7 @@ const NanyangHuizhong = [
       'Người học Thiền tông, nên tôn trọng lời Phật. ' +
       'Liễu nghĩa nhất thừa, ứng hợp với tự bản tâm, còn chẳng liễu nghĩa như loài rận, bọ chét, mãi chẳng được nhìn nhận là được trong thân sư tử. ' +
       'Phàm là thầy người, nếu dấn vào danh lợi, đặt bày dị đoan thì mình với người có ích gì. ' +
-      'Như người thợ giỏi trong đời, búa rìu chẳng làm tổn thương tay.' +
+      'Như người thợ giỏi trong đời, búa rìu chẳng làm tổn thương tay. ' +
       'Lượng chở của voi nòi, con lừa không kham nổi. // ' +
       '' +
       'Dây leo xanh mài miệt bò lên đỉnh tùng lạnh lẽo. ' +
@@ -43,8 +43,7 @@ const NanyangHuizhong = [
       'Giả sử trụ thế được vô số kiếp mà nói, cũng không thể nói hết. ' +
       'Nhớ và trí đều quên mất, đó tức là tương ưng. ' +
       'Quên mất là vô, mà vô tức Phật. ' +
-      'Vô cũng là không. Phật cũng không, cho nên mới nói vô là Phật, Phật tức vô. Vốn vô danh tự, ' +
-      'Không có gì tương tự nó cả, cho nên đời mới gọi là độc tôn không gì so sánh được.  ' +
+      'Vô cũng là không. Phật cũng không, cho nên mới nói vô là Phật, Phật tức vô. Vốn vô danh tự, không có gì tương tự nó cả, cho nên đời mới gọi là độc tôn không gì so sánh được.  ' +
       'Ông nỗ lực y theo đó mà tu hành, thì chẳng có ai có thể phá hoại được vậy. Mà cũng chẳng cần phải hỏi han, nhiệm ý du hành, độc thoát không sợ hãi, thường có hà sa Hiền Thánh che chở, ủng hộ. ' +
       'Chỗ nơi mình đang ở có hà sa Thiên Long Bát Bộ cung kính, hà sa thiện thần đến che chở, mãi mãi không gặp chướng nạn, nơi đâu mà chẳng được tiêu diêu. // ' +
       '' +
