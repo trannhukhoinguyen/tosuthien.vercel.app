@@ -1,6 +1,6 @@
 const CnLv29MasterDb = [
   {
-    id: '61.29.1',
+    id: '62.29.1',
     name_en: 'Zongjing Zongshu',
     name_ja: 'Zongjing Zongshu',
     name_zh: '宗鏡宗書',
@@ -21,7 +21,7 @@ const CnLv29MasterDb = [
     reference: [''],
   },
   {
-    id: '61.29.2',
+    id: '62.29.2',
     name_en: 'Baofeng Mingxuan',
     name_ja: 'Hōbō Myōken',
     name_zh: '寶峰明瑄',

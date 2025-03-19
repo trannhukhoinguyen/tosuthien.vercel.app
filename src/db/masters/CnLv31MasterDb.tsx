@@ -1,6 +1,6 @@
 const CnLv31MasterDb = [
   {
-    id: '63.31.1',
+    id: '64.31.1',
     hasContent: true,
     name_en: 'Wuming Huijing',
     name_ja: 'Mumyō Ekyō',
@@ -22,7 +22,7 @@ const CnLv31MasterDb = [
     reference: ['', 'https://londonchanmeditation.org/lineage/'],
   },
   {
-    id: '63.31.2',
+    id: '64.31.2',
     name_en: 'Wuwen Mingcong',
     name_ja: 'Mubun Shōsō',
     name_zh: '無聞正聰',

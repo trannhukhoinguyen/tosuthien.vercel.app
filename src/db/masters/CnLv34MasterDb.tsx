@@ -1,6 +1,6 @@
-const CnLv33MasterDb = [
+const CnLv34MasterDb = [
   {
-    id: '66.33.1',
+    id: '67.34.1',
     name_en: 'Yunqi Zhuhong',
     name_ja: 'Unsei Shukō',
     name_zh: '雲棲袾宏',
@@ -20,7 +20,7 @@ const CnLv33MasterDb = [
     reference: [''],
   },
   {
-    id: '66.33.2',
+    id: '67.34.2',
     name_en: 'Huanyou Zhengchuan',
     name_ja: 'Genyū Shōden',
     name_zh: '幻有正傳',
@@ -40,4 +40,4 @@ const CnLv33MasterDb = [
     reference: [''],
   },
 ]
-export default CnLv33MasterDb;
+export default CnLv34MasterDb;

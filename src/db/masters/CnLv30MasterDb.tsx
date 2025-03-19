@@ -1,6 +1,6 @@
 const CnLv30MasterDb = [
   {
-    id: '62.30.1',
+    id: '63.30.1',
     name_en: 'Yunkong Changzhong',
     name_ja: 'Yunkong Changzhong',
     name_zh: '蘊空常忠',
@@ -21,7 +21,7 @@ const CnLv30MasterDb = [
     reference: ['https://terebess.hu/zen/mesterek/YunkongChangzhong.html', 'https://londonchanmeditation.org/lineage/'],
   },
   {
-    id: '62.30.2',
+    id: '63.30.2',
     name_en: 'Tianqi Benrui',
     name_ja: 'Tenki Honzui',
     name_zh: '天奇本瑞',

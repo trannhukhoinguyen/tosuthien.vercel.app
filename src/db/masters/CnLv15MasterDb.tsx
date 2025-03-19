@@ -86,12 +86,10 @@ const CnLv15MasterDb = [
     records: '',
     sect: ['Linji', 'Yangqi'],
     country: 'China',
-    place: 'Thiên Ninh Vạn Thọ Tự (天寧萬壽寺)  Thư Châu; ' +
-      'Long Môn Tự (龍門寺); ' +
-      'Bảo Sơn Tự (褒山寺) ở Hòa Châu (和州, Tỉnh An Huy)',
+    place: 'Thiên Ninh Vạn Thọ Tự (天寧萬壽寺)  Thư Châu; Long Môn Tự (龍門寺); Bảo Sơn Tự (褒山寺) ở Hòa Châu (和州, Tỉnh An Huy)',
     teachers: ['Wuzu Fayan'],
-    successors: ['Zhu\'an Shigui'],
-    disciples: ['Gao\'an Shanwu' , 'Zhu\'an Shigui'],
+    successors: ['Zhu’an Shigui'],
+    disciples: ['Gao’an Shanwu' , 'Zhu’an Shigui'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Foyan_Qingyuan', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/phat-nhan-thanh-vien-k4994.html'],
   },

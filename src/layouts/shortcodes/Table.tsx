@@ -16,6 +16,7 @@ interface TableProps {
     other_name_zh?: string
     nickname_zh?: string
     pinyin?: string
+    wade_giles?: string
     name_vi: string
     other_name_vi?: string
     nickname_vi?: string
@@ -63,6 +64,7 @@ const Table: React.FC<TableProps> = ({ data, lang, itemsPerPage = 10, searchTerm
       || item.name_zh?.toLowerCase().includes(searchTerm)
       || item.other_name_zh?.toLowerCase().includes(searchTerm)
       || item.pinyin?.toLowerCase().includes(searchTerm)
+      || item.wade_giles?.toLowerCase().includes(searchTerm)
       || item.nickname_zh?.toLowerCase().includes(searchTerm)
       || item.name_ja?.toLowerCase().includes(searchTerm)
       || item.other_name_ja?.toLowerCase().includes(searchTerm)
