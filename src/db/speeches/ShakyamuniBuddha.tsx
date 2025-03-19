@@ -1,7 +1,7 @@
 const ShakyamuniBuddha = [
 {
     id: 0,
-    masterTitle: 'Đức',
+    authorTitle: 'Đức',
     authorName: 'Thích Ca Mâu Ni Phật',
     authorImage: '/images/wide/cloudy-mountain-peak.jpg',
     authorLink: '/masters/Shakyamuni-Buddha',
