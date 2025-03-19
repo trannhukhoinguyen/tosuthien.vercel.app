@@ -5,7 +5,7 @@ const FoyanQingyuan = [
     authorImage: '/images/wide/cloudy-mountain-peak.jpg',
     authorLink: '/masters/Foyan-Qingyuan',
     speechMain:
-      'Gươm Thái A tiếp ngang, cắt đứt muốn cơ ở trong nắm tay đang nắm. ' +
+      'Gươm Thái A tiếp ngang, cắt đứt muôn cơ ở trong nắm tay đang nắm. ' +
       'Gương Bảo Giám đang ở trên đài, hiện bày các hình bóng vô tâm. ' +
       'Có duyên liền ứng, nên hỏi đáp để tung hoành, chẳng khiến mà hành, bèn nói hình bóng mà hiếm so lường. ' +
       'Người có ảnh hưởng, ấy là đủ sao? Cho nên, Phật giao cho Phật, Tổ truyền cho Tổ. ' +
