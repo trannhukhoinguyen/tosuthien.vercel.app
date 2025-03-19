@@ -84,7 +84,7 @@ const CnLv32MasterDb = [
     records: '',
     sect: ['Linji', 'Yangqi'],
     country: 'China',
-    place: '',
+    place: 'Quan Âm Am (觀音庵), Yến Đô (燕都, Tỉnh Hà Bắc)',
     teachers: ['Wuwen Mingcong'],
     successors: ['Yunqi Zhuhong'],
     disciples: ['Yunqi Zhuhong', 'Huanyou Zhenchuan'],

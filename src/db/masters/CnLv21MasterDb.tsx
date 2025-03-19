@@ -3,6 +3,7 @@ const CnLv21MasterDb = [
     id: '54.21.1',
     hasContent: true,
     name_en: 'Xueyan Zuqin',
+    other_name_en: 'Xueyan Huilang',
     name_ja: 'Seggan Sokin',
     name_zh: '雪巖祖欽',
     other_name_zh: '法欽, 惠朗',
