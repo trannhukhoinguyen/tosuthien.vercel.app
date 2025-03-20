@@ -21,7 +21,7 @@ const LaiguoMiaoshu = [
       'Người làm được công phu miên mật thì quy củ thuần thục, oai nghi nghiêm túc, cử chỉ đoan chánh, ngữ ngôn giản thiểu, người đời đều tôn là Thượng Tọa. ' +
       'Xin gửi lời nói với người tham thiền rằng: Chớ nghi tham thiền có nhiều chỗ khó, chỗ vi tế của tham thiền làm cho người ta sợ thế này thế nọ. ' +
       'Than ôi! Nếu có thể như con tằm nhả tơ, bắt đầu từ một sợi cho đến cuối cùng làm thành một kén, khoảng giữa không có gián đoạn, đó là công phu miên mật rõ ràng. ' +
-      'Bằng không, há người chẳng bằng vật ư! // ',
+      'Bằng không, há người chẳng bằng vật ư!',
     speechType: '',
   },
 ];
