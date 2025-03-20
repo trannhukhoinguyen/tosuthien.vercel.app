@@ -5,14 +5,14 @@ const LaiguoMiaoshu = [
     authorImage: '/images/wide/cloudy-mountain-peak.jpg',
     authorLink: '/masters/Laiguo-Miaoshu',
     speechMain:
-      '59. THÔ TÂM DỤNG // ' +
+      '59. THÔ TÂM DỤNG / ' +
       'Tâm có định loạn, thiền có đắc thất, sự gián đoạn đều do thô tâm này gây ra. ' +
       'Thô tâm là gì? Như gói nhiều đậu nành trong bao, dù để ở đâu, bên trong ắt cũng lỏng lẻo, hễ mở bao ra thì đổ vãi đầy đất. Nếu đem bao đậu ngâm nước, đậu nẩy mầm nở ra thì làm bao bị bể. ' +
       'Dụ như thô tâm duyên cảnh, tâm cảnh đồng thô, dù thu lại thành một khối, cũng chưa quên các thức. Hơi có chút giãi đãi thì thân tâm tán loạn, nghi tình tiêu mất, tâm thiền cũng tan. ' +
       'Nếu đem dậu trong bao xay nát hòa với nước nhồi thành một khối, ắt từ bên trong bỏ được đậu, bên ngoài diệt được mầm, chẳng còn sanh ra đậu nữa. ' +
       'Cũng như vậy, các vọng lăng xăng thu về một niệm, ngay ở trên niệm ấy, dùng sức của câu thoại đầu tham cứu quét sạch hết trần lao, cặn cáu chẳng còn, tham thành một khối, ắt từ bên trong khử vọng, bên ngoài khử trần, tự chẳng phát sanh thô tâm vậy. // ' +
       '\n' +
-      '60. MIÊN MẬT DỤNG // ' +
+      '60. MIÊN MẬT DỤNG / ' +
       'Công phu gián đoạn ở trước rõ ràng là do thô tâm làm thành. Đã nói là thô tâm thì cần phải tiến thêm một bước nữa. ' +
       'Công phu miên mật, miên như sợi tơ, mật như vải bố. Do một sợi tơ mà thành miên, từ một đường chỉ mà thành mật. ' +
       'Công phu do một pháp mà thành phiến, từ một niệm mà thành khối. ' +

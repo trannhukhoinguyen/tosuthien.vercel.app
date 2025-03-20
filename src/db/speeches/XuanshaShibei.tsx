@@ -83,11 +83,11 @@ const XuanshaShibei = [
       'Người đủ đại căn khí mới có thể thấu rõ việc hiện đời. ' +
       'Nếu chưa thấu triệt, dù trải qua muôn kiếp cũng không biết được. // ' +
       '\n' +
-      'Cổ đức nói: // ' +
+      'Cổ đức nói: / ' +
       'Đời nay nếu ai liễu ngộ được ' +
-      'Kiếp sau nào phải thọ tai ương. // ' +
+      'Kiếp sau nào phải thọ tai ương. / ' +
       'Trực hướng kim sanh tu liễu khước ' +
-      'Thùy năng lụy kiếp thọ dư ương. // ' +
+      'Thùy năng lụy kiếp thọ dư ương. / ' +
       'Trân trọng!',
     speechType: '',
   },
