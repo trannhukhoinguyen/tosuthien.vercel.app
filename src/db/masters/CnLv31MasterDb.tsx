@@ -26,7 +26,7 @@ const CnLv31MasterDb = [
     name_en: 'Wuwen Mingcong',
     name_ja: 'Mubun Shōsō',
     name_zh: '無聞正聰',
-    name_vi: 'Wuwen Mingcong',
+    name_vi: 'Vô Văn Minh Thông',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',

@@ -25,7 +25,7 @@ const CnLv30MasterDb = [
     name_en: 'Tianqi Benrui',
     name_ja: 'Tenki Honzui',
     name_zh: '天奇本瑞',
-    name_vi: 'Tianqi Benrui',
+    name_vi: 'Thiên Kỳ Bản Thụy',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',

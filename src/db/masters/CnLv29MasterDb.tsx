@@ -25,7 +25,7 @@ const CnLv29MasterDb = [
     name_en: 'Baofeng Mingxuan',
     name_ja: 'Hōbō Myōken',
     name_zh: '寶峰明瑄',
-    name_vi: 'Baofeng Mingxuan',
+    name_vi: 'Bảo Phong Minh Tuyên',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',

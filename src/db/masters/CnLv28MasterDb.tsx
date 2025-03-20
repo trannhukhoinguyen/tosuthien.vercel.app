@@ -25,7 +25,7 @@ const CnLv28MasterDb = [
     name_en: 'Haizhou Puci',
     name_ja: 'Kaishū Eiji',
     name_zh: '海舟普慈',
-    name_vi: 'Haizhou Puci',
+    name_vi: 'Hải Chu Phổ Từ',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',

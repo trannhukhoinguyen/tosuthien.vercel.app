@@ -27,7 +27,7 @@ const CnLv27MasterDb = [
     name_ja: 'Kihaku Egaku',
     name_zh: '東明慧旵',
     other_name_zh: '虗白慧旵',
-    name_vi: 'Dongming Huichan',
+    name_vi: 'Đông Minh Huệ Sâm',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
