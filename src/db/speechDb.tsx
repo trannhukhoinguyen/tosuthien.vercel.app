@@ -8,10 +8,13 @@ import YangqiFanghui from "../db/speeches/YangqiFanghui.tsx";
 import YunmenWenyan from "../db/speeches/YunmenWenyan.tsx";
 import DeshanXuanjian from "../db/speeches/DeshanXuanjian.tsx";
 import GuifengZongmi from "../db/speeches/GuifengZongmi.tsx";
+import HuangboXiyun from "../db/speeches/HuangboXiyun.tsx";
 
 const speechDb = [
   ...ShakyamuniBuddha,
+  
   ...LaiguoMiaoshu,
+  ...HuangboXiyun,
   ...XuanshaShibei,
   ...NanyangHuizhong,
   ...LinjiYixuan,
@@ -20,5 +23,6 @@ const speechDb = [
   ...YunmenWenyan,
   ...DeshanXuanjian,
   ...GuifengZongmi,
+  
 ]
 export default speechDb;
