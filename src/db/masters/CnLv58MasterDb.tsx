@@ -54,6 +54,27 @@ const CnLv58MasterDb = [
       'https://www.hanshansi.org/download/zx/200703/200703f17.htm', 'https://www.zhonghuadiancang.com/foxuebaodian/17865/335053.html',
       'https://vn.thamtosuthien.net/about/Thien-su-Lai-Qua.phattrien.net', 'https://terebess.hu/zen/mesterek/7.pdf'
     ],
-  }
+  },
+  {
+    id: '91.58.3',
+    hasContent: true,
+    name_en: 'Yuexi Xinyuan',
+    name_ja: '',
+    name_zh: '月溪心圓',
+    name_vi: 'Nguyệt Khê Tâm Viên',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1878?', '1965?'],
+    epoch: '',
+    records: '',
+    sect: [''],
+    country: 'China',
+    place: 'China',
+    teachers: ['Mingxuan Xirui'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: [''],
+  },
 ]
 export default CnLv58MasterDb;
