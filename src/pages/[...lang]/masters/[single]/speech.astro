@@ -9,7 +9,7 @@ export async function getStaticPaths() {
   const paths = await Promise.all(
     supportedLang.map(async (lang) => {
       const posts = await getSinglePage(
-        "speeches",
+        "masters",
         lang as keyof ContentEntryMap
       );
 
@@ -27,7 +27,7 @@ export async function getStaticPaths() {
   return paths.flat();
 }
 
-const slugSpecial = /[single]/speech;
+const slugSpecial = '/[single]/speech';
 const { post } = Astro.props;
 const { title, meta_title, description, image } = post.data;
 ---
