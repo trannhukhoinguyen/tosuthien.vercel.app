@@ -25,7 +25,7 @@ const CnLv26MasterDb = [
     name_en: 'Baozang Puchi',
     name_ja: 'Hōzō Fuji',
     name_zh: '寶藏普持',
-    name_vi: 'Baozang Puchi',
+    name_vi: 'Bảo Tạng Phổ Trì',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',

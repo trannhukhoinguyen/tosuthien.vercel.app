@@ -56,7 +56,9 @@ const {
                     ?.filter(speech => speech.speechMain?.includes(' // '))
                     ?.map((speech) =>
                       <LongSpeechCard
-                        authorName={speech.authorName}
+                       authorTitle={speech.authorTitle}
+
+authorName={speech.authorName}
                         authorImage={speech.authorImage}
                         authorLink={speech.authorLink}
                         speechMain={speech.speechMain}
