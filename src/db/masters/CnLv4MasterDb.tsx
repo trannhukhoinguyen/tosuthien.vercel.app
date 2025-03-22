@@ -138,7 +138,7 @@ const CnLv4MasterDb = [
     id: '37.4.7',
     hasContent: true,
     name_en: 'Huangbo Xiyun',
-    name_ja: 'Obaku kiun',
+    name_ja: 'Obaku Kiun',
     name_zh: '黃蘖希運',
     name_vi: 'Hoàng Bá Hy Vận',
     birth_death_time: ['?', '850'],

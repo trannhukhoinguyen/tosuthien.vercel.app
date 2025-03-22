@@ -1,0 +1,46 @@
+---
+import "../../../styles/additional/MonocolorPeriodicTable.scss"
+
+const { sect, mastersDb } = Astro.props;
+const formatUrl = (url: String) => url.replace(/%20| /g, '-');
+const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g, '');
+---
+
+
+<h1>Zen Masters</h1>
+
+<div class="p-table">
+
+  {
+    mastersDb?.map(master =>
+    <div class="unit unit-1 sans-serif">
+      <div class="type-number">
+          <span class="attributes left">
+            {master.id}
+            </br> {master.epoch}
+          </span>
+        <span class="number right">
+            1
+        </span>
+      </div>
+      <span class="letter">{master.name_en.charAt(0).toString().toUpperCase()}</span>
+      <span class="name">
+        <a
+          target="_blank"
+          href={"/masters/" + formatUrl(removeTextBetweenParentheses(master.name_en.toLowerCase()))}
+          title="read more"
+          className="text-blue-700"
+        >
+          {master.name_en}
+        </a>
+      </span>
+      <div class="author-year">
+          <span class="author left">{master.successors.join(', ')}</span>
+        <span class="year right">1957</span>
+      </div>
+    </div>)
+  }
+
+</div>
+
+
