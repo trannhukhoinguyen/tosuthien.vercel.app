@@ -10,6 +10,9 @@ const FoyanQingyuan = [
       'Một lời tột lý chuyển phàm thành thánh. Mười hai loại này chỉ là một pháp. Hiện định như nay là người nghe pháp rõ ràng vậy. Lại nói được đến chăng? ' +
       'Bèn nói: “Đan quế trong trăng riêng cấm lạnh, mai lạnh trong tuyết riêng phóng hương. Xuống tòa. // ' +
       '\n' +
+      'Từ trên chư Thánh, thấy người ưa dính trần lao, chẳng mong lìa khỏi, bèn sanh lòng thương xót, bảo đó rằng: Ông theo tiếng đuổi sắc, gọi là người cuồng. Đại chúng! Hay thay lời nói ấy. Hổ thẹn thay, chư Thánh nói thế ấy. Tuy nhiên như thế, đã là đánh mở cái túi vải rồi, chẳng thể tách hợp được. Long Môn tôi hôm nay lật ngược tung ra. Có người được đó, hằng dứt mong cầu. Bèn giơ cây gậy lên, rồi dộng xuống đất một cái, nói: Há chẳng phải là tiếng ư? Ông lúc bình thường làm sao theo? Lại giơ cây gậy lên, nói: “Há chẳng phải là sắc ư? Ông bình thường làm sao đuổi? Lại hội chăng? ' +
+      'Nếu hay theo đuổi vốn không bị trói cột, chính là người liễu đạt trong chốn tòng lâm Phiền đứng lâu. // ' +
+      '\n' +
       'Như tăng hỏi Đức Sơn: “Thế nào là việc kỳ đặc?”. Đức Sơn nói: “Tông ta không ngữ cú, không một pháp cho người”. // ' +
       '\n' +
       'Gươm Thái A tiếp ngang, cắt đứt muôn cơ ở trong nắm tay đang nắm. ' +
