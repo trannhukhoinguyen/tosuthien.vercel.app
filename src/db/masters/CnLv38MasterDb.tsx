@@ -12,11 +12,11 @@ const CnLv38MasterDb = [
     epoch: '',
     records: '',
     sect: ['Linji', 'Yangqi'],
-    country: 'China',
+    country: '🇨🇳',
     place: '-',
     teachers: [''],
     successors: [''],
-    disciples: [''],
+    disciples: [],
     image: '/images/avatar.png',
     reference: [''],
   }

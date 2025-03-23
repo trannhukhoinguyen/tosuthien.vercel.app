@@ -97,13 +97,13 @@ export const AllMasters = [
   ...ViMasters,
   ...KoMasters,
 ]
-export const CnGuiyangMasters = AllMasters?.filter(master => master.sect.includes('Guiyang'));
-export const CnLinjiMasters = AllMasters?.filter(master => master.sect.includes('Linji'));
-export const CnCaodongMasters = AllMasters?.filter(master => master.sect.includes('Caodong'));
-export const CnFayanMasters = AllMasters?.filter(master => master.sect.includes('Fayan'));
-export const CnYunmenMasters = AllMasters?.filter(master => master.sect.includes('Yunmen'));
-export const CnYangqiMasters = AllMasters?.filter(master => master.sect.includes('Yangqi'));
-export const CnHuanglongMasters = AllMasters?.filter(master => master.sect.includes('Huanglong'));
+export const CnGuiyangMasters = AllMasters?.filter(master => master.sect?.includes('Guiyang'));
+export const CnLinjiMasters = AllMasters?.filter(master => master.sect?.includes('Linji'));
+export const CnCaodongMasters = AllMasters?.filter(master => master.sect?.includes('Caodong'));
+export const CnFayanMasters = AllMasters?.filter(master => master.sect?.includes('Fayan'));
+export const CnYunmenMasters = AllMasters?.filter(master => master.sect?.includes('Yunmen'));
+export const CnYangqiMasters = AllMasters?.filter(master => master.sect?.includes('Yangqi'));
+export const CnHuanglongMasters = AllMasters?.filter(master => master.sect?.includes('Huanglong'));
 export const AllSectMasters = [
   ...CnGuiyangMasters,
   ...CnLinjiMasters,
@@ -113,5 +113,3 @@ export const AllSectMasters = [
   ...CnYangqiMasters,
   ...CnHuanglongMasters,
 ];
-export const CnOtherMasterDb = CnMasters?.flat().filter(masterDb => masterDb.sect.includes('-'));
-export const OtherMasterDb = AllMasters?.filter(master => master.sect.includes('-'));

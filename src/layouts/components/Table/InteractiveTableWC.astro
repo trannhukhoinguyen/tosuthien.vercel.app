@@ -137,7 +137,7 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
       <div class="controls">
         <button class="filter-btn" data-status="all">All</button>
         <button class="filter-btn" data-status="cancelled">India</button>
-        <button class="filter-btn" data-status="shipped">China</button>
+        <button class="filter-btn" data-status="shipped">🇨🇳</button>
         <button class="filter-btn" data-status="delivered">Japan</button>
         <button class="filter-btn" data-status="cancelled">Linji</button>
         <button class="filter-btn" data-status="shipped">Guiyang</button>
@@ -161,10 +161,9 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
               <th class="date-heading">Birth - Death</th>
               <th class="status-heading">Sect</th>
               <th class="status-heading">Country</th>
-              <th class="price-heading">Place</th>
               <th class="details-heading">Teachers</th>
-              <th class="details-heading">Successors</th>
               <th class="details-heading">Disciples</th>
+              <th class="price-heading">Place</th>
               <th class="details-heading">References</th>
             </tr>
           </thead>
@@ -199,13 +198,12 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
                       { master.birth_death_time.length ? '' : master.epoch }
                     </div>
                   </td>
-                  <td><span class="shipped-status">{ master.sect.join(', ') }</span></td>
+                  <td><span class="shipped-status">{ master.sect?.join(', ') }</span></td>
                   <td><span class="cancelled-status">{ master.country }</span></td>
-                  <td><Tooltip text="⛰⛩" content={ master.place } /></td>
-                  <td><Tooltip text="⬆" content={ master.teachers.join(', ') } /></td>
-                  <td>{ master.successors?.join(', ') }</td>
-                  <td><Tooltip text="⬆" content={ master.disciples?.join(', ') } /></td>
-                  <td><Tooltip text="🧷" content={ master.reference?.join(', ') } /></td>
+                  <td><span title={ master.teachers.length > 1 ? master.teachers?.slice(1)?.join(', ') : "" }>{ master.teachers[0] }</span></td>
+                  <td><span title={ master.disciples.length > 1 ? master.disciples?.slice(1)?.join(', ') : "" }>{ master.disciples[0] }</span></td>
+                  <td>{ master.place }</td>
+                  <td>{ master.reference?.join(', ') }</td>
               </tr>
             )
           }
@@ -214,50 +212,38 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
       </div>
 
       <div class="grid-container">
-
-        <div class="grid-item">
-          <div class="grid-top">
-            <div>
-              <a href="#" class="grid-a">#1000</a>
+        {
+          mastersDb.map((master) => <div class="grid-item">
+              <div class="grid-top">
+                <div><a href="#" class="grid-a">{ master.name_en }</a></div>
+                <div class="grid-date">{ !master.birth_death_time?.every(day => day === '') ? master.birth_death_time.join(' - 🔥 ') : master.epoch ? master.epoch : '' }</div>
+                {
+                  master.sect.length === 1
+                    ? <div><span class="cancelled-status">{ master.sect[0] }</span></div>
+                    : master.sect.length > 1
+                      ? master.sect.map(school => <div><span class="cancelled-status">{school}</span></div>)
+                      : ''
+                }
+                <div><span class="delivered-status">{ master.country }</span></div>
+              </div>
+              {
+                master.teachers.length === 1
+                  ? <div><span class="grid-desc">👨‍🏫 { master.teachers[0] }</span></div>
+                  : master.teachers.length > 1
+                    ? <div>{master.teachers.map(teacher => <span class="grid-desc">‍🏫 {teacher + ', '}</span>)}</div>
+                    : ''
+              }
+              {
+                master.disciples.length === 1
+                  ? <div><span class="grid-desc">👨‍🎓 { master.disciples[0] }</span></div>
+                  : master.disciples.length > 1
+                    ? <div>{master.disciples.map(disciple => <span class="grid-desc">👨‍🎓 {disciple + ', '}</span>)}</div>
+                    : ''
+              }
+              { master.place !== '-' ? <div class="grid-price">🏔⛩ { master.place }</div> : '' }
             </div>
-            <div class="grid-date">10/10/2021</div>
-            <div>
-              <span class="cancelled-status">Cancelled</span>
-            </div>
-          </div>
-          <div class="grid-desc">Kring New Fit Office Chair, Mesh + PU, Black</div>
-          <div class="grid-price">$200.00</div>
-        </div>
-
-        <div class="grid-item">
-          <div class="grid-top">
-            <div>
-              <a href="#" class="grid-a">#1001</a>
-            </div>
-            <div class="grid-date">11/10/2021</div>
-            <div>
-              <span class="shipped-status">Shipped</span>
-            </div>
-          </div>
-          <div class="grid-desc">ErgoFlex Pro Ergonomic Office Chair, Black</div>
-          <div class="grid-price">$250.00</div>
-        </div>
-
-        <div class="grid-item">
-          <div class="grid-top">
-            <div>
-              <a href="#" class="grid-a">#1002</a>
-            </div>
-            <div class="grid-date">12/10/2021</div>
-            <div>
-              <span class="delivered-status">Delivered</span>
-            </div>
-          </div>
-          <div class="grid-desc">Executive Leather Office Chair, Brown
-          </div>
-          <div class="grid-price">$180.00
-          </div>
-        </div>
+          )
+        }
       </div>
     </div>
   </body>
