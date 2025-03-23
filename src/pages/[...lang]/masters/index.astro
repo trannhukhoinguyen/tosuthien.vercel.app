@@ -1,5 +1,4 @@
 ---
-import Table from "../../../layouts/shortcodes/Table.tsx";
 import {
   AllMasters,
   CnMasters,
@@ -19,7 +18,9 @@ import {
 } from "@/lib/utils/languageParser";
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
+import TailwindCSSTable from "../../../layouts/components/Table/TailwindCSSTable";
 import MonocolorPeriodicTable from "../../../layouts/components/Chart/MonocolorPeriodicTable.astro";
+
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -37,7 +38,7 @@ const postIndex = await getListPage(
 );
 const posts = await getSinglePage("masters", lang as keyof ContentEntryMap);
 const {
-  in_masters, cn_masters, vi_masters, jp_masters, level_, level__,
+
 } = await getTranslations(lang as keyof ContentEntryMap);
 ---
 
@@ -52,27 +53,8 @@ const {
   <div class="container">
     <MonocolorPeriodicTable mastersDb={AllMasters} />
   </div>
-
-  <!--  <div class="container">
-      <h2>{ in_masters }</h2>
-      <Table client:load data={InMasters} lang={lang? lang : 'vi'} />
-    </div>
-
-    <div class="container">
-      <h2>{ cn_masters } - { level_ }</h2>
-      <Table client:load data={CnMasters[0]} lang={lang? lang : 'vi'}/>
-    </div>
-
-    {
-      CnMasters
-       ?.filter((master, index) => index!==0)
-       ?.map((CnMaster, CnMasterIndex) =>
-      <div class="container">
-        <h2>{ cn_masters } - { level__ } {CnMasterIndex+1}</h2>
-        <Table client:load data={CnMaster} lang={lang? lang : 'vi'}/>
-      </div>
-        )
-      }-->
-
+  <div class="container">
+    <TailwindCSSTable data={AllMasters} />
+  </div>
 
 </Base>

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import sectDb from "../../../src/db/sectDb.tsx";
+import sectDb from "../../../../src/db/sectDb.tsx";
 import '@/styles/table.css';
 import Modal from "@/shortcodes/Modal.tsx";
 
