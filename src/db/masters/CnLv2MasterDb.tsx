@@ -281,7 +281,7 @@ const CnLv2MasterDb = [
     name_ja: 'Cao bưu Đàm Ảnh',
     name_zh: 'Cao bưu Đàm Ảnh',
     name_vi: 'Cao bưu Đàm Ảnh',
-    birth_death_time: ['?', '?'],
+    birth_death_time: ['', ''],
     records: '',
     sect: ['-'],
     country: 'China',

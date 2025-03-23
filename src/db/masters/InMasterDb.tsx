@@ -718,7 +718,7 @@ const InMasterDb = [
     name_ja: 'Vinitaruci',
     name_zh: '毘尼多流支',
     name_vi: 'Tì-ni-đa-lưu-chi (Diệt Hỉ)',
-    birth_death_time: ['?', '594'],
+    birth_death_time: ['', '594'],
     sect: ['-'],
     country: 'India',
     place: '-',

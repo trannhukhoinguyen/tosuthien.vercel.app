@@ -59,7 +59,7 @@ const CnLv9MasterDb = [
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
-    birth_death_time: ['?', '1031'],
+    birth_death_time: ['', '1031'],
     epoch: '',
     records: '',
     sect: ['Yunmen'],

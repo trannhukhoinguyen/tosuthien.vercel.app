@@ -43,9 +43,40 @@ const Modal: React.FC<ModalProps> = ({ lang, content, title }: { lang: string | 
 
       {/* Modal */}
       {isModalOpen && (
-        <div style={modalStyles.overlay} onClick={handleOverlayClick}>
-          <div style={modalStyles.modal}>
-            <button onClick={closeModal} style={modalStyles.closeButton}>❌</button>
+        <div
+          style={{
+            position: 'fixed',
+            top: 0,
+            left: 0,
+            width: '100%',
+            height: '100%',
+            backgroundColor: 'rgba(0, 0, 0, 0.6)',
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+          }}
+          onClick={handleOverlayClick}
+        >
+          <div
+            style={{
+              backgroundColor: '#ffffff',
+              padding: '12px',
+              borderRadius: '8px',
+              maxWidth: '1000px',
+              width: '100%',
+              zIndex: '1001',
+            }}
+          >
+            <button
+              onClick={closeModal}
+              style={{
+                padding: 0,
+                color: '#fff',
+                float: 'right',
+                border: 'none',
+                cursor: 'pointer',
+              }}
+            >❌</button>
             <ModalContent lang={lang} content={content} />
           </div>
         </div>

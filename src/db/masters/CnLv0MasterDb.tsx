@@ -315,7 +315,7 @@ const CnLv0MasterDb = [
     name_ja: 'Thượng Nguyên Trí Thành',
     name_zh: 'Thượng Nguyên Trí Thành',
     name_vi: 'Thượng Nguyên Trí Thành',
-    birth_death_time: ['?', '?'],
+    birth_death_time: ['', ''],
     epoch: '',
     records: '',
     sect: ['-'],

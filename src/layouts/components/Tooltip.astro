@@ -1,0 +1,50 @@
+---
+import TextSlider from "../components/TextSlider.astro";
+import Arrow from "../../assets/images/arrow.svg";
+
+type Props = {
+  text: string;
+  content: string;
+};
+
+const { text, content } = Astro.props;
+---
+
+<style>
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  .tooltip .tooltip-text {
+    visibility: hidden;
+    min-width: 100%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    border-radius: 4px;
+
+    /* Positioning */
+    position: absolute;
+    z-index: 10;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%);
+
+    /* Animation */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .tooltip:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+  }
+</style>
+
+<span class="tooltip">
+  { text }
+  <span class="tooltip-text">{ content }</span>
+</span>

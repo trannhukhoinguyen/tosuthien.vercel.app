@@ -1,0 +1,507 @@
+---
+import Modal from "../../shortcodes/Modal";
+import Tooltip from "../Tooltip.astro";
+
+const { mastersDb, lang } = Astro.props;
+const formatUrl = (url: String) => url.replace(/%20| /g, '-');
+const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g, '');
+---
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    const tableRows = document.querySelectorAll('.table tbody tr');
+    const gridItems = document.querySelectorAll('.grid-item');
+
+    tableRows.forEach((row, index) => {
+      row.addEventListener('click', () => {
+        highlightItem(index);
+      });
+    });
+
+    gridItems.forEach((item, index) => {
+      item.addEventListener('click', () => {
+        highlightItem(index);
+      });
+    });
+
+    function highlightItem(index) {
+      tableRows.forEach(row => row?.classList.remove('highlight'));
+      gridItems.forEach(item => item?.classList.remove('highlight'));
+
+      tableRows[index]?.classList.add('highlight');
+      gridItems[index]?.classList.add('highlight');
+    }
+  });
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const tableRows = document.querySelectorAll('.table tbody tr');
+    const gridItems = document.querySelectorAll('.grid-item');
+
+    // Highlight rows and grid items on click
+    tableRows.forEach((row, index) => {
+      row.addEventListener('click', () => {
+        highlightItem(index);
+      });
+    });
+
+    gridItems.forEach((item, index) => {
+      item.addEventListener('click', () => {
+        highlightItem(index);
+      });
+    });
+
+    function highlightItem(index) {
+      tableRows.forEach(row => row?.classList.remove('highlight'));
+      gridItems.forEach(item => item?.classList.remove('highlight'));
+
+      tableRows[index]?.classList.add('highlight');
+      gridItems[index]?.classList.add('highlight');
+    }
+
+    // Filter orders by status
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const status = btn.getAttribute('data-status');
+        filterByStatus(status);
+      });
+    });
+
+    function filterByStatus(status) {
+      tableRows.forEach((row, index) => {
+        const rowStatus = row.querySelector('span').textContent.toLowerCase();
+        if (status === 'all' || rowStatus === status) {
+          row.style.display = '';
+          gridItems[index].style.display = '';
+        } else {
+          row.style.display = 'none';
+          gridItems[index].style.display = 'none';
+        }
+      });
+    }
+
+    /// Sort orders by date
+    document.querySelector('.sort-btn').addEventListener('click', () => {
+      sortByDate();
+    });
+
+    function sortByDate() {
+      const rowsArray = Array.from(tableRows);
+      const itemsArray = Array.from(gridItems);
+
+      rowsArray.sort((a, b) => {
+        const dateA = new Date(a.children[3].textContent);
+        const dateB = new Date(b.children[3].textContent);
+        return dateA - dateB;
+      });
+
+      itemsArray.sort((a, b) => {
+        const dateA = new Date(a.querySelector('.grid-date').textContent);
+        const dateB = new Date(b.querySelector('.grid-date').textContent);
+        return dateA - dateB;
+      });
+
+      const tableBody = document.querySelector('.table tbody');
+      tableBody.innerHTML = '';
+      rowsArray.forEach(row => tableBody.appendChild(row));
+
+      const gridContainer = document.querySelector('.grid-container');
+      gridContainer.innerHTML = '';
+      itemsArray.forEach(item => gridContainer.appendChild(item));
+    }
+
+    // Search orders by details
+    document.querySelector('.search-input').addEventListener('input', (event) => {
+      const query = event.target.value.toLowerCase();
+      searchOrders(query);
+    });
+
+    function searchOrders(query) {
+      tableRows.forEach((row, index) => {
+        const details = row.querySelector('td:nth-child(2)').textContent.toLowerCase();
+        if (details.includes(query)) {
+          row.style.display = '';
+          gridItems[index].style.display = '';
+        } else {
+          row.style.display = 'none';
+          gridItems[index].style.display = 'none';
+        }
+      });
+    }
+  });
+</script>
+
+<html lang="en">
+  <body>
+    <div class="container">
+
+      <div class="controls">
+        <button class="filter-btn" data-status="all">All</button>
+        <button class="filter-btn" data-status="cancelled">India</button>
+        <button class="filter-btn" data-status="shipped">China</button>
+        <button class="filter-btn" data-status="delivered">Japan</button>
+        <button class="filter-btn" data-status="cancelled">Linji</button>
+        <button class="filter-btn" data-status="shipped">Guiyang</button>
+        <button class="filter-btn" data-status="delivered">Yunmen</button>
+        <button class="filter-btn" data-status="delivered">Caodong</button>
+        <button class="filter-btn" data-status="delivered">Fayan</button>
+        <button class="filter-btn" data-status="delivered">No school</button>
+        <button class="sort-btn">Sort by Date</button>
+        <input type="text" class="search-input" placeholder="Search orders...">
+      </div>
+
+      <div class="table-container">
+        <table class="table">
+          <thead class="table-header">
+            <tr class="table-header-row">
+              <th class="key-heading">ID</th>
+              <th class="details-heading">English Name</th>
+              <th class="details-heading">Japanese Name</th>
+              <th class="details-heading">Chinese Name</th>
+              <th class="details-heading">Vietnamese Name</th>
+              <th class="date-heading">Birth - Death</th>
+              <th class="status-heading">Sect</th>
+              <th class="status-heading">Country</th>
+              <th class="price-heading">Place</th>
+              <th class="details-heading">Teachers</th>
+              <th class="details-heading">Successors</th>
+              <th class="details-heading">Disciples</th>
+              <th class="details-heading">References</th>
+            </tr>
+          </thead>
+
+          <tbody>
+          {
+            mastersDb.map((master) =>
+              <tr>
+                  <td>{ master.id }</td>
+                  <td>
+                    {
+                      master.hasContent
+                        ? <a
+                            target="_blank"
+                            href={"/masters/" + formatUrl(removeTextBetweenParentheses(master.name_en.toLowerCase()))}
+                            title={ master.hasContent ? "read more" : master.other_name_en ? master.other_name_en : "" }
+                            class="text-blue-700"
+                          >
+                            { master.name_en }
+                          </a>
+                        : <span title={ master.other_name_en ? master.other_name_en : "" }>{ master.name_en }</span>
+                    }
+                  </td>
+                  <td><span title={ master.other_name_ja ? master.other_name_ja : "" }>{ master.name_ja }</span></td>
+                  <td><span title={ master.other_name_zh ? master.other_name_zh : "" }>{ master.name_zh }</span></td>
+                  <td><span title={ master.other_name_vi ? master.other_name_vi : "" }>{ master.name_vi }</span></td>
+                  <td class="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
+                    <div class="flex items-center">
+                      <span class="mr-1">{ master.birth_death_time[0] }</span>
+                      <span class="mr-1">{ master.birth_death_time[0] && master.birth_death_time[1] ? '⇨' : '' }</span>
+                      <span class="mr-1">{ master.birth_death_time[1] }</span>
+                      { master.birth_death_time.length ? '' : master.epoch }
+                    </div>
+                  </td>
+                  <td><span class="shipped-status">{ master.sect.join(', ') }</span></td>
+                  <td><span class="cancelled-status">{ master.country }</span></td>
+                  <td><Tooltip text="⛰⛩" content={ master.place } /></td>
+                  <td><Tooltip text="⬆" content={ master.teachers.join(', ') } /></td>
+                  <td>{ master.successors?.join(', ') }</td>
+                  <td><Tooltip text="⬆" content={ master.disciples?.join(', ') } /></td>
+                  <td><Tooltip text="🧷" content={ master.reference?.join(', ') } /></td>
+              </tr>
+            )
+          }
+          </tbody>
+        </table>
+      </div>
+
+      <div class="grid-container">
+
+        <div class="grid-item">
+          <div class="grid-top">
+            <div>
+              <a href="#" class="grid-a">#1000</a>
+            </div>
+            <div class="grid-date">10/10/2021</div>
+            <div>
+              <span class="cancelled-status">Cancelled</span>
+            </div>
+          </div>
+          <div class="grid-desc">Kring New Fit Office Chair, Mesh + PU, Black</div>
+          <div class="grid-price">$200.00</div>
+        </div>
+
+        <div class="grid-item">
+          <div class="grid-top">
+            <div>
+              <a href="#" class="grid-a">#1001</a>
+            </div>
+            <div class="grid-date">11/10/2021</div>
+            <div>
+              <span class="shipped-status">Shipped</span>
+            </div>
+          </div>
+          <div class="grid-desc">ErgoFlex Pro Ergonomic Office Chair, Black</div>
+          <div class="grid-price">$250.00</div>
+        </div>
+
+        <div class="grid-item">
+          <div class="grid-top">
+            <div>
+              <a href="#" class="grid-a">#1002</a>
+            </div>
+            <div class="grid-date">12/10/2021</div>
+            <div>
+              <span class="delivered-status">Delivered</span>
+            </div>
+          </div>
+          <div class="grid-desc">Executive Leather Office Chair, Brown
+          </div>
+          <div class="grid-price">$180.00
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+<style lang="scss">
+  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+  /* Remove this to use full screen width */
+  body{
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .container{
+    display: block;
+    padding-top: 24px;
+    background-color: #edf2f7;
+  }
+
+  h1{
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .table-container{
+    overflow: auto;
+    border-radius: .8rem;
+    box-shadow: 0 0 0.5rem rgba(39, 38, 38, 0.1);
+    display: none;
+  }
+
+  @media (min-width: 768px) {
+    .table-container {
+      display: block;
+    }
+  }
+
+
+  table {
+    width: 100%;
+  }
+
+  .table-header{
+    background-color: #f9fafb;
+    border-bottom-width: 0.125rem;
+    border-color: #edf2f7;
+  }
+
+  .table-header-row{
+    background-color: #ff4b4b;
+    border-bottom-width: 0.125rem;
+    border-color: #edf2f7;
+  }
+
+  .key-heading{
+    width: 3.75rem;
+    padding: 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    text-align: left;
+  }
+
+  .details-heading{
+    padding: 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    text-align: left;
+  }
+
+  .status-heading{
+    width: 6rem;
+    padding: 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    text-align: left;
+  }
+
+  .date-heading{
+    /* padding: 1.5rem;  */
+    padding: 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    text-align: left;
+  }
+
+  .price-heading{
+    /* padding: 2rem;  */
+    padding: 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    text-align: left;
+  }
+
+  tbody{
+    border-color: #edf2f7;
+  }
+
+  tr{
+    background-color: #ffffff;
+  }
+
+  .tr-even{
+    background-color: #f9fafb;
+  }
+
+  td{
+    padding: 0.75rem;
+    font-size: 0.875rem;
+    color: #4a5568;
+    white-space: nowrap;
+  }
+
+  a{
+    font-weight: 600;
+    color: #212121;
+    text-decoration: none;
+  }
+
+  a:hover{
+    text-decoration: underline;
+  }
+
+  .cancelled-status{
+    padding: 0.375rem;
+    font-size: 0.625rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    color: #4b5563;
+    background-color: rgba(155, 160, 166, 0.5);
+    border-radius: 0.25rem;
+    opacity: 0.5;
+  }
+
+  .shipped-status{
+    padding: 0.375rem;
+    font-size: 0.625rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    color: #2b3137;
+    background-color: rgba(252, 211, 77, 0.5);
+    border-radius: 0.25rem;
+    opacity: 0.5;
+  }
+
+  .delivered-status{
+    padding: 0.375rem;
+    font-size: 0.625rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    color: #234d20;
+    /* color: #16D022; */
+    background-color: rgba(60, 191, 97, 0.5);
+    /* background-color: rgba(22, 208, 34, 1); */
+    border-radius: 0.25rem;
+    opacity: 0.5;
+  }
+
+  .grid-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    display: none;
+  }
+
+  @media (max-width: 768px) {
+    .grid-container {
+      display: block;
+    }
+  }
+
+  .grid-item{
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+  }
+
+  .grid-top{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+    color: #374151;
+    margin-bottom: .5rem;
+  }
+
+  .grid-date{
+    color: #9ca3af;
+  }
+
+  .grid-desc{
+    font-size: 0.875rem;
+    color: #4b5563;
+    margin-bottom: .5rem;
+  }
+
+  .grid-price{
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #000000;
+  }
+
+  .grid-a{
+    font-weight: 600;
+    color: #ff4b4b;
+    text-decoration: none;
+  }
+
+  .highlight {
+    background-color: #f0f0f0;
+  }
+
+  .controls {
+    margin-bottom: 1em;
+    display: none;
+  }
+
+  @media (min-width: 768px) {
+    .controls {
+      display: block;
+    }
+  }
+
+
+  .filter-btn, .sort-btn, .search-input {
+    margin-right: 1em;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    font-weight: 600;
+    color: #212121;
+    text-decoration: none;
+    border-radius: .5rem;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+    border-color: #edf2f7;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .sort-btn {
+    background-color: #c7f8db;
+  }
+</style>

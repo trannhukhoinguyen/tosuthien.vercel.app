@@ -19,6 +19,7 @@ import {
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
 import TailwindCSSTable from "../../../layouts/components/Table/TailwindCSSTable";
+import InteractiveTableWC from "../../../layouts/components/Table/InteractiveTableWC.astro";
 import MonocolorPeriodicTable from "../../../layouts/components/Chart/MonocolorPeriodicTable.astro";
 
 
@@ -51,10 +52,11 @@ const {
   <PageHeader title={"Zen Master"} />
 
   <div class="container">
-    <MonocolorPeriodicTable mastersDb={AllMasters} />
+    <InteractiveTableWC mastersDb={AllMasters} lang={lang} />
   </div>
   <div class="container">
-    <TailwindCSSTable data={AllMasters} />
+    <MonocolorPeriodicTable mastersDb={AllMasters} />
   </div>
+
 
 </Base>

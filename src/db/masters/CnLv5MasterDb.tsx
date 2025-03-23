@@ -356,7 +356,7 @@ const CnLv5MasterDb = [
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
-    birth_death_time: ['-', '895'],
+    birth_death_time: ['', '895'],
     epoch: '',
     records: '',
     sect: ['-'],
