@@ -68,14 +68,14 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
                         : <div title={ master.other_name_en ? master.other_name_en : "" }>{ master.name_en }</div>
                     }
                   </td>
-                  <td><div title={ master.other_name_ja ? master.other_name_ja : "" }>{ master.name_ja }</div></td>
-                  <td><div title={ master.other_name_zh ? master.other_name_zh : "" }>{ master.name_zh }</div></td>
-                  <td><div title={ master.other_name_vi ? master.other_name_vi : "" }>{ master.name_vi }</div></td>
+                  <td><span title={ master.other_name_ja ? master.other_name_ja : "" }>{ master.name_ja }</span></td>
+                  <td><span title={ master.other_name_zh ? master.other_name_zh : "" }>{ master.name_zh }</span></td>
+                  <td><span title={ master.other_name_vi ? master.other_name_vi : "" }>{ master.name_vi }</span></td>
                   <td class="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
                     <div class="flex items-center">
-                      <div class="mr-1">{ master.birth_death_time[0] }</div>
-                      <div class="mr-1">{ master.birth_death_time[0] && master.birth_death_time[1] ? '⇨' : '' }</div>
-                      <div class="mr-1">{ master.birth_death_time[1] }</div>
+                      <span class="mr-1">{ master.birth_death_time[0] }</span>
+                      <span class="mr-1">{ master.birth_death_time[0] && master.birth_death_time[1] ? '⇨' : '' }</span>
+                      <span class="mr-1">{ master.birth_death_time[1] }</span>
                       { master.birth_death_time.length ? '' : master.epoch }
                     </div>
                   </td>
@@ -100,8 +100,8 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
                             ? "vietnam-tag"
                             : "korea-tag"
                   }>{ master.country === '🇮🇳'? "India" : master.country === '🇨🇳' ? "China" : master.country === '🇯🇵' ? "Japan" : master.country === '🇻🇳' ? "Vietnam" : "Korea" }</span></td>
-                  <td><div title={ master.teachers.length > 1 ? master.teachers?.slice(1)?.join(', ') : "" }>{ master.teachers[0] }</div></td>
-                  <td><div title={ master.disciples.length > 1 ? master.disciples?.slice(1)?.join(', ') : "" }>{ master.disciples[0] }</div></td>
+                  <td><span title={ master.teachers.length > 1 ? master.teachers?.slice(1)?.join(', ') : "" }>{ master.teachers[0] }</span></td>
+                  <td><span title={ master.disciples.length > 1 ? master.disciples?.slice(1)?.join(', ') : "" }>{ master.disciples[0] }</span></td>
                   <td>{ master.place }</td>
                   <td>{ master.reference?.join(', ') }</td>
               </tr>
@@ -157,14 +157,14 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
               </div>
               {
                 master.teachers.length === 1
-                  ? <div class="grid-desc">👨‍🏫 { master.teachers[0] }</div>
+                  ? <span class="grid-desc">👨‍🏫 { master.teachers[0] }</span>
                   : master.teachers.length > 1
                     ? master.teachers.map(teacher => <div class="grid-desc">‍🏫 {teacher + ', '}</div>)
                     : ''
               }
               {
                 master.disciples.length === 1
-                  ? <div class="grid-desc">👨‍🎓 { master.disciples[0] }</div>
+                  ? <span class="grid-desc">👨‍🎓 { master.disciples[0] }</span>
                   : master.disciples.length > 1
                     ? master.disciples.map(disciple => <div class="grid-desc">👨‍🎓 {disciple + ', '}</div>)
                     : ''
