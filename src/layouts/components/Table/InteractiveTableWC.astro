@@ -4,6 +4,7 @@ import Tooltip from "../Tooltip.astro";
 import "../../../styles/additional/InteractiveTableWC.scss";
 
 const { mastersDb, lang } = Astro.props;
+const uniqueMastersDb = [...new Map(mastersDb.map(item => [item.id, item])).values()];
 const formatUrl = (url: String) => url.replace(/%20| /g, '-');
 const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g, '');
 ---
@@ -50,7 +51,7 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
 
           <tbody>
           {
-            mastersDb.map((master) =>
+            uniqueMastersDb?.map((master) =>
               <tr>
                   <td>{ master.id }</td>
                   <td>
