@@ -4,7 +4,7 @@ const CnLv58MasterDb = [
     hasContent: true,
     name_en: 'Deqing Yanche',
     other_name_en: 'Xuyun, Hsu Yun, Xuyun Xingche',
-    name_ja: 'Deqing Yanche',
+    name_ja: '',
     name_zh: '德清演徹',
     other_name_zh: '虛雲性徹',
     nickname_zh: '虛雲',

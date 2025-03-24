@@ -354,9 +354,9 @@ const InMasterDb = [
   },
 {
     id: '16',
-  name_en: 'Rahulata',
-    name_ja: 'Ragorata',
+    name_en: 'Rahulata',
     name_zh: '羅睺羅多',
+    name_ja: 'Ragorata',
     name_vi: 'La-Hầu-La-Đa',
     other_name_vi: '',
     nickname_vi: '',
@@ -371,13 +371,12 @@ const InMasterDb = [
     disciples: ['Sanghanandi'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '17',
     name_en: 'Sanghanandi',
-    name_zh: '僧伽難提',
     name_ja: 'Sōgyanandai',
+    name_zh: '僧伽難提',
     name_vi: 'Tăng Già Nan Đề',
     other_name_vi: '',
     nickname_vi: '',
@@ -392,13 +391,12 @@ const InMasterDb = [
     disciples: ['Gayasata'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '18',
     name_en: 'Gayasata',
-    name_zh: '僧伽舍多',
     name_ja: 'Sōgyayasha',
+    name_zh: '僧伽舍多',
     name_vi: 'Già Da Xá Đa',
     other_name_vi: '',
     nickname_vi: '',
@@ -413,12 +411,11 @@ const InMasterDb = [
     disciples: ['Kumarata'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '19',
     name_en: 'Kumarata',
-    name_ja: 'Kumorata',
+    name_ja: '',
     other_name_ja: 'Kumarata',
     name_zh: '鳩摩羅多',
     name_vi: 'Cưu-Ma-La-Đa',
@@ -435,7 +432,6 @@ const InMasterDb = [
     disciples: ['Jayata'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '20',
@@ -456,7 +452,6 @@ const InMasterDb = [
     disciples: ['Vasubandhu'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
 {
     id: '21',
@@ -473,7 +468,6 @@ const InMasterDb = [
     disciples: ['Manorhita'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
 {
     id: '22',
@@ -481,7 +475,7 @@ const InMasterDb = [
     name_ja: 'Manura',
     name_zh: '摩拏羅',
     name_vi: 'Ma-Noa-La',
-  birth_death_time: ['', ''],
+    birth_death_time: ['', ''],
     sect: [],
     country: '🇮🇳',
     place: '-',
@@ -490,7 +484,6 @@ const InMasterDb = [
     disciples: ['Haklena'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '23',
@@ -507,7 +500,6 @@ const InMasterDb = [
     disciples: ['Aryasimha'],
     image: '/images/avatar.png',
     reference: ['',],
-
   },
   {
     id: '24',
@@ -529,7 +521,6 @@ const InMasterDb = [
   },
   {
     id: '25.1',
-
     name_en: 'Basiasita',
     other_name_en: 'Vasiasita',
     name_ja: 'Bashashita',
@@ -604,7 +595,7 @@ const InMasterDb = [
     country: '🇮🇳',
     place: '-',
     teachers: ['Đạt Ma Đạt'],
-    successors: [''],
+    successors: [],
     disciples: ['Bà La Bạt Ma', 'Tăng Già La Xoa'],
     image: '/images/avatar.png',
     reference: ['',],
@@ -715,19 +706,20 @@ const InMasterDb = [
     id: '31.2',
     hasContent: true,
     name_en: 'Vinitaruci',
-    name_ja: 'Vinitaruci',
+    other_name_en: 'Miexi',
+    name_ja: '',
     name_zh: '毘尼多流支',
-    name_vi: 'Tì-ni-đa-lưu-chi (Diệt Hỉ)',
+    name_vi: 'Tì-ni-đa-lưu-chi',
+    other_name_vi: 'Diệt Hỉ',
     birth_death_time: ['', '594'],
-    sect: [],
+    sect: ['Miexi'],
     country: '🇮🇳',
     place: '-',
     teachers: ['Jianzhi Sengcan'],
-    successors: ['Chúng Thiện Pháp Hiền'],
-    disciples: ['Chúng Thiện Pháp Hiền'],
+    successors: ['Zhongshan Faxian'],
+    disciples: ['Zhongshan Faxian'],
     image: '/',
-    reference: ['Diệt Hỉ Thiền phái (滅喜禪派)'],
-    youtubeId: [''],
+    reference: [''],
   },
   {
     id: '34.1.7',

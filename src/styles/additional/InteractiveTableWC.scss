@@ -1,0 +1,307 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+/* Remove this to use full screen width */
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+.table-wrapper{
+  display: block;
+  padding-top: 24px;
+  background-color: #edf2f7;
+}
+
+h1{
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.table-container{
+  overflow: auto;
+  border-radius: .8rem;
+  box-shadow: 0 0 0.5rem rgba(39, 38, 38, 0.1);
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .table-container {
+    display: block;
+  }
+}
+
+
+table {
+  width: 100%;
+}
+
+.table-header{
+  background-color: #f9fafb;
+  border-bottom-width: 0.125rem;
+  border-color: #edf2f7;
+}
+
+.table-header-row{
+  background-color: #ff4b4b;
+  border-bottom-width: 0.125rem;
+  border-color: #edf2f7;
+}
+
+.key-heading{
+  width: 3.75rem;
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-align: left;
+}
+
+.details-heading{
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-align: left;
+}
+
+.status-heading{
+  width: 6rem;
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-align: left;
+}
+
+.date-heading{
+  /* padding: 1.5rem;  */
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-align: left;
+}
+
+.price-heading{
+  /* padding: 2rem;  */
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  text-align: left;
+}
+
+tbody{
+  border-color: #edf2f7;
+}
+
+tr{
+  background-color: #ffffff;
+}
+
+.tr-even{
+  background-color: #f9fafb;
+}
+
+td{
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  color: #4a5568;
+  white-space: nowrap;
+}
+
+a{
+  font-weight: 600;
+  color: #212121;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.india-status{
+  padding: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #f55106;
+  background-color: rgb(161, 248, 133);
+  border-radius: 0.25rem;
+  opacity: 0.5;
+}
+.china-status{
+  padding: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #fdf302;
+  background-color: rgb(245, 52, 52);
+  border-radius: 0.25rem;
+  opacity: 0.5;
+}
+.japan-status{
+  padding: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  background-color: rgb(243, 7, 7);
+  border-radius: 0.25rem;
+  opacity: 0.5;
+}
+.vietnam-status{
+  padding: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #f30707;
+  background-color: rgb(255, 251, 0);
+  border-radius: 0.25rem;
+  opacity: 0.5;
+}
+.korea-status{
+  padding: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #f30707;
+  background-color: rgb(113, 179, 241);
+  border-radius: 0.25rem;
+  opacity: 0.5;
+}
+
+.linji-status{
+  padding: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #5b006e;
+  background-color: rgb(255, 251, 0);
+  border-radius: 0.25rem;
+  opacity: 0.5;
+}
+.guiyang-status{
+  padding: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #ecf2f8;
+  background-color: rgba(6, 103, 26, 0.5);
+  border-radius: 0.25rem;
+  opacity: 0.5;
+}
+.caodong-status{
+  padding: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #ecf2f8;
+  background-color: rgb(0, 44, 255);
+  border-radius: 0.25rem;
+  opacity: 0.5;
+}
+.yunmen-status{
+  padding: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  background-color: rgb(255, 0, 204);
+  border-radius: 0.25rem;
+  opacity: 0.5;
+}
+.fayan-status{
+  padding: 0.375rem;
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: #ecf2f8;
+  background-color: rgb(143, 43, 7);
+  border-radius: 0.25rem;
+  opacity: 0.5;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .grid-container {
+    display: block;
+  }
+}
+
+.grid-item{
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+}
+
+.grid-top{
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: #374151;
+  margin-bottom: .5rem;
+}
+
+.grid-date{
+  color: #9ca3af;
+}
+
+.grid-desc{
+  font-size: 0.875rem;
+  color: #4b5563;
+  margin-bottom: .5rem;
+}
+
+.grid-price{
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #000000;
+}
+
+.grid-a{
+  font-weight: 600;
+  color: #ff4b4b;
+  text-decoration: none;
+}
+
+.highlight {
+  background-color: #f0f0f0;
+}
+
+.controls {
+  margin-bottom: 1em;
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .controls {
+    display: block;
+  }
+}
+
+
+.filter-btn, .sort-btn, .search-input {
+  margin-right: 1em;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  font-weight: 600;
+  color: #212121;
+  text-decoration: none;
+  border-radius: .5rem;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+  border-color: #edf2f7;
+  font-family: "Poppins", sans-serif;
+}
+
+.sort-btn {
+  background-color: #c7f8db;
+}

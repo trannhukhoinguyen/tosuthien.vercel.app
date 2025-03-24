@@ -1,11 +1,181 @@
 ---
 import Modal from "../../shortcodes/Modal";
 import Tooltip from "../Tooltip.astro";
+import "../../../styles/additional/InteractiveTableWC.scss";
 
 const { mastersDb, lang } = Astro.props;
 const formatUrl = (url: String) => url.replace(/%20| /g, '-');
 const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g, '');
 ---
+
+
+<html lang="en">
+  <body>
+    <div class="table-wrapper">
+
+      <div class="controls">
+        <button class="filter-btn" data-tag="all">All</button>
+        <button class="filter-btn" data-tag="india">🇮🇳</button>
+        <button class="filter-btn" data-tag="china">🇨🇳</button>
+        <button class="filter-btn" data-tag="japan">🇯🇵</button>
+        <button class="filter-btn" data-tag="vietnam">🇻🇳</button>
+        <button class="filter-btn" data-tag="korea">🇰🇷</button>
+        <button class="filter-btn" data-tag="linji">Linji</button>
+        <button class="filter-btn" data-tag="guiyang">Guiyang</button>
+        <button class="filter-btn" data-tag="yunmen">Yunmen</button>
+        <button class="filter-btn" data-tag="caodong">Caodong</button>
+        <button class="filter-btn" data-tag="fayan">Fayan</button>
+        <button class="sort-btn">Sort by Name</button>
+        <input type="text" class="search-input" placeholder="Search by English name...">
+      </div>
+
+      <div class="table-container">
+        <table class="table">
+          <thead class="table-header">
+            <tr class="table-header-row">
+              <th class="key-heading">ID</th>
+              <th class="details-heading">English Name</th>
+              <th class="details-heading">Japanese Name</th>
+              <th class="details-heading">Chinese Name</th>
+              <th class="details-heading">Vietnamese Name</th>
+              <th class="date-heading">Birth - Death</th>
+              <th class="tag-heading">Sect</th>
+              <th class="tag-heading">Country</th>
+              <th class="details-heading">Teachers</th>
+              <th class="details-heading">Disciples</th>
+              <th class="price-heading">Place</th>
+              <th class="details-heading">References</th>
+            </tr>
+          </thead>
+
+          <tbody>
+          {
+            mastersDb.map((master) =>
+              <tr>
+                  <td>{ master.id }</td>
+                  <td>
+                    {
+                      master.hasContent
+                        ? <a
+                            target="_blank"
+                            href={"/masters/" + formatUrl(removeTextBetweenParentheses(master.name_en.toLowerCase()))}
+                            title={ master.hasContent ? "read more" : master.other_name_en ? master.other_name_en : "" }
+                            class="text-blue-700"
+                          >
+                            { master.name_en }
+                          </a>
+                        : <div title={ master.other_name_en ? master.other_name_en : "" }>{ master.name_en }</div>
+                    }
+                  </td>
+                  <td><div title={ master.other_name_ja ? master.other_name_ja : "" }>{ master.name_ja }</div></td>
+                  <td><div title={ master.other_name_zh ? master.other_name_zh : "" }>{ master.name_zh }</div></td>
+                  <td><div title={ master.other_name_vi ? master.other_name_vi : "" }>{ master.name_vi }</div></td>
+                  <td class="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
+                    <div class="flex items-center">
+                      <div class="mr-1">{ master.birth_death_time[0] }</div>
+                      <div class="mr-1">{ master.birth_death_time[0] && master.birth_death_time[1] ? '⇨' : '' }</div>
+                      <div class="mr-1">{ master.birth_death_time[1] }</div>
+                      { master.birth_death_time.length ? '' : master.epoch }
+                    </div>
+                  </td>
+                  <td><span class={ master.sect[0] === 'Linji'
+                            ? "linji-tag"
+                            : master.sect[0] === 'Caodong'
+                            ? "caodong-tag"
+                            : master.sect[0] === 'Guiyang'
+                            ? "guiyan-tag"
+                            : master.sect[0] === 'Yunmen'
+                            ? "yunmen-tag"
+                            : master.sect[0] === 'Fayan'
+                            ? "fayan-tag" : ""
+                  }>{ master.sect?.join(', ') }</span></td>
+                  <td><span class={ master.country === '🇮🇳'
+                            ? "india-tag"
+                            : master.country === '🇨🇳'
+                            ? "china-tag"
+                            : master.country === '🇯🇵'
+                            ? "japan-tag"
+                            : master.country === '🇻🇳'
+                            ? "vietnam-tag"
+                            : "korea-tag"
+                  }>{ master.country === '🇮🇳'? "India" : master.country === '🇨🇳' ? "China" : master.country === '🇯🇵' ? "Japan" : master.country === '🇻🇳' ? "Vietnam" : "Korea" }</span></td>
+                  <td><div title={ master.teachers.length > 1 ? master.teachers?.slice(1)?.join(', ') : "" }>{ master.teachers[0] }</div></td>
+                  <td><div title={ master.disciples.length > 1 ? master.disciples?.slice(1)?.join(', ') : "" }>{ master.disciples[0] }</div></td>
+                  <td>{ master.place }</td>
+                  <td>{ master.reference?.join(', ') }</td>
+              </tr>
+            )
+          }
+          </tbody>
+        </table>
+      </div>
+
+      <div class="grid-container">
+        {
+          mastersDb.map((master) => <div class="grid-item">
+              <div class="grid-top">
+                <div><a href="#" class="grid-a">{ master.name_en }</a></div>
+                <div class="grid-date">{ !master.birth_death_time?.every(day => day === '') ? master.birth_death_time.join(' - 🔥 ') : master.epoch ? master.epoch : '' }</div>
+                {
+                  master.sect.length === 1
+                    ? <div><span class={ master.sect[0] === 'Linji'
+                      ? "linji-tag"
+                      : master.sect[0] === 'Caodong'
+                        ? "caodong-tag"
+                        : master.sect[0] === 'Guiyang'
+                          ? "guiyan-tag"
+                          : master.sect[0] === 'Yunmen'
+                            ? "yunmen-tag"
+                            : master.sect[0] === 'Fayan'
+                              ? "fayan-tag" : ""
+                    }>{ master.sect[0] }</span></div>
+                    : master.sect.length > 1
+                      ? master.sect.map(school => <div><span class={ master.sect[0] === 'Linji'
+                        ? "linji-tag"
+                        : master.sect[0] === 'Caodong'
+                          ? "caodong-tag"
+                          : master.sect[0] === 'Guiyang'
+                            ? "guiyan-tag"
+                            : master.sect[0] === 'Yunmen'
+                              ? "yunmen-tag"
+                              : master.sect[0] === 'Fayan'
+                                ? "fayan-tag" : ""
+                      }>{school}</span></div>)
+                      : ''
+                }
+                <div><span class={ master.country === '🇮🇳'
+                  ? "india-tag"
+                  : master.country === '🇨🇳'
+                    ? "china-tag"
+                    : master.country === '🇯🇵'
+                      ? "japan-tag"
+                      : master.country === '🇻🇳'
+                        ? "vietnam-tag"
+                        : "korea-tag" }
+                >{ master.country === '🇮🇳'? "India" : master.country === '🇨🇳' ? "China" : master.country === '🇯🇵' ? "Japan" : master.country === '🇻🇳' ? "Vietnam" : "Korea" }</span></div>
+              </div>
+              {
+                master.teachers.length === 1
+                  ? <div class="grid-desc">👨‍🏫 { master.teachers[0] }</div>
+                  : master.teachers.length > 1
+                    ? master.teachers.map(teacher => <div class="grid-desc">‍🏫 {teacher + ', '}</div>)
+                    : ''
+              }
+              {
+                master.disciples.length === 1
+                  ? <div class="grid-desc">👨‍🎓 { master.disciples[0] }</div>
+                  : master.disciples.length > 1
+                    ? master.disciples.map(disciple => <div class="grid-desc">👨‍🎓 {disciple + ', '}</div>)
+                    : ''
+              }
+              { master.place !== '-' ? <div class="grid-price">🏔⛩ { master.place }</div> : '' }
+            </div>
+          )
+        }
+      </div>
+    </div>
+  </body>
+</html>
 
 <script is:inline>
   document.addEventListener('DOMContentLoaded', () => {
@@ -58,18 +228,20 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
       gridItems[index]?.classList.add('highlight');
     }
 
-    // Filter orders by status
+    // Filter orders by tag
     document.querySelectorAll('.filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
-        const status = btn.getAttribute('data-status');
-        filterByStatus(status);
+        const tag = btn.getAttribute('data-tag');
+        filterByTag(tag);
       });
     });
 
-    function filterByStatus(status) {
+    function filterByTag(tag) {
       tableRows.forEach((row, index) => {
-        const rowStatus = row.querySelector('span').textContent.toLowerCase();
-        if (status === 'all' || rowStatus === status) {
+        const rowTag = row.querySelector('span').textContent.toLowerCase();
+        console.log('rowTag', row.querySelector('span').textContent)
+        console.log('tag', tag)
+        if (tag === 'all' || rowTag.includes(tag)) {
           row.style.display = '';
           gridItems[index].style.display = '';
         } else {
@@ -81,23 +253,23 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
 
     /// Sort orders by date
     document.querySelector('.sort-btn').addEventListener('click', () => {
-      sortByDate();
+      sortByName();
     });
 
-    function sortByDate() {
+    function sortByName() {
       const rowsArray = Array.from(tableRows);
       const itemsArray = Array.from(gridItems);
 
       rowsArray.sort((a, b) => {
-        const dateA = new Date(a.children[3].textContent);
-        const dateB = new Date(b.children[3].textContent);
-        return dateA - dateB;
+        const textA = a.children[3].textContent;
+        const textB = b.children[3].textContent;
+        return textA - textB;
       });
 
       itemsArray.sort((a, b) => {
-        const dateA = new Date(a.querySelector('.grid-date').textContent);
-        const dateB = new Date(b.querySelector('.grid-date').textContent);
-        return dateA - dateB;
+        const textA = a.querySelector('.grid-date').textContent;
+        const textB = b.querySelector('.grid-date').textContent;
+        return textA - textB;
       });
 
       const tableBody = document.querySelector('.table tbody');
@@ -112,10 +284,10 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
     // Search orders by details
     document.querySelector('.search-input').addEventListener('input', (event) => {
       const query = event.target.value.toLowerCase();
-      searchOrders(query);
+      searchMaster(query);
     });
 
-    function searchOrders(query) {
+    function searchMaster(query) {
       tableRows.forEach((row, index) => {
         const details = row.querySelector('td:nth-child(2)').textContent.toLowerCase();
         if (details.includes(query)) {
@@ -129,365 +301,3 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
     }
   });
 </script>
-
-<html lang="en">
-  <body>
-    <div class="container">
-
-      <div class="controls">
-        <button class="filter-btn" data-status="all">All</button>
-        <button class="filter-btn" data-status="cancelled">India</button>
-        <button class="filter-btn" data-status="shipped">🇨🇳</button>
-        <button class="filter-btn" data-status="delivered">Japan</button>
-        <button class="filter-btn" data-status="cancelled">Linji</button>
-        <button class="filter-btn" data-status="shipped">Guiyang</button>
-        <button class="filter-btn" data-status="delivered">Yunmen</button>
-        <button class="filter-btn" data-status="delivered">Caodong</button>
-        <button class="filter-btn" data-status="delivered">Fayan</button>
-        <button class="filter-btn" data-status="delivered">No school</button>
-        <button class="sort-btn">Sort by Date</button>
-        <input type="text" class="search-input" placeholder="Search orders...">
-      </div>
-
-      <div class="table-container">
-        <table class="table">
-          <thead class="table-header">
-            <tr class="table-header-row">
-              <th class="key-heading">ID</th>
-              <th class="details-heading">English Name</th>
-              <th class="details-heading">Japanese Name</th>
-              <th class="details-heading">Chinese Name</th>
-              <th class="details-heading">Vietnamese Name</th>
-              <th class="date-heading">Birth - Death</th>
-              <th class="status-heading">Sect</th>
-              <th class="status-heading">Country</th>
-              <th class="details-heading">Teachers</th>
-              <th class="details-heading">Disciples</th>
-              <th class="price-heading">Place</th>
-              <th class="details-heading">References</th>
-            </tr>
-          </thead>
-
-          <tbody>
-          {
-            mastersDb.map((master) =>
-              <tr>
-                  <td>{ master.id }</td>
-                  <td>
-                    {
-                      master.hasContent
-                        ? <a
-                            target="_blank"
-                            href={"/masters/" + formatUrl(removeTextBetweenParentheses(master.name_en.toLowerCase()))}
-                            title={ master.hasContent ? "read more" : master.other_name_en ? master.other_name_en : "" }
-                            class="text-blue-700"
-                          >
-                            { master.name_en }
-                          </a>
-                        : <span title={ master.other_name_en ? master.other_name_en : "" }>{ master.name_en }</span>
-                    }
-                  </td>
-                  <td><span title={ master.other_name_ja ? master.other_name_ja : "" }>{ master.name_ja }</span></td>
-                  <td><span title={ master.other_name_zh ? master.other_name_zh : "" }>{ master.name_zh }</span></td>
-                  <td><span title={ master.other_name_vi ? master.other_name_vi : "" }>{ master.name_vi }</span></td>
-                  <td class="border-t-0 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap">
-                    <div class="flex items-center">
-                      <span class="mr-1">{ master.birth_death_time[0] }</span>
-                      <span class="mr-1">{ master.birth_death_time[0] && master.birth_death_time[1] ? '⇨' : '' }</span>
-                      <span class="mr-1">{ master.birth_death_time[1] }</span>
-                      { master.birth_death_time.length ? '' : master.epoch }
-                    </div>
-                  </td>
-                  <td><span class="shipped-status">{ master.sect?.join(', ') }</span></td>
-                  <td><span class="cancelled-status">{ master.country }</span></td>
-                  <td><span title={ master.teachers.length > 1 ? master.teachers?.slice(1)?.join(', ') : "" }>{ master.teachers[0] }</span></td>
-                  <td><span title={ master.disciples.length > 1 ? master.disciples?.slice(1)?.join(', ') : "" }>{ master.disciples[0] }</span></td>
-                  <td>{ master.place }</td>
-                  <td>{ master.reference?.join(', ') }</td>
-              </tr>
-            )
-          }
-          </tbody>
-        </table>
-      </div>
-
-      <div class="grid-container">
-        {
-          mastersDb.map((master) => <div class="grid-item">
-              <div class="grid-top">
-                <div><a href="#" class="grid-a">{ master.name_en }</a></div>
-                <div class="grid-date">{ !master.birth_death_time?.every(day => day === '') ? master.birth_death_time.join(' - 🔥 ') : master.epoch ? master.epoch : '' }</div>
-                {
-                  master.sect.length === 1
-                    ? <div><span class="cancelled-status">{ master.sect[0] }</span></div>
-                    : master.sect.length > 1
-                      ? master.sect.map(school => <div><span class="cancelled-status">{school}</span></div>)
-                      : ''
-                }
-                <div><span class="delivered-status">{ master.country }</span></div>
-              </div>
-              {
-                master.teachers.length === 1
-                  ? <div><span class="grid-desc">👨‍🏫 { master.teachers[0] }</span></div>
-                  : master.teachers.length > 1
-                    ? <div>{master.teachers.map(teacher => <span class="grid-desc">‍🏫 {teacher + ', '}</span>)}</div>
-                    : ''
-              }
-              {
-                master.disciples.length === 1
-                  ? <div><span class="grid-desc">👨‍🎓 { master.disciples[0] }</span></div>
-                  : master.disciples.length > 1
-                    ? <div>{master.disciples.map(disciple => <span class="grid-desc">👨‍🎓 {disciple + ', '}</span>)}</div>
-                    : ''
-              }
-              { master.place !== '-' ? <div class="grid-price">🏔⛩ { master.place }</div> : '' }
-            </div>
-          )
-        }
-      </div>
-    </div>
-  </body>
-</html>
-
-<style lang="scss">
-  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
-
-  /* Remove this to use full screen width */
-  body{
-    font-family: 'Poppins', sans-serif;
-  }
-
-  .container{
-    display: block;
-    padding-top: 24px;
-    background-color: #edf2f7;
-  }
-
-  h1{
-    font-size: 1.25rem;
-    margin-bottom: 0.5rem;
-  }
-
-  .table-container{
-    overflow: auto;
-    border-radius: .8rem;
-    box-shadow: 0 0 0.5rem rgba(39, 38, 38, 0.1);
-    display: none;
-  }
-
-  @media (min-width: 768px) {
-    .table-container {
-      display: block;
-    }
-  }
-
-
-  table {
-    width: 100%;
-  }
-
-  .table-header{
-    background-color: #f9fafb;
-    border-bottom-width: 0.125rem;
-    border-color: #edf2f7;
-  }
-
-  .table-header-row{
-    background-color: #ff4b4b;
-    border-bottom-width: 0.125rem;
-    border-color: #edf2f7;
-  }
-
-  .key-heading{
-    width: 3.75rem;
-    padding: 0.75rem;
-    font-size: 0.875rem;
-    font-weight: 600;
-    letter-spacing: 0.025em;
-    text-align: left;
-  }
-
-  .details-heading{
-    padding: 0.75rem;
-    font-size: 0.875rem;
-    font-weight: 600;
-    letter-spacing: 0.025em;
-    text-align: left;
-  }
-
-  .status-heading{
-    width: 6rem;
-    padding: 0.75rem;
-    font-size: 0.875rem;
-    font-weight: 600;
-    letter-spacing: 0.025em;
-    text-align: left;
-  }
-
-  .date-heading{
-    /* padding: 1.5rem;  */
-    padding: 0.75rem;
-    font-size: 0.875rem;
-    font-weight: 600;
-    letter-spacing: 0.025em;
-    text-align: left;
-  }
-
-  .price-heading{
-    /* padding: 2rem;  */
-    padding: 0.75rem;
-    font-size: 0.875rem;
-    font-weight: 600;
-    letter-spacing: 0.025em;
-    text-align: left;
-  }
-
-  tbody{
-    border-color: #edf2f7;
-  }
-
-  tr{
-    background-color: #ffffff;
-  }
-
-  .tr-even{
-    background-color: #f9fafb;
-  }
-
-  td{
-    padding: 0.75rem;
-    font-size: 0.875rem;
-    color: #4a5568;
-    white-space: nowrap;
-  }
-
-  a{
-    font-weight: 600;
-    color: #212121;
-    text-decoration: none;
-  }
-
-  a:hover{
-    text-decoration: underline;
-  }
-
-  .cancelled-status{
-    padding: 0.375rem;
-    font-size: 0.625rem;
-    font-weight: 500;
-    letter-spacing: 0.05em;
-    color: #4b5563;
-    background-color: rgba(155, 160, 166, 0.5);
-    border-radius: 0.25rem;
-    opacity: 0.5;
-  }
-
-  .shipped-status{
-    padding: 0.375rem;
-    font-size: 0.625rem;
-    font-weight: 500;
-    letter-spacing: 0.05em;
-    color: #2b3137;
-    background-color: rgba(252, 211, 77, 0.5);
-    border-radius: 0.25rem;
-    opacity: 0.5;
-  }
-
-  .delivered-status{
-    padding: 0.375rem;
-    font-size: 0.625rem;
-    font-weight: 500;
-    letter-spacing: 0.05em;
-    color: #234d20;
-    /* color: #16D022; */
-    background-color: rgba(60, 191, 97, 0.5);
-    /* background-color: rgba(22, 208, 34, 1); */
-    border-radius: 0.25rem;
-    opacity: 0.5;
-  }
-
-  .grid-container{
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 1rem;
-    display: none;
-  }
-
-  @media (max-width: 768px) {
-    .grid-container {
-      display: block;
-    }
-  }
-
-  .grid-item{
-    background-color: #ffffff;
-    padding: 1rem;
-    border-radius: 0.5rem;
-    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
-    margin-bottom: 1rem;
-  }
-
-  .grid-top{
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-size: 0.875rem;
-    color: #374151;
-    margin-bottom: .5rem;
-  }
-
-  .grid-date{
-    color: #9ca3af;
-  }
-
-  .grid-desc{
-    font-size: 0.875rem;
-    color: #4b5563;
-    margin-bottom: .5rem;
-  }
-
-  .grid-price{
-    font-size: 0.875rem;
-    font-weight: 500;
-    color: #000000;
-  }
-
-  .grid-a{
-    font-weight: 600;
-    color: #ff4b4b;
-    text-decoration: none;
-  }
-
-  .highlight {
-    background-color: #f0f0f0;
-  }
-
-  .controls {
-    margin-bottom: 1em;
-    display: none;
-  }
-
-  @media (min-width: 768px) {
-    .controls {
-      display: block;
-    }
-  }
-
-
-  .filter-btn, .sort-btn, .search-input {
-    margin-right: 1em;
-    padding: 0.5em 1em;
-    cursor: pointer;
-    font-weight: 600;
-    color: #212121;
-    text-decoration: none;
-    border-radius: .5rem;
-    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
-    border-color: #edf2f7;
-    font-family: "Poppins", sans-serif;
-  }
-
-  .sort-btn {
-    background-color: #c7f8db;
-  }
-</style>
