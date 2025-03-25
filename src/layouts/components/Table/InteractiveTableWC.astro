@@ -4,7 +4,8 @@ import Tooltip from "../Tooltip.astro";
 import "../../../styles/additional/InteractiveTableWC.scss";
 
 const { mastersDb, lang } = Astro.props;
-const uniqueMastersDb = [...new Map(mastersDb.map(item => [item.id, item])).values()];
+const uniqueMastersDb = [...new Map(mastersDb.map((item: any) => [item.id, item])).values()];
+const parsedLang = !lang || lang === 'vi' ? '' : lang;
 const formatUrl = (url: String) => url.replace(/%20| /g, '-');
 const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g, '');
 ---
@@ -51,7 +52,7 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
 
           <tbody>
           {
-            uniqueMastersDb?.map((master) =>
+            uniqueMastersDb?.map((master: any) =>
               <tr>
                   <td>{ master.id }</td>
                   <td>
@@ -59,7 +60,7 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
                       master.hasContent
                         ? <a
                             target="_blank"
-                            href={"/masters/" + formatUrl(removeTextBetweenParentheses(master.name_en.toLowerCase()))}
+                            href={`${parsedLang}/masters/` + formatUrl(removeTextBetweenParentheses(master.name_en.toLowerCase()))}
                             title={ master.hasContent ? "read more" : master.other_name_en ? master.other_name_en : "" }
                             class="text-blue-700"
                           >
@@ -113,10 +114,10 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
 
       <div class="grid-container">
         {
-          mastersDb.map((master) => <div class="grid-item">
+          mastersDb.map((master: any) => <div class="grid-item">
               <div class="grid-top">
                 <div><a href="#" class="grid-a">{ master.name_en }</a></div>
-                <div class="grid-date">{ !master.birth_death_time?.every(day => day === '') ? master.birth_death_time.join(' - 🔥 ') : master.epoch ? master.epoch : '' }</div>
+                <div class="grid-date">{ !master.birth_death_time?.every((day: string) => day === '') ? master.birth_death_time.join(' - 🔥 ') : master.epoch ? master.epoch : '' }</div>
                 {
                   master.sect.length === 1
                     ? <div><span class={ master.sect[0] === 'Linji'
@@ -131,7 +132,7 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
                               ? "fayan-tag" : ""
                     }>{ master.sect[0] }</span></div>
                     : master.sect.length > 1
-                      ? master.sect.map(school => <div><span class={ master.sect[0] === 'Linji'
+                      ? master.sect.map((school: string) => <div><span class={ master.sect[0] === 'Linji'
                         ? "linji-tag"
                         : master.sect[0] === 'Caodong'
                           ? "caodong-tag"
@@ -159,14 +160,14 @@ const removeTextBetweenParentheses = (url: String) => url.replace(/\s*\(.*?\)/g,
                 master.teachers.length === 1
                   ? <span class="grid-desc">👨‍🏫 { master.teachers[0] }</span>
                   : master.teachers.length > 1
-                    ? master.teachers.map(teacher => <div class="grid-desc">‍🏫 {teacher + ', '}</div>)
+                    ? master.teachers.map((teacher: string) => <div class="grid-desc">‍🏫 {teacher + ', '}</div>)
                     : ''
               }
               {
                 master.disciples.length === 1
                   ? <span class="grid-desc">👨‍🎓 { master.disciples[0] }</span>
                   : master.disciples.length > 1
-                    ? master.disciples.map(disciple => <div class="grid-desc">👨‍🎓 {disciple + ', '}</div>)
+                    ? master.disciples.map((disciple: string) => <div class="grid-desc">👨‍🎓 {disciple + ', '}</div>)
                     : ''
               }
               { master.place !== '-' ? <div class="grid-price">🏔⛩ { master.place }</div> : '' }

@@ -70,7 +70,7 @@ const disabledLanguages = config.settings.disable_languages as string[];
 
 // Filter out disabled languages from supportedLang
 const filteredSupportedLang = supportedLang.filter(
-  (lang) =>!disabledLanguages.includes(lang),
+  (lang) => !disabledLanguages.includes(lang),
 );
 
 export { filteredSupportedLang as supportedLang };
@@ -83,13 +83,10 @@ export const slugSelector = (url: string, lang: string) => {
 
   // Determine the initial URL structure based on language
   if (url === "/") {
-    constructedUrl = lang === default_language? "/" : `/${lang}`;
+    constructedUrl = lang === default_language ? "/" : `/${lang}`;
   } else {
-    constructedUrl = getRelativeLocaleUrl(lang, url, {
-      normalizeLocale: false,
-    });
+    constructedUrl = getRelativeLocaleUrl(lang, url.split('/').filter(item => item !== lang).join('/'));
   }
-
   // Add language path if necessary
   if (lang === default_language && default_language_in_subdir) {
     constructedUrl = `/${lang}${constructedUrl}`;
@@ -104,10 +101,11 @@ export const slugSelector = (url: string, lang: string) => {
       constructedUrl += "/";
     }
   } else {
-    if (constructedUrl.endsWith("/") && constructedUrl!== "/") {
+    if (constructedUrl.endsWith("/") && constructedUrl !== "/") {
       constructedUrl = constructedUrl.slice(0, -1);
     }
   }
+  console.log('return constructedUrl', constructedUrl)
 
   return constructedUrl;
 };

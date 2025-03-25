@@ -9,18 +9,18 @@
     "languageName": "\uD83C\uDDEF\uD83C\uDDF5 Japanese",
     "languageCode": "ja",
     "contentDir": "ja",
-    "weight": 4
+    "weight": 2
   },
   {
     "languageName": "\uD83C\uDDE8\uD83C\uDDF3 Chinese",
     "languageCode": "zh",
     "contentDir": "zh",
-    "weight": 7
+    "weight": 3
   },
   {
     "languageName": "\uD83C\uDDFB\uD83C\uDDF3 Vietnamese",
     "languageCode": "vi",
     "contentDir": "vi",
-    "weight": 8
+    "weight": 4
   }
 ]

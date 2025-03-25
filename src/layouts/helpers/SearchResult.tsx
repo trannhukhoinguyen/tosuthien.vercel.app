@@ -76,7 +76,7 @@ const SearchResult = ({
 
   // match marker
   const matchMarker = (text: string, substring: string) => {
-    const parts = text.split(new RegExp(`(${substring})`, "gi"));
+    const parts = text.split(new RegExp(`(${ substring })`, "gi"));
     return parts.map((part, index) =>
       part.toLowerCase() === substring.toLowerCase() ? (
         <mark key={index}>{part}</mark>
@@ -89,11 +89,11 @@ const SearchResult = ({
 
   // match underline
   const matchUnderline = (text: string, substring: string) => {
-    const parts = text?.split(new RegExp(`(${substring})`, "gi"));
+    const parts = text?.split(new RegExp(`(${ substring })`, "gi"));
     return parts?.map((part, index) =>
       part.toLowerCase() === substring.toLowerCase() ? (
         <span key={index} className="underline">
-          {part}
+          { part }
         </span>
       ) : (
         part
@@ -124,17 +124,17 @@ const SearchResult = ({
     );
     return (
       <>
-        {matchMarker(matches, substring)}
-        {matchesAfter}
+        { matchMarker(matches, substring) }
+        { matchesAfter }
       </>
     );
   };
 
   return (
     <div className="search-wrapper-body">
-      {searchString ? (
+      { searchString ? (
         <div className="search-result">
-          {finalResult.length > 0 ? (
+          { finalResult.length > 0 ? (
             finalResult.map((result) => (
               <div className="search-result-group" key={result.group}>
                 <p className="search-result-group-title">

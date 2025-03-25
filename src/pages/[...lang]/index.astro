@@ -46,10 +46,11 @@ const {
 <!--  <div style="display: flex; margin: 24px;">
     <img src="/images/huatous/before-parents-created-how-was-my-real-face.jpg" alt="huatou" />
   </div>-->
-  <h2 style="text-align: center"><span style="color: #f6e30c; text-shadow: 2px 2px 2px #7a6a03">✂</span> CỔ TÔN TÚC NGỮ LỤC🔥</h2>
   {
     (!lang || lang === 'vi') && speechDb?.filter(speech => speech.speechMain?.includes(' // '))?.length
-      ? <div class="long-main-container">
+      ?
+      <h2 style="text-align: center; line-height: 50px">🌈⚡️CỔ TÔN TÚC NGỮ LỤC⚡️<span style="display: inline-block; transform: scaleX(-1); padding: 16px;">🌈</span></h2>
+      <div class="long-main-container">
           <ul class="long-cards">
               {
                 speechDb
@@ -58,7 +59,7 @@ const {
                       <LongSpeechCard
                        authorTitle={speech.authorTitle}
 
-authorName={speech.authorName}
+                        authorName={speech.authorName}
                         authorImage={speech.authorImage}
                         authorLink={speech.authorLink}
                         speechMain={speech.speechMain}
