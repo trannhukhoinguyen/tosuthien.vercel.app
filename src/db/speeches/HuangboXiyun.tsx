@@ -278,21 +278,68 @@ const HuangboXiyun = [
       'Người thường cho là cảnh chướng ngại tâm, sự chướng ngại lý, cứ muốn tránh cảnh để an tâm, bỏ sự để lập lý, chẳng biết thực ra là tâm chướng ngại cảnh, lý chướng ngại sự. Hễ khiến tâm không thì cảnh tự không, hễ cho lý tịch thì sự tự tịch, chớ nên dụng tâm điên đảo vậy. ' +
       'Nhiều người thường chẳng chịu cho tâm không vì e sợ đọa nơi rỗng không, chẳng biết tự tâm vốn không *.Kẻ ngu trừ sự chẳng trừ tâm, người trí trừ tâm chẳng trừ sự. // ' +
     '\n' +
-      '' +
+      'Tâm của Bồ Tát như hư không, tất cả đều xả, làm nhiều phước đức đều chẳng tham nhiễm. Nhưng xả có ba bậc; thân tâm trong ngoài tất cả đều xả cũng như hư không không có lấy bỏ, rồi tùy nghi ứng vật, năng sở đều quên, ấy là đại xả; nếu một bên vừa hành đạo bố đức một bên vừa xả, chẳng có tâm hy vọng gì, ấy là trung xả; nếu rộng tu phước thiện, có sở hy vọng, nghe pháp biết vạn vật tánh không mới chẳng chấp trước, ấy là tiểu xả. Đại xả như đèn đuốc ở trước chẳng còn mê ngộ, trung xả như đèn đuốc ở một bên hoặc sáng hoặc tối, tiểu xả như đèn đuốc ở phía sau chẳng thấy hầm hố. Tâm Bồ Tát như hư không là tất cả đều xả. Tâm quá khứ bất khả đắc thì quá khứ xả, tâm hiện tại bất khả đắc thì hiện tại xả, tâm vị lai bất khả đắc thì vị lai xả, nên nói tam thế đều xả. // ' +
+      'Từ hồi Như Lai phó pháp cho Ca Diếp, lấy tâm ấn tâm, tâm tâm chẳng khác. Nếu ấn nơi không thì ấn chẳng thành văn, nếu ấn nơi vật thì ấn chẳng thành pháp, nên dùng tâm ấn tâm, tâm tâm chẳng khác. Năng ấn sở ấn đều khó khế hội nên kẻ đắc rất ít. Nhưng tâm tức là vô tâm, đắc tức là vô đắc. // ' +
+      'Phật có tam thân : Pháp thân nói về pháp hư thông (trống rỗng thông đạt) của tự tánh, Báo thân nói về tất cả pháp thanh tịnh, Hóa thân nói về pháp lục độ vạn hạnh. Pháp thân thuyết pháp chẳng thể dùng ngôn ngữ âm thanh văn tự hình tướng để cầu, vô sở thuyết vô sở chứng, tự tánh hư thông mà thôi, nên nói :"Vô pháp khả thuyết gọi là thuyết pháp". Báo thân, Hóa thân đều tùy cơ cảm ứng mà hiện, pháp sở thuyết cũng tùy theo căn cơ để giáo hóa chúng sanh, đều chẳng phải chân pháp nên nói :"Báo, Hóa chẳng phải chân Phật, cũng chẳng phải kẻ thuyết pháp". // ' +
     '\n' +
-      '' +
+      'Nếu là vô vật thì đâu cần chiếu soi. Ngươi chớ nên mở mắt mà nói sàm. Nếu sanh kiến giải cho là Phật thì bị Phật chướng, cho là chúng sanh thì bị chúng sanh chướng, cho là phàm là thánh, là tịnh là uế, đều thành chướng cả. Vì chướng tâm ngươi nên thành luân chuyển.\n' +
     '\n' +
-      '' +
+      'Mười phương chư Phật thật ra chẳng có một chút pháp để đắc, gọi là Vô-Thượng Bồ-Đề. Ấy chỉ là một tâm, thật chẳng tướng khác. Chẳng có thắng bại đối đãi, chẳng thắng nên chẳng có tướng Phật, chẳng bại nên chẳng có tướng chúng sanh. // ' +
     '\n' +
-      '' +
+      'Thực chẳng có gì để thấy. Tại sao? Vì vô biên thân Bồ Tát tức là Như Lai. Chỉ bảo ngươi chẳng cho là Phật kiến thì chẳng lọt vào Phật biên, chẳng cho là chúng sanh kiến thì chẳng lọt vào chúng sanh biên, chẳng cho là hữu kiến thì chẳng lọt vào hữu biên, chẳng cho là vô kiến thì chẳng lọt vào vô biên, chẳng cho là phàm kiến thì chẳng lọt vào phàm biên, chẳng cho là thánh kiến thì chẳng lọt vào thánh biên. Hễ dứt sạch tất cả tri kiến tức là vô biên thân vậy. Nếu có chỗ kiến tức là ngoại đạo vì ngoại đạo ham thích tri kiến. Bồ Tát ở nơi tri kiến mà chẳng động. // ' +
+      'Như Lai tức là các pháp như nghĩa, cho nên nói Di Lặc cũng là Như, thánh hiền cũng là như, như tức vô sanh, như tức vô diệt, như tức vô kiến, như tức vô văn. Đảnh tướng của Như Lai tức là viên kiến, cũng chẳng thật có viên kiến nên chẳng lọt viên biên, nên nói "thân Phật vô vi, chẳng đọa số lượng", tạm dùng hư không để thí dụ :"Viên (tròn) đồng thái hư chẳng thiếu chẳng dư". Hàng ngày vô sự, đối cảnh chớ nên phân biệt. Phân biệt liền lọt vào ý thức, trôi lăn trên biển ý thức thì chẳng thể chứng ngộ. // ' +
+      'Người học đạo chớ chấp tứ đại làm thân, tứ đại vô ngã, ngã cũng vô chủ, phải biết thân này vô ngã cũng vô chủ. Người học đạo chớ chấp ngũ uẩn làm tâm. Ngủ uẩn vô ngã cũng vô chủ. Phải biết tâm này vô ngã cũng vô chủ. Lục căn, lục trần, lục thức hòa hợp sanh diệt nghĩa cũng như thế. Vậy thập bát giới đã không thì tất cả đều không, chỉ có bản tâm trong sạch khắp nơi. // ' +
+      'Người học Bát Nhã chẳng thấy có một pháp để đắc. Chân thật duy nhất của tam thừa chẳng thể chứng đắc. Nếu nói ta năng chứng năng đắc đều là kẻ tăng thượng mạn. TRên hội Pháp Hoa quay đầu bỏ đi đều là bọn này vậy. Nên Phật nói :"Ta ở nơi Bồ Đề thực vô sở đắc, mặc khế mà thôi". // ' +
+      'Con người khi lâm chung hễ quán được ngũ uẩn giai không, tứ đại vô ngã, chân tâm vô thường, bất khứ bất lai, khi sanh tánh cũng chẳng đến, khi chết tánh cũng chẳng đi, trạm nhiên viên tịch,tâm cảnh nhất như, hễ được như thế ngay đó đốn ngộ, thì chẳng bị tam thế trói buộc, tức là người xuất thế gian vậy. Cần thiết là chớ nên có một hào ly xu hướng cũng như thấy tướng thiện, chư Phật đến rước và nhiều cảnh đẹp hiện tiền, cũng chẳng có ý đi theo, hoặc thấy những tướng hung ác cũng chẳng sanh tâm khiếp sợ. Hễ tự quên tâm, đồng nơi pháp giới, thì được tự tại, đây tức là tâm yếu. ' +
+      'Chỉ cần ngay đó đốn ngộ tự tâm vốn là Phật, chẳng có một pháp để đắc, chẳng có một hạnh để tu, ấy là Vô-Thượng-Đạo. // ' +
     '\n' +
-      '' +
+      'Nếu muốn trong ba vô số kiếp tu hành cầu chứng đắc thì dù trải qua hằng sa kiếp cũng chẳng đắc được. Nếu nói trong một sát na kiến tánh chứng đắc pháp thân cũng chỉ là lời nói cao tột của tam thừa. Tại sao vậy? Vì thấy có pháp thân để chứng đắc đều thuộc về pháp bất liễu nghĩa. Thiền Tông này truyền thừa từ xưa đến nay chưa từng bảo người cầu tri cầu giải. Nói hai chữ học đạo chỉ là lời phương tiện tiếp dẫn, thực ra đạo cũng chẳng thể học. Nếu còn ôm cái kiến giải học đạo lại thành mê đạo. Đạo chẳng phương sở gọi là tâm đại thừa. Tâm này chẳng ở trong, ngoài và chính giữa vì thực chẳng phương sở, nên chẳng thể chấp thành tri giải. Tri giải là chỗ tình lượng của ngươi. Nếu tình lượng đã sạch, tâm chẳng phương sở thì đạo này thiên chân vốn chẳng danh tự. // ' +
     '\n' +
-      '' +
+      'Trong tam thừa nói rõ ràng tâm phàm thánh là vọng, nay ông chẳng hiểu lại chấp thành có, chấp vọng là thật, há chẳng phải vọng ư! Vì vọng nên mê tâm. Ông hễ trừ bỏ thánh cảnh phàm tình thì ngoài tâm đâu còn Phật nào khác. Tổ Sư từ Ấn Độ đến chỉ thẳng tất cả mọi người đều là Phật. Nay ông chẳng biết, chấp phàm chấp thánh, đuổi theo cảnh bên ngoài, lại mê tự tâm, nên Tổ Sư nói với ông "tức tâm là Phật". ' +
+      'Sanh một niệm chấp thật liền đọa luân hồi. Pháp từ vô thủy chẳng khác hôm nay, vì chẳng có pháp khác biệt, nên gọi thành Đẳng Chánh Giác. // ' +
     '\n' +
-      '' +
+      'Khởi tâm trừ vọng cũng thành vọng. Vọng vốn chẳng gốc, chỉ vì phân biệt mới có. Ông hễ ở nơi hai chỗ phàm thánh tình chấp tẩy sạch tự nhiên chẳng vọng. Vậy còn muốn trừ nó để làm gì? ' +
+      'Nói tóm lại chẳng có chút gì để dựa, để chấp, gọi là ta xả bỏ hai tay (pháp tương đối), ắt sẽ đắc Phật. // ' +
     '\n' +
-      '',
+      'Nói Phật đại từ bi là: chẳng thấy có Phật để thành, gọi là Vô-Duyên-Từ, chẳng thấy có chúng sanh để độ, gọi là Đồng-Thể-Bi. Pháp của Phật thuyết vô thuyết vô thị (khai thị), kẻ nghe thuyết pháp vô văn vô đắc. Ví như người huyễn thuyết pháp cho người huyễn, vậy thì có pháp gì để thuyết, ai thuyết, ai nghe? ' +
+      'Ta nghe thiện tri thức khai thị, ngay đó ngộ được tâm từ bi này. Nếu ông khởi tâm động niệm muốn học kiến giải ấy là chẳng ngộ tự tâm, rốt cuộc vô ích.' +
+    '\n' +
+      'Thiện ác đều chẳng suy lường, ngay đó liền ra khỏi tam giới. Như Lai ra đời vì phá tam giới. Nếu chẳng tất cả tâm, tam giới cũng chẳng có. Ví như một vi trần đập phá thành trăm phần, chín mươi chín phần là không, một phần là có, thế thì đại thừa cũng chưa thể siêu thoát. Cả trăm phần đều không, đại thừa mới có thể siêu thoát. // ' +
+    '\n' +
+      'Tổ Sư trực chỉ bản tâm bản thể của tất cả chúng sanh vốn là Phật, chẳng nhờ tu thành, chẳng thuộc thứ lớp, chẳng phải minh ám. Vì chẳng phải minh nên nói vô minh, vì chẳng phải ám nên nói vô ám, cho nên kinh nói "Vô vô minh diệt vô vô minh tận" là vậy. Người vào cửa thiền tông ta cần nên để ý. Thấy được như thế gọi là thấy pháp. Vì thấy pháp nên gọi là Phật. Phật với pháp đều không, nên gọi là Tăng, cũng gọi Vô-Vi-Tăng, cũng gọi Nhất-Thể Tam-Bảo. // ' +
+    '\n' +
+      'Kẻ cầu pháp chẳng chấp cầu Phật, chẳng chấp cầu pháp, chẳng chấp cầu Tăng, ưng vô sở cầu. Vì chẳng chấp cầu Phật nên vô Phật, chẳng chấp cầu Pháp nên vô Pháp, chẳng chấp cầu Tăng nên vô Tăng. // ' +
+    '\n' +
+      'Nếu ngộ ý này mới gọi là kẻ xuất gia, mới là kẻ tu hành. Ông nếu chẳng tin hãy xem việc Thượng Tọa Minh đuổi theo Lục Tổ để đoạt y bát. ' +
+      'Lục Tổ hỏi: "Ngươi vì y đến hay vì pháp đến?" Minh nói :"Chẳng vì y đến, chỉ vì pháp đến". ' +
+      'Lục Tổ nói: Ngươi tạm nhiếp niệm, thiện ác đều chớ suy nghĩ. ' +
+      'Minh vâng lời. Lục Tổ hỏi liền: Chẳng nghĩ thiện chẳng nghĩ ác, ngay khi ấy thế nào là bổn lai diện mục của Thượng Tọa Minh? ' +
+      'Minh ngay đó hoát nhiên mặc khế, liền lễ bái rằng : Minh ở trong thiền hội Ngũ Tổ oan uổng dụng công ba mươi năm, hôm nay mới biết trước kia là sai. ' +
+      'Lục Tổ nói: Đúng thế! Khi ấy Minh mới biết "Tổ Sư trực chỉ nhân tâm kiến tánh thành Phật", chẳng ở nơi ngôn thuyết. ' +
+      'Cũng như A-Nan ba mươi năm làm thị giả của Phật, chỉ vì trí huệ đa văn, lại bị Phật quở rằng: "Ngươi ngàn ngày học huệ chẳng bằng một ngày tu đạo. ' +
+      'Nếu chẳng tu đạo, giọt nước cũng khó tiêu". // ' +
+    '\n' +
+      'Pháp chẳng thánh phàm, cũng chẳng không tịch. ' +
+      'Pháp vốn chẳng hữu chớ cho là vô, pháp vốn chẳng vô chớ cho là hữu, vì hữu với vô đều là tình chấp, cũng như huyễn hóa, nên kinh nói :"Kiến văn như huyễn hóa, tri giác là chúng sanh". ' +
+      'Trong cửa Tổ Sư chỉ cần ngưng cơ xảo, quên kiến giải, nên nói :"Phân biệt thì Ma Vương thịnh, quên cơ thì Phật đạo thành". // ' +
+    '\n' +
+      'Ngộ ở nơi tâm, chẳng dính dáng với lục độ vạn hạnh. Lục độ vạn hạnh thuộc bên việc giáo hóa độ sinh. ' +
+      'Những danh từ như Bồ Đề, Chân Như, Thực Tướng, Giải Thoát, Pháp Thân, cho đến Thập Địa, Tứ Quả, Thánh Vị... đều thuộc về phần hóa độ, chẳng phải tâm Phật. ' +
+      'Tâm tức là Phật nên trong tất cả các môn hóa độ thì Phật là bậc nhất. Nếu chẳng có những việc sanh tử, phiền nảo ... thì chẳng cần những pháp Bồ Đề, Giải Thoát. // ' +
+    '\n' +
+      'Vô tâm là đã hành đạo này rồi, còn nói chi được hay không được! Lại bỗng khởi nhất niệm liền thành cảnh, nếu vô nhất niệm tức là: ' +
+      'Cảnh mất tâm tự diệt ' +
+      'Còn gì để truy tìm. // ' +
+    '\n' +
+      'Suốt ngày ăn cơm chưa cắn một hạt gạo, suốt ngày đi đường chưa đạp một tấc đất, suốt ngày chẳng lìa tất cả việc mà chẳng bị các cảnh mê hoặc, lại thời thời niệm niệm chẳng chấp tất cả tướng, chẳng chấp không gian thời gian, quá khứ chẳng đi, hiện tại chẳng trụ, vị lai chẳng đến, như như bất động an nhiên tự tại, đang khi ấy vô các tướng nhân ngã, như thế mới gọi là người tự tại giải thoát. ' +
+      'Nỗ lực! Nỗ lực! Trong cửa này muôm ngàn ngươì chỉ được năm ba người. ' +
+      'Nếu không nỗ lực công phu thì có ngày phải chịu tai họa, nên nói: ' +
+      'Nỗ lực liễu ngộ ngay kiếp này ' +
+      'Khỏi chịu tai ương nhiêù kiếp sau. // ' +
+    '\n' +
+      'Chư Phật bản thể viên tròn, chẳng thể tăng giảm, chảy vào lục đạo mỗi mỗi đều tròn, ở trong muôn loài mọi mọi là Phật. ' +
+      'Ví như một cục thủy ngân phân tán nhiều nơi mỗi mỗi đều tròn, nếu chẳng phân tán chỉ là một cục. ' +
+      'Một này là tất cả, tất cả là một. Mỗi mỗi hình dạng dụ như nhà cửa, bỏ nhà thú vào nhà người, bỏ thân người sang thân trời, cho đến những nhà cửa Thanh-Văn, Duyên-Giác, Bồ-Tát với Phật, đều tại ông có lấy có bỏ nên mới có khác, bản nguyên tự tánh đâu thể có khác.',
     speechType: '',
   },
 ];
