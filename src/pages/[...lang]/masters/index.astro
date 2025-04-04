@@ -19,7 +19,7 @@ import {
 import PageHeader from "@/partials/PageHeader.astro";
 import type { ContentEntryMap } from "astro:content";
 import InteractiveTableWC from "../../../layouts/components/Table/InteractiveTableWC.astro";
-import PeriodicTable from "../../../layouts/components/Chart/PeriodicTable.astro";
+import MultiLineTable from "../../../layouts/components/Table/MultiLineTable.astro";
 
 
 export function getStaticPaths() {
@@ -53,10 +53,11 @@ const {
   <PageHeader title={"Zen Master"} />
 
   <div class="container">
-    <InteractiveTableWC mastersDb={AllMasters} lang={lang} />
+    <MultiLineTable mastersDb={AllMasters} />
   </div>
+
   <div class="container">
-    <PeriodicTable mastersDb={AllMasters} />
+    <InteractiveTableWC mastersDb={AllMasters} lang={lang} />
   </div>
 
 </Base>
