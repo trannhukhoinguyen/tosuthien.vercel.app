@@ -18,7 +18,7 @@
       "@/partials/*": ["./src/layouts/partials/*"],
       "@/lib/*": ["./src/lib/*"],
       "@/utils/*": ["./src/lib/utils/*"],
-      "@/Portfolio/*": ["./src/layouts/Portfolio/*"],
+      "@/portfolio/*": ["./src/layouts/portfolio/*"],
       "@/*": ["./src/*"]
     }
   },

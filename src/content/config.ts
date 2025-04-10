@@ -1,4 +1,5 @@
 import { defineCollection, z } from "astro:content";
+import { glob } from "astro/loaders";
 
 // Collection schema
 const conversationsCollection = defineCollection({
@@ -181,24 +182,6 @@ const faqHomeSchema = z.object({
 // faqHomes schema
 const faqHomesSchema = z.array(faqHomeSchema);
 
-const portfolios =  z.object({
-  title: z.string(),
-  description: z.string(),
-  heroImage: image(),
-  clients: z.array(z.string()),
-  location: z.string(),
-  images: z.array(
-    z.array(image()).refine((arr) => [1, 2, 3].includes(arr.length), {
-      message: "Each sub-array must contain 1, 2, or 3 items",
-    }),
-  ),
-  // Transform string to Date object
-  date: z.coerce.date(),
-  order: z.number(),
-  // will be excluded from build if draft is "true"
-  draft: z.boolean().optional(),
-}),;
-
 // Export collections
 export const collections = {
   blogs: blogsCollection,
@@ -215,5 +198,4 @@ export const collections = {
   content: contentCollection,
   huatous: huatousSchema,
   faqHomes: faqHomesSchema,
-  portfolios: portfolios,
 };

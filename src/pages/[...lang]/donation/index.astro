@@ -3,7 +3,6 @@ import Base from "@/layouts/Base.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import PageHeader from "@/partials/PageHeader.astro";
 import { getCollection } from "astro:content";
-
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
     params: { lang: lang || undefined },
@@ -12,7 +11,7 @@ export function getStaticPaths() {
 }
 
 const { page } = Astro.props;
-const portfolios = await getCollection("portfolios", ({ data }) => {
+const donations = await getCollection("donations", ({ data }) => {
   // filter out draft pages
   return data.draft !== true;
 });
@@ -27,7 +26,7 @@ const portfolios = await getCollection("portfolios", ({ data }) => {
   <PageHeader title={'Đóng góp'} />
   <section class="section-sm">
     <div class="container">
-      <PortfolioGrid portfolios={portfolios} />
+
     </div>
   </section>
 </Base>
