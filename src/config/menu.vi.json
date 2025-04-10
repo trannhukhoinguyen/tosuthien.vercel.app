@@ -38,6 +38,8 @@
       ]
     },
 
-    { "name": "Thiền viện", "url": "/monasteries" }
+    { "name": "Thiền viện", "url": "/monasteries" },
+
+    { "name": "\uD83C\uDF81", "url": "/donation" }
   ]
 }

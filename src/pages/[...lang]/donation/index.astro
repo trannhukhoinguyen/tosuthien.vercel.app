@@ -1,0 +1,35 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { supportedLang } from "@/lib/utils/languageParser";
+import PageHeader from "@/partials/PageHeader.astro";
+
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+const { page } = Astro.props;
+---
+
+<Base
+  title={'Đóng góp'}
+  meta_title={'Đóng góp'}
+  description={'Đóng góp'}
+  image={'/images/contributors/sample'}
+>
+  <PageHeader title={'Đóng góp'} />
+  <section class="section-sm">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="lg:col-10">
+          <div class="content">
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>

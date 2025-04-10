@@ -1,0 +1,27 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { supportedLang } from "../../../lib/utils/languageParser";
+import PageHeader from "../../../layouts/partials/PageHeader.astro";
+import DashBoard from "../../../modules/DashBoard.astro";
+
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+---
+
+<Base
+  title={'Danh sách đóng góp'}
+  meta_title={'Danh sách đóng góp'}
+  description={'Danh sách đóng góp'}
+  image={'/images/contributors/sample'}
+>
+  <PageHeader title={'Danh sách đóng góp'} />
+  <section class="section-sm">
+    <div class="container">
+      <DashBoard />
+    </div>
+  </section>
+</Base>
