@@ -1,8 +1,8 @@
 ---
 import Base from "@/layouts/Base.astro";
-import { getSinglePage } from "@/lib/contentParser.astro";
 import { supportedLang } from "@/lib/utils/languageParser";
 import PageHeader from "@/partials/PageHeader.astro";
+import { getCollection } from "astro:content";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -12,6 +12,10 @@ export function getStaticPaths() {
 }
 
 const { page } = Astro.props;
+const portfolios = await getCollection("portfolios", ({ data }) => {
+  // filter out draft pages
+  return data.draft !== true;
+});
 ---
 
 <Base
@@ -23,13 +27,7 @@ const { page } = Astro.props;
   <PageHeader title={'Đóng góp'} />
   <section class="section-sm">
     <div class="container">
-      <div class="row justify-center">
-        <div class="lg:col-10">
-          <div class="content">
-
-          </div>
-        </div>
-      </div>
+      <PortfolioGrid portfolios={portfolios} />
     </div>
   </section>
 </Base>

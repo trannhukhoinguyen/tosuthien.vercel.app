@@ -37,8 +37,7 @@ const postIndex = await getListPage(
   lang as keyof ContentEntryMap
 );
 const posts = await getSinglePage("masters", lang as keyof ContentEntryMap);
-console.log('posts', posts)
-console.log('postIndex', postIndex)
+
 const {
 
 } = await getTranslations(lang as keyof ContentEntryMap);

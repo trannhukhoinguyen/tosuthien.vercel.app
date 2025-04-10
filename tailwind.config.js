@@ -94,8 +94,5 @@ module.exports = {
         5: "3rem",
       },
     }),
-
-    require('flowbite/plugin'),
-    require('flowbite-typography'),
   ],
 };

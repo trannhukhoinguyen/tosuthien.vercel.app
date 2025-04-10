@@ -16,6 +16,9 @@
       "@/shortcodes/*": ["./src/layouts/shortcodes/*"],
       "@/helpers/*": ["./src/layouts/helpers/*"],
       "@/partials/*": ["./src/layouts/partials/*"],
+      "@/lib/*": ["./src/lib/*"],
+      "@/utils/*": ["./src/lib/utils/*"],
+      "@/Portfolio/*": ["./src/layouts/Portfolio/*"],
       "@/*": ["./src/*"]
     }
   },

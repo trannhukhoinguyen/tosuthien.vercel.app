@@ -48,7 +48,7 @@ const language = lang || getLangFromUrl(Astro.url);
 ---
 
 <!doctype html>
-<html lang={lang}>
+<html lang={lang} transition:animate="fade">
   <head>
     <!-- favicon -->
     <link rel="shortcut icon" href={config.site.favicon} />

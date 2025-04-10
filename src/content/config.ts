@@ -181,18 +181,23 @@ const faqHomeSchema = z.object({
 // faqHomes schema
 const faqHomesSchema = z.array(faqHomeSchema);
 
-// Call to Action schema
-const callToActionSchema = z.object({
-  enable: z.boolean(),
+const portfolios =  z.object({
   title: z.string(),
-  image: z.string(),
   description: z.string(),
-  button: z.object({
-    enable: z.boolean(),
-    label: z.string(),
-    link: z.string().url(),
-  }),
-});
+  heroImage: image(),
+  clients: z.array(z.string()),
+  location: z.string(),
+  images: z.array(
+    z.array(image()).refine((arr) => [1, 2, 3].includes(arr.length), {
+      message: "Each sub-array must contain 1, 2, or 3 items",
+    }),
+  ),
+  // Transform string to Date object
+  date: z.coerce.date(),
+  order: z.number(),
+  // will be excluded from build if draft is "true"
+  draft: z.boolean().optional(),
+}),;
 
 // Export collections
 export const collections = {
@@ -210,5 +215,5 @@ export const collections = {
   content: contentCollection,
   huatous: huatousSchema,
   faqHomes: faqHomesSchema,
-  callToAction: callToActionSchema,
+  portfolios: portfolios,
 };

@@ -53,10 +53,10 @@ const podcastData = mastersDb.map((master: any) => ({
   <div
     class="grid grid-cols-4 md:grid-cols-6 gap-2 md:gap-4 py-4 text-sm border-b border-neutral-200 dark:border-neutral-900 text-black dark:text-neutral-400 font-serif"
   >
-    <div class="">Epoch</div>
-    <div class="md:col-span-3">Name</div>
-    <div class="hidden md:block">Sect/School</div>
-    <div class="text-right hidden md:block text-neutral-500">Other Names</div>
+    <div class=""><b>Epoch</b></div>
+    <div class="md:col-span-3"><b>Name</b></div>
+    <div class="hidden md:block"><b>Sect/School</b></div>
+    <div class="text-right hidden md:block text-neutral-500"><b>Other Names</b></div>
   </div>
   <div class="project-list divide-y divide-neutral-200 dark:divide-neutral-900">
     <!-- Project rows -->
@@ -252,8 +252,6 @@ const podcastData = mastersDb.map((master: any) => ({
         setTimeout(() => {
           modal.classList.add("hidden");
         }, 300);
-
-        console.log('bbbbbbb')
       });
     });
     // Handle clicking outside modals
@@ -266,8 +264,6 @@ const podcastData = mastersDb.map((master: any) => ({
           setTimeout(() => {
             modal.classList.add("hidden");
           }, 300);
-
-          console.log('aaaaaaaa')
         }
       });
     });
