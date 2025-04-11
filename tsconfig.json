@@ -17,8 +17,6 @@
       "@/helpers/*": ["./src/layouts/helpers/*"],
       "@/partials/*": ["./src/layouts/partials/*"],
       "@/lib/*": ["./src/lib/*"],
-      "@/utils/*": ["./src/lib/utils/*"],
-      "@/portfolio/*": ["./src/layouts/portfolio/*"],
       "@/*": ["./src/*"]
     }
   },
