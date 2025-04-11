@@ -2156,15 +2156,16 @@ import MobileTeamAvatar from '../layouts/components/MobileTeamAvatar.astro';
                       <MobileTeamAvatar persons={contributorsDb} title={contributor.nickname} />
                     </td>
                     <td	class="p-4 text-sm font-normal text-gray-500 whitespace-nowrap dark:text-gray-400">
-                      Apr 23 ,2021
+                      {contributor.time}
                     </td>
                     <td	class="p-4 text-sm font-semibold text-gray-900 whitespace-nowrap dark:text-white">
-                      $2300
+                      {contributor.totalDonation}
                     </td>
                     <td	class="p-4 text-sm font-normal text-gray-500 whitespace-nowrap dark:text-gray-400">
-                      0047568936
+                      {contributor.description} {` - ${contributor.relatedOrganization}`} {` - ${contributor.place}`}
                     </td>
                     <td	class="inline-flex items-center p-4 space-x-2 text-sm font-normal text-gray-500 whitespace-nowrap dark:text-gray-400">
+                      {contributor.moneySource}
                       <!--BANK-->
                       <svg
                         class="w-7 h-7"
