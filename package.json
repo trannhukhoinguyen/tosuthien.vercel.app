@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "type": "module",
     "dev": "yarn generate-json && astro dev",
     "build": "yarn generate-json && astro build",
     "preview": "astro preview",
