@@ -326,7 +326,7 @@ const contributorsDb = [
   {
     id: 28,
     name: 'Hồ Quốc Cường',
-    nickname: '',
+    nickname: 'Tony',
     relatedOrganization: '',
     totalDonation: '******',
     moneySource: 'Bank',

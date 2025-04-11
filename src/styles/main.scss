@@ -1,18 +1,21 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@plugin "../tailwind-plugin/tw-theme";
+@plugin "../tailwind-plugin/tw-bs-grid";
+@plugin "@tailwindcss/forms";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@import "./safe.scss";
+@import "./utilities.scss";
 
 @layer base {
-  @import "base";
+  @import "./base.css";
 }
 
 @layer components {
-  @import "components";
-  @import "navigation";
-  @import "buttons";
-  @import "search";
-}
-
-@layer utilities {
-  @import "utilities";
+  @import "./components.scss";
+  @import "./navigation.scss";
+  @import "./buttons.scss";
+  @import "./search.scss";
 }
