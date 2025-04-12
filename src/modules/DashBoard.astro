@@ -11,7 +11,7 @@ const sortedContributorsDb = contributorsDb
 time: ctb.time.split(' ').join(' 🕛 '),
 }))
 .sort((a, b) => {
-  return new Date(a.time).getTime() - new Date(b.time).getTime();
+  return new Date(b.time).getTime() - new Date(a.time).getTime();
 });
 
 ---
@@ -37,7 +37,7 @@ time: ctb.time.split(' ').join(' 🕛 '),
 				<div
 					class="flex items-center justify-end flex-1 text-base font-medium text-green-500 dark:text-green-400"
 				>
-					🕛 14:36 (12/04/2025)
+					🕛 { new Date() }
 					<!--<svg
 						class="w-5 h-5"
 						fill="currentColor"
