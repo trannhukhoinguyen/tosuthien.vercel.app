@@ -285,7 +285,7 @@ const contributorsDb = [
     nickname: 'Wilson',
     relatedOrganization: 'Glodival',
     totalDonation: '******',
-    hiddenDonation: '39000',
+    hiddenDonation: '45000',
     moneySource: 'Cash 💵',
     description: '',
     place: '',
