@@ -1,8 +1,8 @@
 ---
-import Base from "../../../layouts/Base.astro";
-import { supportedLang } from "../../../lib/utils/languageParser";
-import PageHeader from "../../../layouts/partials/PageHeader.astro";
-import DashBoard from "../../../modules/DashBoard.astro";
+import Base from "../../layouts/Base.astro";
+import { supportedLang } from "../../lib/utils/languageParser";
+import PageHeader from "../../layouts/partials/PageHeader.astro";
+import DashBoard from "../../modules/DashBoard.astro";
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
