@@ -222,7 +222,7 @@ const contributorsDb = [
   },
   {
     id: 17,
-    name: 'Nguyễn Lê Minh Phương & Nguyễn Thanh Hải',
+    name: 'Minh Phương & Thanh Hải',
     nickname: 'Philis & HaiB',
     relatedOrganization: 'Glodival',
     totalDonation: '******',
