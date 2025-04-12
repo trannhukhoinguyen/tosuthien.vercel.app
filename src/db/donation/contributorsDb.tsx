@@ -183,7 +183,7 @@ const contributorsDb = [
   },
   {
     id: 14,
-    name: 'Phan Thị Kim Hoàng & Lê Anh Tú',
+    name: 'Phan Thị Kim Hoàng & LAT',
     nickname: '',
     relatedOrganization: 'former Open University',
     totalDonation: '******',
