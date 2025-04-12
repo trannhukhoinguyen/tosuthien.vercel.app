@@ -70,5 +70,8 @@ export default defineConfig({
       wrap: true,
     },
     extendDefaultPlugins: true,
+    alias: {
+      '@db': './src/db',
+    }
   },
 });

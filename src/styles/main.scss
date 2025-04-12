@@ -1,15 +1,15 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
-@import "./safe.scss";
-@import "./utilities.scss";
+@use "./safe.scss";
+@use "./utilities.scss";
 
 @layer base {
-  @import "./base.css";
+  @use "./base.css";
 }
 
 @layer components {
-  @import "./components.scss";
-  @import "./navigation.scss";
-  @import "./buttons.scss";
-  @import "./search.scss";
+  @use "./components.scss";
+  @use "./navigation.scss";
+  @use "./buttons.scss";
+  @use "./search.scss";
 }
