@@ -356,7 +356,7 @@ const contributorsDb = [
     nickname: 'Max',
     relatedOrganization: '',
     totalDonation: '******',
-    hiddenDonation: '5000',
+    hiddenDonation: '10000',
     moneySource: 'Bank',
     description: '',
     place: '',
