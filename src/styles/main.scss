@@ -1,13 +1,7 @@
 @use "./safe.scss";
 @use "./utilities.scss";
-
-@layer base {
-  @use "./base.scss"; // phải chắc chắn base.css được xử lý bởi Tailwind/PostCSS
-}
-
-@layer components {
-  @use "./components.scss";
-  @use "./navigation.scss";
-  @use "./buttons.scss";
-  @use "./search.scss";
-}
+@use "./base.scss";
+@use "./components.scss";
+@use "./navigation.scss";
+@use "./buttons.scss";
+@use "./search.scss";
