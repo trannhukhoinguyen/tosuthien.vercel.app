@@ -531,5 +531,19 @@ const contributorsDb = [
     avatar: '',
     status: 'Đã ghi nhận',
   },
+  {
+    id: 40,
+    name: 'Nguyễn Thị Quỳnh Nga',
+    nickname: 'Coca',
+    relatedOrganization: 'former Open University',
+    totalDonation: '******',
+    hiddenDonation: '100000',
+    moneySource: 'Bank',
+    description: '',
+    place: '',
+    time: '2025/04/12 🕛 13:25',
+    avatar: '',
+    status: 'Đã ghi nhận',
+  },
 ]
 export default contributorsDb
