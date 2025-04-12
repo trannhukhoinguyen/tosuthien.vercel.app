@@ -17,9 +17,11 @@ const sortedContributorsDb = contributorsDb.sort((a, b) => {
 				<div class="flex-shrink-0">
 					<span	class="text-xl font-bold leading-none text-gray-900 sm:text-2xl dark:text-white">
             {
-              contributorsDb.reduce((sum, item) => {
-                return sum + Number(item.hiddenDonation || 0);
-              }, 0)
+              Number(
+                  contributorsDb.reduce((sum, item) => {
+                  return sum + Number(item.hiddenDonation || 0);
+                }, 0)
+              ).toLocaleString('vi-VN')
             } VND <!--TỔNG ĐÓNG GÓP-->
           </span>
 					<h3 class="text-base font-light text-gray-500 dark:text-gray-400">
