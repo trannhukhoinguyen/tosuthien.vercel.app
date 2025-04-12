@@ -25,6 +25,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:25',
     avatar: './images/contributors/cheryx',
+    status: 'Đã ghi nhận',
   },
   {
     id: 3,
@@ -38,6 +39,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:47',
     avatar: './images/contributors/hanna',
+    status: 'Đã ghi nhận',
   },
   {
     id: 4,
@@ -64,6 +66,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 15:22',
     avatar: './images/contributors/lou',
+    status: 'Đã ghi nhận',
   },
   {
     id: 6,
@@ -77,6 +80,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 15:53',
     avatar: './images/contributors/bevis',
+    status: 'Đã ghi nhận',
   },
   {
     id: 7,
