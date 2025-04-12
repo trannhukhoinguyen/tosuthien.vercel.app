@@ -1,10 +1,8 @@
-@custom-variant dark (&:where(.dark, .dark *));
-
 @use "./safe.scss";
 @use "./utilities.scss";
 
 @layer base {
-  @use "./base.css";
+  @use "./base.css"; // phải chắc chắn base.css được xử lý bởi Tailwind/PostCSS
 }
 
 @layer components {

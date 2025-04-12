@@ -395,6 +395,29 @@ const contributorsDb = [
     time: '2025/04/09 14:10',
     avatar: '',
   },
-
+  {
+    id: 34,
+    name: 'Trần Lê Gia Linh',
+    nickname: 'Gloria',
+    relatedOrganization: '',
+    totalDonation: '******',
+    moneySource: 'MoMo',
+    description: '',
+    place: '',
+    time: '2025/04/12 08:42',
+    avatar: '',
+  },
+  {
+    id: 35,
+    name: 'Nguyễn Ngọc Vinh',
+    nickname: 'Leo',
+    relatedOrganization: '',
+    totalDonation: '******',
+    moneySource: 'MoMo',
+    description: '',
+    place: '',
+    time: '2025/04/12 09:00',
+    avatar: '',
+  },
 ]
 export default contributorsDb
