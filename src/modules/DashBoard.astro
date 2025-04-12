@@ -11,7 +11,11 @@ import MobileTeamAvatar from '../layouts/components/MobileTeamAvatar.astro';
 			<div class="flex items-center justify-between mb-4">
 				<div class="flex-shrink-0">
 					<span	class="text-xl font-bold leading-none text-gray-900 sm:text-2xl dark:text-white">
-            $45,385 <!--TỔNG ĐÓNG GÓP-->
+            {
+              contributorsDb.reduce((sum, item) => {
+                return sum + Number(item.hiddenDonation || 0);
+              }, 0)
+            } <!--TỔNG ĐÓNG GÓP-->
           </span>
 					<h3 class="text-base font-light text-gray-500 dark:text-gray-400">
 						Tổng đóng góp
@@ -45,13 +49,14 @@ import MobileTeamAvatar from '../layouts/components/MobileTeamAvatar.astro';
 		<div class="items-center justify-between lg:flex">
 			<div class="mb-4 lg:mb-0">
 				<h3 class="mb-2 text-xl font-bold text-gray-900 dark:text-white">
-					Transactions
-				</h3>
+          Danh sách Cúng dường
+        </h3>
 				<span class="text-base font-normal text-gray-500 dark:text-gray-400"
-					>This is a list of latest transactions</span
+					>Đây là danh sách cúng dường tính từ ngày 00:00 09/04/2025 đến 11:00 12/04/2025</span
 				>
 			</div>
-			<div class="items-center sm:flex">
+
+<!--			<div class="items-center sm:flex">
 				<div class="flex items-center">
 					<button
 						id="dropdownDefault"
@@ -75,7 +80,7 @@ import MobileTeamAvatar from '../layouts/components/MobileTeamAvatar.astro';
 								d="M19 9l-7 7-7-7"></path>
 						</svg>
 					</button>
-					<!-- Dropdown menu -->
+					&lt;!&ndash; Dropdown menu &ndash;&gt;
 					<div
 						id="dropdown"
 						class="z-10 hidden w-56 p-3 bg-white rounded-lg shadow dark:bg-gray-700"
@@ -210,7 +215,8 @@ import MobileTeamAvatar from '../layouts/components/MobileTeamAvatar.astro';
 						/>
 					</div>
 				</div>
-			</div>
+			</div>-->
+
 		</div>
 
 		<!-- Table -->
@@ -304,7 +310,7 @@ import MobileTeamAvatar from '../layouts/components/MobileTeamAvatar.astro';
                     </td>
                     <td class="p-4 whitespace-nowrap">
 										  <span class="bg-green-100 text-green-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-green-400 border border-green-100 dark:border-green-500">
-                        Completed
+                        {contributor.status}
                       </span>
                     </td>
                     <td	class="p-4 text-sm font-normal text-gray-500 whitespace-nowrap dark:text-gray-400">
@@ -319,7 +325,7 @@ import MobileTeamAvatar from '../layouts/components/MobileTeamAvatar.astro';
 			</div>
 		</div>
 		<!-- Card Footer -->
-		<div class="flex items-center justify-between pt-3 sm:pt-6">
+		<!--<div class="flex items-center justify-between pt-3 sm:pt-6">
 			<div>
 				<button
 					class="inline-flex items-center p-2 text-sm font-medium text-center text-gray-500 rounded-lg hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
@@ -338,7 +344,7 @@ import MobileTeamAvatar from '../layouts/components/MobileTeamAvatar.astro';
 							d="M19 9l-7 7-7-7"></path></svg
 					></button
 				>
-				<!-- Dropdown menu -->
+				&lt;!&ndash; Dropdown menu &ndash;&gt;
 				<div
 					class="z-50 hidden my-4 text-base list-none bg-white divide-y divide-gray-100 rounded shadow dark:bg-gray-700 dark:divide-gray-600"
 					id="transactions-dropdown"
@@ -417,7 +423,7 @@ import MobileTeamAvatar from '../layouts/components/MobileTeamAvatar.astro';
 					>
 				</a>
 			</div>
-		</div>
+		</div>-->
 	</div>
 </div>
 

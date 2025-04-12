@@ -11,6 +11,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/10 17:08',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 2,
@@ -89,6 +90,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:10',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 8,
@@ -102,6 +104,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:10',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 9,
@@ -115,6 +118,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:11',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 10,
@@ -128,6 +132,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:12',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 11,
@@ -141,6 +146,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:22',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 12,
@@ -154,6 +160,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:24',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 13,
@@ -167,6 +174,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:55',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 14,
@@ -180,6 +188,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 22:15',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 15,
@@ -193,6 +202,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/10 07:14',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 16,
@@ -206,6 +216,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/10 15:18',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 17,
@@ -219,6 +230,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/10 11:35',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 19,
@@ -232,6 +244,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/10 10:01',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 20,
@@ -245,6 +258,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/10 10:27',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 21,
@@ -258,6 +272,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/10 10:56',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 22,
@@ -271,6 +286,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/11 13:30',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 23,
@@ -284,6 +300,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:53',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 24,
@@ -297,6 +314,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:39',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 25,
@@ -310,6 +328,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/10 08:03',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 26,
@@ -323,6 +342,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 14:12',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 27,
@@ -336,6 +356,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 16:15',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 28,
@@ -349,6 +370,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 15:28',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 29,
@@ -362,6 +384,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 16:22',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 30,
@@ -375,6 +398,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 16:44',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 31,
@@ -388,6 +412,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 19:21',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 32,
@@ -401,6 +426,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 20:01',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 33,
@@ -414,6 +440,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/09 22:33',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 34,
@@ -427,6 +454,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/12 08:42',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 35,
@@ -440,6 +468,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/12 09:00',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 36,
@@ -453,6 +482,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/12 09:25',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
   {
     id: 37,
@@ -466,6 +496,7 @@ const contributorsDb = [
     place: '',
     time: '2025/04/12 10:22',
     avatar: '',
+    status: 'Đã ghi nhận',
   },
 ]
 export default contributorsDb
