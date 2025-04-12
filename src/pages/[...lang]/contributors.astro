@@ -21,7 +21,37 @@ export function getStaticPaths() {
   <PageHeader title={'Danh sách đóng góp'} />
   <section class="section-sm">
     <div class="container">
-      <DashBoard />
+
+<Tabs client:load>
+
+<Tab name="DANH SÁCH">
+
+#### DANH SÁCH CÚNG DƯỜNG
+
+<DashBoard />
+
+</Tab>
+
+<Tab name="HÌNH THIẾN VIỆN">
+
+#### HÌNH THIẾN VIỆN QUY SƠN
+
+<img src="/images/donation/guishan-zen-monastery/chanh_dien_1" />
+<hr/>
+<img src="/images/donation/guishan-zen-monastery/chanh_dien_2" />
+
+</Tab>
+
+<Tab name="TỔ SƯ THIỀN">
+
+#### PHÁP MÔN TỔ SƯ THIỀN
+
+
+
+</Tab>
+
+</Tabs>
+
     </div>
   </section>
 </Base>
