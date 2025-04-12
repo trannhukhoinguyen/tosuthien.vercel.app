@@ -99,7 +99,7 @@ const contributorsDb = [
   },
   {
     id: 8,
-    name: 'Phùng Văn Ý
+    name: 'Phùng Văn Ý',
     hiddenDonation: '5000',
     moneySource: 'MoMo',
     description: '',
