@@ -2,7 +2,7 @@
 @use "./utilities.scss";
 
 @layer base {
-  @use "./base.css"; // phải chắc chắn base.css được xử lý bởi Tailwind/PostCSS
+  @use "./base.scss"; // phải chắc chắn base.css được xử lý bởi Tailwind/PostCSS
 }
 
 @layer components {
