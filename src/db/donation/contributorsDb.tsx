@@ -556,5 +556,19 @@ const contributorsDb = [
     avatar: '',
     status: 'Đã ghi nhận',
   },
+  {
+    id: 42,
+    name: 'Trần Phương Nga',
+    nickname: 'Navy',
+    relatedOrganization: 'Glodival',
+    totalDonation: '******',
+    hiddenDonation: '5000',
+    moneySource: 'Momo',
+    description: '',
+    place: '',
+    time: '2025/04/12 12:15',
+    avatar: '',
+    status: 'Đã ghi nhận',
+  },
 ]
 export default contributorsDb
