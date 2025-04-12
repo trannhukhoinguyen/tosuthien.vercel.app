@@ -8,7 +8,7 @@ const sortedContributorsDb = contributorsDb
 .map(ctb => 
 ({
 ...ctb,
-time: ctb.time.split('-').join(' 🕛 '),
+time: ctb.time.split(' ').join(' 🕛 '),
 }))
 .sort((a, b) => {
   return new Date(b.time).getTime() - new Date(a.time).getTime();
