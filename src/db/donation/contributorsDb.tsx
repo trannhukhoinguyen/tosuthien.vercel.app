@@ -183,7 +183,7 @@ const contributorsDb = [
   },
   {
     id: 14,
-    name: 'Phan Thị Kim Hoàng & LAT',
+    name: 'Nhóm bạn Tom & Jerry',
     nickname: '',
     relatedOrganization: 'former Open University',
     totalDonation: '******',
