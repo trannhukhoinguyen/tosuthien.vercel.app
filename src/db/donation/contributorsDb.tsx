@@ -93,7 +93,7 @@ const contributorsDb = [
     moneySource: 'MoMo',
     description: '',
     place: '',
-    time: '2025/04/09 - 14:10',
+    time: '2025/04/09 14:10',
     avatar: '',
     status: 'Đã ghi nhận',
   },
