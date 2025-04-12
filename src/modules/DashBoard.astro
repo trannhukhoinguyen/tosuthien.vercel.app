@@ -3,14 +3,14 @@
 
 import contributorsDb from '../db/donation/contributorsDb';
 import MobileTeamAvatar from '../layouts/components/MobileTeamAvatar.astro';
-import dayjs from 'dayjs';
+<!--import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
 import timezone from 'dayjs/plugin/timezone';
 
 dayjs.extend(utc);
 dayjs.extend(timezone);
 
-const vietnamTime = dayjs().tz('Asia/Ho_Chi_Minh').format('DD/MM/YYYY HH:mm');
+const vietnamTime = dayjs().tz('Asia/Ho_Chi_Minh').format('DD/MM/YYYY HH:mm');-->
 
 const sortedContributorsDb = contributorsDb
 .sort((a, b) => {
@@ -72,9 +72,8 @@ time: ctb.time.split(' ').join(' 🕛 '),
 				<h3 class="mb-2 text-xl font-bold text-gray-900 dark:text-white">
           DANH SÁCH CÚNG DƯỜNG
         </h3>
-				<span class="text-base font-normal text-gray-500 dark:text-gray-400"
-					>(tính đến <b>{vietnamTime}</b>)</span
-				>
+			<!--	<span class="text-base font-normal text-gray-500 dark:text-gray-400"
+					>(tính đến <b>{vietnamTime}</b>)</span> -->
 			</div>
 
 <!--			<div class="items-center sm:flex">
