@@ -11,7 +11,7 @@ const sortedContributorsDb = contributorsDb
 time: ctb.time.split(' ').join(' 🕛 '),
 }))
 .sort((a, b) => {
-  return new Date(b.time).getTime() - new Date(a.time).getTime();
+  return new Date(a.time).getTime() - new Date(b.time).getTime();
 });
 
 ---
