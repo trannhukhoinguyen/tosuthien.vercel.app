@@ -3,8 +3,6 @@ import Base from "../../layouts/Base.astro";
 import { supportedLang } from "../../lib/utils/languageParser";
 import PageHeader from "../../layouts/partials/PageHeader.astro";
 import DashBoard from "../../modules/DashBoard.astro";
-import Tabs from '../layouts/shortcodes/Tabs.tsx';
-import Tab from '../layouts/shortcodes/Tab.tsx';
 
 export function getStaticPaths() {
   const paths = supportedLang.map((lang) => ({
@@ -26,36 +24,37 @@ export function getStaticPaths() {
 
 <!--<Tabs client:load>
 
-<Tab name="DANH SÁCH">
+  <Tab name="DANH SÁCH">
 
-#### DANH SÁCH CÚNG DƯỜNG
+  #### DANH SÁCH CÚNG DƯỜNG
 
-<DashBoard />
+  <DashBoard />
 
-</Tab>
+  </Tab>
 
-<Tab name="HÌNH THIẾN VIỆN">
+  <Tab name="HÌNH THIẾN VIỆN">
 
-#### HÌNH THIẾN VIỆN QUY SƠN
+  #### HÌNH THIẾN VIỆN QUY SƠN
 
-<img src="/images/donation/guishan-zen-monastery/chanh_dien_1" />
-![KHU CHÁNH ĐIỆN 1](/images/donation/guishan-zen-monastery/chanh_dien_1.jpg)
-<hr/>
-<img src="/images/donation/guishan-zen-monastery/chanh_dien_2" />
+  <img src="/images/donation/guishan-zen-monastery/chanh_dien_1" />
+  ![KHU CHÁNH ĐIỆN 1](/images/donation/guishan-zen-monastery/chanh_dien_1.jpg)
+  <hr/>
+  <img src="/images/donation/guishan-zen-monastery/chanh_dien_2" />
 
-![KHU CHÁNH ĐIỆN 2](/imagesdonation/guishan-zen-monastery/chanh_dien_1
-2)
-</Tab>
+  ![KHU CHÁNH ĐIỆN 2](/imagesdonation/guishan-zen-monastery/chanh_dien_1
+  2)
+  </Tab>
 
-<Tab name="TỔ SƯ THIỀN">
+  <Tab name="TỔ SƯ THIỀN">
 
-#### PHÁP MÔN TỔ SƯ THIỀN
+  #### PHÁP MÔN TỔ SƯ THIỀN
 
 
 
-</Tab>
+  </Tab>
 
 </Tabs>-->
+
 <DashBoard />
     </div>
   </section>

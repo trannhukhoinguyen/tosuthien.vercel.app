@@ -656,5 +656,19 @@ const contributorsDb = [
     avatar: '',
     status: 'Đã ghi nhận',
   },
+  {
+    id: 49,
+    name: '(Giấu tên)',
+    nickname: 'Dylan Lucasemwazi',
+    relatedOrganization: 'former Glodival',
+    totalDonation: '******',
+    hiddenDonation: '100000',
+    moneySource: 'Momo',
+    description: '',
+    place: '',
+    time: '2025/04/13 11:36',
+    avatar: '',
+    status: 'Đã ghi nhận',
+  },
 ]
 export default contributorsDb

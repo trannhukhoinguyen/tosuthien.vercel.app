@@ -55,7 +55,13 @@ strong {
 code {
   @apply after:border-none;
 }
+code {
+  @apply px-1 py-0.5 bg-gray-100 text-red-600 rounded dark:bg-gray-800 dark:text-pink-400;
+}
 
 blockquote > p {
   @apply my-0;
+}
+:focus-visible {
+  @apply outline-none ring-2 ring-primary;
 }

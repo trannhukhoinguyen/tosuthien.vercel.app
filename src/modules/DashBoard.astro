@@ -8,7 +8,7 @@ const sortedContributorsDb = contributorsDb
 .sort((a, b) => {
   return new Date(b.time).getTime() - new Date(a.time).getTime();
 })
-.map(ctb => 
+.map(ctb =>
 ({
 ...ctb,
 time: ctb.time.split(' ').join(' 🕛 '),
@@ -278,7 +278,7 @@ time: ctb.time.split(' ').join(' 🕛 '),
 										scope="col"
 										class="p-4 text-xs font-bold tracking-wider text-left text-gray-500 uppercase dark:text-white"
 									>
-										Phương thức thanh toán
+										Nguồn
 									</th>
 									<th
 										scope="col"
@@ -441,31 +441,3 @@ time: ctb.time.split(' ').join(' 🕛 '),
 		</div>-->
 	</div>
 </div>
-
-<style is:global>
-	/* chart styles */
-	.apexcharts-tooltip {
-		@apply bg-white dark:bg-gray-700 text-gray-500 dark:text-gray-400 border-0 rounded-lg shadow-lg !important;
-	}
-
-	.apexcharts-tooltip .apexcharts-tooltip-title {
-		@apply py-2 px-4 bg-gray-100 dark:bg-gray-600 border-b border-gray-200 dark:border-gray-500 !important;
-	}
-
-	.apexcharts-xaxistooltip {
-		@apply text-gray-500 border-0 bg-white dark:bg-gray-700 dark:text-gray-300 rounded-lg shadow-lg !important;
-	}
-
-	.apexcharts-tooltip .apexcharts-tooltip-text-y-value {
-		@apply dark:text-white;
-	}
-
-	.apexcharts-xaxistooltip-text {
-		@apply font-medium text-sm !important;
-	}
-
-	.apexcharts-xaxistooltip:before,
-	.apexcharts-xaxistooltip:after {
-		@apply border-0 !important;
-	}
-</style>
