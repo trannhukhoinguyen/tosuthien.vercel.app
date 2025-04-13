@@ -100,9 +100,11 @@ const contributorsDb = [
   {
     id: 8,
     name: 'Phùng Văn Ý',
+    relatedOrganization: 'Glodival',
+    totalDonation: '******',
     hiddenDonation: '5000',
     moneySource: 'MoMo',
-    description: '',
+    description: 'Glodival',
     place: '',
     time: '2025/04/09 14:10',
     avatar: '',
