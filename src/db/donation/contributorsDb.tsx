@@ -659,7 +659,7 @@ const contributorsDb = [
   },
   {
     id: 49,
-    name: '(Giấu tên)',
+    name: 'Huỳnh Ngọc Phục',
     nickname: '(Giấu tên)',
     relatedOrganization: 'former Glodival',
     totalDonation: '******',
