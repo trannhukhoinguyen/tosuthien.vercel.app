@@ -688,7 +688,7 @@ const contributorsDb = [
     id: 51,
     name: 'Lâm Thị Huyền Trân',
     nickname: 'Tamy',
-    relatedOrganization: 'former Glodival',
+    relatedOrganization: '---',
     totalDonation: '******',
     hiddenDonation: '10000',
     moneySource: 'Momo',
