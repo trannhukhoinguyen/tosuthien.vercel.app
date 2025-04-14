@@ -315,7 +315,7 @@ time: ctb.time.split(' ').join(' 🕛 '),
                       Cúng dường Thiền viện Quy Sơn
                     </td>
                     <td	class="inline-flex items-center p-4 space-x-2 text-sm font-normal text-gray-500 whitespace-nowrap dark:text-gray-400">
-                      {contributor.moneySource}
+                      {contributor.moneySource + ` ${contributor.moneySource === 'Cash' ? '💵' : contributor.moneySource === 'Bank' ? '💳' : ''}`}
                       <!--BANK-->
 
                       <!--MOMO-->
