@@ -2,7 +2,7 @@ const contributorsDb = [
   {
     id: 1,
     name: 'Nguyễn Tấn Đạt',
-    nickname: '',
+    nickname: 'Đạt MK11',
     relatedOrganization: 'former Open University',
     totalDonation: '******',
     hiddenDonation: '200000',
@@ -100,6 +100,7 @@ const contributorsDb = [
   {
     id: 8,
     name: 'Phùng Văn Ý',
+    nickname: 'Zany',
     relatedOrganization: 'Glodival',
     totalDonation: '******',
     hiddenDonation: '5000',
@@ -127,7 +128,7 @@ const contributorsDb = [
   {
     id: 10,
     name: 'Đặng Quang Dinh',
-    nickname: 'Kevin De Bruyne',
+    nickname: 'Kevin Dang',
     relatedOrganization: 'Glodival',
     totalDonation: '******',
     hiddenDonation: '5000',
@@ -155,7 +156,7 @@ const contributorsDb = [
   {
     id: 12,
     name: 'Trần Thị Ngọc Huyền',
-    nickname: 'Selena',
+    nickname: 'Selena Đồng Tháp',
     relatedOrganization: 'Glodival',
     totalDonation: '******',
     hiddenDonation: '5000',
@@ -183,7 +184,7 @@ const contributorsDb = [
   {
     id: 14,
     name: 'Nhóm bạn Tom & Jerry',
-    nickname: '',
+    nickname: 'Tom & Jerry',
     relatedOrganization: 'former Open University',
     totalDonation: '******',
     hiddenDonation: '5000',
@@ -239,7 +240,7 @@ const contributorsDb = [
   {
     id: 19,
     name: 'Nguyễn Thị Diễm Ái',
-    nickname: '',
+    nickname: 'Ái 12T',
     relatedOrganization: 'former TNH high school',
     totalDonation: '******',
     hiddenDonation: '5000',
@@ -267,7 +268,7 @@ const contributorsDb = [
   {
     id: 21,
     name: 'Nguyễn Đoàn Phương Anh',
-    nickname: '',
+    nickname: 'Phương Anh family',
     relatedOrganization: 'former Open University',
     totalDonation: '******',
     hiddenDonation: '50000',
@@ -589,7 +590,7 @@ const contributorsDb = [
   {
     id: 44,
     name: 'Đường Lệ Hoa',
-    nickname: '',
+    nickname: 'Chinese girl',
     relatedOrganization: 'former Open University',
     totalDonation: '******',
     hiddenDonation: '50000',
@@ -631,7 +632,7 @@ const contributorsDb = [
   {
     id: 47,
     name: 'Trần Hoàng Trọng',
-    nickname: '',
+    nickname: 'Trọng Trần',
     relatedOrganization: 'former Open University',
     totalDonation: '******',
     hiddenDonation: '200000',
@@ -658,8 +659,8 @@ const contributorsDb = [
   },
   {
     id: 49,
-    name: '(Giấu tên)',
-    nickname: 'Dylan Lucasemwazi',
+    name: 'Huỳnh Ngọc Phục',
+    nickname: '(Giấu tên)',
     relatedOrganization: 'former Glodival',
     totalDonation: '******',
     hiddenDonation: '100000',
@@ -687,7 +688,7 @@ const contributorsDb = [
   {
     id: 51,
     name: 'Lâm Thị Huyền Trân',
-    nickname: 'Tamy',
+    nickname: '(Giấu tên)',
     relatedOrganization: '---',
     totalDonation: '******',
     hiddenDonation: '10000',
