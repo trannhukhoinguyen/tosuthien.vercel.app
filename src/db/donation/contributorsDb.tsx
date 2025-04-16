@@ -698,5 +698,19 @@ const contributorsDb = [
     avatar: '',
     status: 'Đã ghi nhận',
   },
+  {
+    id: 51,
+    name: 'Trịnh Trần Thanh Vy',
+    nickname: 'Vie',
+    relatedOrganization: 'Glodival',
+    totalDonation: '******',
+    hiddenDonation: '5000',
+    moneySource: 'Momo',
+    description: '',
+    place: '',
+    time: '2025/04/16 07:51',
+    avatar: '',
+    status: 'Đã ghi nhận',
+  },
 ]
 export default contributorsDb
