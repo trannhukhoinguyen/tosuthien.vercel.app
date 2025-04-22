@@ -713,5 +713,19 @@ const contributorsDb = [
     avatar: '',
     status: 'Đã ghi nhận',
   },
+  {
+    id: 53,
+    name: 'Trần Nguyễn Ngọc Thúy',
+    nickname: 'Pineapple',
+    relatedOrganization: 'Glodival',
+    totalDonation: '******',
+    hiddenDonation: '5000',
+    moneySource: 'Momo',
+    description: '',
+    place: '',
+    time: '2025/04/22 16:00',
+    avatar: '',
+    status: 'Đã ghi nhận',
+  },
 ]
 export default contributorsDb
