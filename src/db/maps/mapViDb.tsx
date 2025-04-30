@@ -35,5 +35,17 @@ const mapViDb = [
     address: '14851 Wilson St, Midway City, California, US',
     description: '',
   },
+  {
+    id: 4,
+    key: 'quy-son',
+    cover: 'https://tosuthien.com/wp-content/uploads/2023/07/z4558674706121_a610ff83f6372a1e635392f5a92fb5f8-768x576.jpg',
+    title: 'THIỀN VIỆN QUY SƠN',
+    url: '/monasteries/quy-son',
+    mapCenter: [10.529760607905136, 107.10394666150845],
+    markerPosition: [10.529760607905136, 107.10394666150845],
+    zoomLevel: 15,
+    address: 'Hội Bài - Châu Pha, Xã Tân Hòa, Thị xã Phú Mỹ,Tỉnh Bà Rịa Vũng Tàu',
+    description: '',
+  },
 ]
 export default mapViDb;
