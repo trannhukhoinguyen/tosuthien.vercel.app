@@ -157,14 +157,14 @@ const mapViDb = [
   {
     id: 13,
     key: 'lien-huong',
-    cover: 'https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqIiqd6rrOIlFySarR0avydcgpHCjsUtQT6DUya4r7_OKHBy9Z3gJDWHxapXVuiaQtyHr20NbDcXxnXUL28pSaKe2j8Qj_KbbzqxyDie4SYREUMbs0L985dbYIAD99IlrJHeUs=s563-k-no',
+    cover: 'https://tosuthien.com/wp-content/uploads/2023/05/z4391886910767_a990d406fe40955293d849090db4f70b-600x450.jpg',
     title: 'CHÙA LIÊN HƯƠNG',
     url: '/monasteries/lien-huong',
     mapCenter: [10.548724277176671, 107.119484991595],
     markerPosition: [10.548724277176671, 107.119484991595],
     zoomLevel: 15,
     address: 'Ấp Tân hòa, xã An Hiệp, Châu Thành, Đồng Tháp, Việt Nam',
-    description: 'Trụ Trì: Hòa Thượng Thích Huệ Minh. Số Điện Thoại: 0377676990',
+    description: 'Trụ Trì: Hòa Thượng ...',
     source: 'https://tosuthien.com/2023/05/31/2618-2/',
   },
   {
@@ -222,7 +222,7 @@ const mapViDb = [
   {
     id: 18,
     key: 'la-huyen-trang',
-    cover: 'https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqIiqd6rrOIlFySarR0avydcgpHCjsUtQT6DUya4r7_OKHBy9Z3gJDWHxapXVuiaQtyHr20NbDcXxnXUL28pSaKe2j8Qj_KbbzqxyDie4SYREUMbs0L985dbYIAD99IlrJHeUs=s563-k-no',
+    cover: 'https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqjcTObTjkwuFIdBzLzv19lHpZhoMqFH0WUcXzRdpKrcLFkn3SJb_7QgZEVqD4myj7XcEI3syH2v4OjIbQiM2NSNf6yZBW-4gbkuUS50e5vKEvDd8oKrLvcB0Z4HPap_BUUocK3UQ=s635-k-no',
     title: 'CHÙA HUYỀN TRANG (CHÙA LÁ)',
     url: '/monasteries/la-huyen-trang',
     mapCenter: [10.687812954004425, 106.7389036730667],
