@@ -40,20 +40,22 @@
     "vite": "^6.3.3"
   },
   "devDependencies": {
-    "@tailwindcss/forms": "^0.5.7",
-    "@tailwindcss/typography": "^0.5.13",
     "@types/marked": "^5.0.2",
-    "@types/node": "22.0.0",
-    "@types/react": "18.3.3",
-    "@types/react-dom": "18.3.0",
     "autoprefixer": "^10.4.19",
-    "eslint": "^9.8.0",
-    "prettier": "^3.3.3",
-    "prettier-plugin-astro": "^0.14.1",
-    "prettier-plugin-tailwindcss": "^0.6.5",
     "sass": "^1.77.8",
-    "sharp": "0.33.4",
     "tailwind-bootstrap-grid": "^5.1.0",
-    "typescript": "5.5.4"
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.16",
+    "@tailwindcss/vite": "^4.1.4",
+    "@types/node": "22.15.3",
+    "@types/react": "19.1.2",
+    "@types/react-dom": "19.1.2",
+    "eslint": "^9.25.1",
+    "prettier": "^3.5.3",
+    "prettier-plugin-astro": "^0.14.1",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "sharp": "0.33.5",
+    "tailwindcss": "^4.1.4",
+    "typescript": "^5.8.3"
   }
 }
