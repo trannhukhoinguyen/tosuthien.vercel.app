@@ -2,7 +2,7 @@ const CnLv0MasterDb = [
   {
     id: '29',
     name_en: 'Dazu Huike',
-    name_ja: 'Eka',
+    name_ja: 'Taiso Eka',
     name_zh: '道育慧可',
     other_name_zh: '大祖慧可',
     name_vi: 'Huệ Khả',
@@ -23,7 +23,7 @@ const CnLv0MasterDb = [
   {
     id: '30.1',
     name_en: 'Jianzhi Sengcan',
-    name_ja: 'Sōsan',
+    name_ja: 'Kanchi Sōsan',
     name_zh: '鑑智僧璨',
     name_vi: 'Tăng Xán',
     nickname_vi: 'Tam Tổ',
@@ -96,7 +96,7 @@ const CnLv0MasterDb = [
   {
     id: '31.1',
     name_en: 'Dayi Daoxin',
-    name_ja: 'Dōshin',
+    name_ja: 'Daii Dōshin',
     name_zh: '道信',
     name_vi: 'Đạo Tín',
     nickname_vi: 'Tứ Tổ',
@@ -133,7 +133,8 @@ const CnLv0MasterDb = [
   {
     id: '32.1',
     name_en: 'Daman Hongren',
-    name_ja: 'Kōnin, Gunin',
+    name_ja: 'Daiman Konin',
+    other_name_ja: 'Gunin',
     name_zh: '弘忍',
     name_vi: 'Đại Mãn Hoằng Nhẫn',
     other_name_vi: 'Hoàng Mai',
