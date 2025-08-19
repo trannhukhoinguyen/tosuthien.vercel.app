@@ -26,7 +26,7 @@
       "url": "/media",
       "hasChildren": true,
       "children": [
-        { "name": "Books", "url": "/books" },
+        { "name": "Books", "url": "/book-shelf" },
         { "name": "PDF & MP3", "url": "/download" },
         { "name": "Youtube", "url": "/youtube" }
       ]

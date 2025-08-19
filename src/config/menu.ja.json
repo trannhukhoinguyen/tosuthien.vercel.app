@@ -25,7 +25,7 @@
       "url": "/media",
       "hasChildren": true,
       "children": [
-        { "name": "本", "url": "/books" },
+        { "name": "本", "url": "/book-shelf" },
         { "name": "PDF & MP3", "url": "/download" },
         { "name": "Youtube", "url": "/youtube" }
       ]

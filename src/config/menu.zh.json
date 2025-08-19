@@ -26,7 +26,7 @@
       "url": "/media",
       "hasChildren": true,
       "children": [
-        { "name": "图书", "url": "/books" },
+        { "name": "图书", "url": "/book-shelf" },
         { "name": "PDF & MP3", "url": "/download" },
         { "name": "Youtube", "url": "/youtube" }
       ]

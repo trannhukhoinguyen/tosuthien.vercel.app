@@ -32,7 +32,7 @@
       "url": "/media",
       "hasChildren": true,
       "children": [
-        { "name": "Tủ Sách", "url": "/books" },
+        { "name": "Tủ Sách", "url": "/book-shelf" },
         { "name": "PDF & MP3", "url": "/download" },
         { "name": "Youtube", "url": "/youtube" }
       ]
